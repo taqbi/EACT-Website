@@ -292,6 +292,8 @@ body, html {
 
 
 
+
+
 /* Grid Layout for Previous Year Papers Material, Study Material */
 .grid-container {
     display: grid;
@@ -356,6 +358,28 @@ body, html {
 
 @media (max-width: 480px) {
     .container-grid {
+        grid-template-columns: 1fr; /* 1 item per row for mobile devices */
+    }
+}
+
+
+
+
+/* Responsive Grid for Medium and Small Screens */
+@media (max-width: 1024px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr); /* 3 items per row for medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 items per row for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .grid-container {
         grid-template-columns: 1fr; /* 1 item per row for mobile devices */
     }
 }
