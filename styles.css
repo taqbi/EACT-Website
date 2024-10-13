@@ -28,7 +28,7 @@ body, html {
 
 .header-title {
     flex-grow: 1;
-    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .navbar {
@@ -46,6 +46,8 @@ body, html {
     text-decoration: none;
     padding: 10px 20px;
     transition: background-color 0.3s ease, transform 0.3s ease;
+    font-weight: bold; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .navbar a:hover {
@@ -96,6 +98,8 @@ body, html {
     color: white;
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
     border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 
@@ -134,6 +138,8 @@ body, html {
     color: white;
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
     border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -213,7 +219,7 @@ body, html {
 .video-item {
     background-color: #fff;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -222,6 +228,8 @@ body, html {
     background-color: #005b99;
     border-radius: 10px;
     align-content: center;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .video-item iframe {
@@ -244,6 +252,8 @@ body, html {
 .testimonial-grid h2 { 
     background-color: #005b99;
     color: white;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .testimonial-grid {
@@ -398,13 +408,15 @@ body, html {
 }
 
 .grid-item {
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     padding: 20px;
+    box-shadow: #000000;
     border-radius: 8px;
     text-align: center;
     transition: background-color 0.3s ease;
     margin-right: 8px; /* Adds spacing between the icon and text */
-    color: #007bff; /* Folder icon color */
+    color: #0058b5; /* Folder icon color */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .grid-item:hover {
