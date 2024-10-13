@@ -10,7 +10,7 @@ body, html {
 
 /* Header and Navbar */
 .header {
-    background-color: #0074cc;
+    background-color: #005b99;
     color: white;
     padding: 10px 0;
     display: flex;
@@ -34,7 +34,7 @@ body, html {
 .navbar {
     position: sticky;
     top: 0;
-    background-color: #0074cc;
+    background-color: #005b99;
     padding: 10px 0;
     display: flex;
     justify-content: space-around;
