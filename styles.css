@@ -232,9 +232,8 @@ body, html {
     margin-bottom: 10px;
     background-color: #005b99;
     color: white;
-    padding: 5px;  /* Optional: To make the content look better with rounded corners */
+    padding: 2px;  /* Optional: To make the content look better with rounded corners */
     border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
-    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .about-section p
