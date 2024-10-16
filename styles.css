@@ -6,6 +6,7 @@ body, html {
     overflow-x: hidden;  /* Prevents horizontal scroll due to overflow */
     font-family: 'Arial', sans-serif;
     background-color: #f9f9f9;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 
@@ -489,6 +490,23 @@ body, html {
         font-size: 20px;
     }
 }
+
+/* Add padding/margins for mobile screens */
+@media screen and (max-width: 768px) {
+    .video-grid, .testimonial-grid, .footer {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+}
+
+
+
+
 
 
 
