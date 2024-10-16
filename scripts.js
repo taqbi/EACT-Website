@@ -1,39 +1,42 @@
 document.addEventListener('DOMContentLoaded', function() {
 
-    var updateList = document.getElementById("update-list");
-    
-    // Fetch the XML file
-    fetch("updates.xml")
-        .then(response => response.text())
-        .then(data => {
-            var parser = new DOMParser();
-            var xmlDoc = parser.parseFromString(data, "application/xml");
-            
+    console.log("JS file is loaded and executed.");
+
+// Fetch and Display XML Updates
+function loadUpdates() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "updates.xml", true); // Path to the XML file
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            // Parse XML
+            var xmlDoc = xhr.responseXML;
             var updates = xmlDoc.getElementsByTagName("update");
+            var ul = document.getElementById("update-list");
             
-            // Loop through each update and add it to the list
+            // Clear previous list
+            ul.innerHTML = "";
+            
+            // Loop through the updates and append to the UL
             for (var i = 0; i < updates.length; i++) {
-                var update = updates[i];
-                var title = update.getElementsByTagName("title")[0].textContent;
-                var date = update.getElementsByTagName("date")[0].textContent;
-                var details = update.getElementsByTagName("details")[0].textContent;
-                
-                // Create list item
+                var text = updates[i].getElementsByTagName("text")[0].childNodes[0].nodeValue;
+                var url = updates[i].getElementsByTagName("url")[0].childNodes[0].nodeValue;
+
                 var li = document.createElement("li");
-                li.innerHTML = `<strong>${title}</strong> (${date}): ${details}`;
-                
-                // Append the item to the update list
-                updateList.appendChild(li);
+                var a = document.createElement("a");
+                a.href = url;
+                a.innerText = text;
+                li.appendChild(a);
+                ul.appendChild(li);
             }
-        })
-        .catch(error => console.error("Error loading the XML file: ", error));
+        } else if (xhr.readyState == 4 && xhr.status != 200) {
+            console.error("Failed to load XML: Status " + xhr.status);
+        }
+    };
+    xhr.send();
+}
+// Call the function when the page loads
 
-
-
-
-
-
-
+window.onload = loadUpdates;  
 
 
 
