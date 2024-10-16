@@ -267,18 +267,18 @@ body, html {
     height: 30%;
     border-radius: 30%;
     object-fit: contain;
-    margin-bottom: 3px; /* Space between image and title */
+    margin-bottom: 5px; /* Space between image and title */
 }
 
 .job-card h4 {
-    font-size: 18px;
-    margin-bottom: 10px;
+    font-size: 12px;
+    margin-bottom: 5px;
 }
 
 .job-card p {
     font-size: 10px;
     color: #555;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .job-card .apply-btn {
