@@ -63,6 +63,8 @@ window.onload = loadUpdates;
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data, "application/xml");
 
+
+
                 const section = document.getElementById(sectionId);
                 const grid = document.getElementById(gridId);
                 console.error(grid);
@@ -72,6 +74,8 @@ window.onload = loadUpdates;
                 }
 
                 const items = xmlDoc.getElementsByTagName("item");
+                console.log("Items read:");
+                console.log(items);
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
                     return;
@@ -118,10 +122,10 @@ window.onload = loadUpdates;
             })
             .catch(error => console.error("Error loading XML:", error));
     }
-    console.log("Before Courses Sesction");
+    console.log("Before Courses Section");
     // Check if the courses section exists and fetch content
     if (coursesSection) {
-        console.log("Inside Courses Sesction");
+        console.log("Inside Courses Section");
         const coursesGrid = coursesSection.getElementsByClassName('job-grid')[0];
         if (coursesGrid) {
             fetchXMLContent("courses.xml", "courses-section", "courses-grid");
