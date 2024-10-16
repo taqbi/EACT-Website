@@ -121,6 +121,15 @@ body, html {
     width: 100%; 
 }
 
+@media screen and (max-width: 768px) {
+    .sidebar {
+        width: 50%;  /* Sidebar will take up half the screen on mobile */
+        /* No need for position fixed or other fixed properties */
+        float: left;  /* Align sidebar to the left */
+        box-sizing: border-box;  /* Ensure padding is considered in the width */
+    }
+}
+
 .main-area {
     flex: 3;
     padding: 10px;
@@ -291,11 +300,14 @@ body, html {
 @media (max-width: 768px) {
     .job-grid {
         justify-content: center;
+
+
     }
 }
 
 @media (max-width: 480px) {
     .job-card {
+        justify-content: center;
         width: 100%;
     }
 }
@@ -305,15 +317,19 @@ body, html {
 /* Video Grid Section */
 .video-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    gap: 10px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
 .video-item {
-    background-color: #fff;
-    padding: 0px;
+    position: relative;
+    overflow: hidden;
+    background-color: #f0f0f0;
     border-radius: 10px;
-    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .video-section h2 {
@@ -326,17 +342,17 @@ body, html {
 }
 
 .video-item iframe {
-    width: 95%;
-    height: 80%;
-    border:none ;
-    
+    width: 100%; /* Makes iframe responsive */
+    height: auto;
+    max-width: 560px; /* Limits max size */
+    aspect-ratio: 16/9; /* Maintain 16:9 aspect ratio */
 }
 
 .video-item h4 {
     text-align: center;
-    margin-top: 8px;
-    font-size: 10px;
-    margin-left: 2px;
+    margin-top: 10px;
+    font-size: 14px;
+    word-wrap: break-word;
 }
 
 /* Testimonial Section */
@@ -347,7 +363,6 @@ body, html {
 .testimonial-grid h2 { 
     background-color: #005b99;
     color: white;
-    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -398,6 +413,7 @@ body, html {
     .testimonial-grid {
         grid-template-columns: 1fr;
     }
+    
 }
 
 /* Footer Styling */
