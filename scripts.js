@@ -75,7 +75,7 @@ window.onload = loadUpdates;
 
                 const items = xmlDoc.getElementsByTagName("item");
                 console.log("Items read:");
-                console.log(items);
+                console.log(items[0]);
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
                     return;
