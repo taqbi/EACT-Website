@@ -78,10 +78,10 @@ window.onload = loadUpdates;
                 }
 
                 grid.innerHTML = ""; // Clear existing content
+                console.log(items[0]);
 
                 for (let i = 0; i < items.length; i++) {
                     const item = items[i];
-                    console.log(items[i]);
                     const title = item.getElementsByTagName("title")[0]?.textContent || "No Title";
                     const description = item.getElementsByTagName("description")[0]?.textContent || "No Description";
                     const link = item.getElementsByTagName("link")[0]?.textContent || "#";
