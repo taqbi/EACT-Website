@@ -73,7 +73,7 @@ window.onload = loadUpdates;
                     return;
                 }
 
-                const items = xmlDoc.getElementsByTagName("title");
+                const items = xmlDoc.getElementsByTagName("item");
                 console.log("Items read:");
                 console.log(items[0]);
                 if (items.length === 0) {
