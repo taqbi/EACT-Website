@@ -1,4 +1,42 @@
 document.addEventListener('DOMContentLoaded', function() {
+
+    var updateList = document.getElementById("update-list");
+    
+    // Fetch the XML file
+    fetch("updates.xml")
+        .then(response => response.text())
+        .then(data => {
+            var parser = new DOMParser();
+            var xmlDoc = parser.parseFromString(data, "application/xml");
+            
+            var updates = xmlDoc.getElementsByTagName("update");
+            
+            // Loop through each update and add it to the list
+            for (var i = 0; i < updates.length; i++) {
+                var update = updates[i];
+                var title = update.getElementsByTagName("title")[0].textContent;
+                var date = update.getElementsByTagName("date")[0].textContent;
+                var details = update.getElementsByTagName("details")[0].textContent;
+                
+                // Create list item
+                var li = document.createElement("li");
+                li.innerHTML = `<strong>${title}</strong> (${date}): ${details}`;
+                
+                // Append the item to the update list
+                updateList.appendChild(li);
+            }
+        })
+        .catch(error => console.error("Error loading the XML file: ", error));
+
+
+
+
+
+
+
+
+
+
     // Get the sections where the content will be displayed
     const coursesSection = document.getElementById('courses-section');
     const jobsSection = document.getElementById('jobs-section');
