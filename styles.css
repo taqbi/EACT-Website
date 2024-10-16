@@ -561,7 +561,7 @@ body, html {
 
 @media (max-width: 480px) {
     .container-grid {
-        grid-template-columns: 2fr; /* 1 item per row for mobile devices */
+        grid-template-columns: 1fr; /* 1 item per row for mobile devices */
     }
 }
 
@@ -583,7 +583,7 @@ body, html {
 
 @media (max-width: 480px) {
     .grid-container {
-        grid-template-columns: 2fr; /* 1 item per row for mobile devices */
+        grid-template-columns: 1fr; /* 1 item per row for mobile devices */
     }
 }
 
