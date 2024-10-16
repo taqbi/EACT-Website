@@ -17,7 +17,7 @@ function loadUpdates() {
             ul.innerHTML = "";
             
             // Loop through the updates and append to the UL
-            for (var i = 0; i < updates.length; i++) {
+            for (var i = 0; i < 1; i++) {
                 var text = updates[i].getElementsByTagName("text")[0].childNodes[0].nodeValue;
                 var url = updates[i].getElementsByTagName("url")[0].childNodes[0].nodeValue;
 
