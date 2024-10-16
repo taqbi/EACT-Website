@@ -65,13 +65,13 @@ window.onload = loadUpdates;
 
                 const section = document.getElementById(sectionId);
                 const grid = document.getElementById(gridId);
-
+                console.error("Grid element with ID " + gridId + " found in section " + sectionId);
                 if (!grid) {
                     console.error("Grid element with ID " + gridId + " not found in section " + sectionId);
                     return;
                 }
 
-                const items = xmlDoc.getElementsByTagName("items");
+                const items = xmlDoc.getElementsByTagName("item");
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
                     return;
