@@ -40,6 +40,11 @@ window.onload = loadUpdates;
 
 
 
+
+
+
+
+
     // Get the sections where the content will be displayed
     const coursesSection = document.getElementById('courses-section');
     const jobsSection = document.getElementById('jobs-section');
@@ -66,7 +71,7 @@ window.onload = loadUpdates;
                     return;
                 }
 
-                const items = xmlDoc.getElementsByTagName("item");
+                const items = xmlDoc.getElementsByTagName("items");
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
                     return;
