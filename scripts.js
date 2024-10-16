@@ -78,7 +78,7 @@ window.onload = loadUpdates;
                 }
 
                 grid.innerHTML = ""; // Clear existing content
-                console.log(items[0]);
+                
 
                 for (let i = 0; i < items.length; i++) {
                     const item = items[i];
@@ -117,9 +117,10 @@ window.onload = loadUpdates;
             })
             .catch(error => console.error("Error loading XML:", error));
     }
-
+    console.log("Before Courses Sesction");
     // Check if the courses section exists and fetch content
     if (coursesSection) {
+        console.log("Inside Courses Sesction");
         const coursesGrid = coursesSection.getElementsByClassName('job-grid')[0];
         if (coursesGrid) {
             fetchXMLContent("courses.xml", "courses-section", "courses-grid");
