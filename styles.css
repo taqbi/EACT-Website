@@ -264,31 +264,32 @@ body, html {
 
 .job-card img.job-icon {
     width: 30%; /* Adjust size for the image */
-    height: 30%;
+    height: 25%;
     border-radius: 30%;
     object-fit: contain;
-    margin-bottom: 5px; /* Space between image and title */
+    margin-bottom: 2px; /* Space between image and title */
 }
 
 .job-card h4 {
-    font-size: 12px;
+    font-size: 14px;
     margin-bottom: 5px;
 }
 
 .job-card p {
-    font-size: 10px;
+    font-size: 12px;
     color: #555;
     margin-bottom: 5px;
 }
 
 .job-card .apply-btn {
     display: inline-block;
-    padding: 10px 10px;
+    padding: 5px 5px;
     background-color: #ff0505;
     color: white;
     text-decoration: none;
     border-radius: 4px;
     transition: background-color 0.3s;
+    font-size: 12px;
 }
 
 .job-card .apply-btn:hover {
