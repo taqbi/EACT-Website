@@ -97,8 +97,7 @@ window.onload = loadUpdates;
                     const description = item.getElementsByTagName("description")[0]?.textContent || "No Description";
                     const link = item.getElementsByTagName("link")[0]?.textContent || "#";
                     const image = item.getElementsByTagName("image")[0]?.textContent || "default.jpg";
-                    const progress = item.getElementsByTagName("progress")[0]?.textContent || "0%";
-                    console.log(title);
+                    
 
                     const card = document.createElement("div");
                     card.classList.add("job-card");
