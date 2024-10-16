@@ -87,6 +87,7 @@ window.onload = loadUpdates;
                     const link = item.getElementsByTagName("link")[0]?.textContent || "#";
                     const image = item.getElementsByTagName("image")[0]?.textContent || "default.jpg";
                     const progress = item.getElementsByTagName("progress")[0]?.textContent || "0%";
+                    console.log(title);
 
                     const card = document.createElement("div");
                     card.classList.add("job-card");
@@ -98,7 +99,7 @@ window.onload = loadUpdates;
 
                     const h4 = document.createElement("h4");
                     h4.textContent = title;
-
+                    
                     const p = document.createElement("p");
                     p.textContent = description;
 
