@@ -378,11 +378,11 @@ body, html {
 /* Responsive Layout */
 @media (max-width: 768px) {
     .video-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     .testimonial-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
 
