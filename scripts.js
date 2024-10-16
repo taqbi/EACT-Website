@@ -63,6 +63,11 @@ window.onload = loadUpdates;
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data, "application/xml");
 
+                // Check if XML parsing failed
+             if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+             console.error("Error parsing XML:", xmlDoc.getElementsByTagName("parsererror")[0].textContent);
+                return;
+                }
 
 
                 const section = document.getElementById(sectionId);
