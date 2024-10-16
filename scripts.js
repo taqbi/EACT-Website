@@ -84,7 +84,7 @@ window.onload = loadUpdates;
                 grid.innerHTML = ""; // Clear existing content
                 
 
-                for (let i = 0; i < items.length; i++) {
+                for (let i = 0; i <= items.length; i++) {
                     const item = items[i];
                     console.log("Item is");
                     console.log(item);
