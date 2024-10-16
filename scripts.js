@@ -86,6 +86,8 @@ window.onload = loadUpdates;
 
                 for (let i = 0; i < items.length; i++) {
                     const item = items[i];
+                    console.log("Item is");
+                    console.log(item);
                     const title = item.getElementsByTagName("title")[0]?.textContent || "No Title";
                     const description = item.getElementsByTagName("description")[0]?.textContent || "No Description";
                     const link = item.getElementsByTagName("link")[0]?.textContent || "#";
