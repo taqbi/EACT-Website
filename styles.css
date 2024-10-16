@@ -306,14 +306,14 @@ body, html {
 .video-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
+    gap: 5px;
 }
 
 .video-item {
     background-color: #fff;
-    padding: 10px;
+    padding: 0px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
 }
 
 .video-section h2 {
@@ -326,15 +326,17 @@ body, html {
 }
 
 .video-item iframe {
-    width: 100%;
-    height: 180px;
-    border: none;
+    width: 95%;
+    height: 80%;
+    border:none ;
+    
 }
 
 .video-item h4 {
     text-align: center;
-    margin-top: 10px;
-    font-size: 16px;
+    margin-top: 8px;
+    font-size: 10px;
+    margin-left: 2px;
 }
 
 /* Testimonial Section */
@@ -378,7 +380,8 @@ body, html {
 /* Responsive Layout */
 @media (max-width: 768px) {
     .video-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr ;
+        
     }
 
     .testimonial-grid {
@@ -389,6 +392,7 @@ body, html {
 @media (max-width: 480px) {
     .video-grid {
         grid-template-columns: 1fr;
+       
     }
 
     .testimonial-grid {
