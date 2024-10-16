@@ -37,7 +37,7 @@ body, html {
     position: sticky;
     top: 0;
     background-color: #005b99;
-    padding: 10px 0;
+    padding: 0px 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -132,14 +132,14 @@ body, html {
 
 .main-area {
     flex: 3;
-    padding: 10px;
+    padding: 0px;
 }
 
 /* Marquee Sections */
 
 .content-section
 {
-    padding: 20px;
+    padding: 0px;
     background-color: #f9f9f9;
 } 
 .content-section h2 {
@@ -321,6 +321,8 @@ body, html {
     gap: 10px;
     padding: 0px;
     box-sizing: border-box;
+    width: 100%; 
+    height: auto;
 }
 
 .video-item {
@@ -330,6 +332,7 @@ body, html {
     border-radius: 10px;
     padding: 10px;
     box-sizing: border-box;
+    width: 100%; 
 }
 
 .video-section h2 {
