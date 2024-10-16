@@ -1,25 +1,28 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the sections where the content will be displayed
+    const coursesSection = document.getElementById('courses-section');
+    const jobsSection = document.getElementById('jobs-section');
+    const admissionsSection = document.getElementById('admissions-section');
 
     // Function to fetch and display updates from an XML file
     function loadUpdates() {
-        const xhr = new XMLHttpRequest();
-        xhr.open("GET", "updates.xml", true); // Path to the XML file
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                // Parse the XML
-                const xmlDoc = xhr.responseXML;
+        fetch("updates.xml")
+            .then(response => {
+                if (!response.ok) throw new Error("Failed to load updates XML");
+                return response.text();
+            })
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, "application/xml");
                 const updates = xmlDoc.getElementsByTagName("update");
                 const ul = document.getElementById("update-list");
-                
-                // Clear previous list
-                ul.innerHTML = "";
 
-                // Loop through the updates and append to the UL
+                ul.innerHTML = ""; // Clear previous list
+
                 for (let i = 0; i < updates.length; i++) {
                     const textNode = updates[i].getElementsByTagName("text")[0];
                     const urlNode = updates[i].getElementsByTagName("url")[0];
 
-                    // Check if both text and URL exist before creating elements
                     if (textNode && urlNode) {
                         const text = textNode.childNodes[0].nodeValue;
                         const url = urlNode.childNodes[0].nodeValue;
@@ -34,42 +37,40 @@ document.addEventListener("DOMContentLoaded", function () {
                         console.error("Invalid update format in XML at index " + i);
                     }
                 }
-            } else if (xhr.readyState === 4 && xhr.status !== 200) {
-                console.error("Failed to load XML: Status " + xhr.status);
-            }
-        };
-        xhr.send();
+            })
+            .catch(error => console.error(error));
     }
 
     // Function to fetch and display content from an XML file (for courses, jobs, and admissions)
     function fetchXMLContent(xmlFile, sectionId, gridId) {
-        const xhr = new XMLHttpRequest();
-        xhr.open("GET", xmlFile, true);
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                const xmlDoc = xhr.responseXML;
+        fetch(xmlFile)
+            .then(response => {
+                if (!response.ok) throw new Error("Failed to load " + xmlFile);
+                return response.text();
+            })
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, "application/xml");
+
                 const section = document.getElementById(sectionId);
                 const grid = document.getElementById(gridId);
-                
-                const items = xmlDoc.getElementsByTagName("item");
-                
-                // Clear existing content
-                grid.innerHTML = "";
 
-                // Loop through XML items and append to the grid
+                const items = xmlDoc.getElementsByTagName("item");
+
+                grid.innerHTML = ""; // Clear existing content
+
                 for (let i = 0; i < items.length; i++) {
                     const item = items[i];
-                    
+
                     const title = item.getElementsByTagName("title")[0].textContent;
                     const description = item.getElementsByTagName("description")[0].textContent;
                     const link = item.getElementsByTagName("link")[0].textContent;
                     const image = item.getElementsByTagName("image")[0].textContent;
                     const progress = item.getElementsByTagName("progress")[0].textContent;
 
-                    // Create a new job-card (for courses, jobs, or admissions)
                     const card = document.createElement("div");
                     card.classList.add("job-card");
-                    
+
                     const img = document.createElement("img");
                     img.src = image;
                     img.alt = "Job Icon";
@@ -93,17 +94,31 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     grid.appendChild(card);
                 }
-            } else if (xhr.readyState === 4 && xhr.status !== 200) {
-                console.error("Failed to load XML: Status " + xhr.status);
-            }
-        };
-        xhr.send();
+            })
+            .catch(error => console.error(error));
     }
 
-    // Fetch updates, courses, jobs, and admissions XMLs
-    loadUpdates(); // Load the updates XML
-    fetchXMLContent("courses.xml", "courses-section", "courses-grid");
-    fetchXMLContent("jobs.xml", "jobs-section", "jobs-grid");
-    fetchXMLContent("admissions.xml", "admissions-section", "admissions-grid");
+    // Check if the courses section exists and fetch content
+    if (coursesSection) {
+        const coursesGrid = coursesSection.getElementsByClassName('job-grid')[0];
+        // Fetch and display content for courses
+        fetchXMLContent("courses.xml", "courses-section", "courses-grid");
+    }
 
+    // Check if the jobs section exists and fetch content
+    if (jobsSection) {
+        const jobsGrid = jobsSection.getElementsByClassName('job-grid')[0];
+        // Fetch and display content for jobs
+        fetchXMLContent("jobs.xml", "jobs-section", "jobs-grid");
+    }
+
+    // Check if the admissions section exists and fetch content
+    if (admissionsSection) {
+        const admissionsGrid = admissionsSection.getElementsByClassName('job-grid')[0];
+        // Fetch and display content for admissions
+        fetchXMLContent("admissions.xml", "admissions-section", "admissions-grid");
+    }
+
+    // Fetch updates and display them
+    loadUpdates(); // Load the updates XML
 });
