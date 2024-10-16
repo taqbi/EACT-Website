@@ -17,7 +17,7 @@ function loadUpdates() {
             ul.innerHTML = "";
             
             // Loop through the updates and append to the UL
-            for (var i = 0; i < 1; i++) {
+            for (var i = 0; i < updates.length; i++) {
                 var text = updates[i].getElementsByTagName("text")[0].childNodes[0].nodeValue;
                 var url = updates[i].getElementsByTagName("url")[0].childNodes[0].nodeValue;
 
@@ -73,18 +73,18 @@ window.onload = loadUpdates;
                     return;
                 }
 
-                const items = xmlDoc.getElementsByTagName("items");
+                const items = xmlDoc.getElementsByTagName("item");
                 console.log("Items read:");
                 console.log(items[0]);
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
-                    //return;
+                   return;
                 }
 
                 grid.innerHTML = ""; // Clear existing content
                 
 
-                for (let i = 0; i <= items.length; i++) {
+                for (let i = 0; i < items.length; i++) {
                     const item = items[i];
                     console.log("Item is");
                     console.log(item);
