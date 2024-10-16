@@ -191,7 +191,7 @@ body, html {
 
 /* JOBS Section styling */
 .job-section {
-    padding: 10px;
+    padding: 0px;
     background-color: #f9f9f9;
 }
 
@@ -218,7 +218,7 @@ body, html {
 /* Individual Job Card Styling */
 .job-card {
     background-color: white;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ddd;
     border-radius: 8px;
     width: 100%;
@@ -232,7 +232,7 @@ body, html {
     margin-bottom: 10px;
     background-color: #005b99;
     color: white;
-    padding: 10px;  /* Optional: To make the content look better with rounded corners */
+    padding: 5px;  /* Optional: To make the content look better with rounded corners */
     border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
     
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -240,7 +240,7 @@ body, html {
 .about-section p
 {
     background-color: white;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ddd;
     border-radius: 8px;
     width: 100%;
@@ -253,9 +253,9 @@ body, html {
 
 }
 .job-card .job-icon {
-    font-size: 10px; /* Adjust size for the icon */
+    font-size: 5px; /* Adjust size for the icon */
     color: #005b99; /* Change the icon color */
-    margin-bottom: 0px; /* Space between icon and title */
+    margin-bottom: 1px; /* Space between icon and title */
 }
 
 .job-card img.job-icon {
@@ -272,14 +272,14 @@ body, html {
 }
 
 .job-card p {
-    font-size: 14px;
+    font-size: 10px;
     color: #555;
     margin-bottom: 15px;
 }
 
 .job-card .apply-btn {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 10px 10px;
     background-color: #ff0505;
     color: white;
     text-decoration: none;
