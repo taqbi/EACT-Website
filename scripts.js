@@ -78,7 +78,7 @@ window.onload = loadUpdates;
                 console.log(items[0]);
                 if (items.length === 0) {
                     console.error("No items found in " + xmlFile);
-                    return;
+                    //return;
                 }
 
                 grid.innerHTML = ""; // Clear existing content
