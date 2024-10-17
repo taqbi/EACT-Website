@@ -116,7 +116,7 @@ window.onload = loadUpdates;
                     const a = document.createElement("a");
                     a.href = link;
                     a.classList.add("apply-btn");
-                    a.textContent = "Apply Now";
+                    a.textContent = "View";
 
                     card.appendChild(img);
                     card.appendChild(h4);

@@ -12,51 +12,68 @@ body, html {
 
 /* Header and Navbar */
 .header {
-    background-color: #005b99;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); /* Bluish gradient */
+    background-size: cover; /* Ensures the gradient covers the entire header */
     color: white;
-   
     display: flex;
     width: 100%;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #ccc;
+    padding: 20px; /* Add padding to create some space inside the header */
+    box-sizing: border-box; /* Ensures padding doesn't affect the width */
+    background-blend-mode: overlay; /* Apply blending for texture */
+    background-image: url('HeaderBG.jpg'); /* Add a subtle texture image here */
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
+/* Optional: Ensure content is above the background */
+.header > * {
+    position: relative;
+    z-index: 1;
+}
+
+
 
 .header .logo-container img {
-    height: 50px;
-    border-radius: 30%;
-    padding: 10px;
+    height: 100px;
+    border-radius: 30px;
+    padding: 2px;
+    background-color: #ffffff;
 }
 
-.header-title {
-    flex-grow: 1;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
 
 .navbar {
     position: sticky;
     top: 0;
-    background-color: #005b99;
-    padding: 0px 0;
+    color: #0056b3;
+    background-color: white;
+    padding: 5px 5px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 100%;
+    width: 90%;
+    border-radius: 10px; /* Adjust this value to control how rounded the corners are */
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for a floating effect */
+  
 }
 
 .navbar a {
-    color: white;
+    color: #0056b3;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 5px 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
     font-weight: bold; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 .navbar a:hover {
     background-color: #005fb7;
+    color: #ffffff;
     transform: scale(1.05);
-    border-radius: 10%;
+    border-radius: 10px;
 }
 /* Responsive Navbar */
 @media (max-width: 768px) {
