@@ -12,7 +12,7 @@ body, html {
 
 /* Header and Navbar */
 .header {
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); /* Bluish gradient */
+     background-color: #614385;
     background-size: cover; /* Ensures the gradient covers the entire header */
     color: white;
     display: flex;
@@ -23,7 +23,6 @@ body, html {
     padding: 20px; /* Add padding to create some space inside the header */
     box-sizing: border-box; /* Ensures padding doesn't affect the width */
     background-blend-mode: overlay; /* Apply blending for texture */
-    background-image: url('HeaderBG.jpg'); /* Add a subtle texture image here */
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -40,37 +39,36 @@ body, html {
     height: 100px;
     border-radius: 30px;
     padding: 2px;
-    background-color: #ffffff;
+    background-color: #45197b;
+    border: 2px;
+  
 }
 
 
 .navbar {
     position: sticky;
     top: 0;
-    color: #0056b3;
-    background-color: white;
-    padding: 5px 5px;
+    color: #00ABE4;
     display: flex;
     justify-content: space-around;
     align-items: center;
     width: 90%;
     border-radius: 10px; /* Adjust this value to control how rounded the corners are */
-    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for a floating effect */
-  
+    
 }
 
 .navbar a {
-    color: #0056b3;
+    color: #ffffff;
     text-decoration: none;
     padding: 5px 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
     font-weight: bold; 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 
 .navbar a:hover {
-    background-color: #005fb7;
+    background-color: #45197b;
     color: #ffffff;
     transform: scale(1.05);
     border-radius: 10px;
@@ -108,7 +106,7 @@ body, html {
 }
 
 .marquee a {
-    color: #005b99; /* Link color */
+    color: #E9F1FA; /* Link color */
     font-weight: bold; /* Bold text */
 }
 
@@ -131,10 +129,11 @@ body, html {
 
 .sidebar {
     flex: 1;
-    padding: 10px;
+    padding: 0px;
     background-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-right: 10px;
+    margin-top: 0px;
     width: 100%; 
 }
 
@@ -162,11 +161,10 @@ body, html {
 .content-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background-color: #005b99;
-    color: rgb(255, 255, 255);
+    background: linear-gradient( #614385,  #516395 );
+   color: rgb(255, 255, 255);
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
-    border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 
@@ -215,12 +213,10 @@ body, html {
 .job-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background-color: #005b99;
+    background: linear-gradient( #614385,  #516395 );
     color: white;
-    padding: 10px;  /* Optional: To make the content look better with rounded corners */
-    border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
-    
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;  /* Optional: To make the content look better with rounded corners */ 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
@@ -247,11 +243,10 @@ body, html {
 .about-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background-color: #005b99;
+    background: linear-gradient( #614385,  #516395 );
     color: white;
     padding: 1px;  /* Optional: To make the content look better with rounded corners */
-    border-radius: 10px; /* Adjust this value to make the corners more or less rounded */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .about-section p
 {
@@ -300,7 +295,7 @@ body, html {
 .job-card .apply-btn {
     display: inline-block;
     padding: 5px 5px;
-    background-color: #ff0505;
+    background-color: #4A8BDF;
     color: white;
     text-decoration: none;
     border-radius: 4px;
@@ -358,11 +353,10 @@ body, html {
 
 .video-section h2 {
     color: white;
-    background-color: #005b99;
-    border-radius: 10px;
+    background: linear-gradient( #614385,  #516395 );
     align-content: center;
     
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .video-item iframe {
@@ -385,9 +379,9 @@ body, html {
 }
 
 .testimonial-grid h2 { 
-    background-color: #005b99;
+    background: linear-gradient( #614385,  #516395 );
     color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .testimonial-grid {
@@ -442,7 +436,7 @@ body, html {
 
 /* Footer Styling */
 .footer {
-    background-color: #0074cc;
+    background-color: #45197b;
     color: white;
     text-align: center;
     padding: 20px;
