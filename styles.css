@@ -291,7 +291,7 @@ body, html {
 .job-card .apply-btn {
     display: inline-block;
     padding: 5px 5px;
-    background-color: #4A8BDF;
+    background-color: #471b7e;
     color: white;
     text-decoration: none;
     border-radius: 4px;
@@ -300,7 +300,7 @@ body, html {
 }
 
 .job-card .apply-btn:hover {
-    background-color: #0056b3;
+    background-color: #9f67e3;
 }
 
 /* Add hover effect */
@@ -550,7 +550,7 @@ body, html {
 /* Grid Layout for Previous Year Papers Material, Study Material */
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* 5 items in a row */
+    grid-template-columns: repeat(6, 1fr); /* 5 items in a row */
     gap: 20px;
     padding: 20px;
 }
@@ -623,7 +623,7 @@ body, html {
 /* Responsive Grid for Medium and Small Screens */
 @media (max-width: 1024px) {
     .grid-container {
-        grid-template-columns: repeat(5, 1fr); /* 3 items per row for medium screens */
+        grid-template-columns: repeat(6, 1fr); /* 3 items per row for medium screens */
     }
 }
 
