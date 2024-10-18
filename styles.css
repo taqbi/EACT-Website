@@ -100,10 +100,7 @@ body, html {
     animation: marquee 15s linear infinite;
 }
 
-@keyframes marquee {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-}
+
 
 .marquee a {
     color: #E9F1FA; /* Link color */
@@ -177,7 +174,6 @@ body, html {
 
 .content-section ul li {
     margin-bottom: 10px;
-    animation: blink-animation 1s steps(5, start) infinite;
     color: #005b99; /* Link color */
     font-weight: bold; /* Bold text */
 
