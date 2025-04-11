@@ -556,6 +556,7 @@ body, html {
     grid-template-columns: repeat(6, 1fr); /* 5 items in a row */
     gap: 20px;
     padding: 20px;
+    max-width: 100%;
 }
 
 .grid-item {
@@ -565,9 +566,9 @@ body, html {
     border-radius: 8px;
     text-align: center;
     transition: background-color 0.3s ease;
-    margin-right: 8px; /* Adds spacing between the icon and text */
     color: #0058b5; /* Folder icon color */
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 100%;
 }
 
 .grid-item:hover {
@@ -598,6 +599,7 @@ body, html {
     object-fit: cover; /* Ensures the image covers the entire space, cropping if necessary */
     border-radius: 50%; /* Keeps the circular shape */
     margin-bottom: 15px;
+    max-width: 100%;
 }
 
 
