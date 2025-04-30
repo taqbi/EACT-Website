@@ -5,7 +5,7 @@ body, html {
     box-sizing: border-box;
     overflow-x: hidden;  /* Prevents horizontal scroll due to overflow */
     font-family: 'Arial', sans-serif;
-    background-color: #ececec;
+    background-color: #ffffff;
     overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
@@ -61,7 +61,7 @@ body, html {
     padding: 5px 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
     font-weight: bold; 
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -124,6 +124,7 @@ body, html {
     margin-top: 0px;
     padding: 0 0px;
     width: 100%; 
+    background-color: #ffffff;
 }
 
 .sidebar {
@@ -148,6 +149,11 @@ body, html {
 .main-area {
     flex: 3;
     padding: 0px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 10px;
+    margin-top: 0px;
+    width: 100%; 
 }
 
 /* Marquee Sections */
@@ -155,13 +161,15 @@ body, html {
 .content-section
 {
     padding: 0px;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
 } 
 .content-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background-color: #003873;
-   color: rgb(255, 255, 255);
+    background-color: #ffffff;
+    color: #003873;
+    padding: 10px 20px;
+    font-weight: bold;
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
@@ -205,25 +213,23 @@ body, html {
 /* JOBS Section styling */
 .job-section {
     padding: 0px;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
 }
 
-.job-section h2 {
-    align-content: center;
-    margin-bottom: 10px;
-    background-color: #003873;
-    color: white;
-    padding: 10px;  /* Optional: To make the content look better with rounded corners */ 
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
+
 
 
 /* Job Grid Layout */
 .job-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
     justify-content: space-around;
+    background-color: #ffffff;
+    gap: 10px;
+    padding: 1%;
+
+    
+    
 }
 
 /* Individual Job Card Styling */
@@ -242,16 +248,23 @@ body, html {
 .about-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background-color: #003873;
-    color: white;
+    
+    color: rgb(0, 0, 0);
     padding: 1px;  /* Optional: To make the content look better with rounded corners */
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.about-section {
+    align-content: center;
+    margin-bottom: 10px;
+
+    padding: 10px;  /* Optional: To make the content look better with rounded corners */
+    
 }
 .about-section p
 {
     background-color: white;
-    padding: 5px;
-    border: 1px solid #ddd;
+    padding: 1%;
+    border: 1px solid #003873;
     border-radius: 8px;
     width: 100%;
     max-width: 97%;
@@ -259,9 +272,44 @@ body, html {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
     text-align: justify;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333333;
 
 }
+
+.content-title h2
+{
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #002d71;
+    text-align: center;
+    border-bottom: 1px solid #002d71; /* dim line */
+    display: block; /* full width, so center-align works */
+    margin: 0 auto; /* optional: centers block elements if needed */
+    padding-bottom: 2px;
+    width: fit-content; /* makes border hug the text again if needed */       /* ensures border fits the text */
+    
+}
+.content-section h2,
+.job-section h2,
+.popular-video-section h2,
+.content-section .testimonial-section h2 {
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    background-color: #ffffff;
+    color: #002d71;
+    text-align: center;
+    display: block; /* full width, so center-align works */
+    margin: 0 auto; /* optional: centers block elements if needed */
+    padding-bottom: 2px;
+    width: fit-content; /* makes border hug the text again if needed */
+}
+
+
 .job-card .job-icon {
     font-size: 5px; /* Adjust size for the icon */
     color: #005b99; /* Change the icon color */
@@ -278,6 +326,7 @@ body, html {
     border-radius: 30%;
     object-fit: contain;
     margin-bottom: 2px; /* Space between image and title */
+    margin-top: 10px;
 }
 
 .job-card h4 {
@@ -315,7 +364,7 @@ body, html {
 @media (max-width: 768px) {
     .job-grid {
         justify-content: center;
-
+        
 
     }
 }
@@ -331,19 +380,18 @@ body, html {
 
 /* Video Grid Section */
 .video-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
-    gap: 10px;
-    padding: 0px;
-    box-sizing: border-box;
-    width: 100%; 
-    height: auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+        gap: 20px;
+        padding: 1%;
+        width: 100%; /* Make it take the full container width */
+        box-sizing: border-box;
 }
 
 .video-item {
     position: relative;
     overflow: hidden;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     border-radius: 10px;
     padding: 10px;
     box-sizing: border-box;
@@ -356,8 +404,10 @@ body, html {
     transform: scale(1.05);
 }
 .video-section h2 {
-    color: white;
-    background-color: #003873;
+  background-color: #f5f5f5;
+  color: #003873;
+  padding: 10px 20px;
+  font-weight: bold;
     align-content: center;
     
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -390,9 +440,13 @@ body, html {
 
 .testimonial-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
     gap: 20px;
+    padding: 1%;
+    width: 100%; /* Make it take the full container width */
+    box-sizing: border-box;
 }
+
 
 .testimonial-item {
     background-color: #fff;
@@ -551,11 +605,15 @@ body, html {
 /* Grid Layout for Previous Year Papers Material, Study Material */
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(6, 1fr); /* 5 items in a row */
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(5, 1fr); /* 5 items in a row */
+    gap: 1%;
+    padding: 0.5% 1% 1% 1%;
+    margin: 0.5% 1% 1% 1%; /* top, right, bottom, left */
+    border-radius: 1%;
     max-width: 100%;
-    border: 1px solid #003873;
+    background-color: #ffffff;
+    
+    
 }
 
 .grid-item {
@@ -569,6 +627,7 @@ body, html {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 100%;
     border: 1px solid #003873;
+   
 }
 
 .grid-item:hover {
@@ -593,16 +652,53 @@ body, html {
     height: auto;
     aspect-ratio: 16/9; /* Keeps the 16:9 ratio for videos */
     max-width: 100%; /* Ensures the iframe fits within the container */
+    border-radius: 3%;
 }
 
 .grid-item img {
-    width: 100%; /* Ensures the image fits the width of the container */
-    height: auto; /* Maintains the aspect ratio of the image */
+    width:40%; /* Ensures the image fits the width of the container */
+    height:50%; /* Maintains the aspect ratio of the image */
     max-width: 150px; /* Sets a maximum width to keep the image uniform */
     object-fit: cover; /* Ensures the image covers the entire space, cropping if necessary */
     border-radius: 50%; /* Keeps the circular shape */
     margin-bottom: 15px;
     max-width: 100%;
+    border-color: #002c89;
+    border-width:3px;
+    border-style:ridge;
+}
+
+.faculty-profiles .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 5 items in a row */
+    gap: 20px;
+    padding: 0% 1% 1% 1%;
+    max-width: 100%;
+    margin: 2%;
+    border-radius: 1%;
+}
+
+.faculty-name {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 10px 0 5px;
+}
+
+.faculty-title {
+    font-weight: 500;
+    font-size: 1em;
+    margin: 0;
+}
+
+.separator {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+.faculty-description {
+    font-size: 0.95em;
+    color: #555;
 }
 
 
