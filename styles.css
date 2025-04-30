@@ -12,7 +12,7 @@ body, html {
 
 /* Header and Navbar */
 .header {
-     background-color: #434d85;
+     background-color: #003873;
     background-size: cover; /* Ensures the gradient covers the entire header */
     color: white;
     display: flex;
@@ -39,8 +39,7 @@ body, html {
     height: 100px;
     border-radius: 30px;
     padding: 2px;
-    background-color: #434d85;
-    border: 2px;
+    
   
 }
 
@@ -67,7 +66,7 @@ body, html {
 }
 
 .navbar a:hover {
-    background-color: #434d85;
+    background-color: #003873;
     color: #ffffff;
     transform: scale(1.05);
     border-radius: 10px;
@@ -161,7 +160,7 @@ body, html {
 .content-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background: linear-gradient( #434d85,  #445abd );
+    background-color: #003873;
    color: rgb(255, 255, 255);
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -212,7 +211,7 @@ body, html {
 .job-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background: linear-gradient( #434d85,  #445abd );
+    background-color: #003873;
     color: white;
     padding: 10px;  /* Optional: To make the content look better with rounded corners */ 
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -231,18 +230,19 @@ body, html {
 .job-card {
     background-color: white;
     padding: 0px;
-    border: 1px solid #ddd;
+    border: 1px solid #003873;
     border-radius: 8px;
     width: 100%;
     max-width: 300px;
     text-align: center;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
+    
 }
 .about-section h2 {
     align-content: center;
     margin-bottom: 10px;
-    background: linear-gradient(  #434d85,  #445abd );
+    background-color: #003873;
     color: white;
     padding: 1px;  /* Optional: To make the content look better with rounded corners */
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -348,11 +348,16 @@ body, html {
     padding: 10px;
     box-sizing: border-box;
     width: 100%; 
+    border: 1px solid #003873;
 }
 
+.video-item:hover{
+    border-bottom: 5px solid #003873;
+    transform: scale(1.05);
+}
 .video-section h2 {
     color: white;
-    background: linear-gradient(  #434d85,  #445abd );
+    background-color: #003873;
     align-content: center;
     
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -378,7 +383,7 @@ body, html {
 }
 
 .testimonial-grid h2 { 
-    background: linear-gradient(  #434d85,  #445abd );
+    background: linear-gradient(  #434d85,  #001685 );
     color: white;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -395,6 +400,7 @@ body, html {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    border: 1px solid #003873;
 }
 
 .testimonial-item img {
@@ -435,7 +441,7 @@ body, html {
 
 /* Footer Styling */
 .footer {
-    background-color: #45197b;
+    background-color: #003873;
     color: white;
     text-align: center;
     padding: 20px;
@@ -542,14 +548,6 @@ body, html {
 }
 
 
-
-
-
-
-
-
-
-
 /* Grid Layout for Previous Year Papers Material, Study Material */
 .grid-container {
     display: grid;
@@ -557,6 +555,7 @@ body, html {
     gap: 20px;
     padding: 20px;
     max-width: 100%;
+    border: 1px solid #003873;
 }
 
 .grid-item {
@@ -566,14 +565,18 @@ body, html {
     border-radius: 8px;
     text-align: center;
     transition: background-color 0.3s ease;
-    color: #0058b5; /* Folder icon color */
+    color: #003873; /* Folder icon color */
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 100%;
+    border: 1px solid #003873;
 }
 
 .grid-item:hover {
     background-color: #e0e0e0;
+    border-bottom: 5px solid #003873; /* Blue bottom border on hover */
+    transform: scale(1.05);
 }
+
 
 .grid-item a {
     color: #007bff;
