@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
     <update>
-        <text>Provisional selection list for the post of Assistant Legal Remembrancer/District Litigation Officer in the Department of Law, Justice and Parliamentary Affairs - disposal of representations thereof.</text>
-        <url>https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=17176&type=n</url>
+        <text>JKBOSE Class 10th and 12th (Annual Regular) results Declared</text>
+        <url>https://jkbose.nic.in/results/</url>
+        <date>2025-05-01</date> <!-- Example date -->
     </update>
-   
+    <update>
+        <text>Provisional selection list for the post of Assistant Legal Remembrancer/District Litigation Officer in the Department of Law, Justice and Parliamentary Affairs - disposal of representations thereof.</text>
+        <url>https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=17176&amp;type=n</url>
+        <date>2025-04-28</date> <!-- Example date -->
+    </update>
+    <update>
+        <text>Provisional Selection list for the post of Horticulture Development Officer in Agriculture Production Department</text>
+        <url>https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=17173&amp;type=n</url>
+        <date>2025-04-25</date> <!-- Example date -->
+    </update>
 </updates>

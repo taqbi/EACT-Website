@@ -1,103 +1,77 @@
-document.addEventListener('DOMContentLoaded', function() {
-
+document.addEventListener('DOMContentLoaded', function () {
     console.log("JS file is loaded and executed.");
 
-// Fetch and Display XML Updates
-function loadUpdates() {
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "updates.xml", true); // Path to the XML file
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState == 4 && xhr.status == 200) {
-            // Parse XML
-            var xmlDoc = xhr.responseXML;
-            var updates = xmlDoc.getElementsByTagName("update");
-            var ul = document.getElementById("update-list");
-            
-            // Clear previous list
-            ul.innerHTML = "";
-            
-            // Loop through the updates and append to the UL
-            for (var i = 0; i < updates.length; i++) {
-                var text = updates[i].getElementsByTagName("text")[0].childNodes[0].nodeValue;
-                var url = updates[i].getElementsByTagName("url")[0].childNodes[0].nodeValue;
+    // Load updates on page load
+    loadUpdates();
 
-                var li = document.createElement("li");
-                var a = document.createElement("a");
-                a.href = url;
-                a.innerText = text;
-                li.appendChild(a);
-                ul.appendChild(li);
+    // Function to load updates from updates.xml
+    function loadUpdates() {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "updates.xml", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var xmlDoc = xhr.responseXML;
+                var updates = xmlDoc.getElementsByTagName("update");
+                var ul = document.getElementById("update-list");
+                ul.innerHTML = "";
+    
+                for (var i = 0; i < updates.length; i++) {
+                    var text = updates[i].getElementsByTagName("text")[0].textContent;
+                    var url = updates[i].getElementsByTagName("url")[0].textContent;
+                    var date = updates[i].getElementsByTagName("date")[0].textContent; // Get the date
+    
+                    var li = document.createElement("li");
+                    var a = document.createElement("a");
+                    a.href = url;
+                    a.innerText = text;
+    
+                    var spanDate = document.createElement("span"); // Create a span for the date
+                    spanDate.classList.add("update-date");
+                    spanDate.textContent = "Date: " + date; // Add the date text
+    
+                    li.appendChild(a);
+                    li.appendChild(spanDate); // Append the date span to the list item
+                    ul.appendChild(li);
+                }
+            } else if (xhr.readyState === 4) {
+                console.error("Failed to load XML: Status " + xhr.status);
             }
-        } else if (xhr.readyState == 4 && xhr.status != 200) {
-            console.error("Failed to load XML: Status " + xhr.status);
-        }
-    };
-    xhr.send();
-}
-// Call the function when the page loads
+        };
+        xhr.send();
+    }
+    
 
-window.onload = loadUpdates;  
-
-
-
-
-
-
-
-
-    // Get the sections where the content will be displayed
-    const coursesSection = document.getElementById('courses-section');
-    const jobsSection = document.getElementById('jobs-section');
-    const admissionsSection = document.getElementById('admissions-section');
-
-    // Function to fetch and display content from an XML file (for courses, jobs, and admissions)
+    // Utility function to fetch and render XML content
     function fetchXMLContent(xmlFile, sectionId, gridId) {
         fetch(xmlFile)
             .then(response => {
-                if (!response.ok) {
-                    throw new Error("Failed to load " + xmlFile + ": " + response.statusText);
-                }
+                if (!response.ok) throw new Error("Failed to load " + xmlFile);
                 return response.text();
             })
             .then(data => {
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data, "application/xml");
 
-                // Check if XML parsing failed
-             if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-             console.error("Error parsing XML:", xmlDoc.getElementsByTagName("parsererror")[0].textContent);
-                return;
+                if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+                    console.error("XML Parse Error in " + xmlFile);
+                    return;
                 }
 
-
-                const section = document.getElementById(sectionId);
                 const grid = document.getElementById(gridId);
-                console.error(grid);
                 if (!grid) {
-                    console.error("Grid element with ID " + gridId + " not found in section " + sectionId);
+                    console.error("Grid " + gridId + " not found.");
                     return;
                 }
 
                 const items = xmlDoc.getElementsByTagName("item");
-                console.log("Items read:");
-                console.log(items[0]);
-                if (items.length === 0) {
-                    console.error("No items found in " + xmlFile);
-                   return;
-                }
-
-                grid.innerHTML = ""; // Clear existing content
-                
+                grid.innerHTML = "";
 
                 for (let i = 0; i < items.length; i++) {
                     const item = items[i];
-                    console.log("Item is");
-                    console.log(item);
                     const title = item.getElementsByTagName("title")[0]?.textContent || "No Title";
                     const description = item.getElementsByTagName("description")[0]?.textContent || "No Description";
                     const link = item.getElementsByTagName("link")[0]?.textContent || "#";
                     const image = item.getElementsByTagName("image")[0]?.textContent || "default.jpg";
-                    
 
                     const card = document.createElement("div");
                     card.classList.add("job-card");
@@ -109,7 +83,7 @@ window.onload = loadUpdates;
 
                     const h4 = document.createElement("h4");
                     h4.textContent = title;
-                    
+
                     const p = document.createElement("p");
                     p.textContent = description;
 
@@ -128,35 +102,20 @@ window.onload = loadUpdates;
             })
             .catch(error => console.error("Error loading XML:", error));
     }
-    console.log("Before Courses Section");
-    // Check if the courses section exists and fetch content
-    if (coursesSection) {
-        console.log("Inside Courses Section");
-        const coursesGrid = coursesSection.getElementsByClassName('job-grid')[0];
-        if (coursesGrid) {
-            fetchXMLContent("courses.xml", "courses-section", "courses-grid");
-        } else {
-            console.error("Courses grid not found.");
-        }
-    }
 
-    // Check if the jobs section exists and fetch content
-    if (jobsSection) {
-        const jobsGrid = jobsSection.getElementsByClassName('job-grid')[0];
-        if (jobsGrid) {
-            fetchXMLContent("jobs.xml", "jobs-section", "jobs-grid");
-        } else {
-            console.error("Jobs grid not found.");
-        }
-    }
+    // Load different sections if present
+    const sections = [
+        { id: 'courses-section', file: 'courses.xml', grid: 'courses-grid' },
+        { id: 'jobs-section', file: 'jobs.xml', grid: 'jobs-grid' },
+        { id: 'admissions-section', file: 'admissions.xml', grid: 'admissions-grid' }
+    ];
 
-    // Check if the admissions section exists and fetch content
-    if (admissionsSection) {
-        const admissionsGrid = admissionsSection.getElementsByClassName('job-grid')[0];
-        if (admissionsGrid) {
-            fetchXMLContent("admissions.xml", "admissions-section", "admissions-grid");
+    sections.forEach(({ id, file, grid }) => {
+        const section = document.getElementById(id);
+        if (section && section.getElementsByClassName('job-grid')[0]) {
+            fetchXMLContent(file, id, grid);
         } else {
-            console.error("Admissions grid not found.");
+            console.error(`Section or grid not found for ${id}`);
         }
-    }
+    });
 });
