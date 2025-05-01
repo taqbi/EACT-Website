@@ -403,9 +403,8 @@ body, html {
 @media (max-width: 768px) {
     .job-grid {
         justify-content: center;
-        
-
     }
+    
 }
 
 @media (max-width: 480px) {
@@ -518,6 +517,8 @@ body, html {
     .testimonial-grid {
         grid-template-columns: 1fr;
     }
+   
+
 }
 
 @media (max-width: 480px) {
@@ -529,8 +530,10 @@ body, html {
     .testimonial-grid {
         grid-template-columns: 1fr;
     }
+
     
 }
+
 
 /* Footer Styling */
 .footer {
@@ -695,28 +698,25 @@ body, html {
 }
 
 .grid-item img {
-    width:40%; /* Ensures the image fits the width of the container */
-    height:50%; /* Maintains the aspect ratio of the image */
-    max-width: 150px; /* Sets a maximum width to keep the image uniform */
-    object-fit: cover; /* Ensures the image covers the entire space, cropping if necessary */
-    border-radius: 50%; /* Keeps the circular shape */
+    width: 40%;
+    height: auto;
+    max-width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
     margin-bottom: 15px;
-    max-width: 100%;
-    border-color: #002c89;
-    border-width:3px;
-    border-style:ridge;
+    border: 3px ridge #002c89;
 }
 
 .faculty-profiles .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 5 items in a row */
+    grid-template-columns: repeat(3, 1fr); /* Default: 3 items per row */
     gap: 20px;
-    padding: 0% 1% 1% 1%;
-    max-width: 100%;
+    padding: 1%;
     margin: 2%;
     border-radius: 1%;
 }
 
+/* Text Styling */
 .faculty-name {
     font-weight: bold;
     font-size: 1.2em;
@@ -740,6 +740,36 @@ body, html {
     color: #555;
 }
 
+/* ✅ Tablet View: 2 columns */
+@media (max-width: 992px) {
+    .faculty-profiles .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .grid-item img {
+        width: 50%;
+    }
+}
+
+/* ✅ Mobile View: 1 column */
+@media (max-width: 600px) {
+    .faculty-profiles .grid-container {
+        grid-template-columns: 1fr;
+    }
+
+    .grid-item img {
+        width: 60%;
+    }
+
+    .faculty-name {
+        font-size: 1.05em;
+    }
+
+    .faculty-description {
+        font-size: 0.9em;
+    }
+}
+
 
 /* Responsive grid for smaller screens */
 @media (max-width: 1024px) {
@@ -750,7 +780,7 @@ body, html {
 
 @media (max-width: 768px) {
     .container-grid {
-        grid-template-columns: repeat(3, 1fr); /* 2 items per row for smaller screens */
+        grid-template-columns: repeat(2, 1fr); /* 2 items per row for smaller screens */
     }
 }
 
