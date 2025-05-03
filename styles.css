@@ -465,6 +465,20 @@ body, html {
     word-wrap: break-word;
 }
 
+fieldset.video-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+fieldset.video-item legend {
+    font-weight: bold;
+    padding: 0 10px;
+    color: #333;
+}
+
+
 /* Testimonial Section */
 .testimonial-section {
     padding: 20px 0;
@@ -506,6 +520,43 @@ body, html {
     font-size: 18px;
     font-weight: bold;
 }
+
+.guidance-form-section {
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #003873;
+    border-radius: 10px;
+    max-width: 600px;
+    background-color: #f9f9ff;
+}
+
+.guidance-form-section h2 {
+    text-align: center;
+    color: #003873;
+}
+
+.guidance-form-section textarea {
+    width: 95%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.guidance-form-section input[type="submit"] {
+    background-color: #003873;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.guidance-form-section input[type="submit"]:hover {
+    background-color: #003873;
+}
+
 
 /* Responsive Layout */
 @media (max-width: 768px) {
