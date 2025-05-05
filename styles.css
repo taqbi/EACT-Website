@@ -222,6 +222,20 @@ body, html {
     }
 }
 
+.typed-text {
+  font-weight: bold;
+  color: #007bff;
+}
+.cursor {
+  display: inline-block;
+  width: 1px;
+  background-color: black;
+  animation: blink 0.7s steps(1) infinite;
+}
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
 
 
 /* Styling for the update list */
@@ -335,7 +349,43 @@ body, html {
     width: 100%; 
 }
 
-/* Marquee Sections */
+
+
+.typing-animation-section {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(to right, #1f2a44, #050912);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .typing-animation-section h1 {
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  
+  .typed-text {
+    font-weight: bold;
+    color: #f2ff00;
+    transition: all 0.3s ease;
+  }
+  
+  .cursor {
+    display: inline-block;
+    color: #1f2a44;
+    font-weight: bold;
+    animation: blink 0.7s infinite;
+    margin-left: 2px;
+  }
+  
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+
+
+  
 
 .content-section
 {

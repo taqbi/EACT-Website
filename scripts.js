@@ -136,4 +136,46 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error(`Section or grid not found for ${id}`);
         }
     });
+
+    // ✨ Start typing animation
+    startTypingAnimation();
+
+    function startTypingAnimation() {
+        const textArray = ["GK", "Computer", "Aptitude", "Reasoning", "Maths", "English"];
+        const typedText = document.getElementById("typed-text");
+        if (!typedText) {
+            console.warn("Typed text span not found.");
+            return;
+        }
+
+        let arrayIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        let delay = 100;
+
+        function type() {
+            const currentText = textArray[arrayIndex];
+
+            if (isDeleting) {
+                typedText.textContent = currentText.substring(0, charIndex--);
+            } else {
+                typedText.textContent = currentText.substring(0, charIndex++);
+            }
+
+            if (!isDeleting && charIndex === currentText.length) {
+                isDeleting = true;
+                delay = 1000; // pause before deleting
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                arrayIndex = (arrayIndex + 1) % textArray.length;
+                delay = 200;
+            } else {
+                delay = isDeleting ? 50 : 100;
+            }
+
+            setTimeout(type, delay);
+        }
+
+        type();
+    }
 });
