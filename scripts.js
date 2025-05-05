@@ -3,13 +3,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Sidebar toggle logic
     const sidebarToggle = document.getElementById('sidebar-toggle');
-    const sidebar = document.querySelector('.sidebar');
+    const sidebar = document.querySelector('.sidebar') || document.getElementById('layout-menu');
 
     if (sidebarToggle && sidebar) {
         sidebarToggle.addEventListener('click', function () {
-            sidebar.classList.toggle('sidebar-open');
+            sidebar.classList.toggle('collapsed');
         });
     }
+
+    // Automatically collapse sidebar on mobile, expand on desktop
+    function setSidebarState() {
+        if (window.innerWidth >= 992) {
+            sidebar.classList.remove('collapsed');
+        } else {
+            sidebar.classList.add('collapsed');
+        }
+    }
+
+    setSidebarState(); // initial check
+    window.addEventListener('resize', setSidebarState); // update on resize
 
     // Load updates on page load
     loadUpdates();
