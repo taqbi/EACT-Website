@@ -194,6 +194,23 @@ body, html {
     transform: scale(1.05);
     border-radius: 10px;
 }
+.menu-item a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-weight: bold; 
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.menu-item a:hover {
+    background-color: #1f2a44;
+    color: #ffffff;
+    transform: scale(1.0);
+    border-radius: 10px;
+}
+
+
 /* Responsive Navbar */
 @media (max-width: 768px) {
     .navbar {
