@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
     startTypingAnimation();
 
     function startTypingAnimation() {
-        const textArray = ["GK", "Computer", "Aptitude", "Reasoning", "Maths", "English"];
+        const textArray = ["GK ", "Computer ", "Aptitude ", "Reasoning ", "Maths ", "English "];
         const typedText = document.getElementById("typed-text");
         if (!typedText) {
             console.warn("Typed text span not found.");

@@ -366,14 +366,14 @@ body, html {
   .typed-text {
     font-weight: bold;
     color: #f2ff00;
-    transition: all 0.3s ease;
+    transition: all 1s ease;
   }
   
   .cursor {
     display: inline-block;
     color: #1f2a44;
     font-weight: bold;
-    animation: blink 0.7s infinite;
+    animation: blink 0.5s infinite;
     margin-left: 2px;
   }
   
