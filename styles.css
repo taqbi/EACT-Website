@@ -12,7 +12,7 @@ body, html {
 
 /* Header and Navbar */
 .header {
-     background-color: #003873;
+     background-color: #1f2a44;
     background-size: cover; /* Ensures the gradient covers the entire header */
     color: white;
     display: flex;
@@ -43,6 +43,129 @@ body, html {
   
 }
 
+/* Basic Layout */
+#layout-menu {
+    width: 250px;
+    background-color: #1f2a44;
+    transition: all 0.3s ease;
+  }
+  
+  #layout-menu.collapsed {
+    width: 60px; /* Collapsed width */
+  }
+  
+  /* Menu Icon and Text Style */
+  .app-brand-link {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .app-brand-logo img {
+    width: 32px;
+    height: auto;
+  }
+  
+  .app-brand-text {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-left: 10px;
+  }
+  
+  .layout-menu-toggle {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  /* Menu List Styling */
+  .menu-inner {
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+  }
+  
+  .menu-item {
+    border-bottom: 1px solid #2c3e50;
+  }
+  
+  .menu-link {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+  }
+  
+  .menu-link:hover {
+    background-color: #34495e;
+  }
+  
+  .menu-icon {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  
+  .menu-header {
+    font-size: 0.9rem;
+    color: #bdc3c7;
+    padding: 10px 20px;
+  }
+  
+  .menu-header-text {
+    text-transform: uppercase;
+  }
+  
+  /* Collapse/Expand Handling */
+  .layout-menu.collapsed .menu-text {
+    display: none;
+  }
+  
+  .layout-menu.collapsed .menu-icon {
+    font-size: 24px;
+  }
+  
+  /* Icon adjustments */
+  .ti-menu-2 {
+    font-size: 24px;
+    color: #fff;
+  }
+  
+  .ti-x {
+    font-size: 24px;
+    color: #fff;
+  }
+  
+  /* Shadow and Overlay */
+  .menu-inner-shadow {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: -1;
+  }
+  
+  /* For smaller screens, make the sidebar always visible */
+  @media (max-width: 768px) {
+    #layout-menu {
+      width: 200px;
+    }
+  
+    #layout-menu.collapsed {
+      width: 50px;
+    }
+  
+    .menu-item .menu-link {
+      padding: 10px 15px;
+    }
+  }
+  
+
+
 
 .navbar {
     position: sticky;
@@ -66,7 +189,7 @@ body, html {
 }
 
 .navbar a:hover {
-    background-color: #003873;
+    background-color: #1f2a44;
     color: #ffffff;
     transform: scale(1.05);
     border-radius: 10px;
@@ -113,7 +236,7 @@ body, html {
 /* Styling for the links inside each list item */
 #update-list li a {
     text-decoration: none; /* Remove the default underline */
-    color: #003873; /* Set a solid color for the links */
+    color: #1f2a44; /* Set a solid color for the links */
     font-size: 1.1rem; /* Slightly larger text for better readability */
     font-weight: 600; /* Bold links for emphasis */
     display: block; /* Ensure links take up full width */
@@ -206,7 +329,7 @@ body, html {
     align-content: center;
     margin-bottom: 10px;
     background-color: #ffffff;
-    color: #003873;
+    color: #1f2a44;
     padding: 10px 20px;
     font-weight: bold;
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
@@ -275,7 +398,7 @@ body, html {
 .job-card {
     background-color: white;
     padding: 0px;
-    border: 1px solid #003873;
+    border: 1px solid #1f2a44;
     border-radius: 8px;
     width: 100%;
     max-width: 300px;
@@ -303,7 +426,7 @@ body, html {
 {
     background-color: white;
     padding: 1%;
-    border: 1px solid #003873;
+    border: 1px solid #1f2a44;
     border-radius: 8px;
     width: 100%;
     max-width: 97%;
@@ -323,9 +446,9 @@ body, html {
     
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    color: #002d71;
+    color: #1f2a44;
     text-align: center;
-    border-bottom: 1px solid #002d71; /* dim line */
+    border-bottom: 1px solid #1f2a44; /* dim line */
     display: block; /* full width, so center-align works */
     margin: 0 auto; /* optional: centers block elements if needed */
     padding-bottom: 2px;
@@ -340,7 +463,7 @@ body, html {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     background-color: #ffffff;
-    color: #002d71;
+    color: #1f2a44;
     text-align: center;
     display: block; /* full width, so center-align works */
     margin: 0 auto; /* optional: centers block elements if needed */
@@ -382,7 +505,7 @@ body, html {
 .job-card .apply-btn {
     display: inline-block;
     padding: 5px 5px;
-    background-color: #471b7e;
+    background-color: #21418b;
     color: white;
     text-decoration: none;
     border-radius: 4px;
@@ -391,7 +514,8 @@ body, html {
 }
 
 .job-card .apply-btn:hover {
-    background-color: #9f67e3;
+    background-color: #1f2a44;
+    color: #ffffff;
 }
 
 /* Add hover effect */
@@ -434,16 +558,16 @@ body, html {
     padding: 10px;
     box-sizing: border-box;
     width: 100%; 
-    border: 1px solid #003873;
+    border: 1px solid #1f2a44;
 }
 
 .video-item:hover{
-    border-bottom: 5px solid #003873;
+    border-bottom: 5px solid #1f2a44;
     transform: scale(1.05);
 }
 .video-section h2 {
   background-color: #f5f5f5;
-  color: #003873;
+  color: #1f2a44;
   padding: 10px 20px;
   font-weight: bold;
     align-content: center;
@@ -506,7 +630,7 @@ fieldset.video-item legend {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    border: 1px solid #003873;
+    border: 1px solid #1f2a44;
 }
 
 .testimonial-item img {
@@ -524,7 +648,7 @@ fieldset.video-item legend {
 .guidance-form-section {
     margin: 30px auto;
     padding: 20px;
-    border: 2px solid #003873;
+    border: 2px solid #1f2a44;
     border-radius: 10px;
     max-width: 600px;
     background-color: #f9f9ff;
@@ -532,7 +656,7 @@ fieldset.video-item legend {
 
 .guidance-form-section h2 {
     text-align: center;
-    color: #003873;
+    color: #1f2a44;
 }
 
 .guidance-form-section textarea {
@@ -544,7 +668,7 @@ fieldset.video-item legend {
 }
 
 .guidance-form-section input[type="submit"] {
-    background-color: #003873;
+    background-color: #1f2a44;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -554,7 +678,7 @@ fieldset.video-item legend {
 }
 
 .guidance-form-section input[type="submit"]:hover {
-    background-color: #003873;
+    background-color: #1f2a44;
 }
 
 
@@ -588,7 +712,7 @@ fieldset.video-item legend {
 
 /* Footer Styling */
 .footer {
-    background-color: #003873;
+    background-color: #1f2a44;
     color: white;
     text-align: center;
     padding: 20px;
@@ -716,22 +840,22 @@ fieldset.video-item legend {
     border-radius: 8px;
     text-align: center;
     transition: background-color 0.3s ease;
-    color: #003873; /* Folder icon color */
+    color: #1f2a44; /* Folder icon color */
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 100%;
-    border: 1px solid #003873;
+    border: 1px solid #1f2a44;
    
 }
 
 .grid-item:hover {
     background-color: #e0e0e0;
-    border-bottom: 5px solid #003873; /* Blue bottom border on hover */
+    border-bottom: 5px solid #1f2a44; /* Blue bottom border on hover */
     transform: scale(1.05);
 }
 
 
 .grid-item a {
-    color: #007bff;
+    color: #1f2a44;
     text-decoration: none;
     font-size: 16px;
 }
@@ -755,7 +879,7 @@ fieldset.video-item legend {
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 15px;
-    border: 3px ridge #002c89;
+    border: 3px ridge #1f2a44;
 }
 
 .faculty-profiles .grid-container {

@@ -1,10 +1,19 @@
 document.addEventListener('DOMContentLoaded', function () {
     console.log("JS file is loaded and executed.");
 
+    // Sidebar toggle logic
+    const sidebarToggle = document.getElementById('sidebar-toggle');
+    const sidebar = document.querySelector('.sidebar');
+
+    if (sidebarToggle && sidebar) {
+        sidebarToggle.addEventListener('click', function () {
+            sidebar.classList.toggle('sidebar-open');
+        });
+    }
+
     // Load updates on page load
     loadUpdates();
 
-    // Function to load updates from updates.xml
     function loadUpdates() {
         var xhr = new XMLHttpRequest();
         xhr.open("GET", "updates.xml", true);
@@ -14,23 +23,23 @@ document.addEventListener('DOMContentLoaded', function () {
                 var updates = xmlDoc.getElementsByTagName("update");
                 var ul = document.getElementById("update-list");
                 ul.innerHTML = "";
-    
+
                 for (var i = 0; i < updates.length; i++) {
                     var text = updates[i].getElementsByTagName("text")[0].textContent;
                     var url = updates[i].getElementsByTagName("url")[0].textContent;
-                    var date = updates[i].getElementsByTagName("date")[0].textContent; // Get the date
-    
+                    var date = updates[i].getElementsByTagName("date")[0].textContent;
+
                     var li = document.createElement("li");
                     var a = document.createElement("a");
                     a.href = url;
                     a.innerText = text;
-    
-                    var spanDate = document.createElement("span"); // Create a span for the date
+
+                    var spanDate = document.createElement("span");
                     spanDate.classList.add("update-date");
-                    spanDate.textContent = "Date: " + date; // Add the date text
-    
+                    spanDate.textContent = "Date: " + date;
+
                     li.appendChild(a);
-                    li.appendChild(spanDate); // Append the date span to the list item
+                    li.appendChild(spanDate);
                     ul.appendChild(li);
                 }
             } else if (xhr.readyState === 4) {
@@ -39,9 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
         };
         xhr.send();
     }
-    
 
-    // Utility function to fetch and render XML content
     function fetchXMLContent(xmlFile, sectionId, gridId) {
         fetch(xmlFile)
             .then(response => {
@@ -103,7 +110,6 @@ document.addEventListener('DOMContentLoaded', function () {
             .catch(error => console.error("Error loading XML:", error));
     }
 
-    // Load different sections if present
     const sections = [
         { id: 'courses-section', file: 'courses.xml', grid: 'courses-grid' },
         { id: 'jobs-section', file: 'jobs.xml', grid: 'jobs-grid' },
