@@ -241,7 +241,7 @@ body, html {
 /* Styling for the update list */
 #update-list {
     list-style-type: none; /* Remove default list bullet points */
-    padding: 0% 5%; 
+    padding: 1% 5%; 
     margin: 0; /* Remove default margin */
     max-width: 100%; /* Limit the width of the list */
     margin-left: auto; /* Center align the list */
@@ -252,8 +252,8 @@ body, html {
 #update-list li {
     background-color: #ffffff; /* Light background color for each item */
     border: 1px solid #120062; /* Light border for separation */
-    margin-bottom: 1%; /* Space between list items */
-    padding: 0.5% 2%; /* Add padding inside each item */
+    margin-bottom: 3%; /* Space between list items */
+    padding: 1% 2%; /* Add padding inside each item */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s ease; /* Smooth hover effect */
     display: flex;
@@ -408,14 +408,21 @@ body, html {
   
 /* 🔽 Responsive styles for smaller screens */
 @media (max-width: 768px) {
+    .typing-animation-section{
+        padding: 30px 10px;
+    }
     .typing-animation-section h1 {
       font-size: 1.5rem;
     }
+    
   }
   
   @media (max-width: 480px) {
     .typing-animation-section h1 {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
+    }
+    .typing-animation-section{
+        padding: 20px 5px;
     }
   }
   
