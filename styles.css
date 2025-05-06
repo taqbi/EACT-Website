@@ -241,7 +241,8 @@ body, html {
 /* Styling for the update list */
 #update-list {
     list-style-type: none; /* Remove default list bullet points */
-    padding: 1%; /* Remove default padding */
+    padding-left: 5%; 
+    padding-right: 5%;
     margin: 0; /* Remove default margin */
     max-width: 100%; /* Limit the width of the list */
     margin-left: auto; /* Center align the list */
@@ -252,11 +253,10 @@ body, html {
 #update-list li {
     background-color: #ffffff; /* Light background color for each item */
     border: 1px solid #120062; /* Light border for separation */
-    margin-bottom: 10px; /* Space between list items */
-    padding: 15px; /* Add padding inside each item */
+    margin-bottom: 1%; /* Space between list items */
+    padding: 2%; /* Add padding inside each item */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s ease; /* Smooth hover effect */
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -271,7 +271,6 @@ body, html {
     font-size: 1.1rem; /* Slightly larger text for better readability */
     font-weight: 600; /* Bold links for emphasis */
     display: block; /* Ensure links take up full width */
-    padding: 5px 0; /* Space above and below the text */
     flex-basis: 90%;  /* Takes up 80% of the container width */
     overflow: hidden;  /* Ensures the text doesn't overflow the container */
     white-space: nowrap;  /* Keeps the text on a single line */
@@ -298,6 +297,31 @@ body, html {
     transform: translateY(10px); /* Start slightly below */
     animation: slideIn 0.6s ease-out forwards;
 }
+/* 🔽 Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .update-date {
+      font-size: 0.7rem;
+    }
+    #update-list li a {
+        font-size: 1.0rem;
+      }
+  }
+  
+  @media (max-width: 480px) {
+    #update-list li a{
+      font-size: 0.6rem;
+    }
+    .update-date{
+        font-size: 0.6rem;
+      }
+  }
+  
+
+
+
+
+
+
 
 /* Keyframes for the slide-in animation */
 @keyframes slideIn {
@@ -383,7 +407,19 @@ body, html {
     100% { opacity: 1; }
   }
   
-
+/* 🔽 Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .typing-animation-section h1 {
+      font-size: 1.5rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .typing-animation-section h1 {
+      font-size: 1.2rem;
+    }
+  }
+  
 
   
 

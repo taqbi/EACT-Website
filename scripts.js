@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                     var spanDate = document.createElement("span");
                     spanDate.classList.add("update-date");
-                    spanDate.textContent = "Date: " + date;
+                    spanDate.textContent = date;
 
                     li.appendChild(a);
                     li.appendChild(spanDate);
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let arrayIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
-        let delay = 100;
+        let delay = 200;
 
         function type() {
             const currentText = textArray[arrayIndex];
@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (!isDeleting && charIndex === currentText.length) {
                 isDeleting = true;
-                delay = 1000; // pause before deleting
+                delay = 500; // pause before deleting
             } else if (isDeleting && charIndex === 0) {
                 isDeleting = false;
                 arrayIndex = (arrayIndex + 1) % textArray.length;
