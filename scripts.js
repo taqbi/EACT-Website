@@ -24,9 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
     window.addEventListener('resize', setSidebarState); // update on resize
 
     // Load updates on page load
-    loadUpdates();
+    const updateList = document.getElementById("update-list");
+    if (updateList) {
+    // Check for data-show-all attribute
+    const showAll = updateList.getAttribute("data-show-all") === "true";
+    loadUpdates(showAll);
+  }
 
-    function loadUpdates() {
+    function loadUpdates(showAll = false) {
         var xhr = new XMLHttpRequest();
         xhr.open("GET", "updates.xml", true);
         xhr.onreadystatechange = function () {
@@ -34,22 +39,25 @@ document.addEventListener('DOMContentLoaded', function () {
                 var xmlDoc = xhr.responseXML;
                 var updates = xmlDoc.getElementsByTagName("update");
                 var ul = document.getElementById("update-list");
+                if (!ul) return; // Safety check if update-list not found on this page
                 ul.innerHTML = "";
-
-                for (var i = 0; i < updates.length; i++) {
+    
+                var limit = showAll ? updates.length : 5;
+    
+                for (var i = 0; i < limit; i++) {
                     var text = updates[i].getElementsByTagName("text")[0].textContent;
                     var url = updates[i].getElementsByTagName("url")[0].textContent;
                     var date = updates[i].getElementsByTagName("date")[0].textContent;
-
+    
                     var li = document.createElement("li");
                     var a = document.createElement("a");
                     a.href = url;
                     a.innerText = text;
-
+    
                     var spanDate = document.createElement("span");
                     spanDate.classList.add("update-date");
                     spanDate.textContent = date;
-
+    
                     li.appendChild(a);
                     li.appendChild(spanDate);
                     ul.appendChild(li);
@@ -60,6 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
         };
         xhr.send();
     }
+    
 
     function fetchXMLContent(xmlFile, sectionId, gridId) {
         fetch(xmlFile)
