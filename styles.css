@@ -45,9 +45,13 @@ body, html {
 
 /* Basic Layout */
 #layout-menu {
-    width: 250px;
+    width: 50px;
     background-color: #1f2a44;
     transition: all 0.3s ease;
+  }
+  #layout-menu:hover
+  {
+    width: 250px;
   }
   
   #layout-menu.collapsed {
@@ -89,7 +93,10 @@ body, html {
   .menu-item {
     border-bottom: 1px solid #2c3e50;
   }
-  
+  .menu-item:hover {
+    border: 2px solid #ffffff;
+    border-radius: 2%;
+  }
   .menu-link {
     display: flex;
     align-items: center;
@@ -149,20 +156,7 @@ body, html {
     z-index: -1;
   }
   
-  /* For smaller screens, make the sidebar always visible */
-  @media (max-width: 768px) {
-    #layout-menu {
-      width: 200px;
-    }
   
-    #layout-menu.collapsed {
-      width: 50px;
-    }
-  
-    .menu-item .menu-link {
-      padding: 10px 15px;
-    }
-  }
   
 
 
@@ -212,15 +206,7 @@ body, html {
 
 
 /* Responsive Navbar */
-@media (max-width: 768px) {
-    .navbar {
-        flex-direction: column;
-    }
 
-    .navbar a {
-        padding: 10px;
-    }
-}
 
 .typed-text {
   font-weight: bold;
@@ -297,23 +283,7 @@ body, html {
     animation: slideIn 2s ease-out forwards;
 }
 /* 🔽 Responsive styles for smaller screens */
-@media (max-width: 768px) {
-    .update-date {
-      font-size: 0.6rem;
-    }
-    #update-list li a {
-        font-size: 1.0rem;
-      }
-  }
-  
-  @media (max-width: 480px) {
-    #update-list li a{
-      font-size: 0.6rem;
-    }
-    .update-date{
-        font-size: 0.5 rem;
-      }
-  }
+
   
 
   .more-link {
@@ -367,14 +337,7 @@ body, html {
     width: 100%; 
 }
 
-@media screen and (max-width: 768px) {
-    .sidebar {
-        width: 50%;  /* Sidebar will take up half the screen on mobile */
-        /* No need for position fixed or other fixed properties */
-        float: left;  /* Align sidebar to the left */
-        box-sizing: border-box;  /* Ensure padding is considered in the width */
-    }
-}
+
 
 .main-area {
     flex: 3;
@@ -418,29 +381,6 @@ body, html {
     0% { opacity: 1; }
     50% { opacity: 0; }
     100% { opacity: 1; }
-  }
-  
-/* 🔽 Responsive styles for smaller screens */
-@media (max-width: 768px) {
-    .typing-animation-section{
-        padding: 30px 10px;
-    }
-    .typing-animation-section h1 {
-      font-size: 1.5rem;
-    }
-    
-  }
-  
-  @media (max-width: 480px) {
-    .typing-animation-section h1 {
-      font-size: 0.9rem;
-    }
-    .typing-animation-section{
-        padding: 20px 5px;
-    }
-    .more-link {
-    font-size: 60%;
-    }
   }
   
 
@@ -649,20 +589,6 @@ body, html {
     transform: scale(1.05);
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .job-grid {
-        justify-content: center;
-    }
-    
-}
-
-@media (max-width: 480px) {
-    .job-card {
-        justify-content: center;
-        width: 100%;
-    }
-}
 
 
 
@@ -808,32 +734,7 @@ fieldset.video-item legend {
 }
 
 
-/* Responsive Layout */
-@media (max-width: 768px) {
-    .video-grid {
-        grid-template-columns: 2fr ;
-        
-    }
 
-    .testimonial-grid {
-        grid-template-columns: 1fr;
-    }
-   
-
-}
-
-@media (max-width: 480px) {
-    .video-grid {
-        grid-template-columns: 1fr;
-       
-    }
-
-    .testimonial-grid {
-        grid-template-columns: 1fr;
-    }
-
-    
-}
 
 
 /* Footer Styling */
@@ -908,40 +809,6 @@ fieldset.video-item legend {
 
 .footer .social-icons a:nth-child(6) {
     color: #25d366; /* WhatsApp */
-}
-
-/* Responsive Footer */
-@media (max-width: 768px) {
-    .footer {
-        padding: 15px;
-        text-align: center;
-    }
-
-    .footer p {
-        font-size: 14px;
-    }
-
-    .footer .social-icons {
-        margin-top: 10px;
-    }
-
-    .footer .social-icons a {
-        margin: 0 5px;
-        font-size: 20px;
-    }
-}
-
-/* Add padding/margins for mobile screens */
-@media screen and (max-width: 768px) {
-    .video-grid, .testimonial-grid, .footer {
-        padding-left: 15px;
-        padding-right: 15px;
-        margin-left: 0;
-        margin-right: 0;
-        width: 100%;
-        max-width: 100%;
-        box-sizing: border-box;
-    }
 }
 
 
@@ -1041,7 +908,25 @@ fieldset.video-item legend {
     color: #555;
 }
 
-/* ✅ Tablet View: 2 columns */
+
+
+
+/* =========================================================
+   ✅ Max Width: 1024px - Medium Screens (Tablets and below)
+   ========================================================= */
+   @media (max-width: 1024px) {
+    .container-grid {
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    .grid-container {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+/* =========================================================
+   ✅ Max Width: 992px - Tablet View
+   ========================================================= */
 @media (max-width: 992px) {
     .faculty-profiles .grid-container {
         grid-template-columns: repeat(2, 1fr);
@@ -1052,7 +937,104 @@ fieldset.video-item legend {
     }
 }
 
-/* ✅ Mobile View: 1 column */
+/* =========================================================
+   ✅ Max Width: 768px - Small Devices (Landscape Phones/Tablets)
+   ========================================================= */
+@media (max-width: 768px) {
+    /* Sidebar adjustments */
+    #layout-menu {
+        width: 200px;
+    }
+
+    #layout-menu.collapsed {
+        width: 50px;
+    }
+
+    .sidebar {
+        width: 50%;
+        float: left;
+        box-sizing: border-box;
+    }
+
+    .menu-item .menu-link {
+        padding: 10px 15px;
+    }
+
+    /* Navbar layout */
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar a {
+        padding: 10px;
+    }
+
+    /* Footer adjustments */
+    .footer {
+        padding: 15px;
+        text-align: center;
+    }
+
+    .footer p {
+        font-size: 14px;
+    }
+
+    .footer .social-icons {
+        margin-top: 10px;
+    }
+
+    .footer .social-icons a {
+        margin: 0 5px;
+        font-size: 20px;
+    }
+
+    /* Video and Testimonial Grids */
+    .video-grid {
+        grid-template-columns: 2fr;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .testimonial-grid {
+        grid-template-columns: 1fr;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* Layout Grid Containers */
+    .container-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    /* Other layout elements */
+    .typing-animation-section {
+        padding: 30px 10px;
+    }
+
+    .typing-animation-section h1 {
+        font-size: 1.5rem;
+    }
+
+    .job-grid {
+        justify-content: center;
+    }
+
+    .update-date {
+        font-size: 0.6rem;
+    }
+
+    #update-list li a {
+        font-size: 1rem;
+    }
+}
+
+/* =========================================================
+   ✅ Max Width: 600px - Small Tablets and Larger Phones
+   ========================================================= */
 @media (max-width: 600px) {
     .faculty-profiles .grid-container {
         grid-template-columns: 1fr;
@@ -1071,47 +1053,44 @@ fieldset.video-item legend {
     }
 }
 
-
-/* Responsive grid for smaller screens */
-@media (max-width: 1024px) {
-    .container-grid {
-        grid-template-columns: repeat(5, 1fr); /* 3 items per row for medium screens */
-    }
-}
-
-@media (max-width: 768px) {
-    .container-grid {
-        grid-template-columns: repeat(2, 1fr); /* 2 items per row for smaller screens */
-    }
-}
-
+/* =========================================================
+   ✅ Max Width: 480px - Mobile View (Portrait Phones)
+   ========================================================= */
 @media (max-width: 480px) {
-    .container-grid {
-        grid-template-columns: 1fr; /* 1 item per row for mobile devices */
+    /* Grid changes */
+    .container-grid,
+    .grid-container,
+    .video-grid,
+    .testimonial-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .job-card {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .typing-animation-section {
+        padding: 20px 5px;
+    }
+
+    .typing-animation-section h1 {
+        font-size: 0.9rem;
+    }
+
+    .more-link {
+        font-size: 60%;
+    }
+
+    .update-date {
+        font-size: 0.5rem;
+    }
+
+    #update-list li a {
+        font-size: 0.6rem;
     }
 }
 
-
-
-
-/* Responsive Grid for Medium and Small Screens */
-@media (max-width: 1024px) {
-    .grid-container {
-        grid-template-columns: repeat(6, 1fr); /* 3 items per row for medium screens */
-    }
-}
-
-@media (max-width: 768px) {
-    .grid-container {
-        grid-template-columns: repeat(3, 1fr); /* 2 items per row for smaller screens */
-    }
-}
-
-@media (max-width: 480px) {
-    .grid-container {
-        grid-template-columns: 1fr; /* 1 item per row for mobile devices */
-    }
-}
 
 
 
