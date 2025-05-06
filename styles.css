@@ -241,8 +241,7 @@ body, html {
 /* Styling for the update list */
 #update-list {
     list-style-type: none; /* Remove default list bullet points */
-    padding-left: 5%; 
-    padding-right: 5%;
+    padding: 0% 5%; 
     margin: 0; /* Remove default margin */
     max-width: 100%; /* Limit the width of the list */
     margin-left: auto; /* Center align the list */
@@ -254,7 +253,7 @@ body, html {
     background-color: #ffffff; /* Light background color for each item */
     border: 1px solid #120062; /* Light border for separation */
     margin-bottom: 1%; /* Space between list items */
-    padding: 2%; /* Add padding inside each item */
+    padding: 0.5% 2%; /* Add padding inside each item */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s ease; /* Smooth hover effect */
     display: flex;
@@ -269,9 +268,9 @@ body, html {
     text-decoration: none; /* Remove the default underline */
     color: #1f2a44; /* Set a solid color for the links */
     font-size: 1.1rem; /* Slightly larger text for better readability */
-    font-weight: 600; /* Bold links for emphasis */
+    font-weight: 400; /* Bold links for emphasis */
     display: block; /* Ensure links take up full width */
-    flex-basis: 90%;  /* Takes up 80% of the container width */
+    flex-basis: 80%;  /* Takes up 80% of the container width */
     overflow: hidden;  /* Ensures the text doesn't overflow the container */
     white-space: nowrap;  /* Keeps the text on a single line */
     text-overflow: ellipsis;  /* Adds ellipsis if the text overflows */
@@ -295,12 +294,12 @@ body, html {
     margin-left: 10px; /* Space between the text and the date */
     opacity: 0; /* Start with opacity 0 for animation */
     transform: translateY(10px); /* Start slightly below */
-    animation: slideIn 0.6s ease-out forwards;
+    animation: slideIn 2s ease-out forwards;
 }
 /* 🔽 Responsive styles for smaller screens */
 @media (max-width: 768px) {
     .update-date {
-      font-size: 0.7rem;
+      font-size: 0.6rem;
     }
     #update-list li a {
         font-size: 1.0rem;
@@ -312,7 +311,7 @@ body, html {
       font-size: 0.6rem;
     }
     .update-date{
-        font-size: 0.6rem;
+        font-size: 0.5 rem;
       }
   }
   
