@@ -6,7 +6,9 @@ body, html {
     overflow-x: hidden;  /* Prevents horizontal scroll due to overflow */
     font-family: 'Arial', sans-serif;
     background-color: #ffffff;
-    overflow-x: hidden; /* Prevent horizontal scrolling */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures body takes at least full viewport height */
 }
 
 
@@ -340,10 +342,12 @@ body, html {
 /* Main Layout */
 .main-content {
     display: flex;
+    flex-grow: 1; /* Allows main content to take up available space, pushing footer down */
     margin-top: 0px;
     padding: 0 0px;
     width: 100%; 
     background-color: #ffffff;
+
 }
 
 .sidebar {
@@ -763,12 +767,13 @@ fieldset.video-item legend {
     color: white;
     text-align: center;
     padding: 20px;
-    position: relative;
-    bottom: 10;
+    position: relative; 
     width: 100%;
-    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
+    box-shadow: 0 -5px 10px rgba(205, 13, 13, 0.1);
+    margin-top: 20px; /* This provides space above the footer */
+    flex-shrink: 0; /* Prevents footer from shrinking if content is too large */
 }
+
 
 .footer p {
     margin: 0;
@@ -842,6 +847,7 @@ fieldset.video-item legend {
     border-radius: 1%;
     max-width: 100%;
     background-color: #ffffff;
+    overflow: auto; /* Or overflow: hidden; or overflow: clip; */
     
     
 }
