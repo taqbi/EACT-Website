@@ -1,3 +1,4 @@
+
 /* General Styling */
 body, html {
     margin: 0;
@@ -224,65 +225,84 @@ body, html {
 }
 
 
-/* Styling for the update list */
-#update-list {
-    list-style-type: none; /* Remove default list bullet points */
-    padding: 0% 5%; 
-    margin: 0; /* Remove default margin */
-    max-width: 100%; /* Limit the width of the list */
-    margin-left: auto; /* Center align the list */
-    margin-right: auto; /* Center align the list */
+/* Container box around the whole update list */
+.update-container {
+    background-color: #ffffff;
+    border: 2px solid #120062;
+    border-radius: 10px;
+    padding: 2%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 90%;
+    margin: 0 auto 2rem auto;
 }
 
-/* Styling for each list item */
+/* Remove default list styling */
+#update-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Individual list item without its own box */
 #update-list li {
-    background-color: #ffffff; /* Light background color for each item */
-    border: 1px solid #120062; /* Light border for separation */
-    margin-bottom: 1%; /* Space between list items */
-    padding: 1% 2%; /* Add padding inside each item */
-    border-radius: 5px; /* Rounded corners */
-    transition: background-color 0.3s ease; /* Smooth hover effect */
+    
     display: flex;
     justify-content: space-between;
     align-items: center;
-        
-   
+    padding: 1rem 0;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.2s ease;
 }
 
-/* Styling for the links inside each list item */
+/* Remove the bottom border from the last item */
+#update-list li:last-child {
+    border-bottom: none;
+}
+
+/* Styling for the update link */
 #update-list li a {
-    text-decoration: none; /* Remove the default underline */
-    color: #1f2a44; /* Set a solid color for the links */
-    font-size: 1.1rem; /* Slightly larger text for better readability */
-    font-weight: 400; /* Bold links for emphasis */
-    display: block; /* Ensure links take up full width */
-    flex-basis: 80%;  /* Takes up 80% of the container width */
-    overflow: hidden;  /* Ensures the text doesn't overflow the container */
-    white-space: nowrap;  /* Keeps the text on a single line */
-    text-overflow: ellipsis;  /* Adds ellipsis if the text overflows */
+    font-family: 'Inter', sans-serif;
+    flex-grow: 1;
+    text-decoration: none;
+    color: #1f2a44;
+    font-size: 1.1rem;
+    font-weight: 500;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    transition: color 0.2s ease;
 }
 
-/* Hover effect on list items */
+/* Hover effect for each row */
 #update-list li:hover {
-    background-color: #e0f0ff; /* Light blue background on hover */
-    cursor: pointer; /* Change cursor to pointer on hover */
+    background-color: #f4faff;
 }
 
-/* Hover effect on links */
 #update-list li a:hover {
-    color: #0056b3; /* Darker color for the link when hovered */
+    color: #0056b3;
 }
 
-/* Style for the date */
+/* Modern styled date badge */
 .update-date {
     font-size: 0.8em;
-    color: #fd0000; /* Light gray color */
-    margin-left: 10px; /* Space between the text and the date */
-    opacity: 0; /* Start with opacity 0 for animation */
-    transform: translateY(10px); /* Start slightly below */
-    animation: slideIn 2s ease-out forwards;
+    color: #fff;
+    background-color: #120062;
+    padding: 0.3em 0.6em;
+    border-radius: 20px;
+    margin-left: 1rem;
+    white-space: nowrap;
+    animation: fadeSlideIn 0.5s ease-out forwards;
+    opacity: 0;
+    transform: translateY(10px);
 }
-/* 🔽 Responsive styles for smaller screens */
+
+/* Entry animation */
+@keyframes fadeSlideIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
   
 
