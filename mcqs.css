@@ -215,6 +215,14 @@
     border-radius: 8px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.05);
 }
+.progress-category h3 {
+    background-color: #1f2a44; /* Using the primary dark blue for consistency */
+    color: #fff;
+    padding: 12px 15px;
+    margin: -15px -15px 15px -15px; /* Negative margin to make it span the full width of the padded parent */
+    border-radius: 8px 8px 0 0; /* Round the top corners to match the container */
+    text-align: center;
+}
 #progress-stats p {
     padding: 10px;
     border-radius: 5px;

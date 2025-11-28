@@ -345,9 +345,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 labels[0].classList.remove('active');
                 labels[1].classList.add('active');
                 subjectFilter.parentElement.style.display = 'none'; // Hide subject dropdown in Random mode
-                // Set subject to 'all' internally and filter
-                subjectFilter.value = 'all';
-                filterAndDisplayQuestions(true); // Pass true to shuffle
+                // Explicitly filter with subject 'all' and shuffle the questions
+                filterAndDisplayQuestions(true, 'all');
             } else {
                 labels[1].classList.remove('active');
                 labels[0].classList.add('active');
@@ -401,17 +400,17 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         }
 
-        function filterAndDisplayQuestions(shuffle = false) {
+        function filterAndDisplayQuestions(shuffle = false, overrideSubject = null) {
             const selectedExam = examFilter.value;
-            const selectedSubject = subjectFilter.value;
+            const selectedSubject = overrideSubject !== null ? overrideSubject : subjectFilter.value;
 
             console.log(`Filtering for: Category=${activeCategory}, Exam=${selectedExam}, Subject=${selectedSubject}`);
 
             currentQuestions = allQuestions.filter(q => {
-                const categoryMatch = q.category === activeCategory;
-                const examMatch = (selectedExam === 'all' || !selectedExam) || (q.exam === selectedExam);
-                const subjectMatch = (selectedSubject === 'all') || (q.subject === selectedSubject);
-                return categoryMatch && examMatch && subjectMatch;
+                const categoryMatch = q.category === activeCategory; // Must match the active category (PYQ/Practice)
+                const examMatch = (selectedExam === 'all' || !selectedExam) || (q.exam === selectedExam); // Must match exam, or 'all' exams
+                const subjectMatch = (selectedSubject === 'all' || !selectedSubject) || (q.subject === selectedSubject); // Must match subject, or 'all' subjects
+                return categoryMatch && examMatch && subjectMatch; // All conditions must be true
             });
 
             if (shuffle) {
