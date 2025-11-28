@@ -164,6 +164,36 @@
     border-radius: 8px;
     margin-bottom: 25px;
 }
+
+/* --- Pagination Styles --- */
+#pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Allows buttons to wrap on smaller screens */
+    gap: 8px;
+    margin-top: 30px;
+}
+.page-btn {
+    background-color: #fff;
+    border: 2px solid #dee2e6;
+    color: #1f2a44;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 8px;
+    min-width: 40px;
+    height: 40px;
+    transition: all 0.3s ease;
+}
+.page-btn:hover {
+    background-color: #e9ecef;
+    border-color: #adb5bd;
+}
+.page-btn.active {
+    background-color: #1f2a44;
+    color: #fff;
+    border-color: #1f2a44;
+}
 /* Progress Section Styles */
 #progress-container {
     display: none; /* Hidden by default */

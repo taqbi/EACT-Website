@@ -212,6 +212,8 @@ document.addEventListener('DOMContentLoaded', function () {
     let activeCategory = ''; // To store the currently active category (pyq or practice)
     let currentQuestions = [];
         let score = 0;
+    let currentPage = 1;
+    const questionsPerPage = 20;
     let attempted = 0;
 
     // --- Progress Tracking Logic ---
@@ -529,10 +531,13 @@ document.addEventListener('DOMContentLoaded', function () {
         attempted = 0;
         sessionAnswers = {}; // Clear answers for the new session
         quizContainer.innerHTML = ''; // Clear previous content
+        document.getElementById('pagination-container').innerHTML = ''; // Clear pagination
+        currentPage = 1; // Reset to the first page
 
         // Add the new question count display at the top
         if (currentQuestions.length > 0) {
             const countDisplay = document.createElement('div');
+            scoreContainer.style.display = 'grid'; // Show score container
             countDisplay.className = 'question-count-display';
             countDisplay.textContent = `${currentQuestions.length} Questions Fetched`;
             quizContainer.appendChild(countDisplay);
@@ -540,63 +545,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const quizName = subjectFilter.value !== 'all' ? subjectFilter.value : (examFilter.value !== 'all' ? examFilter.value : 'General');
 
-            // Add the "Clear Attempts" button for this specific quiz
-        if (quizName) {
-            const clearButton = document.createElement('button');
-            clearButton.textContent = `Clear My Attempts for "${quizName}"`;
-            clearButton.className = 'clear-quiz-attempts-btn';
-            clearButton.onclick = () => {
-                if (confirm(`Are you sure you want to clear your attempts for "${quizName}"? This will also reset your score for this section.`)) {
-                    const progress = readProgress();
-                    // Remove attempts and scores for this specific quiz
-                    if (progress.attemptedQuestions[quizName]) {
-                        delete progress.attemptedQuestions[quizName];
-                    }
-                    saveProgress(progress);
-                    // Re-filter the questions before re-displaying
-                        filterAndDisplayQuestions();
-                    // Re-display the questions to reflect the change
-                    displayQuestions(quizType);
-                }
-            };
-            quizContainer.appendChild(clearButton);
-        }
+        // Render the first page and set up pagination
+        renderPage(currentPage);
+        setupPagination();
 
-        currentQuestions.forEach((q, index) => {
-            const progress = readProgress();
-            const questionEl = document.createElement('div');
-            questionEl.className = 'question';
-
-            const isAttempted = progress.attemptedQuestions[quizName]?.includes(q.id);
-
-            if (isAttempted) {
-                questionEl.classList.add('already-attempted');
-            }
-
-            questionEl.innerHTML = `
-                <div class="question-topic">${q.topic}</div>
-                <p>${index + 1}. ${q.text}</p>
-                <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-index="${index}" data-subject-name="${q.subject}" data-exam-name="${q.exam}" data-quiz-type="${quizType}">
-                    ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
-                </div>
-                <div class="solution-wrapper" style="display: none;">
-                    <div class="correct-answer-text">Correct Answer: ${q.answer}</div>
-                    <div class="explanation">${q.explanation}</div>
-                </div>
-            `;
-            quizContainer.appendChild(questionEl);
-        });
-        scoreContainer.style.display = 'block';
     }
 
     if (quizContainer) {
         quizContainer.addEventListener('click', (e) => {
             if (e.target.classList.contains('option-btn')) {
-                const optionsDiv = e.target.parentElement;
-                const questionIndex = optionsDiv.dataset.questionIndex;
-                const question = currentQuestions[questionIndex];
-                const subjectName = optionsDiv.dataset.subjectName; // This remains for progress tracking by subject
-                const quizType = optionsDiv.dataset.quizType;
+                const optionsDiv = e.target.parentElement;                const questionId = optionsDiv.dataset.questionId;
+                const question = currentQuestions.find(q => q.id === questionId);
     
                     // Prevent clicking on disabled questions
                 if (optionsDiv.classList.contains('disabled-quiz')) return;
@@ -647,6 +606,74 @@ document.addEventListener('DOMContentLoaded', function () {
                 updateScore();
             }
         });
+    }
+
+    function renderPage(page) {
+        currentPage = page;
+        // Temporarily remove the question count display to re-insert it at the top
+        const countDisplay = quizContainer.querySelector('.question-count-display');
+        quizContainer.innerHTML = ''; // Clear only questions, not the count
+        if (countDisplay) {
+            quizContainer.appendChild(countDisplay); // Add it back
+        }
+
+        const start = (currentPage - 1) * questionsPerPage;
+        const end = start + questionsPerPage;
+        const paginatedQuestions = currentQuestions.slice(start, end);
+
+        const progress = readProgress();
+
+        paginatedQuestions.forEach((q, index) => {
+            const questionNumber = start + index + 1;
+            const questionEl = document.createElement('div');
+            questionEl.className = 'question';
+
+            const isAttempted = progress.attemptedQuestions[q.id];
+
+            if (isAttempted) {
+                questionEl.classList.add('already-attempted');
+            }
+
+            questionEl.innerHTML = `
+                <div class="question-topic">${q.topic}</div>
+                <p>${questionNumber}. ${q.text}</p>
+                <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-id="${q.id}">
+                    ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
+                </div>
+                <div class="solution-wrapper" style="display: none;">
+                    <div class="correct-answer-text">Correct Answer: ${q.answer}</div>
+                    <div class="explanation">${q.explanation}</div>
+                </div>
+            `;
+            quizContainer.appendChild(questionEl);
+        });
+
+        // Update active button style
+        document.querySelectorAll('.page-btn').forEach(btn => {
+            btn.classList.toggle('active', parseInt(btn.dataset.page) === currentPage);
+        });
+
+        // Scroll to the top of the quiz container
+        quizContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function setupPagination() {
+        const paginationContainer = document.getElementById('pagination-container');
+        paginationContainer.innerHTML = '';
+        const pageCount = Math.ceil(currentQuestions.length / questionsPerPage);
+
+        if (pageCount <= 1) return; // No need for pagination if there's only one page
+
+        for (let i = 1; i <= pageCount; i++) {
+            const btn = document.createElement('button');
+            btn.className = 'page-btn';
+            btn.innerText = i;
+            btn.dataset.page = i;
+            btn.addEventListener('click', () => renderPage(i));
+            paginationContainer.appendChild(btn);
+        }
+        // Set the first page as active initially
+        paginationContainer.querySelector('.page-btn').classList.add('active');
     }
 
     function updateScore() {
