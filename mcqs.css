@@ -143,6 +143,13 @@
     background-size: 16px 12px;
 }
 
+/* Responsive layout for filters on smaller screens */
+@media (max-width: 768px) {
+    #new-filter-container {
+        grid-template-columns: 1fr; /* Stack dropdowns vertically */
+    }
+}
+
 #score-container {
     display: none; /* Initially hidden */
     grid-template-columns: repeat(4, 1fr); /* Use 4 columns for the live score */

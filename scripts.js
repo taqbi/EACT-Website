@@ -384,7 +384,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 subjects = [...new Set(allQuestions.filter(q => q.category === activeCategory && q.exam === selectedExam).map(q => q.subject))];
             }
 
-            subjectFilter.innerHTML = '<option value="all">All Subjects</option>';
+            subjectFilter.innerHTML = '<option value="" disabled selected>-- Select Subject --</option>';
             subjects.forEach(subject => {
                 subjectFilter.innerHTML += `<option value="${subject}">${subject}</option>`;
             });
