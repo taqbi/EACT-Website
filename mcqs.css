@@ -113,7 +113,7 @@
 }
 #filter-container { display: none; margin-top: 20px; text-align: center; }
 #filter-label { font-weight: 600; color: #1f2a44; margin-right: 10px; }
-#filter-select {
+#filter-select, #subject-filter-select {
     /* Custom dropdown styles */
     padding: 10px 15px;
     border-radius: 8px;
@@ -125,7 +125,24 @@
     cursor: pointer;
     -webkit-appearance: none; /* Removes default browser styling */
     appearance: none;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
 }
+#quiz-mode-container, #subject-filter-container {
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9ecef; /* Slightly darker background for contrast */
+    border-radius: 12px;
+    border: 1px solid #dee2e6;
+}
+#quiz-mode-container h4 {
+    margin-top: 0;
+    color: #1f2a44;
+}
+
 #score-container {
     display: none; /* Initially hidden */
     grid-template-columns: repeat(4, 1fr); /* Use 4 columns for the live score */
@@ -300,15 +317,16 @@
     margin: 0 auto 25px auto;
     padding: 8px 15px;
     font-size: 0.9rem;
-    background-color: #ffc107;
-    color: #1f2a44;
+    background-color: #dc3545; /* Red background */
+    color: #fff; /* White text for contrast */
     border: none;
     border-radius: 6px;
     cursor: pointer;
     transition: background-color 0.3s;
+    font-weight: bold; /* Bold text */
 }
 .clear-quiz-attempts-btn:hover {
-    background-color: #e0a800;
+    background-color: #c82333; /* Darker red on hover */
 }
 #performance-history .history-item {
     background-color: #fff;
@@ -380,10 +398,6 @@
 #attempt-another-btn:hover {
     background-color: #1a233a;
 }
-.mock-option { display: block; padding: 10px; border: 1px solid #ddd; border-radius: 5px; margin-bottom: 10px; cursor: pointer; }
-.mock-option:hover { background-color: #f0f7ff; }
-.mock-option input { margin-right: 10px; }
-
 .solution-toggle-btn {
     background-color: #ffc107;
     color: #1f2a44;
@@ -417,4 +431,69 @@
     border-top: 1px dashed #ccc;
     color: #555;
     line-height: 1.5;
+}
+
+/* --- Modern Toggle Switch Styles --- */
+#pyq-mode-toggle-container {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 12px;
+    border: 1px solid #dee2e6;
+}
+.toggle-label {
+    font-weight: 600;
+    color: #6c757d; /* Softer grey for inactive label */
+    transition: color 0.3s ease;
+}
+.toggle-label.active {
+    color: #1f2a44;
+}
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #adb5bd; /* A better grey for the 'off' state */
+    transition: .4s;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Add shadow to the knob */
+    transition: .4s;
+}
+input:checked + .slider {
+    background-color: #fd7e14; /* Vibrant orange for 'on' state */
+}
+input:checked + .slider:before {
+    transform: translateX(26px);
+}
+.slider.round {
+    border-radius: 34px;
+}
+.slider.round:before {
+    border-radius: 50%;
 }

@@ -22,6 +22,9 @@
         gtag('js', new Date());
         gtag('config', 'G-4PN3J441C6');
       </script>
+
+      <!-- MathJax for rendering math equations -->
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
     
     </head>
 <body>
@@ -80,6 +83,17 @@
         <div id="filter-container">
             <label for="filter-select" id="filter-label">Select:</label>
             <select id="filter-select"></select>
+        </div>
+
+        <div id="pyq-mode-toggle-container" style="display: none;">
+            <span class="toggle-label">Subject Wise</span>
+            <label class="toggle-switch"><input type="checkbox" id="pyq-mode-toggle" checked><span class="slider round"></span></label>
+            <span class="toggle-label active">Random</span>
+        </div>
+
+        <div id="subject-filter-container" style="display: none;">
+            <label for="subject-filter-select" id="subject-filter-label">Select Subject:</label>
+            <select id="subject-filter-select"></select>
         </div>
 
         <div id="score-container" class="stat-boxes">

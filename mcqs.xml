@@ -287,6 +287,17 @@
         <explanation>Let the CP of 1 article be Re 1. Then CP of 8 articles = Rs 8. SP of 8 articles = CP of 10 articles = Rs 10. Profit = SP - CP = 10 - 8 = 2. Profit % = (Profit/CP) * 100 = (2/8) * 100 = 25%.</explanation>
     </question>
 
+    <question category="practice" exam="JKSSB General" subject="Maths">
+        <text>What is the area of a circle with a radius of 7 cm? (Use $$\pi = \frac{22}{7}$$)</text>
+        <topic>Mensuration</topic>
+        <option>144 sq. cm</option>
+        <option>154 sq. cm</option>
+        <option>164 sq. cm</option>
+        <option>174 sq. cm</option>
+        <answer>154 sq. cm</answer>
+        <explanation>The formula for the area of a circle is $$A = \pi r^2$$. Given the radius \(r = 7\) cm and $$\pi = \frac{22}{7}$$, the area is calculated as: $$A = \frac{22}{7} \times 7^2 = 22 \times 7 = 154$$ sq. cm.</explanation>
+    </question>
+
     <!-- General English -->
     <question category="practice" exam="JKSSB General" subject="General English">
         <text>Choose the synonym for the word 'Ephemeral'.</text>
