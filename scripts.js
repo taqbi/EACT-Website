@@ -478,8 +478,6 @@ document.addEventListener('DOMContentLoaded', function () {
             const { correct, attempted } = progress.scores.subject[name];
             const incorrect = attempted - correct;
             const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
-            overallAttempted += attempted;
-            overallCorrect += correct;
 
             const entryClass = getProgressClass(name);
             subjectContainer.innerHTML += `
@@ -655,19 +653,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Insert the button after the options div
                 optionsDiv.insertAdjacentElement('afterend', solutionButton);
     
-                // New Progress Tracking Logic:
-                const isAllSubjectsMode = document.getElementById('pyq-mode-toggle').checked;
+                // New Progress Tracking Logic: Always update both exam and subject stats.
+                updateProgress(question.exam, 'exam', isCorrect, question.id);
+                updateProgress(question.subject, 'subject', isCorrect, question.id);
 
-                if (isAllSubjectsMode) {
-                    // In "All Subjects" mode, update progress for BOTH the exam and the subject.
-                    updateProgress(question.exam, 'exam', isCorrect, question.id);
-                    updateProgress(question.subject, 'subject', isCorrect, question.id);
-                } else {
-                    // In "Subject Wise" mode, only update the subject's progress.
-                    updateProgress(question.subject, 'subject', isCorrect, question.id);
-                }
-
-                    updateScore();
+                updateScore();
             }
         });
     }
