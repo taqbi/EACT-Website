@@ -45,122 +45,6 @@ body, html {
   
 }
 
-/* Basic Layout */
-#layout-menu {
-    width: 50px;
-    background-color: #1f2a44;
-    transition: all 0.3s ease;
-  }
-  #layout-menu:hover
-  {
-    width: 250px;
-  }
-  
-  #layout-menu.collapsed {
-    width: 60px; /* Collapsed width */
-  }
-  
-  /* Menu Icon and Text Style */
-  .app-brand-link {
-    display: flex;
-    align-items: center;
-    padding: 20px;
-  }
-  
-  .app-brand-logo img {
-    width: 32px;
-    height: auto;
-  }
-  
-  .app-brand-text {
-    color: #fff;
-    font-size: 1.2rem;
-    margin-left: 10px;
-  }
-  
-  .layout-menu-toggle {
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    cursor: pointer;
-  }
-  
-  /* Menu List Styling */
-  .menu-inner {
-    padding: 0;
-    list-style-type: none;
-    margin: 0;
-  }
-  
-  .menu-item {
-    border-bottom: 1px solid #2c3e50;
-  }
-  .menu-item:hover {
-    border: 2px solid #ffffff;
-    border-radius: 2%;
-  }
-  .menu-link {
-    display: flex;
-    align-items: center;
-    padding: 15px 20px;
-    color: #fff;
-    text-decoration: none;
-    transition: background-color 0.2s ease;
-  }
-  
-  .menu-link:hover {
-    background-color: #34495e;
-  }
-  
-  .menu-icon {
-    font-size: 20px;
-    margin-right: 15px;
-  }
-  
-  .menu-header {
-    font-size: 0.9rem;
-    color: #bdc3c7;
-    padding: 10px 20px;
-  }
-  
-  .menu-header-text {
-    text-transform: uppercase;
-  }
-  
-  /* Collapse/Expand Handling */
-  .layout-menu.collapsed .menu-text {
-    display: none;
-  }
-  
-  .layout-menu.collapsed .menu-icon {
-    font-size: 24px;
-  }
-  
-  /* Icon adjustments */
-  .ti-menu-2 {
-    font-size: 24px;
-    color: #fff;
-  }
-  
-  .ti-x {
-    font-size: 24px;
-    color: #fff;
-  }
-  
-  /* Shadow and Overlay */
-  .menu-inner-shadow {
-    position: absolute;
-    background: rgba(0, 0, 0, 0.3);
-    width: 100%;
-    height: 100%;
-    top: 0;
-    right: 0;
-    z-index: -1;
-  }
-  
-  
-  
-
 
 
 .navbar {
@@ -188,21 +72,6 @@ body, html {
     background-color: #1f2a44;
     color: #ffffff;
     transform: scale(1.05);
-    border-radius: 10px;
-}
-.menu-item a {
-    color: #ffffff;
-    text-decoration: none;
-    transition: background-color 0.3s ease, transform 0.3s ease;
-    font-weight: bold; 
-    font-family: 'Poppins', sans-serif;
-
-}
-
-.menu-item a:hover {
-    background-color: #1f2a44;
-    color: #ffffff;
-    transform: scale(1.0);
     border-radius: 10px;
 }
 
@@ -968,23 +837,6 @@ fieldset.video-item legend {
    ========================================================= */
 @media (max-width: 768px) {
     /* Sidebar adjustments */
-    #layout-menu {
-        width: 200px;
-    }
-
-    #layout-menu.collapsed {
-        width: 50px;
-    }
-
-    .sidebar {
-        width: 50%;
-        float: left;
-        box-sizing: border-box;
-    }
-
-    .menu-item .menu-link {
-        padding: 10px 15px;
-    }
 
     /* Navbar layout */
     .navbar {
@@ -1116,10 +968,3 @@ fieldset.video-item legend {
         font-size: 0.6rem;
     }
 }
-
-
-
-
-
-
-

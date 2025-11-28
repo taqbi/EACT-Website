@@ -1,30 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     console.log("JS file is loaded and executed.");
 
-    // Sidebar toggle logic
-    const sidebarToggle = document.getElementById('sidebar-toggle');
-    const sidebar = document.querySelector('.sidebar') || document.getElementById('layout-menu');
-
-    if (sidebarToggle && sidebar) {
-        sidebarToggle.addEventListener('click', function () {
-            sidebar.classList.toggle('collapsed');
-        });
-    }
-
-    // Automatically collapse sidebar on mobile, expand on desktop
-    if (sidebar) {
-        function setSidebarState() {
-            if (window.innerWidth >= 992) {
-                sidebar.classList.remove('collapsed');
-            } else {
-                sidebar.classList.add('collapsed');
-            }
-        }
-
-        setSidebarState(); // initial check
-        window.addEventListener('resize', setSidebarState); // update on resize
-    }
-
     // Load updates on page load
     const updateList = document.getElementById("update-list");
     if (updateList) {
@@ -35,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function loadUpdates(showAll = false) {
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "updates.xml", true);
+        xhr.open("GET", "data/updates.xml", true);
         xhr.onreadystatechange = function () {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 var xmlDoc = xhr.responseXML;
@@ -134,9 +110,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     const sections = [
-        { id: 'courses-section', file: 'courses.xml', grid: 'courses-grid' },
-        { id: 'jobs-section', file: 'jobs.xml', grid: 'jobs-grid' },
-        { id: 'admissions-section', file: 'admissions.xml', grid: 'admissions-grid' }
+        { id: 'courses-section', file: 'data/courses.xml', grid: 'courses-grid' },
+        { id: 'jobs-section', file: 'data/jobs.xml', grid: 'jobs-grid' },
+        { id: 'admissions-section', file: 'data/admissions.xml', grid: 'admissions-grid' }
     ];
 
     sections.forEach(({ id, file, grid }) => {
@@ -263,7 +239,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Fetch and parse XML data
     // This logic should only run AFTER the questions are loaded.
-    fetch('mcqs.xml')
+    fetch('data/mcqs.xml')
         .then(response => response.text())
         .then(data => {
             const parser = new DOMParser();

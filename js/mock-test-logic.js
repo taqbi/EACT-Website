@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- 1. Fetch Mock Test Data ---
-    fetch('mocks.xml')
+    fetch('data/mocks.xml')
         .then(response => response.text())
         .then(data => {
             const parser = new DOMParser();
