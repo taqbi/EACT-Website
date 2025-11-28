@@ -413,9 +413,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 return categoryMatch && examMatch && subjectMatch; // All conditions must be true
             });
 
-            if (shuffle) {
-                currentQuestions.sort(() => Math.random() - 0.5);
-            }
+            // Shuffling has been disabled as per user request.
 
             console.log(`Found ${currentQuestions.length} questions.`);
             // Determine quizType for progress tracking. Prioritize subject if specific.
