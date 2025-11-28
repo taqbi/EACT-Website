@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quizzes>
     <!-- PYQs: Exam Wise -->
-    <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <question category="pyq" exam="JKSSB FAA (Finance Accounts Assistant)" subject="J&amp;K GK">
         <text>According to the J&amp;K Reorganisation Act 2019, how many Schedules are there in the Act?</text>
         <topic>J&amp;K Reorganisation Act</topic>
         <option>5 Schedules</option>
@@ -12,7 +12,7 @@
         <explanation>The Jammu and Kashmir Reorganisation Act, 2019 contains 103 sections, 14 parts, and 5 schedules. These schedules deal with various administrative and legal aspects of the new Union Territories.</explanation>
     </question>
 
-    <question category="pyq" exam="JKP SI" subject="J&amp;K GK">
+    <question category="pyq" exam="JKPSI (Sub Inspector)" subject="J&amp;K GK">
         <text>Who among the following was the first Lieutenant Governor of Jammu and Kashmir?</text>
         <topic>J&amp;K Polity</topic>
         <option>Manoj Sinha</option>
@@ -34,7 +34,7 @@
         <explanation>The 73rd Constitutional Amendment Act, 1992, added Part IX to the Constitution, titled "The Panchayats," which constitutionalized the Panchayati Raj system in India.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <question category="pyq" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>The business is treated as a separate entity from its owners. This is based on which accounting principle?</text>
         <topic>Accounting Principles</topic>
         <option>Money Measurement Concept</option>
@@ -45,7 +45,7 @@
         <explanation>The Business Entity Concept states that the business and its owner are two separate entities. All transactions are recorded from the viewpoint of the business, not the owner.</explanation>
     </question>
 
-    <question category="pyq" exam="JKP SI" subject="History">
+    <question category="pyq" exam="JKPSI (Sub Inspector)" subject="History">
         <text>The Battle of Plassey was fought in which year?</text>
         <topic>Indian History</topic>
         <option>1757</option>
@@ -57,7 +57,7 @@
     </question>
 
     <!-- New PYQs by Subject -->
-    <question category="pyq" exam="General" subject="History">
+    <question category="pyq" exam="JKSSB General" subject="History">
         <text>The first session of the Indian National Congress was held at?</text>
         <topic>Indian National Movement</topic>
         <option>Calcutta</option>
@@ -68,7 +68,7 @@
         <explanation>The first session of the Indian National Congress was held from 28–31 December 1885 in Bombay (now Mumbai) and was attended by 72 delegates.</explanation>
     </question>
 
-    <question category="pyq" exam="General" subject="J&amp;K GK">
+    <question category="pyq" exam="JKSSB General" subject="J&amp;K GK">
         <text>Which lake in Jammu and Kashmir is a major tourist attraction and is known for its houseboats?</text>
         <topic>Lakes and Rivers</topic>
         <option>Wular Lake</option>
@@ -82,7 +82,7 @@
     <!-- MCQs for Practice: Subject Wise -->
     
     <!-- Accountancy (Targeting FAA) -->
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Which accounting concept assumes that a business will continue to operate for an indefinite period?</text>
         <topic>Accounting Concepts</topic>
         <option>Cost Concept</option>
@@ -93,7 +93,7 @@
         <explanation>The Going Concern Concept is the assumption that a business will remain in operation for the foreseeable future. It is a fundamental principle of accounting.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Trial Balance is prepared to check the _________ accuracy of the books of accounts.</text>
         <topic>Trial Balance</topic>
         <option>Arithmetical</option>
@@ -104,7 +104,7 @@
         <explanation>A Trial Balance is a statement showing the balances of all accounts in the ledger. Its primary purpose is to verify the arithmetical accuracy of the postings to the ledger accounts.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>What does the term 'Depreciation' refer to?</text>
         <topic>Depreciation</topic>
         <option>Increase in the value of an asset</option>
@@ -116,7 +116,7 @@
     </question>
 
     <!-- J&K GK -->
-    <question category="practice" exam="General" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB General" subject="J&amp;K GK">
         <text>The famous 'Treaty of Amritsar' which marked the beginning of Dogra rule in Kashmir was signed in which year?</text>
         <topic>History of J&amp;K</topic>
         <option>1846</option>
@@ -127,7 +127,7 @@
         <explanation>The Treaty of Amritsar was signed on March 16, 1846, between the British East India Company and Maharaja Gulab Singh. It formalized the sale of Kashmir to Gulab Singh, establishing the Dogra dynasty.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB General" subject="J&amp;K GK">
         <text>Which national park in J&amp;K is famous for the 'Hangul' (Kashmir Stag)?</text>
         <topic>Flora and Fauna</topic>
         <option>Kazinag National Park</option>
@@ -138,7 +138,7 @@
         <explanation>Dachigam National Park, located near Srinagar, is the primary habitat of the critically endangered Hangul, also known as the Kashmir Stag.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB General" subject="J&amp;K GK">
         <text>The river Chenab originates from which state in India?</text>
         <topic>Geography of J&amp;K</topic>
         <option>Jammu and Kashmir</option>
@@ -196,7 +196,7 @@
     </question>
 
     <!-- General Science -->
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>Which vitamin is also known as 'Ascorbic Acid' and helps in healing wounds?</text>
         <topic>Vitamins and Diseases</topic>
         <option>Vitamin A</option>
@@ -207,7 +207,7 @@
         <explanation>Vitamin C, or Ascorbic Acid, is essential for the growth, development, and repair of all body tissues. It's involved in many body functions, including the formation of collagen and wound healing.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>What is the chemical symbol for Gold?</text>
         <topic>Chemistry</topic>
         <option>Ag</option>
@@ -219,7 +219,7 @@
     </question>
 
     <!-- Economics -->
-    <question category="practice" exam="JKSSB FAA" subject="Economics">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Economics">
         <text>Which organization calculates the GDP of India?</text>
         <topic>National Income</topic>
         <option>Reserve Bank of India (RBI)</option>
@@ -230,7 +230,7 @@
         <explanation>The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for compiling and releasing the estimates of Gross Domestic Product (GDP) in India.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Economics">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Economics">
         <text>What is 'Fiscal Deficit'?</text>
         <topic>Budgeting</topic>
         <option>Total revenue minus total expenditure</option>
@@ -242,7 +242,7 @@
     </question>
 
     <!-- Reasoning -->
-    <question category="practice" exam="JKP SI" subject="Reasoning">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Reasoning">
         <text>If 'APPLE' is coded as 'BQQMF', how is 'GRAPE' coded?</text>
         <topic>Coding-Decoding</topic>
         <option>HSBQF</option>
@@ -253,7 +253,7 @@
         <explanation>The pattern is +1 for each letter. G(7)+1=H(8), R(18)+1=S(19), A(1)+1=B(2), P(16)+1=Q(17), E(5)+1=F(6). So, GRAPE becomes HSBQF.</explanation>
     </question>
 
-    <question category="practice" exam="JKP SI" subject="Reasoning">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Reasoning">
         <text>Find the next number in the series: 2, 5, 10, 17, 26, ?</text>
         <topic>Number Series</topic>
         <option>35</option>
@@ -265,7 +265,7 @@
     </question>
 
     <!-- Maths/Aptitude -->
-    <question category="practice" exam="JKP SI" subject="Maths">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Maths">
         <text>A train 120 meters long crosses a pole in 6 seconds. What is the speed of the train in km/hr?</text>
         <topic>Time, Speed and Distance</topic>
         <option>60 km/hr</option>
@@ -276,7 +276,7 @@
         <explanation>Speed = Distance / Time = 120m / 6s = 20 m/s. To convert m/s to km/hr, multiply by 18/5. So, 20 * (18/5) = 72 km/hr.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Maths">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Maths">
         <text>If the cost price of 10 articles is equal to the selling price of 8 articles, what is the profit percentage?</text>
         <topic>Profit and Loss</topic>
         <option>20%</option>
@@ -288,7 +288,7 @@
     </question>
 
     <!-- General English -->
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>Choose the synonym for the word 'Ephemeral'.</text>
         <topic>Vocabulary</topic>
         <option>Eternal</option>
@@ -299,7 +299,7 @@
         <explanation>Ephemeral means lasting for a very short time. Transient has the same meaning.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>Identify the part of the sentence that has an error: 'He is one of the tallest boy in the class.'</text>
         <topic>Grammar</topic>
         <option>He is</option>
@@ -313,7 +313,7 @@
     <!-- SECTION 1: J&K GENERAL KNOWLEDGE (PYQ & Practice) -->
     <!-- ========================================== -->
 
-    <question category="pyq" exam="JKSSB Class IV" subject="J&amp;K GK">
+    <question category="pyq" exam="JKSSB Class IV (MTS)" subject="J&amp;K GK">
         <text>Which town in Jammu and Kashmir is known as the 'Saffron Town of Kashmir'?</text>
         <topic>Geography of J&amp;K</topic>
         <option>Sopore</option>
@@ -324,7 +324,7 @@
         <explanation>Pampore, located in the Pulwama district, is famous worldwide for its high-quality saffron cultivation.</explanation>
     </question>
 
-    <question category="pyq" exam="JKP SI" subject="J&amp;K GK">
+    <question category="pyq" exam="JKPSI (Sub Inspector)" subject="J&amp;K GK">
         <text>Who built the famous Martand Sun Temple in Kashmir?</text>
         <topic>History of J&amp;K</topic>
         <option>Lalitaditya Muktapida</option>
@@ -335,7 +335,7 @@
         <explanation>The Martand Sun Temple was built by the Karkota dynasty king Lalitaditya Muktapida in the 8th century CE.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="J&amp;K GK">
         <text>Which Soil type in Kashmir is most suitable for Saffron cultivation?</text>
         <topic>Agriculture and Soils</topic>
         <option>Alluvial Soil</option>
@@ -346,7 +346,7 @@
         <explanation>Karewas are lacustrine deposits (plateaus) in the Valley of Kashmir, which are highly fertile and ideal for Saffron and Apple cultivation.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB General" subject="J&amp;K GK">
         <text>Which is the longest river in Jammu and Kashmir?</text>
         <topic>Rivers and Lakes</topic>
         <option>Jhelum</option>
@@ -357,7 +357,7 @@
         <explanation>The Chenab is the longest river flowing through Jammu and Kashmir. It is formed by the confluence of Chandra and Bhaga.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB VLW" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB Panchayat Secretary (VLW)" subject="J&amp;K GK">
         <text>The 'Hemis Festival' is dedicated to Lord Padmasambhava and is celebrated in which region?</text>
         <topic>Culture and Heritage</topic>
         <option>Jammu</option>
@@ -368,7 +368,7 @@
         <explanation>The Hemis Festival is a major Buddhist festival celebrated at the Hemis Monastery in Ladakh to honor Guru Padmasambhava.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="J&amp;K GK">
+    <question category="practice" exam="JKSSB General" subject="J&amp;K GK">
         <text>According to the J&amp;K Reorganisation Act 2019, the High Court of J&amp;K shall be the Common High Court for?</text>
         <topic>J&amp;K Reorganisation Act</topic>
         <option>UT of J&amp;K only</option>
@@ -383,7 +383,7 @@
     <!-- SECTION 2: ACCOUNTANCY (Focused on FAA) -->
     <!-- ========================================== -->
 
-    <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <question category="pyq" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Cash Book records:</text>
         <topic>Books of Original Entry</topic>
         <option>All cash receipts and payments</option>
@@ -394,7 +394,7 @@
         <explanation>A Cash Book is a special journal that is used to record all cash receipts and cash payments. It does not record credit transactions.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Who is considered the 'Father of Double Entry Bookkeeping'?</text>
         <topic>Introduction to Accounting</topic>
         <option>Adam Smith</option>
@@ -405,7 +405,7 @@
         <explanation>Luca Pacioli, an Italian mathematician, is credited with describing the system of double-entry bookkeeping in his book 'Summa de Arithmetica' in 1494.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Expenditure incurred on the installation of new machinery is treated as:</text>
         <topic>Capital vs Revenue Expenditure</topic>
         <option>Revenue Expenditure</option>
@@ -416,7 +416,7 @@
         <explanation>Costs incurred to put an asset into working condition (like installation charges) are capitalized and added to the cost of the asset.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Accountancy">
         <text>Which of the following errors is NOT disclosed by the Trial Balance?</text>
         <topic>Rectification of Errors</topic>
         <option>Error of Casting</option>
@@ -442,7 +442,7 @@
         <explanation>Ctrl + V is the universal shortcut for pasting content from the clipboard. Ctrl + P is for Print.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB VLW" subject="Computer Awareness">
+    <question category="pyq" exam="JKSSB Panchayat Secretary (VLW)" subject="Computer Awareness">
         <text>The file extension '.pptx' is associated with which application?</text>
         <topic>File Extensions</topic>
         <option>MS Word</option>
@@ -475,7 +475,7 @@
         <explanation>A scanner is an input device that captures images from photographic prints, posters, magazine pages, etc., for computer editing and display. The others are output devices.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB VLW" subject="Computer Awareness">
+    <question category="practice" exam="JKSSB Panchayat Secretary (VLW)" subject="Computer Awareness">
         <text>What does 'CPU' stand for?</text>
         <topic>Abbreviations</topic>
         <option>Central Processing Unit</option>
@@ -501,7 +501,7 @@
     <!-- SECTION 4: INDIAN POLITY & GK -->
     <!-- ========================================== -->
 
-    <question category="pyq" exam="JKPSI" subject="Indian Polity">
+    <question category="pyq" exam="JKPSI (Sub Inspector)" subject="Indian Polity">
         <text>Which Article of the Indian Constitution deals with the 'Abolition of Untouchability'?</text>
         <topic>Fundamental Rights</topic>
         <option>Article 16</option>
@@ -512,7 +512,7 @@
         <explanation>Article 17 abolishes 'untouchability' and forbids its practice in any form. It is a fundamental right.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="Indian Polity">
+    <question category="practice" exam="JKSSB General" subject="Indian Polity">
         <text>Who appoints the Chief Election Commissioner of India?</text>
         <topic>Constitutional Bodies</topic>
         <option>Prime Minister</option>
@@ -523,7 +523,7 @@
         <explanation>The Chief Election Commissioner and other Election Commissioners are appointed by the President of India.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="Indian History">
+    <question category="practice" exam="JKSSB General" subject="History">
         <text>Who was the Viceroy of India at the time of the Partition of Bengal (1905)?</text>
         <topic>Freedom Struggle</topic>
         <option>Lord Curzon</option>
@@ -534,7 +534,7 @@
         <explanation>Lord Curzon announced the partition of Bengal in 1905, which led to the Swadeshi Movement.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="Indian Geography">
+    <question category="practice" exam="JKSSB General" subject="Indian GK">
         <text>Which Indian state has the longest coastline?</text>
         <topic>Physical Geography</topic>
         <option>Maharashtra</option>
@@ -549,7 +549,7 @@
     <!-- SECTION 5: GENERAL SCIENCE -->
     <!-- ========================================== -->
 
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>What is the SI unit of Force?</text>
         <topic>Physics</topic>
         <option>Pascal</option>
@@ -560,7 +560,7 @@
         <explanation>The Newton (symbol: N) is the International System of Units (SI) derived unit of force.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>Which gas is commonly known as 'Laughing Gas'?</text>
         <topic>Chemistry</topic>
         <option>Nitrous Oxide</option>
@@ -571,7 +571,7 @@
         <explanation>Nitrous Oxide (N2O) is a chemical compound commonly known as laughing gas due to its euphoric effects.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>Which part of the cell is known as the 'Powerhouse of the Cell'?</text>
         <topic>Biology</topic>
         <option>Nucleus</option>
@@ -582,7 +582,7 @@
         <explanation>Mitochondria are responsible for producing energy (ATP) through cellular respiration, hence termed the powerhouse.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General Science">
+    <question category="practice" exam="JKSSB General" subject="General Science">
         <text>Deficiency of Iron in the human body causes:</text>
         <topic>Diseases and Nutrition</topic>
         <option>Scurvy</option>
@@ -597,7 +597,7 @@
     <!-- SECTION 6: ECONOMICS -->
     <!-- ========================================== -->
 
-    <question category="practice" exam="JKSSB FAA" subject="Economics">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Economics">
         <text>Which market structure has a single seller controlling the entire market?</text>
         <topic>Market Structures</topic>
         <option>Perfect Competition</option>
@@ -608,7 +608,7 @@
         <explanation>A Monopoly is a market structure characterized by a single seller, selling a unique product in the market with no close substitutes.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Economics">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Economics">
         <text>The 'Mahalanobis Model' was adopted in which Five Year Plan of India?</text>
         <topic>Planning in India</topic>
         <option>First Five Year Plan</option>
@@ -623,7 +623,7 @@
     <!-- SECTION 7: ENGLISH & REASONING -->
     <!-- ========================================== -->
 
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>Choose the correct preposition: The cat jumped ______ the table.</text>
         <topic>Prepositions</topic>
         <option>in</option>
@@ -1108,7 +1108,7 @@
         <explanation>The adjective 'afraid' is typically followed by the preposition 'of'.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>Choose the correctly spelled word.</text>
         <topic>Spelling</topic>
         <option>Acomodation</option>
@@ -1119,7 +1119,7 @@
         <explanation>The correct spelling is A-c-c-o-m-m-o-d-a-t-i-o-n (Double c, double m).</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>What is the synonym of 'Candid'?</text>
         <topic>Vocabulary</topic>
         <option>Secretive</option>
@@ -1130,7 +1130,7 @@
         <explanation>Candid means truthful and straightforward; Frank.</explanation>
     </question>
 
-    <question category="practice" exam="General" subject="General English">
+    <question category="practice" exam="JKSSB General" subject="General English">
         <text>A person who can speak two languages is called:</text>
         <topic>One Word Substitution</topic>
         <option>Linguist</option>
@@ -1145,7 +1145,7 @@
     <!-- SECTION 7: REASONING & MATHS -->
     <!-- ======================================================= -->
 
-    <question category="practice" exam="JKP SI" subject="Reasoning">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Reasoning">
         <text>If South-East becomes North, North-East becomes West, and so on. What will West become?</text>
         <topic>Direction Sense</topic>
         <option>North-East</option>
@@ -1156,7 +1156,7 @@
         <explanation>The directions are shifting 135 degrees clockwise. West shifted 135 degrees clockwise becomes South-East.</explanation>
     </question>
 
-    <question category="practice" exam="JKP SI" subject="Reasoning">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Reasoning">
         <text>Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?</text>
         <topic>Number Series</topic>
         <option>22</option>
@@ -1167,7 +1167,7 @@
         <explanation>The pattern is: -1, +2, -1, +2. The last number was 23. So, 23 + 2 = 25.</explanation>
     </question>
 
-    <question category="practice" exam="JKSSB FAA" subject="Maths">
+    <question category="practice" exam="JKSSB FAA (Finance Accounts Assistant)" subject="Maths">
         <text>If A:B = 3:4 and B:C = 8:9, then A:C is?</text>
         <topic>Ratio and Proportion</topic>
         <option>1:2</option>
@@ -1178,7 +1178,7 @@
         <explanation>A/B = 3/4, B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3.</explanation>
     </question>
 
-    <question category="practice" exam="JKP SI" subject="Maths">
+    <question category="practice" exam="JKPSI (Sub Inspector)" subject="Maths">
         <text>A man buys a toy for Rs. 25 and sells it for Rs. 30. Find his gain percent.</text>
         <topic>Profit and Loss</topic>
         <option>20%</option>
