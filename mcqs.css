@@ -2,10 +2,10 @@
     padding: 20px;
     max-width: 950px; /* Slightly wider for better spacing */
     margin: 20px auto;
-    background-color: #f7f9fc; /* A very light, clean background */
+    background: #ffffff; /* Clean white background */
     border-radius: 16px; /* More rounded corners */
-    border: 1px solid #e9eef5;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    border: 1px solid #e0e7ef;
+    box-shadow: 0 8px 32px rgba(0, 30, 80, 0.1); /* Softer, more pronounced shadow */
 }
 .category-group {
     margin-bottom: 20px;
@@ -18,16 +18,16 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 .category-group:nth-child(1) {
-    background-color: #eef5ff; /* Softer, more professional blue */
+    background: linear-gradient(135deg, #f0f7ff 0%, #e6f2ff 100%); /* Blue gradient */
 }
 .category-group:nth-child(2) {
-    background-color: #e6fffa; /* Softer, mint green */
+    background: linear-gradient(135deg, #f0fff5 0%, #e6fff0 100%); /* Green gradient */
 }
 .category-group:nth-child(3) {
-    background-color: #f4eefc; /* Softer, lavender */
+    background: linear-gradient(135deg, #f8f2ff 0%, #f1e8ff 100%); /* Purple gradient */
 }
 .category-group:nth-child(4) {
-    background-color: #fff8e1; /* Softer, light yellow */
+    background: linear-gradient(135deg, #fffaf0 0%, #fff5e6 100%); /* Yellow gradient */
 }
 .category-group h3 {
     margin-bottom: 15px; /* Increased space below heading */
@@ -35,7 +35,7 @@
     padding-bottom: 10px;
     display: flex;
     align-items: center;
-    font-size: 1.4rem; /* Larger font size */
+    font-size: 1.5rem; /* Larger font size */
     font-weight: 700; /* Bolder text */
     color: #1f2a44; /* Use primary site color */
 }
@@ -60,7 +60,7 @@
     transition: all 0.3s ease;
     display: inline-flex;
     align-items: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08); /* Slightly stronger shadow */
 }
 .category-buttons {
     display: none; /* Hide the button containers by default */
@@ -71,8 +71,8 @@
 .category-buttons button:hover {
     background-color: #1f2a44;
     color: #fff;
-    transform: translateY(-2px); /* Slight lift on hover */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    transform: translateY(-3px); /* Slight lift on hover */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
 }
 
 /* --- Color-coded buttons for each category --- */
@@ -133,7 +133,7 @@
     padding: 10px;
 }
 .question-topic {
-    display: inline-block;
+    display: inline-block; 
     background-color: #e9ecef;
     color: #495057;
     padding: 4px 8px;
@@ -142,7 +142,7 @@
     margin-bottom: 10px;
 }
 .question.already-attempted {
-    background-color: #f8f9fa; /* A light grey to indicate it's been seen */
+    background-color: #f1f3f5; /* A light grey to indicate it's been seen */
     border-left: 4px solid #6c757d; /* A subtle left border */
     padding-left: 15px;
 }

@@ -309,4 +309,885 @@
         <answer>one of the tallest boy</answer>
         <explanation>The phrase 'one of the' is always followed by a plural noun. The correct sentence should be 'He is one of the tallest boys in the class.'</explanation>
     </question>
+  <!-- ========================================== -->
+    <!-- SECTION 1: J&K GENERAL KNOWLEDGE (PYQ & Practice) -->
+    <!-- ========================================== -->
+
+    <question category="pyq" exam="JKSSB Class IV" subject="J&amp;K GK">
+        <text>Which town in Jammu and Kashmir is known as the 'Saffron Town of Kashmir'?</text>
+        <topic>Geography of J&amp;K</topic>
+        <option>Sopore</option>
+        <option>Pampore</option>
+        <option>Anantnag</option>
+        <option>Shopian</option>
+        <answer>Pampore</answer>
+        <explanation>Pampore, located in the Pulwama district, is famous worldwide for its high-quality saffron cultivation.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKP SI" subject="J&amp;K GK">
+        <text>Who built the famous Martand Sun Temple in Kashmir?</text>
+        <topic>History of J&amp;K</topic>
+        <option>Lalitaditya Muktapida</option>
+        <option>Avantivarman</option>
+        <option>Didda</option>
+        <option>Zain-ul-Abidin</option>
+        <answer>Lalitaditya Muktapida</answer>
+        <explanation>The Martand Sun Temple was built by the Karkota dynasty king Lalitaditya Muktapida in the 8th century CE.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="J&amp;K GK">
+        <text>Which Soil type in Kashmir is most suitable for Saffron cultivation?</text>
+        <topic>Agriculture and Soils</topic>
+        <option>Alluvial Soil</option>
+        <option>Karewa Soil</option>
+        <option>Red Soil</option>
+        <option>Sandy Soil</option>
+        <answer>Karewa Soil</answer>
+        <explanation>Karewas are lacustrine deposits (plateaus) in the Valley of Kashmir, which are highly fertile and ideal for Saffron and Apple cultivation.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>Which is the longest river in Jammu and Kashmir?</text>
+        <topic>Rivers and Lakes</topic>
+        <option>Jhelum</option>
+        <option>Indus</option>
+        <option>Chenab</option>
+        <option>Ravi</option>
+        <answer>Chenab</answer>
+        <explanation>The Chenab is the longest river flowing through Jammu and Kashmir. It is formed by the confluence of Chandra and Bhaga.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="J&amp;K GK">
+        <text>The 'Hemis Festival' is dedicated to Lord Padmasambhava and is celebrated in which region?</text>
+        <topic>Culture and Heritage</topic>
+        <option>Jammu</option>
+        <option>Kashmir Valley</option>
+        <option>Ladakh</option>
+        <option>Poonch</option>
+        <answer>Ladakh</answer>
+        <explanation>The Hemis Festival is a major Buddhist festival celebrated at the Hemis Monastery in Ladakh to honor Guru Padmasambhava.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>According to the J&amp;K Reorganisation Act 2019, the High Court of J&amp;K shall be the Common High Court for?</text>
+        <topic>J&amp;K Reorganisation Act</topic>
+        <option>UT of J&amp;K only</option>
+        <option>UT of Ladakh only</option>
+        <option>UT of J&amp;K and UT of Ladakh</option>
+        <option>J&amp;K, Ladakh and Punjab</option>
+        <answer>UT of J&amp;K and UT of Ladakh</answer>
+        <explanation>The Act establishes a common High Court for both the Union Territory of Jammu and Kashmir and the Union Territory of Ladakh.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 2: ACCOUNTANCY (Focused on FAA) -->
+    <!-- ========================================== -->
+
+    <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+        <text>Cash Book records:</text>
+        <topic>Books of Original Entry</topic>
+        <option>All cash receipts and payments</option>
+        <option>Cash and Credit transactions</option>
+        <option>Only Credit transactions</option>
+        <option>None of the above</option>
+        <answer>All cash receipts and payments</answer>
+        <explanation>A Cash Book is a special journal that is used to record all cash receipts and cash payments. It does not record credit transactions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who is considered the 'Father of Double Entry Bookkeeping'?</text>
+        <topic>Introduction to Accounting</topic>
+        <option>Adam Smith</option>
+        <option>Luca Pacioli</option>
+        <option>Alfred Marshall</option>
+        <option>Karl Marx</option>
+        <answer>Luca Pacioli</answer>
+        <explanation>Luca Pacioli, an Italian mathematician, is credited with describing the system of double-entry bookkeeping in his book 'Summa de Arithmetica' in 1494.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Expenditure incurred on the installation of new machinery is treated as:</text>
+        <topic>Capital vs Revenue Expenditure</topic>
+        <option>Revenue Expenditure</option>
+        <option>Capital Expenditure</option>
+        <option>Deferred Revenue Expenditure</option>
+        <option>Personal Expenditure</option>
+        <answer>Capital Expenditure</answer>
+        <explanation>Costs incurred to put an asset into working condition (like installation charges) are capitalized and added to the cost of the asset.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following errors is NOT disclosed by the Trial Balance?</text>
+        <topic>Rectification of Errors</topic>
+        <option>Error of Casting</option>
+        <option>Error of Principle</option>
+        <option>Posting to wrong side of an account</option>
+        <option>Wrong balancing of an account</option>
+        <answer>Error of Principle</answer>
+        <explanation>An Error of Principle occurs when accounting principles are violated (e.g., treating capital expenditure as revenue). Since the amounts entered are numerically correct on both sides, the Trial Balance still agrees.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 3: COMPUTER AWARENESS (Junior Assistant/VLW) -->
+    <!-- ========================================== -->
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which key combination is used to 'Paste' the selected text in MS Word?</text>
+        <topic>Shortcuts</topic>
+        <option>Ctrl + P</option>
+        <option>Ctrl + V</option>
+        <option>Ctrl + C</option>
+        <option>Ctrl + X</option>
+        <answer>Ctrl + V</answer>
+        <explanation>Ctrl + V is the universal shortcut for pasting content from the clipboard. Ctrl + P is for Print.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB VLW" subject="Computer Awareness">
+        <text>The file extension '.pptx' is associated with which application?</text>
+        <topic>File Extensions</topic>
+        <option>MS Word</option>
+        <option>MS Excel</option>
+        <option>MS PowerPoint</option>
+        <option>Notepad</option>
+        <answer>MS PowerPoint</answer>
+        <explanation>.pptx is the default file extension for presentations created in Microsoft PowerPoint (2007 and later versions).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>1 Byte is equal to how many bits?</text>
+        <topic>Memory Units</topic>
+        <option>4 bits</option>
+        <option>8 bits</option>
+        <option>16 bits</option>
+        <option>32 bits</option>
+        <answer>8 bits</answer>
+        <explanation>In computing, a byte is a unit of digital information that commonly consists of eight bits.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which of the following is an Input Device?</text>
+        <topic>Hardware</topic>
+        <option>Monitor</option>
+        <option>Printer</option>
+        <option>Scanner</option>
+        <option>Speaker</option>
+        <answer>Scanner</answer>
+        <explanation>A scanner is an input device that captures images from photographic prints, posters, magazine pages, etc., for computer editing and display. The others are output devices.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="Computer Awareness">
+        <text>What does 'CPU' stand for?</text>
+        <topic>Abbreviations</topic>
+        <option>Central Processing Unit</option>
+        <option>Computer Processing Unit</option>
+        <option>Central Programming Unit</option>
+        <option>Control Processing Unit</option>
+        <answer>Central Processing Unit</answer>
+        <explanation>The CPU is the primary component of a computer that acts as its "brain."</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which protocol is used for sending emails?</text>
+        <topic>Internet and Networking</topic>
+        <option>HTTP</option>
+        <option>FTP</option>
+        <option>SMTP</option>
+        <option>POP3</option>
+        <answer>SMTP</answer>
+        <explanation>SMTP (Simple Mail Transfer Protocol) is used for sending emails. POP3 and IMAP are used for receiving emails.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 4: INDIAN POLITY & GK -->
+    <!-- ========================================== -->
+
+    <question category="pyq" exam="JKPSI" subject="Indian Polity">
+        <text>Which Article of the Indian Constitution deals with the 'Abolition of Untouchability'?</text>
+        <topic>Fundamental Rights</topic>
+        <option>Article 16</option>
+        <option>Article 17</option>
+        <option>Article 18</option>
+        <option>Article 21</option>
+        <answer>Article 17</answer>
+        <explanation>Article 17 abolishes 'untouchability' and forbids its practice in any form. It is a fundamental right.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian Polity">
+        <text>Who appoints the Chief Election Commissioner of India?</text>
+        <topic>Constitutional Bodies</topic>
+        <option>Prime Minister</option>
+        <option>Chief Justice of India</option>
+        <option>President of India</option>
+        <option>Parliament</option>
+        <answer>President of India</answer>
+        <explanation>The Chief Election Commissioner and other Election Commissioners are appointed by the President of India.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian History">
+        <text>Who was the Viceroy of India at the time of the Partition of Bengal (1905)?</text>
+        <topic>Freedom Struggle</topic>
+        <option>Lord Curzon</option>
+        <option>Lord Canning</option>
+        <option>Lord Mountbatten</option>
+        <option>Lord Dalhousie</option>
+        <answer>Lord Curzon</answer>
+        <explanation>Lord Curzon announced the partition of Bengal in 1905, which led to the Swadeshi Movement.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian Geography">
+        <text>Which Indian state has the longest coastline?</text>
+        <topic>Physical Geography</topic>
+        <option>Maharashtra</option>
+        <option>Tamil Nadu</option>
+        <option>Gujarat</option>
+        <option>Andhra Pradesh</option>
+        <answer>Gujarat</answer>
+        <explanation>Gujarat has the longest coastline in India, covering approximately 1,600 km.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 5: GENERAL SCIENCE -->
+    <!-- ========================================== -->
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>What is the SI unit of Force?</text>
+        <topic>Physics</topic>
+        <option>Pascal</option>
+        <option>Joule</option>
+        <option>Newton</option>
+        <option>Watt</option>
+        <answer>Newton</answer>
+        <explanation>The Newton (symbol: N) is the International System of Units (SI) derived unit of force.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Which gas is commonly known as 'Laughing Gas'?</text>
+        <topic>Chemistry</topic>
+        <option>Nitrous Oxide</option>
+        <option>Carbon Dioxide</option>
+        <option>Sulfur Dioxide</option>
+        <option>Methane</option>
+        <answer>Nitrous Oxide</answer>
+        <explanation>Nitrous Oxide (N2O) is a chemical compound commonly known as laughing gas due to its euphoric effects.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Which part of the cell is known as the 'Powerhouse of the Cell'?</text>
+        <topic>Biology</topic>
+        <option>Nucleus</option>
+        <option>Mitochondria</option>
+        <option>Ribosome</option>
+        <option>Golgi Apparatus</option>
+        <answer>Mitochondria</answer>
+        <explanation>Mitochondria are responsible for producing energy (ATP) through cellular respiration, hence termed the powerhouse.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Deficiency of Iron in the human body causes:</text>
+        <topic>Diseases and Nutrition</topic>
+        <option>Scurvy</option>
+        <option>Goitre</option>
+        <option>Anaemia</option>
+        <option>Rickets</option>
+        <answer>Anaemia</answer>
+        <explanation>Iron is a crucial component of hemoglobin. Its deficiency leads to a reduction in red blood cells, causing Anaemia.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 6: ECONOMICS -->
+    <!-- ========================================== -->
+
+    <question category="practice" exam="JKSSB FAA" subject="Economics">
+        <text>Which market structure has a single seller controlling the entire market?</text>
+        <topic>Market Structures</topic>
+        <option>Perfect Competition</option>
+        <option>Monopoly</option>
+        <option>Oligopoly</option>
+        <option>Monopolistic Competition</option>
+        <answer>Monopoly</answer>
+        <explanation>A Monopoly is a market structure characterized by a single seller, selling a unique product in the market with no close substitutes.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Economics">
+        <text>The 'Mahalanobis Model' was adopted in which Five Year Plan of India?</text>
+        <topic>Planning in India</topic>
+        <option>First Five Year Plan</option>
+        <option>Second Five Year Plan</option>
+        <option>Third Five Year Plan</option>
+        <option>Fourth Five Year Plan</option>
+        <answer>Second Five Year Plan</answer>
+        <explanation>The Second Five Year Plan (1956-61) was based on the Mahalanobis model, which focused on the development of heavy industries.</explanation>
+    </question>
+
+    <!-- ========================================== -->
+    <!-- SECTION 7: ENGLISH & REASONING -->
+    <!-- ========================================== -->
+
+    <question category="practice" exam="General" subject="General English">
+        <text>Choose the correct preposition: The cat jumped ______ the table.</text>
+        <topic>Prepositions</topic>
+        <option>in</option>
+        <option>upon</option>
+        <option>at</option>
+        <option>with</option>
+        <answer>upon</answer>
+        <explanation>'Upon' suggests movement onto a surface. The cat jumped upon the table.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General English">
+        <text>Give the antonym of 'Optimistic'.</text>
+        <topic>Vocabulary</topic>
+        <option>Hopeful</option>
+        <option>Pessimistic</option>
+        <option>Realistic</option>
+        <option>Idealistic</option>
+        <answer>Pessimistic</answer>
+        <explanation>Optimistic means hopeful about the future; Pessimistic means tending to see the worst aspect of things.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Reasoning">
+        <text>Pointing to a photograph, a man said, "I have no brother or sister, but that man's father is my father's son." Whose photograph was it?</text>
+        <topic>Blood Relations</topic>
+        <option>His own</option>
+        <option>His son</option>
+        <option>His father</option>
+        <option>His nephew</option>
+        <answer>His son</answer>
+        <explanation>"My father's son" represents the speaker himself (since he has no siblings). So, "That man's father is ME". Therefore, the photograph is of his son.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="Reasoning">
+        <text>Which number does not belong in the series: 8, 27, 64, 100, 125, 216?</text>
+        <topic>Number Series</topic>
+        <option>27</option>
+        <option>100</option>
+        <option>125</option>
+        <option>216</option>
+        <answer>100</answer>
+        <explanation>The series consists of perfect cubes: 2^3=8, 3^3=27, 4^3=64, 5^3=125, 6^3=216. However, 100 is a perfect square (10^2), not a cube.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Maths">
+        <text>The average of first five multiples of 3 is:</text>
+        <topic>Average</topic>
+        <option>3</option>
+        <option>9</option>
+        <option>12</option>
+        <option>15</option>
+        <answer>9</answer>
+        <explanation>Multiples: 3, 6, 9, 12, 15. Sum = 45. Average = 45 / 5 = 9. Alternatively, for an AP, Average = Middle term = 9.</explanation>
+    </question>
+  <!-- ======================================================= -->
+    <!-- SECTION 1: J&K GENERAL KNOWLEDGE (Focus: History, Geog, Act) -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="JKSSB VLW" subject="J&amp;K GK">
+        <text>Who is the author of the famous historical book 'Rajatarangini'?</text>
+        <topic>History of J&amp;K</topic>
+        <option>Bilhana</option>
+        <option>Kalhana</option>
+        <option>Jonaraja</option>
+        <option>Abhinavagupta</option>
+        <answer>Kalhana</answer>
+        <explanation>Kalhana wrote Rajatarangini (River of Kings) in Sanskrit in the 12th century, which is the most authentic source of Kashmir's history.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="J&amp;K GK">
+        <text>Which district in J&amp;K is known as the 'Apple Bowl of Kashmir'?</text>
+        <topic>Economy and Agriculture</topic>
+        <option>Baramulla</option>
+        <option>Shopian</option>
+        <option>Pulwama</option>
+        <option>Kulgam</option>
+        <answer>Shopian</answer>
+        <explanation>Shopian district is famous for high-quality apple production and is widely referred to as the Apple Bowl of Kashmir.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>The 'Baglihar Hydroelectric Power Project' is constructed on which river?</text>
+        <topic>Hydro Projects</topic>
+        <option>Jhelum</option>
+        <option>Chenab</option>
+        <option>Ravi</option>
+        <option>Indus</option>
+        <answer>Chenab</answer>
+        <explanation>The Baglihar Dam is a run-of-the-river power project on the Chenab River in the Ramban district of J&amp;K.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="J&amp;K GK">
+        <text>Which pass connects Jammu with Srinagar?</text>
+        <topic>Geography and Transport</topic>
+        <option>Zojila Pass</option>
+        <option>Banihal Pass</option>
+        <option>Pir Panjal Pass</option>
+        <option>Burzil Pass</option>
+        <answer>Banihal Pass</answer>
+        <explanation>Banihal Pass is a mountain pass across the Pir Panjal Range connecting Jammu to the Kashmir Valley. The Jawahar Tunnel is located here.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>Who was the last ruling Maharaja of the Princely State of Jammu and Kashmir?</text>
+        <topic>History of J&amp;K</topic>
+        <option>Maharaja Gulab Singh</option>
+        <option>Maharaja Pratap Singh</option>
+        <option>Maharaja Hari Singh</option>
+        <option>Maharaja Ranbir Singh</option>
+        <answer>Maharaja Hari Singh</answer>
+        <explanation>Maharaja Hari Singh was the last ruling monarch of the Dogra dynasty who signed the Instrument of Accession with India in 1947.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="J&amp;K GK">
+        <text>The origin of the Jhelum River is located at:</text>
+        <topic>Rivers</topic>
+        <option>Mansar Lake</option>
+        <option>Verinag Spring</option>
+        <option>Gangabal Lake</option>
+        <option>Sheshnag</option>
+        <answer>Verinag Spring</answer>
+        <explanation>The Jhelum River originates from the Verinag Spring located at the foot of the Pir Panjal range in the Anantnag district.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which Act replaced the Ranbir Penal Code (RPC) in J&amp;K?</text>
+        <topic>J&amp;K Reorganisation</topic>
+        <option>Indian Penal Code (IPC)</option>
+        <option>Code of Criminal Procedure</option>
+        <option>Civil Procedure Code</option>
+        <option>Police Act</option>
+        <answer>Indian Penal Code (IPC)</answer>
+        <explanation>Post the J&amp;K Reorganisation Act 2019, the Ranbir Penal Code (RPC) was replaced by the Indian Penal Code (IPC) 1860.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>The 'Tulip Garden' in Srinagar, known as Asia's largest, is situated at the foothills of which mountain range?</text>
+        <topic>Tourism</topic>
+        <option>Pir Panjal</option>
+        <option>Zabarwan Range</option>
+        <option>Himalayas</option>
+        <option>Shivaliks</option>
+        <answer>Zabarwan Range</answer>
+        <explanation>Indira Gandhi Memorial Tulip Garden is located at the foothills of the Zabarwan Range overlooking Dal Lake.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>Which wildlife sanctuary in Jammu is famous for the 'Musk Deer'?</text>
+        <topic>Flora and Fauna</topic>
+        <option>Ramnagar Wildlife Sanctuary</option>
+        <option>Gulmarg Wildlife Sanctuary</option>
+        <option>Kishtwar High Altitude National Park</option>
+        <option>Surinsar-Mansar Sanctuary</option>
+        <answer>Gulmarg Wildlife Sanctuary</answer>
+        <explanation>While Kishtwar is also known for it, the Gulmarg Wildlife Sanctuary acts as a significant corridor and habitat for the Musk Deer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Patwari" subject="J&amp;K GK">
+        <text>In which year was the 'Jammu and Kashmir Official Languages Act' passed?</text>
+        <topic>Current Affairs/Polity</topic>
+        <option>2019</option>
+        <option>2020</option>
+        <option>2021</option>
+        <option>2018</option>
+        <answer>2020</answer>
+        <explanation>The J&amp;K Official Languages Act was passed in 2020, making Kashmiri, Dogri, Urdu, Hindi, and English the official languages.</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 2: INDIAN GENERAL KNOWLEDGE (History, Polity, Geog) -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="JKPSI" subject="Indian Polity">
+        <text>The 'Fundamental Duties' in the Indian Constitution were adopted from the constitution of which country?</text>
+        <topic>Sources of Constitution</topic>
+        <option>USA</option>
+        <option>USSR (now Russia)</option>
+        <option>Canada</option>
+        <option>Ireland</option>
+        <answer>USSR (now Russia)</answer>
+        <explanation>Fundamental Duties (Article 51A) were borrowed from the constitution of the former USSR.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian History">
+        <text>Who among the following is known as the 'Iron Man of India'?</text>
+        <topic>Freedom Fighters</topic>
+        <option>Subhash Chandra Bose</option>
+        <option>Sardar Vallabhbhai Patel</option>
+        <option>Jawaharlal Nehru</option>
+        <option>Lala Lajpat Rai</option>
+        <answer>Sardar Vallabhbhai Patel</answer>
+        <explanation>Sardar Patel is called the Iron Man of India for his role in integrating the princely states into the Indian Union.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian Geography">
+        <text>Which is the oldest mountain range in India?</text>
+        <topic>Physical Features</topic>
+        <option>Himalayas</option>
+        <option>Aravalli Range</option>
+        <option>Satpura Range</option>
+        <option>Western Ghats</option>
+        <answer>Aravalli Range</answer>
+        <explanation>The Aravalli Range is the oldest fold mountain system in India, running across Gujarat, Rajasthan, Haryana, and Delhi.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Indian Polity">
+        <text>Which Schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha?</text>
+        <topic>Schedules</topic>
+        <option>Third Schedule</option>
+        <option>Fourth Schedule</option>
+        <option>Fifth Schedule</option>
+        <option>Sixth Schedule</option>
+        <answer>Fourth Schedule</answer>
+        <explanation>The Fourth Schedule contains provisions regarding the allocation of seats in the Rajya Sabha to the States and Union Territories.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian History">
+        <text>The 'Dandi March' was undertaken by Gandhiji in which year?</text>
+        <topic>Gandhian Era</topic>
+        <option>1920</option>
+        <option>1930</option>
+        <option>1942</option>
+        <option>1919</option>
+        <answer>1930</answer>
+        <explanation>The Dandi March (Salt Satyagraha) began on March 12, 1930, as a direct action campaign of tax resistance and nonviolent protest against the British salt monopoly.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Indian Geography">
+        <text>Which Indian state is known as the 'Spice Garden of India'?</text>
+        <topic>Agriculture</topic>
+        <option>Tamil Nadu</option>
+        <option>Karnataka</option>
+        <option>Kerala</option>
+        <option>Andhra Pradesh</option>
+        <answer>Kerala</answer>
+        <explanation>Kerala is referred to as the Spice Garden of India due to the variety of spices cultivated there, including pepper, cardamom, and clove.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="Indian Economy">
+        <text>The Reserve Bank of India (RBI) was nationalized in which year?</text>
+        <topic>Banking</topic>
+        <option>1935</option>
+        <option>1947</option>
+        <option>1949</option>
+        <option>1950</option>
+        <answer>1949</answer>
+        <explanation>The RBI was established in 1935 but was nationalized on January 1, 1949.</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 3: COMPUTER AWARENESS (Crucial for Jr Asst/VLW) -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which of the following memory is non-volatile?</text>
+        <topic>Memory</topic>
+        <option>RAM</option>
+        <option>ROM</option>
+        <option>Cache</option>
+        <option>Registers</option>
+        <answer>ROM</answer>
+        <explanation>ROM (Read Only Memory) is non-volatile, meaning it retains data even when the power is turned off. RAM is volatile.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="Computer Awareness">
+        <text>In internet terminology, what does 'IP' stand for?</text>
+        <topic>Internet</topic>
+        <option>Internet Provider</option>
+        <option>Internet Protocol</option>
+        <option>Internal Protocol</option>
+        <option>Instant Provider</option>
+        <answer>Internet Protocol</answer>
+        <explanation>IP stands for Internet Protocol, which is a set of rules governing the format of data sent over the internet.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which key is used to 'Refresh' the active window in Windows?</text>
+        <topic>Function Keys</topic>
+        <option>F2</option>
+        <option>F5</option>
+        <option>F7</option>
+        <option>F11</option>
+        <answer>F5</answer>
+        <explanation>F5 is the standard function key used to refresh or reload the content of a window or webpage.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is the binary equivalent of the decimal number 10?</text>
+        <topic>Number Systems</topic>
+        <option>1001</option>
+        <option>1010</option>
+        <option>1100</option>
+        <option>1110</option>
+        <answer>1010</answer>
+        <explanation>In binary: 8(1) + 4(0) + 2(1) + 1(0) = 1010.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="Computer Awareness">
+        <text>Who is known as the father of the Computer?</text>
+        <topic>Basics</topic>
+        <option>Alan Turing</option>
+        <option>Charles Babbage</option>
+        <option>Bill Gates</option>
+        <option>Steve Jobs</option>
+        <answer>Charles Babbage</answer>
+        <explanation>Charles Babbage is considered the "father of the computer" for his invention of the Analytical Engine.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Word, 'Portrait' and 'Landscape' are examples of?</text>
+        <topic>Page Layout</topic>
+        <option>Page Size</option>
+        <option>Page Orientation</option>
+        <option>Page Margins</option>
+        <option>Paper Source</option>
+        <answer>Page Orientation</answer>
+        <explanation>These are the two types of page orientation available in most document editors.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB VLW" subject="Computer Awareness">
+        <text>Which of the following is a malicious software?</text>
+        <topic>Security</topic>
+        <option>MS Office</option>
+        <option>Malware</option>
+        <option>Linux</option>
+        <option>Driver</option>
+        <answer>Malware</answer>
+        <explanation>Malware (Malicious Software) is designed to harm or exploit any programmable device, service, or network.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which symbol is mandatory to start a formula in MS Excel?</text>
+        <topic>MS Excel</topic>
+        <option>+</option>
+        <option>-</option>
+        <option>=</option>
+        <option>@</option>
+        <answer>=</answer>
+        <explanation>Every formula in Excel must start with an equals sign (=).</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 4: ACCOUNTANCY & BOOKKEEPING (Target: FAA) -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Goodwill is an example of which type of asset?</text>
+        <topic>Types of Assets</topic>
+        <option>Tangible Asset</option>
+        <option>Intangible Asset</option>
+        <option>Current Asset</option>
+        <option>Wasting Asset</option>
+        <answer>Intangible Asset</answer>
+        <explanation>Goodwill is an intangible asset as it has no physical existence but holds value for the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Bank Reconciliation Statement (BRS) is prepared by?</text>
+        <topic>BRS</topic>
+        <option>Bank</option>
+        <option>Account Holder (Customer)</option>
+        <option>Auditor</option>
+        <option>Debtors</option>
+        <answer>Account Holder (Customer)</answer>
+        <explanation>BRS is prepared by the customer (account holder) to reconcile the difference between the Cash Book and the Pass Book balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The process of transferring entries from Journal to Ledger is called?</text>
+        <topic>Ledger</topic>
+        <option>Recording</option>
+        <option>Posting</option>
+        <option>Journalizing</option>
+        <option>Balancing</option>
+        <answer>Posting</answer>
+        <explanation>Posting is the process of transferring debit and credit items from the journal to their respective accounts in the ledger.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What does 'Debit the Receiver, Credit the Giver' refer to?</text>
+        <topic>Golden Rules</topic>
+        <option>Real Account</option>
+        <option>Nominal Account</option>
+        <option>Personal Account</option>
+        <option>Profit and Loss Account</option>
+        <answer>Personal Account</answer>
+        <explanation>This is the Golden Rule of Accounting for Personal Accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In the absence of a partnership deed, profits and losses are shared:</text>
+        <topic>Partnership Accounts</topic>
+        <option>In capital ratio</option>
+        <option>Equally</option>
+        <option>According to time devoted</option>
+        <option>According to seniority</option>
+        <answer>Equally</answer>
+        <explanation>According to the Indian Partnership Act 1932, if there is no deed, profits/losses are shared equally regardless of capital contribution.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Outstanding Rent is a:</text>
+        <topic>Types of Accounts</topic>
+        <option>Personal Account</option>
+        <option>Real Account</option>
+        <option>Nominal Account</option>
+        <option>None of these</option>
+        <answer>Personal Account</answer>
+        <explanation>Outstanding expenses are Representative Personal Accounts as they represent a person to whom money is owed.</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 5: GENERAL SCIENCE -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Which instrument is used to measure atmospheric pressure?</text>
+        <topic>Physics</topic>
+        <option>Thermometer</option>
+        <option>Barometer</option>
+        <option>Hygrometer</option>
+        <option>Anemometer</option>
+        <answer>Barometer</answer>
+        <explanation>A Barometer is a scientific instrument used to measure atmospheric pressure.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>The hardest natural substance on Earth is:</text>
+        <topic>Chemistry</topic>
+        <option>Iron</option>
+        <option>Graphite</option>
+        <option>Diamond</option>
+        <option>Platinum</option>
+        <answer>Diamond</answer>
+        <explanation>Diamond, an allotrope of carbon, is the hardest known natural substance.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Which blood group is known as the 'Universal Donor'?</text>
+        <topic>Biology</topic>
+        <option>Group A</option>
+        <option>Group B</option>
+        <option>Group AB</option>
+        <option>Group O</option>
+        <answer>Group O</answer>
+        <explanation>Blood Group O (specifically O negative) can be donated to people of any blood group.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Electric bulb filaments are made of:</text>
+        <topic>Physics</topic>
+        <option>Copper</option>
+        <option>Tungsten</option>
+        <option>Aluminum</option>
+        <option>Silver</option>
+        <answer>Tungsten</answer>
+        <explanation>Tungsten is used because it has a very high melting point and does not melt even when it glows hot.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General Science">
+        <text>Beri-Beri is caused due to the deficiency of:</text>
+        <topic>Vitamins</topic>
+        <option>Vitamin A</option>
+        <option>Vitamin B1 (Thiamine)</option>
+        <option>Vitamin C</option>
+        <option>Vitamin D</option>
+        <answer>Vitamin B1 (Thiamine)</answer>
+        <explanation>Beri-Beri is a nutritional disorder caused by a deficiency of thiamine (Vitamin B1).</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 6: ENGLISH -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="General" subject="General English">
+        <text>Fill in the blank: He is afraid ______ dogs.</text>
+        <topic>Prepositions</topic>
+        <option>with</option>
+        <option>by</option>
+        <option>of</option>
+        <option>from</option>
+        <answer>of</answer>
+        <explanation>The adjective 'afraid' is typically followed by the preposition 'of'.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General English">
+        <text>Choose the correctly spelled word.</text>
+        <topic>Spelling</topic>
+        <option>Acomodation</option>
+        <option>Accomodation</option>
+        <option>Accommodation</option>
+        <option>Acommodation</option>
+        <answer>Accommodation</answer>
+        <explanation>The correct spelling is A-c-c-o-m-m-o-d-a-t-i-o-n (Double c, double m).</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General English">
+        <text>What is the synonym of 'Candid'?</text>
+        <topic>Vocabulary</topic>
+        <option>Secretive</option>
+        <option>Frank</option>
+        <option>Cruel</option>
+        <option>Shy</option>
+        <answer>Frank</answer>
+        <explanation>Candid means truthful and straightforward; Frank.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General English">
+        <text>A person who can speak two languages is called:</text>
+        <topic>One Word Substitution</topic>
+        <option>Linguist</option>
+        <option>Bilingual</option>
+        <option>Multilingual</option>
+        <option>Grammarian</option>
+        <answer>Bilingual</answer>
+        <explanation>Bi- prefix means two.</explanation>
+    </question>
+
+    <!-- ======================================================= -->
+    <!-- SECTION 7: REASONING & MATHS -->
+    <!-- ======================================================= -->
+
+    <question category="practice" exam="JKP SI" subject="Reasoning">
+        <text>If South-East becomes North, North-East becomes West, and so on. What will West become?</text>
+        <topic>Direction Sense</topic>
+        <option>North-East</option>
+        <option>North-West</option>
+        <option>South-East</option>
+        <option>South-West</option>
+        <answer>South-East</answer>
+        <explanation>The directions are shifting 135 degrees clockwise. West shifted 135 degrees clockwise becomes South-East.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Reasoning">
+        <text>Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?</text>
+        <topic>Number Series</topic>
+        <option>22</option>
+        <option>24</option>
+        <option>25</option>
+        <option>26</option>
+        <answer>25</answer>
+        <explanation>The pattern is: -1, +2, -1, +2. The last number was 23. So, 23 + 2 = 25.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Maths">
+        <text>If A:B = 3:4 and B:C = 8:9, then A:C is?</text>
+        <topic>Ratio and Proportion</topic>
+        <option>1:2</option>
+        <option>3:8</option>
+        <option>2:3</option>
+        <option>1:3</option>
+        <answer>2:3</answer>
+        <explanation>A/B = 3/4, B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Maths">
+        <text>A man buys a toy for Rs. 25 and sells it for Rs. 30. Find his gain percent.</text>
+        <topic>Profit and Loss</topic>
+        <option>20%</option>
+        <option>25%</option>
+        <option>15%</option>
+        <option>5%</option>
+        <answer>20%</answer>
+        <explanation>Gain = 30 - 25 = 5. Gain % = (5/25) * 100 = 20%.</explanation>
+    </question>
+
+
 </quizzes>
