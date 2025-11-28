@@ -655,11 +655,17 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Insert the button after the options div
                 optionsDiv.insertAdjacentElement('afterend', solutionButton);
     
-                    // Determine the correct name for progress tracking (either exam name or subject name)
-                const progressName = quizType === 'exam' ? question.exam : question.subject;
+                // New Progress Tracking Logic:
+                const isAllSubjectsMode = document.getElementById('pyq-mode-toggle').checked;
 
-                // Save progress to localStorage
-                updateProgress(progressName, quizType, isCorrect, question.id);
+                if (isAllSubjectsMode) {
+                    // In "All Subjects" mode, update progress for BOTH the exam and the subject.
+                    updateProgress(question.exam, 'exam', isCorrect, question.id);
+                    updateProgress(question.subject, 'subject', isCorrect, question.id);
+                } else {
+                    // In "Subject Wise" mode, only update the subject's progress.
+                    updateProgress(question.subject, 'subject', isCorrect, question.id);
+                }
 
                     updateScore();
             }
