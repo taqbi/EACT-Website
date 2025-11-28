@@ -203,11 +203,53 @@ if (categoryContainer) {
     const scoreContainer = document.getElementById('score-container');
     const filterSelect = document.getElementById('filter-select');
     const filterLabel = document.getElementById('filter-label');
+    const progressContainer = document.getElementById('progress-container');
+    const showProgressBtn = document.getElementById('show-progress-btn');
 
     let allQuestions = [];
     let currentQuestions = [];
     let score = 0;
     let attempted = 0;
+
+    // --- Progress Tracking Logic ---
+    const PROGRESS_KEY = 'eactQuizProgress';
+
+    // Function to create a simple unique ID from question text
+    function getQuestionId(questionText) {
+        let hash = 0;
+        for (let i = 0; i < questionText.length; i++) {
+            const char = questionText.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char;
+            hash |= 0; // Convert to 32bit integer
+        }
+        return 'q_' + Math.abs(hash);
+    }
+
+    function readProgress() {
+        const data = localStorage.getItem(PROGRESS_KEY);
+        // New structure with exam/subject types
+        return data ? JSON.parse(data) : { scores: { exam: {}, subject: {} }, attemptedQuestionIds: [] };
+    }
+
+    function saveProgress(progressData) {
+        localStorage.setItem(PROGRESS_KEY, JSON.stringify(progressData));
+    }
+
+    function updateProgress(subjectName, quizType, isCorrect, questionId) {
+        const progress = readProgress();
+        if (!progress.scores[quizType][subjectName]) {
+            progress.scores[quizType][subjectName] = { correct: 0, attempted: 0 };
+        }
+        progress.scores[quizType][subjectName].attempted++;
+        if (isCorrect) {
+            progress.scores[quizType][subjectName].correct++;
+        }
+        if (!progress.attemptedQuestionIds.includes(questionId)) {
+            progress.attemptedQuestionIds.push(questionId);
+        }
+        saveProgress(progress);
+    }
+
 
     // Fetch and parse XML data
     // This logic should only run AFTER the questions are loaded.
@@ -225,6 +267,7 @@ if (categoryContainer) {
                     type: node.getAttribute('type'),
                     name: node.getAttribute('name'),
                     text: node.querySelector('text').textContent,
+                    id: getQuestionId(node.querySelector('text').textContent), // Add unique ID
                     topic: node.querySelector('topic')?.textContent || 'General',
                     options: options,
                     answer: node.querySelector('answer').textContent
@@ -244,6 +287,9 @@ if (categoryContainer) {
     function setupEventListeners() {
         categoryContainer.addEventListener('click', (e) => {
             const button = e.target.closest('button');
+            // If the progress button was clicked, do nothing here. Its specific handler will take care of it.
+            if (button && button.id === 'show-progress-btn') return;
+
             if (button) {
                 const category = button.dataset.category;
                 const type = button.dataset.type;
@@ -279,8 +325,109 @@ if (categoryContainer) {
             currentQuestions = allQuestions.filter(q => q.category === category && q.type === type && q.name === selectedName);
             console.log("Found " + currentQuestions.length + " questions after filtering.");
             
-            displayQuestions();
+            displayQuestions(type); // Pass the type to displayQuestions
         });
+
+        showProgressBtn.addEventListener('click', () => {
+            resetQuizView(); // Hide any active quiz
+            displayProgress();
+        });
+
+        document.getElementById('clear-progress-btn').addEventListener('click', () => {
+            if (confirm('Are you sure you want to clear all your progress? This cannot be undone.')) {
+                localStorage.removeItem(PROGRESS_KEY);
+                displayProgress(); // Refresh the display to show it's empty
+            }
+        });
+    }
+
+    function displayProgress() {
+        // First, remove any existing overall performance section to prevent duplication
+        const existingOverall = document.querySelector('.overall-performance');
+        if (existingOverall) {
+            existingOverall.remove();
+        }
+
+        const progress = readProgress();
+        const statsContainer = document.getElementById('progress-stats');
+        statsContainer.innerHTML = `
+            <div class="progress-category">
+                <h3>Exam Wise</h3>
+                <div id="progress-exam"></div>
+            </div>
+            <div class="progress-category">
+                <h3>Subject Wise</h3>
+                <div id="progress-subject"></div>
+            </div>
+        `;
+
+        const examContainer = document.getElementById('progress-exam');
+        const subjectContainer = document.getElementById('progress-subject');
+
+        let overallAttempted = 0;
+        let overallCorrect = 0;
+
+        let hasExamScores = false;
+        for (const name in progress.scores.exam) {
+            hasExamScores = true;
+            const { correct, attempted } = progress.scores.exam[name];
+            const incorrect = attempted - correct;
+            const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
+            overallAttempted += attempted;
+            overallCorrect += correct;
+
+            examContainer.innerHTML += `
+                <p>
+                    <strong>${name}</strong>
+                    <div class="stat-boxes">
+                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                    </div>
+                </p>`;
+        }
+
+        let hasSubjectScores = false;
+        for (const name in progress.scores.subject) {
+            hasSubjectScores = true;
+            const { correct, attempted } = progress.scores.subject[name];
+            const incorrect = attempted - correct;
+            const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
+            overallAttempted += attempted;
+            overallCorrect += correct;
+
+            subjectContainer.innerHTML += `
+                <p>
+                    <strong>${name}</strong>
+                    <div class="stat-boxes">
+                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                    </div>
+                </p>`;
+        }
+
+        if (!hasExamScores && !hasSubjectScores) {
+            statsContainer.innerHTML = '<p>You have not attempted any questions yet.</p>';
+        } else {
+            // Add Overall Performance section
+            const overallIncorrect = overallAttempted - overallCorrect;
+            const overallPercentage = overallAttempted > 0 ? ((overallCorrect / overallAttempted) * 100).toFixed(1) : 0;
+            const overallHtml = `
+                <div class="overall-performance progress-category">
+                    <h3>Overall Performance</h3>
+                    <div class="stat-boxes">
+                        <div class="stat-box"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
+                    </div>
+                </div>`;
+            statsContainer.insertAdjacentHTML('afterend', overallHtml);
+        }
+        progressContainer.style.display = 'block';
     }
     
     function populateFilter(category, type) {
@@ -302,18 +449,24 @@ if (categoryContainer) {
     }
 
 
-    function displayQuestions() {
-        // Reset score and attempted count for the new set of questions
+    function displayQuestions(quizType) {
+  // Reset score and attempted count for the new set of questions
         score = 0;
         attempted = 0;
         quizContainer.innerHTML = '';
         currentQuestions.forEach((q, index) => {
+            const progress = readProgress();
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
+
+            if (progress.attemptedQuestionIds.includes(q.id)) {
+                questionEl.classList.add('already-attempted');
+            }
+
             questionEl.innerHTML = `
                 <div class="question-topic">${q.topic}</div>
                 <p>${index + 1}. ${q.text}</p>
-                <div class="options" data-question-index="${index}">
+                <div class="options" data-question-index="${index}" data-subject-name="${q.name}" data-quiz-type="${quizType}">
                     ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
                 </div>
             `;
@@ -328,6 +481,8 @@ if (categoryContainer) {
                 const optionsDiv = e.target.parentElement;
                 const questionIndex = optionsDiv.dataset.questionIndex;
                 const question = currentQuestions[questionIndex];
+                const subjectName = optionsDiv.dataset.subjectName;
+                const quizType = optionsDiv.dataset.quizType;
 
                 if (optionsDiv.classList.contains('answered')) return;
 
@@ -335,7 +490,9 @@ if (categoryContainer) {
                 attempted++;
 
                 const selectedAnswer = e.target.textContent;
-                if (selectedAnswer === question.answer) {
+                const isCorrect = selectedAnswer === question.answer;
+
+                if (isCorrect) {
                     score++;
                     e.target.classList.add('correct');
                 } else {
@@ -346,6 +503,9 @@ if (categoryContainer) {
                         }
                     });
                 }
+                // Save progress to localStorage
+                updateProgress(subjectName, quizType, isCorrect, question.id);
+
                 updateScore();
             }
         });
@@ -361,6 +521,7 @@ if (categoryContainer) {
         filterContainer.style.display = 'none';
         quizContainer.innerHTML = '';
         scoreContainer.style.display = 'none';
+        progressContainer.style.display = 'none';
         resetQuizState();
     }
 

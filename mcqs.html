@@ -69,6 +69,12 @@
                     <button data-category="mock"><i class="fas fa-play-circle"></i>Attempt Mock Test</button>
                 </div>
             </div>
+            <div class="category-group">
+                <h3><i class="fas fa-chart-line"></i>My Progress</h3>
+                <div class="category-buttons">
+                    <button id="show-progress-btn"><i class="fas fa-eye"></i>View My Progress</button>
+                </div>
+            </div>
         </div>
 
         <div id="filter-container">
@@ -78,6 +84,12 @@
 
         <div id="score-container">Score: <span id="attempted-count">0</span> attempted | <span id="correct-percentage">0.0</span>% correct</div>
         <div id="quiz-container"></div>
+
+        <div id="progress-container" style="display: none;">
+            <h2>Your Progress</h2>
+            <div id="progress-stats"></div>
+            <button id="clear-progress-btn">Clear All My Attempts</button>
+        </div>
     </div>
 </main>
 
