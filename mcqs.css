@@ -514,3 +514,31 @@ input:checked + .slider:before {
 .slider.round:before {
     border-radius: 50%;
 }
+
+/* --- Back to Top Button Styles --- */
+#back-to-top-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(31, 42, 68, 0.7); /* Translucent dark blue */
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.3s ease;
+}
+#back-to-top-btn.visible {
+    opacity: 1;
+    visibility: visible;
+}
+#back-to-top-btn:hover {
+    background-color: rgba(31, 42, 68, 1); /* Solid on hover */
+}

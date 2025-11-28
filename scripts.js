@@ -674,4 +674,26 @@ document.addEventListener('DOMContentLoaded', function () {
         updateScore();
     }
     } // This closes the 'if (categoryContainer)' block.
+
+    // --- Back to Top Button Logic ---
+    const backToTopBtn = document.getElementById('back-to-top-btn');
+
+    if (backToTopBtn) {
+        window.addEventListener('scroll', () => {
+            // Show the button if user has scrolled down 300px
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.add('visible');
+            } else {
+                backToTopBtn.classList.remove('visible');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', (e) => {
+            e.preventDefault(); // Prevent the link from adding '#' to the URL
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
 }); // This closes the 'DOMContentLoaded' event listener.
