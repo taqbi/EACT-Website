@@ -251,12 +251,12 @@ document.addEventListener('DOMContentLoaded', function () {
         if (isCorrect) {
             progress.scores[quizType][quizName].correct++;
         }
-            if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
-        if (!progress.attemptedQuestions[quizName].includes(questionId)) {
-            progress.attemptedQuestions[quizName].push(questionId);
+        // New global tracking: Add the question ID to the main list if it's not already there.
+        if (!progress.attemptedQuestions[questionId]) {
+            progress.attemptedQuestions[questionId] = true; // Mark as attempted
         }
-            saveProgress(progress);
-        }
+        saveProgress(progress);
+    }
 
 
     // Fetch and parse XML data
@@ -579,7 +579,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
 
-            const isAttempted = progress.attemptedQuestions[quizName]?.includes(q.id);
+            const isAttempted = progress.attemptedQuestions[q.id];
 
             if (isAttempted) {
                 questionEl.classList.add('already-attempted');
