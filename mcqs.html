@@ -52,28 +52,38 @@
 
     <div class="mcq-main-container">
         <div id="category-container">
-            <div class="category-group">
-                <h3><i class="fas fa-history"></i>Previous Year Questions (PYQs)</h3>
-                <!-- The buttons are removed, clicking the heading will now reveal the filters -->
-                <div class="category-filters" data-category="pyq"></div>
-            </div>
-            <div class="category-group">
-                <h3><i class="fas fa-pencil-alt"></i>MCQs for Practice</h3>
-                <!-- Applying the new filter structure here as well -->
-                <div class="category-filters" data-category="practice"></div>
-            </div>
-            <div class="category-group">
-                <h3><i class="fas fa-vial"></i>Mock Tests</h3>
-                <div class="category-buttons">
-                    <button data-category="mock"><i class="fas fa-play-circle"></i>Attempt Mock Test</button>
+            <!-- New Dashboard Card Layout -->
+            <a href="#" class="dashboard-card" data-action="show-filters" data-category="pyq">
+                <div class="card-icon"><i class="fas fa-history"></i></div>
+                <div class="card-content">
+                    <h4>PYQs</h4>
+                    <p>Practice with past exam questions.</p>
                 </div>
-            </div>
-            <div class="category-group">
-                <h3><i class="fas fa-chart-line"></i>My Progress</h3>
-                <div class="category-buttons">
-                    <button id="show-progress-btn"><i class="fas fa-eye"></i>View My Progress</button>
+            </a>
+
+            <a href="#" class="dashboard-card" data-action="show-filters" data-category="practice">
+                <div class="card-icon"><i class="fas fa-pencil-alt"></i></div>
+                <div class="card-content">
+                    <h4>Practice MCQs</h4>
+                    <p>Sharpen your skills by subject.</p>
                 </div>
-            </div>
+            </a>
+
+            <a href="mock-tests.html" class="dashboard-card" data-action="navigate">
+                <div class="card-icon"><i class="fas fa-vial"></i></div>
+                <div class="card-content">
+                    <h4>Mock Tests</h4>
+                    <p>Simulate real exam conditions.</p>
+                </div>
+            </a>
+
+            <a href="#" class="dashboard-card" data-action="show-progress">
+                <div class="card-icon"><i class="fas fa-chart-line"></i></div>
+                <div class="card-content">
+                    <h4>My Progress</h4>
+                    <p>Track your performance and scores.</p>
+                </div>
+            </a>
         </div>
 
         <!-- This is the new, unified filter container that will be populated by JS -->
@@ -96,16 +106,16 @@
         </div>
 
         <div id="score-container" class="stat-boxes">
-            <div class="stat-box">
+            <div class="stat-box stat-box--attempted">
                 <span class="stat-label">Attempted</span><span class="stat-value" id="attempted-count">0</span>
             </div>
-            <div class="stat-box">
+            <div class="stat-box stat-box--correct">
                 <span class="stat-label">Correct</span><span class="stat-value" id="correct-count">0</span>
             </div>
-            <div class="stat-box">
+            <div class="stat-box stat-box--incorrect">
                 <span class="stat-label">Incorrect</span><span class="stat-value" id="incorrect-count">0</span>
             </div>
-            <div class="stat-box">
+            <div class="stat-box stat-box--accuracy">
                 <span class="stat-label">Accuracy</span><span class="stat-value" id="accuracy-percentage">0.0%</span>
             </div>
         </div>

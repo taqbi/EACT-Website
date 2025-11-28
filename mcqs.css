@@ -7,105 +7,66 @@
     border: 1px solid #e0e7ef;
     box-shadow: 0 8px 32px rgba(0, 30, 80, 0.1); /* Softer, more pronounced shadow */
 }
-.category-group {
-    margin-bottom: 20px;
-    padding: 20px;
-    border-radius: 15px;
-    border: 1px solid #e0e0e0;
-    transition: box-shadow 0.3s ease;
+
+/* --- New Dashboard Card Styles --- */
+#category-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
 }
-.category-group:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-.category-group:nth-child(1) {
-    background: linear-gradient(135deg, #f0f7ff 0%, #e6f2ff 100%); /* Blue gradient */
-}
-.category-group:nth-child(2) {
-    background: linear-gradient(135deg, #f0fff5 0%, #e6fff0 100%); /* Green gradient */
-}
-.category-group:nth-child(3) {
-    background: linear-gradient(135deg, #f8f2ff 0%, #f1e8ff 100%); /* Purple gradient */
-}
-.category-group:nth-child(4) {
-    background: linear-gradient(135deg, #fffaf0 0%, #fff5e6 100%); /* Yellow gradient */
-}
-.category-group h3 {
-    margin-bottom: 15px; /* Increased space below heading */
-    border-bottom: 2px solid #d0d8e8; /* A slightly darker border */
-    padding-bottom: 10px;
+
+.dashboard-card {
     display: flex;
     align-items: center;
-    font-size: 1.5rem; /* Larger font size */
-    font-weight: 700; /* Bolder text */
-    color: #1f2a44; /* Use primary site color */
-}
-.category-group h3 { 
-    cursor: pointer; /* Indicates the heading is clickable */ 
-}
-.category-group h3 i { margin-right: 12px; color: #1f2a44; } /* Consistent icon color */
-.category-buttons button {
-    margin: 5px;
-    padding: 12px 20px;
-    font-size: 1rem;
-    font-weight: 600;
-    border: 2px solid #1f2a44;
-    background-color: #ffffff;
-    color: #1f2a44;
-    border-radius: 12px; /* More rounded corners */
-    cursor: pointer;
-    transition: all 0.3s ease;
-    display: inline-flex;
-    align-items: center;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08); /* Slightly stronger shadow */
-}
-.category-buttons {
-    /* This ensures any old button containers are hidden by default */
-    display: none;
-}
-.category-buttons button i { margin-right: 8px; }
-.category-buttons button:hover {
-    background-color: #1f2a44;
-    color: #fff;
-    transform: translateY(-3px); /* Slight lift on hover */
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
 }
 
-/* --- Color-coded buttons for each category --- */
-
-/* 1. PYQs Section (Blue Theme) */
-.category-group:nth-child(1) .category-buttons button {
-    background-color: #2a6fdb;
-    border-color: #2a6fdb;
-    color: #fff;
-}
-.category-group:nth-child(1) .category-buttons button:hover {
-    background-color: #245eb5; /* Darker blue on hover */
-    border-color: #245eb5;
-}
-
-/* 2. Practice Section (Green Theme) */
-.category-group:nth-child(2) .category-buttons button {
-    background-color: #28a745;
-    border-color: #28a745;
-    color: #fff;
-}
-.category-group:nth-child(2) .category-buttons button:hover {
-    background-color: #218838; /* Darker green on hover */
-    border-color: #218838;
-}
-
-/* 3. Mocks & Progress (Darker Theme for contrast) */
-.category-group:nth-child(3) .category-buttons button,
-.category-group:nth-child(4) .category-buttons button {
-    background-color: #1f2a44;
+.dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 30, 80, 0.12);
     border-color: #1f2a44;
-    color: #fff;
 }
-.category-group:nth-child(3) .category-buttons button:hover,
-.category-group:nth-child(4) .category-buttons button:hover {
-    background-color: #1a233a; /* Slightly darker on hover */
-    border-color: #1a233a;
+
+.card-icon {
+    font-size: 2rem;
+    margin-right: 20px;
+    color: #1f2a44;
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
+    display: grid;
+    place-items: center;
+    background-color: #e9ecef;
+    border-radius: 50%;
 }
+
+.card-content h4 {
+    margin: 0 0 5px 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #1f2a44;
+}
+
+.card-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+/* Color variations for icons */
+.dashboard-card:nth-child(1) .card-icon { background-color: #e3f2fd; color: #0d47a1; } /* Blue */
+.dashboard-card:nth-child(2) .card-icon { background-color: #e8f5e9; color: #1b5e20; } /* Green */
+.dashboard-card:nth-child(3) .card-icon { background-color: #fff3e0; color: #e65100; } /* Orange */
+.dashboard-card:nth-child(4) .card-icon { background-color: #f3e5f5; color: #4a148c; } /* Purple */
+
+
 /* --- New Unified Filter Styles --- */
 #new-filter-container {
     display: grid; /* Use grid for horizontal layout */
@@ -147,6 +108,10 @@
 @media (max-width: 767px) {
     #new-filter-container {
         grid-template-columns: 1fr; /* Stack dropdowns vertically */
+    }
+    .dashboard-card {
+        flex-direction: column;
+        text-align: center;
     }
 }
 
@@ -192,11 +157,12 @@
 
 /* Progress Section Styles */
 #progress-container {
+    display: none; /* Hidden by default */
     margin-top: 30px;
     padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    border: 1px solid #ddd;
+    background-color: #f8f9fa; /* Consistent light background */
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
 }
 #progress-container h2 {
     text-align: center;
@@ -205,15 +171,16 @@
 }
 #progress-stats {
     margin-bottom: 20px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex; /* Use flexbox for better alignment */
+    flex-direction: column;
     gap: 20px;
 }
 .progress-category {
     padding: 15px;
     background: #fff;
     border-radius: 8px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+    border: 1px solid #e9ecef;
+    box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05); /* Subtle shadow */
 }
 .progress-category h3 {
     background-color: #1f2a44; /* Using the primary dark blue for consistency */
@@ -224,16 +191,39 @@
     text-align: center;
 }
 #progress-stats p {
-    padding: 10px;
-    border-radius: 5px;
-    margin: 5px 0;
-    border-bottom: 1px solid #eee;
-    line-height: 1.4; /* Add some space between lines */
-    background-color: #fdfdfd;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 0 0 15px 0; /* Remove top/side margin, add bottom margin */
+    border: 1px solid #e9ecef;
+    background-color: #fff;
 }
 #progress-stats p strong {
     display: block;
     margin-bottom: 10px;
+    background-color: #e9ecef; /* Default background */
+    color: #495057; /* Default text color */
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin: -15px -15px 15px -15px; /* Adjusted to match parent padding */
+    border-radius: 8px 8px 0 0;
+}
+
+/* --- New Pastel Color-coded Subject/Exam Headers --- */
+.progress-entry--maths strong { background-color: #A5B4FC; color: #3730a3; }
+.progress-entry--science strong { background-color: #6EE7B7; color: #047857; }
+.progress-entry--english strong { background-color: #FDE68A; color: #a16207; }
+.progress-entry--history strong { background-color: #FCA5A5; color: #991b1b; }
+.progress-entry--geography strong { background-color: #BAE6FD; color: #0369a1; }
+.progress-entry--computer strong { background-color: #C7D2FE; color: #4338ca; }
+.progress-entry--gk strong { background-color: #FBCFE8; color: #9d2449; }
+.progress-entry--accountancy strong { background-color: #a7f3d0; color: #065f46; }
+.progress-entry--economics strong { background-color: #fef08a; color: #854d0e; }
+.progress-entry--reasoning strong { background-color: #d8b4fe; color: #6b21a8; }
+.progress-entry--polity strong { background-color: #bae6fd; color: #0c4a6e; }
+
+/* Default for 'All Exams' or uncategorized */
+.progress-entry--general strong {
+    background-color: #e5e7eb; color: #374151;
 }
 #progress-stats p small {
     color: #555; /* Make the stats text a slightly lighter color */
@@ -245,24 +235,24 @@
     margin-top: 10px;
 }
 .stat-box {
-    background-color: #f0f8ff;
+    background-color: #f8f9fa;
     padding: 10px;
     border-radius: 8px;
     text-align: center;
-    border: 1px solid #d1e7fd;
+    border: 1px solid #e9ecef;
 }
-/* Color-coded stat boxes for better visual feedback */
-.stat-box:nth-child(1) { background-color: #e3f2fd; border-color: #bbdefb; } /* Attempted - Blue */
-.stat-box:nth-child(1) .stat-value { color: #0d47a1; }
+/* --- New Color-coded Stat Boxes --- */
+.stat-box--attempted .stat-value { color: #3B82F6; }
+.stat-box--correct .stat-value { color: #22C55E; }
+.stat-box--incorrect .stat-value { color: #EF4444; }
+.stat-box--accuracy .stat-value { color: #10B981; }
 
-.stat-box:nth-child(2) { background-color: #d4edda; border-color: #c3e6cb; } /* Correct - More prominent Green */
-.stat-box:nth-child(2) .stat-value { color: #1b5e20; }
+/* Keep backgrounds neutral for a cleaner look */
+.stat-box--attempted { background-color: #eff6ff; border-color: #dbeafe; }
+.stat-box--correct { background-color: #f0fdf4; border-color: #dcfce7; }
+.stat-box--incorrect { background-color: #fef2f2; border-color: #fee2e2; }
+.stat-box--accuracy { background-color: #f0fdfa; border-color: #ccfbf1; }
 
-.stat-box:nth-child(3) { background-color: #f8d7da; border-color: #f5c6cb; } /* Incorrect - More prominent Red */
-.stat-box:nth-child(3) .stat-value { color: #b71c1c; }
-
-.stat-box:nth-child(4) { background-color: #e3f2fd; border-color: #bbdefb; } /* Accuracy - Blue */
-.stat-box:nth-child(4) .stat-value { color: #0d47a1; }
 .stat-label {
     display: block;
     font-size: 0.85em;
@@ -276,7 +266,12 @@
     color: #0056b3;
 }
 .overall-performance {
-    margin-top: 30px;
+    /* This is now a card, so it needs the same styling as .progress-category */
+    padding: 15px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);
 }
 
 #clear-progress-btn {

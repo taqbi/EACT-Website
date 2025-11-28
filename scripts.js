@@ -295,23 +295,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function setupEventListeners() {
             // A single, powerful event listener for the entire category container
-        document.querySelectorAll('.category-group h3').forEach(heading => {
-            heading.addEventListener('click', (e) => {
-                const group = e.target.closest('.category-group');
-                const category = group.querySelector('.category-filters')?.dataset.category;
+        document.querySelectorAll('.dashboard-card').forEach(card => {
+            card.addEventListener('click', (e) => {
+                e.preventDefault(); // Prevent default link behavior
+                const action = card.dataset.action;
 
-                if (category) { // This is a PYQ or Practice heading
-                    activeCategory = category;
+                if (action === 'show-filters') {
+                    activeCategory = card.dataset.category;
                     resetQuizView();
                     populateExamFilter();
                     populateSubjectFilter(); // Initial population
                     newFilterContainer.style.display = 'grid';
                     newFilterContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else if (group.querySelector('#show-progress-btn')) { // This is the Progress heading
+                } else if (action === 'show-progress') {
                     resetQuizView();
                     displayProgress();
-                    progressContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else if (group.querySelector('[data-category="mock"]')) { // This is the Mock Test heading
+                    progressContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                } else if (action === 'navigate') {
                     window.location.href = 'mock-tests.html';
                 }
             });
@@ -459,14 +459,15 @@ document.addEventListener('DOMContentLoaded', function () {
             overallAttempted += attempted;
             overallCorrect += correct;
 
+            const entryClass = getProgressClass(name);
             examContainer.innerHTML += `
-                <p>
+                <p class="progress-entry--${entryClass}">
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -480,14 +481,15 @@ document.addEventListener('DOMContentLoaded', function () {
             overallAttempted += attempted;
             overallCorrect += correct;
 
+            const entryClass = getProgressClass(name);
             subjectContainer.innerHTML += `
-                <p>
+                <p class="progress-entry--${entryClass}">
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -502,10 +504,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="overall-performance progress-category">
                     <h3>Overall Performance</h3>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterend', overallHtml);
@@ -513,6 +515,22 @@ document.addEventListener('DOMContentLoaded', function () {
         progressContainer.style.display = 'block';
     }
     
+    // Helper function to get a CSS class from a subject/exam name
+    function getProgressClass(name) {
+        const lowerName = name.toLowerCase();
+        if (lowerName.includes('math')) return 'maths';
+        if (lowerName.includes('science')) return 'science';
+        if (lowerName.includes('english')) return 'english';
+        if (lowerName.includes('history')) return 'history';
+        if (lowerName.includes('geography')) return 'geography';
+        if (lowerName.includes('computer')) return 'computer';
+        if (lowerName.includes('gk') || lowerName.includes('general knowledge')) return 'gk';
+        if (lowerName.includes('accountancy')) return 'accountancy';
+        if (lowerName.includes('polity')) return 'polity';
+        if (lowerName.includes('economic')) return 'economics';
+        if (lowerName.includes('reasoning')) return 'reasoning';
+        return 'general'; // Default class
+    }
         function populateFilter(category, type) {
 
         // New logic: Filter based on the 'type' (exam or subject) and get unique names
