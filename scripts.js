@@ -270,8 +270,8 @@ if (categoryContainer) {
                 options.sort(() => Math.random() - 0.5);
                 allQuestions.push({
                     category: node.getAttribute('category'),
-                    type: node.getAttribute('type'),
-                    name: node.getAttribute('name'),
+                    exam: node.getAttribute('exam'),
+                    subject: node.getAttribute('subject'),
                     text: node.querySelector('text').textContent,
                     id: getQuestionId(node.querySelector('text').textContent), // Add unique ID
                     topic: node.querySelector('topic')?.textContent || 'General',
@@ -345,7 +345,7 @@ if (categoryContainer) {
             console.log("Type:", type);
             console.log("Selected Name:", selectedName);
 
-            currentQuestions = allQuestions.filter(q => q.category === category && q.type === type && q.name === selectedName);
+            currentQuestions = allQuestions.filter(q => q.category === category && q[type] === selectedName);
             console.log("Found " + currentQuestions.length + " questions after filtering.");
             
             displayQuestions(type); // Pass the type to displayQuestions
@@ -462,9 +462,8 @@ if (categoryContainer) {
         filterSelect.dataset.category = category;
         filterSelect.dataset.type = type;
 
-        const filterNames = [...new Set(allQuestions
-            .filter(q => q.category === category && q.type === type)
-            .map(q => q.name))];
+        // New logic: Filter based on the 'type' (exam or subject) and get unique names
+        const filterNames = [...new Set(allQuestions.filter(q => q.category === category).map(q => q[type]))];
 
         filterNames.forEach(name => {
             const option = document.createElement('option');
@@ -482,7 +481,7 @@ if (categoryContainer) {
         sessionAnswers = {}; // Clear answers for the new session
         quizContainer.innerHTML = ''; // Clear previous content
 
-        const quizName = currentQuestions.length > 0 ? currentQuestions[0].name : '';
+        const quizName = currentQuestions.length > 0 ? (quizType === 'exam' ? currentQuestions[0].exam : currentQuestions[0].subject) : '';
 
         // Add the "Clear Attempts" button for this specific quiz
         if (quizName) {
@@ -495,9 +494,6 @@ if (categoryContainer) {
                     // Remove attempts and scores for this specific quiz
                     if (progress.attemptedQuestions[quizName]) {
                         delete progress.attemptedQuestions[quizName];
-                    }
-                    if (progress.scores[quizType] && progress.scores[quizType][quizName]) {
-                        delete progress.scores[quizType][quizName];
                     }
                     saveProgress(progress);
                     // Re-display the questions to reflect the change
@@ -512,7 +508,7 @@ if (categoryContainer) {
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
 
-            const isAttempted = progress.attemptedQuestions[quizName]?.includes(q.id);
+            const isAttempted = progress.attemptedQuestions[q[quizType]]?.includes(q.id);
 
             if (isAttempted) {
                 questionEl.classList.add('already-attempted');
@@ -521,7 +517,7 @@ if (categoryContainer) {
             questionEl.innerHTML = `
                 <div class="question-topic">${q.topic}</div>
                 <p>${index + 1}. ${q.text}</p>
-                <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-index="${index}" data-subject-name="${q.name}" data-quiz-type="${quizType}">
+                <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-index="${index}" data-subject-name="${q.subject}" data-exam-name="${q.exam}" data-quiz-type="${quizType}">
                     ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
                 </div>
                 <div class="solution-wrapper" style="display: none;">
@@ -543,7 +539,7 @@ if (categoryContainer) {
                 const optionsDiv = e.target.parentElement;
                 const questionIndex = optionsDiv.dataset.questionIndex;
                 const question = currentQuestions[questionIndex];
-                const subjectName = optionsDiv.dataset.subjectName;
+                const subjectName = optionsDiv.dataset.subjectName; // This remains for progress tracking by subject
                 const quizType = optionsDiv.dataset.quizType;
 
                 // Prevent clicking on disabled questions

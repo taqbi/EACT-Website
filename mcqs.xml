@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quizzes>
     <!-- PYQs: Exam Wise -->
-    <question category="pyq" type="exam" name="JKSSB FAA">
+    <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
         <text>According to the J&amp;K Reorganisation Act 2019, how many Schedules are there in the Act?</text>
         <topic>J&amp;K Reorganisation Act</topic>
         <option>5 Schedules</option>
@@ -12,7 +12,7 @@
         <explanation>The Jammu and Kashmir Reorganisation Act, 2019 contains 103 sections, 14 parts, and 5 schedules. These schedules deal with various administrative and legal aspects of the new Union Territories.</explanation>
     </question>
 
-    <question category="pyq" type="exam" name="JKP SI">
+    <question category="pyq" exam="JKP SI" subject="J&amp;K GK">
         <text>Who among the following was the first Lieutenant Governor of Jammu and Kashmir?</text>
         <topic>J&amp;K Polity</topic>
         <option>Manoj Sinha</option>
@@ -23,7 +23,7 @@
         <explanation>Girish Chandra Murmu was appointed as the first Lieutenant Governor of the Union Territory of Jammu and Kashmir in October 2019, following the reorganization of the state.</explanation>
     </question>
 
-    <question category="pyq" type="exam" name="JKSSB Panchayat Secretary (VLW)">
+    <question category="pyq" exam="JKSSB Panchayat Secretary (VLW)" subject="Indian Polity">
         <text>The '73rd Constitutional Amendment Act' is related to which of the following?</text>
         <topic>Indian Polity</topic>
         <option>Municipalities</option>
@@ -34,10 +34,55 @@
         <explanation>The 73rd Constitutional Amendment Act, 1992, added Part IX to the Constitution, titled "The Panchayats," which constitutionalized the Panchayati Raj system in India.</explanation>
     </question>
 
+    <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+        <text>The business is treated as a separate entity from its owners. This is based on which accounting principle?</text>
+        <topic>Accounting Principles</topic>
+        <option>Money Measurement Concept</option>
+        <option>Business Entity Concept</option>
+        <option>Going Concern Concept</option>
+        <option>Cost Concept</option>
+        <answer>Business Entity Concept</answer>
+        <explanation>The Business Entity Concept states that the business and its owner are two separate entities. All transactions are recorded from the viewpoint of the business, not the owner.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKP SI" subject="History">
+        <text>The Battle of Plassey was fought in which year?</text>
+        <topic>Indian History</topic>
+        <option>1757</option>
+        <option>1764</option>
+        <option>1857</option>
+        <option>1776</option>
+        <answer>1757</answer>
+        <explanation>The Battle of Plassey was a decisive victory of the British East India Company over the Nawab of Bengal and his French allies on 23 June 1757.</explanation>
+    </question>
+
+    <!-- New PYQs by Subject -->
+    <question category="pyq" exam="General" subject="History">
+        <text>The first session of the Indian National Congress was held at?</text>
+        <topic>Indian National Movement</topic>
+        <option>Calcutta</option>
+        <option>Bombay</option>
+        <option>Madras</option>
+        <option>Lahore</option>
+        <answer>Bombay</answer>
+        <explanation>The first session of the Indian National Congress was held from 28–31 December 1885 in Bombay (now Mumbai) and was attended by 72 delegates.</explanation>
+    </question>
+
+    <question category="pyq" exam="General" subject="J&amp;K GK">
+        <text>Which lake in Jammu and Kashmir is a major tourist attraction and is known for its houseboats?</text>
+        <topic>Lakes and Rivers</topic>
+        <option>Wular Lake</option>
+        <option>Dal Lake</option>
+        <option>Mansar Lake</option>
+        <option>Sheshnag Lake</option>
+        <answer>Dal Lake</answer>
+        <explanation>Dal Lake, located in Srinagar, is famous worldwide for its scenic beauty, floating gardens, and iconic houseboats (shikaras), making it a prime tourist destination.</explanation>
+    </question>
+
     <!-- MCQs for Practice: Subject Wise -->
     
     <!-- Accountancy (Targeting FAA) -->
-    <question category="practice" type="subject" name="Accountancy">
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
         <text>Which accounting concept assumes that a business will continue to operate for an indefinite period?</text>
         <topic>Accounting Concepts</topic>
         <option>Cost Concept</option>
@@ -48,7 +93,7 @@
         <explanation>The Going Concern Concept is the assumption that a business will remain in operation for the foreseeable future. It is a fundamental principle of accounting.</explanation>
     </question>
 
-    <question category="practice" type="subject" name="Accountancy">
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
         <text>Trial Balance is prepared to check the _________ accuracy of the books of accounts.</text>
         <topic>Trial Balance</topic>
         <option>Arithmetical</option>
@@ -59,8 +104,19 @@
         <explanation>A Trial Balance is a statement showing the balances of all accounts in the ledger. Its primary purpose is to verify the arithmetical accuracy of the postings to the ledger accounts.</explanation>
     </question>
 
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What does the term 'Depreciation' refer to?</text>
+        <topic>Depreciation</topic>
+        <option>Increase in the value of an asset</option>
+        <option>Decrease in the value of an asset over time</option>
+        <option>The cost of purchasing a new asset</option>
+        <option>The sale value of an old asset</option>
+        <answer>Decrease in the value of an asset over time</answer>
+        <explanation>Depreciation is the systematic allocation of the cost of a tangible asset over its useful life. It represents the wear and tear or obsolescence of the asset.</explanation>
+    </question>
+
     <!-- J&K GK -->
-    <question category="practice" type="subject" name="J&amp;K GK">
+    <question category="practice" exam="General" subject="J&amp;K GK">
         <text>The famous 'Treaty of Amritsar' which marked the beginning of Dogra rule in Kashmir was signed in which year?</text>
         <topic>History of J&amp;K</topic>
         <option>1846</option>
@@ -71,7 +127,7 @@
         <explanation>The Treaty of Amritsar was signed on March 16, 1846, between the British East India Company and Maharaja Gulab Singh. It formalized the sale of Kashmir to Gulab Singh, establishing the Dogra dynasty.</explanation>
     </question>
 
-    <question category="practice" type="subject" name="J&amp;K GK">
+    <question category="practice" exam="General" subject="J&amp;K GK">
         <text>Which national park in J&amp;K is famous for the 'Hangul' (Kashmir Stag)?</text>
         <topic>Flora and Fauna</topic>
         <option>Kazinag National Park</option>
@@ -82,8 +138,19 @@
         <explanation>Dachigam National Park, located near Srinagar, is the primary habitat of the critically endangered Hangul, also known as the Kashmir Stag.</explanation>
     </question>
 
+    <question category="practice" exam="General" subject="J&amp;K GK">
+        <text>The river Chenab originates from which state in India?</text>
+        <topic>Geography of J&amp;K</topic>
+        <option>Jammu and Kashmir</option>
+        <option>Himachal Pradesh</option>
+        <option>Uttarakhand</option>
+        <option>Punjab</option>
+        <answer>Himachal Pradesh</answer>
+        <explanation>The Chenab river is formed by the confluence of two streams, Chandra and Bhaga, in the Lahaul and Spiti district of Himachal Pradesh.</explanation>
+    </question>
+
     <!-- Computer Awareness (Targeting Junior Assistant/VLW) -->
-    <question category="practice" type="subject" name="Computer Awareness">
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
         <text>In MS Excel, which function is used to add all the numbers in a range of cells?</text>
         <topic>MS Excel</topic>
         <option>=ADD()</option>
@@ -94,7 +161,7 @@
         <explanation>In Microsoft Excel, the =SUM() function is used to calculate the total of the numbers in a specified range of cells.</explanation>
     </question>
 
-    <question category="practice" type="subject" name="Computer Awareness">
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
         <text>What is the full form of 'URL' in internet terminology?</text>
         <topic>Abbreviations</topic>
         <option>Uniform Resource Locator</option>
@@ -105,8 +172,31 @@
         <explanation>URL stands for Uniform Resource Locator. It is the address of a resource (like a webpage) on the World Wide Web.</explanation>
     </question>
 
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which of the following is an example of an operating system?</text>
+        <topic>Software</topic>
+        <option>Microsoft Word</option>
+        <option>Google Chrome</option>
+        <option>Windows 10</option>
+        <option>Adobe Photoshop</option>
+        <answer>Windows 10</answer>
+        <explanation>An operating system (OS) is system software that manages computer hardware and software resources. Windows, macOS, and Linux are common examples.</explanation>
+    </question>
+
+    <!-- New Practice MCQs by Exam -->
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is the shortcut key to 'Undo' the last action in most Windows applications?</text>
+        <topic>Computer Shortcuts</topic>
+        <option>Ctrl + C</option>
+        <option>Ctrl + V</option>
+        <option>Ctrl + X</option>
+        <option>Ctrl + Z</option>
+        <answer>Ctrl + Z</answer>
+        <explanation>In most graphical user interfaces and applications, the standard keyboard shortcut for the 'Undo' command is Ctrl+Z (or Command+Z on macOS).</explanation>
+    </question>
+
     <!-- General Science -->
-    <question category="practice" type="subject" name="General Science">
+    <question category="practice" exam="General" subject="General Science">
         <text>Which vitamin is also known as 'Ascorbic Acid' and helps in healing wounds?</text>
         <topic>Vitamins and Diseases</topic>
         <option>Vitamin A</option>
@@ -117,8 +207,19 @@
         <explanation>Vitamin C, or Ascorbic Acid, is essential for the growth, development, and repair of all body tissues. It's involved in many body functions, including the formation of collagen and wound healing.</explanation>
     </question>
 
+    <question category="practice" exam="General" subject="General Science">
+        <text>What is the chemical symbol for Gold?</text>
+        <topic>Chemistry</topic>
+        <option>Ag</option>
+        <option>Au</option>
+        <option>Pb</option>
+        <option>Fe</option>
+        <answer>Au</answer>
+        <explanation>The chemical symbol for Gold is Au, which comes from its Latin name, 'Aurum'. Ag is Silver, Pb is Lead, and Fe is Iron.</explanation>
+    </question>
+
     <!-- Economics -->
-    <question category="practice" type="subject" name="Economics">
+    <question category="practice" exam="JKSSB FAA" subject="Economics">
         <text>Which organization calculates the GDP of India?</text>
         <topic>National Income</topic>
         <option>Reserve Bank of India (RBI)</option>
@@ -129,8 +230,19 @@
         <explanation>The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for compiling and releasing the estimates of Gross Domestic Product (GDP) in India.</explanation>
     </question>
 
+    <question category="practice" exam="JKSSB FAA" subject="Economics">
+        <text>What is 'Fiscal Deficit'?</text>
+        <topic>Budgeting</topic>
+        <option>Total revenue minus total expenditure</option>
+        <option>The amount by which government spending exceeds its revenue</option>
+        <option>The total value of goods and services produced in a country</option>
+        <option>The rate of increase in prices</option>
+        <answer>The amount by which government spending exceeds its revenue</answer>
+        <explanation>Fiscal deficit is the difference between the government's total expenditure and its total receipts (excluding borrowings). It indicates how much the government needs to borrow.</explanation>
+    </question>
+
     <!-- Reasoning -->
-    <question category="practice" type="subject" name="Reasoning">
+    <question category="practice" exam="JKP SI" subject="Reasoning">
         <text>If 'APPLE' is coded as 'BQQMF', how is 'GRAPE' coded?</text>
         <topic>Coding-Decoding</topic>
         <option>HSBQF</option>
@@ -138,11 +250,22 @@
         <option>HRBQF</option>
         <option>ISBQF</option>
         <answer>HSBQF</answer>
-        <explanation>The pattern is +1 for each letter. G+1=H, R+1=S, A+1=B, P+1=Q, E+1=F. So, GRAPE becomes HSBQF.</explanation>
+        <explanation>The pattern is +1 for each letter. G(7)+1=H(8), R(18)+1=S(19), A(1)+1=B(2), P(16)+1=Q(17), E(5)+1=F(6). So, GRAPE becomes HSBQF.</explanation>
+    </question>
+
+    <question category="practice" exam="JKP SI" subject="Reasoning">
+        <text>Find the next number in the series: 2, 5, 10, 17, 26, ?</text>
+        <topic>Number Series</topic>
+        <option>35</option>
+        <option>37</option>
+        <option>39</option>
+        <option>41</option>
+        <answer>37</answer>
+        <explanation>The pattern is n^2 + 1. For n=1, 1^2+1=2. For n=2, 2^2+1=5. For n=3, 3^2+1=10. For n=6, 6^2+1=37.</explanation>
     </question>
 
     <!-- Maths/Aptitude -->
-    <question category="practice" type="subject" name="Maths">
+    <question category="practice" exam="JKP SI" subject="Maths">
         <text>A train 120 meters long crosses a pole in 6 seconds. What is the speed of the train in km/hr?</text>
         <topic>Time, Speed and Distance</topic>
         <option>60 km/hr</option>
@@ -151,5 +274,39 @@
         <option>90 km/hr</option>
         <answer>72 km/hr</answer>
         <explanation>Speed = Distance / Time = 120m / 6s = 20 m/s. To convert m/s to km/hr, multiply by 18/5. So, 20 * (18/5) = 72 km/hr.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Maths">
+        <text>If the cost price of 10 articles is equal to the selling price of 8 articles, what is the profit percentage?</text>
+        <topic>Profit and Loss</topic>
+        <option>20%</option>
+        <option>25%</option>
+        <option>15%</option>
+        <option>30%</option>
+        <answer>25%</answer>
+        <explanation>Let the CP of 1 article be Re 1. Then CP of 8 articles = Rs 8. SP of 8 articles = CP of 10 articles = Rs 10. Profit = SP - CP = 10 - 8 = 2. Profit % = (Profit/CP) * 100 = (2/8) * 100 = 25%.</explanation>
+    </question>
+
+    <!-- General English -->
+    <question category="practice" exam="General" subject="General English">
+        <text>Choose the synonym for the word 'Ephemeral'.</text>
+        <topic>Vocabulary</topic>
+        <option>Eternal</option>
+        <option>Transient</option>
+        <option>Permanent</option>
+        <option>Essential</option>
+        <answer>Transient</answer>
+        <explanation>Ephemeral means lasting for a very short time. Transient has the same meaning.</explanation>
+    </question>
+
+    <question category="practice" exam="General" subject="General English">
+        <text>Identify the part of the sentence that has an error: 'He is one of the tallest boy in the class.'</text>
+        <topic>Grammar</topic>
+        <option>He is</option>
+        <option>one of the tallest boy</option>
+        <option>in the class</option>
+        <option>No error</option>
+        <answer>one of the tallest boy</answer>
+        <explanation>The phrase 'one of the' is always followed by a plural noun. The correct sentence should be 'He is one of the tallest boys in the class.'</explanation>
     </question>
 </quizzes>
