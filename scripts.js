@@ -297,12 +297,16 @@ if (categoryContainer) {
                 resetQuizView();
 
                 if (category === 'mock') {
-                    quizContainer.innerHTML = '<p>Mock tests are coming soon!</p>';
+                    // Simply redirect to the mock tests page.
+                    window.location.href = 'mock-tests.html';
                     return;
                 }
 
                 populateFilter(category, type);
                 filterContainer.style.display = 'block';
+
+                // Automatically scroll down to the new dropdown menu
+                filterContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
         });
 

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Tests - EACT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mcqs.css"> <!-- Re-using some styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="logo-container">
+        <a href="index.html"><img src="Logo.png" alt="EACT Logo" class="header-logo"></a>
+    </div>
+    <nav class="navbar">
+        <a href="study-material.html"><i class="fas fa-book-open"></i> Study Material</a>
+        <a href="mcqs.html"><i class="fas fa-file-alt"></i> MCQs (PYQs)</a>
+        <a href="video-playlists.html"><i class="fas fa-video"></i> Video Playlists</a>
+        <a href="about-eact.html"><i class="fas fa-info-circle"></i> About EACT</a>
+    </nav>
+</header>
+
+<main>
+    <div class="content-title"> <h2>Mock Tests</h2> </div>
+
+    <div class="mcq-main-container">
+        <!-- Selection Area -->
+        <div id="mock-selection-container" class="mock-selection-grid">
+            <div class="mock-type-section">
+                <h3>Full Length Mock Tests</h3> 
+                <select id="full-length-select"></select> 
+                <button id="start-full-length-btn">Start Test</button> 
+            </div>
+
+            <div class="mock-type-section">
+                <h3>Subject Wise Mock Tests</h3> 
+                <select id="subject-wise-select"></select> 
+                <button id="start-subject-wise-btn">Start Test</button> 
+            </div>
+            <div class="mock-type-section performance-section">
+                <h3>My Performance</h3>
+                <p>View your past mock test results.</p>
+                <button id="show-performance-btn">View Performance</button>
+            </div>
+        </div>
+
+        <!-- Test Area (Initially Hidden) -->
+        <div id="mock-test-area" style="display: none;">
+            <div id="timer-container">
+                Time Remaining: <span id="time">02:00:00</span>
+            </div>
+            <div id="mock-quiz-container"></div>
+            <div id="mock-navigation">
+                <button id="prev-question-btn">Previous</button>
+                <button id="next-question-btn">Next</button>
+                <button id="submit-mock-btn">Submit Test</button>
+            </div>
+        </div>
+
+        <!-- Results Area (Initially Hidden) -->
+        <div id="mock-results-area" style="display: none;">
+            <h2>Test Results</h2>
+            <div id="results-summary"></div>
+            <button id="back-to-selection-btn">Take Another Test</button>
+        </div>
+
+        <!-- Performance History Area (Initially Hidden) -->
+        <div id="mock-performance-area" style="display: none;">
+            <h2>Mock Test Performance History</h2>
+            <div id="performance-history"></div>
+            <div class="performance-actions">
+                <button id="attempt-another-btn">Attempt Another Test</button>
+                <button id="clear-performance-btn">Clear History</button>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="footer">
+    <p>&copy; 2024 Educate All Charitable Trust (EACT Classes). <br> All rights reserved.</p>
+</footer>
+
+<script src="mock-test-logic.js"></script>
+</body>
+</html>

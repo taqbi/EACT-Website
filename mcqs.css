@@ -1,10 +1,11 @@
 .mcq-main-container {
     padding: 20px;
-    max-width: 900px;
+    max-width: 950px; /* Slightly wider for better spacing */
     margin: 20px auto;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    background-color: #f7f9fc; /* A very light, clean background */
+    border-radius: 16px; /* More rounded corners */
+    border: 1px solid #e9eef5;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
 }
 .category-group {
     margin-bottom: 20px;
@@ -17,19 +18,28 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 .category-group:nth-child(1) {
-    background-color: #f0f7ff; /* Light blue for PYQs */
+    background-color: #eef5ff; /* Softer, more professional blue */
 }
 .category-group:nth-child(2) {
-    background-color: #f0fff5; /* Light green for Practice MCQs */
+    background-color: #e6fffa; /* Softer, mint green */
 }
 .category-group:nth-child(3) {
-    background-color: #f5f0ff; /* Light purple for Mocks */
+    background-color: #f4eefc; /* Softer, lavender */
 }
 .category-group:nth-child(4) {
-    background-color: #fffaf0; /* Light cream for Progress */
+    background-color: #fff8e1; /* Softer, light yellow */
 }
-.category-group h3 { margin-bottom: 10px; border-bottom: 2px solid #eee; padding-bottom: 5px; display: flex; align-items: center; }
-.category-group h3 i { margin-right: 10px; color: #007bff; }
+.category-group h3 {
+    margin-bottom: 15px; /* Increased space below heading */
+    border-bottom: 2px solid #d0d8e8; /* A slightly darker border */
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem; /* Larger font size */
+    font-weight: 700; /* Bolder text */
+    color: #1f2a44; /* Use primary site color */
+}
+.category-group h3 i { margin-right: 12px; color: #1f2a44; } /* Consistent icon color */
 .category-buttons button {
     margin: 5px;
     padding: 12px 20px;
@@ -52,8 +62,58 @@
     transform: translateY(-2px); /* Slight lift on hover */
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
-#filter-container { display: none; margin-top: 20px; }
-#filter-select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; min-width: 200px; }
+
+/* --- Color-coded buttons for each category --- */
+
+/* 1. PYQs Section (Blue Theme) */
+.category-group:nth-child(1) .category-buttons button {
+    background-color: #2a6fdb;
+    border-color: #2a6fdb;
+    color: #fff;
+}
+.category-group:nth-child(1) .category-buttons button:hover {
+    background-color: #245eb5; /* Darker blue on hover */
+    border-color: #245eb5;
+}
+
+/* 2. Practice Section (Green Theme) */
+.category-group:nth-child(2) .category-buttons button {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+.category-group:nth-child(2) .category-buttons button:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #218838;
+}
+
+/* 3. Mocks & Progress (Darker Theme for contrast) */
+.category-group:nth-child(3) .category-buttons button,
+.category-group:nth-child(4) .category-buttons button {
+    background-color: #1f2a44;
+    border-color: #1f2a44;
+    color: #fff;
+}
+.category-group:nth-child(3) .category-buttons button:hover,
+.category-group:nth-child(4) .category-buttons button:hover {
+    background-color: #1a233a; /* Slightly darker on hover */
+    border-color: #1a233a;
+}
+#filter-container { display: none; margin-top: 20px; text-align: center; }
+#filter-label { font-weight: 600; color: #1f2a44; margin-right: 10px; }
+#filter-select {
+    /* Custom dropdown styles */
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 2px solid #1f2a44;
+    min-width: 250px;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: #fff;
+    cursor: pointer;
+    -webkit-appearance: none; /* Removes default browser styling */
+    appearance: none;
+}
 #score-container { display: none; background-color: #f0f8ff; padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: center; }
 .question-topic {
     display: inline-block;
@@ -137,6 +197,18 @@
     text-align: center;
     border: 1px solid #d1e7fd;
 }
+/* Color-coded stat boxes for better visual feedback */
+.stat-box:nth-child(1) { background-color: #e3f2fd; border-color: #bbdefb; } /* Attempted - Blue */
+.stat-box:nth-child(1) .stat-value { color: #0d47a1; }
+
+.stat-box:nth-child(2) { background-color: #d4edda; border-color: #c3e6cb; } /* Correct - More prominent Green */
+.stat-box:nth-child(2) .stat-value { color: #1b5e20; }
+
+.stat-box:nth-child(3) { background-color: #f8d7da; border-color: #f5c6cb; } /* Incorrect - More prominent Red */
+.stat-box:nth-child(3) .stat-value { color: #b71c1c; }
+
+.stat-box:nth-child(4) { background-color: #e3f2fd; border-color: #bbdefb; } /* Accuracy - Blue */
+.stat-box:nth-child(4) .stat-value { color: #0d47a1; }
 .stat-label {
     display: block;
     font-size: 0.85em;
@@ -175,3 +247,101 @@
     background-color: #dc3545; /* Red background on hover */
     color: #fff; /* White text on hover */
 }
+
+/* --- Mock Test Page Specific Styles --- */
+.mock-selection-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.mock-type-section { background-color: #f0f7ff; padding: 20px; border-radius: 12px; text-align: center; border: 1px solid #d1e7fd; }
+.mock-type-section h3 { color: #1f2a44; margin-top: 0; border-bottom: none; }
+.mock-type-section select { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ccc; margin-bottom: 15px; }
+.mock-type-section button { width: 100%; background-color: #1f2a44; color: white; border: none; padding: 12px 20px; border-radius: 8px; cursor: pointer; transition: background-color 0.3s; font-size: 1rem; font-weight: 600; }
+.mock-type-section button:hover { background-color: #1a233a; }
+.performance-section { background-color: #fff8e1; border-color: #ffecb3; }
+.performance-section button { background-color: #ff8f00; }
+.performance-section button:hover { background-color: #e65100; }
+
+#timer-container { font-size: 1.2rem; font-weight: bold; text-align: center; background-color: #1f2a44; color: white; padding: 10px; border-radius: 8px; margin-bottom: 20px; }
+#mock-navigation { display: flex; justify-content: space-between; margin-top: 20px; }
+#mock-navigation button { background-color: #1f2a44; color: white; border: none; padding: 10px 20px; border-radius: 8px; cursor: pointer; transition: background-color 0.3s; }
+#mock-navigation button:hover { background-color: #1a233a; }
+#mock-navigation button:disabled { background-color: #ccc; cursor: not-allowed; }
+
+#submit-mock-btn { background-color: #28a745; }
+#submit-mock-btn:hover { background-color: #218838; }
+
+.mock-option { display: block; padding: 10px; border: 1px solid #ddd; border-radius: 5px; margin-bottom: 10px; cursor: pointer; }
+.mock-option:hover { background-color: #f0f7ff; }
+.mock-option input { margin-right: 10px; }
+
+#performance-history .history-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-left: 5px solid #1f2a44;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+#performance-history .history-item strong {
+    color: #1f2a44;
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+#back-to-selection-btn {
+    display: block;
+    width: fit-content;
+    margin: 30px auto 10px auto; /* Center the button */
+    background-color: #1f2a44;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#back-to-selection-btn:hover {
+    background-color: #1a233a;
+    transform: translateY(-2px);
+}
+
+.performance-actions {
+    display: flex;
+    justify-content: space-between; /* Positions items at opposite ends */
+    gap: 15px;
+    margin-top: 30px;
+    align-items: center; /* Vertically align buttons if they have different heights */
+}
+#clear-performance-btn {
+    background-color: #fff;
+    color: #dc3545;
+    border: 2px solid #dc3545;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+#clear-performance-btn:hover {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+#attempt-another-btn {
+    background-color: #1f2a44;
+    color: white;
+    border: 2px solid #1f2a44; /* Added border for consistent sizing */
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+#attempt-another-btn:hover {
+    background-color: #1a233a;
+}
+.mock-option { display: block; padding: 10px; border: 1px solid #ddd; border-radius: 5px; margin-bottom: 10px; cursor: pointer; }
+.mock-option:hover { background-color: #f0f7ff; }
+.mock-option input { margin-right: 10px; }

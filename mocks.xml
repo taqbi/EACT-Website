@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mock-tests>
+    <!-- Full Length Mock Tests -->
+    <test name="JKSSB FAA Mock Test 1" type="full">
+        <question>
+            <text>What is the primary purpose of a 'Journal' in accounting?</text>
+            <option>To summarize transactions</option>
+            <option>To record transactions chronologically</option>
+            <option>To check arithmetical accuracy</option>
+            <option>To prepare financial statements</option>
+            <answer>To record transactions chronologically</answer>
+        </question>
+        <question>
+            <text>The concept of 'Conservatism' means that:</text>
+            <option>The same accounting principles should be used from one period to another</option>
+            <option>A business is treated as separate from its owners</option>
+            <option>Accountants should anticipate no profits but provide for all possible losses</option>
+            <option>Assets should be recorded at their original purchase price</option>
+            <answer>Accountants should anticipate no profits but provide for all possible losses</answer>
+        </question>
+    </test>
+
+    <test name="JKP SI Full Length Mock 1" type="full">
+        <question>
+            <text>Who was the first ruler of the Mauryan Empire?</text>
+            <option>Ashoka</option>
+            <option>Chandragupta Maurya</option>
+            <option>Bindusara</option>
+            <option>Samudragupta</option>
+            <answer>Chandragupta Maurya</answer>
+        </question>
+    </test>
+
+    <!-- Subject Wise Mock Tests -->
+    <test name="Computer Awareness (Subject Wise)" type="subject">
+        <question>
+            <text>Which of the following is a volatile memory?</text>
+            <option>ROM</option>
+            <option>Hard Disk</option>
+            <option>RAM</option>
+            <option>SSD</option>
+            <answer>RAM</answer>
+        </question>
+    </test>
+
+    <test name="J&amp;K GK (Subject Wise)" type="subject">
+        <question>
+            <text>The Shalimar Bagh in Srinagar was built by which Mughal Emperor?</text>
+            <option>Akbar</option>
+            <option>Shah Jahan</option>
+            <option>Jahangir</option>
+            <option>Aurangzeb</option>
+            <answer>Jahangir</answer>
+        </question>
+    </test>
+</mock-tests>
