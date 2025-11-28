@@ -837,7 +837,7 @@ fieldset.video-item legend {
 }
 
 
-/* Grid Layout for Previous Year Papers Material, Study Material */
+/* Grid Layout for MCQs (PYQs) Material, Study Material */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(5, 1fr); /* 5 items in a row */

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizzes>
+    <!-- PYQs: Exam Wise -->
+    <question category="pyq" type="exam" name="JKSSB FAA">
+        <text>According to the J&amp;K Reorganisation Act 2019, how many Schedules are there in the Act?</text>
+        <topic>J&amp;K Reorganisation Act</topic>
+        <option>5 Schedules</option>
+        <option>7 Schedules</option>
+        <option>9 Schedules</option>
+        <option>10 Schedules</option>
+        <answer>5 Schedules</answer>
+    </question>
+
+    <question category="pyq" type="exam" name="JKP SI">
+        <text>Who among the following was the first Lieutenant Governor of Jammu and Kashmir?</text>
+        <topic>J&amp;K Polity</topic>
+        <option>Manoj Sinha</option>
+        <option>Satya Pal Malik</option>
+        <option>Girish Chandra Murmu</option>
+        <option>Radha Krishna Mathur</option>
+        <answer>Girish Chandra Murmu</answer>
+    </question>
+
+    <question category="pyq" type="exam" name="JKSSB Panchayat Secretary (VLW)">
+        <text>The '73rd Constitutional Amendment Act' is related to which of the following?</text>
+        <topic>Indian Polity</topic>
+        <option>Municipalities</option>
+        <option>Panchayati Raj Institutions</option>
+        <option>Anti-Defection Law</option>
+        <option>Centre-State Relations</option>
+        <answer>Panchayati Raj Institutions</answer>
+    </question>
+
+    <!-- MCQs for Practice: Subject Wise -->
+    
+    <!-- Accountancy (Targeting FAA) -->
+    <question category="practice" type="subject" name="Accountancy">
+        <text>Which accounting concept assumes that a business will continue to operate for an indefinite period?</text>
+        <topic>Accounting Concepts</topic>
+        <option>Cost Concept</option>
+        <option>Going Concern Concept</option>
+        <option>Dual Aspect Concept</option>
+        <option>Accrual Concept</option>
+        <answer>Going Concern Concept</answer>
+    </question>
+
+    <question category="practice" type="subject" name="Accountancy">
+        <text>Trial Balance is prepared to check the _________ accuracy of the books of accounts.</text>
+        <topic>Trial Balance</topic>
+        <option>Arithmetical</option>
+        <option>Theoretical</option>
+        <option>Procedural</option>
+        <option>Legal</option>
+        <answer>Arithmetical</answer>
+    </question>
+
+    <!-- J&K GK -->
+    <question category="practice" type="subject" name="J&amp;K GK">
+        <text>The famous 'Treaty of Amritsar' which marked the beginning of Dogra rule in Kashmir was signed in which year?</text>
+        <topic>History of J&amp;K</topic>
+        <option>1846</option>
+        <option>1857</option>
+        <option>1947</option>
+        <option>1819</option>
+        <answer>1846</answer>
+    </question>
+
+    <question category="practice" type="subject" name="J&amp;K GK">
+        <text>Which national park in J&amp;K is famous for the 'Hangul' (Kashmir Stag)?</text>
+        <topic>Flora and Fauna</topic>
+        <option>Kazinag National Park</option>
+        <option>Hemis National Park</option>
+        <option>Dachigam National Park</option>
+        <option>Kishtwar National Park</option>
+        <answer>Dachigam National Park</answer>
+    </question>
+
+    <!-- Computer Awareness (Targeting Junior Assistant/VLW) -->
+    <question category="practice" type="subject" name="Computer Awareness">
+        <text>In MS Excel, which function is used to add all the numbers in a range of cells?</text>
+        <topic>MS Excel</topic>
+        <option>=ADD()</option>
+        <option>=SUM()</option>
+        <option>=TOTAL()</option>
+        <option>=COUNT()</option>
+        <answer>=SUM()</answer>
+    </question>
+
+    <question category="practice" type="subject" name="Computer Awareness">
+        <text>What is the full form of 'URL' in internet terminology?</text>
+        <topic>Abbreviations</topic>
+        <option>Uniform Resource Locator</option>
+        <option>Universal Resource Link</option>
+        <option>Uniform Registered Link</option>
+        <option>Unified Resource Locator</option>
+        <answer>Uniform Resource Locator</answer>
+    </question>
+
+    <!-- General Science -->
+    <question category="practice" type="subject" name="General Science">
+        <text>Which vitamin is also known as 'Ascorbic Acid' and helps in healing wounds?</text>
+        <topic>Vitamins and Diseases</topic>
+        <option>Vitamin A</option>
+        <option>Vitamin D</option>
+        <option>Vitamin K</option>
+        <option>Vitamin C</option>
+        <answer>Vitamin C</answer>
+    </question>
+
+    <!-- Economics -->
+    <question category="practice" type="subject" name="Economics">
+        <text>Which organization calculates the GDP of India?</text>
+        <topic>National Income</topic>
+        <option>Reserve Bank of India (RBI)</option>
+        <option>National Statistical Office (NSO)</option>
+        <option>NITI Aayog</option>
+        <option>Finance Ministry</option>
+        <answer>National Statistical Office (NSO)</answer>
+    </question>
+
+    <!-- Reasoning -->
+    <question category="practice" type="subject" name="Reasoning">
+        <text>If 'APPLE' is coded as 'BQQMF', how is 'GRAPE' coded?</text>
+        <topic>Coding-Decoding</topic>
+        <option>HSBQF</option>
+        <option>HSBQG</option>
+        <option>HRBQF</option>
+        <option>ISBQF</option>
+        <answer>HSBQF</answer>
+    </question>
+
+    <!-- Maths/Aptitude -->
+    <question category="practice" type="subject" name="Maths">
+        <text>A train 120 meters long crosses a pole in 6 seconds. What is the speed of the train in km/hr?</text>
+        <topic>Time, Speed and Distance</topic>
+        <option>60 km/hr</option>
+        <option>72 km/hr</option>
+        <option>80 km/hr</option>
+        <option>90 km/hr</option>
+        <answer>72 km/hr</answer>
+    </question>
+</quizzes>

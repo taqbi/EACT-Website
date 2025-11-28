@@ -6,8 +6,9 @@
         <meta name="keywords" content="jkssb si patwari sub inspector study material naib tehsildar free material jkpsc">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-        <title>Financial Disclosure EACT Classes</title>
+        <title>MCQs (PYQs)</title>
         <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="mcqs.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
     
@@ -21,7 +22,6 @@
         gtag('js', new Date());
         gtag('config', 'G-4PN3J441C6');
       </script>
-    
     
     </head>
 <body>
@@ -44,20 +44,46 @@
 
 </header>
 
-<div class="about-section">
-    <div class="content-title"> 
-        <h2>
-            Financial Disclosure
-        </h2> 
-    </div>
-    <p> Not Uploded Yet
-       </p>
-</div>
+<main>
+    <div class="content-title"> <h2>MCQs and Previous Year Papers</h2> </div>
 
+    <div class="mcq-main-container">
+        <div id="category-container">
+            <div class="category-group">
+                <h3><i class="fas fa-history"></i>Previous Year Questions (PYQs)</h3>
+                <div class="category-buttons">
+                    <button data-category="pyq" data-type="exam"><i class="fas fa-graduation-cap"></i>Exam Wise</button>
+                    <button data-category="pyq" data-type="subject"><i class="fas fa-book"></i>Subject Wise</button>
+                </div>
+            </div>
+            <div class="category-group">
+                <h3><i class="fas fa-pencil-alt"></i>MCQs for Practice</h3>
+                <div class="category-buttons">
+                    <button data-category="practice" data-type="subject"><i class="fas fa-book"></i>Subject Wise</button>
+                    <button data-category="practice" data-type="exam"><i class="fas fa-graduation-cap"></i>Exam Wise</button>
+                </div>
+            </div>
+            <div class="category-group">
+                <h3><i class="fas fa-vial"></i>Mock Tests</h3>
+                <div class="category-buttons">
+                    <button data-category="mock"><i class="fas fa-play-circle"></i>Attempt Mock Test</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="filter-container">
+            <label for="filter-select" id="filter-label">Select:</label>
+            <select id="filter-select"></select>
+        </div>
+
+        <div id="score-container">Score: <span id="attempted-count">0</span> attempted | <span id="correct-percentage">0.0</span>% correct</div>
+        <div id="quiz-container"></div>
+    </div>
+</main>
 
 <footer class="footer">
     <p>&copy; 2024 Educate All Charitable Trust (EACT Classes). <br> All rights reserved.</p>
-    Developed by Tawqeer ul Islam
+    Developed by Tawqeer ul Islam 
     <div class="social-icons">
         <a href="https://www.facebook.com/p/EACT-Classes-61555802639792/" target="_blank" class="facebook"><i class="fab fa-facebook"></i></a>
         <a href="https://x.com/EactClasses?t=DH9PbeEMMQ_uK9UKd7BOQQ&s=09" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>
@@ -65,8 +91,9 @@
         <a href="https://www.instagram.com" target="_blank" class="instagram"><i class="fab fa-instagram"></i></a>
         <a href="https://www.linkedin.com" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
         <a href="https://whatsapp.com/channel/0029Va4OvXM84Om9ScKmgm0V" target="_blank" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
-      </div>
+    </div>
 </footer>
 
+<script src="scripts.js"></script>
 </body>
 </html>
