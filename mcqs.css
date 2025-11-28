@@ -39,12 +39,8 @@
     font-weight: 700; /* Bolder text */
     color: #1f2a44; /* Use primary site color */
 }
-.category-group h3 {
-    cursor: pointer; /* Indicates the heading is clickable */
-    transition: background-color 0.2s ease-in-out;
-}
-.category-group h3:hover {
-    background-color: rgba(0,0,0,0.03); /* Subtle hover effect */
+.category-group h3 { 
+    cursor: pointer; /* Indicates the heading is clickable */ 
 }
 .category-group h3 i { margin-right: 12px; color: #1f2a44; } /* Consistent icon color */
 .category-buttons button {
@@ -63,9 +59,8 @@
     box-shadow: 0 4px 10px rgba(0,0,0,0.08); /* Slightly stronger shadow */
 }
 .category-buttons {
-    display: none; /* Hide the button containers by default */
-    margin-top: 15px;
-    padding-top: 10px;
+    /* This ensures any old button containers are hidden by default */
+    display: none;
 }
 .category-buttons button i { margin-right: 8px; }
 .category-buttons button:hover {
@@ -111,9 +106,26 @@
     background-color: #1a233a; /* Slightly darker on hover */
     border-color: #1a233a;
 }
-#filter-container { display: none; margin-top: 20px; text-align: center; }
-#filter-label { font-weight: 600; color: #1f2a44; margin-right: 10px; }
-#filter-select, #subject-filter-select {
+/* --- New Unified Filter Styles --- */
+#new-filter-container {
+    display: none; /* Hidden by default */
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+.filter-group {
+    display: flex;
+    flex-direction: column;
+}
+.filter-group label {
+    font-weight: 600;
+    color: #1f2a44;
+    margin-bottom: 8px;
+}
+#exam-filter, #subject-filter {
     /* Custom dropdown styles */
     padding: 10px 15px;
     border-radius: 8px;
@@ -129,18 +141,6 @@
     background-repeat: no-repeat;
     background-position: right 0.75rem center;
     background-size: 16px 12px;
-}
-#quiz-mode-container, #subject-filter-container {
-    text-align: center;
-    margin-top: 20px;
-    padding: 15px;
-    background-color: #e9ecef; /* Slightly darker background for contrast */
-    border-radius: 12px;
-    border: 1px solid #dee2e6;
-}
-#quiz-mode-container h4 {
-    margin-top: 0;
-    color: #1f2a44;
 }
 
 #score-container {
@@ -439,11 +439,9 @@
     justify-content: center;
     align-items: center;
     gap: 15px;
-    margin-top: 20px;
-    padding: 15px;
-    background-color: #e9ecef;
-    border-radius: 12px;
-    border: 1px solid #dee2e6;
+    margin-top: -10px; /* Pull it closer to the dropdowns */
+    margin-bottom: 20px;
+    padding: 10px;
 }
 .toggle-label {
     font-weight: 600;

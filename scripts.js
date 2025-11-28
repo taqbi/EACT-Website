@@ -189,32 +189,29 @@ document.addEventListener('DOMContentLoaded', function () {
 
         type();
     }
-});
 
-// =========================================================
-// ✅ MCQs and PYQs Logic
-// =========================================================
-const categoryContainer = document.getElementById('category-container');
+    // =========================================================
+    // ✅ MCQs and PYQs Logic
+    // =========================================================
+    const categoryContainer = document.getElementById('category-container');
 
-// Only run this code if we are on the MCQs page
-if (categoryContainer) {
-    const filterContainer = document.getElementById('filter-container');
+    // Only run this code if we are on the MCQs page
+    if (categoryContainer) {
+        const filterContainer = document.getElementById('filter-container');
+    const newFilterContainer = document.getElementById('new-filter-container');
     const quizContainer = document.getElementById('quiz-container');
     const scoreContainer = document.getElementById('score-container');
-    const filterSelect = document.getElementById('filter-select');
-    const filterLabel = document.getElementById('filter-label');
+    const examFilter = document.getElementById('exam-filter');
+    const subjectFilter = document.getElementById('subject-filter');
     const progressContainer = document.getElementById('progress-container');
     const showProgressBtn = document.getElementById('show-progress-btn');
-    const quizModeContainer = document.getElementById('quiz-mode-container');
-    const subjectFilterContainer = document.getElementById('subject-filter-container');
     const pyqModeToggleContainer = document.getElementById('pyq-mode-toggle-container');
-    const subjectFilterSelect = document.getElementById('subject-filter-select');
-
+    
     let allQuestions = [];
     let sessionAnswers = {}; // To store answers for the current session
-    let selectedExamForPYQ = ''; // To store the selected exam name
+    let activeCategory = ''; // To store the currently active category (pyq or practice)
     let currentQuestions = [];
-    let score = 0;
+        let score = 0;
     let attempted = 0;
 
     // --- Progress Tracking Logic ---
@@ -222,13 +219,13 @@ if (categoryContainer) {
 
     // Function to create a simple unique ID from question text
     function getQuestionId(questionText) {
-        let hash = 0;
+            let hash = 0;
         for (let i = 0; i < questionText.length; i++) {
             const char = questionText.charCodeAt(i);
             hash = ((hash << 5) - hash) + char;
             hash |= 0; // Convert to 32bit integer
         }
-        return 'q_' + Math.abs(hash);
+            return 'q_' + Math.abs(hash);
     }
 
     function readProgress() {
@@ -247,19 +244,19 @@ if (categoryContainer) {
     }
 
     function updateProgress(quizName, quizType, isCorrect, questionId) {
-        const progress = readProgress();
+            const progress = readProgress();
         if (!progress.scores[quizType]) progress.scores[quizType] = {};
         if (!progress.scores[quizType][quizName]) progress.scores[quizType][quizName] = { correct: 0, attempted: 0 };
         progress.scores[quizType][quizName].attempted++;
         if (isCorrect) {
             progress.scores[quizType][quizName].correct++;
         }
-        if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
+            if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
         if (!progress.attemptedQuestions[quizName].includes(questionId)) {
             progress.attemptedQuestions[quizName].push(questionId);
         }
-        saveProgress(progress);
-    }
+            saveProgress(progress);
+        }
 
 
     // Fetch and parse XML data
@@ -290,95 +287,53 @@ if (categoryContainer) {
             setupEventListeners();
         })
         .catch(error => {
-            console.error('Error fetching or parsing XML:', error);
+                console.error('Error fetching or parsing XML:', error);
             if (quizContainer) {
                 quizContainer.innerHTML = '<p>Error loading questions. Please try again later.</p>';
             }
         });
 
     function setupEventListeners() {
-        // A single, powerful event listener for the entire category container
-        categoryContainer.addEventListener('click', (e) => {
-            const heading = e.target.closest('h3');
-            const button = e.target.closest('button');
+            // A single, powerful event listener for the entire category container
+        document.querySelectorAll('.category-group h3').forEach(heading => {
+            heading.addEventListener('click', (e) => {
+                const group = e.target.closest('.category-group');
+                const category = group.querySelector('.category-filters')?.dataset.category;
 
-            // Case 1: A main category heading was clicked (for the accordion)
-            if (heading) {
-                const group = heading.closest('.category-group');
-                if (group) {
-                    const buttonsContainer = group.querySelector('.category-buttons');
-                    if (buttonsContainer) {
-                        buttonsContainer.style.display = buttonsContainer.style.display === 'block' ? 'none' : 'block';
-                    }
-                }
-            }
-            // Case 2: A specific action button was clicked (e.g., "Exam Wise", "View Progress")
-            else if (button) {
-                // Handle the "View My Progress" button specifically
-                if (button.id === 'show-progress-btn') {
+                if (category) { // This is a PYQ or Practice heading
+                    activeCategory = category;
+                    resetQuizView();
+                    populateExamFilter();
+                    populateSubjectFilter(); // Initial population
+                    newFilterContainer.style.display = 'grid';
+                    newFilterContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else if (group.querySelector('#show-progress-btn')) { // This is the Progress heading
                     resetQuizView();
                     displayProgress();
                     progressContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    return; // Stop further execution
-                }
-
-                // Handle all other quiz-related buttons
-                const category = button.dataset.category;
-                const type = button.dataset.type;
-
-                resetQuizView();
-
-                if (category === 'mock') {
+                } else if (group.querySelector('[data-category="mock"]')) { // This is the Mock Test heading
                     window.location.href = 'mock-tests.html';
-                    return;
                 }
-
-                populateFilter(category, type);
-                filterContainer.style.display = 'block';
-
-                // Automatically scroll down to the new dropdown menu
-                filterContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
+            });
         });
 
-        // This listener MUST be inside setupEventListeners to be correctly scoped.
-        filterSelect.addEventListener('change', (e) => {
-            const selectedName = e.target.value;
-            if (!selectedName) {
-                resetQuizView();
-                return;
-            }
+            // --- New Dependent Dropdown Logic ---
 
-            const category = filterSelect.dataset.category;
-            const type = filterSelect.dataset.type;
+        examFilter.addEventListener('change', () => {
+            const selectedExam = examFilter.value;
+            populateSubjectFilter(); // Repopulate subjects based on selected exam
 
-            console.log("Dropdown selected. Values are:");
-            console.log("Category:", category, "Type:", type, "Selected Name:", selectedName);
-
-            // Hide sub-filters initially
-            pyqModeToggleContainer.style.display = 'none';
-            subjectFilterContainer.style.display = 'none';
-
-            // *** NEW LOGIC FOR PYQ EXAM-WISE SELECTION ***
-            if (category === 'pyq' && type === 'exam') {
-                selectedExamForPYQ = selectedName; // Store the selected exam
-                quizContainer.innerHTML = ''; // Clear any existing quiz
-                scoreContainer.style.display = 'none'; 
-                pyqModeToggleContainer.style.display = 'flex'; // Show the new toggle switch
-
-                // Default to Random mode and load questions immediately
+            // If a valid exam option is selected (including "All Exams"), show the toggle.
+            if (selectedExam) {
+                pyqModeToggleContainer.style.display = 'flex'; // Show toggle for a specific exam
                 document.getElementById('pyq-mode-toggle').checked = true;
                 handleToggleChange();
             } else {
-                // Original logic for all other combinations
-                pyqModeToggleContainer.style.display = 'none';
-                currentQuestions = allQuestions.filter(q => q.category === category && q[type] === selectedName);
-                console.log("Found " + currentQuestions.length + " questions after filtering.");
-                displayQuestions(type);
+                // If the placeholder is selected, hide everything.
+                resetQuizView();
             }
         });
 
-        // --- Event listeners for the new PYQ mode buttons ---
         const toggle = document.getElementById('pyq-mode-toggle');
         toggle.addEventListener('change', handleToggleChange);
 
@@ -387,48 +342,53 @@ if (categoryContainer) {
             const labels = pyqModeToggleContainer.querySelectorAll('.toggle-label');
 
             if (isRandom) {
-                console.log("Random mode selected for exam:", selectedExamForPYQ);
                 labels[0].classList.remove('active');
                 labels[1].classList.add('active');
-                subjectFilterContainer.style.display = 'none'; // Hide subject dropdown
-
-                currentQuestions = allQuestions.filter(q => q.category === 'pyq' && q.exam === selectedExamForPYQ);
-                currentQuestions.sort(() => Math.random() - 0.5); // Shuffle
-                console.log("Found " + currentQuestions.length + " random questions.");
-                displayQuestions('exam');
+                subjectFilter.parentElement.style.display = 'none'; // Hide subject dropdown in Random mode
+                // Set subject to 'all' internally and filter
+                subjectFilter.value = 'all';
+                filterAndDisplayQuestions(true); // Pass true to shuffle
             } else {
-                console.log("Subject-wise mode selected for exam:", selectedExamForPYQ);
                 labels[1].classList.remove('active');
                 labels[0].classList.add('active');
-                quizContainer.innerHTML = ''; // Clear quiz
+                subjectFilter.parentElement.style.display = 'block'; // Show subject dropdown
+                subjectFilter.value = 'all';
+                quizContainer.innerHTML = '';
                 scoreContainer.style.display = 'none';
-
-                const subjectsForExam = [...new Set(allQuestions
-                    .filter(q => q.category === 'pyq' && q.exam === selectedExamForPYQ)
-                    .map(q => q.subject))];
-                
-                subjectFilterSelect.innerHTML = '<option value="">-- Select Subject --</option>';
-                subjectsForExam.forEach(subject => {
-                    subjectFilterSelect.innerHTML += `<option value="${subject}">${subject}</option>`;
-                });
-                subjectFilterContainer.style.display = 'block';
             }
         }
 
-        // --- Event listener for the new second-level subject dropdown ---
-
-        subjectFilterSelect.addEventListener('change', (e) => {
-            const selectedSubject = e.target.value;
-            if (!selectedSubject) {
-                quizContainer.innerHTML = '';
-                scoreContainer.style.display = 'none';
-                return;
-            }
-            console.log("Subject selected:", selectedSubject, "for exam:", selectedExamForPYQ);
-            currentQuestions = allQuestions.filter(q => q.category === 'pyq' && q.exam === selectedExamForPYQ && q.subject === selectedSubject);
-            console.log("Found " + currentQuestions.length + " questions for this subject.");
-            displayQuestions('subject');
+        // This listener needs to be here to correctly trigger filtering
+        subjectFilter.addEventListener('change', () => {
+            filterAndDisplayQuestions();
         });
+
+            function populateExamFilter() {
+            const exams = [...new Set(allQuestions.filter(q => q.category === activeCategory).map(q => q.exam))];
+            examFilter.innerHTML = '<option value="" disabled selected>-- Select Exam --</option>';
+            examFilter.innerHTML += '<option value="all">All Exams</option>';
+            exams.forEach(exam => {
+                examFilter.innerHTML += `<option value="${exam}">${exam}</option>`;
+            });
+        }
+
+            function populateSubjectFilter() {
+            const selectedExam = examFilter.value;
+            let subjects;
+
+            if (selectedExam === 'all') {
+                // Show all subjects for the active category
+                subjects = [...new Set(allQuestions.filter(q => q.category === activeCategory).map(q => q.subject))];
+            } else {
+                // Show only subjects related to the selected exam
+                subjects = [...new Set(allQuestions.filter(q => q.category === activeCategory && q.exam === selectedExam).map(q => q.subject))];
+            }
+
+            subjectFilter.innerHTML = '<option value="all">All Subjects</option>';
+            subjects.forEach(subject => {
+                subjectFilter.innerHTML += `<option value="${subject}">${subject}</option>`;
+            });
+        }
 
         // Add listener for the "Clear All My Attempts" button in the progress section
         const clearProgressBtn = document.getElementById('clear-progress-btn');
@@ -440,10 +400,33 @@ if (categoryContainer) {
                 }
             });
         }
+
+        function filterAndDisplayQuestions(shuffle = false) {
+            const selectedExam = examFilter.value;
+            const selectedSubject = subjectFilter.value;
+
+            console.log(`Filtering for: Category=${activeCategory}, Exam=${selectedExam}, Subject=${selectedSubject}`);
+
+            currentQuestions = allQuestions.filter(q => {
+                const categoryMatch = q.category === activeCategory;
+                const examMatch = (selectedExam === 'all' || !selectedExam) || (q.exam === selectedExam);
+                const subjectMatch = (selectedSubject === 'all') || (q.subject === selectedSubject);
+                return categoryMatch && examMatch && subjectMatch;
+            });
+
+            if (shuffle) {
+                currentQuestions.sort(() => Math.random() - 0.5);
+            }
+
+            console.log(`Found ${currentQuestions.length} questions.`);
+            // Determine quizType for progress tracking. Prioritize subject if specific.
+            const quizType = selectedSubject !== 'all' ? 'subject' : 'exam';
+            displayQuestions(quizType);
+        }
     }
 
     function displayProgress() {
-        // First, remove any existing overall performance section to prevent duplication
+            // First, remove any existing overall performance section to prevent duplication
         const existingOverall = document.querySelector('.overall-performance');
         if (existingOverall) {
             existingOverall.remove();
@@ -462,7 +445,7 @@ if (categoryContainer) {
             </div>
         `;
 
-        const examContainer = document.getElementById('progress-exam');
+            const examContainer = document.getElementById('progress-exam');
         const subjectContainer = document.getElementById('progress-subject');
 
         let overallAttempted = 0;
@@ -513,7 +496,7 @@ if (categoryContainer) {
         if (!hasExamScores && !hasSubjectScores) {
             statsContainer.innerHTML = '<p>You have not attempted any questions yet.</p>';
         } else {
-            // Add Overall Performance section
+                // Add Overall Performance section
             const overallIncorrect = overallAttempted - overallCorrect;
             const overallPercentage = overallAttempted > 0 ? ((overallCorrect / overallAttempted) * 100).toFixed(1) : 0;
             const overallHtml = `
@@ -527,15 +510,11 @@ if (categoryContainer) {
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterend', overallHtml);
-        }
+            }
         progressContainer.style.display = 'block';
     }
     
-    function populateFilter(category, type) {
-        filterLabel.textContent = `Select ${type === 'exam' ? 'Exam' : 'Subject'}:`;
-        filterSelect.innerHTML = `<option value="">-- Select --</option>`;
-        filterSelect.dataset.category = category;
-        filterSelect.dataset.type = type;
+        function populateFilter(category, type) {
 
         // New logic: Filter based on the 'type' (exam or subject) and get unique names
         const filterNames = [...new Set(allQuestions.filter(q => q.category === category).map(q => q[type]))];
@@ -550,15 +529,15 @@ if (categoryContainer) {
 
 
     function displayQuestions(quizType) {
-        // Reset score and attempted count for the new set of questions
+            // Reset score and attempted count for the new set of questions
         score = 0;
         attempted = 0;
         sessionAnswers = {}; // Clear answers for the new session
         quizContainer.innerHTML = ''; // Clear previous content
 
-        const quizName = currentQuestions.length > 0 ? (subjectFilterContainer.style.display === 'block' ? subjectFilterSelect.value : (quizType === 'exam' ? currentQuestions[0].exam : currentQuestions[0].subject)) : '';
+        const quizName = subjectFilter.value !== 'all' ? subjectFilter.value : (examFilter.value !== 'all' ? examFilter.value : 'General');
 
-        // Add the "Clear Attempts" button for this specific quiz
+            // Add the "Clear Attempts" button for this specific quiz
         if (quizName) {
             const clearButton = document.createElement('button');
             clearButton.textContent = `Clear My Attempts for "${quizName}"`;
@@ -572,7 +551,7 @@ if (categoryContainer) {
                     }
                     saveProgress(progress);
                     // Re-filter the questions before re-displaying
-                    currentQuestions = allQuestions.filter(q => (quizType === 'exam' ? q.exam : q.subject) === quizName);
+                        filterAndDisplayQuestions();
                     // Re-display the questions to reflect the change
                     displayQuestions(quizType);
                 }
@@ -605,9 +584,6 @@ if (categoryContainer) {
             quizContainer.appendChild(questionEl);
         });
         scoreContainer.style.display = 'block';
-
-        // Add a "View Solutions" button at the end of the quiz
-        const solutionsButton = document.createElement('button');
     }
 
     if (quizContainer) {
@@ -618,14 +594,14 @@ if (categoryContainer) {
                 const question = currentQuestions[questionIndex];
                 const subjectName = optionsDiv.dataset.subjectName; // This remains for progress tracking by subject
                 const quizType = optionsDiv.dataset.quizType;
-
-                // Prevent clicking on disabled questions
+    
+                    // Prevent clicking on disabled questions
                 if (optionsDiv.classList.contains('disabled-quiz')) return;
 
                 if (optionsDiv.classList.contains('answered')) return;
 
-                optionsDiv.classList.add('answered');
-                attempted++;
+                    optionsDiv.classList.add('answered');
+                    attempted++;
 
                 const selectedAnswer = e.target.textContent;
                 const isCorrect = selectedAnswer === question.answer;
@@ -633,7 +609,7 @@ if (categoryContainer) {
                 // Store the user's answer for this session
                 sessionAnswers[question.id] = selectedAnswer;
 
-                if (isCorrect) {
+                    if (isCorrect) {
                     score++;
                     e.target.classList.add('correct');
                 } else {
@@ -645,7 +621,7 @@ if (categoryContainer) {
                     });
                 }
 
-                // Create and append the "View Solution" button for this question
+                    // Create and append the "View Solution" button for this question
                 const solutionButton = document.createElement('button');
                 solutionButton.textContent = 'View Solution';
                 solutionButton.className = 'solution-toggle-btn';
@@ -661,14 +637,14 @@ if (categoryContainer) {
                 };
                 // Insert the button after the options div
                 optionsDiv.insertAdjacentElement('afterend', solutionButton);
-
-                // Determine the correct name for progress tracking (either exam name or subject name)
+    
+                    // Determine the correct name for progress tracking (either exam name or subject name)
                 const progressName = quizType === 'exam' ? question.exam : question.subject;
 
                 // Save progress to localStorage
                 updateProgress(progressName, quizType, isCorrect, question.id);
 
-                updateScore();
+                    updateScore();
             }
         });
     }
@@ -683,11 +659,10 @@ if (categoryContainer) {
     }
 
     function resetQuizView() {
-        filterContainer.style.display = 'none';
         quizContainer.innerHTML = '';
         scoreContainer.style.display = 'none';
+        newFilterContainer.style.display = 'none';
         pyqModeToggleContainer.style.display = 'none';
-        subjectFilterContainer.style.display = 'none';
         progressContainer.style.display = 'none';
         resetQuizState();
     }
@@ -698,4 +673,6 @@ if (categoryContainer) {
         attempted = 0;
         updateScore();
     }
-}
+    } // This closes the 'if (categoryContainer)' block
+    } 
+);

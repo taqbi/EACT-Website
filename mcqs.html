@@ -54,17 +54,13 @@
         <div id="category-container">
             <div class="category-group">
                 <h3><i class="fas fa-history"></i>Previous Year Questions (PYQs)</h3>
-                <div class="category-buttons">
-                    <button data-category="pyq" data-type="exam"><i class="fas fa-graduation-cap"></i>Exam Wise</button>
-                    <button data-category="pyq" data-type="subject"><i class="fas fa-book"></i>Subject Wise</button>
-                </div>
+                <!-- The buttons are removed, clicking the heading will now reveal the filters -->
+                <div class="category-filters" data-category="pyq"></div>
             </div>
             <div class="category-group">
                 <h3><i class="fas fa-pencil-alt"></i>MCQs for Practice</h3>
-                <div class="category-buttons">
-                    <button data-category="practice" data-type="subject"><i class="fas fa-book"></i>Subject Wise</button>
-                    <button data-category="practice" data-type="exam"><i class="fas fa-graduation-cap"></i>Exam Wise</button>
-                </div>
+                <!-- Applying the new filter structure here as well -->
+                <div class="category-filters" data-category="practice"></div>
             </div>
             <div class="category-group">
                 <h3><i class="fas fa-vial"></i>Mock Tests</h3>
@@ -80,20 +76,22 @@
             </div>
         </div>
 
-        <div id="filter-container">
-            <label for="filter-select" id="filter-label">Select:</label>
-            <select id="filter-select"></select>
+        <!-- This is the new, unified filter container that will be populated by JS -->
+        <div id="new-filter-container" style="display: none;">
+            <div class="filter-group">
+                <label for="exam-filter">Select Exam</label>
+                <select id="exam-filter"></select>
+            </div>
+            <div class="filter-group">
+                <label for="subject-filter">Select Subject</label>
+                <select id="subject-filter"></select>
+            </div>
         </div>
 
         <div id="pyq-mode-toggle-container" style="display: none;">
             <span class="toggle-label">Subject Wise</span>
             <label class="toggle-switch"><input type="checkbox" id="pyq-mode-toggle" checked><span class="slider round"></span></label>
             <span class="toggle-label active">Random</span>
-        </div>
-
-        <div id="subject-filter-container" style="display: none;">
-            <label for="subject-filter-select" id="subject-filter-label">Select Subject:</label>
-            <select id="subject-filter-select"></select>
         </div>
 
         <div id="score-container" class="stat-boxes">
