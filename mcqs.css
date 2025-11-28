@@ -108,7 +108,7 @@
 }
 /* --- New Unified Filter Styles --- */
 #new-filter-container {
-    display: none; /* Hidden by default */
+    display: grid; /* Use grid for horizontal layout */
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     padding: 20px;
@@ -144,7 +144,7 @@
 }
 
 /* Responsive layout for filters on smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     #new-filter-container {
         grid-template-columns: 1fr; /* Stack dropdowns vertically */
     }

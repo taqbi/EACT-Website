@@ -350,8 +350,8 @@ document.addEventListener('DOMContentLoaded', function () {
             } else {
                 labels[1].classList.remove('active');
                 labels[0].classList.add('active');
-                subjectFilter.parentElement.style.display = 'block'; // Show subject dropdown
-                subjectFilter.value = 'all';
+                subjectFilter.parentElement.style.display = 'flex'; // Show subject dropdown using its default flex display
+                subjectFilter.value = ''; // Reset to the placeholder
                 quizContainer.innerHTML = '';
                 scoreContainer.style.display = 'none';
             }
