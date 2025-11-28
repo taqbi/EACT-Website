@@ -9,6 +9,7 @@
         <option>9 Schedules</option>
         <option>10 Schedules</option>
         <answer>5 Schedules</answer>
+        <explanation>The Jammu and Kashmir Reorganisation Act, 2019 contains 103 sections, 14 parts, and 5 schedules. These schedules deal with various administrative and legal aspects of the new Union Territories.</explanation>
     </question>
 
     <question category="pyq" type="exam" name="JKP SI">
@@ -19,6 +20,7 @@
         <option>Girish Chandra Murmu</option>
         <option>Radha Krishna Mathur</option>
         <answer>Girish Chandra Murmu</answer>
+        <explanation>Girish Chandra Murmu was appointed as the first Lieutenant Governor of the Union Territory of Jammu and Kashmir in October 2019, following the reorganization of the state.</explanation>
     </question>
 
     <question category="pyq" type="exam" name="JKSSB Panchayat Secretary (VLW)">
@@ -29,6 +31,7 @@
         <option>Anti-Defection Law</option>
         <option>Centre-State Relations</option>
         <answer>Panchayati Raj Institutions</answer>
+        <explanation>The 73rd Constitutional Amendment Act, 1992, added Part IX to the Constitution, titled "The Panchayats," which constitutionalized the Panchayati Raj system in India.</explanation>
     </question>
 
     <!-- MCQs for Practice: Subject Wise -->
@@ -42,6 +45,7 @@
         <option>Dual Aspect Concept</option>
         <option>Accrual Concept</option>
         <answer>Going Concern Concept</answer>
+        <explanation>The Going Concern Concept is the assumption that a business will remain in operation for the foreseeable future. It is a fundamental principle of accounting.</explanation>
     </question>
 
     <question category="practice" type="subject" name="Accountancy">
@@ -52,6 +56,7 @@
         <option>Procedural</option>
         <option>Legal</option>
         <answer>Arithmetical</answer>
+        <explanation>A Trial Balance is a statement showing the balances of all accounts in the ledger. Its primary purpose is to verify the arithmetical accuracy of the postings to the ledger accounts.</explanation>
     </question>
 
     <!-- J&K GK -->
@@ -63,6 +68,7 @@
         <option>1947</option>
         <option>1819</option>
         <answer>1846</answer>
+        <explanation>The Treaty of Amritsar was signed on March 16, 1846, between the British East India Company and Maharaja Gulab Singh. It formalized the sale of Kashmir to Gulab Singh, establishing the Dogra dynasty.</explanation>
     </question>
 
     <question category="practice" type="subject" name="J&amp;K GK">
@@ -73,6 +79,7 @@
         <option>Dachigam National Park</option>
         <option>Kishtwar National Park</option>
         <answer>Dachigam National Park</answer>
+        <explanation>Dachigam National Park, located near Srinagar, is the primary habitat of the critically endangered Hangul, also known as the Kashmir Stag.</explanation>
     </question>
 
     <!-- Computer Awareness (Targeting Junior Assistant/VLW) -->
@@ -84,6 +91,7 @@
         <option>=TOTAL()</option>
         <option>=COUNT()</option>
         <answer>=SUM()</answer>
+        <explanation>In Microsoft Excel, the =SUM() function is used to calculate the total of the numbers in a specified range of cells.</explanation>
     </question>
 
     <question category="practice" type="subject" name="Computer Awareness">
@@ -94,6 +102,7 @@
         <option>Uniform Registered Link</option>
         <option>Unified Resource Locator</option>
         <answer>Uniform Resource Locator</answer>
+        <explanation>URL stands for Uniform Resource Locator. It is the address of a resource (like a webpage) on the World Wide Web.</explanation>
     </question>
 
     <!-- General Science -->
@@ -105,6 +114,7 @@
         <option>Vitamin K</option>
         <option>Vitamin C</option>
         <answer>Vitamin C</answer>
+        <explanation>Vitamin C, or Ascorbic Acid, is essential for the growth, development, and repair of all body tissues. It's involved in many body functions, including the formation of collagen and wound healing.</explanation>
     </question>
 
     <!-- Economics -->
@@ -116,6 +126,7 @@
         <option>NITI Aayog</option>
         <option>Finance Ministry</option>
         <answer>National Statistical Office (NSO)</answer>
+        <explanation>The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for compiling and releasing the estimates of Gross Domestic Product (GDP) in India.</explanation>
     </question>
 
     <!-- Reasoning -->
@@ -127,6 +138,7 @@
         <option>HRBQF</option>
         <option>ISBQF</option>
         <answer>HSBQF</answer>
+        <explanation>The pattern is +1 for each letter. G+1=H, R+1=S, A+1=B, P+1=Q, E+1=F. So, GRAPE becomes HSBQF.</explanation>
     </question>
 
     <!-- Maths/Aptitude -->
@@ -138,5 +150,6 @@
         <option>80 km/hr</option>
         <option>90 km/hr</option>
         <answer>72 km/hr</answer>
+        <explanation>Speed = Distance / Time = 120m / 6s = 20 m/s. To convert m/s to km/hr, multiply by 18/5. So, 20 * (18/5) = 72 km/hr.</explanation>
     </question>
 </quizzes>

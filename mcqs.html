@@ -82,7 +82,20 @@
             <select id="filter-select"></select>
         </div>
 
-        <div id="score-container">Score: <span id="attempted-count">0</span> attempted | <span id="correct-percentage">0.0</span>% correct</div>
+        <div id="score-container" class="stat-boxes">
+            <div class="stat-box">
+                <span class="stat-label">Attempted</span><span class="stat-value" id="attempted-count">0</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Correct</span><span class="stat-value" id="correct-count">0</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Incorrect</span><span class="stat-value" id="incorrect-count">0</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Accuracy</span><span class="stat-value" id="accuracy-percentage">0.0%</span>
+            </div>
+        </div>
         <div id="quiz-container"></div>
 
         <div id="progress-container" style="display: none;">

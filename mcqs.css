@@ -126,7 +126,12 @@
     -webkit-appearance: none; /* Removes default browser styling */
     appearance: none;
 }
-#score-container { display: none; background-color: #f0f8ff; padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: center; }
+#score-container {
+    display: none; /* Initially hidden */
+    grid-template-columns: repeat(4, 1fr); /* Use 4 columns for the live score */
+    margin-bottom: 20px;
+    padding: 10px;
+}
 .question-topic {
     display: inline-block;
     background-color: #e9ecef;
@@ -154,6 +159,11 @@
 .options.answered .option-btn:not(.correct):not(.incorrect) {
     cursor: not-allowed;
     opacity: 0.7;
+}
+.options.disabled-quiz .option-btn {
+    cursor: not-allowed;
+    background-color: #e9ecef;
+    opacity: 0.6;
 }
 
 /* Progress Section Styles */
@@ -284,6 +294,22 @@
 .mock-option:hover { background-color: #f0f7ff; }
 .mock-option input { margin-right: 10px; }
 
+.clear-quiz-attempts-btn {
+    display: block;
+    width: fit-content;
+    margin: 0 auto 25px auto;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    background-color: #ffc107;
+    color: #1f2a44;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.clear-quiz-attempts-btn:hover {
+    background-color: #e0a800;
+}
 #performance-history .history-item {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -357,3 +383,38 @@
 .mock-option { display: block; padding: 10px; border: 1px solid #ddd; border-radius: 5px; margin-bottom: 10px; cursor: pointer; }
 .mock-option:hover { background-color: #f0f7ff; }
 .mock-option input { margin-right: 10px; }
+
+.solution-toggle-btn {
+    background-color: #ffc107;
+    color: #1f2a44;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    margin-top: 15px;
+    font-weight: 500;
+}
+.solution-toggle-btn:hover {
+    background-color: #e0a800;
+}
+
+.solution-wrapper {
+    display: none; /* Hidden by default */
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-left: 4px solid #17a2b8;
+    border-radius: 0 8px 8px 0;
+}
+.correct-answer-text {
+    font-weight: bold;
+    color: #155724;
+}
+.explanation {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #ccc;
+    color: #555;
+    line-height: 1.5;
+}

@@ -207,6 +207,7 @@ if (categoryContainer) {
     const showProgressBtn = document.getElementById('show-progress-btn');
 
     let allQuestions = [];
+    let sessionAnswers = {}; // To store answers for the current session
     let currentQuestions = [];
     let score = 0;
     let attempted = 0;
@@ -227,25 +228,30 @@ if (categoryContainer) {
 
     function readProgress() {
         const data = localStorage.getItem(PROGRESS_KEY);
-        // New structure with exam/subject types
-        return data ? JSON.parse(data) : { scores: { exam: {}, subject: {} }, attemptedQuestionIds: [] };
+        // New structure with attemptedQuestions object
+        let progress = data ? JSON.parse(data) : { scores: { exam: {}, subject: {} }, attemptedQuestions: {} };
+        // Migration for old structure if it exists
+        if (progress.attemptedQuestionIds) {
+            delete progress.attemptedQuestionIds;
+        }
+        return progress;
     }
 
     function saveProgress(progressData) {
         localStorage.setItem(PROGRESS_KEY, JSON.stringify(progressData));
     }
 
-    function updateProgress(subjectName, quizType, isCorrect, questionId) {
+    function updateProgress(quizName, quizType, isCorrect, questionId) {
         const progress = readProgress();
-        if (!progress.scores[quizType][subjectName]) {
-            progress.scores[quizType][subjectName] = { correct: 0, attempted: 0 };
-        }
-        progress.scores[quizType][subjectName].attempted++;
+        if (!progress.scores[quizType]) progress.scores[quizType] = {};
+        if (!progress.scores[quizType][quizName]) progress.scores[quizType][quizName] = { correct: 0, attempted: 0 };
+        progress.scores[quizType][quizName].attempted++;
         if (isCorrect) {
-            progress.scores[quizType][subjectName].correct++;
+            progress.scores[quizType][quizName].correct++;
         }
-        if (!progress.attemptedQuestionIds.includes(questionId)) {
-            progress.attemptedQuestionIds.push(questionId);
+        if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
+        if (!progress.attemptedQuestions[quizName].includes(questionId)) {
+            progress.attemptedQuestions[quizName].push(questionId);
         }
         saveProgress(progress);
     }
@@ -270,7 +276,8 @@ if (categoryContainer) {
                     id: getQuestionId(node.querySelector('text').textContent), // Add unique ID
                     topic: node.querySelector('topic')?.textContent || 'General',
                     options: options,
-                    answer: node.querySelector('answer').textContent
+                    answer: node.querySelector('answer').textContent,
+                    explanation: node.querySelector('explanation')?.textContent || 'No explanation available.'
                 });
             });
 
@@ -316,9 +323,6 @@ if (categoryContainer) {
             const heading = group.querySelector('h3');
             if (heading) {
                 heading.addEventListener('click', (e) => {
-                    // Prevent this from triggering other button clicks
-                    if (e.target.closest('button')) return;
-
                     const buttonsContainer = group.querySelector('.category-buttons');
                     buttonsContainer.style.display = buttonsContainer.style.display === 'block' ? 'none' : 'block';
                 });
@@ -350,6 +354,9 @@ if (categoryContainer) {
         showProgressBtn.addEventListener('click', () => {
             resetQuizView(); // Hide any active quiz
             displayProgress();
+
+            // Automatically scroll down to the progress dashboard
+            progressContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
         });
 
         document.getElementById('clear-progress-btn').addEventListener('click', () => {
@@ -469,29 +476,65 @@ if (categoryContainer) {
 
 
     function displayQuestions(quizType) {
-  // Reset score and attempted count for the new set of questions
+        // Reset score and attempted count for the new set of questions
         score = 0;
         attempted = 0;
-        quizContainer.innerHTML = '';
+        sessionAnswers = {}; // Clear answers for the new session
+        quizContainer.innerHTML = ''; // Clear previous content
+
+        const quizName = currentQuestions.length > 0 ? currentQuestions[0].name : '';
+
+        // Add the "Clear Attempts" button for this specific quiz
+        if (quizName) {
+            const clearButton = document.createElement('button');
+            clearButton.textContent = `Clear My Attempts for "${quizName}"`;
+            clearButton.className = 'clear-quiz-attempts-btn';
+            clearButton.onclick = () => {
+                if (confirm(`Are you sure you want to clear your attempts for "${quizName}"? This will also reset your score for this section.`)) {
+                    const progress = readProgress();
+                    // Remove attempts and scores for this specific quiz
+                    if (progress.attemptedQuestions[quizName]) {
+                        delete progress.attemptedQuestions[quizName];
+                    }
+                    if (progress.scores[quizType] && progress.scores[quizType][quizName]) {
+                        delete progress.scores[quizType][quizName];
+                    }
+                    saveProgress(progress);
+                    // Re-display the questions to reflect the change
+                    displayQuestions(quizType);
+                }
+            };
+            quizContainer.appendChild(clearButton);
+        }
+
         currentQuestions.forEach((q, index) => {
             const progress = readProgress();
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
 
-            if (progress.attemptedQuestionIds.includes(q.id)) {
+            const isAttempted = progress.attemptedQuestions[quizName]?.includes(q.id);
+
+            if (isAttempted) {
                 questionEl.classList.add('already-attempted');
             }
 
             questionEl.innerHTML = `
                 <div class="question-topic">${q.topic}</div>
                 <p>${index + 1}. ${q.text}</p>
-                <div class="options" data-question-index="${index}" data-subject-name="${q.name}" data-quiz-type="${quizType}">
+                <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-index="${index}" data-subject-name="${q.name}" data-quiz-type="${quizType}">
                     ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
+                </div>
+                <div class="solution-wrapper" style="display: none;">
+                    <div class="correct-answer-text">Correct Answer: ${q.answer}</div>
+                    <div class="explanation">${q.explanation}</div>
                 </div>
             `;
             quizContainer.appendChild(questionEl);
         });
         scoreContainer.style.display = 'block';
+
+        // Add a "View Solutions" button at the end of the quiz
+        const solutionsButton = document.createElement('button');
     }
 
     if (quizContainer) {
@@ -503,6 +546,9 @@ if (categoryContainer) {
                 const subjectName = optionsDiv.dataset.subjectName;
                 const quizType = optionsDiv.dataset.quizType;
 
+                // Prevent clicking on disabled questions
+                if (optionsDiv.classList.contains('disabled-quiz')) return;
+
                 if (optionsDiv.classList.contains('answered')) return;
 
                 optionsDiv.classList.add('answered');
@@ -510,6 +556,9 @@ if (categoryContainer) {
 
                 const selectedAnswer = e.target.textContent;
                 const isCorrect = selectedAnswer === question.answer;
+
+                // Store the user's answer for this session
+                sessionAnswers[question.id] = selectedAnswer;
 
                 if (isCorrect) {
                     score++;
@@ -522,6 +571,20 @@ if (categoryContainer) {
                         }
                     });
                 }
+
+                // Create and append the "View Solution" button for this question
+                const solutionButton = document.createElement('button');
+                solutionButton.textContent = 'View Solution';
+                solutionButton.className = 'solution-toggle-btn';
+                solutionButton.onclick = (e) => {
+                    const questionEl = e.target.closest('.question');
+                    const solutionWrapper = questionEl.querySelector('.solution-wrapper');
+                    solutionWrapper.style.display = solutionWrapper.style.display === 'block' ? 'none' : 'block';
+                    e.target.textContent = solutionWrapper.style.display === 'block' ? 'Hide Solution' : 'View Solution';
+                };
+                // Insert the button after the options div
+                optionsDiv.insertAdjacentElement('afterend', solutionButton);
+
                 // Save progress to localStorage
                 updateProgress(subjectName, quizType, isCorrect, question.id);
 
@@ -531,9 +594,12 @@ if (categoryContainer) {
     }
 
     function updateScore() {
+        const incorrect = attempted - score;
         const percentage = attempted > 0 ? ((score / attempted) * 100).toFixed(1) : 0;
         document.getElementById('attempted-count').textContent = attempted;
-        document.getElementById('correct-percentage').textContent = percentage;
+        document.getElementById('correct-count').textContent = score;
+        document.getElementById('incorrect-count').textContent = incorrect;
+        document.getElementById('accuracy-percentage').textContent = `${percentage}%`;
     }
 
     function resetQuizView() {
