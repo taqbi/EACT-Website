@@ -251,12 +251,12 @@ document.addEventListener('DOMContentLoaded', function () {
         if (isCorrect) {
             progress.scores[quizType][quizName].correct++;
         }
-        // New global tracking: Add the question ID to the main list if it's not already there.
-        if (!progress.attemptedQuestions[questionId]) {
-            progress.attemptedQuestions[questionId] = true; // Mark as attempted
+            if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
+        if (!progress.attemptedQuestions[quizName].includes(questionId)) {
+            progress.attemptedQuestions[quizName].push(questionId);
         }
-        saveProgress(progress);
-    }
+            saveProgress(progress);
+        }
 
 
     // Fetch and parse XML data
@@ -351,7 +351,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 labels[1].classList.remove('active');
                 labels[0].classList.add('active');
                 subjectFilter.parentElement.style.display = 'flex'; // Show subject dropdown using its default flex display
-                subjectFilter.value = ''; // Reset to the placeholder
+                subjectFilter.value = ''; // Reset to show placeholder
                 quizContainer.innerHTML = '';
                 scoreContainer.style.display = 'none';
             }
@@ -459,15 +459,14 @@ document.addEventListener('DOMContentLoaded', function () {
             overallAttempted += attempted;
             overallCorrect += correct;
 
-            const entryClass = getProgressClass(name);
             examContainer.innerHTML += `
-                <p class="progress-entry--${entryClass}">
+                <p>
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -478,16 +477,17 @@ document.addEventListener('DOMContentLoaded', function () {
             const { correct, attempted } = progress.scores.subject[name];
             const incorrect = attempted - correct;
             const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
+            overallAttempted += attempted;
+            overallCorrect += correct;
 
-            const entryClass = getProgressClass(name);
             subjectContainer.innerHTML += `
-                <p class="progress-entry--${entryClass}">
+                <p>
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -502,10 +502,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="overall-performance progress-category">
                     <h3>Overall Performance</h3>
                     <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
+                        <div class="stat-box"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
+                        <div class="stat-box"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
+                        <div class="stat-box"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterend', overallHtml);
@@ -513,22 +513,6 @@ document.addEventListener('DOMContentLoaded', function () {
         progressContainer.style.display = 'block';
     }
     
-    // Helper function to get a CSS class from a subject/exam name
-    function getProgressClass(name) {
-        const lowerName = name.toLowerCase();
-        if (lowerName.includes('math')) return 'maths';
-        if (lowerName.includes('science')) return 'science';
-        if (lowerName.includes('english')) return 'english';
-        if (lowerName.includes('history')) return 'history';
-        if (lowerName.includes('geography')) return 'geography';
-        if (lowerName.includes('computer')) return 'computer';
-        if (lowerName.includes('gk') || lowerName.includes('general knowledge')) return 'gk';
-        if (lowerName.includes('accountancy')) return 'accountancy';
-        if (lowerName.includes('polity')) return 'polity';
-        if (lowerName.includes('economic')) return 'economics';
-        if (lowerName.includes('reasoning')) return 'reasoning';
-        return 'general'; // Default class
-    }
         function populateFilter(category, type) {
 
         // New logic: Filter based on the 'type' (exam or subject) and get unique names
@@ -549,6 +533,14 @@ document.addEventListener('DOMContentLoaded', function () {
         attempted = 0;
         sessionAnswers = {}; // Clear answers for the new session
         quizContainer.innerHTML = ''; // Clear previous content
+
+        // Add the new question count display at the top
+        if (currentQuestions.length > 0) {
+            const countDisplay = document.createElement('div');
+            countDisplay.className = 'question-count-display';
+            countDisplay.textContent = `${currentQuestions.length} Questions Fetched`;
+            quizContainer.appendChild(countDisplay);
+        }
 
         const quizName = subjectFilter.value !== 'all' ? subjectFilter.value : (examFilter.value !== 'all' ? examFilter.value : 'General');
 
@@ -579,7 +571,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
 
-            const isAttempted = progress.attemptedQuestions[q.id];
+            const isAttempted = progress.attemptedQuestions[quizName]?.includes(q.id);
 
             if (isAttempted) {
                 questionEl.classList.add('already-attempted');
@@ -653,11 +645,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Insert the button after the options div
                 optionsDiv.insertAdjacentElement('afterend', solutionButton);
     
-                // New Progress Tracking Logic: Always update both exam and subject stats.
-                updateProgress(question.exam, 'exam', isCorrect, question.id);
-                updateProgress(question.subject, 'subject', isCorrect, question.id);
+                    // Determine the correct name for progress tracking (either exam name or subject name)
+                const progressName = quizType === 'exam' ? question.exam : question.subject;
 
-                updateScore();
+                // Save progress to localStorage
+                updateProgress(progressName, quizType, isCorrect, question.id);
+
+                    updateScore();
             }
         });
     }
@@ -686,6 +680,5 @@ document.addEventListener('DOMContentLoaded', function () {
         attempted = 0;
         updateScore();
     }
-    } // This closes the 'if (categoryContainer)' block
-    } 
-);
+    } // This closes the 'if (categoryContainer)' block.
+}); // This closes the 'DOMContentLoaded' event listener.

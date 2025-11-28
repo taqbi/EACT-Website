@@ -1200,21 +1200,1350 @@
         <explanation>Gain = 30 - 25 = 5. Gain % = (5/25) * 100 = 20%.</explanation>
     </question>
 
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Which of the following two high quality crops are extensively cultivated in the Jammu region of Jammu and Kashmir?</text>
+    <topic>Agriculture in J&amp;K</topic>
+    <option>Mushrooms and Soybeans</option>
+    <option>Saffron and Zeera</option>
+    <option>Mustard and Peas</option>
+    <option>Basmati and Rajmash</option>
+    <answer>Basmati and Rajmash</answer>
+    <explanation>Basmati Rice (specifically from R.S. Pura) and Rajmash (specifically from Bhaderwah and Rajouri) are high-quality crops extensively cultivated and famous in the Jammu region.</explanation>
+</question>
 
-</quizzes>nswer>2:3</answer>
-        <explanation>A/B = 3/4, B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3.</explanation>
-    </question>
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Which of the following options is the longest all-weather road tunnel that has enabled increase in trade and tourism in the union territory of Jammu and Kashmir?</text>
+    <topic>Infrastructure and Transport</topic>
+    <option>Banihal Qazigund Road Tunnel</option>
+    <option>Sangaldan Tunnel</option>
+    <option>Jawahar Tunnel</option>
+    <option>Dr. Syama Prasad Mookerjee Tunnel</option>
+    <answer>Dr. Syama Prasad Mookerjee Tunnel</answer>
+    <explanation>The Dr. Syama Prasad Mookerjee Tunnel (formerly Chenani-Nashri Tunnel) is a 9.28 km long tunnel that provides all-weather connectivity, significantly reducing travel time between Jammu and Srinagar.</explanation>
+</question>
 
-    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Maths">
-        <text>A man buys a toy for Rs. 25 and sells it for Rs. 30. Find his gain percent.</text>
-        <topic>Profit and Loss</topic>
-        <option>20%</option>
-        <option>25%</option>
-        <option>15%</option>
-        <option>5%</option>
-        <answer>20%</answer>
-        <explanation>Gain = 30 - 25 = 5. Gain % = (5/25) * 100 = 20%.</explanation>
-    </question>
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>As per the NITI Aayog's 2019-2020 SDG India report, Jammu and Kashmir leads in which two categories of Sustainable Development Goals?</text>
+    <topic>Reports and Indices</topic>
+    <option>No poverty and Gender equality</option>
+    <option>Sustainable cities and Communities</option>
+    <option>Sustainable consumption and Production</option>
+    <option>Zero Hunger and Reduced Inequality</option>
+    <answer>No poverty and Gender equality</answer>
+    <explanation>In the NITI Aayog SDG India Index 2019-20, J&amp;K performed exceptionally well in SDG 1 (No Poverty) and SDG 5 (Gender Equality).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>According to Jammu and Kashmir, Panchayati Raj Act, 1989, which of the following options is INCORRECT with reference to Powers and Functions of the Block Development Council?</text>
+    <topic>J&amp;K Panchayati Raj Act 1989</topic>
+    <option>Conduct the elections of panchayats and wards as prescribed in the act</option>
+    <option>Supervise plans relating to agriculture, rural development, animal husbandry, education and public health</option>
+    <option>Administrative and technical guidance to Halqa Panchayats and review of their work</option>
+    <option>Construction, maintenance and supervision of Inter-Halqa Panchayat communication system</option>
+    <answer>Conduct the elections of panchayats and wards as prescribed in the act</answer>
+    <explanation>Conducting elections is the function of the State Election Commission, not the Block Development Council. The BDC focuses on supervision, guidance, and planning at the block level.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>According to the Jammu and Kashmir Panchayati Raj Act, 1989, 'Halqa Majlis' means:</text>
+    <topic>J&amp;K Panchayati Raj Act 1989</topic>
+    <option>All the voters of a Halqa Panchayat</option>
+    <option>The area comprising a village</option>
+    <option>All the villages of a Halqa Panchayat</option>
+    <option>The area comprising a Halqa</option>
+    <answer>All the voters of a Halqa Panchayat</answer>
+    <explanation>Under the J&amp;K Panchayati Raj Act, 'Halqa Majlis' refers to all the voters included in the electoral roll of the Halqa Panchayat.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>By which amendment act of the Indian Constitution, was the 'Right to Education' made a fundamental right?</text>
+    <topic>Indian Constitution</topic>
+    <option>86th Constitutional Amendment Act, 2002</option>
+    <option>80th Constitutional Amendment Act, 2000</option>
+    <option>90th Constitutional Amendment Act, 2003</option>
+    <option>85th Constitutional Amendment Act, 2002</option>
+    <answer>86th Constitutional Amendment Act, 2002</answer>
+    <explanation>The 86th Amendment Act, 2002 inserted Article 21A in the Constitution of India to provide free and compulsory education of all children in the age group of six to fourteen years as a Fundamental Right.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Dhanidhar fort, a historical monument is located in which of the following districts of Jammu and Kashmir?</text>
+    <topic>History of J&amp;K</topic>
+    <option>Poonch</option>
+    <option>Rajouri</option>
+    <option>Anantnag</option>
+    <option>Baramulla</option>
+    <answer>Rajouri</answer>
+    <explanation>Dhanidhar Fort is located in the Rajouri district. It was built during the reign of Mian Hathu.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>A traditional Gondola type lightweight rowing boat ride which is famous on the pristine Dal Lake in Kashmir is referred to as:</text>
+    <topic>Culture of J&amp;K</topic>
+    <option>Gandola ride</option>
+    <option>Tonga ride</option>
+    <option>Shikara ride</option>
+    <option>Coracle ride</option>
+    <answer>Shikara ride</answer>
+    <explanation>The Shikara is a type of wooden boat found on Dal Lake and other water bodies of Srinagar, used for transport and tourism.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>As per the NITI Aayog's SDG Index which of the following range of scores is used to classify the States/UTs under the category of 'Performer'?</text>
+    <topic>Reports and Indices</topic>
+    <option>20–49</option>
+    <option>50–64</option>
+    <option>65–80</option>
+    <option>81–100</option>
+    <answer>50–64</answer>
+    <explanation>NITI Aayog classifications: Aspirant (0-49), Performer (50-64), Front Runner (65-99), Achiever (100).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Under the National Saffron Mission, a India International Kashmir Saffron Trade Centre (IIKSTC) has been set up to ensure saffron produced in the state is sold, graded and exported to various countries in a transparent and hassle free manner. This centre is located at:</text>
+    <topic>Agriculture in J&amp;K</topic>
+    <option>Mandji in Sopore</option>
+    <option>Dusoo in Pampore</option>
+    <option>Kathsu in Pahalgam</option>
+    <option>Bali in Udhampur</option>
+    <answer>Dusoo in Pampore</answer>
+    <explanation>The IIKSTC is located at Dusoo, Pampore (often called the Saffron Town of Kashmir).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Who among the following personalities served as the last Prime Minister and the first Chief Minister of Jammu and Kashmir?</text>
+    <topic>Political History of J&amp;K</topic>
+    <option>Bakshi Ghulam Mohammad</option>
+    <option>Syed Mir Qasim</option>
+    <option>Ghulam Mohammed Sadiq</option>
+    <option>Sheikh Mohammad Abdullah</option>
+    <answer>Ghulam Mohammed Sadiq</answer>
+    <explanation>Ghulam Mohammed Sadiq (G.M. Sadiq) was the last Prime Minister of J&amp;K (1964-1965) and became the first Chief Minister in 1965 after the 6th Amendment to the J&amp;K Constitution changed the nomenclature.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>'To provide enhanced insurance cover to the handloom weavers in the case of natural as well as accidental death and in cases of total or partial disability''. This is the objective of which of the following centrally sponsored schemes launched in Jammu and Kashmir?</text>
+    <topic>Government Schemes</topic>
+    <option>Niramaya Health Insurance Scheme</option>
+    <option>Indira Gandhi National Disability Pension Scheme</option>
+    <option>Mahatma Gandhi Bunkar Yojna</option>
+    <option>Antyodaya Anna Yojana</option>
+    <answer>Mahatma Gandhi Bunkar Yojna</answer>
+    <explanation>The Mahatma Gandhi Bunkar Bima Yojana provides insurance cover to handloom weavers in case of natural or accidental death and disability.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>Read the following statements with reference to 73rd Amendment of Constitution of India and choose the CORRECT option.
+(i) Every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for a term of six years from the date appointed for its first meeting.
+(ii) An election to constitute a Panchayat shall be completed before the expiration of a period of six months from the date of its dissolution.</text>
+    <topic>Panchayati Raj System</topic>
+    <option>(i) is TRUE and (ii) is TRUE</option>
+    <option>(i) is TRUE and (ii) is FALSE</option>
+    <option>(i) is FALSE and (ii) is TRUE</option>
+    <option>(i) is FALSE and (ii) is FALSE</option>
+    <answer>(i) is FALSE and (ii) is TRUE</answer>
+    <explanation>Statement (i) is false because the term is 5 years, not 6. Statement (ii) is true; elections must be held within 6 months of dissolution (Article 243E).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>In 2015, the Government of India approved which National Highway Project in the region of Ramban and Banihal that will provide all-weather-connectivity from Jammu to the Kashmir valley?</text>
+    <topic>Infrastructure and Transport</topic>
+    <option>NH-42</option>
+    <option>NH-44</option>
+    <option>NH-46</option>
+    <option>NH-45</option>
+    <answer>NH-44</answer>
+    <explanation>The Jammu-Srinagar National Highway is designated as NH-44 (formerly NH-1A).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>Who among the following is first female President of European Commission?</text>
+    <topic>International Personalities</topic>
+    <option>Harinder Sidhu</option>
+    <option>Anne Slaughter Andrew</option>
+    <option>Kolinda Grabar-Kitarović</option>
+    <option>Ursula Gertrud von der Leyen</option>
+    <answer>Ursula Gertrud von der Leyen</answer>
+    <explanation>Ursula von der Leyen was elected as the first female President of the European Commission in 2019.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>With effect from 1st April 2020, Oriental Bank of Commerce and United Bank of India have been merged into which of the following banks?</text>
+    <topic>Banking and Economy</topic>
+    <option>Canara Bank</option>
+    <option>Punjab National Bank</option>
+    <option>Union Bank of India</option>
+    <option>State Bank of India</option>
+    <answer>Punjab National Bank</answer>
+    <explanation>Oriental Bank of Commerce (OBC) and United Bank of India (UBI) were merged into Punjab National Bank (PNB) effective April 1, 2020.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>The provisions contained in Part IV of the Indian Constitution shall not be enforceable by any court but it shall be the duty of the State to apply these in making laws. Which of the following options is being referred to?</text>
+    <topic>Indian Constitution</topic>
+    <option>Directive Principles of State Policy</option>
+    <option>Relations between the Union and the States</option>
+    <option>Fundamental Duties</option>
+    <option>Fundamental Rights</option>
+    <answer>Directive Principles of State Policy</answer>
+    <explanation>Part IV of the Constitution (Articles 36-51) deals with the Directive Principles of State Policy (DPSP), which are non-justiciable.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>This is one of the Mughal Gardens in Srinagar, built by Emperor Jahangir and is well known for its chini khanas (arched niches) behind garden waterfalls. Identify the garden.</text>
+    <topic>Tourist Destinations in J&amp;K</topic>
+    <option>Chashma Shahi Garden</option>
+    <option>Pari Mahal</option>
+    <option>Gulab Bhawan</option>
+    <option>Shalimar Bagh</option>
+    <answer>Shalimar Bagh</answer>
+    <explanation>Shalimar Bagh was built by Jahangir in 1619. The 'Chini Khanas' (arched niches) behind the waterfalls are a distinct feature where oil lamps were lit.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>According to the Jammu and Kashmir Panchayati Raj Act, 1989 (as amended up to October, 2018 and rules), who shall be the Secretary of the Halqa Panchayat?</text>
+    <topic>J&amp;K Panchayati Raj Act 1989</topic>
+    <option>Any person elected by Halqa Panchayat</option>
+    <option>Block Development Officer</option>
+    <option>Village level worker or Multipurpose worker</option>
+    <option>Any elderly worker or Officer of the Panchayat</option>
+    <answer>Village level worker or Multipurpose worker</answer>
+    <explanation>The Village Level Worker (VLW) or Multipurpose Worker (MPW) acts as the Secretary to the Halqa Panchayat.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>Hot, dry and oppressing winds blowing in the northern plains from Punjab to Bihar, sub-tropical regions of Jammu are called:</text>
+    <topic>Geography/Climate</topic>
+    <option>Nor Westers</option>
+    <option>Kalbaisakhi</option>
+    <option>Mango shower</option>
+    <option>Loo</option>
+    <answer>Loo</answer>
+    <explanation>Loo is a strong, dusty, gusty, hot and dry summer wind from the west which blows over the Indo-Gangetic Plain region of North India.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Who among the following is NOT a political leader from Jammu and Kashmir?</text>
+    <topic>Personalities</topic>
+    <option>Farooq Abdullah</option>
+    <option>Jitendra Singh</option>
+    <option>Mehbooba Mufti</option>
+    <option>Ghulam Nabi Firaq</option>
+    <answer>Ghulam Nabi Firaq</answer>
+    <explanation>Ghulam Nabi Firaq was a renowned Kashmiri poet, writer and educationist, not a mainstream political leader like the others listed.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Identify the cricketer from the given list, who represented India in One-Day International.</text>
+    <topic>Sports in J&amp;K</topic>
+    <option>Shubham Khajuria</option>
+    <option>Parvez Rasol</option>
+    <option>Mithun Manhas</option>
+    <option>Abid Nabi</option>
+    <answer>Parvez Rasol</answer>
+    <explanation>Parvez Rasool is the first cricketer from J&amp;K to represent the Indian national team in ODIs and T20Is.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Identify the INCORRECT option with reference to the objectives of the Jammu and Kashmir Rural Employment Generation Programme (JKREGP).</text>
+    <topic>Government Schemes in J&amp;K</topic>
+    <option>To harness and develop the entrepreneurial skills among the rural unemployed youth of the state</option>
+    <option>To provide livelihood security to households in rural areas by providing not less than 100 days of guaranteed wage employment in a financial year</option>
+    <option>To mobilize the bank finance for establishment of Village Industries sector of the state on modern lines</option>
+    <option>To generate employment opportunities in rural areas of the state through setting up of new self-employment ventures or projects or village industries enterprises</option>
+    <answer>To provide livelihood security to households in rural areas by providing not less than 100 days of guaranteed wage employment in a financial year</answer>
+    <explanation>Providing 100 days of guaranteed wage employment is the objective of MGNREGA, not JKREGP. JKREGP focuses on credit-linked subsidy for setting up enterprises.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>In October 2019, 'Sangam Youth Festival' was organized by the Indian Army in collaboration with Jammu University at which of the following places?</text>
+    <topic>Current Events in J&amp;K</topic>
+    <option>Udhampur</option>
+    <option>Jammu</option>
+    <option>Rajouri</option>
+    <option>Bhadarwah</option>
+    <answer>Bhadarwah</answer>
+    <explanation>The Sangam Youth Festival was held at the Bhaderwah Campus of Jammu University.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>Who among the following political leaders served as Sadr-e-Riyasat and also as the first Governor of Jammu and Kashmir ?</text>
+    <topic>Political History of J&amp;K</topic>
+    <option>Braj Kumar Nehru</option>
+    <option>Lakshmi Kant Jha</option>
+    <option>Karan Singh</option>
+    <option>Girish Chandra Saxena</option>
+    <answer>Karan Singh</answer>
+    <explanation>Dr. Karan Singh was the last Sadr-e-Riyasat (1952-1965) and the first Governor of J&amp;K (1965-1967).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>From the options provided below, identify the Prime Minister of the state of Jammu and Kashmir during the reign of Maharaja Hari Singh.</text>
+    <topic>History of J&amp;K</topic>
+    <option>Prithvi Nath Dhar</option>
+    <option>Mufti Mohammad Syed</option>
+    <option>Mehr Chand Mahajan</option>
+    <option>Mian Bashir Ahmed</option>
+    <answer>Mehr Chand Mahajan</answer>
+    <explanation>Justice Mehr Chand Mahajan served as the Prime Minister of J&amp;K during the reign of Maharaja Hari Singh and played a crucial role during the accession of J&amp;K to India.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>In August 2017, the Supreme Court declared that Right to Privacy is a fundamental right and it is intrinsic to Right to life and Personal Liberty, guaranteed under which Article of the Indian Constitution?</text>
+    <topic>Indian Constitution</topic>
+    <option>Article 17</option>
+    <option>Article 21</option>
+    <option>Article 19</option>
+    <option>Article 40</option>
+    <answer>Article 21</answer>
+    <explanation>In the K.S. Puttaswamy vs. Union of India case (2017), the Supreme Court ruled that the Right to Privacy is a fundamental right under Article 21 (Right to Life and Personal Liberty).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Indian GK">
+    <text>According to 73rd amendment of Constitution of India, what is minimum proportion of seats reserved for women of Scheduled Castes and Scheduled Tribes at each tier of the Panchayati Raj System?</text>
+    <topic>Panchayati Raj System</topic>
+    <option>One-third of the total number of seats reserved</option>
+    <option>Two-fifth of the total number of seats reserved</option>
+    <option>One-fourth of the total number of seats reserved</option>
+    <option>One-fifth of the total number of seats reserved</option>
+    <answer>One-third of the total number of seats reserved</answer>
+    <explanation>Article 243D mandates that not less than one-third of the total number of seats reserved for SCs and STs shall be reserved for women belonging to the SCs or STs.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="J&amp;K GK">
+    <text>This magnificent palace served as the royal residence of the rulers of the Dogra dynasty until 1925 and is one of the famous tourist attractions in Jammu. Identify the fort/palace from the following options.</text>
+    <topic>Tourist Destinations in J&amp;K</topic>
+    <option>Hari Niwas Palace</option>
+    <option>Bahu Fort</option>
+    <option>Mubarak Mandi</option>
+    <option>Akhnoor Fort</option>
+    <answer>Mubarak Mandi</answer>
+    <explanation>The Mubarak Mandi Palace was the royal residence of the Dogra rulers until 1925, after which Maharaja Hari Singh moved to Hari Niwas.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>Which of the following is true about the sampling error?</text>
+    <topic>Sampling</topic>
+    <option>It decreases as sample size increases</option>
+    <option>It does not depend on population size under study</option>
+    <option>It cannot be reduced by an appropriate sampling plan</option>
+    <option>It cannot be measured and controlled in probability sample survey</option>
+    <answer>It decreases as sample size increases</answer>
+    <explanation>Sampling error is inversely proportional to the square root of the sample size ($E \propto \frac{1}{\sqrt{n}}$). Thus, increasing the sample size reduces sampling error.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Maths">
+    <text>Let us assume set A = {1,2,3,4}, set B = {3,4,5,6,7}, find the symmetric difference of set A and set B?</text>
+    <topic>Set Theory</topic>
+    <option>{1,2,3,4,5,6,7}</option>
+    <option>{5,6,7}</option>
+    <option>{1,2,3,4}</option>
+    <option>{1,2,5,6,7}</option>
+    <answer>{1,2,5,6,7}</answer>
+    <explanation>Symmetric Difference $A \Delta B = (A-B) \cup (B-A)$.
+$A-B = \{1,2\}$ (elements in A not in B).
+$B-A = \{5,6,7\}$ (elements in B not in A).
+Union = $\{1,2,5,6,7\}$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>A car manufacturing company is having a demand of 100 cars in the month of September, 200 cars in the month of October, 300 cars in the month of November and 400 in the month of December. Which one of the given options represent a 3month moving average for the month of January?</text>
+    <topic>Time Series Analysis</topic>
+    <option>300</option>
+    <option>350</option>
+    <option>400</option>
+    <option>450</option>
+    <answer>300</answer>
+    <explanation>The 3-month moving average for January is calculated using the demand of the preceding 3 months (Oct, Nov, Dec).
+Average = $\frac{200 + 300 + 400}{3} = \frac{900}{3} = 300$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Maths">
+    <text>Let us assume that a student is chosen from a random sample of 80 students, out of which 30 have opted for Maths, 20 opted for Physics, and 10 have opted for both Maths and Physics. Find the probability that the student has opted for either Maths or Physics.</text>
+    <topic>Probability</topic>
+    <option>1/2</option>
+    <option>1 1/2</option>
+    <option>2 1/2</option>
+    <option>3 1/2</option>
+    <answer>1/2</answer>
+    <explanation>$n(M) = 30, n(P) = 20, n(M \cap P) = 10$. Total $n(S) = 80$.
+$n(M \cup P) = n(M) + n(P) - n(M \cap P) = 30 + 20 - 10 = 40$.
+Probability = $\frac{40}{80} = \frac{1}{2}$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>Which of the following is a method used for collecting secondary data?</text>
+    <topic>Data Collection</topic>
+    <option>Experiments</option>
+    <option>Personal Interview</option>
+    <option>Questionnaire</option>
+    <option>Government Publications</option>
+    <answer>Government Publications</answer>
+    <explanation>Government publications provide data that has already been collected and processed by others, making it secondary data. Experiments, interviews, and questionnaires are methods for collecting primary data.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>In a town the number of men is 151,781,326 and the number of women is 156,964,212. Which one of the options given below represent the demographic sex ratio correctly?</text>
+    <topic>Demography</topic>
+    <option>97.6</option>
+    <option>96.7</option>
+    <option>98.2</option>
+    <option>95.3</option>
+    <answer>96.7</answer>
+    <explanation>Sex Ratio is typically calculated as (Males/Females) * 100 or (Females/Males)*1000 depending on the convention. In international demographics, it's often Males per 100 Females: $\frac{151,781,326}{156,964,212} \times 100 \approx 96.69$, which rounds to 96.7.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Maths">
+    <text>Which one of the given options is an answer for the length of the line segment, given that the coordinates of A is (2,2) and B is (9,11).</text>
+    <topic>Coordinate Geometry</topic>
+    <option>9.4</option>
+    <option>11.4</option>
+    <option>13.4</option>
+    <option>15.4</option>
+    <answer>11.4</answer>
+    <explanation>Distance formula: $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.
+$D = \sqrt{(9-2)^2 + (11-2)^2} = \sqrt{7^2 + 9^2} = \sqrt{49 + 81} = \sqrt{130} \approx 11.4$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>What happens to the shape of a frequency polygon when the number of observations and classes increase?</text>
+    <topic>Graphical Representation</topic>
+    <option>Tends to become jagged</option>
+    <option>Remains the same</option>
+    <option>Tends to become increasingly smooth</option>
+    <option>Varies if data becomes more reliable</option>
+    <answer>Tends to become increasingly smooth</answer>
+    <explanation>As the sample size increases and the class intervals become smaller (more classes), the frequency polygon approaches a smooth curve known as the Frequency Curve.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>If N = 200, which of the options match the ultimate class frequencies, given that there are two independent attributes A = 100, B = 140?</text>
+    <topic>Attributes and Association</topic>
+    <option>60</option>
+    <option>70</option>
+    <option>80</option>
+    <option>90</option>
+    <answer>70</answer>
+    <explanation>For independent attributes, $(AB) = \frac{(A) \times (B)}{N}$.
+$(AB) = \frac{100 \times 140}{200} = 70$.
+This represents the expected frequency.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Statistics">
+    <text>One of the options given below represents a state with the highest negative decadal population growth based on the census data of India 2011. Which of the options is correct?</text>
+    <topic>Census 2011</topic>
+    <option>Kerala</option>
+    <option>Goa</option>
+    <option>Nagaland</option>
+    <option>Tamil Nadu</option>
+    <answer>Nagaland</answer>
+    <explanation>According to the 2011 Census, Nagaland was the only state to record negative population growth (-0.58%).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>From the following options, identify the reason, best suited why underdeveloped countries make a fiscal policy?</text>
+    <topic>Fiscal Policy</topic>
+    <option>Reduce labor taxes, especially at low income levels.</option>
+    <option>Accelerate the rate of capital formation and investment.</option>
+    <option>Provide well-designed tax incentives that reduce the cost of capital.</option>
+    <option>Increase the potential output as a major advanced and emerging market economies.</option>
+    <answer>Accelerate the rate of capital formation and investment.</answer>
+    <explanation>In underdeveloped economies, the primary objective of fiscal policy is to break the vicious circle of poverty by accelerating capital formation and promoting investment for economic growth.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>When two goods are perfectly complementary, the indifference curve</text>
+    <topic>Consumer Theory</topic>
+    <option>intersects each other</option>
+    <option>is L shaped</option>
+    <option>is a straight line</option>
+    <option>is concave at the origin</option>
+    <answer>is L shaped</answer>
+    <explanation>Perfect complements are consumed in fixed proportions (e.g., left and right shoes). Their indifference curves are L-shaped (right-angled) because having more of one good without the other does not increase utility.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>Which of the following options points to a demand for one product as a consequence of demand for a parent product?</text>
+    <topic>Theory of Demand</topic>
+    <option>Company Demand</option>
+    <option>Composite Demand</option>
+    <option>Short-term Demand</option>
+    <option>Derived Demand</option>
+    <answer>Derived Demand</answer>
+    <explanation>Derived demand refers to demand for a good/service which is a consequence of the demand for something else. For example, demand for bricks is derived from the demand for houses.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>Which one of the following options represent already spent expenses by a firm but the same are not recorded in the account books?</text>
+    <topic>Cost Theory</topic>
+    <option>Sunk Costs</option>
+    <option>Uncontrollable Costs</option>
+    <option>Implicit Cost</option>
+    <option>Explicit Cost</option>
+    <answer>Implicit Cost</answer>
+    <explanation>Implicit costs are opportunity costs of using self-owned resources (like an owner's time or building) that do not involve a direct cash outflow and are usually not recorded in financial account books, unlike explicit costs. *Note: Sunk costs are recorded costs that cannot be recovered.*</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>In the law of variable proportion, the second stage of production ends when</text>
+    <topic>Production Theory</topic>
+    <option>The Total Production rises at an increasing rate</option>
+    <option>The Total Production rises at a diminishing rate</option>
+    <option>The Total Production starts decreasing</option>
+    <option>The Total Production is maximum possible</option>
+    <answer>The Total Production is maximum possible</answer>
+    <explanation>Stage II (Diminishing Returns) ends when Total Product (TP) is maximum and Marginal Product (MP) becomes zero. After this, TP starts declining (Stage III).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>Which of the following is example of variable cost? i. Rent
+ii. Utility cost
+iii. Employee salaries</text>
+    <topic>Cost Theory</topic>
+    <option>Only i</option>
+    <option>Only ii</option>
+    <option>Both i and ii</option>
+    <option>Both ii and iii</option>
+    <answer>Only ii</answer>
+    <explanation>Rent is a fixed cost. Employee salaries (if permanent staff) are typically treated as fixed costs in the short run. Utility costs (electricity, water relative to production) vary with output, making them variable costs.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>The Gram Panchayats have been mandated for the preparation of Gram Panchayat Development Plans (GPDP). The People's Plan Campaign for preparing GPDP for 2020-21 was initiated under</text>
+    <topic>Government Schemes</topic>
+    <option>Sabki Yojna Sabka Vikas</option>
+    <option>Pradhan Mantri Kaushal Vikas Yojana</option>
+    <option>Pradhan Mantri Adharsh Gram Yojana</option>
+    <option>Mission Indradhanush</option>
+    <answer>Sabki Yojna Sabka Vikas</answer>
+    <explanation>'Sabki Yojana Sabka Vikas' is the campaign launched by the government for the preparation of GPDP, involving the community in planning.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>Prime Minister Narendra Modi launched which among the following campingns with an objective to incentivize States to devolve 3Fs (functions, funds and functionaries) to panchayats?</text>
+    <topic>Government Schemes</topic>
+    <option>Rashtriya Gram Swaraj Yojana</option>
+    <option>Deendayal Antyodaya Yojana</option>
+    <option>Rashtriya Swasthya Bima Yojana</option>
+    <option>Pradhan Mantri Gram Sadak Yojana</option>
+    <answer>Rashtriya Gram Swaraj Yojana</answer>
+    <explanation>Rashtriya Gram Swaraj Abhiyan (RGSA) aims to strengthen the Panchayati Raj Institutions (PRIs) to develop governance capabilities and incentivize states to devolve powers (3Fs).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>When a commodity is sold at a lower price in "Foreign markets" and at a higher price in "Domestic markets" then the strategy is known as</text>
+    <topic>Market Structures</topic>
+    <option>Price Ceiling</option>
+    <option>Dumping</option>
+    <option>Multi Plant Monopoly</option>
+    <option>Peak Load Pricing</option>
+    <answer>Dumping</answer>
+    <explanation>Dumping is a form of price discrimination in international trade where a manufacturer lowers the price of an item entering a foreign market to a level that is less than the price paid by domestic customers.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Economics">
+    <text>The Cost Inflation Index is mainly used to compute:</text>
+    <topic>Taxation and Inflation</topic>
+    <option>Business income</option>
+    <option>Long term capital gain</option>
+    <option>Short term capital gain</option>
+    <option>Income from other sources</option>
+    <answer>Long term capital gain</answer>
+    <explanation>Cost Inflation Index (CII) is used to calculate the indexed cost of acquisition to compute Long Term Capital Gains (LTCG) for tax purposes, adjusting for inflation.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which of the following is the cheap, secure and easiest way of storing huge volume of digital data and can be accessed from anywhere by using internet?</text>
+    <topic>Internet and Storage</topic>
+    <option>Store the data as physical record</option>
+    <option>Store the data in cloud</option>
+    <option>Store the data in external hard disks</option>
+    <option>Store the data in local system</option>
+    <answer>Store the data in cloud</answer>
+    <explanation>Cloud storage allows data to be stored on remote servers accessed via the internet, offering scalability, accessibility from anywhere, and cost-effectiveness.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one of the following statements is NOT true about Control Unit of a Computer?</text>
+    <topic>Computer Architecture</topic>
+    <option>It transfers data to Arithmetic and Logic Unit</option>
+    <option>It fetches results from memory to output devices</option>
+    <option>It is a component of a SMPS</option>
+    <option>It directs flow of data within CPU</option>
+    <answer>It is a component of a SMPS</answer>
+    <explanation>The Control Unit is a core component of the CPU (Central Processing Unit), not the SMPS (Switched-Mode Power Supply).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>A spurious computer program that replicates itself at a swift pace is called ______.</text>
+    <topic>Security</topic>
+    <option>trojan horse</option>
+    <option>bombs</option>
+    <option>worms</option>
+    <option>cracks</option>
+    <answer>worms</answer>
+    <explanation>A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What is FTP in data communications?</text>
+    <topic>Networking</topic>
+    <option>File Transport Provider</option>
+    <option>File Transfer Protocol</option>
+    <option>File Tracing Process</option>
+    <option>File Transfer Programming</option>
+    <answer>File Transfer Protocol</answer>
+    <explanation>FTP stands for File Transfer Protocol, a standard network protocol used for the transfer of computer files between a client and server on a computer network.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What is the full form of JPEG with respect to Image file formats?</text>
+    <topic>File Formats</topic>
+    <option>Joint Photo Experts Group</option>
+    <option>Joint Photographic Experts Group</option>
+    <option>Joint Photo Experts Graphics</option>
+    <option>Joint Photo Efficient Group</option>
+    <answer>Joint Photographic Experts Group</answer>
+    <explanation>JPEG stands for Joint Photographic Experts Group, the committee that created the standard.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which of the following is an Input device of the computer?</text>
+    <topic>Input/Output Devices</topic>
+    <option>Projector</option>
+    <option>Plotter</option>
+    <option>Printer</option>
+    <option>Barcode scanner</option>
+    <answer>Barcode scanner</answer>
+    <explanation>A Barcode scanner is an input device used to capture and read information contained in a barcode. Projectors, Plotters, and Printers are output devices.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Supercomputers are used in which of the following areas? i) Weather forecasting
+ii) Quantum mechanics
+iii) Oil and gas exploration</text>
+    <topic>Types of Computers</topic>
+    <option>Only i</option>
+    <option>i and ii</option>
+    <option>ii and iii</option>
+    <option>i, ii and iii</option>
+    <answer>i, ii and iii</answer>
+    <explanation>Supercomputers are used for calculation-intensive tasks such as weather forecasting, quantum mechanics, and oil and gas exploration.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one among the following MS Excel functions is used to remove extra spaces from a cell/string?</text>
+    <topic>MS Excel</topic>
+    <option>LEN</option>
+    <option>TRIM</option>
+    <option>REPLACE</option>
+    <option>SPACE</option>
+    <answer>TRIM</answer>
+    <explanation>The TRIM function removes all spaces from text except for single spaces between words.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>BIOS is the program which helps to initialize the hardware during computer booting process. What is the full form of BIOS?</text>
+    <topic>System Software</topic>
+    <option>Basic Input Output System</option>
+    <option>Biased Intel Operating System</option>
+    <option>Basic Input Operating System</option>
+    <option>Basic Input Operating Server</option>
+    <answer>Basic Input Output System</answer>
+    <explanation>BIOS stands for Basic Input/Output System. It acts as an interface between the operating system and the hardware.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What does ASCII stand for?</text>
+    <topic>Data Representation</topic>
+    <option>American Standard Code For Information Interchange</option>
+    <option>American Standard Code For International Information</option>
+    <option>American Standard Computer For Integrated Information</option>
+    <option>American Standard Computer For Inter nation Interface</option>
+    <answer>American Standard Code For Information Interchange</answer>
+    <explanation>ASCII is a character encoding standard for electronic communication.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one of the following is called as primary memory of a computer?</text>
+    <topic>Memory</topic>
+    <option>RAM</option>
+    <option>External Hard disk</option>
+    <option>Pen Drive</option>
+    <option>CD/DVD Drive</option>
+    <answer>RAM</answer>
+    <explanation>RAM (Random Access Memory) is the primary memory (main memory) of a computer. Hard disks and Pen Drives are secondary storage.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What does "WWW" stand for?</text>
+    <topic>Internet</topic>
+    <option>Wide World Web</option>
+    <option>World Wide Webmaster</option>
+    <option>World Wide Web</option>
+    <option>Wide Web World</option>
+    <answer>World Wide Web</answer>
+    <explanation>WWW stands for World Wide Web.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>SSD is a new generation of storage device used in computers. What does SSD stand for?</text>
+    <topic>Storage Devices</topic>
+    <option>Solid-State Drive</option>
+    <option>Storage-State Drive</option>
+    <option>Solid-Storage Drive</option>
+    <option>Simple-Storage Drive</option>
+    <answer>Solid-State Drive</answer>
+    <explanation>SSD stands for Solid-State Drive. It uses flash memory and has no moving parts, unlike HDDs.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one of the following is NOT an open source operating system?</text>
+    <topic>Operating Systems</topic>
+    <option>Windows</option>
+    <option>FreeBSD</option>
+    <option>Android</option>
+    <option>Linux</option>
+    <answer>Windows</answer>
+    <explanation>Microsoft Windows is a proprietary (closed-source) operating system. FreeBSD, Linux, and Android (AOSP) are open-source.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which among the following is NOT a feature of Primary memory?</text>
+    <topic>Memory</topic>
+    <option>It is accessed directly by the processor</option>
+    <option>It is the fastest memory available</option>
+    <option>Its contents are lost once power is switched off</option>
+    <option>It is non-volatile</option>
+    <answer>It is non-volatile</answer>
+    <explanation>Primary memory (RAM) is typically volatile, meaning its contents are lost when power is switched off. ROM is non-volatile but RAM is the main primary memory used for processing.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Match the following:
+GROUP A: 1. Operating System, 2. Search Engine, 3. Web Browser, 4. Antivirus
+GROUP B: a. Google, b. Opera, c. Avast, d. Linux</text>
+    <topic>Software Types</topic>
+    <option>1-c,2-b, 3-a,4-d</option>
+    <option>1-d,2-c,3-a,4-b</option>
+    <option>1-b,2-a,3-c,4-d</option>
+    <option>1-d,2-a,3-b,4-c</option>
+    <answer>1-d,2-a,3-b,4-c</answer>
+    <explanation>1. Operating System -> Linux (d)
+2. Search Engine -> Google (a)
+3. Web Browser -> Opera (b)
+4. Antivirus -> Avast (c)</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What does "HTTP" stand for?</text>
+    <topic>Networking</topic>
+    <option>Hypertext twisted pair</option>
+    <option>Hypertext transfer protocol</option>
+    <option>Hyperlink transfer placard</option>
+    <option>Hyperlink transfer protocol</option>
+    <answer>Hypertext transfer protocol</answer>
+    <explanation>HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the World Wide Web.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which among the following is NOT an antivirus software?</text>
+    <topic>Security</topic>
+    <option>Norton</option>
+    <option>McAfee</option>
+    <option>AVG</option>
+    <option>Trojan Horse</option>
+    <answer>Trojan Horse</answer>
+    <explanation>Norton, McAfee, and AVG are antivirus software. A Trojan Horse is a type of malware.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Laser printing is an electrostatic digital printing process. What is the unit of printing speed in laser printer?</text>
+    <topic>Output Devices</topic>
+    <option>Digits per second</option>
+    <option>Digits per line</option>
+    <option>Lines per page</option>
+    <option>Pages per minute</option>
+    <answer>Pages per minute</answer>
+    <explanation>The speed of laser printers is typically measured in Pages Per Minute (PPM).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one of the following is a shortcut key to start a slide show from the beginning in MS PowerPoint?</text>
+    <topic>MS PowerPoint</topic>
+    <option>F5</option>
+    <option>F3</option>
+    <option>F6</option>
+    <option>F8</option>
+    <answer>F5</answer>
+    <explanation>F5 starts the slideshow from the beginning. Shift+F5 starts it from the current slide.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which of the following is/are computer application(s)? i) Data processing
+ii) Business Transactions
+iii) Video conferencing</text>
+    <topic>Computer Applications</topic>
+    <option>Only i</option>
+    <option>Only ii</option>
+    <option>i and iii</option>
+    <option>i, ii and iii</option>
+    <answer>i, ii and iii</answer>
+    <explanation>Computers are used for a wide variety of applications including data processing, handling business transactions, and communication like video conferencing.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What is the function of CTRL + B in MS-Word?</text>
+    <topic>MS Word</topic>
+    <option>It converts the selected text to bold.</option>
+    <option>The selected text appears in italics.</option>
+    <option>It underlines the selected text.</option>
+    <option>It changes the selected text color to blue.</option>
+    <answer>It converts the selected text to bold.</answer>
+    <explanation>Ctrl+B is the standard shortcut to apply Bold formatting.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What is the full form of VPN with respect to networking?</text>
+    <topic>Networking</topic>
+    <option>Virtual Peer Network</option>
+    <option>Virtual Private Network</option>
+    <option>Virtual Public Network</option>
+    <option>Virtually Protected Network</option>
+    <answer>Virtual Private Network</answer>
+    <explanation>VPN stands for Virtual Private Network.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which of the following is referred as a process of training a computer system to make accurate predictions when fed data?</text>
+    <topic>Advanced Technologies</topic>
+    <option>Machine Learning</option>
+    <option>CPU Learning</option>
+    <option>Bootstrapping</option>
+    <option>Data Processing</option>
+    <answer>Machine Learning</answer>
+    <explanation>Machine Learning is a subset of AI that involves training algorithms to make predictions or decisions based on data.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>A program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes is called as __________ .</text>
+    <topic>Security</topic>
+    <option>Software</option>
+    <option>Anti-Virus</option>
+    <option>Hardware</option>
+    <option>Computer Virus</option>
+    <answer>Computer Virus</answer>
+    <explanation>A computer virus is malicious software loaded without the user's knowledge that performs unwanted actions.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which one of the following software is an email-client?</text>
+    <topic>Software</topic>
+    <option>Microsoft Internet Explorer</option>
+    <option>Windows 98</option>
+    <option>Microsoft Power Point</option>
+    <option>Microsoft Outlook</option>
+    <answer>Microsoft Outlook</answer>
+    <explanation>Microsoft Outlook is a popular email client and personal information manager. IE is a browser, Windows 98 is an OS, and PowerPoint is for presentations.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which among the following is the input device used specially for checking the answer sheets of an examination having multiple choice questions?</text>
+    <topic>Input/Output Devices</topic>
+    <option>Bar Code Readers</option>
+    <option>Optical Character Reader</option>
+    <option>Magnetic Ink Card Reader</option>
+    <option>Optical Mark Reader</option>
+    <answer>Optical Mark Reader</answer>
+    <explanation>OMR (Optical Mark Reader) is used to detect marks on a paper, commonly used for grading multiple-choice exams (OMR sheets).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Convert the below Decimal value to its equivalent in Binary: 12</text>
+    <topic>Number Systems</topic>
+    <option>1100</option>
+    <option>1101</option>
+    <option>1110</option>
+    <option>1111</option>
+    <answer>1100</answer>
+    <explanation>$12$ in binary:
+$12 / 2 = 6$ rem $0$
+$6 / 2 = 3$ rem $0$
+$3 / 2 = 1$ rem $1$
+$1 / 2 = 0$ rem $1$
+Read remainders bottom-up: $1100_2$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>Which of the following is/are the main function(s) of an Operating System?
+i) Manage the Processor and assign tasks which are to be performed.
+ii) Allocate memory and storage areas to the system and user programs and data.
+iii) Control, Co-ordinate various input and output devices.
+iv) Accessing world wide web without internet connectivity.</text>
+    <topic>Operating Systems</topic>
+    <option>i &amp; ii Only</option>
+    <option>i,ii &amp; iii Only</option>
+    <option>i,ii,iii &amp; iv</option>
+    <option>iii &amp; iv Only</option>
+    <answer>i,ii &amp; iii Only</answer>
+    <explanation>Functions i, ii, and iii are core OS tasks (Process management, Memory management, Device management). Option iv is incorrect as you need internet connectivity to access the WWW.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Computer Awareness">
+    <text>What does IMAP stand for with respect to emailing?</text>
+    <topic>Networking</topic>
+    <option>Intranet Message Access Protocol</option>
+    <option>Intranet Message Access Path</option>
+    <option>Intranet Mail Access Protocol</option>
+    <option>Internet Message Access Protocol</option>
+    <answer>Internet Message Access Protocol</answer>
+    <explanation>IMAP stands for Internet Message Access Protocol, used by email clients to retrieve email messages from a mail server.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>What is the first step of a financial audit?</text>
+    <topic>Auditing</topic>
+    <option>Planning the audit</option>
+    <option>Interviewing the company's managers to find out what they want the auditors to say in the final report</option>
+    <option>Determining the scope, or boundaries, of the audit</option>
+    <option>Conducting surprise cash counts on any point-of-sale registers</option>
+    <answer>Planning the audit</answer>
+    <explanation>The first step in an audit is planning, which involves understanding the business, assessing risks, and determining the scope.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>How do we adjust Direct Deposits by the customers to ascertain the balance as per Pass book, if the starting point of BRS is Balance as per Cash book?</text>
+    <topic>Bank Reconciliation Statement</topic>
+    <option>Added</option>
+    <option>Subtracted</option>
+    <option>Adjusted</option>
+    <option>Not adjusted</option>
+    <answer>Added</answer>
+    <explanation>If the customer deposits directly into the bank, the Pass Book balance increases. To reconcile from Cash Book (which hasn't recorded this) to Pass Book, we must ADD the amount to the Cash Book balance.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>At the end of financial year 2015-16, the ledger of a firm shows the following balances to prepare a balance sheet. 1. Capital - Rs. 4,00,000/-
+2. Net profit for the year 2015-16 - Rs. 3,00,000/-
+3. Accrued Income - Rs. 1,00,000/-
+4. Provision for taxes - Rs. 75,000/-
+5. Cash and Bank account - Rs. 1,25,000/-
+6. Investments - Rs. 2,00,000/-
+7. Liabilities - Rs. 80,000/-
+8. Fixed assets - Rs. 4,30,000/-
+What will be the total of the Balance Sheet?</text>
+    <topic>Balance Sheet</topic>
+    <option>Rs. 5,55,000</option>
+    <option>Rs. 7,80,000</option>
+    <option>Rs. 8,55,000</option>
+    <option>Rs. 9,55,000</option>
+    <answer>Rs. 8,55,000</answer>
+    <explanation>
+Assets = Fixed Assets (4,30,000) + Investments (2,00,000) + Cash (1,25,000) + Accrued Income (1,00,000) = 8,55,000.
+Liabilities + Capital = Capital (4,00,000) + Net Profit (3,00,000) + Liabilities (80,000) + Provision for taxes (75,000) = 8,55,000.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>What amount of additional Provision for Bad and Doubtful debts should be charged to current years P/L Account if the Closing balance of debtors is Rs. 1,00,000, Opening balance of Provision is Rs. 1,000 and the Provision is to be maintained at 5% of Debtor:</text>
+    <topic>Financial Statements</topic>
+    <option>Rs. 1,000</option>
+    <option>Rs. 5,000</option>
+    <option>Rs. 4,000</option>
+    <option>Rs. 6,000</option>
+    <answer>Rs. 4,000</answer>
+    <explanation>Required Provision = 5% of 1,00,000 = 5,000.
+Existing Provision = 1,000.
+Additional amount to be debited to P/L = 5,000 - 1,000 = 4,000.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Depreciation is a</text>
+    <topic>Depreciation</topic>
+    <option>Cash operating expenditure</option>
+    <option>Non cash operating expenditure</option>
+    <option>Cash non operating expenditure</option>
+    <option>Non cash non operating expenditure</option>
+    <answer>Non cash operating expenditure</answer>
+    <explanation>Depreciation reduces profit (operating expense) but does not involve an outflow of cash (non-cash).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>The Public Financial Management System (PFMS) was earlier known as</text>
+    <topic>Financial Systems</topic>
+    <option>Central Plan Schemes Monitoring System (CPSMS)</option>
+    <option>Controller General of Accounts (CGA)</option>
+    <option>Central Sector Scheme of Planning Commission</option>
+    <option>Core Banking System (CBS)</option>
+    <answer>Central Plan Schemes Monitoring System (CPSMS)</answer>
+    <explanation>PFMS was earlier known as CPSMS (Central Plan Schemes Monitoring System).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Drawings must be deducted from</text>
+    <topic>Final Accounts</topic>
+    <option>Liability</option>
+    <option>Gross Profit</option>
+    <option>Capital</option>
+    <option>Net Profit</option>
+    <answer>Capital</answer>
+    <explanation>Drawings represent money taken by the owner for personal use, reducing the owner's equity. Hence, it is deducted from Capital in the Balance Sheet.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Wages paid for installation of a new machinery should be</text>
+    <topic>Capital and Revenue Expenditure</topic>
+    <option>credited to the Machinery Account</option>
+    <option>debited to the Machinery Account</option>
+    <option>credited to the Wages Account</option>
+    <option>debited to the Wages Account</option>
+    <answer>debited to the Machinery Account</answer>
+    <explanation>Installation charges for new machinery are Capital Expenditure and are added to the cost of the asset. Thus, debited to Machinery Account.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>The credit balance of retained earnings statement represents</text>
+    <topic>Financial Statements</topic>
+    <option>Undistributed Profit</option>
+    <option>Undisclosed Profit</option>
+    <option>Distributed Profit</option>
+    <option>Unearned Profit</option>
+    <answer>Undistributed Profit</answer>
+    <explanation>Retained earnings represent the portion of net income that is not distributed as dividends but kept in the business. A credit balance indicates accumulated profit.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Receipt Voucher is</text>
+    <topic>Vouchers</topic>
+    <option>Record of purchase of raw material</option>
+    <option>Record of purchase of stationery</option>
+    <option>Record of sale of machinery</option>
+    <option>Record of receipt of cash and bank</option>
+    <answer>Record of receipt of cash and bank</answer>
+    <explanation>A receipt voucher is used to record all receipts of cash or bank transactions.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Drawings account is classified under</text>
+    <topic>Types of Accounts</topic>
+    <option>Real Account</option>
+    <option>Personal Account</option>
+    <option>Impersonal Account</option>
+    <option>Nominal Account</option>
+    <answer>Personal Account</answer>
+    <explanation>Drawings account represents the owner (a person), so it is a Personal Account.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>What does a Nominal account having debit balance represent?</text>
+    <topic>Types of Accounts</topic>
+    <option>Income/Gain</option>
+    <option>Cash</option>
+    <option>Asset</option>
+    <option>Expenses/ Losses</option>
+    <answer>Expenses/ Losses</answer>
+    <explanation>Nominal accounts relate to expenses and incomes. Rule: Debit all expenses/losses, Credit all incomes/gains.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>A bank pass book is a copy of</text>
+    <topic>Banking</topic>
+    <option>The cash column of a customer’s cash book</option>
+    <option>The bank column of a customer’s cash book</option>
+    <option>The customer’s account in the bank’s ledger</option>
+    <option>The debtor’s account in the bank’s ledger</option>
+    <answer>The customer’s account in the bank’s ledger</answer>
+    <explanation>The passbook is a copy of the customer's account maintained by the bank in its own ledger.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>What is the basis of allocation of Carriage inward cost among Pre and Post incorporation period?</text>
+    <topic>Accounting for Companies</topic>
+    <option>Time</option>
+    <option>Sales</option>
+    <option>Purchases</option>
+    <option>Credit Sales</option>
+    <answer>Purchases</answer>
+    <explanation>Carriage Inward is a direct expense related to the purchase of goods. Therefore, it is allocated based on the Purchase ratio.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Nominal Account is classified under</text>
+    <topic>Types of Accounts</topic>
+    <option>Impersonal Account</option>
+    <option>Real Account</option>
+    <option>Personal Account</option>
+    <option>Representative Personal Account</option>
+    <answer>Impersonal Account</answer>
+    <explanation>Accounts are broadly classified into Personal and Impersonal. Impersonal accounts are further divided into Real and Nominal accounts.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Goods given as charity should be</text>
+    <topic>Journal Entries</topic>
+    <option>Credited to Purchases account</option>
+    <option>Debited to Purchases account</option>
+    <option>Not recorded in Purchases account</option>
+    <option>Credited to Sales account</option>
+    <answer>Credited to Purchases account</answer>
+    <explanation>When goods are given as charity, they leave the business at cost price, reducing the stock. The entry is: Debit Charity A/c, Credit Purchases A/c.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Root cause for financial accounting is</text>
+    <topic>Introduction to Accounting</topic>
+    <option>Social accounting</option>
+    <option>Management accounting</option>
+    <option>Human resource accounting</option>
+    <option>Stewardship accounting</option>
+    <answer>Stewardship accounting</answer>
+    <explanation>Financial accounting originated from stewardship accounting, where agents (stewards) had to account for the resources entrusted to them by the owners.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Which of the following adjusting double entries is correct for prepaid expenses?</text>
+    <topic>Adjustments</topic>
+    <option>Debit = Prepaid Expense, Credit = Expense</option>
+    <option>Debit = Expense, Credit = Prepaid Expense</option>
+    <option>Debit = Cash, Credit = Expense</option>
+    <option>Debit = Prepaid Expense, Credit = Cash</option>
+    <answer>Debit = Prepaid Expense, Credit = Expense</answer>
+    <explanation>Prepaid expenses are assets. To adjust, we Debit Prepaid Expense (Asset) and Credit the Expense account (reducing the expense for the current year).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>The biggest strength of PFMS is its integration with the</text>
+    <topic>Financial Systems</topic>
+    <option>Core defense system in the country</option>
+    <option>Core insurance sector in the country</option>
+    <option>Core social security sector in the country</option>
+    <option>Core banking system in the country</option>
+    <answer>Core banking system in the country</answer>
+    <explanation>PFMS is integrated with the Core Banking System (CBS), enabling real-time payment and reporting.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Which account is generally used in single entry and incomplete records to obtain the amount of credit sales made during an accounting period?</text>
+    <topic>Single Entry System</topic>
+    <option>Accounts Payable Account</option>
+    <option>Total Revenue Account</option>
+    <option>Debtors Account</option>
+    <option>Stock Account</option>
+    <answer>Debtors Account</answer>
+    <explanation>The Total Debtors Account is prepared to find out credit sales (balancing figure).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Which one out of the following best explains double entry system?</text>
+    <topic>Double Entry System</topic>
+    <option>Purchase increases debit; income decreases credit</option>
+    <option>Expense increases debit; income decreases credit</option>
+    <option>Receiver is debit; Giver is credit</option>
+    <option>Receiver is credit; Giver is debit</option>
+    <answer>Receiver is debit; Giver is credit</answer>
+    <explanation>This is the Golden Rule for Personal Accounts: "Debit the Receiver, Credit the Giver".</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Income tax paid on business income by a sole proprietor is</text>
+    <topic>Final Accounts</topic>
+    <option>debited to trading account</option>
+    <option>debited to Profit and Loss account</option>
+    <option>deducted from capital account in the balance sheet</option>
+    <option>added to capital account in the balance sheet</option>
+    <answer>deducted from capital account in the balance sheet</answer>
+    <explanation>Income tax of a sole proprietor is considered a personal expense (Drawings). Therefore, it is deducted from the Capital account.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>The balance remaining after deducting gross profit from sales is called</text>
+    <topic>Trading Account</topic>
+    <option>Cost of Goods Sold</option>
+    <option>Net Sales</option>
+    <option>Gross Sales</option>
+    <option>Liabilities</option>
+    <answer>Cost of Goods Sold</answer>
+    <explanation>$Sales - Cost of Goods Sold = Gross Profit$. Therefore, $Sales - Gross Profit = Cost of Goods Sold$.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>A cheque is received from customer and the same is deposited in bank for collection. If it is finally returned dishonored then it will result into</text>
+    <topic>Banking Transactions</topic>
+    <option>customer's account being credited</option>
+    <option>customer's account being debited</option>
+    <option>no change in customer's account</option>
+    <option>no change in bank account</option>
+    <answer>customer's account being debited</answer>
+    <explanation>When a cheque is dishonored, the entry made on receipt (Bank Dr, Customer Cr) is reversed. We Debit the Customer (re-establishing them as a debtor) and Credit the Bank.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Which Concept suggests the exclusion of human resource in Balance Sheet?</text>
+    <topic>Accounting Concepts</topic>
+    <option>Accrual Concept</option>
+    <option>Money Measurement Concept</option>
+    <option>Going Concern Concept</option>
+    <option>Cost Concept</option>
+    <answer>Money Measurement Concept</answer>
+    <explanation>Money Measurement Concept states that only those transactions that can be expressed in monetary terms are recorded. Skills and loyalty of human resources cannot be measured in exact money, hence excluded.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>"The liability of at least one partner is unlimited whereas the liability of other partners is limited" what type of partnership is represented here?</text>
+    <topic>Partnership</topic>
+    <option>Partnership at will</option>
+    <option>Limited Partnership</option>
+    <option>General Partnership</option>
+    <option>Particular Partnership</option>
+    <answer>Limited Partnership</answer>
+    <explanation>In a Limited Liability Partnership (LLP) or Limited Partnership, partners can have limited liability, but traditionally/historically a "Limited Partnership" requires at least one general partner with unlimited liability.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Statement of financial position produced from incomplete accounting record is commonly known as</text>
+    <topic>Single Entry System</topic>
+    <option>Balance sheet</option>
+    <option>Statement of affairs</option>
+    <option>Statement of financial operations</option>
+    <option>Cash flow statement</option>
+    <answer>Statement of affairs</answer>
+    <explanation>In incomplete records (Single Entry), a Statement of Affairs is prepared (resembling a balance sheet) to determine capital at the beginning or end of the period.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>John and James are partners sharing profits equally. Jack enters the partnership and contributes a Land whose Historical Cost is Rs. 50,000, Book Value is Rs. 25,000 and Current Market Value is Rs. 30,000. By what amount Jack's account should be increased?</text>
+    <topic>Partnership</topic>
+    <option>Rs. 50,000</option>
+    <option>Rs. 30,000</option>
+    <option>Rs. 25,000</option>
+    <option>Rs. 1,05,000</option>
+    <answer>Rs. 30,000</answer>
+    <explanation>When a partner contributes an asset, it is recorded at its agreed value, which is usually the Current Market Value (Fair Value) at the time of admission.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>A firm has omitted to record provision for bad and doubtful debts. How will it impact the financial statement?</text>
+    <topic>Financial Statements</topic>
+    <option>Net Profit would decrease</option>
+    <option>Net Profit would increase</option>
+    <option>Gross Profit would be overstated</option>
+    <option>Gross Profit would be understated</option>
+    <answer>Net Profit would increase</answer>
+    <explanation>Provision for bad debts is an expense debited to P&amp;L. If omitted, expenses are understated, so Net Profit would be overstated (increased).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="Accountancy">
+    <text>Which of the following is excluded from the cost of stock?</text>
+    <topic>Inventory Valuation</topic>
+    <option>Carriage inward</option>
+    <option>Import duties</option>
+    <option>Purchases of Raw material</option>
+    <option>Salary of Purchasing staff</option>
+    <answer>Salary of Purchasing staff</answer>
+    <explanation>According to AS-2 (Valuation of Inventories), administrative overheads like salaries of purchasing staff are excluded from the cost of inventory. Direct costs like purchase price, duties, and carriage inward are included.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Which one of the following substances is used in cold countries to melt ice accumulated on the roads during winter?</text>
+    <topic>Chemistry in Everyday Life</topic>
+    <option>Salt</option>
+    <option>Urea</option>
+    <option>Sand</option>
+    <option>Oil</option>
+    <answer>Salt</answer>
+    <explanation>Salt (Sodium Chloride) is used because it lowers the freezing point of water (freezing point depression), causing the ice to melt.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>In humans, there are 13 vitamins which are essential for healthy living. Bleeding of gums and delayed healing of wounds is a deficiency of which of the following Vitamins?</text>
+    <topic>Biology/Nutrition</topic>
+    <option>Vitamin A</option>
+    <option>Vitamin B</option>
+    <option>Vitamin C</option>
+    <option>Vitamin D</option>
+    <answer>Vitamin C</answer>
+    <explanation>Deficiency of Vitamin C (Ascorbic acid) causes Scurvy, characterized by bleeding gums and delayed wound healing.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Earthing wire is used in AC power circuit wiring for protective grounding. Which colour insulation is done over it as per BIS code?</text>
+    <topic>Physics/Electricity</topic>
+    <option>Green and Yellow</option>
+    <option>Blue and Brown</option>
+    <option>Black and Red</option>
+    <option>White and Gray</option>
+    <answer>Green and Yellow</answer>
+    <explanation>According to BIS (Bureau of Indian Standards) code, the earth wire is green or green with yellow stripes. (Live is Red/Brown, Neutral is Black/Blue).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Identify the versatile organ from the facts given below: (i) It is the largest organ in human body.
+(ii) It is sensor packed with nerves for keeping the brain in touch with the outside world.
+(iii) It manufactures vitamin D for converting calcium into healthy bones.
+(iv) It is the body's largest waste removal system.</text>
+    <topic>Human Anatomy</topic>
+    <option>The Skin</option>
+    <option>The Liver</option>
+    <option>The Intestines</option>
+    <option>The Heart</option>
+    <answer>The Skin</answer>
+    <explanation>The skin is the largest organ of the integumentary system. It synthesizes Vitamin D upon sunlight exposure and helps in excretion through sweat.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Chandan wants to design a solar furnace that will focus sunlight at one spot to boil water. Which of the following should Chandan use to collect large amount of solar energy?</text>
+    <topic>Physics/Optics</topic>
+    <option>Concave mirror</option>
+    <option>Convex mirror</option>
+    <option>Plane mirror</option>
+    <option>Biconvex lenses</option>
+    <answer>Concave mirror</answer>
+    <explanation>Concave mirrors converge light beams to a single focal point. They are used in solar furnaces to concentrate sunlight to generate high heat.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Vector-borne diseases account for more than 17% of all infectious diseases, causing more than 700000 deaths annually. Which of the following diseases is NOT vector borne?</text>
+    <topic>Human Diseases</topic>
+    <option>Dengue</option>
+    <option>Chikungunya</option>
+    <option>Filariasis</option>
+    <option>Cholera</option>
+    <answer>Cholera</answer>
+    <explanation>Cholera is a water-borne disease caused by bacteria (Vibrio cholerae). Dengue, Chikungunya, and Filariasis are transmitted by vectors (mosquitoes).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>An amazing fact about firefighter's uniform is that it can withstand up to 2200ºF and protects a person from concentrated acids and alkali absorption. Hence it is important to choose the right fire extinguisher to put out fires. Which one of the following gases is used to extinguish fire?</text>
+    <topic>Chemistry</topic>
+    <option>Hydrogen</option>
+    <option>Butane</option>
+    <option>Methane</option>
+    <option>Carbon dioxide</option>
+    <answer>Carbon dioxide</answer>
+    <explanation>Carbon dioxide ($CO_2$) is heavier than oxygen and forms a blanket around the fire, cutting off the oxygen supply. It is non-combustible.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Have you ever wondered, trucks carrying heavy loads have more than four tyres! This is because more tyres increase the area of contact with the road and this results in reduced pressure on the tyres. Pressure plays an important role in our daily life. Which one of the following is NOT a unit of pressure?</text>
+    <topic>Physics</topic>
+    <option>Pascal (Pa)</option>
+    <option>Bar (b)</option>
+    <option>Torr (mmHg)</option>
+    <option>Newton (N)</option>
+    <answer>Newton (N)</answer>
+    <explanation>Newton (N) is the SI unit of Force. Pressure is Force per unit Area ($P=F/A$). Pascal, Bar, and Torr are units of pressure.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB PAA" subject="General Science">
+    <text>Elements are generally available in the earth's crust. Which of the following is a man-made element that is not available naturally in the earth's crust?</text>
+    <topic>Chemistry/Periodic Table</topic>
+    <option>Uranium</option>
+    <option>Thorium</option>
+    <option>Nobelium</option>
+    <option>Molybdenum</option>
+    <answer>Nobelium</answer>
+    <explanation>Nobelium (No, Atomic Number 102) is a synthetic element (man-made) and is not found naturally on Earth. Uranium, Thorium, and Molybdenum are natural.</explanation>
+</question>
+
 
 
 </quizzes>

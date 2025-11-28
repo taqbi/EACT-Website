@@ -155,6 +155,15 @@
     opacity: 0.6;
 }
 
+.question-count-display {
+    text-align: center;
+    font-weight: 600;
+    color: #1f2a44;
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
 /* Progress Section Styles */
 #progress-container {
     display: none; /* Hidden by default */
