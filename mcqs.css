@@ -39,6 +39,13 @@
     font-weight: 700; /* Bolder text */
     color: #1f2a44; /* Use primary site color */
 }
+.category-group h3 {
+    cursor: pointer; /* Indicates the heading is clickable */
+    transition: background-color 0.2s ease-in-out;
+}
+.category-group h3:hover {
+    background-color: rgba(0,0,0,0.03); /* Subtle hover effect */
+}
 .category-group h3 i { margin-right: 12px; color: #1f2a44; } /* Consistent icon color */
 .category-buttons button {
     margin: 5px;
@@ -54,6 +61,11 @@
     display: inline-flex;
     align-items: center;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+.category-buttons {
+    display: none; /* Hide the button containers by default */
+    margin-top: 15px;
+    padding-top: 10px;
 }
 .category-buttons button i { margin-right: 8px; }
 .category-buttons button:hover {

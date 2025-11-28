@@ -310,6 +310,21 @@ if (categoryContainer) {
             }
         });
 
+        // New Accordion Logic for category groups
+        const categoryGroups = document.querySelectorAll('.category-group');
+        categoryGroups.forEach(group => {
+            const heading = group.querySelector('h3');
+            if (heading) {
+                heading.addEventListener('click', (e) => {
+                    // Prevent this from triggering other button clicks
+                    if (e.target.closest('button')) return;
+
+                    const buttonsContainer = group.querySelector('.category-buttons');
+                    buttonsContainer.style.display = buttonsContainer.style.display === 'block' ? 'none' : 'block';
+                });
+            }
+        });
+
         // This listener MUST be inside setupEventListeners to be correctly scoped.
         filterSelect.addEventListener('change', (e) => {
             const selectedName = e.target.value;
