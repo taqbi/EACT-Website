@@ -475,8 +475,6 @@ document.addEventListener('DOMContentLoaded', function () {
             const { correct, attempted } = progress.scores.subject[name];
             const incorrect = attempted - correct;
             const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
-            overallAttempted += attempted;
-            overallCorrect += correct;
 
             subjectContainer.innerHTML += `
                 <p>
@@ -507,7 +505,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterend', overallHtml);
-            }
+        }
         progressContainer.style.display = 'block';
     }
     
@@ -643,13 +641,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Insert the button after the options div
                 optionsDiv.insertAdjacentElement('afterend', solutionButton);
     
-                    // Determine the correct name for progress tracking (either exam name or subject name)
-                const progressName = quizType === 'exam' ? question.exam : question.subject;
-
-                // Save progress to localStorage
-                updateProgress(progressName, quizType, isCorrect, question.id);
-
-                    updateScore();
+                 // New Progress Tracking Logic: Always update both exam and subject stats.
+                updateProgress(question.exam, 'exam', isCorrect, question.id);
+                updateProgress(question.subject, 'subject', isCorrect, question.id);
+                updateScore();
             }
         });
     }
