@@ -613,8 +613,12 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             questionEl.innerHTML = `
-                <div class="question-topic">${q.topic}</div>
-                <p>${questionNumber}. ${q.text}</p>
+                <div class="question-header">
+                    <span class="question-meta exam">${q.exam}</span>
+                    <span class="question-meta subject">${q.subject}</span>
+                    <span class="question-meta topic">${q.topic}</span>
+                </div>
+                <p class="question-text">${questionNumber}. ${q.text}</p>
                 <div class="options ${isAttempted ? 'disabled-quiz' : ''}" data-question-id="${q.id}">
                     ${q.options.map(opt => `<button class="option-btn">${opt}</button>`).join('')}
                 </div>
