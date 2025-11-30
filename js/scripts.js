@@ -229,11 +229,10 @@ document.addEventListener('DOMContentLoaded', function () {
         if (isCorrect) {
             progress.scores[quizType][quizName].correct++;
         }
-            if (!progress.attemptedQuestions[quizName]) progress.attemptedQuestions[quizName] = [];
-        if (!progress.attemptedQuestions[quizName].includes(questionId)) {
-            progress.attemptedQuestions[quizName].push(questionId);
-        }
-            saveProgress(progress);
+        // Mark the question as attempted globally by its ID
+        progress.attemptedQuestions[questionId] = true;
+
+        saveProgress(progress);
         }
 
 
@@ -604,7 +603,10 @@ document.addEventListener('DOMContentLoaded', function () {
             const questionEl = document.createElement('div');
             questionEl.className = 'question';
 
-            const isAttempted = progress.attemptedQuestions[q.id];
+            // Check if the question ID exists in the global list of attempted questions
+            const isAttempted = progress.attemptedQuestions && progress.attemptedQuestions[q.id];
+
+            // If the question has been answered in a previous session, mark it as attempted.
 
             if (isAttempted) {
                 questionEl.classList.add('already-attempted');
