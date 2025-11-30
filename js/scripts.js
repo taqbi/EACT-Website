@@ -438,10 +438,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <p>
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -457,10 +457,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <p>
                     <strong>${name}</strong>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
                 </p>`;
         }
@@ -475,10 +475,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="overall-performance progress-category">
                     <h3>Overall Performance</h3>
                     <div class="stat-boxes">
-                        <div class="stat-box"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
-                        <div class="stat-box"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
-                        <div class="stat-box"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
+                        <div class="stat-box stat-box--attempted"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
+                        <div class="stat-box stat-box--correct"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
+                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
+                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterend', overallHtml);

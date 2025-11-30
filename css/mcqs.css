@@ -314,11 +314,11 @@
 .stat-box--incorrect .stat-value { color: #EF4444; }
 .stat-box--accuracy .stat-value { color: #10B981; }
 
-/* Keep backgrounds neutral for a cleaner look */
-.stat-box--attempted { background-color: #eff6ff; border-color: #dbeafe; }
-.stat-box--correct { background-color: #f0fdf4; border-color: #dcfce7; }
-.stat-box--incorrect { background-color: #fef2f2; border-color: #fee2e2; }
-.stat-box--accuracy { background-color: #f0fdfa; border-color: #ccfbf1; }
+/* Specific and corrected background colors for all stat boxes */
+.stat-box--attempted { background-color: #e0f2fe; border-color: #bae6fd; } /* Light Sky Blue */
+.stat-box--correct { background-color: #dcfce7; border-color: #bbf7d0; } /* Vibrant Green */
+.stat-box--incorrect { background-color: #fee2e2; border-color: #fecaca; } /* Vibrant Red */
+.stat-box--accuracy { background-color: #ffedd5; border-color: #fed7aa; } /* Vibrant Orange */
 
 .stat-label {
     display: block;
