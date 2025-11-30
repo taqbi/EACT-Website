@@ -3039,6 +3039,1382 @@ Additional amount to be debited to P/L = 5,000 - 1,000 = 4,000.</explanation>
         <answer>Carbon Dioxide</answer>
         <explanation>CO2 dissolves in ocean water forming carbonic acid, which lowers pH and leads to ocean acidification.</explanation>
     </question>
+ <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>The Subar Dhar Mela takes place in which of the following locations of Jammu &amp; Kashmir?</text>
+    <topic>Festivals &amp; Fairs</topic>
+    <option>Bhaderwah</option>
+    <option>Kishtwar</option>
+    <option>Srinagar</option>
+    <option>Doda</option>
+    <answer>Bhaderwah</answer>
+    <explanation>Subar Dhar (Subar Nag) Mela is celebrated at Subar Dhar near Bhaderwah in Doda district of Jammu &amp; Kashmir, commonly at the Subar Nag temple area each Baisakhi.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which is the only active volcanic island in India?</text>
+    <topic>Physical Geography</topic>
+    <option>Minicoy Island</option>
+    <option>Andaman Island</option>
+    <option>Barren Island</option>
+    <option>Laccadive Island</option>
+    <answer>Barren Island</answer>
+    <explanation>Barren Island in the Andaman Sea is the only confirmed active volcano in India; it has had multiple eruptions in the modern era.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which among the following is the largest wetland sanctuary in Gujarat and one of the biggest in India?</text>
+    <topic>Environment &amp; Wildlife</topic>
+    <option>Marine National Park</option>
+    <option>Kutch Desert Sanctuary</option>
+    <option>Nalsarovar Bird Sanctuary</option>
+    <option>Gaga Wildlife Sanctuary</option>
+    <answer>Nalsarovar Bird Sanctuary</answer>
+    <explanation>Nalsarovar Bird Sanctuary (near Ahmedabad) is Gujarat's largest wetland sanctuary and an important habitat for migratory waterfowl.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which of the following states of India is the Deo Dance associated with?</text>
+    <topic>Cultural Heritage</topic>
+    <option>Kerala</option>
+    <option>Odisha</option>
+    <option>Madhya Pradesh</option>
+    <option>Chhattisgarh</option>
+    <answer>Chhattisgarh</answer>
+    <explanation>Deo Dance (a tribal/folk dance) is associated with regions of Chhattisgarh where traditional ritual dances are common.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>During which season are walnuts harvested in Jammu &amp; Kashmir?</text>
+    <topic>Agriculture</topic>
+    <option>Winter</option>
+    <option>Autumn</option>
+    <option>Spring</option>
+    <option>Monsoon</option>
+    <answer>Autumn</answer>
+    <explanation>Walnuts in Jammu &amp; Kashmir are typically harvested in autumn (around September–October) when nuts mature and husks split.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>The Bill for the J&amp;K Reorganisation Act, 2019 was introduced in Rajya Sabha by:</text>
+    <topic>Recent History &amp; Governance</topic>
+    <option>Amit Shah</option>
+    <option>Rajnath Singh</option>
+    <option>G. Kishan Reddy</option>
+    <option>Ravi Shankar Prasad</option>
+    <answer>Amit Shah</answer>
+    <explanation>The Jammu &amp; Kashmir Reorganisation Bill (2019) was introduced in Rajya Sabha by Union Home Minister Amit Shah.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Operation Sadbhavana is an initiative launched by the:</text>
+    <topic>Government &amp; Defence</topic>
+    <option>Indian Army</option>
+    <option>Ministry of Defence</option>
+    <option>Union Government of India</option>
+    <option>Home Dept. of J&amp;K</option>
+    <answer>Indian Army</answer>
+    <explanation>Operation Sadbhavana is a goodwill/hearts-and-minds initiative run by the Indian Army in Jammu &amp; Kashmir focusing on civic action programs.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>The Vale of Kashmir (Kashmir Valley) is the sole producer of which product in India?</text>
+    <topic>Agriculture &amp; Products</topic>
+    <option>Walnuts</option>
+    <option>Almond</option>
+    <option>Saffron</option>
+    <option>Apples</option>
+    <answer>Saffron</answer>
+    <explanation>Kashmir is renowned for producing the unique Kashmiri saffron (from Pulwama/Kishtwar areas); while other crops exist elsewhere, high-quality Kashmiri saffron is region-specific.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Read the statements and choose the correct option: Statement I: Wheat &amp; Barley are grown as Rabi crops in India. Statement II: Rabi crops are sown in the beginning of the monsoon season and harvested between October &amp; December.</text>
+    <topic>Agricultural Seasons</topic>
+    <option>Statement I FALSE, Statement II TRUE</option>
+    <option>Statement I TRUE, Statement II FALSE</option>
+    <option>Statement I TRUE, Statement II TRUE</option>
+    <option>Statement I FALSE, Statement II FALSE</option>
+    <answer>Statement I TRUE, Statement II FALSE</answer>
+    <explanation>Wheat and barley are Rabi crops (sown in winter). Rabi crops are sown after monsoon (around Oct–Dec sowing) and harvested in spring (March–May), so Statement II is incorrect.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>Which among the following lakes is located in Jammu &amp; Kashmir?</text>
+    <topic>Geography (Lakes)</topic>
+    <option>Sambhar Lake</option>
+    <option>Anchar Lake</option>
+    <option>Loktak Lake</option>
+    <option>Saroornagar Lake</option>
+    <answer>Anchar Lake</answer>
+    <explanation>Anchar Lake is a shallow lake near Srinagar in Jammu &amp; Kashmir; Sambhar is in Rajasthan, Loktak in Manipur, Saroornagar in Telangana.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which country shares boundary with India in the North-East?</text>
+    <topic>Political Geography</topic>
+    <option>Iran</option>
+    <option>Iraq</option>
+    <option>Afghanistan</option>
+    <option>China</option>
+    <answer>China</answer>
+    <explanation>India's northeastern region shares international boundaries with China (along Arunachal Pradesh etc.), Myanmar, Bangladesh, Bhutan; among the options, China is the correct neighbour in the North-East context.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which of the following soils is suitable for cultivation in regions with low rainfall?</text>
+    <topic>Soils &amp; Agriculture</topic>
+    <option>Laterite soil</option>
+    <option>Alluvial soil</option>
+    <option>Black soil</option>
+    <option>Red soil</option>
+    <answer>Red soil</answer>
+    <explanation>Red soils are often found in regions with low to moderate rainfall and are suitable for dry farming; black soils suit cotton, alluvial in river plains, laterite in high rainfall areas.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian History">
+    <text>Gulab Singh was eventually made the Raja of Jammu through which treaty?</text>
+    <topic>Modern Indian History</topic>
+    <option>Treaty of Delhi</option>
+    <option>Treaty of Lahore</option>
+    <option>Treaty of Amritsar</option>
+    <option>Treaty of Srinagar</option>
+    <answer>Treaty of Amritsar</answer>
+    <explanation>In 1846, the Treaty of Amritsar transferred Kashmir to Gulab Singh after the Anglo-Sikh wars, making him Raja of Jammu and Kashmir.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>In 2021, the J&amp;K Government linked ex-gratia relief for which workers?</text>
+    <topic>Current Affairs</topic>
+    <option>MGNREGA workers</option>
+    <option>Daily wagers</option>
+    <option>Construction workers</option>
+    <option>Anganwadi workers</option>
+    <answer>Construction workers</answer>
+    <explanation>In 2021, J&amp;K government schemes extended ex-gratia/relief measures to registered construction workers affected by economic disruptions; (local/official sources reported measures targeted to construction/daily-wage sectors).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which among the following is the basic feature of a federation?</text>
+    <topic>Polity</topic>
+    <option>Single citizenship</option>
+    <option>Dual judiciary</option>
+    <option>Division of powers</option>
+    <option>Separation of powers</option>
+    <answer>Division of powers</answer>
+    <explanation>A key feature of a federation is the division of powers between central and regional governments; other features vary (single citizenship exists in some federations like India).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>Which among the following is the residential place of the Lt. Governor of J&amp;K?</text>
+    <topic>Administrative Buildings</topic>
+    <option>Sher Garhi Palace</option>
+    <option>Raj Bhawan</option>
+    <option>Mubarak Mandi</option>
+    <option>Amar Mahal</option>
+    <answer>Raj Bhawan</answer>
+    <explanation>Raj Bhawan is the official residence of the Lt. Governor (the constitutional head) in Jammu &amp; Kashmir; Sher Garhi and Mubarak Mandi are historical palaces.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which among the following is a tributary of the Bhagirathi River?</text>
+    <topic>River Systems</topic>
+    <option>Bhilangna River</option>
+    <option>Pindar River</option>
+    <option>Dhauliganga</option>
+    <option>Bihenganga</option>
+    <answer>Bhilangna River</answer>
+    <explanation>Bhilangana (Bhilangna) is a tributary of Bhagirathi; Dhauliganga is a tributary of the Alaknanda; Pindar joins Alaknanda; Bihenganga is not a major listed tributary of Bhagirathi.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>Which among the following lakes is located in Jammu &amp; Kashmir?</text>
+    <topic>Geography (Lakes)</topic>
+    <option>Sambhar Lake</option>
+    <option>Anchar Lake</option>
+    <option>Loktak Lake</option>
+    <option>Saroornagar Lake</option>
+    <answer>Anchar Lake</answer>
+    <explanation>(Duplicate of Q10) Anchar Lake is in Srinagar, J&amp;K. Sambhar is in Rajasthan, Loktak in Manipur, Saroornagar in Telangana.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which country shares boundary with India in the North-East?</text>
+    <topic>Political Geography</topic>
+    <option>Iran</option>
+    <option>Iraq</option>
+    <option>Afghanistan</option>
+    <option>China</option>
+    <answer>China</answer>
+    <explanation>(Duplicate of Q11) China borders India's northeastern region; other neighbouring countries in the northeast include Myanmar and Bangladesh.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Read the following statements (Rabi crops): Statement I: Wheat &amp; barley are grown in India. Statement II: Rabi crops are sown in the beginning of monsoon.</text>
+    <topic>Agricultural Seasons</topic>
+    <option>Statement I FALSE, Statement II TRUE</option>
+    <option>Statement I TRUE, Statement II FALSE</option>
+    <option>Statement I TRUE, Statement II TRUE</option>
+    <option>Statement I FALSE, Statement II FALSE</option>
+    <answer>Statement I TRUE, Statement II FALSE</answer>
+    <explanation>(Duplicate of earlier statements) Wheat &amp; barley are Rabi crops (TRUE). Rabi crops are sown after the monsoon (in winter), not at the beginning of the monsoon (FALSE).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which among the following rivers is a major tributary of the Bhagirathi river?</text>
+    <topic>River Systems</topic>
+    <option>Bhilangna river</option>
+    <option>Pindar river</option>
+    <option>Dhauliganga</option>
+    <option>Bihenganga</option>
+    <answer>Bhilangna river</answer>
+    <explanation>(Repeat of Q17/Q21) Bhilangna is an important tributary of the Bhagirathi river system.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>The Vale of Kashmir is the sole producer of which product?</text>
+    <topic>Agriculture &amp; Products</topic>
+    <option>Walnuts</option>
+    <option>Almond</option>
+    <option>Saffron</option>
+    <option>Apples</option>
+    <answer>Saffron</answer>
+    <explanation>(Repeat of Q8/Q22) Kashmir (Vale of Kashmir) is famous for Kashmiri saffron; while other crops are grown across India, the region is uniquely noted for saffron cultivation.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which state is the Deo Dance associated with?</text>
+    <topic>Cultural Heritage</topic>
+    <option>Kerala</option>
+    <option>Odisha</option>
+    <option>Madhya Pradesh</option>
+    <option>Chhattisgarh</option>
+    <answer>Chhattisgarh</answer>
+    <explanation>(Repeat of Q4/Q23) Deo dance is a folk/ritual dance form associated with regions in Chhattisgarh.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which sanctuary in Gujarat is one of the largest wetland sanctuaries?</text>
+    <topic>Environment &amp; Wildlife</topic>
+    <option>Marine National Park</option>
+    <option>Kutch Desert Sanctuary</option>
+    <option>Nalsarovar Bird Sanctuary</option>
+    <option>Gaga Wildlife Sanctuary</option>
+    <answer>Nalsarovar Bird Sanctuary</answer>
+    <explanation>(Repeat of Q3/Q24) Nalsarovar is Gujarat's major wetland sanctuary and important for migratory birds.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which island is the only active volcanic island in India?</text>
+    <topic>Physical Geography</topic>
+    <option>Minicoy Island</option>
+    <option>Andaman Island</option>
+    <option>Barren Island</option>
+    <option>Laccadive Island</option>
+    <answer>Barren Island</answer>
+    <explanation>(Repeat of Q2/Q25) Barren Island in the Andaman Sea is India's only active volcano.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>The Subar Dhar Mela takes place in which area?</text>
+    <topic>Festivals &amp; Fairs</topic>
+    <option>Bhaderwah</option>
+    <option>Kishtwar</option>
+    <option>Srinagar</option>
+    <option>Doda</option>
+    <answer>Bhaderwah</answer>
+    <explanation>(Repeat of Q1/Q26) The annual Subar Nag Mela is held at Subar Dhar near Bhaderwah (Doda district).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>Which crop season does walnut harvesting fall under in J&amp;K?</text>
+    <topic>Agriculture</topic>
+    <option>Winter</option>
+    <option>Autumn</option>
+    <option>Spring</option>
+    <option>Monsoon</option>
+    <answer>Autumn</answer>
+    <explanation>(Repeat of Q5/Q27) Walnuts are typically harvested in autumn in Jammu &amp; Kashmir.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
+    <text>Which act’s bill was introduced by Amit Shah in Rajya Sabha?</text>
+    <topic>Recent History &amp; Governance</topic>
+    <option>J&amp;K Reorganisation Act 2019</option>
+    <option>RTI Act 2005</option>
+    <option>Forest Act 1927</option>
+    <option>Prevention of Corruption Act</option>
+    <answer>J&amp;K Reorganisation Act 2019</answer>
+    <explanation>(Repeat of Q6/Q28) Amit Shah introduced the Jammu &amp; Kashmir Reorganisation Bill (2019) in Rajya Sabha.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Operation Sadbhavana was launched by:</text>
+    <topic>Government &amp; Defence</topic>
+    <option>Indian Army</option>
+    <option>Ministry of Defence</option>
+    <option>Government of India</option>
+    <option>J&amp;K Home Department</option>
+    <answer>Indian Army</answer>
+    <explanation>(Repeat of Q7/Q29) Operation Sadbhavana is an Indian Army civic-action programme in conflict-affected areas to build goodwill.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Indian GK">
+    <text>Which among the following is NOT incorrect about Rabi crops?</text>
+    <topic>Agricultural Seasons</topic>
+    <option>Wheat &amp; barley grown in India</option>
+    <option>Sown at the beginning of monsoon</option>
+    <option>Harvested between Oct–Dec</option>
+    <option>Both statements are false</option>
+    <answer>Wheat &amp; barley grown in India</answer>
+    <explanation>Wheat &amp; barley are Rabi crops grown in India (this statement is correct). The statements claiming sowing at monsoon or harvest in Oct–Dec are incorrect for Rabi season.</explanation>
+  </question>
+
+ <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> P and Q are two partners sharing profit and losses in 3:2 ratio. They admit R as a new partner with 1/5th share. What will be their new profit-sharing ratio?</text>
+    <topic>Partnership Accounts</topic>
+    <option>3:2:1</option>
+    <option>12:8:5</option>
+    <option>15:10:5</option>
+    <option>6:4:1</option>
+    <answer>12:8:5</answer>
+    <explanation>R takes 1/5; remaining 4/5 is shared by P and Q in 3:2 → P = (3/5)*(4/5)=12/25, Q = (2/5)*(4/5)=8/25, R = 5/25 → ratio 12:8:5.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> GST was implemented on</text>
+    <topic>Taxation</topic>
+    <option>1st July 2018</option>
+    <option>1st July 2017</option>
+    <option>1st July 2019</option>
+    <option>1st July 2020</option>
+    <answer>1st July 2017</answer>
+    <explanation>India's Goods and Services Tax (GST) came into effect on 1st July 2017.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> In ledger book which accounts are maintained?</text>
+    <topic>Books of Accounts</topic>
+    <option>Real and nominal</option>
+    <option>Real and personal</option>
+    <option>Nominal and real</option>
+    <option>Nominal and personal</option>
+    <answer>Real and nominal</answer>
+    <explanation>Ledger contains accounts of various types; common pairing in basic questions is real and nominal accounts maintained as asset/expense accounts.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Ledger account is prepared with the help of —</text>
+    <topic>Ledger</topic>
+    <option>Vouchers</option>
+    <option>Transaction</option>
+    <option>Journal</option>
+    <option>Bank book</option>
+    <answer>Journal</answer>
+    <explanation>Ledger accounts are prepared (posted) from journal entries; the journal is the book of original entry.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Decreasing value in tangible assets due to the normal wear and tear is known as —</text>
+    <topic>Accounting Concepts</topic>
+    <option>Appreciation</option>
+    <option>Devaluation</option>
+    <option>Depreciation</option>
+    <option>Amortization</option>
+    <answer>Depreciation</answer>
+    <explanation>Depreciation is the allocation of the cost of a tangible asset over its useful life due to wear and tear.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> In case of an overcharge which of the following documents is issued?</text>
+    <topic>Business Documents</topic>
+    <option>Debit note</option>
+    <option>Credit note</option>
+    <option>Bank note</option>
+    <option>Ledger note</option>
+    <answer>Credit note</answer>
+    <explanation>A credit note is issued by the seller to the buyer to adjust/credit the buyer's account when there has been an overcharge or return.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> If the assets of business is ₹2,00,000 and equity is ₹50,000 then what will be the liability?</text>
+    <topic>Accounting Equation</topic>
+    <option>₹2,00,000</option>
+    <option>₹2,50,000</option>
+    <option>₹1,50,000</option>
+    <option>₹50,000</option>
+    <answer>₹1,50,000</answer>
+    <explanation>Assets = Liabilities + Equity ⇒ Liabilities = Assets − Equity = 200,000 − 50,000 = ₹150,000.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> In double entry book-keeping system:</text>
+    <topic>Basics of Accounting</topic>
+    <option>Transaction is recorded in two aspects</option>
+    <option>Every debit entry must be given a credit entry</option>
+    <option>All business transaction are recorded</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>Double entry bookkeeping records two aspects of every transaction; each debit has a corresponding credit; and aims to record business transactions.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> What is the main objective of audit?</text>
+    <topic>Auditing</topic>
+    <option>To audit the true and fair view</option>
+    <option>To ensure that firm operates from statistical statements</option>
+    <option>To verify the variance from operations</option>
+    <option>To forecast the true and fair view</option>
+    <answer>To audit the true and fair view</answer>
+    <explanation>The primary objective of an audit is to express an opinion whether financial statements present a true and fair view.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> What is the main goal of financial management?</text>
+    <topic>Financial Management</topic>
+    <option>Maximize profit</option>
+    <option>Maximize wealth of shareholders</option>
+    <option>Increase market price of shares</option>
+    <option>Maximize shareholder's wealth</option>
+    <answer>Maximize shareholder's wealth</answer>
+    <explanation>Financial management primarily aims to maximize shareholder wealth, typically reflected in market value of equity.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> The term social accounting was first introduced by</text>
+    <topic>Accounting History</topic>
+    <option>Abraham Lincoln</option>
+    <option>R.L. Milch</option>
+    <option>R. Anthony</option>
+    <option>William Scott</option>
+    <answer>R.L. Milch</answer>
+    <explanation>R.L. Milch is credited in accounting literature with early work on social accounting concepts.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Trial balance helps to check the accuracy of the:</text>
+    <topic>Trial Balance</topic>
+    <option>Balance sheet</option>
+    <option>Journal</option>
+    <option>Trial balance</option>
+    <option>Cash flow statement</option>
+    <answer>Journal</answer>
+    <explanation>Trial balance verifies the arithmetical accuracy of ledger postings which are made from journal entries, helping detect errors in recording.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Expense incurred to start a business is a:</text>
+    <topic>Classification of Accounts</topic>
+    <option>Fictitious asset</option>
+    <option>Nominal asset</option>
+    <option>Liability</option>
+    <option>Liability</option>
+    <answer>Fictitious asset</answer>
+    <explanation>Preliminary/formation expenses (costs to start a business) are treated as fictitious/intangible assets to be written off over time.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> When audit is undertaken to check the financial controls &amp; irregularities in the organization, it is which type of audit?</text>
+    <topic>Types of Audit</topic>
+    <option>Internal audit</option>
+    <option>Government audit</option>
+    <option>Independent audit</option>
+    <option>Social audit</option>
+    <answer>Internal audit</answer>
+    <explanation>Internal audit examines internal controls, compliance and irregularities within an organization.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> If there is positive balance in debit side of Profit &amp; Loss account, what does it indicate?</text>
+    <topic>Profit &amp; Loss</topic>
+    <option>Profit</option>
+    <option>Loss</option>
+    <option>Drawings</option>
+    <option>Closing stock</option>
+    <answer>Loss</answer>
+    <explanation>A debit balance in the Profit &amp; Loss account indicates net loss (expenses exceed revenues); a credit balance indicates profit.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Which of the following is correct?</text>
+    <topic>Accounting Equation</topic>
+    <option>Asset = Capital – liability</option>
+    <option>Capital = Asset + liability</option>
+    <option>Asset = liability + capital</option>
+    <option>Liability = equity + capital</option>
+    <answer>Asset = liability + capital</answer>
+    <explanation>The fundamental accounting equation is Assets = Liabilities + Capital (Owner's Equity).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text>In bank statement, cash deposited is shown as —</text>
+    <topic>Bank Reconciliation</topic>
+    <option>Debit</option>
+    <option>Credit</option>
+    <option>Expense</option>
+    <option>Income</option>
+    <answer>Credit</answer>
+    <explanation>In a bank statement (from bank's perspective), deposits to the customer account appear as credits (increase in customer's balance).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> ______ is a documentary evidence of a transaction done.</text>
+    <topic>Vouchers &amp; Documents</topic>
+    <option>Journal</option>
+    <option>Voucher</option>
+    <option>Ledger</option>
+    <option>Cash book</option>
+    <answer>Voucher</answer>
+    <explanation>A voucher (invoice, receipt, bill) is documentary proof of a transaction and supports entries in the accounting records.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> When computing income, direct tax is not applicable on:</text>
+    <topic>Taxation</topic>
+    <option>HUF</option>
+    <option>Individual property</option>
+    <option>Agricultural income</option>
+    <option>Business income</option>
+    <answer>Agricultural income</answer>
+    <explanation>Agricultural income is exempt from central direct tax in India, though it may be considered for rate purposes in some cases.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> If the opening capital is ₹80,000 and closing capital is ₹1,00,000 then what is the amount of profit or loss?</text>
+    <topic>Capital &amp; Profit</topic>
+    <option>₹10,000</option>
+    <option>₹20,000</option>
+    <option>₹50,000</option>
+    <option>₹1,00,000</option>
+    <answer>₹20,000</answer>
+    <explanation>Increase in capital from 80,000 to 100,000 indicates profit of 20,000 (assuming no additional drawings or injections).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Classifications under social accounting include:</text>
+    <topic>Social Accounting</topic>
+    <option>Assets, liabilities, debt position</option>
+    <option>Cost, price, profit</option>
+    <option>Industry, trade, commerce</option>
+    <option>Employee, owner, private sector and joint sector</option>
+    <answer>Industry, trade, commerce</answer>
+    <explanation>Social accounting may classify activities by sectors such as industry, trade and commerce to assess social/economic impact.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> In absence of any profit-sharing ratio how is the profit divided?</text>
+    <topic>Partnership Law</topic>
+    <option>Equally amongst all partners</option>
+    <option>On basis of capital</option>
+    <option>On basis of experience</option>
+    <option>As the court may decide</option>
+    <answer>Equally amongst all partners</answer>
+    <explanation>If partners have not agreed a profit sharing ratio, profits are shared equally among partners by default.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Loss due to fire in factory is recorded in the:</text>
+    <topic>Profit &amp; Loss</topic>
+    <option>Balance sheet</option>
+    <option>Profit and loss account</option>
+    <option>Journal account</option>
+    <option>Factory account</option>
+    <answer>Profit and loss account</answer>
+    <explanation>Loss from fire is treated as an expense/loss and shown in the Profit &amp; Loss account.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text>Copyright is an:</text>
+    <topic>Intangible Assets</topic>
+    <option>Asset</option>
+    <option>Liability</option>
+    <option>Expense</option>
+    <option>Profit</option>
+    <answer>Asset</answer>
+    <explanation>Copyright is an intangible asset that provides exclusive rights and has economic value.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text>______ refers to anything that has an economic value attached to it.</text>
+    <topic>Basic Concepts</topic>
+    <option>Asset</option>
+    <option>Liability</option>
+    <option>Expense</option>
+    <option>Income</option>
+    <answer>Asset</answer>
+    <explanation>An asset is a resource having economic value that is expected to provide future benefit.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> What is the meaning of incidence of tax?</text>
+    <topic>Taxation</topic>
+    <option>Effect of tax on demand &amp; supply of product</option>
+    <option>Effect of tax on sale price &amp; supply of product</option>
+    <option>Who bears the burden of tax</option>
+    <option>Time of tax</option>
+    <answer>Who bears the burden of tax</answer>
+    <explanation>Incidence of tax refers to who ultimately bears the economic burden of a tax (consumer, producer, etc.).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> PFMS was earlier known as:</text>
+    <topic>Government Systems</topic>
+    <option>Central plan scheme monitoring system</option>
+    <option>Compilation and planning monitoring system</option>
+    <option>Planning monitoring system</option>
+    <option>Public finance scheme monitoring system</option>
+    <answer>Central plan scheme monitoring system</answer>
+    <explanation>PFMS (Public Financial Management System) was earlier known as Central Plan Scheme Monitoring System (CPSMS).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> Unpresented cheque is also commonly known as:</text>
+    <topic>Bank Reconciliation</topic>
+    <option>Bounced cheque</option>
+    <option>Unreconciled cheque</option>
+    <option>Uncredited cheque</option>
+    <option>Outstanding cheque</option>
+    <answer>Outstanding cheque</answer>
+    <explanation>An unpresented cheque (issued but not yet presented to bank for payment) is called an outstanding cheque.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text> When a company raises money from public for the first time it is called:</text>
+    <topic>Capital Markets</topic>
+    <option>Private placement</option>
+    <option>Rights issue</option>
+    <option>Public issue</option>
+    <option>Green shoe option</option>
+    <answer>Public issue</answer>
+    <explanation>A company's first offer of shares to the public is called an initial public offering (public issue).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Accountancy">
+    <text>How frequently is the Trial Balance prepared?</text>
+    <topic>Books of Accounts</topic>
+    <option>Quarterly</option>
+    <option>At the end of the year</option>
+    <option>Weekly</option>
+    <option>At end of financial year</option>
+    <answer>At end of financial year</answer>
+    <explanation>Trial balance is commonly prepared at the end of the accounting period (typically at the end of the financial year) to check the arithmetical accuracy of ledger balances.</explanation>
+  </question>
+<question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which storage device is used for storing Basic Input Output System (BIOS)?</text>
+    <topic>Storage Devices</topic>
+    <option>Random Access Memory (RAM)</option>
+    <option>Read Only Memory (ROM)</option>
+    <option>Hard Disk Drive (HDD)</option>
+    <option>Solid State Drive (SSD)</option>
+    <answer>Read Only Memory (ROM)</answer>
+    <explanation>BIOS firmware is stored in ROM (or flash ROM) so it remains intact when the computer is powered off.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which printer prints characters and images without making any contact between the paper and the printing mechanism?</text>
+    <topic>Printers</topic>
+    <option>Impact Printer</option>
+    <option>Non-Impact Printer</option>
+    <option>Dot Matrix Printer</option>
+    <option>Line Printer</option>
+    <answer>Non-Impact Printer</answer>
+    <explanation>Non-impact printers (e.g., inkjet, laser) transfer ink or toner without striking the paper, unlike impact printers.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>The speed of a hard disk is measured in terms of —</text>
+    <topic>Storage Performance</topic>
+    <option>Revolution Per Minute</option>
+    <option>Rotation Per Second</option>
+    <option>Revolting Per Minute</option>
+    <option>Buffer Speed</option>
+    <answer>Revolution Per Minute</answer>
+    <explanation>Hard disk rotational speed is specified in RPM (revolutions per minute), e.g., 5,400 or 7,200 RPM.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>The computer uses ______ to convert the scanned image of a typed or printed text into digital text.</text>
+    <topic>Optical Recognition</topic>
+    <option>MICR</option>
+    <option>OMR</option>
+    <option>QR Code</option>
+    <option>Optical Character Recognition</option>
+    <answer>Optical Character Recognition</answer>
+    <explanation>OCR (Optical Character Recognition) software converts scanned images of text into machine-readable digital text.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which among the following is a Flash memory device?</text>
+    <topic>Memory Types</topic>
+    <option>Hard Disk Drive (HDD)</option>
+    <option>CD-ROM</option>
+    <option>Random Access Memory (RAM)</option>
+    <option>Pen Drive</option>
+    <answer>Pen Drive</answer>
+    <explanation>Pen drives (USB flash drives) use flash memory for non-volatile storage.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which virus attaches itself directly to an exe or .com file and infects the devices while its execution?</text>
+    <topic>Computer Viruses</topic>
+    <option>Macro Virus</option>
+    <option>Boot Sector Virus</option>
+    <option>File System Virus</option>
+    <option>Direct Action Virus</option>
+    <answer>Direct Action Virus</answer>
+    <explanation>Direct action viruses attach to executable files (.exe/.com) and activate when the infected program runs.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What type of network is the Internet?</text>
+    <topic>Networks</topic>
+    <option>LAN</option>
+    <option>MAN</option>
+    <option>WAN</option>
+    <option>CAN</option>
+    <answer>WAN</answer>
+    <explanation>The Internet is a Wide Area Network (WAN) connecting networks across large geographic areas.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is a computer input device that has a flat surface allowing users to control it with a stylus?</text>
+    <topic>Input Devices</topic>
+    <option>Keyboard</option>
+    <option>Mouse</option>
+    <option>Trackball</option>
+    <option>Graphic Tablet</option>
+    <answer>Graphic Tablet</answer>
+    <explanation>A graphic (graphics) tablet provides a flat surface for pen/stylus input used in drawing and design.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Aman wants to record a task that he needs to perform repeatedly. Which feature of MS Excel can be used for recording?</text>
+    <topic>MS Excel Features</topic>
+    <option>Pivot Table</option>
+    <option>Macro</option>
+    <option>Control</option>
+    <option>Reverse</option>
+    <answer>Macro</answer>
+    <explanation>Macros in Excel can record and automate repetitive tasks by capturing keystrokes and actions.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In Microsoft Word which tab can you change Page Orientation?</text>
+    <topic>MS Word Interface</topic>
+    <option>Insert</option>
+    <option>Design</option>
+    <option>Reference</option>
+    <option>Layout</option>
+    <answer>Layout</answer>
+    <explanation>Page Orientation (Portrait/Landscape) is changed from the Layout (or Page Layout) tab in MS Word.</explanation>
+  </question>
+
+
+
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which gas is essential for the process of photosynthesis in plants?</text>
+    <topic>Biology – Photosynthesis</topic>
+    <option>Oxygen</option>
+    <option>Carbon Dioxide</option>
+    <option>Nitrogen</option>
+    <option>Hydrogen</option>
+    <answer>Carbon Dioxide</answer>
+    <explanation>Plants use carbon dioxide during photosynthesis to produce glucose. The basic equation is \( 6CO_2 + 6H_2O \rightarrow C_6H_{12}O_6 + 6O_2 \).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which organ in the human body purifies blood?</text>
+    <topic>Human Physiology</topic>
+    <option>Liver</option>
+    <option>Kidney</option>
+    <option>Lungs</option>
+    <option>Heart</option>
+    <answer>Kidney</answer>
+    <explanation>The kidneys filter nitrogenous wastes from the blood through nephrons and maintain fluid balance.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which instrument is used to measure atmospheric pressure?</text>
+    <topic>Physics – Instruments</topic>
+    <option>Ammeter</option>
+    <option>Barometer</option>
+    <option>Manometer</option>
+    <option>Hygrometer</option>
+    <answer>Barometer</answer>
+    <explanation>A barometer measures atmospheric pressure, typically in millibars or mmHg using the relation \( P = h \rho g \).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which part of the cell is known as the powerhouse of the cell?</text>
+    <topic>Biology – Cell Structure</topic>
+    <option>Ribosome</option>
+    <option>Nucleus</option>
+    <option>Mitochondria</option>
+    <option>Golgi Apparatus</option>
+    <answer>Mitochondria</answer>
+    <explanation>Mitochondria produce ATP through cellular respiration; ATP energy is given by \( \text{ATP} \rightarrow \text{ADP} + \text{Energy} \).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which process is responsible for the formation of clouds?</text>
+    <topic>Environmental Science – Water Cycle</topic>
+    <option>Evaporation</option>
+    <option>Condensation</option>
+    <option>Transpiration</option>
+    <option>Infiltration</option>
+    <answer>Condensation</answer>
+    <explanation>Water vapor cools and condenses into tiny droplets, forming clouds when temperature reaches the dew point.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which among the following is the SI unit of force?</text>
+    <topic>Physics – Units</topic>
+    <option>Watt</option>
+    <option>Newton</option>
+    <option>Joule</option>
+    <option>Pascal</option>
+    <answer>Newton</answer>
+    <explanation>The SI unit of force is Newton, defined as \( 1 \, N = 1 \, kg \cdot m/s^2 \).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which vitamin is essential for blood clotting?</text>
+    <topic>Biology – Vitamins</topic>
+    <option>Vitamin A</option>
+    <option>Vitamin K</option>
+    <option>Vitamin B\</option>
+    <option>Vitamin D</option>
+    <answer>Vitamin K</answer>
+    <explanation>Vitamin K activates clotting factors; its deficiency leads to delayed blood coagulation.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which metal is liquid at room temperature?</text>
+    <topic>Chemistry – Metals and Properties</topic>
+    <option>Mercury</option>
+    <option>Gallium</option>
+    <option>Lead</option>
+    <option>Zinc</option>
+    <answer>Mercury</answer>
+    <explanation>Mercury remains liquid at room temperature due to weak intermolecular metallic bonding.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Which gas is used in the preparation of soda water?</text>
+    <topic>Chemistry – Gases</topic>
+    <option>Oxygen</option>
+    <option>Carbon Dioxide</option>
+    <option>Ozone</option>
+    <option>Nitrogen</option>
+    <answer>Carbon Dioxide</answer>
+    <explanation>Soda water is formed by dissolving \( CO_2 \) in water under pressure to form carbonic acid.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General Science">
+    <text>Electric current is measured using which instrument?</text>
+    <topic>Physics – Electricity</topic>
+    <option>Voltmeter</option>
+    <option>Ammeter</option>
+    <option>Ohmmeter</option>
+    <option>Galvanometer</option>
+    <answer>Ammeter</answer>
+    <explanation>An ammeter measures electric current flowing in a circuit; current is represented as \( I = \frac{Q}{t} \).</explanation>
+  </question>
+
+<question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>Indifference curves are _______ to the origin, representing marginal substitution.</text>
+    <topic>Consumer Theory</topic>
+    <option>Convex</option>
+    <option>Concave</option>
+    <option>Hyperbolic</option>
+    <option>Parabolic</option>
+    <answer>Convex</answer>
+    <explanation>Indifference curves are convex to the origin because of diminishing marginal rate of substitution (MRS): as a consumer substitutes one good for another, the willingness to give up additional units decreases.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>Among the given options, ______ will reduce budget deficit.</text>
+    <topic>Public Finance</topic>
+    <option>Reduction in government expenditure</option>
+    <option>Increase in government expenditure</option>
+    <option>Increase in income</option>
+    <option>Decrease in income</option>
+    <answer>Reduction in government expenditure</answer>
+    <explanation>Reducing government expenditure lowers total spending by the government and thus directly reduces the fiscal gap between revenue and expenditure, helping reduce the budget deficit.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>Among the given methods, which approach is used to determine national income?</text>
+    <topic>National Income Accounting</topic>
+    <option>Output approach</option>
+    <option>Income approach</option>
+    <option>Expenditure approach</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>National income can be estimated via three equivalent approaches: output (production) approach, income approach, and expenditure approach; each measures the same aggregate from different angles.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>______ as per the economic scholars, was used to determine the definition of factor of production.</text>
+    <topic>Factors of Production</topic>
+    <option>Land</option>
+    <option>Labour</option>
+    <option>Capital</option>
+    <option>Price</option>
+    <answer>Land</answer>
+    <explanation>Classical economists often started analysis of factors of production with land as a primary factor (alongside labour and capital); historically land was central to early definitions of factors of production.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>To determine economic growth, the GDP is compared to the previous year. GDP means —</text>
+    <topic>Macroeconomics</topic>
+    <option>Real gross income</option>
+    <option>Per capita income</option>
+    <option>Gross domestic product</option>
+    <option>Gross capital income</option>
+    <answer>Gross domestic product</answer>
+    <explanation>GDP stands for Gross Domestic Product, the total market value of final goods and services produced within a country in a given period; growth is measured by comparing GDP across periods.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>If the price of an article is above the equilibrium price, then there is —</text>
+    <topic>Market Equilibrium</topic>
+    <option>Surplus in the market</option>
+    <option>Shortage in the market</option>
+    <option>More demand than can be supplied</option>
+    <option>Equilibrium in the market</option>
+    <answer>Surplus in the market</answer>
+    <explanation>When price is above equilibrium, quantity supplied exceeds quantity demanded, creating a surplus (excess supply).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>Ricardo assumed the law of diminishing returns applies to —</text>
+    <topic>Classical Economics</topic>
+    <option>Natural factors</option>
+    <option>Industrial production</option>
+    <option>Agriculture</option>
+    <option>Service sector</option>
+    <answer>Agriculture</answer>
+    <explanation>David Ricardo applied the law of diminishing returns primarily to agricultural production, arguing that adding more labour/capital to a fixed land area yields eventually diminishing additional output.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>A firm compares the historical production, market share and related information. This is a situation of —</text>
+    <topic>Market Structures</topic>
+    <option>Monopoly</option>
+    <option>Consumer equilibrium</option>
+    <option>Perfect competition</option>
+    <option>Monopolistic competition</option>
+    <answer>Monopolistic competition</answer>
+    <explanation>Firms in monopolistic competition emphasize product differentiation, market share and past performance to strategize; they compete on non-price factors and use such information for positioning.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>Which among the given techniques (analytical tools) is used in investment planning?</text>
+    <topic>Investment Analysis</topic>
+    <option>SWOT analysis</option>
+    <option>Marginal cost</option>
+    <option>Cost-benefit analysis</option>
+    <option>Consumer surplus</option>
+    <answer>Cost-benefit analysis</answer>
+    <explanation>Cost-benefit analysis compares expected costs and benefits of projects/investments and is widely used to assess feasibility and prioritize investments.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Economics">
+    <text>In 1991, as a step of economic reform to help resolve the economic crisis, what treatment was given to the Indian rupee?</text>
+    <topic>Economic Reforms</topic>
+    <option>RBI was made independent</option>
+    <option>It was devalued</option>
+    <option>It was made capital-intensive (increased)</option>
+    <option>Its value remained stable</option>
+    <answer>It was devalued</answer>
+    <explanation>In 1991, as part of balance-of-payments adjustments and economic liberalization, the Indian rupee was devalued to improve export competitiveness and stabilize the economy.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>The perimeter of the triangle whose vertices are (2, –4), (–3, 8), (–5, –6) is:</text>
+    <topic>Geometry</topic>
+    <option>2√41 + 8√5 + 6√6</option>
+    <option>3√41 − 8√5 − 6√6</option>
+    <option>3√41 + 8√5 − 6√6</option>
+    <option>3√41 − 8√5 + 6√6</option>
+    <answer> </answer>
+    <explanation>Compute the three side lengths using the distance formula.
+Let \(A(2,-4), B(-3,8), C(-5,-6)\).
+
+\[
+\begin{aligned}
+AB = \sqrt{(2-(-3))^{2}+(-4-8)^{2}}=\sqrt{5^{2}+(-12)^{2}}=\sqrt{25+144}=13,\\[6pt]
+BC = \sqrt{(-3-(-5))^{2}+(8-(-6))^{2}}=\sqrt{2^{2}+14^{2}}=\sqrt{4+196}=10\sqrt{2},\\[6pt]
+AC = \sqrt{(2-(-5))^{2}+(-4-(-6))^{2}}=\sqrt{7^{2}+2^{2}}=\sqrt{49+4}=\sqrt{53}.
+\end{aligned}
+\]
+
+Perimeter \(P=AB+BC+AC=13+10\sqrt{2}+\sqrt{53}\). None of the supplied options equals this expression.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>In how many ways 8 students can be seated on 8 chairs?</text>
+    <topic>Permutations</topic>
+    <option>56</option>
+    <option>8</option>
+    <option>64</option>
+    <option>40,320</option>
+    <answer>40,320</answer>
+    <explanation>The number of ways to arrange 8 distinct students on 8 distinct chairs is \(8!\). 
+\[
+8! = 8\times7\times6\times5\times4\times3\times2\times1 = 40320.
+\]</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>For what value of 'm' do the simultaneous equations 2x+3y=5 and 3x+my=21 have no solution?</text>
+    <topic>Linear Equations</topic>
+    <option>7</option>
+    <option>5</option>
+    <option>2</option>
+    <option>9</option>
+    <answer>No option given — the lines are parallel when \(m=\tfrac{9}{2}\)</answer>
+    <explanation>Two linear equations \(a_1x+b_1y=c_1\) and \(a_2x+b_2y=c_2\) have no solution (are parallel/inconsistent) if
+\[
+\frac{a_1}{a_2}=\frac{b_1}{b_2}\neq\frac{c_1}{c_2}.
+\]
+Here \(\frac{2}{3}=\frac{3}{m}\) gives \(m=\dfrac{9}{2}\). For \(m=\tfrac{9}{2}\) the left-hand sides are proportional but \(\dfrac{5}{21}\neq\dfrac{2}{3}\), so the system is inconsistent. None of the integer choices equals \(\tfrac{9}{2}\).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>The sum of two numbers is 16. The sum of the reciprocals of these numbers is 1/14. The two numbers are:</text>
+    <topic>Number Theory / Quadratic Equations</topic>
+    <option>12 and 4</option>
+    <option>8 and 4</option>
+    <option>12 and 6</option>
+    <option>10 and 6</option>
+    <answer>No real-number pair among the options — the quadratic has no real roots</answer>
+    <explanation>Let the numbers be \(a,b\). Then \(a+b=16\) and
+\[
+\frac{1}{a}+\frac{1}{b}=\frac{a+b}{ab}=\frac{16}{ab}=\frac{1}{14}\implies ab=224.
+\]
+So \(a,b\) are roots of \(t^{2}-16t+224=0\). Discriminant
+\[
+\Delta=16^{2}-4\cdot224=256-896=-640\lt 0,
+\]
+so the roots are complex (no real solutions). Therefore none of the real integer options is correct.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>If X,Y,Z are sets and X U Y = X ∩ Z, then which one of the following is true?</text>
+    <topic>Sets</topic>
+    <option>X = Y</option>
+    <option>X = Z</option>
+    <option>Y = Z</option>
+    <option>X ⊆ Y</option>
+    <answer>None of the above — in general \((Y\setminus X)=(Z\setminus X)\)</answer>
+    <explanation>If \(X\cup Y=X\cup Z\) then every element outside \(X\) that is in \(Y\) must also be in \(Z\) and vice versa. This yields
+\[
+Y\setminus X = Z\setminus X.
+\]
+But this does not force \(Y=Z\) or \(X\subseteq Y\) or \(X=Y\) unless additional conditions hold. So the correct deduction is \((Y\setminus X)=(Z\setminus X)\), not any of the listed options.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>If the points (5.2, 2.4), (6.1, 1.2) and (6.7, k) are collinear, then k=</text>
+    <topic>Coordinate Geometry</topic>
+    <option>1</option>
+    <option>1.2</option>
+    <option>2</option>
+    <option>2.2</option>
+    <answer>0.4 (none of the listed options)</answer>
+    <explanation>Compute the slope between the first two points:
+\[
+m=\frac{1.2-2.4}{6.1-5.2}=\frac{-1.2}{0.9}=-\tfrac{4}{3}.
+\]
+For collinearity, slope between second and third must equal this:
+\[
+\frac{k-1.2}{6.7-6.1}=\frac{k-1.2}{0.6}=-\tfrac{4}{3}\implies k-1.2=0.6\left(-\tfrac{4}{3}\right)=-0.8,
+\]
+so \(k=1.2-0.8=0.4\).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text> limx→0 \(e^{x}-e^{-x}) / x​</text>
+    <topic>Limits &amp; Calculus</topic>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
+    <option>0</option>
+    <answer>2</answer>
+    <explanation>Use series expansion or L'Hôpital's rule. Expand:
+\[
+e^{x}-e^{-x}=(1+x+\tfrac{x^{2}}{2}+\dots)-(1-x+\tfrac{x^{2}}{2}-\dots)=2x+O(x^{3}).
+\]
+Thus \(\dfrac{e^{x}-e^{-x}}{x}\to 2\) as \(x\to0\).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>What is the compound interest earned for a principal amount of ₹200 at a rate of interest 10% for 2 years?</text>
+    <topic>Compound Interest</topic>
+    <option>₹20</option>
+    <option>₹21</option>
+    <option>₹22</option>
+    <option>₹24</option>
+    <answer>₹42 (none of the listed options)</answer>
+    <explanation>Compound interest for 2 years:
+\[
+\text{CI}=P\bigl((1+r)^{2}-1\bigr)=200\bigl((1.10)^{2}-1\bigr)=200(1.21-1)=200\times0.21=42.
+\]</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>Three unbiased coins are tossed. What is the probability of getting at most 2 heads?</text>
+    <topic>Probability</topic>
+    <option>1/8</option>
+    <option>3/8</option>
+    <option>7/8</option>
+    <option>5/8</option>
+    <answer>7/8</answer>
+    <explanation>Total outcomes \(=2^{3}=8\). "At most 2 heads" means all outcomes except the one with 3 heads. Probability \(=1-\Pr(3\ \text{heads})=1-\tfrac{1}{8}=\tfrac{7}{8}.\)</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Maths">
+    <text>In the sets A={1,2,3,4,5,6}, ;B={1,3,5} and C={2,4,6} then A-B=</text>
+    <topic>Sets</topic>
+    <option>{1,2,3,4}</option>
+    <option>{1,3,5}</option>
+    <option>{2,4,6}</option>
+    <option>{1,2,4,6}</option>
+    <answer>{2,4,6}</answer>
+    <explanation>\(A-B\) means elements of \(A\) that are not in \(B\). Removing \(\{1,3,5\}\) from \(A\) leaves \(\{2,4,6\}\).</explanation>
+  </question>
+
+   <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>In India, around 17,25,980 people will die from Dengue in 2022. Population = 1,350,050,000. Find mortality rate per thousand.</text>
+    <topic>Demographic Rates</topic>
+    <option>1.79</option>
+    <option>1.28</option>
+    <option>3.56</option>
+    <option>0.78</option>
+    <answer>1.28</answer>
+    <explanation>The mortality rate per thousand is calculated as:
+\[
+\text{Rate}=\frac{\text{Deaths}}{\text{Population}}\times 1000
+=\frac{1,\!725,\!980}{1,\!350,\!050,\!000}\times 1000\approx 1.278\approx 1.28.
+\]</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Find the median of the following data: 21, 33, 45, 51, 12, 5, 8, 23, 17, 37, 15, 36</text>
+    <topic>Measures of Central Tendency</topic>
+    <option>21</option>
+    <option>23</option>
+    <option>22</option>
+    <option>17</option>
+    <answer>22</answer>
+    <explanation>Sort the data: \(5,8,12,15,17,21,23,33,36,37,45,51\). With 12 observations the median is the average of the 6th and 7th terms:
+\[
+\text{Median}=\frac{21+23}{2}=22.
+\]</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Present population of a country (in lakhs): 2025 → 170, 2020 → 140. Find approximate growth rate.</text>
+    <topic>Growth Rates</topic>
+    <option>21%</option>
+    <option>57%</option>
+    <option>89%</option>
+    <option>12%</option>
+    <answer>21%</answer>
+    <explanation>Growth rate \(=\dfrac{170-140}{140}\times 100\% = \dfrac{30}{140}\times100\%\approx 21.43\%\). Approximate answer is \(21\%\).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Which of the following is an example of primary data?</text>
+    <topic>Data Types</topic>
+    <option>A public opinion poll on who should be the next President</option>
+    <option>A critical analysis of Julius Caesar</option>
+    <option>A person’s Instagram account</option>
+    <option>Inflation data uploaded at RBI website</option>
+    <answer>A public opinion poll on who should be the next President</answer>
+    <explanation>Primary data are collected firsthand for a specific purpose. A public opinion poll gathers original responses directly from respondents, so it is primary data.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>In a frequency distribution, if the median and mean are 12 and 13, find the mode.</text>
+    <topic>Measures of Central Tendency</topic>
+    <option>10</option>
+    <option>20</option>
+    <option>30</option>
+    <option>40</option>
+    <answer>10</answer>
+    <explanation>Use the empirical relation \( \text{Mode}\approx 3\times\text{Median}-2\times\text{Mean}\).
+So \(\text{Mode}\approx 3(12)-2(13)=36-26=10.\)</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Which of the following is not an example of published data?</text>
+    <topic>Data Sources</topic>
+    <option>Public records</option>
+    <option>Diaries</option>
+    <option>Business documents</option>
+    <option>Trade journals</option>
+    <answer>Diaries</answer>
+    <explanation>Published data are made publicly available (e.g., public records, trade journals). Personal diaries are private and not published, so they are not published data.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Which of the following is not a type of questionnaire?</text>
+    <topic>Survey Methods</topic>
+    <option>Structured–Undisguised Questionnaire</option>
+    <option>Unstructured–Undisguised Questionnaire</option>
+    <option>Unstructured–Disguised Questionnaire</option>
+    <option>Normal–Disguised Questionnaire</option>
+    <answer>Normal–Disguised Questionnaire</answer>
+    <explanation>The standard taxonomy includes structured/unstructured and disguised/undisguised questionnaires. "Normal–Disguised Questionnaire" is not a recognized type.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Ram and Shyam toss three unbiased coins. Shyam wins if he gets at least two tails. Probability that Shyam wins:</text>
+    <topic>Probability</topic>
+    <option>1/2</option>
+    <option>2/3</option>
+    <option>3/8</option>
+    <option>5/8</option>
+    <answer>1/2</answer>
+    <explanation>For three unbiased coins total outcomes \(=2^3=8\). Outcomes with at least two tails: exactly two tails (3 outcomes) and three tails (1 outcome) → \(3+1=4\) favorable. Probability \(=4/8=1/2.\)</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>For any two attributes A and B, if \( (AB) &lt; \dfrac{(A)(B)}{N}\), then attributes are:</text>
+    <topic>Association of Attributes</topic>
+    <option>Independent</option>
+    <option>Negatively associated</option>
+    <option>Positively associated</option>
+    <option>Cannot be determined</option>
+    <answer>Negatively associated</answer>
+    <explanation>For binary attributes in contingency tables, if the observed joint frequency \((AB)\) is less than the product \((A)(B)/N\) expected under independence, the attributes exhibit negative association (less co-occurrence than expected under independence).</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="Statistics">
+    <text>Which of the following is not a characteristic of Consumer’s Price Index (CPI)?</text>
+    <topic>Price Indices</topic>
+    <option>Helpful in measuring purchasing power of money</option>
+    <option>Used as a measure of inflation</option>
+    <option>Helpful in wage negotiations</option>
+    <option>An important component in Fiscal Deficit</option>
+    <answer>An important component in Fiscal Deficit</answer>
+    <explanation>CPI measures price level changes and is used to gauge inflation, purchasing power, and in wage adjustments. It is not a component of fiscal deficit (fiscal deficit relates to government revenue and expenditure), so the last option is incorrect.</explanation>
+  </question>
+
+
+<question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Select the right preposition for the blank: His infatuation ______ the girl led him astray.</text>
+    <topic>Prepositions</topic>
+    <option>for</option>
+    <option>about</option>
+    <option>by</option>
+    <option>from</option>
+    <answer>for</answer>
+    <explanation>The correct preposition is “for” because the expression is **infatuation for someone**, meaning strong attraction.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Select the right sentence:</text>
+    <topic>Direct &amp; Indirect Speech</topic>
+    <option>He said to him, “Please wait here till I return”.</option>
+    <option>He requested him to wait there till he returned.</option>
+    <option>He requested him that he will return.</option>
+    <option>He said him to wait till he returns.</option>
+    <answer>He requested him to wait there till he returned.</answer>
+    <explanation>While converting a request into indirect speech, “said to” becomes **requested**, “here” becomes **there**, and past tense is used.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Identify the sentence written in passive voice.</text>
+    <topic>Voice Change</topic>
+    <option>Much to his surprise, he was chosen as the best actor</option>
+    <option>The Director chose him as the best actor</option>
+    <option>The best actor was chosen by the director</option>
+    <option>The director chooses him as the best actor</option>
+    <answer>The best actor was chosen by the director</answer>
+    <explanation>In passive voice, the object becomes the subject and the verb uses “was + past participle”. “The best actor was chosen…” follows this form.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Choose the right modal to fill in the blank: He has promised that he ______ not harm you.</text>
+    <topic>Modals</topic>
+    <option>may</option>
+    <option>might</option>
+    <option>will</option>
+    <option>can</option>
+    <answer>will</answer>
+    <explanation>The modal “will” is used for a **strong promise** or assurance about the future.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Fill in the blanks with the correct option: He was very courageous to learn to ______ at fifty.</text>
+    <topic>Articles</topic>
+    <option>the Article</option>
+    <option>no Article</option>
+    <option>an Article</option>
+    <option>a Article</option>
+    <answer>no Article</answer>
+    <explanation>Before a **verb** (like “swim”), no article is used. The correct expression is “learn to swim”. Hence “no Article”.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Fill the blanks with the correct words: It is not right ______ nasty emails to your subordinate.</text>
+    <topic>Infinitives &amp; Gerunds</topic>
+    <option>to write</option>
+    <option>write</option>
+    <option>written</option>
+    <option>writing</option>
+    <answer>to write</answer>
+    <explanation>The correct form after “not right” is an infinitive form: **to write**.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Which alternative is given for the idiom/phrase “throw dust in one’s eyes”?</text>
+    <topic>Idioms &amp; Phrases</topic>
+    <option>A man who is always drunk</option>
+    <option>Clear one’s doubts</option>
+    <option>A person who is hot-headed</option>
+    <option>A person who avoids enjoyable activity</option>
+    <answer>Clear one’s doubts</answer>
+    <explanation>The idiom means **to mislead or deceive someone**, i.e., preventing them from seeing the truth clearly. Among the given options, “Clear one’s doubts” is the closest opposite but the exam key matches this option.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Choose the option which will correctly fill the blanks: The match is ______ June in April.</text>
+    <topic>Prepositions</topic>
+    <option>of</option>
+    <option>for</option>
+    <option>on</option>
+    <option>in</option>
+    <answer>in</answer>
+    <explanation>We say **the match is in June**, **in April**, because months take the preposition “in”.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>The question shows an incomplete paragraph starting with: “This belongs to the rhizome group of plants…” (options not fully visible in the original paper).</text>
+    <topic>Para Jumbles</topic>
+    <option>Option A</option>
+    <option>Option B</option>
+    <option>Option C</option>
+    <option>Option D</option>
+    <answer>Not determinable</answer>
+    <explanation>The full set of sentences was not visible in the original paper, so the correct sequence cannot be derived.</explanation>
+  </question>
+
+  <question category="pyq" exam="JKSSB FAA" subject="General English">
+    <text>Choose an appropriate synonym for the underlined word: “The food given in the hospital was insipid, but hygienic.”</text>
+    <topic>Synonyms</topic>
+    <option>tasty</option>
+    <option>delicious</option>
+    <option>tasteless</option>
+    <option>spicy</option>
+    <answer>tasteless</answer>
+    <explanation>“Insipid” means **without taste or flavor**, i.e., tasteless.</explanation>
+  </question>
+
 
 
 
