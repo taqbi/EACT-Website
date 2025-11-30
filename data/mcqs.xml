@@ -2545,5 +2545,501 @@ Additional amount to be debited to P/L = 5,000 - 1,000 = 4,000.</explanation>
 </question>
 
 
+  <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Succession is the order of colonization of species in an ecosystem from a barren or destroyed area. Which is the correct order?</text>
+        <topic>Ecological Succession</topic>
+        <option>Invasion -&gt; stabilization -&gt; completion and coaction -&gt; reaction -&gt; nudation</option>
+        <option>Nudation -&gt; stabilization -&gt; completion and coaction -&gt; invasion -&gt; reaction</option>
+        <option>Invasion -&gt; nudation -&gt; completion and coaction -&gt; reaction -&gt; stabilization</option>
+        <option>Nudation -&gt; invasion -&gt; completion and coaction -&gt; reaction -&gt; stabilization</option>
+        <answer>Nudation -&gt; invasion -&gt; completion and coaction -&gt; reaction -&gt; stabilization</answer>
+        <explanation>This is the correct sequence of events in ecological succession, starting from a bare area (nudation) to a stable community.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which of the following component is the most essential for a computer system to work?</text>
+        <topic>Basic Computer Hardware</topic>
+        <option>Input System</option>
+        <option>Output System</option>
+        <option>CPU</option>
+        <option>Memory Unit</option>
+        <answer>CPU</answer>
+        <explanation>The CPU is the most critical component because it executes all instructions and controls the operations of the computer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which of the following component is also known as the nerve centre of the computer?</text>
+        <topic>Computer Architecture</topic>
+        <option>Control Unit</option>
+        <option>ALU</option>
+        <option>Clock</option>
+        <option>Both CU and ALU</option>
+        <answer>Control Unit</answer>
+        <explanation>The Control Unit directs the execution of instructions and coordinates all computer operations, making it the nerve centre.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>The field of Computer Science which deals with the development of algorithms whose performance improves with experience is called?</text>
+        <topic>Artificial Intelligence</topic>
+        <option>Internet of Things</option>
+        <option>Machine Learning</option>
+        <option>Blockchain Technology</option>
+        <option>Cryptography</option>
+        <answer>Machine Learning</answer>
+        <explanation>Machine Learning enables systems to learn patterns from data and improve performance without being explicitly programmed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which storage device is mounted on reels?</text>
+        <topic>Storage Devices</topic>
+        <option>Hard Disk</option>
+        <option>Magnetic Tape</option>
+        <option>Floppy Disk</option>
+        <option>Solid State Drive</option>
+        <answer>Magnetic Tape</answer>
+        <explanation>Magnetic tapes are stored on reels and are commonly used for long-term and large-volume data backup.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>The computer programs written in Assembly Language consist of?</text>
+        <topic>Programming Languages</topic>
+        <option>Hex Code</option>
+        <option>Binary Code</option>
+        <option>ASCII Code</option>
+        <option>Mnemonics</option>
+        <answer>Mnemonics</answer>
+        <explanation>Assembly language uses short symbolic words (mnemonics) like MOV, ADD, SUB instead of binary machine code.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS-Word, you can copy and apply the format of a particular section of text to other text using the?</text>
+        <topic>MS Word</topic>
+        <option>Style Copier</option>
+        <option>Style Painter</option>
+        <option>Format Painter</option>
+        <option>Format Copier</option>
+        <answer>Format Painter</answer>
+        <explanation>Format Painter allows copying formatting such as font style, color, and size from one text portion to another.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>The storage device used to compensate for the difference in the rates of flow of data from one device to another is termed as?</text>
+        <topic>Memory &amp; Storage</topic>
+        <option>Chip</option>
+        <option>In-Memory</option>
+        <option>Buffer</option>
+        <option>Fast Memory</option>
+        <answer>Buffer</answer>
+        <explanation>A buffer temporarily holds data to manage speed differences between devices like CPU and I/O devices.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which key command is used to switch to the read mode view in MS Word?</text>
+        <topic>MS Word Shortcuts</topic>
+        <option>Ctrl + M</option>
+        <option>Ctrl + Alt + 1</option>
+        <option>Alt + W + F</option>
+        <option>Ctrl + R</option>
+        <answer>Alt + W + F</answer>
+        <explanation>Alt + W + F opens Read Mode, which is optimized for easier reading with minimal editing tools.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Excel, which keyboard shortcut is used to format a number in date format?</text>
+        <topic>MS Excel Shortcuts</topic>
+        <option>Ctrl + Shift + !</option>
+        <option>Ctrl + Shift + ^</option>
+        <option>Ctrl + Shift + #</option>
+        <option>Ctrl + Shift + $</option>
+        <answer>Ctrl + Shift + #</answer>
+        <explanation>This shortcut converts the selected numbers into the default date format in Excel.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which MS Excel function is used to join several text items into one text item?</text>
+        <topic>MS Excel Functions</topic>
+        <option>Concatenate</option>
+        <option>Join</option>
+        <option>Text</option>
+        <option>Len</option>
+        <answer>Concatenate</answer>
+        <explanation>The CONCATENATE or CONCAT function merges multiple text strings into a single text output.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which view provides slides in thumbnail form, making it easy to sort and organize the sequence of slides?</text>
+        <topic>MS PowerPoint Views</topic>
+        <option>Slide Sorter View</option>
+        <option>Normal View</option>
+        <option>Notes Page View</option>
+        <option>Slide Show View</option>
+        <answer>Slide Sorter View</answer>
+        <explanation>Slide Sorter View allows quick arrangement of slide order through thumbnail previews.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Word, the commands Watermark, Page Color, and Page Borders come under which tab?</text>
+        <topic>MS Word Interface</topic>
+        <option>Design</option>
+        <option>Layout</option>
+        <option>Insert</option>
+        <option>Draw</option>
+        <answer>Design</answer>
+        <explanation>The Design tab includes page background options such as color, borders, and watermarks.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Word, which feature inserts text or formatting that has been previously saved into a document?</text>
+        <topic>MS Word Features</topic>
+        <option>Drop Cap</option>
+        <option>Join</option>
+        <option>Format Painter</option>
+        <option>Quick Parts</option>
+        <answer>Quick Parts</answer>
+        <explanation>Quick Parts stores reusable building blocks like text snippets, headers, and fields.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Word, what is a large capital letter used as a decorative element at the beginning of a paragraph or section?</text>
+        <topic>MS Word Formatting</topic>
+        <option>Quick Parts</option>
+        <option>Signature Line</option>
+        <option>Line Drop</option>
+        <option>Drop Cap</option>
+        <answer>Drop Cap</answer>
+        <explanation>A Drop Cap enhances the appearance of a paragraph by enlarging the first letter.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which MS Excel function is used to repeat text a given number of times?</text>
+        <topic>MS Excel Functions</topic>
+        <option>REPT</option>
+        <option>REPEAT</option>
+        <option>TextREPEAT</option>
+        <option>REPEATTEXT</option>
+        <answer>REPT</answer>
+        <explanation>The REPT function repeats a text string a specified number of times, useful in formatting and data visualization.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>In Windows, a small pop-up window that appears to display alerts is called?</text>
+        <topic>Windows Operating System</topic>
+        <option>Check box</option>
+        <option>Combo box</option>
+        <option>Dialog box</option>
+        <option>None of the above</option>
+        <answer>Dialog box</answer>
+        <explanation>A dialog box is a small pop-up window used to display messages, alerts, warnings, or request user input in Windows.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>A digitizer is an input device which is used to?</text>
+        <topic>Input Devices</topic>
+        <option>To convert graphic and pictorial data into binary inputs</option>
+        <option>To convert graphic and pictorial data into analog inputs</option>
+        <option>To convert analog signal into digital signals</option>
+        <option>To convert analog signal into digital signals</option>
+        <answer>To convert graphic and pictorial data into binary inputs</answer>
+        <explanation>A digitizer converts drawings, images, or maps into digital (binary) data that a computer can process.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>The field of Computer Science which deals with decentralised systems secured by cryptographic algorithms is called?</text>
+        <topic>Emerging Technologies</topic>
+        <option>Internet of Things</option>
+        <option>Machine Learning</option>
+        <option>Blockchain Technology</option>
+        <option>Cryptography</option>
+        <answer>Blockchain Technology</answer>
+        <explanation>Blockchain is a decentralized system where data is stored in blocks and secured using cryptographic hashing.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>In computer architecture, which of the following is the system bus?</text>
+        <topic>Computer Architecture</topic>
+        <option>Bus connecting Keyboard and Motherboard</option>
+        <option>Bus connecting CPU and Memory</option>
+        <option>Bus connecting Memory and Monitor</option>
+        <option>Bus connecting Hard Disk and Monitor</option>
+        <answer>Bus connecting CPU and Memory</answer>
+        <explanation>The system bus connects the CPU with the main memory and transfers data, control signals, and addresses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>Which of the following is another name for an error or bug in software or hardware?</text>
+        <topic>Computer Terminology</topic>
+        <option>Leech</option>
+        <option>Squid</option>
+        <option>Slug</option>
+        <option>Glitch</option>
+        <answer>Glitch</answer>
+        <explanation>A glitch refers to a small temporary malfunction or error in software, hardware, or electronic systems.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>In MS Word, you can copy and apply the format of a particular section of text to other text using the?</text>
+        <topic>MS Word</topic>
+        <option>Style Copier</option>
+        <option>Style Painter</option>
+        <option>Format Painter</option>
+        <option>Format Copier</option>
+        <answer>Format Painter</answer>
+        <explanation>Format Painter allows you to duplicate text formatting such as font, size, and style to another area quickly.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>Which of the following defines a Directory?</text>
+        <topic>File Management</topic>
+        <option>A catalogue for files stored on the hard disk of a computer</option>
+        <option>A package of instruction that causes the computer to do something</option>
+        <option>Storage of all files which are deleted</option>
+        <option>A disk used to store bulk data</option>
+        <answer>A catalogue for files stored on the hard disk of a computer</answer>
+        <explanation>A directory (folder) organizes and stores files, allowing easy navigation and management of data.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>Which key is used to view the slide show in PowerPoint?</text>
+        <topic>MS PowerPoint</topic>
+        <option>F3</option>
+        <option>F4</option>
+        <option>F5</option>
+        <option>F6</option>
+        <answer>F5</answer>
+        <explanation>Pressing F5 starts the PowerPoint slideshow from the first slide.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>In MS Excel, which keyboard shortcut is used to format a number in scientific format?</text>
+        <topic>MS Excel Shortcuts</topic>
+        <option>Ctrl + Shift + !</option>
+        <option>Ctrl + Shift + ^</option>
+        <option>Ctrl + Shift + #</option>
+        <option>Ctrl + Shift + $</option>
+        <answer>Ctrl + Shift + ^</answer>
+        <explanation>This shortcut applies scientific notation formatting to numbers in Excel.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Computer Awareness">
+        <text>Which MS Excel function is used to join several text items into one text item?</text>
+        <topic>MS Excel Functions</topic>
+        <option>Concatenate</option>
+        <option>Join</option>
+        <option>Text</option>
+        <option>Len</option>
+        <answer>Concatenate</answer>
+        <explanation>CONCATENATE or CONCAT merges multiple text strings into one combined string.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In Microsoft Word, Shortcut Ctrl + H is used?</text>
+        <topic>MS Word Shortcuts</topic>
+        <option>To activate the Insert Hyperlink tab by opening the Insert dialog box.</option>
+        <option>To activate the Find and Replace dialogue box to display Access tab</option>
+        <option>To insert a Hyperlink into the document.</option>
+        <option>Opens the find and replace tool that lets you search for a character, word or phrase and replace it with something else</option>
+        <answer>Opens the find and replace tool that lets you search for a character, word or phrase and replace it with something else</answer>
+        <explanation>Shortcut Ctrl + H opens the Find and Replace tool with the Replace tab active, allowing users to search and replace words or characters efficiently.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which of the following can be looked at using the Find tab?</text>
+        <topic>MS Word Features</topic>
+        <option>format</option>
+        <option>characters</option>
+        <option>symbols</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>The Find tab can locate characters, symbols, formatting, words, or phrases throughout a document.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which of these toolbars allows you to alter the fonts’ sizes?</text>
+        <topic>MS Word Interface</topic>
+        <option>Standard</option>
+        <option>Formatting</option>
+        <option>Options</option>
+        <option>All of the Above</option>
+        <answer>Formatting</answer>
+        <explanation>The Formatting toolbar contains font controls such as font type, size, color, and style adjustments.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In context of MS Excel, a Macro is a</text>
+        <topic>MS Excel Macros</topic>
+        <option>little add-on programs can be installed later.</option>
+        <option>High-level programming language type</option>
+        <option>Small program made in MS Word using VBA to automate tedious activities</option>
+        <option>Low-level programming language type</option>
+        <answer>Small program made in MS Word using VBA to automate tedious activities</answer>
+        <explanation>A macro is a small program created using VBA to automate repetitive tasks in MS Excel or MS Word.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In which of the following applications would you find MS PowerPoint useful?</text>
+        <topic>MS PowerPoint Applications</topic>
+        <option>e-learning</option>
+        <option>Marketing Presentations</option>
+        <option>Client Meetings in Corporations</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>PowerPoint is widely used for teaching, business presentations, corporate meetings, and training sessions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>If you require to insert multiple columns in your Word document you would need to go to the ______ tab.</text>
+        <topic>MS Word Layout</topic>
+        <option>Home</option>
+        <option>Insert</option>
+        <option>Layout</option>
+        <option>Design</option>
+        <answer>Layout</answer>
+        <explanation>The Layout tab contains options for columns, margins, orientation, spacing, and page setup.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>Which of the following is/are word processing software?</text>
+        <topic>Word Processing Software</topic>
+        <option>WordPerfect</option>
+        <option>WordPad</option>
+        <option>MS Word</option>
+        <option>All of the Above</option>
+        <answer>All of the Above</answer>
+        <explanation>All listed options—WordPerfect, WordPad, and MS Word—are word processing applications.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Word, which shortcut is used to set a single space between the lines in a document?</text>
+        <topic>MS Word Shortcuts</topic>
+        <option>Ctrl + 1</option>
+        <option>Ctrl + Alt + 1</option>
+        <option>Shift + 1</option>
+        <option>Alt + 1</option>
+        <answer>Ctrl + 1</answer>
+        <explanation>Ctrl + 1 sets single line spacing, Ctrl + 2 sets double spacing, and Ctrl + 5 sets 1.5 spacing.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Excel, which keyboard shortcut is used to format a number in time format?</text>
+        <topic>MS Excel Shortcuts</topic>
+        <option>Ctrl + Shift + !</option>
+        <option>Ctrl + Shift + @</option>
+        <option>Ctrl + Shift + #</option>
+        <option>Ctrl + Shift + $</option>
+        <answer>Ctrl + Shift + @</answer>
+        <explanation>This shortcut applies the default time format (hh:mm) to the selected cells.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+        <text>In MS Excel, which function is used to remove all non-printable characters from the text?</text>
+        <topic>MS Excel Functions</topic>
+        <option>Remove</option>
+        <option>Erase</option>
+        <option>Clean</option>
+        <option>Substitute</option>
+        <answer>Clean</answer>
+        <explanation>The CLEAN function removes non-printable characters, often useful when fixing imported or corrupted text.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Which of the following renewable natural energy resources is exhaustible?</text>
+        <topic>Natural Resources</topic>
+        <option>Coal</option>
+        <option>Wind</option>
+        <option>Kerosene</option>
+        <option>Forest</option>
+        <answer>Forest</answer>
+        <explanation>Forests are renewable but exhaustible because they can regenerate naturally, yet can be depleted through deforestation and overuse.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>An orchid that lives on a tree benefits by obtaining food and water from the tree, while the tree is not affected. This type of association is known as:</text>
+        <topic>Ecological Relationships</topic>
+        <option>Predator</option>
+        <option>Mutualism</option>
+        <option>Commensalism</option>
+        <option>Parasitism</option>
+        <answer>Commensalism</answer>
+        <explanation>Commensalism is a relationship where one organism benefits while the other is neither harmed nor benefited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Which of the following is/are the effects of Deforestation?</text>
+        <topic>Deforestation</topic>
+        <option>A. 1 and 2 only</option>
+        <option>B. 2 and 3 only</option>
+        <option>C. 1 and 3 only</option>
+        <option>D. 1, 2 and 3</option>
+        <answer>D. 1, 2 and 3</answer>
+        <explanation>Deforestation reduces rainfall, increases greenhouse gas emissions, and causes biodiversity loss.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Periyar Wildlife Sanctuary is situated in:</text>
+        <topic>Wildlife Sanctuaries</topic>
+        <option>Karnataka</option>
+        <option>Kerala</option>
+        <option>Tamil Nadu</option>
+        <option>Andhra Pradesh</option>
+        <answer>Kerala</answer>
+        <explanation>Periyar Wildlife Sanctuary, famous for elephants and tigers, is located in Thekkady, Kerala.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Biotic component of the environment does not include?</text>
+        <topic>Environment Components</topic>
+        <option>Plant system</option>
+        <option>Soil system</option>
+        <option>Animal system</option>
+        <option>Micro-organism system</option>
+        <answer>Soil system</answer>
+        <explanation>Biotic components include all living organisms; soil is an abiotic component.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>The term 'ecosystem' was enunciated by:</text>
+        <topic>Ecology Basics</topic>
+        <option>E.P. Odum</option>
+        <option>A.G. Tansley</option>
+        <option>G. Mendal</option>
+        <option>C.C. Park</option>
+        <answer>A.G. Tansley</answer>
+        <explanation>A.G. Tansley introduced the concept of the ecosystem in 1935, defining it as a system of interacting organisms and their physical environment.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Detritus food chain starts from:</text>
+        <topic>Food Chains</topic>
+        <option>Green plants</option>
+        <option>Grass</option>
+        <option>Dead organic matter</option>
+        <option>Phytoplankton</option>
+        <answer>Dead organic matter</answer>
+        <explanation>The detritus food chain begins with dead and decaying organic matter, which is consumed by decomposers.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>A seral community is an intermediate stage of ecological succession. Succession in a dry habitat is called:</text>
+        <topic>Succession Types</topic>
+        <option>Hydrosere</option>
+        <option>Xerosere</option>
+        <option>Lithosere</option>
+        <option>Halosere</option>
+        <answer>Xerosere</answer>
+        <explanation>Xerosere refers to ecological succession that begins in extremely dry or arid conditions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
+        <text>Ocean acidification is sometimes called "climate change’s equally evil twin". It is primarily caused by which gas?</text>
+        <topic>Climate Change</topic>
+        <option>Sulfur Dioxide</option>
+        <option>Carbon Dioxide</option>
+        <option>Nitric Oxide</option>
+        <option>Ozone</option>
+        <answer>Carbon Dioxide</answer>
+        <explanation>CO2 dissolves in ocean water forming carbonic acid, which lowers pH and leads to ocean acidification.</explanation>
+    </question>
+
+
 
 </quizzes>
