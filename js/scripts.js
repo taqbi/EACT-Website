@@ -628,6 +628,32 @@ document.addEventListener('DOMContentLoaded', function () {
                 </div>
             `;
             quizContainer.appendChild(questionEl);
+
+            // If the question was already attempted in a previous session, show the solution button and correct answer
+            if (isAttempted) {
+                const optionsDiv = questionEl.querySelector('.options');
+                const solutionWrapper = questionEl.querySelector('.solution-wrapper');
+
+                // Highlight the correct answer
+                Array.from(optionsDiv.children).forEach(btn => {
+                    if (btn.textContent === q.answer) {
+                        btn.classList.add('correct');
+                    }
+                });
+
+                // Create and append the "View Solution" button
+                const solutionButton = document.createElement('button');
+                solutionButton.textContent = 'View Solution';
+                solutionButton.className = 'solution-toggle-btn';
+                solutionButton.onclick = (e) => {
+                    solutionWrapper.style.display = solutionWrapper.style.display === 'block' ? 'none' : 'block';
+                    if (solutionWrapper.style.display === 'block') {
+                        MathJax.typesetPromise([solutionWrapper]);
+                    }
+                    e.target.textContent = solutionWrapper.style.display === 'block' ? 'Hide Solution' : 'View Solution';
+                };
+                optionsDiv.insertAdjacentElement('afterend', solutionButton);
+            }
         });
 
         // Update active button style
