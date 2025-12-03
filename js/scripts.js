@@ -805,4 +805,33 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
     }
+
+    // --- Horizontal Scroller with Arrows Logic ---
+    function setupScroller(sectionSelector, gridSelector, scrollDistance = 300) {
+        const section = document.querySelector(sectionSelector);
+        if (!section) return;
+
+        const grid = section.querySelector(gridSelector);
+        if (!grid) return;
+
+        // We can't select ::before and ::after with JS.
+        // Instead, we listen for clicks on the parent section and check the position.
+        section.addEventListener('click', function(e) {
+            const rect = section.getBoundingClientRect();
+            const clickX = e.clientX - rect.left;
+
+            // Check if the click was in the area of the left arrow (first 50px)
+            if (clickX < 50) {
+                grid.scrollBy({ left: -scrollDistance, behavior: 'smooth' });
+            }
+
+            // Check if the click was in the area of the right arrow (last 50px)
+            if (clickX > rect.width - 50) {
+                grid.scrollBy({ left: scrollDistance, behavior: 'smooth' });
+            }
+        });
+    }
+    setupScroller('.popular-video-section', '.video-grid');
+    setupScroller('.popular-playlist-section', '.playlist-grid');
+    setupScroller('.testimonial-section', '.testimonial-grid');
 }); // This closes the 'DOMContentLoaded' event listener.

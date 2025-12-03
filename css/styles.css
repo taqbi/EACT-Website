@@ -5,7 +5,7 @@ body, html {
     box-sizing: border-box;
     overflow-x: hidden;  /* Prevents horizontal scroll due to overflow */
     font-family: 'Arial', sans-serif;
-    background-color: #ffffff;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e9ecf2 100%);
     display: flex;
     flex-direction: column;
     min-height: 100vh; /* Ensures body takes at least full viewport height */
@@ -435,6 +435,35 @@ body, html {
     width: fit-content; /* makes border hug the text again if needed */
 }
 
+/* Specific styling for Popular Videos and Playlists titles */
+.popular-video-section h2 {
+    background-color: #e0f7fa; /* Light Cyan */
+    color: #00796b; /* Darker Cyan for text */
+    padding: 5px 15px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-bottom: none; /* Remove the underline effect */
+}
+
+.popular-playlist-section h2 {
+    background-color: #e8f5e9; /* Light Green */
+    color: #388e3c; /* Darker Green for text */
+    padding: 5px 15px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-bottom: none; /* Remove the underline effect */
+}
+
+.testimonial-section h2 {
+    background-color: #f3e5f5; /* Light Lavender */
+    color: #8e24aa; /* Darker Purple for text */
+    padding: 8px 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-bottom: none; /* Remove the underline effect */
+}
+
+
 
 .job-card .job-icon {
     font-size: 5px; /* Adjust size for the icon */
@@ -493,6 +522,30 @@ body, html {
 .popular-video-section {
     width: 100%;
     overflow: hidden; /* Hides scrollbar from the container */
+    position: relative;
+}
+
+/* Navigation Arrows for scrolling sections */
+.popular-video-section::before, .popular-video-section::after,
+.popular-playlist-section::before, .popular-playlist-section::after,
+.testimonial-section .testimonial-grid::before, .testimonial-section .testimonial-grid::after {
+    content: '‹';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.3s ease;
 }
 
 .video-grid {
@@ -504,6 +557,25 @@ body, html {
     box-sizing: border-box;
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+    scroll-behavior: smooth; /* Smooth scrolling for arrows */
+}
+
+
+/* Show arrows on hover for devices that support it */
+@media (hover: hover) {
+    .popular-video-section:hover::before, .popular-video-section:hover::after,
+    .popular-playlist-section:hover::before, .popular-playlist-section:hover::after,
+    .testimonial-section:hover .testimonial-grid::before, .testimonial-section:hover .testimonial-grid::after {
+        opacity: 1;
+    }
+}
+
+.popular-video-section::before, .popular-playlist-section::before, .testimonial-section .testimonial-grid::before {
+    left: 10px;
+}
+.popular-video-section::after, .popular-playlist-section::after, .testimonial-section .testimonial-grid::after {
+    right: 10px;
+    content: '›';
 }
 
 .video-grid::-webkit-scrollbar {
@@ -512,19 +584,19 @@ body, html {
 
 .video-item {
     position: relative;
-    overflow: hidden;
-    background-color: #ffffff;
+    overflow: hidden; background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
     border-radius: 10px;
     padding: 10px;
-    border: 1px solid #1f2a44;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    flex: 0 0 320px; /* Flex-shrink, flex-grow, flex-basis. Prevents shrinking and sets a fixed width */
+    border: 1px solid rgba(223, 227, 235, 0.5);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    flex: 0 0 280px; /* Flex-shrink, flex-grow, flex-basis. Prevents shrinking and sets a fixed width */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .video-item:hover{
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .video-section h2, .playlist-section h2 {
@@ -540,6 +612,7 @@ body, html {
 .popular-playlist-section {
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 .playlist-grid {
@@ -551,7 +624,9 @@ body, html {
     box-sizing: border-box;
     -ms-overflow-style: none;
     scrollbar-width: none;
+    scroll-behavior: smooth;
 }
+
 
 .playlist-grid::-webkit-scrollbar {
     display: none;
@@ -559,19 +634,19 @@ body, html {
 
 .playlist-item {
     position: relative;
-    overflow: hidden;
-    background-color: #ffffff;
+    overflow: hidden; background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
     border-radius: 10px;
     padding: 10px;
-    border: 1px solid #1f2a44;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    flex: 0 0 320px;
+    border: 1px solid rgba(223, 227, 235, 0.5);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    flex: 0 0 280px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .playlist-item:hover{
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .video-item iframe, .playlist-item iframe {
@@ -581,12 +656,22 @@ body, html {
     aspect-ratio: 16/9; /* Maintain 16:9 aspect ratio */
 }
 
-.video-item h4 {
+.video-item h4, .playlist-item h4 {
     text-align: center;
     margin-top: 10px;
     font-size: 14px;
     word-wrap: break-word;
     color: #1f2a44;
+    /* Glassmorphism/Pastel background for titles */
+    background-color: #e0f7fa; /* Light Cyan background */
+    padding: 6px 12px;
+    border-radius: 12px;
+    display: inline-block; /* Ensures background fits content */
+    width: auto;
+    max-width: 95%; /* Prevents overflow on smaller cards */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    border: 1px solid rgba(223, 227, 235, 0.5);
+    /* backdrop-filter: blur(2px); */ /* Removing for solid color feel */
 }
 
 fieldset.video-item, fieldset.playlist-item {
@@ -605,6 +690,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 /* Testimonial Section */
 .testimonial-section {
     /* padding: 20px 0; */ /* Replaced with margin-top */
+    position: relative;
 }
 
 .testimonial-grid h2 { 
@@ -622,7 +708,9 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     box-sizing: border-box;
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+    scroll-behavior: smooth;
 }
+
 
 .testimonial-grid::-webkit-scrollbar {
     display: none; /* Hide scrollbar for Chrome, Safari and Opera */
@@ -630,12 +718,15 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .testimonial-item {
     background-color: #fff;
-    padding: 15px;
-    flex: 0 0 320px; /* Fixed width for horizontal scrolling */
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    flex: 0 0 280px; /* Fixed width for horizontal scrolling */
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     text-align: center;
-    border: 1px solid #1f2a44;
+    border: 1px solid rgba(223, 227, 235, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .testimonial-item img {
@@ -655,7 +746,8 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     padding: 20px;
     border: 2px solid #1f2a44;
     border-radius: 10px;
-    max-width: 600px;
+    max-width: 600px; /* It won't get wider than 600px */
+    width: 70%; /* It will take 90% of the screen width on smaller screens */
     background-color: #f9f9ff;
 }
 
