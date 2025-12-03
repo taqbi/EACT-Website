@@ -5,6 +5,20 @@ document.addEventListener('DOMContentLoaded', function () {
     const updateList = document.getElementById("update-list");
     if (updateList) {
     // Check for data-show-all attribute
+    // Load popular videos
+    const popularVideosGrid = document.getElementById("popular-videos-grid");
+    if (popularVideosGrid) {
+        loadPopularVideos();
+    }
+    
+    // Load popular playlists
+    const popularPlaylistsGrid = document.getElementById("popular-playlists-grid");
+    if (popularPlaylistsGrid) {
+        loadPopularPlaylists();
+    }
+    
+     
+
     const showAll = updateList.getAttribute("data-show-all") === "true";
     loadUpdates(showAll);
   }
@@ -47,6 +61,66 @@ document.addEventListener('DOMContentLoaded', function () {
         xhr.send();
     }
     
+    function loadPopularVideos() {
+        fetch('data/videos.xml')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(data, 'application/xml');
+                const videos = xml.getElementsByTagName('video');
+                const videoGrid = document.getElementById('popular-videos-grid');
+
+                if (!videoGrid) return;
+
+                for (let i = 0; i < videos.length; i++) {
+                    const title = videos[i].getElementsByTagName('title')[0].textContent;
+                    const url = videos[i].getElementsByTagName('url')[0].textContent;
+
+                    const videoItem = document.createElement('fieldset');
+                    videoItem.className = 'video-item';
+
+                    videoItem.innerHTML = `
+                        <legend>${title}</legend>
+                        <iframe src="${url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    `;
+
+                    videoGrid.appendChild(videoItem);
+                }
+            })
+            .catch(error => console.error('Error fetching popular videos:', error));
+    }
+
+    function loadPopularPlaylists() {
+        fetch('data/playlists.xml')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(data, 'application/xml');
+                const playlists = xml.getElementsByTagName('playlist');
+                const playlistGrid = document.getElementById('popular-playlists-grid');
+
+                if (!playlistGrid) return;
+
+                for (let i = 0; i < playlists.length; i++) {
+                    const title = playlists[i].getElementsByTagName('title')[0].textContent;
+                    const url = playlists[i].getElementsByTagName('url')[0].textContent;
+
+                    const playlistItem = document.createElement('fieldset');
+                    playlistItem.className = 'playlist-item';
+
+                    playlistItem.innerHTML = `
+                        <legend>${title}</legend>
+                        <iframe src="${url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    `;
+
+                    playlistGrid.appendChild(playlistItem);
+                }
+            })
+            .catch(error => console.error('Error fetching popular playlists:', error));
+    }
+
+
+
 
     function fetchXMLContent(xmlFile, sectionId, gridId) {
         fetch(xmlFile)

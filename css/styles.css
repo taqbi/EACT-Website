@@ -279,11 +279,6 @@ body, html {
   
 
 .content-section
-{
-    padding: 0px;
-    background-color: #ffffff;
-    margin-top: 100px;
-} 
 .content-section h2 {
     align-content: center;
     margin-bottom: 10px;
@@ -294,6 +289,15 @@ body, html {
     padding: 10px;  /* Optional: To make the content look better with rounded corners */
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
+}
+
+/* Add consistent vertical spacing between sections */
+.content-section,
+.popular-video-section,
+.popular-playlist-section,
+.testimonial-section,
+.guidance-form-section {
+    margin-top: 40px;
 }
 
 
@@ -417,6 +421,7 @@ body, html {
 .content-section h2,
 .job-section h2,
 .popular-video-section h2,
+.popular-playlist-section h2,
 .content-section .testimonial-section h2 {
     
     font-family: 'Poppins', sans-serif;
@@ -485,14 +490,24 @@ body, html {
 
 
 
-/* Video Grid Section */
+.popular-video-section {
+    width: 100%;
+    overflow: hidden; /* Hides scrollbar from the container */
+}
+
 .video-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
-        gap: 20px;
-        padding: 1%;
-        width: 100%; /* Make it take the full container width */
-        box-sizing: border-box;
+    display: flex;
+    overflow-x: auto; /* Enables horizontal scrolling */
+    gap: 20px;
+    padding: 1% 2%; /* Add some padding on the sides */
+    width: 100%;
+    box-sizing: border-box;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.video-grid::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari and Opera */
 }
 
 .video-item {
@@ -501,16 +516,18 @@ body, html {
     background-color: #ffffff;
     border-radius: 10px;
     padding: 10px;
-    box-sizing: border-box;
-    width: 100%; 
     border: 1px solid #1f2a44;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    flex: 0 0 320px; /* Flex-shrink, flex-grow, flex-basis. Prevents shrinking and sets a fixed width */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .video-item:hover{
-    border-bottom: 5px solid #1f2a44;
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
-.video-section h2 {
+
+.video-section h2, .playlist-section h2 {
   background-color: #f5f5f5;
   color: #1f2a44;
   padding: 10px 20px;
@@ -520,7 +537,44 @@ body, html {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.video-item iframe {
+.popular-playlist-section {
+    width: 100%;
+    overflow: hidden;
+}
+
+.playlist-grid {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 1% 2%;
+    width: 100%;
+    box-sizing: border-box;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.playlist-grid::-webkit-scrollbar {
+    display: none;
+}
+
+.playlist-item {
+    position: relative;
+    overflow: hidden;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #1f2a44;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    flex: 0 0 320px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.playlist-item:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.video-item iframe, .playlist-item iframe {
     width: 100%; /* Makes iframe responsive */
     height: auto;
     max-width: 560px; /* Limits max size */
@@ -532,25 +586,25 @@ body, html {
     margin-top: 10px;
     font-size: 14px;
     word-wrap: break-word;
+    color: #1f2a44;
 }
 
-fieldset.video-item {
+fieldset.video-item, fieldset.playlist-item {
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 
-fieldset.video-item legend {
+fieldset.video-item legend, fieldset.playlist-item legend {
     font-weight: bold;
     padding: 0 10px;
     color: #333;
 }
 
-
 /* Testimonial Section */
 .testimonial-section {
-    padding: 20px 0;
+    /* padding: 20px 0; */ /* Replaced with margin-top */
 }
 
 .testimonial-grid h2 { 
@@ -560,18 +614,24 @@ fieldset.video-item legend {
 }
 
 .testimonial-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    display: flex;
+    overflow-x: auto;
     gap: 20px;
-    padding: 1%;
-    width: 100%; /* Make it take the full container width */
+    padding: 1% 2%;
+    width: 100%;
     box-sizing: border-box;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
 
+.testimonial-grid::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari and Opera */
+}
 
 .testimonial-item {
     background-color: #fff;
     padding: 15px;
+    flex: 0 0 320px; /* Fixed width for horizontal scrolling */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -591,7 +651,7 @@ fieldset.video-item legend {
 }
 
 .guidance-form-section {
-    margin: 30px auto;
+    margin: 40px auto 0 auto; /* Keep auto for horizontal centering, add top margin */
     padding: 20px;
     border: 2px solid #1f2a44;
     border-radius: 10px;
