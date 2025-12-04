@@ -221,7 +221,7 @@
 
 
 
-<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R" marks="20">
+<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R" marks="30">
   <video id="v201" title="Physical &amp; Political Divisions of World | One Shot | By Tawqeer Sir" youtubeId="qpISxkoOloo" duration="48:13" position="1">
     <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url=""/>
   </video>
@@ -307,7 +307,7 @@
 
 
 
-<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R" marks="30">
+<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R" marks="10">
   <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
     <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
   </video>
@@ -833,10 +833,11 @@
 
 <course id="c002" title="JKSSB Junior Assistant 2026">
     <description>Free JKSSB Junior Assistant Course</description>
-    <playlists>
+
+<playlists>
       
 
-<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R">
+<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R" marks="20">
   
 
   <video id="v203" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="3">
@@ -915,7 +916,11 @@
 
 
 
-<playlist id="pl105" title="Computer Awareness for JKSSB Junior Assistant 2026 By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R">
+
+
+
+
+<playlist id="pl105" title="Computer Awareness for JKSSB Junior Assistant 2026 By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R" marks="20">
   <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
     <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
   </video>
@@ -1111,10 +1116,162 @@
 
 
 
-    </playlists>
 
 
 
-  </course>
+
+
+<playlist id="pl110" title="Numerical and Reasoning Ability" youtubePlaylistId="PLfM9ONl2Lh0Jjs17opYP9RCHUTC8JDKOL" marks="20">
+  <video id="v801" title="Letter Series | Logical reasoning | Lecture 1 | JKPSI JKSSB Exams by Daanish Sir" youtubeId="W6LakFPfd_Y" duration="39:26" position="1">
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1vDGv6Ut0xCAldbQQxF0GN1rNCklMk_14/view?usp=drive_link"/>
+  </video>
+  <video id="v802" title="Lec 01 || Number series | Reasoning for Competitive Exams || Reasoning lectures by Malik Sameer Sir" youtubeId="Z_Fv0psxEe0" duration="39:14" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v803" title="Lec 02 || Number series | final lecture | Reasoning for Competitive Exams || Malik Sameer Sir" youtubeId="P1A7-fcjs2Y" duration="1:09:09" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v804" title="Blood Relation, One shot || Reasoning || Blood relation full chapter in one video by Malik Sameer" youtubeId="N_mI5eAA9m0" duration="1:09:36" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v805" title="Direction Sense Test, One shot || Direction sense full chapter in single video by Malik sameer sir" youtubeId="13pucu1vIxY" duration="1:14:25" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v806" title="Coding Decoding - Master concept, Part 1/n| Tips/Tricks of Coding Decoding | Reasoning by Sameer Sir" youtubeId="NBkbXOXFHrE" duration="1:11:18" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v807" title="Coding Decoding - Magic Tricks | Part 2/2, Last Part| Reasoning For Competitive Exams by Sameer Sir" youtubeId="7wqGua70Etg" duration="37:32" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v808" title="Percentage | Practice Questions | Quantitative Aptitude for VLW &amp; other competitive exams~ Ashiq sir" youtubeId="DZ75vd6Y47M" duration="25:38" position="8">
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1slObrnpzZjxjf1LU768hv6H_uY14gNj4/view?usp=drive_link"/>
+  </video>
+  <video id="v809" title="Symbolic/Mathematical Operations ||Part-01 || Reasoning for JKSSB VLW &amp; other competitive exams" youtubeId="upty-cx91CE" duration="1:01:33" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v810" title="Symbolic/Mathematical Operations ||Part 2 (Last) | Reasoning for JKSSB VLW &amp; other competitive exams" youtubeId="kUuWGiQLaxo" duration="38:11" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v811" title="Percentage | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="3gn3AhIr378" duration="43:42" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v812" title="Percentage | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="8cUlJsPG1zM" duration="1:12:39" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v813" title="Ratio &amp; Proportion | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="DRY73nckB2M" duration="40:55" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v814" title="Ratio &amp; Proportion | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="XZiEx2nFb-k" duration="54:46" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v815" title="Ratio &amp; Proportion | Lecture 3 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="yukCaWTJG-Y" duration="42:52" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v816" title="Ratio &amp; Proportion | Lecture 4 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="E4iqcNVHN9k" duration="51:01" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v817" title="Profit &amp; Loss | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="2RsvA2INbRA" duration="1:03:01" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v818" title="Profit &amp; Loss | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="ysSg6YGnLYo" duration="1:18:30" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v819" title="Time and work | Lec 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="zhTcIDTbcCc" duration="40:58" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v820" title="Time and work | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="D7uKMNvJBuI" duration="54:26" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v821" title="Time and work | Lecture 3 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="5wJ7W-RbtKY" duration="50:34" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v822" title="Time and work | Lecture 4 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="8dU3y9g_DWg" duration="28:37" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v823" title="Number System | Lec 1 | Real Numbers, Integers, Rational | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="X9p01_AG6qg" duration="33:56" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v824" title="Number System | Lec 2 | Important MCQ's | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="WbSmFWWu2Ko" duration="29:08" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v825" title="Number System | Lec 3 | Divisibility Rules &amp; Tricks | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="e7NMic2IaAc" duration="38:43" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v826" title="Number System | Lec 4 | Divisibility Rules &amp; Tricks | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="Zh51rFlesZ4" duration="41:07" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v827" title="Number System | Lec 5 | Remainder Theorem | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="r3Raq-2Y2qQ" duration="34:00" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v828" title="Number System | Lec 6 | Negative Remainder Concept &amp; MCQ's |Maths |JKSSB Forester &amp; Supervisor Exams" youtubeId="q5FvzFdjtS0" duration="35:02" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v829" title="Number System | Lec 7 | Unit Digit Concept |Maths | JKSSB Forester &amp; Supervisor Exams | By Tariq Sir" youtubeId="pAK4TvGSnTM" duration="1:02:02" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v830" title="Number System | Lec 8 | Unit Digit Concept &amp; MCQ's |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="5pzTqZVTMQQ" duration="28:55" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v831" title="Number System | Lec 9 | Simplification -01 |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="8dfGjB8T_LE" duration="1:02:16" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v832" title="Number System | Lec 10 | Simplification -02 &amp; MCQ's |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="EzDUK91EPAM" duration="58:04" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v833" title="Number System | Lecture 11 | Ladder Fraction , Mixed Fraction &amp; Calculation | Maths for JKSSB Exams" youtubeId="87UOh3HMj_k" duration="57:41" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v834" title="Number System | Lecture 12 | Digital Sum Concept | Maths for JKSSB Exams | By Tariq Sir" youtubeId="cXGOjqtxVxI" duration="51:41" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v835" title="Time, Speed &amp; Distance | Lecture 1 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="SXRJJPZsLGk" duration="1:04:28" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v836" title="Time, Speed &amp; Distance | Lecture 2 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="WCx8rkcuajM" duration="1:02:09" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v837" title="Time, Speed &amp; Distance | Lecture 3 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="o_Cd8ZKsdEA" duration="38:39" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v838" title="Time, Speed &amp; Distance | Lecture 4 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="M98SaQLOlWI" duration="45:26" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v839" title="Time, Speed &amp; Distance | Lecture 5 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="5FV3HoU4rOY" duration="50:29" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v840" title="Time, Speed &amp; Distance | Lecture 6 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="ESVzPO5mElw" duration="37:53" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v841" title="Average | Lecture 01 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="0o9z9xtvPZA" duration="40:57" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v842" title="Average | Lecture 02 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="EtSE07cE6dw" duration="37:39" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v843" title="Average | Lecture 03 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="DWATQfvCCl8" duration="43:54" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v844" title="Average | Lecture 04 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="meaicm_to84" duration="40:48" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v845" title="Average | Lecture 05 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="eLzLzUobwRc" duration="47:50" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+
+
+</playlists>
+</course>
+
+
+
 
 </courses>
