@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courses>
+  <course id="c001" title="JKSSB FAA">
+    <description>JKSSB Finance Accounts Assistant Free Course</description>
+    <playlists>
+      
+      
+     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V">
+  <video id="v101" title="ACCOUNTANCY BOOK FOR FINANCE ACCOUNTS ASSISTANT EXAM || BOOK RELEASE || JKSSB || CA MOHAMAD LATEEF" youtubeId="QimLDYRZU9c" duration="43:24" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v102" title="Clarification on Lecture 1 of Accountancy for Finance Accounts Assistant Exam of JKSSB" youtubeId="E7wBT6-PZzw" duration="2:21" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v103" title="Introduction to Financial Accounting | Lecture 1 | JKSSB Accounts Assistant Exam |CA MOHAMAD LATEEF" youtubeId="MUCN4VQqXDY" duration="1:08:37" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v104" title="Basic Accounting Terms | Lecture 2 | JKSSB Finance Accounts Assistant Exam by CA MOHAMAD LATEEF" youtubeId="4rWUnjlyi60" duration="47:28" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v105" title="Accounting Concepts | Lecture 3 | JKSSB Finance Accounts Assistant Exam | CA MOHAMAD LATEEF" youtubeId="ABJPWRhDntg" duration="1:02:46" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v106" title="ACCOUNTING CONCEPTS - THEORY &amp; MCQ'S | JKSSB FAA EXAM | ACCOUNTANCY | CA MOHAMAD LATEEF" youtubeId="HSsNvvPl4r4" duration="1:41:17" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v107" title="Accounting Equation | Lecture 4 | JKSSB Finance Accounts Assistant Exam | CA MOHAMAD LATEEF" youtubeId="uA04m_8qcFE" duration="32:55" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v108" title="Journal Entries Accounting (Introduction) | Lecture 5 | Part 1 | JKSSB Accounts Assistant Exam" youtubeId="ZoaZWG8VPFA" duration="33:35" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v109" title="Journal Entries (Concept of Debit &amp; Credit) | Lecture 5 | Part 2 | JKSSB Accounts Assistant Exam" youtubeId="y0dGf9mRb_o" duration="1:15:36" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v110" title="How to do Journal Entry | LECTURE 5 | PART 3 | ACCOUNTS ASSISTANT | JKSSB | | CA MOHAMAD LATEEF" youtubeId="ilaQPPzOXcA" duration="1:31:21" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v111" title="JOURNAL ENTRY - PRACTICAL QUESTION | NCERT BOOK CLASS 11TH | LIVE SESSION | CA LATEEF" youtubeId="yLuHURZaraQ" duration="1:24:33" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v112" title="Voucher Approach In Accounting | LECTURE 6 | JKSSB Accounts Assistance Exam Finance Dept | CA LATEEF" youtubeId="RXL3G2V8g1o" duration="42:11" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v113" title="Ledger Accounts | Lecture 7 | ACCOUNTS ASSISTANT EXAM- FINANCE DEPT | JKSSB | | CA LATEEF" youtubeId="U9FU7RyevbA" duration="31:52" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v114" title="Subsidiary Books | LECTURE 8 | ACCOUNTS ASSISTANT EXAM - FINANCE DEPARTMENT | JKSSB |CA LATEEF" youtubeId="rH1G2JPeMI8" duration="20:51" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v115" title="Cash Book | LECTURE 9 | ACCOUNTS ASSISTANT EXAM - FINANCE DEPARTMENT | JKSSB| CA LATEEF (AIR-35 )" youtubeId="lPwOvoV6FeA" duration="46:30" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v116" title="Trial Balance |Lecture 10 | ACCOUNTS ASSISTANT EXAM - FINANCE DEPARTMENT | JKSSB | CA MOHD LATEEF" youtubeId="TmAQjbMW844" duration="37:23" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v117" title="Financial Statements | Lecture 11 | ACCOUNTS ASSISTANT EXAM JKSSB | CA LATEEF (AIR-35 CA FINAL)" youtubeId="2B4Xd5hBLi0" duration="28:47" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v118" title="What is Trading Account | Lecture 12 | ACCOUNTS ASSISTANT | JKSSB | CA LATEEF (AIR-35 CA FINAL)" youtubeId="ZtD4GBBVtkA" duration="1:13:46" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v119" title="What is Profit and Loss Account? How to Prepare Profit &amp; Loss account | Lecture 13 |JKSSB |CA LATEEF" youtubeId="q50hg8pUgnY" duration="38:10" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v120" title="What is Balance Sheet? How to prepare Balance Sheet | Lecture 14 | JKSSB ACCOUNTS ASSISTANT EXAM |" youtubeId="SwQBMSHuFQo" duration="43:28" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v121" title="Learn Accounting in one Lecture | How to do Accounting from Journal To Balance Sheet | By CA Lateef" youtubeId="vrNZcadEB_M" duration="2:26:54" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v122" title="Bank Reconciliation Statement | Lecture 15 | JKSSB ACCOUNTS ASSISTANT EXAM | CA MOHAMAD LATEEF" youtubeId="zSTUg2wylBI" duration="1:08:25" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v123" title="Partnership Accounts | Lecture 16 | JKSSB ACCOUNTS ASSISTANT EXAM | CA MOHAMAD LATEEF (AIR-35 )" youtubeId="JtDf9HPWGC4" duration="1:02:59" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v124" title="Important Numerical Questions on Partnership for JKSSB FAA Exam | Easy Tricks | Tariq Sir" youtubeId="Zcf8OQaNAts" duration="31:55" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v125" title="Cash based Single Entry System of Accounting | Lecture 17 | JKSSB | ACCOUNTS ASSISTANT | CA LATEEF" youtubeId="hkWiETDztLQ" duration="51:56" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v126" title="Financial Management | Lecture 18 | JKSSB ACCOUNTS ASSISTANT | CA MOHD LATEEF (AIR-35 CA FINAL)" youtubeId="wpR6CLvV9uw" duration="15:50" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v127" title="Financial Audit | Lecture 19 | JKSSB | ACCOUNTS ASSISTANT EXAM | CA MOHD LATEEF (AIR-35 CA FINAL)" youtubeId="onwehVWVJ8A" duration="36:15" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v128" title="Concept of Social Accounting | LECTURE 20 JKSSB |ACCOUNTS ASSISTANT | CA LATEEF (AIR-35 CA FINAL)" youtubeId="VDB8pKuyhig" duration="32:17" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v129" title="Updated Lecture on Social Accounting For JKSSB FAA Exam | CA Lateef" youtubeId="nkr4nqHXIpY" duration="21:00" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v130" title="Social Audit | Lecture 21 | JKSSB ACCOUNTS ASSISTANT PANCHAYAT EXAM | CA LATEEF (AIR-35 CA FINAL)" youtubeId="d1BBO28ZecM" duration="42:41" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v131" title="Public Financial Management System (PFMS) | Lecture 22 | JKSSB ACCOUNTS ASSISTANT EXAM | CA LATEEF" youtubeId="76w-aZt-h4U" duration="51:51" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v132" title="ADJUSTMENT ENTRIES | PART 1 | ACCOUNTANCY | CA FOUNDATION | JKSSB | CA MOHAMAD LATEEF" youtubeId="_GLkSXFSsbo" duration="30:04" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v133" title="ADJUSTMENT ENTRIES PART 2" youtubeId="ssxi171dvE4" duration="5:57" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v134" title="ADJUSTMENT ENTRIES PART 3 | Accountancy | CA Foundation | JKSSB | CA LATEEF" youtubeId="tR4nLihcTe4" duration="24:39" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v135" title="Last Day Revision of Accountancy - JKSSB Panchayat Accounts Assistant Exam | CA MOHAMAD LATEEF" youtubeId="8eQOQK1fR0Y" duration="1:47:11" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v136" title="Introduction to Direct and Indirect tax - | JKSSB FAA Exams | Lecture 1| by CA Amarjeet Jaiswal" youtubeId="e4eHdYelp4A" duration="5:01" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v137" title="Taxation- Direct and Indirect Tax |Accountancy | JKSSB - FAA | By CA Amarjeet Jaiswal | Lecture -1" youtubeId="NFIZr92Csks" duration="33:25" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v138" title="Taxation - Direct Tax and Indirect Tax | Accountancy | JKSSB -FAA| Lecture 2| By CA Amarjeet Jaiswal" youtubeId="vlZZexNgXUo" duration="1:00:42" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v139" title="Taxation - Direct Tax and Indirect Tax | Accountancy | JKSSB -FAA| Lecture 3| By CA Amarjeet Jaiswal" youtubeId="kaUOC9ztj0c" duration="40:04" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v140" title="Taxation - Direct Tax and Indirect Tax | Accountancy | JKSSB -FAA| Lecture 4| By CA Amarjeet Jaiswal" youtubeId="Ron6Q3_FfMc" duration="1:06:22" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v141" title="Taxation - Direct Tax | Accountancy | JKSSB -FAA| MCQ's Discussion - The END| By CA Amarjeet Jaiswal" youtubeId="1zwFUSirWWM" duration="1:56:00" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v142" title="Taxation - Indirect Tax | GST | Accountancy | JKSSB -FAA| Lecture -1 | By CA Amarjeet Jaiswal" youtubeId="f-_PSIcqOXs" duration="47:23" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v143" title="Taxation - Indirect Tax | GST | Accountancy | JKSSB -FAA| Lecture -2 | By CA Amarjeet Jaiswal" youtubeId="hk1o7ZXSE7E" duration="1:00:19" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v144" title="Taxation - Indirect Tax | Customs | Excise duty | VAT | AIDC | JKSSB -FAA| By CA Amarjeet Jaiswal" youtubeId="15o2xWUjU3M" duration="57:23" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v145" title="Taxation Amendments in Finance Act 2023 | Change in Tax rates | Income Tax Act | CA Lateef" youtubeId="0cDMzTFAyvs" duration="29:41" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v146" title="Introduction to cost Accounting | JKSSB FINANCE ACCOUNTS ASSISTANT EXAM|LECTURE 1 |CA MOHAMAD LATEEF" youtubeId="y0JnMO0EeO8" duration="46:28" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v147" title="Costing Accounting | Lecture 1 Part 2 | JKSSB FINANCE ACCOUNTS ASSISTANT EXAM | CA MOHAMAD LATEEF" youtubeId="8awI3y7KlZg" duration="3:56" position="47">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v148" title="ELEMENTS OF COST | COST ACCOUNTS JKSSB FINANCE ACCOUNTS ASSISTANT EXAM LECTURE 2 |CA MOHAMAD LATEEF" youtubeId="K2HaRLEbDL8" duration="32:19" position="48">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v149" title="CLASSIFICATION OF COSTS | JKSSB FINANCE ACCOUNTS ASSISTANT EXAM | LECTURE 3 | CA MOHAMAD LATEEF" youtubeId="EvJkInswXAg" duration="43:55" position="49">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v150" title="Methods of costing | JKSSB FINANCE ACCOUNTS ASSISTANT EXAM | COST | LECTURE 4 |CA MOHAMAD LATEEF" youtubeId="uPbik-JSHx4" duration="32:30" position="50">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v151" title="TECHNIQUES OF COSTING | JKSSB FINANCE ACCOUNTS ASSISTANT EXAM LECTURE 5 | CA MOHAMAD LATEEF" youtubeId="LoiY3z6Z35s" duration="45:11" position="51">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v152" title="Budget &amp; Budgetary Control - Introduction | JKSSB Finance Accounts Assistant Exam |CA MOHAMAD LATEEF" youtubeId="2btJzYZBI64" duration="40:53" position="52">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v153" title="Classification of budgets | JKSSB Finance Accounts Assistant Exam | Cost Accounts |CA MOHAMAD LATEEF" youtubeId="JJXuDGpGwUg" duration="30:52" position="53">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v154" title="Indian Financial Management System | Lecture 1 | JKSSB | CA MOHAMAD LATEEF (AIR 35 - CA FINAL)" youtubeId="Gkip6chL7TE" duration="52:42" position="54">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v155" title="Indian Financial Management System | Lecture 2 | JKSSB | CA MOHAMAD LATEEF (AIR - 35 CA FINAL)" youtubeId="iGP1ZBvexAI" duration="1:13:08" position="55">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v156" title="Developments in Accounting | JKSSB FAA ACCOUNTANCY | CA MOHAMAD LATEEF (AIR 35 - CA FINAL)" youtubeId="STepn6mZbWI" duration="52:08" position="56">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v157" title="Marathon Session on Accountancy for JKSSB Finance Accounts Assistant Exam | Part 1 | by CA Lateef" youtubeId="dAhzo1JM4hs" duration="3:39:36" position="57">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v158" title="Marathon Session on Accountancy for JKSSB Finance Accounts Assistant Exam | Part 2 | by CA Lateef" youtubeId="tIAwU_KfhmU" duration="2:32:13" position="58">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v159" title="Marathon Session on Accountancy for JKSSB Finance Accounts Assistant Exam | Part 3 | by CA Lateef" youtubeId="b_eQ28IUa8A" duration="2:21:16" position="59">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v160" title="Accountancy Finance Accounts Assistant Batch Completion - Live Discussion | CA MOHAMAD LATEEF" youtubeId="1xGSIATVa0g" duration="1:07:07" position="60">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v161" title="How to Study Accountancy for Finance Accounts Assistant exam of JKSSB || CA MOHAMAD LATEEF" youtubeId="l4NL9MDfR6I" duration="9:00" position="61">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v162" title="Accounts Assistant Revised Syllabus - JKSSB | Finance Accounts Assistant Exam" youtubeId="VXYjlX7FqfQ" duration="50:03" position="62">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v163" title="ACCOUNTANCY ANSWER KEY-JKSSB PAA EXAMS" youtubeId="4PeRmo7tdYU" duration="15:08" position="63">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v164" title="JKSSB Accounts Assistant - Finance Dept ~ Clarification about New Classes and Preparation for exam" youtubeId="4hgVC8yObt8" duration="7:55" position="64">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v165" title="Accountancy Answer key of JKSSB FAA paper dt. 28.01.2024 | Expected cut off of today's paper" youtubeId="lnT9_Ut6Eko" duration="28:44" position="65">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v166" title="Marathon Session on Accountancy for JKSSB Exam ~ Important Announcement" youtubeId="KAFdW6MZ_oI" duration="2:23" position="66">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v167" title="Wrong Answer key of Accountancy in JKSSB FAA Paper | Question that needs Representation |" youtubeId="po-G7bHPlfU" duration="19:15" position="67">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v168" title="IMPORTANT ANNOUNCEMENT REGARDING ACCOUNTANCY PAPER FOR JKSSB FINANCE ACCOUNTS ASSISTANT EXAM" youtubeId="nmxCROCmxkk" duration="28:10" position="68">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v169" title="How to Prepare for Accounts Assistant Exam -Finance department || JKSSB || CA MOHAMAD LATEEF" youtubeId="piJI7ZXqGPs" duration="15:50" position="69">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+      
+
+
+
+
+
+
+<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R">
+  <video id="v201" title="Physical &amp; Political Divisions of World | One Shot | By Tawqeer Sir" youtubeId="qpISxkoOloo" duration="48:13" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v202" title="Culture and Heritage of India | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="3_4YlMQPXhE" duration="2:30:06" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v203" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v204" title="Lakes Of India | ONE SHOT | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="CZjLQ6CCAb0" duration="59:24" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v205" title="2024 Updated | Top Crop Producing States of India | For JKSSB JKPSC UPSC SSC IBPS RRB | Tawqeer Sir" youtubeId="cHd4lRX92Wo" duration="16:13" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v206" title="Environment Ecology and Biodiversity | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="I_bnGkviWOU" duration="2:44:05" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v207" title="Demography - Census - Its feature and functions | By Tawqeer Sir | For All Competetive Exams" youtubeId="CMRmPIX4lSs" duration="1:17:15" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v208" title="Transport and Communication in India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="rsrdwBHOF0k" duration="1:39:36" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v209" title="Top MCQs on Crops of India | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="862Xg5rbSXk" duration="34:31" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v210" title="Crops of India | Indian Agriculture | ONE SHOT | For JKSSB JKPSC NDA UPSC|By Tawqeer Sir" youtubeId="jN8PnQP2afg" duration="58:26" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v211" title="Top MCQs on Climate of India | Indian Monsson | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="oKeO2IuJ2gk" duration="54:49" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v212" title="Climate of India | Indian Weather | Monsoon | Tawqeer Sir | One Shot | For All Competitive Exams" youtubeId="wXYfvTl6ELI" duration="1:33:50" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v213" title="Top MCQs on Rivers of India | For JKSSB JKPSC NDA UPSC | By Tawqeer Sir" youtubeId="20EgHcpUAd8" duration="46:21" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v214" title="Rivers of India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="iDmBlSbxiy8" duration="1:22:31" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v215" title="Top MCQs on Physical and Political Divisions of India | For JKSSB Naib Tehsildar Patwari SI" youtubeId="98NNur7e36A" duration="58:03" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v216" title="Top MCQ'S on Physical and Political Divisions of the world | Session 2 |For JKSSB JKPSC NDA, UPSC" youtubeId="2RA5cGWKnyY" duration="49:31" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v217" title="Lec 1 | Physiography of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="aY5gHf0D8JU" duration="1:15:41" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v218" title="Lec 2 | Climate of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="r_St3TuDvAc" duration="1:06:11" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v219" title="Lec 3 | Rivers of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="yv-52sooG7Y" duration="1:26:16" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v220" title="Lec 4 | Lakes of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="UiApsoFw3nQ" duration="1:32:06" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v221" title="Lec 5 | Glaciers and Mountain Passes of Jammu and Kashmir | GK of Jammu and Kashmir | By Tawqeer Sir" youtubeId="lvUCKZC7zQo" duration="1:03:24" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v222" title="Lec 6 | Flora and Fauna of Jammu and Kashmir | GK of Jammu and Kashmir for JKSSB JKPSC| Tawqeer Sir" youtubeId="8tNvmaa1y3o" duration="1:29:32" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v223" title="Lec 7 | Soils and Agriculture of Jammu and Kashmir J&amp;K GK | For JKSSB JKPSC JKPSI FAA MTS SSC" youtubeId="Fq9ix1pTxU8" duration="1:58:20" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v224" title="Lec 8 | Economy of Jammu and Kashmir | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI | By Tawqeer Sir" youtubeId="igJApxTMtm8" duration="2:40:38" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5">
+  <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
+  </video>
+  <video id="v302" title="Lec 2 | Working of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_08Ht3DP7Yo" duration="8:59" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v303" title="Lec 3 | Characteristics of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_zHeqGudbAI" duration="8:03" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v304" title="Lec 4 | Types / Classification of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="L_C7Nr_Ba7Q" duration="46:21" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v305" title="Lec 5 | Generations / History of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="vNj8d9r58Kw" duration="6:15" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v306" title="Lec 6 | Components of a Computer | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="MzjrD5zq-HU" duration="30:03" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v307" title="Lec 7 | Input/Output Unit | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="HxF6INA2L6c" duration="10:48" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v308" title="Lec 8 | Central Processing Unit (CPU) | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="tRNxwlMMF5I" duration="41:18" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v309" title="Lec 9 | Memory Unit of a Computer | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="Qy5xyrnxFLA" duration="5:30" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v310" title="Lec 10 | Motherboard of a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="H7DDHhOG-AE" duration="5:42" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v311" title="Lec 11 | Buses in a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="0ptLM2ZMvmI" duration="4:35" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v312" title="Lec 12 | Instruction Cycle ad Instruction Format | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="BGiLc7SXaUE" duration="7:35" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v313" title="Lec 13 | Difference between Command and Instruction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="3assWInZND0" duration="11:33" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v314" title="Lec 14 | CPU Speed | Speed of a computer Processor | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="6RwtplrdS0I" duration="8:22" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v315" title="Lec 15 | Registers in a Computer | CPU Registers | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="RoxZzmzxwdc" duration="13:00" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v316" title="Lec 16 | What is Instruction Set, Direct Memory Access and UPS | By Tawqeer Sir |For JKSSB SSC RRB" youtubeId="6FNWfTafnt0" duration="4:00" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v317" title="Lec 17 | What is Computer Hardware | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="g6PK0Fc5_kw" duration="7:09" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v318" title="Lec 18 | Introduction to the Input Devices | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="E13cKjnd30Q" duration="7:34" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v319" title="Lec 19 | Input Devices - 1 (Keyboard) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="WFiQwIZ306E" duration="27:09" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v320" title="Lec 20 | Input Devices - 2 (MOUSE) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="H89TBfLMwqo" duration="24:47" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v321" title="Lec 21 | Input Devices - 3 (Trackball) | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="z8xlHxcFWOo" duration="8:39" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v322" title="Lec 22 | Input Devices - 4 (Pointing Stick Joystick Light Pen and Touch Screen Track Pad)" youtubeId="PbP1_J_niDA" duration="22:50" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v323" title="Lec 23 | Input Devices - 5 (Digitizer OR Graphics Tablet ) | By Tawqeer SIr | For JKSSB SSC RRB UPSC" youtubeId="Mi8xg9zEwdI" duration="3:11" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v324" title="Lec 24 | Input Devices - 6 (Barcode, OMR, OCR, RFID, Biometrics) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="o0u_-aIyW5U" duration="19:02" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v325" title="Lec 25 | Input Devices - 7 (Scanners) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="gbb_dXzAYLo" duration="30:00" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v326" title="Lec 26 | Input Devices - 8 (Microphone and Webcam) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="_35G1Z5sMhQ" duration="5:49" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v327" title="Lec 27 | Output Devices (Introduction and Types) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="d3A3BMMBN60" duration="5:29" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v328" title="Lec 28 | Output Devices -1 ( MONITOR ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="-frzUJBqYuM" duration="19:31" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v329" title="Lec 29 | Output Devices -2 ( PRINTER ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="jck4jWsnc3o" duration="37:24" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v330" title="Lec 30 | Output Devices -3 (PLOTTER SPEAKER HEADPHONE SPEECH SYNTHESIZER PROJECTOR) | JKSSB SSC RRB" youtubeId="m9p9jVjg82k" duration="10:44" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v331" title="Lec 31 | Both Input and Output Devices | For JKSSB VLW FAA JKPSC SSC RRB BPSC | By Tawqeer Sir" youtubeId="6AswKK1dTYo" duration="7:05" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v332" title="Lec 32 | Input Output (I/O) Ports | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC Bank By Tawqeer Sir" youtubeId="g4NaA8zsNAY" duration="14:22" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v333" title="Lec 33 | Computer Memory (Introduction) | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="sSrr9upTOpQ" duration="46:23" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v334" title="Lec 34 | Types of Computer Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="LhAHn-2Fs14" duration="11:27" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v335" title="Lec 35 | Primary Memory and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="WqUlWzXX530" duration="28:05" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v336" title="Lec 36 | Cache Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="0N0cFAD-BQA" duration="22:01" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v337" title="Lec 37 | Secondary Memory HARD DISK | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="onlASKJ6MQw" duration="45:40" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v338" title="Lec 38 | Secondary Memory - 2 SSD, CD, Floppy Disk | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="_DYvzI1afcw" duration="21:51" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v339" title="Lec 39 | Teritiary, Flash and Virtual Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="hq-RAhkdZHM" duration="32:48" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v340" title="Lec 40 | Computer Software and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="W6cZ-KS2ZAg" duration="1:18:30" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v341" title="Lec 41 | Operating Systems Functions and Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="GqqN2rCFBHg" duration="1:08:13" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v342" title="Lec 42 | Algorithms and Flowcharts | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="5T6qcfKFH2M" duration="15:30" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v343" title="Lec 43 | Computer Programs and Programming Languages | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="lAAHYfw8AZc" duration="28:14" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v344" title="Lec 44 |Language Translators - Compiler, Assembler and Interpreter| For JKSSB VLW FAA SSC RRB BPSC" youtubeId="BnoV4fYIXfs" duration="23:11" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v345" title="Lec 45 | Microsoft Windows and its features | For JKSSB VLW FAA SSC RRB BPSC" youtubeId="YAjhNrdGjmI" duration="57:51" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v346" title="Lec 46 | FIles and FIle Systems - NTFS, FAT, EXT4, etc | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="kvCQGDzvHR8" duration="3:59" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v347" title="Lec 47 | Data Communication and Communication Media | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="A40U4ytipcg" duration="29:48" position="47">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v348" title="Lec 48 | Computer Networks | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="owzSpQWrwTc" duration="8:15" position="48">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v349" title="Lec 49 | Network Devices - Hub Switch Bridge Router Gateway Repeater | For JKSSB VLW SSC RRB BPSC" youtubeId="MuiFPycnUwU" duration="15:44" position="49">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v350" title="Lec 50 | Network Topologies and OSI Model | For JKSSB VLW SSC RRB BPSC" youtubeId="rEBCnG2CMCU" duration="15:03" position="50">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v351" title="Lec 51 | Internet - History and Advantages and Disadvantages | For JKSSB VLW SSC RRB BPSC" youtubeId="v9RmMpxwW2g" duration="39:05" position="51">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v352" title="Lec 52 | Internet Protocols: TCP/IP, FTP, HTTP, VoIP, etc | For JKSSB VLW SSC RRB BPSC" youtubeId="nRmrR0AI8cA" duration="13:07" position="52">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v353" title="Lec 53 | IP Address and MAC Addresses | For JKSSB VLW SSC RRB BPSC" youtubeId="JeuZx76pyOw" duration="5:55" position="53">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v354" title="Lec 54 | Email and Email proocols - SMTP, POP, IMAP, MIME | For JKSSB VLW SSC RRB BPSC" youtubeId="IiaT9WNqF8w" duration="7:53" position="54">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v355" title="Lec 55 | IoT - Internet of Things | For JKSSB VLW SSC RRB BPSC" youtubeId="aOHyYOGyW7s" duration="3:12" position="55">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v356" title="Lec 56 | Deep Web, Dark Web and Tor Browser | For JKSSB VLW SSC RRB BPSC" youtubeId="ed0p9kCRtDs" duration="4:51" position="56">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v357" title="Lec 57 | IMPORTANT TERMS: WWW, URL, SERVER, DOMAIN, DNS, COOKIES, Cloud Computing, etc" youtubeId="B5AePyRvN1s" duration="15:35" position="57">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v358" title="Lec 58 | Computer Security and its Components | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC KPSC Bank" youtubeId="iauGonHHF_4" duration="18:23" position="58">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v359" title="Lec 59 | Computer Malwares: Viruses, Worms, Trojans and Security Threats|For JKSSB VLW FAA JKPSC SSC" youtubeId="YfetFo3YqTU" duration="59:24" position="59">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v360" title="Lec 60 | Valid Email Address Format |For JKSSB VLW FAA JKPSC SSC" youtubeId="K3Y5_P9spO4" duration="6:49" position="60">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v361" title="Lec 61 | Microsoft Office | Marathon | Word Excel Powerpoint Access | For JKSSB VLW SSC RRB BPSC" youtubeId="LiP-hM3U2Pg" duration="2:58:47" position="61">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v362" title="Number Systems | Binary Decimal Octal Hexadecimal | Lec 13 | By Tawqeer Sir | For JKSSB JKPSC etc" youtubeId="lQcS9j5qCY4" duration="1:20:57" position="62">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v363" title="Computer Awareness Marathon | By Tawqeer Sir | For JKSSB SSC Bank IBPS UGC NET" youtubeId="_8TO59Z_3mw" duration="5:34:42" position="63">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+<playlist id="pl107" title="Economics" youtubePlaylistId="PLfM9ONl2Lh0J7Lv0TlU3zfQw9k-y2TGIL">
+  <video id="v501" title="Economics - Introduction &amp; Basic Concepts | JKSSB Finance Accounts Assistant Exam | Lecture 1" youtubeId="ljIs2RmLfU0" duration="22:28" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v502" title="Marginal Utility &amp; Indifference Curve | Economics | Lecture 2 |JKSSB Finance Accounts Assistant Exam" youtubeId="JlfDhzHMCos" duration="35:36" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v503" title="Indifference Curve Map and Marginal rate of substitution | Economics | JKSSB | LECTURE 3 |" youtubeId="shccqUxW1i8" duration="43:01" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v504" title="Budget &amp; Budget Lines | Perfect Substitutes l Economics | JKSSB | Lecture 4 | By Rouf Rehman" youtubeId="-vIfaNTbGqw" duration="37:15" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v505" title="Demand and demand curve | Economics | Lecture 5 | JKSSB Exams | By Rouf Rehman" youtubeId="47jkLK4OB1Y" duration="36:15" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v506" title="Movement along the demand curve and shift in demand curve | Economics | JKSSB | Lecture 6 |" youtubeId="a4Ejbj2ZmoM" duration="28:46" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v507" title="Elasticity of demand | Economics | JKSSB | Lecture 7 | CA Mohamad Lateef (AIR 35 - CA FINAL)" youtubeId="W92ceOBkxwY" duration="52:21" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v508" title="Introduction to Production | Economics | JKSSB FAA | Lecture 8 | ROUF REHMAN" youtubeId="6BClp4ReTpY" duration="36:44" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v509" title="Laws of production | Economics |JKSSB FAA | LECTURE 9 | Rouf Rehman" youtubeId="ZqC-0ZDNg7k" duration="46:37" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v510" title="Factors of production | Economics | JKSSB FAA | LECTURE 10 | ROUF REHMAN" youtubeId="-PHKls60WC4" duration="31:20" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v511" title="RICARDIAN THEORY OF RENT || ECONOMICS || JKSSB FAA || LECTURE 11 || ROUF REHMAN" youtubeId="j0W5x4FsE4M" duration="38:33" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v512" title="Marginal productivity theory | Economics | JKSSB FAA | LECTURE 12 | Rouf Rehman" youtubeId="FEiNTPW0Rqc" duration="40:57" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v513" title="Introduction to Macroeconomics | Economics | Lecture 13 | JKSSB FAA Exam | Rouf Rehman" youtubeId="y_0RLSu3qRo" duration="40:17" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v514" title="Concept of National Income &amp; its measurement | Economics | JKSSB FAA | Lecture 14 | Rouf Rehman" youtubeId="5hDHT5KpKLo" duration="1:25:56" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v515" title="Monetary policy of RBI - Introduction | Economics | JKSSB FAA | Lecture 15 | Rouf Rehman" youtubeId="BaufEvFjgnE" duration="59:07" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v516" title="Monetary policy and role of RBI | Economics | LECTURE 16 | JKSSB Finance Accounts Assistant Exam" youtubeId="A77RMIRlwx0" duration="56:11" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v517" title="Fiscal policy in India - Introduction | Economics | Lecture 17 | JKSSB FAA Exam | ROUF REHMAN" youtubeId="DVZCKCo2ads" duration="1:05:10" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v518" title="Budgetary deficits and its Types | Economics | Lecture 18 | JKSSB Finance Accounts Assistant Exam" youtubeId="V1226K3OQOs" duration="36:22" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v519" title="Market economies, pricing &amp; planning | Economics | LECTURE 19 | JKSSB FAA Exam | Rouf Rehman" youtubeId="d0htkNNwhqM" duration="1:11:33" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v520" title="Five Year Plans of India | Planning in India | Economics | LECTURE 20 | JKSSB FAA Exam | Rouf Rehman" youtubeId="CP_CwD6ShHI" duration="29:00" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v521" title="Economic Reforms in India | Economics | LECTURE 21 | JKSSB FAA EXAM | Rouf Rehman" youtubeId="r3yF3sgpEhs" duration="33:23" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v522" title="Economic Growth and development | Economics | LECTURE 22 | JKSSB FAA Exam | by Rouf Rehman" youtubeId="0U9GwtJXVdc" duration="21:59" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v523" title="Characteristics &amp; Problems of a developing economy | Economics | LECTURE 23 | JKSSB FAA Exam" youtubeId="p6lj_5nnX6w" duration="31:16" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v524" title="Problems of a developing economy Part 2 | Economics | LECTURE 24 | JKSSB FAA Exam | Rouf Rehman" youtubeId="9yQzVI-PrYo" duration="42:56" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+<playlist id="pl106" title="General Science for JKSSB FAA" youtubePlaylistId="PLfM9ONl2Lh0JAFoA1Lv0aiHY-F37Rn8WQ">
+  <video id="v401" title="Motion - One Shot Revision | Class 9 Physics Chapter 8 (2022-23)" youtubeId="1Mf8plOjlbA" duration="2:19:59" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v402" title="Force and Law of Motion - One Shot Revision | Class 9 Physics Chapter 9 (2022-23)" youtubeId="OlTcIMIGQEE" duration="1:53:43" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v403" title="Electricity - One Shot Revision | Class 10 Physics Chapter 3 (2022-23)" youtubeId="e5s8cqMtTmY" duration="2:25:43" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v404" title="Chemical Reactions and Equations - One Shot Revision | Class 10 Chemistry Chapter 1 (2022-23)" youtubeId="25334wZluB4" duration="1:56:05" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v405" title="Metals and Nonmetals Class 10 | Metals and Nonmetals One Shot Revision | Class 10 Chemistry 2022-23" youtubeId="U3Z2KiJx6y0" duration="1:36:20" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v406" title="Sources of Energy in 1 Shot Class 10 | CBSE Physics | Science Chapter 14 NCERT @vedantucbse10th" youtubeId="fgwaV0hOeew" duration="1:06:45" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v407" title="Life Processes Class 10 Science Biology One Shot | Life Processes Class 10 Science Biology 2022-23" youtubeId="7WlwbabGo1A" duration="1:35:40" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v408" title="Why Do We Fall Ill? in One Shot | CBSE Class 9 Science Chapter 13 | CBSE 9 in One-Shot | Vedantu Bio" youtubeId="Wy666mQI87I" duration="41:19" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v409" title="Vitamins || By Rupali Ma'am|| All Concepts in Single Lecture for JKSSB Exams" youtubeId="KN6AYydeNOQ" duration="43:49" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v410" title="Our Environment Full Chapter Class 10 Biology | Class 10 CBSE Biology 2022-23" youtubeId="x3EE6LN3iu0" duration="2:52:40" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v411" title="General Science || Motion &amp; Its Laws || science for competitive exams &amp; Concepts | Shamas Sir" youtubeId="S6Dpu1kgYLQ" duration="44:52" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+<playlist id="pl108" title="Maths" youtubePlaylistId="PLfM9ONl2Lh0Jwi7q4vTa1kFexbfjwXlUu">
+  <video id="v601" title="PERMUTATIONS | PERMUTATIONS &amp; COMBINATIONS | MATHS | LECTURE 1 | JKSSB EXAMS | FAA | CA NAYEEM SHAFI" youtubeId="5YvMk8bcEe4" duration="1:08:18" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v602" title="COMBINATIONS | PERMUTATIONS &amp; COMBINATIONS | MATHS | LECTURE 2 | JKSSB EXAMS | FAA | CA NAYEEM SHAFI" youtubeId="Sg-qiSkW3_0" duration="2:03:28" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v603" title="PERMUTATIONS AND COMBINATIONS | Basic Questions | Maths | Lecture 3 | JKSSB FAA| CA Nayeem Shafi" youtubeId="XuSw2ghkcjI" duration="1:24:17" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v604" title="PERMUTATIONS AND COMBINATIONS HIGHER SKILL SET QUESTIONS | Lecture 3A | Maths | JKSSB FAA |CA NAYEEM" youtubeId="BhJ-DS821qU" duration="37:58" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v605" title="Binomial Theorem-Concepts and Examples | Lecture 4 | Maths | JKSSB FAA Exams | CA Nayeem Shafi" youtubeId="tR-8FXL_K-k" duration="1:46:02" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v606" title="LINEAR EQUATION IN TWO VARIABLES -CONCEPT AND EXAMPLES | LECTURE 5 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="wlqxU63WExQ" duration="1:34:07" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v607" title="LINEAR EQUATIONS - QUESTIONS ON BASICS AND APPLICATIONS | LECTURE 5A | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="c1XgrKJ1Hd0" duration="1:15:34" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v608" title="PROBABILITY - CONCEPT AND EXAMPLES | LECTURE 6 | MATHS | JKSSB FAA EXAM | CA NAYEEM" youtubeId="RFjc7aUFHio" duration="1:44:50" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v609" title="PROBABILITY - 50 MCQS SOLVED (BASIC+HIGHER SKILL SET) | LECTURE 7 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="7DnHJMDTV80" duration="1:23:50" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v610" title="SET THEORY - BASIC CONCEPT &amp; APPLICATION| LECTURE 8 | MATHS | JKSSB FAA EXAM | CA NAYEEM SHAFI" youtubeId="QJH8Zi9vYPc" duration="1:34:49" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v611" title="SETS EXAMPLES AND BASIC QUESTIONS | LECTURE 9A | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="uCL6sdTHz6o" duration="1:00:23" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v612" title="SETS QUESTIONS ON APPLICATIONS OF SETS | LECTURE 9B | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="3lWF1PRcR0U" duration="1:02:32" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v613" title="SIMPLE INTEREST -CONCEPT TECHNIQUES AND SHORTCUTS | LECTURE 10| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="LnuRCkg75OM" duration="1:13:51" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v614" title="SIMPLE INTEREST - 40 SOLVED MCQS | LECTURE 11| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="JsOdhFtwmO4" duration="1:13:37" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v615" title="COMPOUND INTEREST -CONCEPTS AND SHORTCUT | LECTURE 12| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="DXqtC2pLclQ" duration="57:41" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v616" title="Simple &amp; Compound Interest - Concepts &amp; Shortcuts | LECTURE 13| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="yaO74MOJs6E" duration="55:25" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v617" title="Compound Interest- 25 Solved MCQs | LECTURE 14 | MATHS | JKSSB FAA Exam | CA NAYEEM Shafi" youtubeId="9a9gcN-LbSU" duration="1:07:39" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v618" title="MATRICES | BASICS | LECTURE 15 | MATHS | JKSSB FAA | CA NAYEEM SHAFI" youtubeId="liaNzWkl7EY" duration="46:04" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v619" title="MATRICES | OPERATIONS ON MATRICES | LECTURE 16 | MATHS | JKSSB FAA | CA NAYEEM SHAFI" youtubeId="HPJJZYhv8qc" duration="1:13:56" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v620" title="MATRICES IDENTITIES AND EXAMPLES | LECTURE 17 | MATHS | JKSSB FAA | CA NAYEEM SHAFI" youtubeId="VF5rbeFEvgQ" duration="1:23:07" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v621" title="RELATION AND FUNCTIONS -CONCEPT | LECTURE 18 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="EwUuSittbc0" duration="1:05:19" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v622" title="TYPES OF RELATIONS | LECTURE 19 | MATHS | JKSSB FAA | CA NAYEEM SHAFI" youtubeId="1YK8eM3ljqI" duration="47:37" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v623" title="FUNCTIONS AND RELATIONS SOLVED MCQS | LECTURE 20 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="k33Wl7u33U8" duration="1:01:53" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v624" title="CO-ORDINATE GEOMETRY | LECTURE 21 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="h6ZK8y2wCJs" duration="1:27:39" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v625" title="CO-ORDINATE GEOMETRY -EXAMPLES| LECTURE 22 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="kk7tdJ3ypE4" duration="59:46" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v626" title="CO-ORDINATE GEOMETRY -TRIANGLE AND COLLINEARITY | LECTURE 23 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="iN1xrn221xY" duration="1:36:57" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v627" title="CO-ORDINATE GEOMETRY - GEOMETRY OF A LINE | LECTURE 24 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="EnO9xzJD5_I" duration="1:19:47" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v628" title="Vectors Part-1 By Pankaj Sir ||Maths||FAA || JKSSB" youtubeId="3IVEJo4hN4k" duration="38:34" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v629" title="Vectors L-2 Dot Product By Pankaj Sir || vectors JKSSB ||FAA ||" youtubeId="VTrPY3kP9kU" duration="22:11" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v630" title="Vectors | Mathematics | Lecture 3 | Cross Product By Pankaj Sir || vectors jkssb ||jkssb ||" youtubeId="HYMo8iqn26g" duration="20:19" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v631" title="Vectors Lecture 4 | Last Part | Mathematics | JKSSB Exams by Pankaj Sir" youtubeId="7kuRYHS4Fh8" duration="16:56" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v632" title="MOCK TEST DATED 27.02.2022-MATH PART CONCEPT AND SOLUTIONS | NAYEEM SHAFI" youtubeId="mW0qwOml_4w" duration="32:02" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v633" title="Analysis of JKSSB FAA Mathematics - Sectional Test 1 - Conducted by EACT Classes" youtubeId="q_OurVDcbr8" duration="25:34" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v634" title="Analysis of JKSSB FAA Mathematics - Sectional Test 2 - Conducted by EACT Classes" youtubeId="s7XTCbIHWjI" duration="24:03" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v635" title="Analysis of JKSSB FAA Mathematics - Sectional Test 3- Conducted by EACT Classes" youtubeId="qjnxDMu2bbs" duration="15:36" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v636" title="3D Geometry | Part 1 | Maths | JKSSB Exams | JKSSB FAA | Asif Sir (M Sc Maths, M. Phil, JKSET)" youtubeId="3vc-flcmD3Q" duration="20:02" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v637" title="3D Geometry | Part 2 | Maths | JKSSB Exams | JKSSB FAA | Asif Sir (M Sc Maths, M. Phil, JKSET)" youtubeId="GSgMgcNjM34" duration="18:21" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v638" title="MATHS and STATISTICS previous year MCQ's Defficult questions ( Easy approach to solve in Seconds)" youtubeId="5UZrjXp8RRk" duration="49:54" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v639" title="JKSSB Graduate Level Exam 2024 | Mathematics Solutions | Score 20/20 with Tariq Sir" youtubeId="P035RkFcVmo" duration="41:31" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v640" title="Kill Maths Phobia: How to Score 100% in Mathematics for Competitive Exams |JKSSB, SSC, Railway, CSAT" youtubeId="lO4J6uHv79M" duration="35:21" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v641" title="Time, Speed &amp; Distance | Lecture 1 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="SXRJJPZsLGk" duration="1:04:28" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+<playlist id="pl109" title="Statistics" youtubePlaylistId="PLfM9ONl2Lh0LPWHsvLVD6nSAGAU-YlBnz">
+  <video id="v701" title="Primary &amp; Secondary Data | Statistics | Lecture 1 | JKSSB Exam | Rafiq Bashir (M Sc / PAA Qualified)" youtubeId="LyTICPhhQEA" duration="10:30" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v702" title="Basics of Statistics | LECTURE 2 | Statistics | JKSSB FAA Exam | Rafiq Bashir (M Sc /PAA Qualified)" youtubeId="Pz7xBkQ8Gt4" duration="12:56" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v703" title="Methods of Primary &amp; Secondary data collection | Statistics | LECTURE 3 | JKSSB Exams | by Rafiq Sir" youtubeId="tdn6F-IOTQ4" duration="13:29" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v704" title="TOP 15 MCQ'S ON BASICS OF STATISTICS | STATISTICS | LECTURE 4 | JKSSB FAA EXAM | RAFIQ BASHIR" youtubeId="zH93E1jn6Yk" duration="17:50" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v705" title="Measures of Central Tendency | Statistics | LECTURE 5 | JKSSB Exams | By Rafiq Bashir" youtubeId="ZjiT25gli-A" duration="15:32" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v706" title="MCQ's and Concept of Geometric &amp; Arithmetic Mean | Statistics |LECTURE 6 |JKSSB FAA Exam | Rafiq Sir" youtubeId="YJnN_etbrKs" duration="18:55" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v707" title="Theory of Attributes | Statistics | LECTURE 7 | JKSSB FAA EXAM | RAFIQ BASHIR (M Sc/ PAA Qualified)" youtubeId="SGTz4wvYt3g" duration="15:09" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v708" title="THEORY OF ATTRIBUTES PART 2 | STATISTICS | LECTURE 8 | JKSSB FAA EXAM | BY RAFIQ SIR (M Sc / PAA)" youtubeId="66W8DL24KoQ" duration="18:45" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v709" title="MCQ'S on Theory of Attributes &amp; Questions asked in PAA Exam | Statistics | LECTURE 9 | Rafiq Bashir" youtubeId="WU1ItO04UBE" duration="18:10" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v710" title="DEMOGRAPHY &amp; CENSUS | STATISTICS | LECTURE 10 | JKSSB FAA EXAM | RAFIQ BASHIR ( M Sc /PAA Qualified)" youtubeId="G9cZydnQ6AI" duration="19:11" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v711" title="CENSUS | STATISTICS | LECTURE 11 | JKSSB FAA EXAM | BY RAFIQ BASHIR (M Sc / PAA Qualified" youtubeId="JbcTnQhMRaE" duration="16:51" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v712" title="MCQ's on Demography and census | Statistics | LECTURE 12 | JKSSB FAA EXAM | RAFIQ BASHIR" youtubeId="R_qR8jUpY68" duration="16:30" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v713" title="Basics of Probability | Statistics | Lecture 13 | JKSSB FAA EXAM | Rafiq Bashir(M Sc /PAA QUALIFIED)" youtubeId="sYd8niWVxRg" duration="18:30" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v714" title="Probability Concepts || Coin | Dice || Deck of Cards || Statistics || LECTURE 14 || JKSSB Exams" youtubeId="5besl6Lv7ik" duration="16:39" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v715" title="Compound Probability | Mutually exclusive events | Complement of an event | Statistics | Lecture 15" youtubeId="qsK8cEhJWO8" duration="21:20" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v716" title="TOP MCQ's on Probability | Part A | Statistics | Lecture 16 | JKSSB FAA Exam | Rafiq Bashir" youtubeId="2DFEgRy5NBc" duration="21:11" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v717" title="Vital Statistics | Lecture 17 | Statistics | JKSSB FAA Exam | Rafiq Bashir ( M Sc / PAA Qualified)" youtubeId="SUSOyvuaELQ" duration="19:44" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v718" title="Preparation of questionnaires in Statistics | Lecture 18 | JKSSB Exams | Rafiq Bashir" youtubeId="hIw5PdvZNkg" duration="14:25" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+    </playlists>
+  </course>
+
+<course id="c002" title="JKSSB Junior Assistant">
+    <description>JKSSB Junior Assistant Free Course</description>
+    <playlists>
+      <playlist id="pl101" title="General Knowledge with Special Reference to Jammu and Kashmir" youtubePlaylistId="PL_EXAMPLE_1">
+        <video id="v101" title="Physical and Political Divisions of the World" youtubeId="qpISxkoOloo" duration="01::05:34" position="1">
+          <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url="https://drive.google.com/file/d/1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr/view?usp=drive_link"/>
+        </video>
+        <video id="v102" title="TOP MCQs on Physical and Political DIvisions of the World" youtubeId="2RA5cGWKnyY" duration="1:10:00" position="2">
+          <pdf driveFileId="1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku" url="https://drive.google.com/file/d/1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku/view?usp=drive_link"/>
+        </video>
+      </playlist>
+    </playlists>
+  </course>
+
+</courses>

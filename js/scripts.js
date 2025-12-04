@@ -878,4 +878,212 @@ document.addEventListener('DOMContentLoaded', function () {
     setupScroller('.popular-video-section', '.video-grid');
     setupScroller('.popular-playlist-section', '.playlist-grid');
     setupScroller('.testimonial-section', '.testimonial-grid');
+
+    // --- Course Viewer Logic ---
+    if (document.getElementById('courses-container')) {
+        async function loadCourseXML() {
+            try {
+                const res = await fetch('data/courses.xml');
+                if (!res.ok) {
+                    document.getElementById('courses').innerText = 'Failed to load courses.xml. Status: ' + res.status;
+                    return null;
+                }
+                const xmlText = await res.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
+                if (xmlDoc.getElementsByTagName("parsererror").length) {
+                    console.error("Error parsing courses.xml");
+                    document.getElementById('courses').innerText = 'Error parsing courses.xml.';
+                    return null;
+                }
+                return xmlDoc;
+            } catch (error) {
+                console.error("Failed to fetch courses.xml:", error);
+                document.getElementById('courses').innerText = 'Could not fetch course data.';
+                return null;
+            }
+        }
+
+        function makeDriveDownloadUrl(driveFileId) {
+            return `https://drive.google.com/uc?export=download&id=${encodeURIComponent(driveFileId)}`;
+        }
+
+        function countVideosInPlaylist(playlistEl) {
+            return playlistEl.querySelectorAll('video').length;
+        }
+
+        function countVideosInCourse(courseEl) {
+            return courseEl.querySelectorAll('playlist > video').length;
+        }
+
+        function countPdfsInCourse(courseEl) {
+            return courseEl.querySelectorAll('playlist > video > pdf').length;
+        }
+
+        function createCoursesUI(xml) {
+            const coursesContainer = document.getElementById('course-list-view');
+            coursesContainer.innerHTML = '';
+
+            const courseEls = Array.from(xml.querySelectorAll('course'));
+            courseEls.forEach(course => {
+                const courseDiv = document.createElement('div');
+                courseDiv.className = 'course';
+
+                const title = course.getAttribute('title') || 'Untitled course';
+                const desc = course.querySelector('description')?.textContent || course.getAttribute('description') || '';
+                const totalVideos = countVideosInCourse(course);
+                const totalPdfs = countPdfsInCourse(course);
+
+                courseDiv.innerHTML = `
+                    <div class="course-card-header"><h3><i class="fas fa-book-reader"></i> ${title}</h3></div>
+                    <div class="meta">${desc}</div>
+                    <div class="course-stats">
+                        <div class="meta total-videos-meta video-stat"><i class="fas fa-video"></i> Videos: <strong>${totalVideos}</strong></div>
+                        <div class="meta total-videos-meta pdf-stat"><i class="fas fa-file-pdf"></i> PDFs: <strong>${totalPdfs}</strong></div>
+                    </div>
+                    <div class="playlists"></div>`;
+
+                const playlistsContainer = courseDiv.querySelector('.playlists');
+                const playlistEls = Array.from(course.querySelectorAll('playlists > playlist'));
+                playlistEls.forEach(pl => {
+                    const plDiv = document.createElement('div');
+                    plDiv.className = 'playlist';
+                    const plTitle = pl.getAttribute('title') || 'Untitled playlist';
+                    const plVideos = countVideosInPlaylist(pl);
+
+                    plDiv.innerHTML = `<div><i class="fas fa-list-ul"></i> <strong>${plTitle}</strong> <span class="meta">(${plVideos} videos)</span></div>`;
+                    plDiv.addEventListener('click', () => showPlaylistVideos(pl, plTitle));
+                    playlistsContainer.appendChild(plDiv);
+                });
+                
+                // Hide playlists initially
+                playlistsContainer.style.display = 'none';
+
+                courseDiv.addEventListener('click', () => showSingleCourse(course, title, desc));
+                coursesContainer.appendChild(courseDiv);
+            });
+        }
+
+        function showSingleCourse(courseEl, courseTitle, courseDescription) {
+            const courseListView = document.getElementById('course-list-view');
+            const singleCourseView = document.getElementById('single-course-view');
+            const videosContainer = document.getElementById('videos-container');
+
+            // Hide course list and clear video container
+            courseListView.style.display = 'none';
+            videosContainer.style.display = 'none';
+            videosContainer.innerHTML = '';
+
+            // Build the single course view
+            singleCourseView.innerHTML = `
+                <button id="back-to-courses-btn"><i class="fas fa-arrow-left"></i> Back to Courses</button>
+                <div class="single-course-content">
+                    <div class="single-course-header"><h3>${courseTitle}</h3></div>
+                    <div class="meta">${courseDescription}</div>
+                    <div class="playlists" style="margin-top: 20px;"></div>
+                </div>
+            `;
+
+            const playlistsContainer = singleCourseView.querySelector('.playlists');
+            const playlistEls = Array.from(courseEl.querySelectorAll('playlists > playlist'));
+            playlistEls.forEach(pl => {
+                const plDiv = document.createElement('div');
+                plDiv.className = 'playlist';
+                const plTitle = pl.getAttribute('title') || 'Untitled playlist';
+                const plVideos = countVideosInPlaylist(pl);
+
+                plDiv.innerHTML = `
+                    <div class="playlist-title-header">${plTitle}</div>
+                    <div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>
+                `;
+                plDiv.addEventListener('click', (e) => {
+                    e.stopPropagation(); // Prevent course click event
+                    showPlaylistVideos(pl, plTitle);
+                });
+                playlistsContainer.appendChild(plDiv);
+            });
+
+            document.getElementById('back-to-courses-btn').addEventListener('click', showAllCourses);
+            singleCourseView.style.display = 'block';
+        }
+
+        function showAllCourses() {
+            document.getElementById('course-list-view').style.display = 'block';
+            document.getElementById('single-course-view').style.display = 'none';
+            document.getElementById('videos-container').style.display = 'none';
+            document.getElementById('videos-container').innerHTML = '';
+        }
+
+        function showPlaylistVideos(playlistEl, playlistTitle) {
+            const videosContainer = document.getElementById('videos-container');
+            videosContainer.style.display = 'block'; // Make the container visible
+            videosContainer.innerHTML = `<div class="playlist-video-header"><h3>${playlistTitle}</h3></div>`;
+            const videosDiv = document.createElement('div');
+            videosContainer.appendChild(videosDiv);
+
+            const videoEls = Array.from(playlistEl.querySelectorAll('video'));
+
+            if (videoEls.length === 0) {
+                videosDiv.innerHTML = '<em>No videos in this playlist</em>';
+                return;
+            }
+
+            videoEls.forEach(v => {
+                const vid = v.getAttribute('youtubeId') || '';
+                const title = v.getAttribute('title') || 'Untitled video';
+                const duration = v.getAttribute('duration') || '';
+                const pdfEl = v.querySelector('pdf');
+                const driveId = pdfEl?.getAttribute('driveFileId') || '';
+                const pdfUrl = pdfEl?.getAttribute('url') || '';
+    
+                const videoRow = document.createElement('div');
+                videoRow.className = 'video';
+    
+                const left = document.createElement('div');
+                left.style.display = 'flex';
+                left.style.gap = '12px';
+                left.style.alignItems = 'center';
+    
+                // Thumbnail
+                const thumbUrl = vid ? `https://img.youtube.com/vi/${vid}/mqdefault.jpg` : 'assets/default-thumbnail.png';
+                const img = document.createElement('img');
+                img.src = thumbUrl;
+                img.width = 120;
+                img.height = 90;
+                img.alt = title;
+                img.style.borderRadius = '4px';
+                img.style.objectFit = 'cover';
+    
+                const info = document.createElement('div');
+                info.innerHTML = `<div class="title">${title}</div>
+                                  <div class="meta">Duration: ${duration} ${vid ? `| <a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener">Open on YouTube</a>` : ''}</div>`;
+    
+                left.appendChild(img);
+                left.appendChild(info);
+    
+                let downloadHTML = '<div class="download-btn" style="color: #999;">No PDF</div>';
+                if (driveId) {
+                    downloadHTML = `<div class="download-btn"><a href="${makeDriveDownloadUrl(driveId)}" target="_blank" rel="noopener">Download PDF</a></div>`;
+                } else if (pdfUrl) {
+                    downloadHTML = `<div class="download-btn"><a href="${pdfUrl}" target="_blank" rel="noopener">Open PDF</a></div>`;
+                }
+    
+                const downloadDiv = document.createElement('div');
+                downloadDiv.innerHTML = downloadHTML;
+    
+                videoRow.appendChild(left);
+                videoRow.appendChild(downloadDiv);
+                videosDiv.appendChild(videoRow);
+            });
+
+            // Auto-scroll down to the videos container
+            videosContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        (async function init() {
+            const xml = await loadCourseXML();
+            if (!xml) return;
+            createCoursesUI(xml);
+        })();
+    }
 }); // This closes the 'DOMContentLoaded' event listener.
