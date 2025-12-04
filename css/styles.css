@@ -157,8 +157,8 @@ body, html {
 /* Modern styled date badge */
 .update-date {
     font-size: 0.8em;
-    color: #fff;
-    background-color: #4a5a8a; /* Lighter background color */
+    color: #1f2a44; /* Dark text for readability on light background */
+    background-color: #e9ecef; /* Even lighter background color */
     padding: 0.3em 0.6em;
     border-radius: 20px;
     margin-bottom: 0.5rem; /* Add some space below the date */
@@ -175,6 +175,32 @@ body, html {
         transform: translateY(0);
     }
 }
+
+/* Container for date and 'New' tag */
+.date-container {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Adds space between date and tag */
+    margin-bottom: 0.5rem; /* Same margin as the date badge had */
+}
+
+/* "New" Tag for recent updates */
+.new-tag {
+    color: #ff0000; /* Red color */
+    font-weight: bold;
+    font-size: 0.7em; /* Made the tag smaller */
+    animation: blink-animation 1.5s infinite;
+    background-color: #ffebeb;
+    padding: 1px 5px; /* Reduced padding */
+    border-radius: 5px;
+}
+
+/* Blinking animation for the "New" tag */
+@keyframes blink-animation {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+
 
   
 

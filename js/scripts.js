@@ -48,9 +48,27 @@ document.addEventListener('DOMContentLoaded', function () {
     
                     var spanDate = document.createElement("span");
                     spanDate.classList.add("update-date");
-                    spanDate.textContent = date;
+                    spanDate.textContent = date; // date variable holds the string
     
-                    li.appendChild(spanDate);
+                    const dateContainer = document.createElement('div');
+                    dateContainer.className = 'date-container';
+                    dateContainer.appendChild(spanDate);
+
+                    // --- Add "New" tag for recent updates ---
+                    const dateParts = date.split('-'); // Correctly parse YYYY-MM-DD
+                    const updateDate = new Date(+dateParts[0], dateParts[1] - 1, +dateParts[2]);
+                    const today = new Date();
+                    const diffTime = Math.abs(today - updateDate);
+                    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+                    if (diffDays <= 7) {
+                        const newTag = document.createElement('span');
+                        newTag.classList.add('new-tag');
+                        newTag.textContent = 'New';
+                        dateContainer.appendChild(newTag); // Append tag next to the date
+                    }
+
+                    li.appendChild(dateContainer);
                     li.appendChild(a);
                     ul.appendChild(li);
                 }
