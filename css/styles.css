@@ -1470,23 +1470,42 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     box-shadow: 0 8px 32px rgba(0, 30, 80, 0.1);
 }
 
-/* Individual Video Row */
-.video {
-    padding: 15px 10px;
-    border-bottom: 1px solid #e9ecef;
-    display: flex;
-    gap: 12px;
-    align-items: center;
-    justify-content: space-between;
-    transition: background-color 0.2s ease;
+/* Create a grid for the video cards */
+#videos-container > div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
 }
 
-.video:last-child {
-    border-bottom: none;
+/* Individual Video Row */
+.video {
+    /* Glassmorphism Card Style */
+    background-color: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    padding: 15px;
+    box-shadow: 0 8px 20px rgba(0, 30, 80, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between thumbnail, info, and buttons */
+    animation: card-fade-in 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+/* Staggered animation for cards */
+.video:nth-child(2) { animation-delay: 0.1s; }
+.video:nth-child(3) { animation-delay: 0.2s; }
+.video:nth-child(4) { animation-delay: 0.3s; }
+
+@keyframes card-fade-in {
+    to { opacity: 1; transform: translateY(0); }
 }
 
 .video:hover {
-    background-color: #f8f9fa;
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0, 30, 80, 0.15);
 }
 
 .video .title {
@@ -1494,10 +1513,23 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #1f2a44;
 }
 
+.video .video-details-left {
+    width: 100%;
+    flex-direction: column; /* Stack thumbnail and info vertically */
+    align-items: flex-start;
+}
+
+.video .video-details-left img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+    border-radius: 10px; /* Rounded corners for the thumbnail */
+    margin-bottom: 10px;
+}
+
 .video .video-info {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .video .info {
@@ -1533,23 +1565,19 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 .youtube-btn {
     background-color: #ff0000;
     color: white;
-    text-decoration: none;
-    padding: 5px 12px;
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 0.85em;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    transition: background-color 0.3s ease;
 }
 .youtube-btn:hover {
     background-color: #cc0000;
 }
 
-/* Download Button Styling */
-.video .download-btn a {
-    background-color: #1f2a44;
+.video-actions {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+    margin-top: auto; /* Pushes buttons to the bottom of the card */
+}
+
+/* Base styles for both buttons */
+.pdf-btn, .youtube-btn {
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -1559,23 +1587,12 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     align-items: center;
     gap: 8px; /* Space between icon and text */
     transition: background-color 0.3s ease;
+    font-size: 0.85em; /* Ensure consistent font size */
 }
 
-.video .download-btn a:hover {
+.pdf-btn {
+    background-color: #1f2a44; /* Black/Dark Blue background */
+}
+.pdf-btn:hover {
     background-color: #0d121f;
-}
-
-/* Add a container for the video thumbnail and info to group them */
-.video .video-details {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    flex-grow: 1;
-}
-
-.video-details-left {
-    display: flex;
-    gap: 12px;
-    align-items: center;
-}
 }

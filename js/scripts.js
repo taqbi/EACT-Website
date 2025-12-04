@@ -1103,31 +1103,31 @@ document.addEventListener('DOMContentLoaded', function () {
                 info.className = 'video-info';
                 info.innerHTML = `
                     <div class="title">${title}</div>
-                    <div class="video-meta">
-                        <span class="duration-badge"><i class="fas fa-clock"></i> ${duration}</span>
-                        ${vid ? `<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener" class="youtube-btn"><i class="fab fa-youtube"></i> Watch</a>` : ''}
-                    </div>
+                    <span class="duration-badge"><i class="fas fa-clock"></i> ${duration}</span>
                 `;
     
                 left.appendChild(img);
                 left.appendChild(info);
     
-                const downloadDiv = document.createElement('div');
-                downloadDiv.className = 'download-btn';
+                const actionButtons = document.createElement('div');
+                actionButtons.className = 'video-actions';
+
+                // Add Watch button
+                if (vid) {
+                    actionButtons.innerHTML += `<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener" class="youtube-btn"><i class="fab fa-youtube"></i> Watch</a>`;
+                }
 
                 // Only show individual PDF buttons if there is no compiled PDF for the playlist.
                 if (!hasCompiledPdf) {
                     if (driveId) {
-                        downloadDiv.innerHTML = `<a href="${makeDriveViewUrl(driveId)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
+                        actionButtons.innerHTML += `<a href="${makeDriveViewUrl(driveId)}" target="_blank" rel="noopener" class="pdf-btn"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
                     } else if (pdfUrl) {
-                        downloadDiv.innerHTML = `<a href="${pdfUrl}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
-                    } else {
-                        downloadDiv.innerHTML = '<span style="color: #999;">No PDF</span>';
+                        actionButtons.innerHTML += `<a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
                     }
                 }
 
                 videoRow.appendChild(left);
-                videoRow.appendChild(downloadDiv);
+                videoRow.appendChild(actionButtons);
                 videosDiv.appendChild(videoRow);
             });
 
