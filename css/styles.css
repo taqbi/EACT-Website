@@ -98,10 +98,10 @@ body, html {
 /* Container box around the whole update list */
 .update-container {
     background-color: #ffffff;
-    border: 2px solid #120062;
-    border-radius: 10px;
-    padding: 2%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e0e7ef; /* A very light, subtle border */
+    border-radius: 16px; /* Softer, more modern corners */
+    padding: 24px; /* Consistent padding */
+    box-shadow: 0 8px 32px rgba(0, 30, 80, 0.12); /* A more modern, layered shadow for a 3D effect */
     max-width: 90%;
     margin: 0 auto 2rem auto;
     max-height: 300px; /* Set a fixed height for the container */
@@ -323,6 +323,19 @@ body, html {
 .content-section,
 .popular-video-section,
 .popular-playlist-section,
+.testimonial-section {
+    background-color: #ffffff;
+    border: 1px solid #e0e7ef;
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 32px rgba(0, 30, 80, 0.12);
+    max-width: 90%;
+    margin: 40px auto 0 auto;
+}
+
+.content-section,
+.popular-video-section,
+.popular-playlist-section,
 .testimonial-section,
 .guidance-form-section {
     margin-top: 40px;
@@ -465,31 +478,11 @@ body, html {
 
 /* Specific styling for Popular Videos and Playlists titles */
 .popular-video-section h2 {
-
-    background-color: #e0f7fa; /* Light Cyan */
-    color: #00796b; /* Darker Cyan for text */
-    padding: 5px 15px;
-    border-radius: 20px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    border-bottom: none; /* Remove the underline effect */
+    border-bottom: 1px solid #ddd;
 }
 
 .popular-playlist-section h2 {
-    background-color: #e8f5e9; /* Light Green */
-    color: #388e3c; /* Darker Green for text */
-    padding: 5px 15px;
-    border-radius: 20px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    border-bottom: none; /* Remove the underline effect */
-}
-
-.testimonial-section h2 {
-    background-color: #f3e5f5; /* Light Lavender */
-    color: #8e24aa; /* Darker Purple for text */
-    padding: 8px 20px;
-    border-radius: 20px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    border-bottom: none; /* Remove the underline effect */
+    border-bottom: 1px solid #ddd;
 }
 
 
@@ -718,7 +711,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Testimonial Section */
 .testimonial-section {
-    /* padding: 20px 0; */ /* Replaced with margin-top */
+    padding: 24px;
     position: relative;
 }
 
@@ -1116,12 +1109,24 @@ fieldset.video-item legend, fieldset.playlist-item legend {
    ✅ Max Width: 480px - Mobile View (Portrait Phones)
    ========================================================= */
 @media (max-width: 480px) {
+    /* Reduce width of updates container on mobile */
+    .update-container {
+        max-width: 95%;
+    }
+
     /* Grid changes */
     .container-grid,
     .grid-container,
     .video-grid,
     .testimonial-grid {
         grid-template-columns: 1fr;
+    }
+
+    /* Make cards in scrolling sections smaller on mobile */
+    .video-item,
+    .playlist-item,
+    .testimonial-item {
+        flex: 0 0 220px; /* Reduce card width from 280px to 220px */
     }
 
     .job-card {
