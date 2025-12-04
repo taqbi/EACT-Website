@@ -1393,6 +1393,19 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     font-size: 1.1rem;
 }
 
+.playlist-meta-container {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.playlist-stats, .compiled-pdf-btn {
+    margin: 0; /* Override the margin from the old rule */
+    text-decoration: none;
+}
+
 .playlist-stats {
     display: inline-flex; /* Use inline-flex to make it capsule-like */
     align-items: center;
@@ -1404,6 +1417,12 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     font-size: 0.9em;
     background-color: #e0f2fe; /* Using the same blue as the course card video stat */
     color: #0c4a6e;
+}
+
+/* Styling for the new Compiled PDF button */
+.compiled-pdf-btn {
+    background-color: #dcfce7; /* Using the same green as the course card pdf stat */
+    color: #065f46;
 }
 
 .playlist-stats .fas {
@@ -1490,52 +1509,4 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     align-items: center;
     gap: 15px;
     flex-grow: 1;
-}
-    background-color: #f8f9fa;
-}
-
-.video .title {
-    font-weight: 600;
-    color: #1f2a44;
-}
-
-.video .info {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-}
-
-.video .meta {
-    font-size: 0.85em;
-    color: #6c757d;
-}
-
-/* Download Button Styling */
-.video .download-btn a {
-    background-color: #1f2a44;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 8px 15px;
-    border-radius: 8px;
-    transition: background-color 0.3s ease;
-}
-
-.video .download-btn a:hover {
-    background-color: #0d121f;
-}
-
-/* Add a container for the video thumbnail and info to group them */
-.video .video-details {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    flex-grow: 1;
-}
-}
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    flex-grow: 1;
-}
 }

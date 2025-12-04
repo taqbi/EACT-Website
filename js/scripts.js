@@ -885,7 +885,7 @@ document.addEventListener('DOMContentLoaded', function () {
             try {
                 const res = await fetch('data/courses.xml');
                 if (!res.ok) {
-                    document.getElementById('courses').innerText = 'Failed to load courses.xml. Status: ' + res.status;
+                    document.getElementById('course-list-view').innerText = 'Failed to load courses.xml. Status: ' + res.status;
                     return null;
                 }
                 const xmlText = await res.text();
@@ -893,19 +893,19 @@ document.addEventListener('DOMContentLoaded', function () {
                 const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
                 if (xmlDoc.getElementsByTagName("parsererror").length) {
                     console.error("Error parsing courses.xml");
-                    document.getElementById('courses').innerText = 'Error parsing courses.xml.';
+                    document.getElementById('course-list-view').innerText = 'Error parsing courses.xml.';
                     return null;
                 }
                 return xmlDoc;
             } catch (error) {
                 console.error("Failed to fetch courses.xml:", error);
-                document.getElementById('courses').innerText = 'Could not fetch course data.';
+                document.getElementById('course-list-view').innerText = 'Could not fetch course data.';
                 return null;
             }
         }
 
-        function makeDriveDownloadUrl(driveFileId) {
-            return `https://drive.google.com/uc?export=download&id=${encodeURIComponent(driveFileId)}`;
+        function makeDriveViewUrl(driveFileId) {
+            return `https://drive.google.com/file/d/${encodeURIComponent(driveFileId)}/view`;
         }
 
         function countVideosInPlaylist(playlistEl) {
@@ -917,7 +917,27 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         function countPdfsInCourse(courseEl) {
-            return courseEl.querySelectorAll('playlist > video > pdf').length;
+            let totalPdfCount = 0;
+            const playlists = courseEl.querySelectorAll('playlists > playlist');
+
+            playlists.forEach(playlist => {
+                const compiledPdfId = playlist.getAttribute('compiledPdfDriveId');
+                if (compiledPdfId && compiledPdfId.trim() !== '') {
+                    // If a compiled PDF exists for the playlist, count it as 1 and move to the next playlist.
+                    totalPdfCount++;
+                } else {
+                    // If no compiled PDF, count individual non-blank PDFs for each video in this playlist.
+                    const videoPdfs = playlist.querySelectorAll('video > pdf');
+                    videoPdfs.forEach(pdf => {
+                        const driveId = pdf.getAttribute('driveFileId');
+                        const url = pdf.getAttribute('url');
+                        if ((driveId && driveId.trim() !== '') || (url && url.trim() !== '')) {
+                            totalPdfCount++;
+                        }
+                    });
+                }
+            });
+            return totalPdfCount;
         }
 
         function createCoursesUI(xml) {
@@ -992,9 +1012,16 @@ document.addEventListener('DOMContentLoaded', function () {
                 const plTitle = pl.getAttribute('title') || 'Untitled playlist';
                 const plVideos = countVideosInPlaylist(pl);
 
+                // Check for a compiled PDF for the entire playlist
+                const compiledPdfId = pl.getAttribute('compiledPdfDriveId');
+                let compiledPdfButton = '';
+                if (compiledPdfId) {
+                    compiledPdfButton = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Compiled PDF</a>`;
+                }
+
                 plDiv.innerHTML = `
                     <div class="playlist-title-header">${plTitle}</div>
-                    <div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>
+                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${compiledPdfButton}</div>
                 `;
                 plDiv.addEventListener('click', (e) => {
                     e.stopPropagation(); // Prevent course click event
@@ -1027,6 +1054,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 videosDiv.innerHTML = '<em>No videos in this playlist</em>';
                 return;
             }
+
+            // Check if the parent playlist has a compiled PDF.
+            const hasCompiledPdf = playlistEl.hasAttribute('compiledPdfDriveId');
 
             videoEls.forEach(v => {
                 const vid = v.getAttribute('youtubeId') || '';
@@ -1061,16 +1091,20 @@ document.addEventListener('DOMContentLoaded', function () {
                 left.appendChild(img);
                 left.appendChild(info);
     
-                let downloadHTML = '<div class="download-btn" style="color: #999;">No PDF</div>';
-                if (driveId) {
-                    downloadHTML = `<div class="download-btn"><a href="${makeDriveDownloadUrl(driveId)}" target="_blank" rel="noopener">Download PDF</a></div>`;
-                } else if (pdfUrl) {
-                    downloadHTML = `<div class="download-btn"><a href="${pdfUrl}" target="_blank" rel="noopener">Open PDF</a></div>`;
-                }
-    
                 const downloadDiv = document.createElement('div');
-                downloadDiv.innerHTML = downloadHTML;
-    
+                downloadDiv.className = 'download-btn';
+
+                // Only show individual PDF buttons if there is no compiled PDF for the playlist.
+                if (!hasCompiledPdf) {
+                    if (driveId) {
+                        downloadDiv.innerHTML = `<a href="${makeDriveViewUrl(driveId)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
+                    } else if (pdfUrl) {
+                        downloadDiv.innerHTML = `<a href="${pdfUrl}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
+                    } else {
+                        downloadDiv.innerHTML = '<span style="color: #999;">No PDF</span>';
+                    }
+                }
+
                 videoRow.appendChild(left);
                 videoRow.appendChild(downloadDiv);
                 videosDiv.appendChild(videoRow);
