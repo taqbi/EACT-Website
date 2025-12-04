@@ -104,6 +104,8 @@ body, html {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     max-width: 90%;
     margin: 0 auto 2rem auto;
+    max-height: 300px; /* Set a fixed height for the container */
+    overflow-y: auto;  /* Enable vertical scrolling */
 }
 
 /* Remove default list styling */
@@ -116,9 +118,9 @@ body, html {
 /* Individual list item without its own box */
 #update-list li {
     
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: flex-start; /* Align items to the start (left) */
     padding: 1rem 0;
     border-bottom: 1px solid #ddd;
     transition: background-color 0.2s ease;
@@ -156,10 +158,10 @@ body, html {
 .update-date {
     font-size: 0.8em;
     color: #fff;
-    background-color: #120062;
+    background-color: #4a5a8a; /* Lighter background color */
     padding: 0.3em 0.6em;
     border-radius: 20px;
-    margin-left: 1rem;
+    margin-bottom: 0.5rem; /* Add some space below the date */
     white-space: nowrap;
     animation: fadeSlideIn 0.5s ease-out forwards;
     opacity: 0;
@@ -437,6 +439,7 @@ body, html {
 
 /* Specific styling for Popular Videos and Playlists titles */
 .popular-video-section h2 {
+
     background-color: #e0f7fa; /* Light Cyan */
     color: #00796b; /* Darker Cyan for text */
     padding: 5px 15px;

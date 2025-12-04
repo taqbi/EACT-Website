@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (!ul) return; // Safety check if update-list not found on this page
                 ul.innerHTML = "";
     
-                var limit = showAll ? updates.length : 5;
+                var limit = updates.length; // Always load all updates
     
                 for (var i = 0; i < limit; i++) {
                     var text = updates[i].getElementsByTagName("text")[0].textContent;
@@ -50,15 +50,41 @@ document.addEventListener('DOMContentLoaded', function () {
                     spanDate.classList.add("update-date");
                     spanDate.textContent = date;
     
-                    li.appendChild(a);
                     li.appendChild(spanDate);
+                    li.appendChild(a);
                     ul.appendChild(li);
                 }
+
+                // Start auto-scrolling if the content is scrollable
+                const updateContainer = ul.closest('.update-container');
+                if (updateContainer && updateContainer.scrollHeight > updateContainer.clientHeight) {
+                    autoScrollView(updateContainer);
+                }
+
             } else if (xhr.readyState === 4) {
                 console.error("Failed to load XML: Status " + xhr.status);
             }
         };
         xhr.send();
+    }
+
+    function autoScrollView(element) {
+        let scrollInterval;
+
+        function startScrolling() {
+            scrollInterval = setInterval(() => {
+                if (element.scrollTop + element.clientHeight >= element.scrollHeight) {
+                    element.scrollTop = 0; // Loop back to the top
+                } else {
+                    element.scrollTop += 1; // Scroll down by 1 pixel
+                }
+            }, 50); // Adjust interval for speed (50ms is a slow, smooth scroll)
+        }
+
+        element.addEventListener('mouseenter', () => clearInterval(scrollInterval));
+        element.addEventListener('mouseleave', startScrolling);
+
+        startScrolling();
     }
     
     function loadPopularVideos() {
