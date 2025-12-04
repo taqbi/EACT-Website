@@ -912,6 +912,18 @@ document.addEventListener('DOMContentLoaded', function () {
             return playlistEl.querySelectorAll('video').length;
         }
 
+        function countPdfsInPlaylist(playlistEl) {
+            let pdfCount = 0;
+            const pdfNodes = playlistEl.querySelectorAll('video > pdf');
+            pdfNodes.forEach(pdf => {
+                const driveId = pdf.getAttribute('driveFileId');
+                const url = pdf.getAttribute('url');
+                if ((driveId && driveId.trim() !== '') || (url && url.trim() !== '')) {
+                    pdfCount++;
+                }
+            });
+            return pdfCount;
+        }
         function countVideosInCourse(courseEl) {
             return courseEl.querySelectorAll('playlist > video').length;
         }
@@ -1014,14 +1026,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 // Check for a compiled PDF for the entire playlist
                 const compiledPdfId = pl.getAttribute('compiledPdfDriveId');
-                let compiledPdfButton = '';
-                if (compiledPdfId) {
-                    compiledPdfButton = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Compiled PDF</a>`;
+                let pdfInfoHtml = '';
+                if (compiledPdfId && compiledPdfId.trim() !== '') {
+                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Single Compiled PDF</a>`;
+                } else {
+                    const individualPdfCount = countPdfsInPlaylist(pl);
+                    if (individualPdfCount > 0) {
+                        pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${individualPdfCount} PDFs</div>`;
+                    }
                 }
 
                 plDiv.innerHTML = `
                     <div class="playlist-title-header">${plTitle}</div>
-                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${compiledPdfButton}</div>
+                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}</div>
                 `;
                 plDiv.addEventListener('click', (e) => {
                     e.stopPropagation(); // Prevent course click event

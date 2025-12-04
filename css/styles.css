@@ -1431,7 +1431,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #0c4a6e;
 }
 
-/* Styling for the new Compiled PDF button */
+/* Styling for the Compiled PDF button and individual PDF count badge */
 .compiled-pdf-btn {
     background-color: #dcfce7; /* Using the same green as the course card pdf stat */
     color: #065f46;
@@ -1439,6 +1439,11 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .playlist-stats .fas {
     font-size: 0.8em;
+}
+
+.playlist-meta-container .pdf-stat {
+    background-color: #dcfce7;
+    color: #065f46;
 }
 
 /* Header for the video list inside the course page */
