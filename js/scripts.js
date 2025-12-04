@@ -952,6 +952,27 @@ document.addEventListener('DOMContentLoaded', function () {
             return totalPdfCount;
         }
 
+        function calculateCourseDuration(courseEl) {
+            let totalSeconds = 0;
+            const videoEls = courseEl.querySelectorAll('playlist > video');
+
+            videoEls.forEach(video => {
+                const durationStr = video.getAttribute('duration') || '0';
+                const parts = durationStr.split(':').map(Number);
+                let seconds = 0;
+                if (parts.length === 3) { // HH:MM:SS
+                    seconds = (parts[0] * 3600) + (parts[1] * 60) + parts[2];
+                } else if (parts.length === 2) { // MM:SS
+                    seconds = (parts[0] * 60) + parts[1];
+                } else if (parts.length === 1) { // SS
+                    seconds = parts[0];
+                }
+                totalSeconds += seconds;
+            });
+            const totalHours = totalSeconds / 3600;
+            return Math.round(totalHours); // Return the nearest whole number of hours
+        }
+
         function createCoursesUI(xml) {
             const coursesContainer = document.getElementById('course-list-view');
             coursesContainer.innerHTML = '';
@@ -965,13 +986,19 @@ document.addEventListener('DOMContentLoaded', function () {
                 const desc = course.querySelector('description')?.textContent || course.getAttribute('description') || '';
                 const totalVideos = countVideosInCourse(course);
                 const totalPdfs = countPdfsInCourse(course);
+                const totalHours = calculateCourseDuration(course);
 
                 courseDiv.innerHTML = `
+                    <div class="free-ribbon">FREE</div>
                     <div class="course-card-header"><h3><i class="fas fa-book-reader"></i> ${title}</h3></div>
                     <div class="meta">${desc}</div>
                     <div class="course-stats">
+                        <div class="meta total-videos-meta hours-stat"><i class="fas fa-clock"></i> ~${totalHours} Hours</div>
                         <div class="meta total-videos-meta video-stat"><i class="fas fa-video"></i> Videos: <strong>${totalVideos}</strong></div>
                         <div class="meta total-videos-meta pdf-stat"><i class="fas fa-file-pdf"></i> PDFs: <strong>${totalPdfs}</strong></div>
+                    </div>
+                    <div class="explore-btn-container">
+                        <button class="explore-btn">Explore Course <i class="fas fa-arrow-right"></i></button>
                     </div>
                     <div class="playlists"></div>`;
 
@@ -1023,22 +1050,28 @@ document.addEventListener('DOMContentLoaded', function () {
                 plDiv.className = 'playlist';
                 const plTitle = pl.getAttribute('title') || 'Untitled playlist';
                 const plVideos = countVideosInPlaylist(pl);
+                const marks = pl.getAttribute('marks');
 
                 // Check for a compiled PDF for the entire playlist
                 const compiledPdfId = pl.getAttribute('compiledPdfDriveId');
                 let pdfInfoHtml = '';
                 if (compiledPdfId && compiledPdfId.trim() !== '') {
-                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Single Compiled PDF</a>`;
+                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Compiled PDF</a>`;
                 } else {
                     const individualPdfCount = countPdfsInPlaylist(pl);
                     if (individualPdfCount > 0) {
                         pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${individualPdfCount} PDFs</div>`;
                     }
                 }
+                
+                let marksInfoHtml = '';
+                if (marks) {
+                    marksInfoHtml = `<div class="playlist-stats marks-stat"><i class="fas fa-check-circle"></i> ${marks} Marks</div>`;
+                }
 
                 plDiv.innerHTML = `
                     <div class="playlist-title-header">${plTitle}</div>
-                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}</div>
+                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}${marksInfoHtml}</div>
                 `;
                 plDiv.addEventListener('click', (e) => {
                     e.stopPropagation(); // Prevent course click event

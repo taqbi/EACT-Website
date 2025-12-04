@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <courses>
-  <course id="c001" title="JKSSB FAA">
-    <description>JKSSB Finance Accounts Assistant Free Course</description>
+  <course id="c001" title="JKSSB FAA 2026">
+    <description>Free Complete JKSSB Finance Accounts Assistant Course</description>
     <playlists>
       
       
-     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" compiledPdfDriveId="1Zy73cWJGgdM-yaO7RMes--HuSDpmvjiX">
+     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" compiledPdfDriveId="1Zy73cWJGgdM-yaO7RMes--HuSDpmvjiX" marks="30">
   <video id="v101" title="ACCOUNTANCY BOOK FOR FINANCE ACCOUNTS ASSISTANT EXAM || BOOK RELEASE || JKSSB || CA MOHAMAD LATEEF" youtubeId="QimLDYRZU9c" duration="43:24" position="1">
     <pdf driveFileId="" url=""/>
   </video>
@@ -221,7 +221,7 @@
 
 
 
-<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R">
+<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R" marks="20">
   <video id="v201" title="Physical &amp; Political Divisions of World | One Shot | By Tawqeer Sir" youtubeId="qpISxkoOloo" duration="48:13" position="1">
     <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url=""/>
   </video>
@@ -278,8 +278,6 @@
     <pdf driveFileId="1jjDkDjrgoezVrnsvG8IKo8CaZFcK7McE" url=""/>
   </video>
  
- 
-  
   <video id="v217" title="Lec 1 | Physiography of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="aY5gHf0D8JU" duration="1:15:41" position="17">
     <pdf driveFileId="1eMdX7dJ3wosPIZVtowP0BMXDzuRQx4BD" url=""/>
   </video>
@@ -309,7 +307,7 @@
 
 
 
-<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R">
+<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R" marks="30">
   <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
     <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
   </video>
@@ -508,7 +506,7 @@
 
 
 
-<playlist id="pl107" title="Economics" youtubePlaylistId="PLfM9ONl2Lh0J7Lv0TlU3zfQw9k-y2TGIL">
+<playlist id="pl107" title="Economics" youtubePlaylistId="PLfM9ONl2Lh0J7Lv0TlU3zfQw9k-y2TGIL" compiledPdfDriveId="1_3VjHNd9v0cHF5xBzUOoDdnDgdXnjUKZ" marks="10">
   <video id="v501" title="Economics - Introduction &amp; Basic Concepts | JKSSB Finance Accounts Assistant Exam | Lecture 1" youtubeId="ljIs2RmLfU0" duration="22:28" position="1">
     <pdf driveFileId="" url=""/>
   </video>
@@ -588,7 +586,7 @@
 
 
 
-<playlist id="pl106" title="General Science for JKSSB FAA" youtubePlaylistId="PLfM9ONl2Lh0JAFoA1Lv0aiHY-F37Rn8WQ">
+<playlist id="pl106" title="General Science for JKSSB FAA" youtubePlaylistId="PLfM9ONl2Lh0JAFoA1Lv0aiHY-F37Rn8WQ" marks="10">
   <video id="v401" title="Motion - One Shot Revision | Class 9 Physics Chapter 8 (2022-23)" youtubeId="1Mf8plOjlbA" duration="2:19:59" position="1">
     <pdf driveFileId="" url=""/>
   </video>
@@ -629,12 +627,12 @@
 
 
 
-<playlist id="pl108" title="Maths" youtubePlaylistId="PLfM9ONl2Lh0Jwi7q4vTa1kFexbfjwXlUu">
+<playlist id="pl108" title="Maths" youtubePlaylistId="PLfM9ONl2Lh0Jwi7q4vTa1kFexbfjwXlUu" marks="10">
   <video id="v601" title="PERMUTATIONS | PERMUTATIONS &amp; COMBINATIONS | MATHS | LECTURE 1 | JKSSB EXAMS | FAA | CA NAYEEM SHAFI" youtubeId="5YvMk8bcEe4" duration="1:08:18" position="1">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1_BQAgPSZ3nRW1z_Luj-bzreU0aB83CHA" url=""/>
   </video>
   <video id="v602" title="COMBINATIONS | PERMUTATIONS &amp; COMBINATIONS | MATHS | LECTURE 2 | JKSSB EXAMS | FAA | CA NAYEEM SHAFI" youtubeId="Sg-qiSkW3_0" duration="2:03:28" position="2">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1_HMIJzYg9rjwDkdzrr8EQ4WVv3bFZCRi" url=""/>
   </video>
   <video id="v603" title="PERMUTATIONS AND COMBINATIONS | Basic Questions | Maths | Lecture 3 | JKSSB FAA| CA Nayeem Shafi" youtubeId="XuSw2ghkcjI" duration="1:24:17" position="3">
     <pdf driveFileId="" url=""/>
@@ -646,34 +644,34 @@
     <pdf driveFileId="" url=""/>
   </video>
   <video id="v606" title="LINEAR EQUATION IN TWO VARIABLES -CONCEPT AND EXAMPLES | LECTURE 5 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="wlqxU63WExQ" duration="1:34:07" position="6">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_LW_pidSPEoiivJoR3iZ9fVDXOyyOUUs/view?usp=drive_link"/>
   </video>
   <video id="v607" title="LINEAR EQUATIONS - QUESTIONS ON BASICS AND APPLICATIONS | LECTURE 5A | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="c1XgrKJ1Hd0" duration="1:15:34" position="7">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_LpaaW0_eHT0l98s1zv6Jsl8BJxhlbCi/view?usp=drive_link"/>
   </video>
   <video id="v608" title="PROBABILITY - CONCEPT AND EXAMPLES | LECTURE 6 | MATHS | JKSSB FAA EXAM | CA NAYEEM" youtubeId="RFjc7aUFHio" duration="1:44:50" position="8">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_NvW43iZzXDlmjX3GxYTZ3Z_xEgpduzx/view?usp=drive_link"/>
   </video>
   <video id="v609" title="PROBABILITY - 50 MCQS SOLVED (BASIC+HIGHER SKILL SET) | LECTURE 7 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="7DnHJMDTV80" duration="1:23:50" position="9">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_Zfw2kh_Ul0FeMY7683g_tAjWdvEQlYD/view?usp=sharing"/>
   </video>
   <video id="v610" title="SET THEORY - BASIC CONCEPT &amp; APPLICATION| LECTURE 8 | MATHS | JKSSB FAA EXAM | CA NAYEEM SHAFI" youtubeId="QJH8Zi9vYPc" duration="1:34:49" position="10">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_c7GnVo0ip_2UJaXpPURb2pEUbPzOFNA/view?usp=drive_link"/>
   </video>
   <video id="v611" title="SETS EXAMPLES AND BASIC QUESTIONS | LECTURE 9A | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="uCL6sdTHz6o" duration="1:00:23" position="11">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_eumq2EWuGyE0LCL-qu__xPMRIZfLncq/view?usp=drive_link"/>
   </video>
   <video id="v612" title="SETS QUESTIONS ON APPLICATIONS OF SETS | LECTURE 9B | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="3lWF1PRcR0U" duration="1:02:32" position="12">
     <pdf driveFileId="" url=""/>
   </video>
   <video id="v613" title="SIMPLE INTEREST -CONCEPT TECHNIQUES AND SHORTCUTS | LECTURE 10| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="LnuRCkg75OM" duration="1:13:51" position="13">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_gi2Nk2w2oQV8XAsSkl-A2uEzMWX8DuB/view?usp=drive_link"/>
   </video>
   <video id="v614" title="SIMPLE INTEREST - 40 SOLVED MCQS | LECTURE 11| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="JsOdhFtwmO4" duration="1:13:37" position="14">
     <pdf driveFileId="" url=""/>
   </video>
   <video id="v615" title="COMPOUND INTEREST -CONCEPTS AND SHORTCUT | LECTURE 12| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="DXqtC2pLclQ" duration="57:41" position="15">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_mU3KgdELAYUqEdDQFiQ6gh9oH3sb31v/view?usp=drive_link"/>
   </video>
   <video id="v616" title="Simple &amp; Compound Interest - Concepts &amp; Shortcuts | LECTURE 13| MATHS | JKSSB FAA | CA NAYEEM" youtubeId="yaO74MOJs6E" duration="55:25" position="16">
     <pdf driveFileId="" url=""/>
@@ -691,19 +689,19 @@
     <pdf driveFileId="" url=""/>
   </video>
   <video id="v621" title="RELATION AND FUNCTIONS -CONCEPT | LECTURE 18 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="EwUuSittbc0" duration="1:05:19" position="21">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_m_No5fmnwQMIMd2qvSjRx0r5uPKjweF/view?usp=drive_link"/>
   </video>
   <video id="v622" title="TYPES OF RELATIONS | LECTURE 19 | MATHS | JKSSB FAA | CA NAYEEM SHAFI" youtubeId="1YK8eM3ljqI" duration="47:37" position="22">
     <pdf driveFileId="" url=""/>
   </video>
   <video id="v623" title="FUNCTIONS AND RELATIONS SOLVED MCQS | LECTURE 20 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="k33Wl7u33U8" duration="1:01:53" position="23">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_meA7Jsfocz7nnvKOnsk-BOmoa1GgPOB/view?usp=drive_link"/>
   </video>
   <video id="v624" title="CO-ORDINATE GEOMETRY | LECTURE 21 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="h6ZK8y2wCJs" duration="1:27:39" position="24">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1_tM75SYUF7WgxDGle1UwhiKLTG5al8hH/view?usp=drive_link"/>
   </video>
   <video id="v625" title="CO-ORDINATE GEOMETRY -EXAMPLES| LECTURE 22 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="kk7tdJ3ypE4" duration="59:46" position="25">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1a3476ikNoF2_qfGJYBXQ47h-GJgLWIPk/view?usp=drive_link"/>
   </video>
   <video id="v626" title="CO-ORDINATE GEOMETRY -TRIANGLE AND COLLINEARITY | LECTURE 23 | MATHS | JKSSB FAA | CA NAYEEM" youtubeId="iN1xrn221xY" duration="1:36:57" position="26">
     <pdf driveFileId="" url=""/>
@@ -759,7 +757,7 @@
 
 
 
-<playlist id="pl109" title="Statistics" youtubePlaylistId="PLfM9ONl2Lh0LPWHsvLVD6nSAGAU-YlBnz">
+<playlist id="pl109" title="Statistics" youtubePlaylistId="PLfM9ONl2Lh0LPWHsvLVD6nSAGAU-YlBnz" compiledPdfDriveId="1hciQnKsi1xpqHCpK3wC5T9ChiytD1duS" marks="10">
   <video id="v701" title="Primary &amp; Secondary Data | Statistics | Lecture 1 | JKSSB Exam | Rafiq Bashir (M Sc / PAA Qualified)" youtubeId="LyTICPhhQEA" duration="10:30" position="1">
     <pdf driveFileId="" url=""/>
   </video>
@@ -817,22 +815,306 @@
 </playlist>
 
 
-
     </playlists>
-  </course>
+</course>
 
-<course id="c002" title="JKSSB Junior Assistant">
-    <description>JKSSB Junior Assistant Free Course</description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<course id="c002" title="JKSSB Junior Assistant 2026">
+    <description>Free JKSSB Junior Assistant Course</description>
     <playlists>
-      <playlist id="pl101" title="General Knowledge with Special Reference to Jammu and Kashmir" youtubePlaylistId="PL_EXAMPLE_1">
-        <video id="v101" title="Physical and Political Divisions of the World" youtubeId="qpISxkoOloo" duration="01::05:34" position="1">
-          <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url="https://drive.google.com/file/d/1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr/view?usp=drive_link"/>
-        </video>
-        <video id="v102" title="TOP MCQs on Physical and Political DIvisions of the World" youtubeId="2RA5cGWKnyY" duration="1:10:00" position="2">
-          <pdf driveFileId="1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku" url="https://drive.google.com/file/d/1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku/view?usp=drive_link"/>
-        </video>
-      </playlist>
+      
+
+<playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R">
+  
+
+  <video id="v203" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="3">
+    <pdf driveFileId="1Bv0-w0FR9KGLSl7um2wVbnqOc84Rw-90" url=""/>
+  </video>
+
+  <video id="v215" title="Top MCQs on Physical and Political Divisions of India | For JKSSB Naib Tehsildar Patwari SI" youtubeId="98NNur7e36A" duration="58:03" position="15">
+    <pdf driveFileId="1Q4QtR2mFLyN832u6LB5apHeA16viPRfS" url=""/>
+  </video>
+  
+  <video id="v212" title="Climate of India | Indian Weather | Monsoon | Tawqeer Sir | One Shot | For All Competitive Exams" youtubeId="wXYfvTl6ELI" duration="1:33:50" position="12">
+    <pdf driveFileId="1XflzoulIMf0LDjJaHRmEqA2T_e7H1Znx" url=""/>
+  </video>
+   <video id="v211" title="Top MCQs on Climate of India | Indian Monsson | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="oKeO2IuJ2gk" duration="54:49" position="11">
+    <pdf driveFileId="1kNaRfapP6tiXLiJJsR6UI3e9SPBEWY9L" url=""/>
+  </video>
+
+ <video id="v214" title="Rivers of India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="iDmBlSbxiy8" duration="1:22:31" position="14">
+    <pdf driveFileId="1J4GRbi6UJifVfyWqGNXGDEtQ9V7APmNI" url=""/>
+  </video>
+  <video id="v213" title="Top MCQs on Rivers of India | For JKSSB JKPSC NDA UPSC | By Tawqeer Sir" youtubeId="20EgHcpUAd8" duration="46:21" position="13">
+    <pdf driveFileId="1zFDCBLFQU5wH5nW2Cm99dTKw9etaX7VK" url=""/>
+  </video>
+
+  <video id="v204" title="Lakes Of India | ONE SHOT | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="CZjLQ6CCAb0" duration="59:24" position="4">
+    <pdf driveFileId="1LAzTQifvBNXwp8PI43V2-SvtBV7DelSk" url=""/>
+  </video>
+  
+  
+  <video id="v202" title="Culture and Heritage of India | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="3_4YlMQPXhE" duration="2:30:06" position="2">
+    <pdf driveFileId="1dH12rSpWMauhHhtRRI9hwmvtp6m_1H7X" url=""/>
+  </video>
+  <video id="v207" title="Demography - Census - Its feature and functions | By Tawqeer Sir | For All Competetive Exams" youtubeId="CMRmPIX4lSs" duration="1:17:15" position="7">
+    <pdf driveFileId="12RVd3iFUuue7MbWjuF4c45hdtl6Ap_RD" url=""/>
+  </video>
+  <video id="v208" title="Transport and Communication in India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="rsrdwBHOF0k" duration="1:39:36" position="8">
+    <pdf driveFileId="1ZwP61aF5BAool1TK0gajrtC_P5SIXwIy" url=""/>
+  </video>
+  
+  <video id="v210" title="Crops of India | Indian Agriculture | ONE SHOT | For JKSSB JKPSC NDA UPSC|By Tawqeer Sir" youtubeId="jN8PnQP2afg" duration="58:26" position="10">
+    <pdf driveFileId="12hRHhk-QDV86lQx5gCFQh699ansEvdmg" url=""/>
+  </video>
+  <video id="v209" title="Top MCQs on Crops of India | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="862Xg5rbSXk" duration="34:31" position="9">
+    <pdf driveFileId="10EEGIT6_7Lw2P89ScvzRjrjQtZH-Nv2b" url=""/>
+  </video>
+  <video id="v205" title="2024 Updated | Top Crop Producing States of India | For JKSSB JKPSC UPSC SSC IBPS RRB | Tawqeer Sir" youtubeId="cHd4lRX92Wo" duration="16:13" position="5">
+    <pdf driveFileId="1jjDkDjrgoezVrnsvG8IKo8CaZFcK7McE" url=""/>
+  </video>
+ 
+  <video id="v217" title="Lec 1 | Physiography of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="aY5gHf0D8JU" duration="1:15:41" position="17">
+    <pdf driveFileId="1eMdX7dJ3wosPIZVtowP0BMXDzuRQx4BD" url=""/>
+  </video>
+  <video id="v218" title="Lec 2 | Climate of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="r_St3TuDvAc" duration="1:06:11" position="18">
+    <pdf driveFileId="1TaSxV4OQG1DbR5_lJF-mAKTp0ybusJcZ" url=""/>
+  </video>
+  <video id="v219" title="Lec 3 | Rivers of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="yv-52sooG7Y" duration="1:26:16" position="19">
+    <pdf driveFileId="1c76EC31CRcGadAT_PG1gKzy-Fnchp_28" url=""/>
+  </video>
+  <video id="v220" title="Lec 4 | Lakes of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="UiApsoFw3nQ" duration="1:32:06" position="20">
+    <pdf driveFileId="1DXrLv9uxS8Y4yqOWqkwyhmho2VnCI1vC" url=""/>
+  </video>
+  <video id="v221" title="Lec 5 | Glaciers and Mountain Passes of Jammu and Kashmir | GK of Jammu and Kashmir | By Tawqeer Sir" youtubeId="lvUCKZC7zQo" duration="1:03:24" position="21">
+    <pdf driveFileId="1UIfEkArrSZBlUlbErIGxcelWw6Lk22EI" url=""/>
+  </video>
+  <video id="v222" title="Lec 6 | Flora and Fauna of Jammu and Kashmir | GK of Jammu and Kashmir for JKSSB JKPSC| Tawqeer Sir" youtubeId="8tNvmaa1y3o" duration="1:29:32" position="22">
+    <pdf driveFileId="1kO56hdbq3gd-X1q4CNQfX3u8gcVyPX6e" url=""/>
+  </video>
+  <video id="v223" title="Lec 7 | Soils and Agriculture of Jammu and Kashmir J&amp;K GK | For JKSSB JKPSC JKPSI FAA MTS SSC" youtubeId="Fq9ix1pTxU8" duration="1:58:20" position="23">
+    <pdf driveFileId="16kGKDjtbEzd46DJM6EzJePU3CAJrB5hb" url=""/>
+  </video>
+  <video id="v224" title="Lec 8 | Economy of Jammu and Kashmir | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI | By Tawqeer Sir" youtubeId="igJApxTMtm8" duration="2:40:38" position="24">
+    <pdf driveFileId="1XhVHW7bEgeSf0owzUWnfG81XF92fI1VN" url=""/>
+  </video>
+</playlist>
+
+
+
+
+<playlist id="pl105" title="Computer Awareness for JKSSB Junior Assistant 2026 By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R">
+  <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
+  </video>
+  <video id="v302" title="Lec 2 | Working of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_08Ht3DP7Yo" duration="8:59" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v303" title="Lec 3 | Characteristics of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_zHeqGudbAI" duration="8:03" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v304" title="Lec 4 | Types / Classification of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="L_C7Nr_Ba7Q" duration="46:21" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v305" title="Lec 5 | Generations / History of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="vNj8d9r58Kw" duration="6:15" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v306" title="Lec 6 | Components of a Computer | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="MzjrD5zq-HU" duration="30:03" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v307" title="Lec 7 | Input/Output Unit | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="HxF6INA2L6c" duration="10:48" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v308" title="Lec 8 | Central Processing Unit (CPU) | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="tRNxwlMMF5I" duration="41:18" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v309" title="Lec 9 | Memory Unit of a Computer | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="Qy5xyrnxFLA" duration="5:30" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v310" title="Lec 10 | Motherboard of a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="H7DDHhOG-AE" duration="5:42" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v311" title="Lec 11 | Buses in a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="0ptLM2ZMvmI" duration="4:35" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v312" title="Lec 12 | Instruction Cycle ad Instruction Format | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="BGiLc7SXaUE" duration="7:35" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v313" title="Lec 13 | Difference between Command and Instruction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="3assWInZND0" duration="11:33" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v314" title="Lec 14 | CPU Speed | Speed of a computer Processor | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="6RwtplrdS0I" duration="8:22" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v315" title="Lec 15 | Registers in a Computer | CPU Registers | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="RoxZzmzxwdc" duration="13:00" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v316" title="Lec 16 | What is Instruction Set, Direct Memory Access and UPS | By Tawqeer Sir |For JKSSB SSC RRB" youtubeId="6FNWfTafnt0" duration="4:00" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v317" title="Lec 17 | What is Computer Hardware | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="g6PK0Fc5_kw" duration="7:09" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v318" title="Lec 18 | Introduction to the Input Devices | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="E13cKjnd30Q" duration="7:34" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v319" title="Lec 19 | Input Devices - 1 (Keyboard) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="WFiQwIZ306E" duration="27:09" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v320" title="Lec 20 | Input Devices - 2 (MOUSE) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="H89TBfLMwqo" duration="24:47" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v321" title="Lec 21 | Input Devices - 3 (Trackball) | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="z8xlHxcFWOo" duration="8:39" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v322" title="Lec 22 | Input Devices - 4 (Pointing Stick Joystick Light Pen and Touch Screen Track Pad)" youtubeId="PbP1_J_niDA" duration="22:50" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v323" title="Lec 23 | Input Devices - 5 (Digitizer OR Graphics Tablet ) | By Tawqeer SIr | For JKSSB SSC RRB UPSC" youtubeId="Mi8xg9zEwdI" duration="3:11" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v324" title="Lec 24 | Input Devices - 6 (Barcode, OMR, OCR, RFID, Biometrics) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="o0u_-aIyW5U" duration="19:02" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v325" title="Lec 25 | Input Devices - 7 (Scanners) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="gbb_dXzAYLo" duration="30:00" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v326" title="Lec 26 | Input Devices - 8 (Microphone and Webcam) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="_35G1Z5sMhQ" duration="5:49" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v327" title="Lec 27 | Output Devices (Introduction and Types) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="d3A3BMMBN60" duration="5:29" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v328" title="Lec 28 | Output Devices -1 ( MONITOR ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="-frzUJBqYuM" duration="19:31" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v329" title="Lec 29 | Output Devices -2 ( PRINTER ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="jck4jWsnc3o" duration="37:24" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v330" title="Lec 30 | Output Devices -3 (PLOTTER SPEAKER HEADPHONE SPEECH SYNTHESIZER PROJECTOR) | JKSSB SSC RRB" youtubeId="m9p9jVjg82k" duration="10:44" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v331" title="Lec 31 | Both Input and Output Devices | For JKSSB VLW FAA JKPSC SSC RRB BPSC | By Tawqeer Sir" youtubeId="6AswKK1dTYo" duration="7:05" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v332" title="Lec 32 | Input Output (I/O) Ports | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC Bank By Tawqeer Sir" youtubeId="g4NaA8zsNAY" duration="14:22" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v333" title="Lec 33 | Computer Memory (Introduction) | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="sSrr9upTOpQ" duration="46:23" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v334" title="Lec 34 | Types of Computer Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="LhAHn-2Fs14" duration="11:27" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v335" title="Lec 35 | Primary Memory and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="WqUlWzXX530" duration="28:05" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v336" title="Lec 36 | Cache Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="0N0cFAD-BQA" duration="22:01" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v337" title="Lec 37 | Secondary Memory HARD DISK | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="onlASKJ6MQw" duration="45:40" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v338" title="Lec 38 | Secondary Memory - 2 SSD, CD, Floppy Disk | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="_DYvzI1afcw" duration="21:51" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v339" title="Lec 39 | Teritiary, Flash and Virtual Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="hq-RAhkdZHM" duration="32:48" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v340" title="Lec 40 | Computer Software and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="W6cZ-KS2ZAg" duration="1:18:30" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v341" title="Lec 41 | Operating Systems Functions and Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="GqqN2rCFBHg" duration="1:08:13" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v342" title="Lec 42 | Algorithms and Flowcharts | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="5T6qcfKFH2M" duration="15:30" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v343" title="Lec 43 | Computer Programs and Programming Languages | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="lAAHYfw8AZc" duration="28:14" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v344" title="Lec 44 |Language Translators - Compiler, Assembler and Interpreter| For JKSSB VLW FAA SSC RRB BPSC" youtubeId="BnoV4fYIXfs" duration="23:11" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v345" title="Lec 45 | Microsoft Windows and its features | For JKSSB VLW FAA SSC RRB BPSC" youtubeId="YAjhNrdGjmI" duration="57:51" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v346" title="Lec 46 | FIles and FIle Systems - NTFS, FAT, EXT4, etc | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="kvCQGDzvHR8" duration="3:59" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v347" title="Lec 47 | Data Communication and Communication Media | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="A40U4ytipcg" duration="29:48" position="47">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v348" title="Lec 48 | Computer Networks | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="owzSpQWrwTc" duration="8:15" position="48">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v349" title="Lec 49 | Network Devices - Hub Switch Bridge Router Gateway Repeater | For JKSSB VLW SSC RRB BPSC" youtubeId="MuiFPycnUwU" duration="15:44" position="49">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v350" title="Lec 50 | Network Topologies and OSI Model | For JKSSB VLW SSC RRB BPSC" youtubeId="rEBCnG2CMCU" duration="15:03" position="50">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v351" title="Lec 51 | Internet - History and Advantages and Disadvantages | For JKSSB VLW SSC RRB BPSC" youtubeId="v9RmMpxwW2g" duration="39:05" position="51">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v352" title="Lec 52 | Internet Protocols: TCP/IP, FTP, HTTP, VoIP, etc | For JKSSB VLW SSC RRB BPSC" youtubeId="nRmrR0AI8cA" duration="13:07" position="52">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v353" title="Lec 53 | IP Address and MAC Addresses | For JKSSB VLW SSC RRB BPSC" youtubeId="JeuZx76pyOw" duration="5:55" position="53">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v354" title="Lec 54 | Email and Email proocols - SMTP, POP, IMAP, MIME | For JKSSB VLW SSC RRB BPSC" youtubeId="IiaT9WNqF8w" duration="7:53" position="54">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v355" title="Lec 55 | IoT - Internet of Things | For JKSSB VLW SSC RRB BPSC" youtubeId="aOHyYOGyW7s" duration="3:12" position="55">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v356" title="Lec 56 | Deep Web, Dark Web and Tor Browser | For JKSSB VLW SSC RRB BPSC" youtubeId="ed0p9kCRtDs" duration="4:51" position="56">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v357" title="Lec 57 | IMPORTANT TERMS: WWW, URL, SERVER, DOMAIN, DNS, COOKIES, Cloud Computing, etc" youtubeId="B5AePyRvN1s" duration="15:35" position="57">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v358" title="Lec 58 | Computer Security and its Components | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC KPSC Bank" youtubeId="iauGonHHF_4" duration="18:23" position="58">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v359" title="Lec 59 | Computer Malwares: Viruses, Worms, Trojans and Security Threats|For JKSSB VLW FAA JKPSC SSC" youtubeId="YfetFo3YqTU" duration="59:24" position="59">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v360" title="Lec 60 | Valid Email Address Format |For JKSSB VLW FAA JKPSC SSC" youtubeId="K3Y5_P9spO4" duration="6:49" position="60">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v361" title="Lec 61 | Microsoft Office | Marathon | Word Excel Powerpoint Access | For JKSSB VLW SSC RRB BPSC" youtubeId="LiP-hM3U2Pg" duration="2:58:47" position="61">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v362" title="Number Systems | Binary Decimal Octal Hexadecimal | Lec 13 | By Tawqeer Sir | For JKSSB JKPSC etc" youtubeId="lQcS9j5qCY4" duration="1:20:57" position="62">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v363" title="Computer Awareness Marathon | By Tawqeer Sir | For JKSSB SSC Bank IBPS UGC NET" youtubeId="_8TO59Z_3mw" duration="5:34:42" position="63">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
     </playlists>
+
+
+
   </course>
 
 </courses>

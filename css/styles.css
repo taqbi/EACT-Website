@@ -1283,21 +1283,50 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Individual Course Card */
 .course {
-    /* Glassmorphism Effect */
-    background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
-    backdrop-filter: blur(12px); /* The "frosted glass" effect */
+    /* Clean, professional card style */
+    background-color: #ffffff; /* Solid white background */
     border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border to catch light */
+    border: 1px solid #e9ecef; /* Soft border */
     padding: 24px;
-    box-shadow: 0 8px 32px rgba(0, 30, 80, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Softer, more subtle shadow */
+    display: flex; flex-direction: column; /* Use flexbox to push button to the bottom */
+    position: relative; /* Required for positioning the ribbon */
     transition: transform 0.3s ease, box-shadow 0.3s ease, cursor 0.3s ease;
     cursor: pointer;
 }
 
 .course:hover {
     transform: translateY(-5px);
-    box-shadow: 0 12px 40px rgba(0, 30, 80, 0.2), 0 0 20px rgba(100, 150, 255, 0.3); /* Added a subtle glow */
+    box-shadow: 0 8px 25px rgba(0, 30, 80, 0.1); /* Subtle lift effect */
 }
+
+/* Ribbon Tag for "FREE" courses */
+.free-ribbon {
+    position: absolute;
+    top: 15px;
+    left: -8px;
+    background: linear-gradient(135deg, #34d399, #059669);
+    color: white;
+    padding: 6px 20px;
+    font-weight: bold;
+    font-size: 0.85em;
+    border-radius: 20px 0 20px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Folded corner effect for the ribbon */
+.free-ribbon::after {
+    content: '';
+    position: absolute;
+    bottom: -4px; /* Controls the size of the fold */
+    right: 0;
+    border-width: 4px 4px 0 0;
+    border-style: solid;
+    border-color: #047857 transparent transparent transparent; /* Darker shade of green for the fold */
+}
+
 
 /* Header banner for each course card */
 .course-card-header {
@@ -1319,16 +1348,18 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .course h3 {
     margin-top: 0;
-    font-size: 1.4rem;
+    font-size: 1.3rem; /* Slightly adjusted for better hierarchy */
     color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
+    flex-direction: column; /* Stack icon and title vertically */
+    align-items: center; /* Center them horizontally */
     gap: 10px;
 }
 .course h3 .fas { /* Styling for the large icon in the course header */
     color: #1f2a44; /* A lighter, blending blue for the icon */
     color: white; /* Set icon color to white inside the banner */
-    font-size: 2.2rem;
+    font-size: 1.8rem; /* Scaled down to match new title size */
     opacity: 0.7;
     opacity: 0.8; /* Slightly transparent for a softer look */
 }
@@ -1342,6 +1373,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .course .course-stats {
     display: flex;
+    flex-wrap: wrap; /* Allow badges to wrap on smaller screens */
     gap: 20px;
     margin-top: 20px; /* More space above the badges */
     font-weight: 500;
@@ -1370,6 +1402,38 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 .course .pdf-stat {
     background: linear-gradient(135deg, #dcfce7, #bbf7d0); /* Soft Green Gradient */
     color: #065f46; /* Darker Green text */
+}
+
+/* Specific color for Hours stat */
+.course .hours-stat {
+    background: linear-gradient(135deg, #ede9fe, #ddd6fe); /* Soft Purple Gradient */
+    color: #5b21b6; /* Darker Purple text */
+}
+
+/* Container for the Explore button */
+.explore-btn-container {
+    margin-top: auto; /* This pushes the button to the bottom */
+    padding-top: 20px; /* Space above the button */
+    text-align: center;
+}
+
+.explore-btn {
+    background: linear-gradient(135deg, #1f2a44, #4a5a8a);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 100%; /* Make button full width */
+}
+
+.explore-btn:hover {
+    background: linear-gradient(135deg, #4a5a8a, #1f2a44);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
 }
 
 .course .playlists {
@@ -1435,6 +1499,12 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 .compiled-pdf-btn {
     background-color: #dcfce7; /* Using the same green as the course card pdf stat */
     color: #065f46;
+}
+
+/* Styling for the new Marks badge */
+.marks-stat {
+    background-color: #fffbeb; /* Light Yellow */
+    color: #b45309; /* Dark Yellow/Orange */
 }
 
 .playlist-stats .fas {
