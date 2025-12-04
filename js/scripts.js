@@ -1070,9 +1070,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 videoRow.className = 'video';
     
                 const left = document.createElement('div');
-                left.style.display = 'flex';
-                left.style.gap = '12px';
-                left.style.alignItems = 'center';
+                left.className = 'video-details-left'; // Add class for styling
     
                 // Thumbnail
                 const thumbUrl = vid ? `https://img.youtube.com/vi/${vid}/mqdefault.jpg` : 'assets/default-thumbnail.png';
@@ -1085,8 +1083,14 @@ document.addEventListener('DOMContentLoaded', function () {
                 img.style.objectFit = 'cover';
     
                 const info = document.createElement('div');
-                info.innerHTML = `<div class="title">${title}</div>
-                                  <div class="meta">Duration: ${duration} ${vid ? `| <a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener">Open on YouTube</a>` : ''}</div>`;
+                info.className = 'video-info';
+                info.innerHTML = `
+                    <div class="title">${title}</div>
+                    <div class="video-meta">
+                        <span class="duration-badge"><i class="fas fa-clock"></i> ${duration}</span>
+                        ${vid ? `<a href="https://www.youtube.com/watch?v=${vid}" target="_blank" rel="noopener" class="youtube-btn"><i class="fab fa-youtube"></i> Watch</a>` : ''}
+                    </div>
+                `;
     
                 left.appendChild(img);
                 left.appendChild(info);

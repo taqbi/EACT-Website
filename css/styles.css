@@ -1208,6 +1208,18 @@ fieldset.video-item legend, fieldset.playlist-item legend {
         margin: -15px -15px 20px -15px; /* Adjust negative margin to match new padding */
     }
 
+    /* Stack video thumbnail and info vertically on mobile */
+    .video-details-left {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    /* Reduce width of the video list container on mobile */
+    #videos-container {
+        padding: 15px;
+    }
+
 }
 
 /* === Course Viewer Styles === */
@@ -1477,6 +1489,12 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #1f2a44;
 }
 
+.video .video-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .video .info {
     display: flex;
     align-items: center;
@@ -1488,6 +1506,42 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #6c757d;
 }
 
+.video .video-meta {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.duration-badge {
+    background-color: #eef2ff; /* Light Indigo */
+    color: #4338ca; /* Dark Indigo */
+    padding: 5px 12px;
+    border-radius: 15px;
+    font-size: 0.85em;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.youtube-btn {
+    background-color: #ff0000;
+    color: white;
+    text-decoration: none;
+    padding: 5px 12px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.85em;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: background-color 0.3s ease;
+}
+.youtube-btn:hover {
+    background-color: #cc0000;
+}
+
 /* Download Button Styling */
 .video .download-btn a {
     background-color: #1f2a44;
@@ -1496,6 +1550,9 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     font-weight: bold;
     padding: 8px 15px;
     border-radius: 8px;
+    display: inline-flex; /* Align icon and text */
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
     transition: background-color 0.3s ease;
 }
 
@@ -1509,4 +1566,11 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     align-items: center;
     gap: 15px;
     flex-grow: 1;
+}
+
+.video-details-left {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
 }

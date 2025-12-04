@@ -5,7 +5,7 @@
     <playlists>
       
       
-     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" compiledPdfDriveId="1-EXAMPLE-ID-FOR-COMPILED-PDF">
+     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" compiledPdfDriveId="1Zy73cWJGgdM-yaO7RMes--HuSDpmvjiX">
   <video id="v101" title="ACCOUNTANCY BOOK FOR FINANCE ACCOUNTS ASSISTANT EXAM || BOOK RELEASE || JKSSB || CA MOHAMAD LATEEF" youtubeId="QimLDYRZU9c" duration="43:24" position="1">
     <pdf driveFileId="" url=""/>
   </video>
@@ -223,83 +223,93 @@
 
 <playlist id="pl104" title="General Knowledge with Special Reference to J&amp;K" youtubePlaylistId="PLfM9ONl2Lh0KSw4Iu4eOM6SGR8oSVBC2R">
   <video id="v201" title="Physical &amp; Political Divisions of World | One Shot | By Tawqeer Sir" youtubeId="qpISxkoOloo" duration="48:13" position="1">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v202" title="Culture and Heritage of India | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="3_4YlMQPXhE" duration="2:30:06" position="2">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v203" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="3">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v204" title="Lakes Of India | ONE SHOT | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="CZjLQ6CCAb0" duration="59:24" position="4">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v205" title="2024 Updated | Top Crop Producing States of India | For JKSSB JKPSC UPSC SSC IBPS RRB | Tawqeer Sir" youtubeId="cHd4lRX92Wo" duration="16:13" position="5">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v206" title="Environment Ecology and Biodiversity | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="I_bnGkviWOU" duration="2:44:05" position="6">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v207" title="Demography - Census - Its feature and functions | By Tawqeer Sir | For All Competetive Exams" youtubeId="CMRmPIX4lSs" duration="1:17:15" position="7">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v208" title="Transport and Communication in India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="rsrdwBHOF0k" duration="1:39:36" position="8">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v209" title="Top MCQs on Crops of India | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="862Xg5rbSXk" duration="34:31" position="9">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v210" title="Crops of India | Indian Agriculture | ONE SHOT | For JKSSB JKPSC NDA UPSC|By Tawqeer Sir" youtubeId="jN8PnQP2afg" duration="58:26" position="10">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v211" title="Top MCQs on Climate of India | Indian Monsson | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="oKeO2IuJ2gk" duration="54:49" position="11">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v212" title="Climate of India | Indian Weather | Monsoon | Tawqeer Sir | One Shot | For All Competitive Exams" youtubeId="wXYfvTl6ELI" duration="1:33:50" position="12">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v213" title="Top MCQs on Rivers of India | For JKSSB JKPSC NDA UPSC | By Tawqeer Sir" youtubeId="20EgHcpUAd8" duration="46:21" position="13">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v214" title="Rivers of India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="iDmBlSbxiy8" duration="1:22:31" position="14">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v215" title="Top MCQs on Physical and Political Divisions of India | For JKSSB Naib Tehsildar Patwari SI" youtubeId="98NNur7e36A" duration="58:03" position="15">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url=""/>
   </video>
   <video id="v216" title="Top MCQ'S on Physical and Political Divisions of the world | Session 2 |For JKSSB JKPSC NDA, UPSC" youtubeId="2RA5cGWKnyY" duration="49:31" position="16">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku" url=""/>
   </video>
+
+  <video id="v203" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="3">
+    <pdf driveFileId="1Bv0-w0FR9KGLSl7um2wVbnqOc84Rw-90" url=""/>
+  </video>
+
+  <video id="v215" title="Top MCQs on Physical and Political Divisions of India | For JKSSB Naib Tehsildar Patwari SI" youtubeId="98NNur7e36A" duration="58:03" position="15">
+    <pdf driveFileId="1Q4QtR2mFLyN832u6LB5apHeA16viPRfS" url=""/>
+  </video>
+  
+  <video id="v212" title="Climate of India | Indian Weather | Monsoon | Tawqeer Sir | One Shot | For All Competitive Exams" youtubeId="wXYfvTl6ELI" duration="1:33:50" position="12">
+    <pdf driveFileId="1XflzoulIMf0LDjJaHRmEqA2T_e7H1Znx" url=""/>
+  </video>
+   <video id="v211" title="Top MCQs on Climate of India | Indian Monsson | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="oKeO2IuJ2gk" duration="54:49" position="11">
+    <pdf driveFileId="1kNaRfapP6tiXLiJJsR6UI3e9SPBEWY9L" url=""/>
+  </video>
+
+ <video id="v214" title="Rivers of India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="iDmBlSbxiy8" duration="1:22:31" position="14">
+    <pdf driveFileId="1J4GRbi6UJifVfyWqGNXGDEtQ9V7APmNI" url=""/>
+  </video>
+  <video id="v213" title="Top MCQs on Rivers of India | For JKSSB JKPSC NDA UPSC | By Tawqeer Sir" youtubeId="20EgHcpUAd8" duration="46:21" position="13">
+    <pdf driveFileId="1zFDCBLFQU5wH5nW2Cm99dTKw9etaX7VK" url=""/>
+  </video>
+
+  <video id="v204" title="Lakes Of India | ONE SHOT | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="CZjLQ6CCAb0" duration="59:24" position="4">
+    <pdf driveFileId="1LAzTQifvBNXwp8PI43V2-SvtBV7DelSk" url=""/>
+  </video>
+  
+  <video id="v206" title="Environment Ecology and Biodiversity | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="I_bnGkviWOU" duration="2:44:05" position="6">
+    <pdf driveFileId="155yciNEvKgjcq6KB2Xcs2Q-S6IqWAXeM" url=""/>
+  </video>
+  <video id="v202" title="Culture and Heritage of India | ONE SHOT | By Tawqeer Sir | For all Competitive Exams" youtubeId="3_4YlMQPXhE" duration="2:30:06" position="2">
+    <pdf driveFileId="1dH12rSpWMauhHhtRRI9hwmvtp6m_1H7X" url=""/>
+  </video>
+  <video id="v207" title="Demography - Census - Its feature and functions | By Tawqeer Sir | For All Competetive Exams" youtubeId="CMRmPIX4lSs" duration="1:17:15" position="7">
+    <pdf driveFileId="12RVd3iFUuue7MbWjuF4c45hdtl6Ap_RD" url=""/>
+  </video>
+  <video id="v208" title="Transport and Communication in India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="rsrdwBHOF0k" duration="1:39:36" position="8">
+    <pdf driveFileId="1ZwP61aF5BAool1TK0gajrtC_P5SIXwIy" url=""/>
+  </video>
+  
+  <video id="v210" title="Crops of India | Indian Agriculture | ONE SHOT | For JKSSB JKPSC NDA UPSC|By Tawqeer Sir" youtubeId="jN8PnQP2afg" duration="58:26" position="10">
+    <pdf driveFileId="12hRHhk-QDV86lQx5gCFQh699ansEvdmg" url=""/>
+  </video>
+  <video id="v209" title="Top MCQs on Crops of India | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="862Xg5rbSXk" duration="34:31" position="9">
+    <pdf driveFileId="10EEGIT6_7Lw2P89ScvzRjrjQtZH-Nv2b" url=""/>
+  </video>
+  <video id="v205" title="2024 Updated | Top Crop Producing States of India | For JKSSB JKPSC UPSC SSC IBPS RRB | Tawqeer Sir" youtubeId="cHd4lRX92Wo" duration="16:13" position="5">
+    <pdf driveFileId="1jjDkDjrgoezVrnsvG8IKo8CaZFcK7McE" url=""/>
+  </video>
+ 
+ 
+  
   <video id="v217" title="Lec 1 | Physiography of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="aY5gHf0D8JU" duration="1:15:41" position="17">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1eMdX7dJ3wosPIZVtowP0BMXDzuRQx4BD" url=""/>
   </video>
   <video id="v218" title="Lec 2 | Climate of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="r_St3TuDvAc" duration="1:06:11" position="18">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1TaSxV4OQG1DbR5_lJF-mAKTp0ybusJcZ" url=""/>
   </video>
   <video id="v219" title="Lec 3 | Rivers of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="yv-52sooG7Y" duration="1:26:16" position="19">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1c76EC31CRcGadAT_PG1gKzy-Fnchp_28" url=""/>
   </video>
   <video id="v220" title="Lec 4 | Lakes of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="UiApsoFw3nQ" duration="1:32:06" position="20">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1DXrLv9uxS8Y4yqOWqkwyhmho2VnCI1vC" url=""/>
   </video>
   <video id="v221" title="Lec 5 | Glaciers and Mountain Passes of Jammu and Kashmir | GK of Jammu and Kashmir | By Tawqeer Sir" youtubeId="lvUCKZC7zQo" duration="1:03:24" position="21">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1UIfEkArrSZBlUlbErIGxcelWw6Lk22EI" url=""/>
   </video>
   <video id="v222" title="Lec 6 | Flora and Fauna of Jammu and Kashmir | GK of Jammu and Kashmir for JKSSB JKPSC| Tawqeer Sir" youtubeId="8tNvmaa1y3o" duration="1:29:32" position="22">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1kO56hdbq3gd-X1q4CNQfX3u8gcVyPX6e" url=""/>
   </video>
   <video id="v223" title="Lec 7 | Soils and Agriculture of Jammu and Kashmir J&amp;K GK | For JKSSB JKPSC JKPSI FAA MTS SSC" youtubeId="Fq9ix1pTxU8" duration="1:58:20" position="23">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="16kGKDjtbEzd46DJM6EzJePU3CAJrB5hb" url=""/>
   </video>
   <video id="v224" title="Lec 8 | Economy of Jammu and Kashmir | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI | By Tawqeer Sir" youtubeId="igJApxTMtm8" duration="2:40:38" position="24">
-    <pdf driveFileId="" url=""/>
+    <pdf driveFileId="1XhVHW7bEgeSf0owzUWnfG81XF92fI1VN" url=""/>
   </video>
 </playlist>
 
 
 
 
-<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1-EXAMPLE-ID-FOR-COMPUTER-PDF">
+<playlist id="pl105" title="Computer Awareness for JKSSB FAA By Tawqeer Sir" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R">
   <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
     <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
   </video>
