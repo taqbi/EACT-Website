@@ -1070,8 +1070,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
 
                 plDiv.innerHTML = `
-                    <div class="playlist-title-header">${plTitle}</div>
-                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}${marksInfoHtml}</div>
+                    <div class="playlist-header-container">
+                        <div class="playlist-title-header">${plTitle}</div>
+                        ${marksInfoHtml}
+                    </div>
+                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}</div>
                 `;
                 plDiv.addEventListener('click', (e) => {
                     e.stopPropagation(); // Prevent course click event

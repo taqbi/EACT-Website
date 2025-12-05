@@ -1460,6 +1460,11 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     box-shadow: 0 8px 20px rgba(0, 30, 80, 0.1);
 }
 
+/* New container for header and marks tag */
+.playlist-header-container {
+    position: relative; /* This is the new anchor for the marks tag */
+}
+
 .playlist-title-header {
     background: linear-gradient(135deg, #6b7280, #4b5563); /* Soft grey gradient */
     background: linear-gradient(135deg, #34d399, #059669); /* New Green Gradient */
@@ -1471,26 +1476,34 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .playlist-meta-container {
     padding: 15px;
+    padding-top: 20px; /* Add more space below the header */
     display: flex;
     align-items: center;
-    gap: 10px;
+    justify-content: center; /* Center the badges */
+    gap: 15px;
     flex-wrap: wrap;
 }
 
 .playlist-stats, .compiled-pdf-btn {
     margin: 0; /* Override the margin from the old rule */
     text-decoration: none;
-}
-
-.playlist-stats {
     display: inline-flex; /* Use inline-flex to make it capsule-like */
     align-items: center;
     gap: 8px;
-    margin: 15px; /* Space it from the edges */
-    padding: 6px 14px;
+    padding: 10px 20px; /* Increased padding for a bigger look */
     border-radius: 20px;
     font-weight: 600;
-    font-size: 0.9em;
+    font-size: 1rem; /* Larger font size */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Add a subtle shadow */
+    transition: all 0.3s ease;
+}
+
+.playlist-stats:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.playlist-stats {
     background-color: #e0f2fe; /* Using the same blue as the course card video stat */
     color: #0c4a6e;
 }
@@ -1501,14 +1514,36 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #065f46;
 }
 
-/* Styling for the new Marks badge */
-.marks-stat {
-    background-color: #fffbeb; /* Light Yellow */
-    color: #b45309; /* Dark Yellow/Orange */
+.playlist-stats .fas, .compiled-pdf-btn .fas {
+    font-size: 1.1em; /* Make the icon slightly larger than the text */
+    margin-right: 2px;
 }
 
-.playlist-stats .fas {
-    font-size: 0.8em;
+/* Styling for the new Marks badge */
+.marks-stat {
+    position: absolute; /* Now relative to .playlist-header-container */
+    bottom: -15px; /* Position it below the header, overlapping slightly for style */
+    right: 0;
+    background: linear-gradient(135deg, #f59e0b, #d97706); /* Richer amber gradient */
+    color: white;
+    padding: 6px 15px;
+    font-weight: bold;
+    font-size: 0.9em;
+     box-shadow: -3px 3px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 0 8px; /* Rounded bottom-left corner */
+    z-index: 1; /* Ensure it sits above the meta container */
+
+}
+
+/* Dog-ear fold effect */
+.marks-stat::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -10px; /* Width of the fold */
+    border-style: solid;
+    border-width: 0 10px 10px 0; /* Creates the triangle shape */
+    border-color: transparent #92400e transparent transparent; /* Darker shade for the fold's shadow */
 }
 
 .playlist-meta-container .pdf-stat {
@@ -1646,6 +1681,26 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     margin-top: auto; /* Pushes buttons to the bottom of the card */
 }
 
+/* Base styles for both buttons */
+.pdf-btn, .youtube-btn {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: inline-flex; /* Align icon and text */
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
+    transition: background-color 0.3s ease;
+    font-size: 0.85em; /* Ensure consistent font size */
+}
+
+.pdf-btn {
+    background-color: #1f2a44; /* Black/Dark Blue background */
+}
+.pdf-btn:hover {
+    background-color: #0d121f;
+}
 /* Base styles for both buttons */
 .pdf-btn, .youtube-btn {
     color: white;
