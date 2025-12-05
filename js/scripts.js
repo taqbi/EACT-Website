@@ -905,7 +905,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         function makeDriveViewUrl(driveFileId) {
-            return `https://drive.google.com/file/d/${encodeURIComponent(driveFileId)}/view`;
+            return `https://drive.google.com/file/d/${encodeURIComponent(driveFileId)}/preview`;
         }
 
         function makeDriveDownloadUrl(driveFileId) {
@@ -995,7 +995,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 courseDiv.innerHTML = `
                     <div class="free-ribbon">FREE</div>
                     <div class="course-card-header"><h3><i class="fas fa-book-reader"></i> ${title}</h3></div>
-                    <div class="meta">${desc}</div>
+                    <div class="course-description">${desc}</div>
                     <div class="course-stats">
                         <div class="meta total-videos-meta hours-stat"><i class="fas fa-clock"></i> ~${totalHours} Hours</div>
                         <div class="meta total-videos-meta video-stat"><i class="fas fa-video"></i> Videos: <strong>${totalVideos}</strong></div>
@@ -1032,7 +1032,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const singleCourseView = document.getElementById('single-course-view');
             const videosContainer = document.getElementById('videos-container');
 
-            // Hide course list and clear video container
+            // Hide the main list of courses and clear any previously shown videos
             courseListView.style.display = 'none';
             videosContainer.style.display = 'none';
             videosContainer.innerHTML = '';
@@ -1042,7 +1042,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 <button id="back-to-courses-btn"><i class="fas fa-arrow-left"></i> Back to Courses</button>
                 <div class="single-course-content">
                     <div class="single-course-header"><h3>${courseTitle}</h3></div>
-                    <div class="meta">${courseDescription}</div>
                     <div class="playlists" style="margin-top: 20px;"></div>
                 </div>
             `;

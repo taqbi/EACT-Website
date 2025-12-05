@@ -1364,6 +1364,17 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     opacity: 0.8; /* Slightly transparent for a softer look */
 }
 
+/* Styling for the course description */
+.course-description {
+    background-color: #f8f9fa; /* A very light grey background */
+    border-left: 4px solid #4f46e5; /* A colored accent border */
+    padding: 12px 15px;
+    margin: 15px 0; /* Space above and below */
+    border-radius: 0 8px 8px 0; /* Rounded corners on the right side */
+    font-style: italic;
+    color: #495057; /* A softer text color */
+    font-size: 0.9em;
+}
 
 .course .meta {
     font-size: 0.95em;
@@ -1444,7 +1455,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Individual Playlist Item */
 .playlist {
-   padding: 0; /* Remove padding to allow header to be full-width */
+    padding: 0; /* Remove padding to allow header to be full-width */
     margin: 6px 0;
     cursor: pointer;
     background-color: #ffffff;
@@ -1452,7 +1463,6 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     border: 1px solid #d0d7de; /* This adds a thin, visible border */
     transition: all 0.3s ease;
     overflow: hidden; /* Ensures the header corners are clipped correctly */
-   
 }
 
 .playlist:hover {
