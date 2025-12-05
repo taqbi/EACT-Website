@@ -1444,15 +1444,15 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Individual Playlist Item */
 .playlist {
-    padding: 0; /* Remove padding to allow header to be full-width */
+   padding: 0; /* Remove padding to allow header to be full-width */
     margin: 6px 0;
     cursor: pointer;
-    background: #ffffff;
-    border-radius: 10px;
-    border: 1px solid #e9ecef;
+    background-color: #ffffff;
+    border-radius: 10px; /* This ensures the card has rounded corners */
+    border: 1px solid #d0d7de; /* This adds a thin, visible border */
     transition: all 0.3s ease;
     overflow: hidden; /* Ensures the header corners are clipped correctly */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+   
 }
 
 .playlist:hover {
@@ -1466,8 +1466,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 }
 
 .playlist-title-header {
-    background: linear-gradient(135deg, #6b7280, #4b5563); /* Soft grey gradient */
-    background: linear-gradient(135deg, #34d399, #059669); /* New Green Gradient */
+    background: linear-gradient(135deg, #4f46e5, #3730a3); /* Bluish Indigo Gradient */
     color: white;
     padding: 12px 15px;
     font-weight: bold;
@@ -1679,6 +1678,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     display: flex;
     gap: 10px; /* Space between buttons */
     margin-top: auto; /* Pushes buttons to the bottom of the card */
+    flex-wrap: wrap; /* Allow buttons to wrap onto the next line on smaller screens */
 }
 
 /* Base styles for both buttons */
@@ -1695,14 +1695,25 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     font-size: 0.85em; /* Ensure consistent font size */
 }
 
-.pdf-btn {
-    background-color: #1f2a44; /* Black/Dark Blue background */
+/* Styling for the Open PDF button */
+.open-pdf-btn {
+    background-color: #4f46e5; /* Indigo */
+    color: white;
 }
-.pdf-btn:hover {
-    background-color: #0d121f;
+.open-pdf-btn:hover {
+    background-color: #4338ca; /* Darker Indigo */
 }
-/* Base styles for both buttons */
-.pdf-btn, .youtube-btn {
+
+/* Styling for the Download PDF button */
+.download-pdf-btn {
+    background-color: #1f2a44; /* Dark Blue/Black */
+    color: white;
+}
+.download-pdf-btn:hover {
+    background-color: #0d121f; /* Darker shade */
+}
+
+.pdf-btn, .youtube-btn, .open-pdf-btn, .download-pdf-btn {
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -1714,10 +1725,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     transition: background-color 0.3s ease;
     font-size: 0.85em; /* Ensure consistent font size */
 }
-
-.pdf-btn {
-    background-color: #1f2a44; /* Black/Dark Blue background */
+    font-size: 0.85em; /* Ensure consistent font size */
 }
-.pdf-btn:hover {
-    background-color: #0d121f;
+    font-size: 0.85em; /* Ensure consistent font size */
 }

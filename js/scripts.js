@@ -908,6 +908,10 @@ document.addEventListener('DOMContentLoaded', function () {
             return `https://drive.google.com/file/d/${encodeURIComponent(driveFileId)}/view`;
         }
 
+        function makeDriveDownloadUrl(driveFileId) {
+            return `https://drive.google.com/uc?export=download&id=${encodeURIComponent(driveFileId)}`;
+        }
+
         function countVideosInPlaylist(playlistEl) {
             return playlistEl.querySelectorAll('video').length;
         }
@@ -1056,8 +1060,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 const compiledPdfId = pl.getAttribute('compiledPdfDriveId');
                 let pdfInfoHtml = '';
                 if (compiledPdfId && compiledPdfId.trim() !== '') {
-                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn"><i class="fas fa-file-archive"></i> Compiled PDF</a>`;
-                } else {
+                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> Open PDF</a>
+                                   <a href="${makeDriveDownloadUrl(compiledPdfId)}" class="playlist-stats compiled-pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download PDF</a>`;
+                } else { // For individual PDFs, just show the count
                     const individualPdfCount = countPdfsInPlaylist(pl);
                     if (individualPdfCount > 0) {
                         pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${individualPdfCount} PDFs</div>`;
@@ -1156,9 +1161,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Only show individual PDF buttons if there is no compiled PDF for the playlist.
                 if (!hasCompiledPdf) {
                     if (driveId) {
-                        actionButtons.innerHTML += `<a href="${makeDriveViewUrl(driveId)}" target="_blank" rel="noopener" class="pdf-btn"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
+                        actionButtons.innerHTML += `<a href="${makeDriveViewUrl(driveId)}" target="_blank" rel="noopener" class="pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> Open PDF</a>`;
+                        actionButtons.innerHTML += `<a href="${makeDriveDownloadUrl(driveId)}" class="pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download PDF</a>`;
                     } else if (pdfUrl) {
-                        actionButtons.innerHTML += `<a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn"><i class="fas fa-file-pdf"></i> Open PDF</a>`;
+                        // For non-drive URLs, 'open' is the default, 'download' attribute forces download.
+                        actionButtons.innerHTML += `<a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> Open PDF</a>`;
+                        actionButtons.innerHTML += `<a href="${pdfUrl}" download class="pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download PDF</a>`;
                     }
                 }
 
