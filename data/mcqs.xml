@@ -5878,5 +5878,3586 @@ d. True: standard derivative definition:
       Opposite direction multiply by −1 → \( \frac{-1}{\sqrt{2}}(1,-1) \).
     </explanation>
   </question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which one of the following is not a main objective of accounting?</text>
+<option>Systematic recording of transactions</option>
+<option>Ascertainment of the profitability of the business</option>
+<option>Ascertainment of the financial position of the business</option>
+<option>Solving tax disputes with tax authorities</option>
+<answer>Solving tax disputes with tax authorities</answer>
+<explanation>
+The main objectives include recording, profit ascertainment and financial position. Settling disputes is not an accounting objective.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Who is considered to be the internal user of the financial information?</text>
+<option>Creditor</option>
+<option>Employee</option>
+<option>Customer</option>
+<option>Government</option>
+<answer>Employee</answer>
+<explanation>
+Internal users include owners, managers and employees. External users are creditors, customers, govt etc.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The root cause of financial accounting system is</text>
+<option>Social accounting</option>
+<option>Stewardship accounting</option>
+<option>Management accounting</option>
+<option>Responsibility accounting</option>
+<answer>Stewardship accounting</answer>
+<explanation>
+Historically, accounting arose to report stewardship of resources to owners.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which one of the following is not a branch of accounting?</text>
+<option>Financial accounting</option>
+<option>Management accounting</option>
+<option>Human resources accounting</option>
+<option>None of the above.</option>
+<answer>None of the above.</answer>
+<explanation>
+All listed are recognised branches including HR accounting.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Financial position of a business is ascertained on the basis of</text>
+<option>Journal</option>
+<option>Trial balance</option>
+<option>Balance Sheet</option>
+<option>Ledger</option>
+<answer>Balance Sheet</answer>
+<explanation>
+The Balance Sheet shows financial position on a particular date.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>GAAPs are:</text>
+<option>Generally Accepted Accounting Policies</option>
+<option>Generally Accepted Accounting Principles</option>
+<option>Generally Accepted Accounting Provisions</option>
+<option>None of these</option>
+<answer>Generally Accepted Accounting Principles</answer>
+<explanation>
+GAAP stands for Generally Accepted Accounting Principles.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The rule of stock valuation ‘cost price or realisable value whichever is lower’ is based on</text>
+<option>Materiality</option>
+<option>Money measurement</option>
+<option>Conservatism</option>
+<option>Accrual</option>
+<answer>Conservatism</answer>
+<explanation>
+Conservatism advises recognition of losses earlier and profits only when realised.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following does not follow dual aspect concept?</text>
+<option>Increase in one asset and decrease in other asset</option>
+<option>Increase in both asset and liability</option>
+<option>Decrease in one asset and decrease in other asset</option>
+<option>Increase in one asset and increase in capital</option>
+<answer>Decrease in one asset and decrease in other asset</answer>
+<explanation>
+Decrease in both assets violates equality unless matched by liabilities/capital.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Accounting equation signifies</text>
+<option>Capital of a business is equal to assets</option>
+<option>Liabilities of a business are equal to assets</option>
+<option>Capital of a business is equal to liabilities</option>
+<option>Assets of a business are equal to the total of capital and liabilities</option>
+<answer>Assets of a business are equal to the total of capital and liabilities</answer>
+<explanation>
+Basic equation is \( Assets = Capital + Liabilities \).
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Cash withdrawn by the proprietor from the business for his personal use causes</text>
+<option>Decrease in assets and decrease in owner’s capital</option>
+<option>Increase in one asset and decrease in another asset</option>
+<option>Increase in one asset and increase in liabilities</option>
+<option>Increase in asset and decrease in capital</option>
+<answer>Decrease in assets and decrease in owner’s capital</answer>
+<explanation>
+Drawings reduce cash (asset) and owner capital.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A firm has assets of ` 1,00,000 and external liabilities of ` 60,000. Its capital would be</text>
+<option>` 1,60,000</option>
+<option>` 60,000</option>
+<option>` 1,00,000</option>
+<option>` 40,000</option>
+<answer>` 40,000</answer>
+<explanation>
+Capital \( = Assets - Liabilities = 1,00,000 - 60,000 = 40,000 \).
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The incorrect accounting equation is</text>
+<option>Assets = Liabilities + Capital</option>
+<option>Assets = Capital + Liabilities</option>
+<option>Liabilities = Assets + Capital</option>
+<option>Capital = Assets – Liabilities</option>
+<answer>Liabilities = Assets + Capital</answer>
+<explanation>
+Correct equations are \( A = L + C \) or \( C = A - L \).  
+Option shows incorrect relation.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Accounting equation is formed based on the accounting principle of</text>
+<option>Dual aspect</option>
+<option>Consistency</option>
+<option>Going concern</option>
+<option>Accrual</option>
+<answer>Dual aspect</answer>
+<explanation>
+Dual aspect recognises every transaction has double effect.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Real account deals with</text>
+<option>Individual persons</option>
+<option>Expenses and losses</option>
+<option>Assets</option>
+<option>Incomes and gains</option>
+<answer>Assets</answer>
+<explanation>
+Real accounts are related to assets and properties.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which one is representative personal account?</text>
+<option>Building A/c</option>
+<option>Outstanding salary A/c</option>
+<option>Mahesh A/c</option>
+<option>Balan &amp; Co</option>
+<answer>Outstanding salary A/c</answer>
+<explanation>
+Representative personal accounts represent expenses or incomes outstanding or prepaid.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Prepaid rent is a</text>
+<option>Nominal A/c</option>
+<option>Personal A/c</option>
+<option>Real A/c</option>
+<option>Representative personal A/c</option>
+<answer>Representative personal A/c</answer>
+<explanation>
+Prepaid expenses represent benefits receivable, hence representative personal.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Withdrawal of cash from business by proprietor should be credited to</text>
+<option>Drawings A/c</option>
+<option>Cash A/c</option>
+<option>Capital A/c</option>
+<option>Purchases A/c</option>
+<answer>Cash A/c</answer>
+<explanation>
+Cash goes out, hence Cash A/c is credited; Drawings is debited.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In double entry system, every transaction affects</text>
+<option>Minimum of two accounts</option>
+<option>Same account on two dates</option>
+<option>Two sides of same account</option>
+<option>Minimum three accounts</option>
+<answer>Minimum of two accounts</answer>
+<explanation>
+Double entry means dual aspect, affecting at least two accounts.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Main objective of preparing ledger account is to</text>
+<option>Ascertain financial position</option>
+<option>Ascertain profit or loss</option>
+<option>Both</option>
+<option>Know the balance of each ledger account</option>
+<answer>Know the balance of each ledger account</answer>
+<explanation>
+Ledger summarises transactions to know balances.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Amount brought into business by proprietor should be credited to</text>
+<option>Cash account</option>
+<option>Drawings account</option>
+<option>Capital account</option>
+<option>Suspense account</option>
+<answer>Capital account</answer>
+<explanation>
+Capital increases, so capital account is credited.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Trial balance is a</text>
+<option>Statement</option>
+<option>Account</option>
+<option>Ledger</option>
+<option>Journal</option>
+<answer>Statement</answer>
+<explanation>
+Trial balance is a statement, not an account.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>After ledger, next step is preparation of</text>
+<option>Trading account</option>
+<option>Trial balance</option>
+<option>Journal</option>
+<option>Profit and loss account</option>
+<answer>Trial balance</answer>
+<explanation>
+Ledger balances are summarised in trial balance.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The trial balance contains balances of</text>
+<option>Only personal accounts</option>
+<option>Only real accounts</option>
+<option>Only nominal accounts</option>
+<option>All accounts</option>
+<answer>All accounts</answer>
+<explanation>
+Trial balance includes all ledger balances.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Objectives of preparing trial balance</text>
+<option>Summary of ledger</option>
+<option>Helps in final accounts</option>
+<option>Checks arithmetical accuracy</option>
+<option>All of the above</option>
+<answer>All of the above</answer>
+<explanation>
+Trial balance performs all listed purposes.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Total of credit column short by `200. This difference will be</text>
+<option>Debited to suspense account</option>
+<option>Credited to suspense account</option>
+<option>Adjusted to debit balance</option>
+<option>Adjusted to credit balance</option>
+<answer>Credited to suspense account</answer>
+<explanation>
+If credit side is short, suspense is credited to balance.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A list showing balances to match debit and credit</text>
+<option>Journal</option>
+<option>Day book</option>
+<option>Trial balance</option>
+<option>Balance sheet</option>
+<answer>Trial balance</answer>
+<explanation>
+Trial balance is the matching list of balances.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which account has debit balance and appears in debit of TB?</text>
+<option>Sundry creditors account</option>
+<option>Bills payable account</option>
+<option>Drawings account</option>
+<option>Capital account</option>
+<answer>Drawings account</answer>
+<explanation>
+Drawings have debit balance.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The difference of trial balance totals is transferred to</text>
+<option>Trading account</option>
+<option>Difference account</option>
+<option>Suspense account</option>
+<option>Miscellaneous account</option>
+<answer>Suspense account</answer>
+<explanation>
+Suspense holds temporarily until corrected.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Trial balance is prepared</text>
+<option>At the end of the year</option>
+<option>On a particular date</option>
+<option>For a year</option>
+<option>None</option>
+<answer>On a particular date</answer>
+<explanation>
+Like balance sheet, TB is prepared as on a date.
+</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Purchases book is used to record</text>
+<option>all purchases of goods</option>
+<option>all credit purchases of assets</option>
+<option>all credit purchases of goods</option>
+<option>all purchases of assets</option>
+<answer>all credit purchases of goods</answer>
+<explanation>
+Purchases book records only credit purchases of goods.
+</explanation>
+</question>
+
+<!-- 331 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A periodic total of the purchases book is posted to the</text>
+    <option>debit side of the purchases account</option>
+    <option>debit side of the sales account</option>
+    <option>credit side of the purchases account</option>
+    <option>credit side of the sales account</option>
+    <answer>debit side of the purchases account</answer>
+    <explanation>
+      The purchases book records credit purchases of goods. Its total is posted as a periodic debit to the Purchases A/c and credited to individual suppliers.
+    </explanation>
+  </question>
+
+  <!-- 332 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Sales book is used to record</text>
+    <option>all sales of goods</option>
+    <option>all credit sales of assets</option>
+    <option>all credit sales of goods</option>
+    <option>all sales of assets and goods</option>
+    <answer>all credit sales of goods</answer>
+    <explanation>
+      The sales book is a subsidiary book meant only for recording credit sales of goods dealt in, not cash sales or asset sales.
+    </explanation>
+  </question>
+
+  <!-- 333 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The total of the sales book is posted periodically to the credit of</text>
+    <option>Sales account</option>
+    <option>Cash account</option>
+    <option>Purchases account</option>
+    <option>Journal proper</option>
+    <answer>Sales account</answer>
+    <explanation>
+      Periodically, the sales book total is credited to the Sales A/c, and individual customer accounts are debited in the ledger.
+    </explanation>
+  </question>
+
+  <!-- 334 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Purchase returns book is used to record</text>
+    <option>returns of goods to the supplier for which cash is not received immediately</option>
+    <option>returns of assets to the supplier for which cash is not received immediately</option>
+    <option>returns of assets to the supplier for which cash is received immediately</option>
+    <option>None of the above</option>
+    <answer>returns of goods to the supplier for which cash is not received immediately</answer>
+    <explanation>
+      Purchase returns book records credit returns of goods earlier bought on credit from suppliers.
+    </explanation>
+  </question>
+
+  <!-- 335 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Sales return book is used to record</text>
+    <option>Returns of goods by the customer for which cash is paid immediately</option>
+    <option>Returns of goods by the customer for which cash is not paid immediately</option>
+    <option>Returns of assets by the customer for which cash is not paid immediately</option>
+    <option>Returns of assets by the customer for which cash is paid immediately</option>
+    <answer>Returns of goods by the customer for which cash is not paid immediately</answer>
+    <explanation>
+      Sales return book records goods returned by credit customers against earlier credit sales. Cash returns would go in cash book.
+    </explanation>
+  </question>
+
+  <!-- 336 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Purchases of fixed assets on credit basis is recorded in</text>
+    <option>Purchases book</option>
+    <option>Sales book</option>
+    <option>Purchases returns book</option>
+    <option>Journal proper</option>
+    <answer>Journal proper</answer>
+    <explanation>
+      Purchases book is only for goods. Credit purchases of fixed assets are recorded through a general journal entry in journal proper.
+    </explanation>
+  </question>
+
+  <!-- 337 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The source document or voucher used for recording entries in sales book is</text>
+    <option>Debit note</option>
+    <option>Credit note</option>
+    <option>Invoice</option>
+    <option>Cash receipt</option>
+    <answer>Invoice</answer>
+    <explanation>
+      For credit sales, the seller issues a sales invoice, which serves as the basis for entering in the sales book.
+    </explanation>
+  </question>
+
+  <!-- 338 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following statements is not true?</text>
+    <option>Cash discount is recorded in the books of accounts</option>
+    <option>Assets purchased on credit are recorded in journal proper</option>
+    <option>Trade discount is recorded in the books of accounts</option>
+    <option>3 grace days are added while determining the due date of the bill</option>
+    <answer>Trade discount is recorded in the books of accounts</answer>
+    <explanation>
+      Trade discount is deducted from the list price and is not recorded in the books; only the net amount is entered. Cash discount and credit asset purchases are recorded.
+    </explanation>
+  </question>
+
+  <!-- 339 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Closing entries are recorded in</text>
+    <option>Cash book</option>
+    <option>Ledger</option>
+    <option>Journal proper</option>
+    <option>Purchases book</option>
+    <answer>Journal proper</answer>
+    <explanation>
+      At year-end, nominal accounts are closed via closing entries passed in journal proper and then posted to ledger.
+    </explanation>
+  </question>
+
+  <!-- 340 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Cash book is a</text>
+    <option>Subsidiary book</option>
+    <option>Principal book</option>
+    <option>Journal proper</option>
+    <option>Both subsidiary book and principal book</option>
+    <answer>Both subsidiary book and principal book</answer>
+    <explanation>
+      Cash book records and also serves as the cash account. Hence it acts as both a book of original entry and a ledger account.
+    </explanation>
+  </question>
+
+  <!-- 341 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The cash book records</text>
+    <option>All cash receipts</option>
+    <option>All cash payments</option>
+    <option>Both (a) and (b)</option>
+    <option>All credit transactions</option>
+    <answer>Both (a) and (b)</answer>
+    <explanation>
+      Cash book records all cash (and bank) receipts and all cash (and bank) payments; credit transactions are not recorded there.
+    </explanation>
+  </question>
+
+  <!-- 342 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>When a firm maintains a simple cash book, it need not maintain</text>
+    <option>Sales account in the ledger</option>
+    <option>Purchases account in the ledger</option>
+    <option>Capital account in the ledger</option>
+    <option>Cash account in the ledger</option>
+    <answer>Cash account in the ledger</answer>
+    <explanation>
+      Simple cash book itself functions as the Cash A/c, so a separate cash ledger account is not needed.
+    </explanation>
+  </question>
+
+  <!-- 343 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A cash book with discount, cash and bank column is called</text>
+    <option>Simple cash book</option>
+    <option>Double column cash book</option>
+    <option>Three column cash book</option>
+    <option>Petty cash book</option>
+    <answer>Three column cash book</answer>
+    <explanation>
+      Three column cash book has cash, bank and discount columns on both sides.
+    </explanation>
+  </question>
+
+  <!-- 344 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>In triple column cash book, the balance of bank overdraft brought forward will appear in</text>
+    <option>Cash column debit side</option>
+    <option>Cash column credit side</option>
+    <option>Bank column debit side</option>
+    <option>Bank column credit side</option>
+    <answer>Bank column credit side</answer>
+    <explanation>
+      Overdraft is a credit balance from the bank&apos;s point of view, so it appears on the credit side of the bank column when brought forward.
+    </explanation>
+  </question>
+
+  <!-- 345 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is recorded as contra entry?</text>
+    <option>Withdrew cash from bank for personal use</option>
+    <option>Withdrew cash from bank for office use</option>
+    <option>Direct payment by the customer in the bank account of the business</option>
+    <option>When bank charges interest</option>
+    <answer>Withdrew cash from bank for office use</answer>
+    <explanation>
+      Withdrawing cash from bank for office use affects both cash and bank columns of the same cash book, and is recorded as a contra entry.
+    </explanation>
+  </question>
+
+  <!-- 346 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>If the debit and credit aspects of a transaction are recorded in the cash book, it is</text>
+    <option>Contra entry</option>
+    <option>Compound entry</option>
+    <option>Single entry</option>
+    <option>Simple entry</option>
+    <answer>Contra entry</answer>
+    <explanation>
+      When both aspects (debit and credit) are within the cash book (cash and bank), it is called a contra entry.
+    </explanation>
+  </question>
+
+  <!-- 347 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The balance in the petty cash book is</text>
+    <option>An expense</option>
+    <option>A profit</option>
+    <option>An asset</option>
+    <option>A liability</option>
+    <answer>An asset</answer>
+    <explanation>
+      Unspent petty cash is cash on hand, which is an asset.
+    </explanation>
+  </question>
+
+  <!-- 348 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Petty cash may be used to pay</text>
+    <option>The expenses relating to postage and conveyance</option>
+    <option>Salary to the Manager</option>
+    <option>Purchase of furniture and fixtures</option>
+    <option>Purchase of raw materials</option>
+    <answer>The expenses relating to postage and conveyance</answer>
+    <explanation>
+      Petty cash is for small, routine expenses such as postage, stationery, local conveyance, etc.
+    </explanation>
+  </question>
+
+  <!-- 349 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Small payments are recorded in a book called</text>
+    <option>Cash book</option>
+    <option>Purchase book</option>
+    <option>Bills payable book</option>
+    <option>Petty cash book</option>
+    <answer>Petty cash book</answer>
+    <explanation>
+      Petty cash book is specifically used to record numerous small cash payments.
+    </explanation>
+  </question>
+
+  <!-- 350 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A bank reconciliation statement is prepared by</text>
+    <option>Bank</option>
+    <option>Business</option>
+    <option>Debtor to the business</option>
+    <option>Creditor to the business</option>
+    <answer>Business</answer>
+    <explanation>
+      The business prepares BRS to reconcile its own cash book (bank column) with the bank&apos;s statement.
+    </explanation>
+  </question>
+
+  <!-- 351 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A bank reconciliation statement is prepared with the help of</text>
+    <option>Bank statement</option>
+    <option>Cash book</option>
+    <option>Bank statement and bank column of the cash book</option>
+    <option>Petty cash book</option>
+    <answer>Bank statement and bank column of the cash book</answer>
+    <explanation>
+      BRS is a comparison between the balance as per bank statement and the balance as per bank column of the cash book.
+    </explanation>
+  </question>
+
+  <!-- 352 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Debit balance in the bank column of the cash book means</text>
+    <option>Credit balance as per bank statement</option>
+    <option>Debit balance as per bank statement</option>
+    <option>Overdraft as per cash book</option>
+    <option>None of the above</option>
+    <answer>Credit balance as per bank statement</answer>
+    <explanation>
+      From business view, a debit bank balance is an asset (money with bank). From the bank&apos;s view, it is a liability to the customer, shown as a credit balance.
+    </explanation>
+  </question>
+
+  <!-- 353 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A bank reconciliation statement is prepared to know the causes for the difference between:</text>
+    <option>The balance as per the cash column of the cash book and bank column of the cash book</option>
+    <option>The balance as per the cash column of the cash book and bank statement</option>
+    <option>The balance as per the bank column of the cash book and the bank statement</option>
+    <option>The balance as per petty cash book and the cash book</option>
+    <answer>The balance as per the bank column of the cash book and the bank statement</answer>
+    <explanation>
+      BRS specifically reconciles bank column of cash book with bank&apos;s statement for the same account.
+    </explanation>
+  </question>
+
+  <!-- 354 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>When money is withdrawn from bank, the bank</text>
+    <option>Credits customer’s account</option>
+    <option>Debits customer’s account</option>
+    <option>Debits and credits customer’s account</option>
+    <option>None of these</option>
+    <answer>Debits customer’s account</answer>
+    <explanation>
+      Customer&apos;s deposit is a liability for the bank. On withdrawal, bank reduces its liability by debiting the customer&apos;s account.
+    </explanation>
+  </question>
+
+  <!-- 355 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Balance as per cash book is ` 2,000. Bank charge of ` 50 debited by the bank is not yet shown in the cash book. What is the bank statement balance now?</text>
+    <option>` 1,950 credit balance</option>
+    <option>` 1,950 debit balance</option>
+    <option>` 2,050 debit balance</option>
+    <option>` 2,050 credit balance</option>
+    <answer>` 1,950 credit balance</answer>
+    <explanation>
+      Bank has reduced the customer balance by 50. So bank statement will show \( 2,000 - 50 = 1,950 \) as credit (favourable) balance.
+    </explanation>
+  </question>
+
+  <!-- 356 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Balance as per bank statement is ` 1,000. Cheque deposited, but not yet credited by the bank is ` 2,000. What is the balance as per bank column of the cash book?</text>
+    <option>` 3,000 overdraft</option>
+    <option>` 3,000 favourable</option>
+    <option>` 1,000 overdraft</option>
+    <option>` 1,000 favourable</option>
+    <answer>` 3,000 favourable</answer>
+    <explanation>
+      Cash book already includes the deposited cheque, so it shows \( 1,000 + 2,000 = 3,000 \) as favourable (debit) balance.
+    </explanation>
+  </question>
+
+  <!-- 357 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which one of the following is not a timing difference?</text>
+    <option>Cheque deposited but not yet credited</option>
+    <option>Cheque issued but not yet presented for payment</option>
+    <option>Amount directly paid into the bank</option>
+    <option>Wrong debit in the cash book</option>
+    <answer>Wrong debit in the cash book</answer>
+    <explanation>
+      Wrong debit is an error, not a timing difference. Others arise due to time lag between entries in cash book and bank statement.
+    </explanation>
+  </question>
+
+  <!-- 358 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following errors will not affect the trial balance?</text>
+    <option>Wrong balancing of an account</option>
+    <option>Posting an amount in the wrong account but on the correct side</option>
+    <option>Wrong totalling of an account</option>
+    <option>Carried forward wrong amount in a ledger account</option>
+    <answer>Posting an amount in the wrong account but on the correct side</answer>
+    <explanation>
+      This is an error of principle or of posting to wrong account but with correct debit-credit amounts, so totals of debits and credits still agree.
+    </explanation>
+  </question>
+
+  <!-- 359 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Under straight line method, the amount of depreciation is</text>
+    <option>Increasing every year</option>
+    <option>Decreasing every year</option>
+    <option>Constant for all the years</option>
+    <option>Fluctuating every year</option>
+    <answer>Constant for all the years</answer>
+    <explanation>
+      Under SLM, depreciation is calculated on original cost:  
+      \( \text{Depreciation per year} = \frac{\text{Cost} - \text{Residual value}}{\text{Useful life}} \), which remains constant.
+    </explanation>
+  </question>
+
+  <!-- 360 -->
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Under the written down value method of depreciation, the amount of depreciation is</text>
+    <option>Uniform in all the years</option>
+    <option>Decreasing every year</option>
+    <option>Increasing every year</option>
+    <option>None of the above</option>
+    <answer>Decreasing every year</answer>
+    <explanation>
+      In WDV method, a fixed percentage is applied on the reduced balance each year, so the depreciation amount falls over time.
+    </explanation>
+  </question>
+
+   <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Depreciation provided on machinery is debited to</text>
+    <option>Depreciation account</option>
+    <option>Machinery account</option>
+    <option>Trading account</option>
+    <option>Provision for depreciation account</option>
+    <answer>Depreciation account</answer>
+    <explanation>
+      Depreciation is an expense, so it is debited to the Depreciation A/c (a nominal account) and credited to Machinery or Provision for Depreciation.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Cash received from sale of fixed asset is credited to</text>
+    <option>Profit and loss account</option>
+    <option>Fixed asset account</option>
+    <option>Depreciation account</option>
+    <option>Bank account</option>
+    <answer>Bank account</answer>
+    <explanation>
+      Receipt of cash increases bank balance, so Bank A/c is credited in cash book entry; gain or loss on sale is later transferred to Profit &amp; Loss A/c.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Depreciation is provided on</text>
+    <option>Fixed assets</option>
+    <option>Current assets</option>
+    <option>Outstanding charges</option>
+    <option>All assets</option>
+    <answer>Fixed assets</answer>
+    <explanation>
+      Depreciation is charged on depreciable fixed assets whose benefits extend over more than one accounting period.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Depreciation is caused by</text>
+    <option>Lapse of time</option>
+    <option>Usage</option>
+    <option>Obsolescence</option>
+    <option>a, b and c</option>
+    <answer>a, b and c</answer>
+    <explanation>
+      Depreciation arises due to wear and tear (use), passage of time and obsolescence (technical or commercial).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Depreciation is the process of</text>
+    <option>Allocation of cost of the asset to the period of its useful life</option>
+    <option>Valuation of assets</option>
+    <option>Maintenance of an asset in a state of efficiency</option>
+    <option>Adding value to the asset</option>
+    <answer>Allocation of cost of the asset to the period of its useful life</answer>
+    <explanation>
+      Depreciation is systematic allocation of the depreciable amount of an asset over its useful life, not revaluation or maintenance.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>For which of the following assets, the depletion method is adopted for writing off cost of the asset?</text>
+    <option>Plant and machinery</option>
+    <option>Mines and quarries</option>
+    <option>Buildings</option>
+    <option>Trademark</option>
+    <answer>Mines and quarries</answer>
+    <explanation>
+      Depletion method is used for wasting natural resources like mines, quarries, oil wells where depreciation is linked to units extracted.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A depreciable asset may suffer obsolescence due to</text>
+    <option>Passage of time</option>
+    <option>Wear and tear</option>
+    <option>Technological changes</option>
+    <option>None of the above.</option>
+    <answer>Technological changes</answer>
+    <explanation>
+      Obsolescence usually arises when better technology makes the existing asset uneconomic, even if it is still physically usable.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which method shall be efficient, if repairs and maintenance cost of an asset increases as it grows older.</text>
+    <option>Straight line method</option>
+    <option>Reducing balance method</option>
+    <option>Sinking fund method</option>
+    <option>Annuity method</option>
+    <answer>Reducing balance method</answer>
+    <explanation>
+      Under the reducing balance method, depreciation is higher in earlier years and lower later, helping keep total charge (depreciation + repairs) more uniform over the asset&apos;s life.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Depreciation is to be calculated from the date when</text>
+    <option>Asset is put to use</option>
+    <option>Purchase order is made</option>
+    <option>Asset is received at business premises</option>
+    <option>Invoice of assets is received</option>
+    <answer>Asset is put to use</answer>
+    <explanation>
+      Depreciation starts when the asset is available for use/put to use, because that is when it starts generating revenue and suffering wear and tear.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Residual value of an asset means the amount that it can fetch on sale at the ______ of its useful life.</text>
+    <option>Beginning</option>
+    <option>End</option>
+    <option>Middle</option>
+    <option>None</option>
+    <answer>End</answer>
+    <explanation>
+      Residual or scrap value is the estimated realizable value at the end of the asset&apos;s useful life.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Amount spent on increasing the seating capacity in a cinema hall is</text>
+    <option>Capital expenditure</option>
+    <option>Revenue expenditure</option>
+    <option>Deferred revenue expenditure</option>
+    <option>None of the above.</option>
+    <answer>Capital expenditure</answer>
+    <explanation>
+      It increases the earning capacity of the asset and gives benefit over years, so it is capital expenditure added to the asset&apos;s cost.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Expenditure incurred ` 20,000 for trial run of a newly installed machinery will be</text>
+    <option>Preliminary expense</option>
+    <option>Revenue expenditure</option>
+    <option>Capital expenditure</option>
+    <option>Deferred revenue expenditure</option>
+    <answer>Capital expenditure</answer>
+    <explanation>
+      Trial run expenses necessary to bring the asset to working condition are capitalized as part of the cost of the machinery.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Interest on bank deposits is</text>
+    <option>Capital receipt</option>
+    <option>Revenue receipt</option>
+    <option>Capital expenditures</option>
+    <option>Revenue expenditures</option>
+    <answer>Revenue receipt</answer>
+    <explanation>
+      Interest income is recurring income from normal operations and is treated as revenue receipt in Profit &amp; Loss A/c, not as capital receipt.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Revenue expenditure is intended to benefit</text>
+    <option>Past period</option>
+    <option>Future period</option>
+    <option>Current period</option>
+    <option>Any period</option>
+    <answer>Current period</answer>
+    <explanation>
+      Revenue expenditure is incurred to maintain earning capacity and its benefit is usually consumed within the current accounting period.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Closing stock is an item of</text>
+    <option>Fixed asset</option>
+    <option>Current asset</option>
+    <option>Fictitious asset</option>
+    <option>Intangible asset</option>
+    <answer>Current asset</answer>
+    <explanation>
+      Closing stock is part of current assets as it is expected to be sold or consumed within the normal operating cycle of the business.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Balance sheet is</text>
+    <option>An account</option>
+    <option>A statement</option>
+    <option>Neither a statement nor an account</option>
+    <option>None of the above</option>
+    <answer>A statement</answer>
+    <explanation>
+      Balance sheet is a statement of assets, liabilities and capital on a particular date, not a ledger account with debit and credit sides in the same sense as accounts.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Net profit of the business increases the</text>
+    <option>Drawings</option>
+    <option>Receivables</option>
+    <option>Debts</option>
+    <option>Capital</option>
+    <answer>Capital</answer>
+    <explanation>
+      Net profit belongs to owners and is added to capital, increasing owner&apos;s equity in the business (if not withdrawn as drawings).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Carriage inwards will be shown</text>
+    <option>In the trading account</option>
+    <option>In the profit and loss account</option>
+    <option>On the liabilities side</option>
+    <option>On the assets side</option>
+    <answer>In the trading account</answer>
+    <explanation>
+      Carriage inwards is a direct expense related to bringing goods to the business and is added to purchases in the Trading A/c (cost of goods purchased).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Bank overdraft should be shown</text>
+    <option>In the trading account</option>
+    <option>Profit and loss account</option>
+    <option>On the liabilities side</option>
+    <option>On the assets side</option>
+    <answer>On the liabilities side</answer>
+    <explanation>
+      Bank overdraft is a temporary loan from bank and is shown as a current liability in the balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Balance sheet shows the _________ of the business.</text>
+    <option>Profitability</option>
+    <option>Financial position</option>
+    <option>Sales</option>
+    <option>Purchases</option>
+    <answer>Financial position</answer>
+    <explanation>
+      Profitability is shown by the Profit &amp; Loss A/c; the balance sheet shows financial position (assets, liabilities and capital) on a given date.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Drawings appearing in the trial balance is</text>
+    <option>Added to the purchases</option>
+    <option>Subtracted from the purchases</option>
+    <option>Added to the capital</option>
+    <option>Subtracted from the capital</option>
+    <answer>Subtracted from the capital</answer>
+    <explanation>
+      Drawings reduce the owner&apos;s capital. In final accounts, drawings in trial balance are deducted from capital in the balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Salaries appearing in the trial balance is shown on the</text>
+    <option>Debit side of trading account</option>
+    <option>Debit side of profit and loss account</option>
+    <option>Liabilities side of the balance sheet</option>
+    <option>Assets side of the balance sheet</option>
+    <answer>Debit side of profit and loss account</answer>
+    <explanation>
+      Salaries are indirect expenses and are shown on the debit side of the Profit &amp; Loss A/c when they appear in the trial balance (already adjusted figure).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Current assets does not include</text>
+    <option>Cash</option>
+    <option>Stock</option>
+    <option>Furniture</option>
+    <option>Prepaid expenses</option>
+    <answer>Furniture</answer>
+    <explanation>
+      Furniture is a fixed asset, not a current asset. Cash, stock and prepaid expenses are current assets expected to be realized or consumed within a short period.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Goodwill is classified as</text>
+    <option>A current asset</option>
+    <option>A liquid asset</option>
+    <option>A tangible asset</option>
+    <option>An intangible asset</option>
+    <answer>An intangible asset</answer>
+    <explanation>
+      Goodwill has no physical form but has value; it is an intangible fixed asset in the balance sheet when purchased or otherwise recognized as per standards.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A prepayment of insurance premium will appear in</text>
+    <option>The trading account on the debit side</option>
+    <option>The profit and loss account on the credit side</option>
+    <option>The balance sheet on the assets side</option>
+    <option>The balance sheet on the liabilities side</option>
+    <answer>The balance sheet on the assets side</answer>
+    <explanation>
+      Prepaid insurance is an advance payment giving future benefit, so it is a current asset shown on the asset side of the balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Net profit is</text>
+    <option>Debited to capital account</option>
+    <option>Credited to capital account</option>
+    <option>Debited to drawings account</option>
+    <option>Credited to drawings account</option>
+    <answer>Credited to capital account</answer>
+    <explanation>
+      Net profit belongs to the proprietor/partners and is transferred by crediting Capital A/c (or Partners&apos; Capital A/cs) and debiting Profit &amp; Loss A/c.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Closing stock is valued at</text>
+    <option>Cost price</option>
+    <option>Market price</option>
+    <option>Cost price or market price whichever is higher</option>
+    <option>Cost price or net realisable value whichever is lower</option>
+    <answer>Cost price or net realisable value whichever is lower</answer>
+    <explanation>
+      As per conservatism, inventories are valued at lower of cost and net realizable value (NRV) to avoid overstating assets and profits.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Accrued interest on investment will be shown</text>
+    <option>On the credit side of profit and loss account</option>
+    <option>On the assets side of balance sheet</option>
+    <option>Both (a) and (b)</option>
+    <option>None of these</option>
+    <answer>Both (a) and (b)</answer>
+    <explanation>
+      Accrued interest is income earned but not received. It is credited to Profit &amp; Loss A/c and shown as an asset (accrued income) in the balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>If there is no existing provision for doubtful debts, provision created for doubtful debts is</text>
+    <option>Debited to bad debts account</option>
+    <option>Debited to sundry debtor’s account</option>
+    <option>Credited to bad debts account</option>
+    <option>Debited to profit and loss account</option>
+    <answer>Debited to profit and loss account</answer>
+    <explanation>
+      New provision for doubtful debts is an expense of the year and is debited to Profit &amp; Loss A/c with a credit to Provision for Doubtful Debts A/c.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which is the accounting concept that requires the practice of crediting closing stock to the trading account?</text>
+    <option>Going concern</option>
+    <option>Cost</option>
+    <option>Matching</option>
+    <option>Conservatism</option>
+    <answer>Matching</answer>
+    <explanation>
+      Matching concept requires that costs be matched with the revenues of the same period. Crediting closing stock reduces cost of goods sold to match sales of the period only with goods actually sold.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>According to accrual concept of accounting, financial or business transaction is recorded</text>
+    <option>when cash is received or paid</option>
+    <option>when transaction occurs</option>
+    <option>when profit is computed</option>
+    <option>when balance sheet is prepared</option>
+    <answer>when transaction occurs</answer>
+    <explanation>
+      Under accrual basis, income and expenses are recognized when they are earned or incurred, not when cash is received or paid.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The John Marketing Company provides advertising services in year A but receives advertising fee in year B and recognizes revenue in year A. This action is justified by</text>
+    <option>business entity concept</option>
+    <option>revenue recognition principle</option>
+    <option>economic entity concept</option>
+    <option>going concern concept</option>
+    <answer>revenue recognition principle</answer>
+    <explanation>
+      Revenue is recognized when it is earned and realizable, regardless of when cash is received; this is the revenue recognition principle applied with accrual basis.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A company is a going concern if</text>
+    <option>its balance sheet shows a strong financial position</option>
+    <option>its income statement for the current year shows huge profit</option>
+    <option>there is no evidence that it will or will have to cease operations within foreseeable future.</option>
+    <option>it is a public limited company</option>
+    <answer>there is no evidence that it will or will have to cease operations within foreseeable future.</answer>
+    <explanation>
+      Going concern assumption means the entity will continue its operations for the foreseeable future without intention or necessity of liquidation or curtailment.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The business or economic entity concept is applicable to</text>
+    <option>sole proprietorship form of business</option>
+    <option>partnership form of business</option>
+    <option>corporate form of business</option>
+    <option>all of the above</option>
+    <answer>all of the above</answer>
+    <explanation>
+      Entity concept requires business transactions to be recorded separately from the personal affairs of owners, irrespective of the form of organization.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The revenue is not recognized until it is earned and realized or at least realizable. This statement belongs to</text>
+    <option>Separate entity concept</option>
+    <option>Revenue recognition principle</option>
+    <option>Going concern concept</option>
+    <option>Conservatism concept</option>
+    <answer>Revenue recognition principle</answer>
+    <explanation>
+      It directly states the revenue recognition principle: recognize revenue when it is earned and realizable, not merely when cash is received in advance or uncertain.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Sony, a multinational corporation, rounds rupee amounts in its financial statements to the nearest Rs 1,000. Which accounting principle/concept justifies this action?</text>
+    <option>Realization concept</option>
+    <option>Business entity concept</option>
+    <option>Materiality concept</option>
+    <option>Historical Cost concept</option>
+    <answer>Materiality concept</answer>
+    <explanation>
+      Materiality allows ignoring very small amounts or rounding figures when such details do not affect users&apos; economic decisions based on the financial statements.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A fixed asset costing Rs 1,00,000 is depreciated over its estimated useful life of 10 years. This action is related to</text>
+    <option>matching principle</option>
+    <option>monetary unit assumption</option>
+    <option>full disclosure concept</option>
+    <option>None of the above</option>
+    <answer>matching principle</answer>
+    <explanation>
+      Depreciating an asset over its useful life allocates its cost to the periods that benefit from its use, in line with the matching principle of expenses and revenues.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which accounting principle/concept allows accountants to ignore other accounting principle/concept if the amount in question is immaterial?</text>
+    <option>business entity concept</option>
+    <option>conservatism concept</option>
+    <option>materiality concept</option>
+    <option>full disclosure concept</option>
+    <answer>materiality concept</answer>
+    <explanation>
+      Materiality permits departure from strict application of other principles when the amounts involved are too small to influence the decisions of users of financial statements.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Consistency with reference to application of accounting procedures means</text>
+    <option>All companies in the same industry should use identical accounting procedures</option>
+    <option>Income &amp; assets have not been overstated</option>
+    <option>Accounting methods &amp; procedures shall be followed on a uniform basis year after year</option>
+    <option>Any accounting method can be followed as per convenience</option>
+    <answer>Accounting methods &amp; procedures shall be followed on a uniform basis year after year</answer>
+    <explanation>
+      Consistency means a firm uses the same accounting methods from period to period, allowing comparability over time; changes are allowed only if justified and disclosed.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Historical cost concept requires the valuation of an asset at</text>
+    <option>Original cost</option>
+    <option>Replacement value</option>
+    <option>Net realizable value</option>
+    <option>Market value</option>
+    <answer>Original cost</answer>
+    <explanation>
+      Under historical cost, assets are recorded at the original purchase price plus directly attributable costs, not at current market or replacement value.</explanation>
+  </question>
+
+   <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The comparison of financial statement of one year with that of another is possible only when which concept is followed?</text>
+    <option>Going concern</option>
+    <option>Accrual</option>
+    <option>Consistency</option>
+    <option>Materiality</option>
+    <answer>Consistency</answer>
+    <explanation>
+      Consistency requires using the same accounting policies and methods from year to year, which makes inter-period comparison meaningful.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A trader purchases goods for Rs. 25,00,000. Of these, 70% of goods were sold during the year. At the end of 31st December 2009, the market value of such goods was Rs. 5,00,000. But the trader recorded closing stock at Rs. 7,50,000. Which concept is violated?</text>
+    <option>Money measurement</option>
+    <option>Conservatism</option>
+    <option>Consistency</option>
+    <option>None of these</option>
+    <answer>Conservatism</answer>
+    <explanation>
+      Conservatism (prudence) requires valuing stock at lower of cost or net realizable value. Cost is Rs. 7,50,000, market is Rs. 5,00,000. Recording at cost violates this rule.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is wrong?</text>
+    <option>All real and personal accounts are transferred to balance sheet</option>
+    <option>Nominal accounts are transferred to P &amp; L account</option>
+    <option>Each account is opened separately in ledger</option>
+    <option>Rent is a personal account, outstanding rent is nominal account</option>
+    <answer>Rent is a personal account, outstanding rent is nominal account</answer>
+    <explanation>
+      Rent is a nominal account (expense). Outstanding rent is a representative personal account (a liability), not nominal. So this statement is wrong.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>If wages are paid for construction of business premises, which accounts are debited and credited?</text>
+    <option>Wages, Cash</option>
+    <option>Premises, Cash</option>
+    <option>Cash, Wages</option>
+    <option>Cash, Premises</option>
+    <answer>Premises, Cash</answer>
+    <explanation>
+      Wages for construction are capitalized as part of building cost. Premises A/c is debited and Cash/Bank A/c is credited.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The process of recording financial data up to trial balance stage is called</text>
+    <option>Book keeping</option>
+    <option>Classifying</option>
+    <option>Summarising</option>
+    <option>Analysing</option>
+    <answer>Book keeping</answer>
+    <explanation>
+      Bookkeeping covers recording and classifying transactions and preparing trial balance. Analysis and interpretation belong to accounting proper.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Amount spent on increasing the earning capacity is a ______ expenditure.</text>
+    <option>Capital</option>
+    <option>Revenue</option>
+    <option>Deferred revenue</option>
+    <option>Capital Loss</option>
+    <answer>Capital</answer>
+    <explanation>
+      Expenditure that increases earning capacity or extends useful life of an asset is capital expenditure and is capitalized, not treated as revenue expense.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Change in the capital account of proprietor may occur due to</text>
+    <option>Profit earned</option>
+    <option>Loss incurred</option>
+    <option>Capital introduced</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>
+      Profit increases capital, loss and drawings reduce it, and fresh capital introduced increases it. So all affect the capital account balance.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Provision for discount on debtors is calculated on the amount of debtors</text>
+    <option>Before deducting provision for doubtful debts.</option>
+    <option>After deducting provision for doubtful debts.</option>
+    <option>Before deducting actual bad debts and provision for doubtful debts.</option>
+    <option>After adding actual bad and doubtful debts.</option>
+    <answer>After deducting provision for doubtful debts.</answer>
+    <explanation>
+      First deduct bad debts and provision for doubtful debts to arrive at expected realizable debtors; discount on debtors is calculated on these net good debtors only.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Value of goods withdrawn by the proprietor for his personal use should be credited to</text>
+    <option>Capital A/c</option>
+    <option>Sales A/c</option>
+    <option>Drawings A/c</option>
+    <option>Purchases A/c</option>
+    <answer>Purchases A/c</answer>
+    <explanation>
+      Goods taken for personal use reduce purchases/stock. Entry: Dr Drawings A/c, Cr Purchases A/c (or Goods A/c). Thus Purchases is credited, not Sales or Drawings.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>M/s Stationery Mart will debit the purchase of stationery to</text>
+    <option>Purchases A/c</option>
+    <option>General Expenses A/c</option>
+    <option>Stationery A/c</option>
+    <option>None</option>
+    <answer>Purchases A/c</answer>
+    <explanation>
+      Stationery Mart trades in stationery; stationery is its goods, so purchase is for resale and goes to Purchases A/c, not as an expense like office stationery.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Cash A/c is a</text>
+    <option>Real a/c</option>
+    <option>Nominal</option>
+    <option>Personal</option>
+    <option>None</option>
+    <answer>Real a/c</answer>
+    <explanation>
+      Cash represents an asset, and assets are recorded in real accounts. Rule: debit what comes in, credit what goes out for real accounts like cash.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>As per the Matching concept, Revenue − ? = Profit</text>
+    <option>Expenses</option>
+    <option>Liabilities</option>
+    <option>Losses</option>
+    <option>Assets</option>
+    <answer>Expenses</answer>
+    <explanation>
+      Matching concept requires that expenses incurred to earn the revenue of a period be matched against that revenue to arrive at profit (Revenue − Expenses = Profit).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is a Real A/c?</text>
+    <option>Building A/c</option>
+    <option>Capital A/c</option>
+    <option>Shyam A/c</option>
+    <option>Rent A/c</option>
+    <answer>Building A/c</answer>
+    <explanation>
+      Real accounts relate to property and assets such as building, machinery etc. Capital and Shyam are personal accounts; rent is a nominal account (expense).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Valuation of stock in accounting follows the principle of cost price or ______ whichever is lower.</text>
+    <option>Market Price</option>
+    <option>Average Price</option>
+    <option>Net realizable Value</option>
+    <option>None of these</option>
+    <answer>Net realizable Value</answer>
+    <explanation>
+      As per accounting standards, inventories are valued at lower of cost and net realizable value (NRV), which is the estimated selling price minus costs to complete and sell.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is not a nominal Account?</text>
+    <option>Outstanding salaries Account</option>
+    <option>Salaries account</option>
+    <option>Interest paid</option>
+    <option>Commission received</option>
+    <answer>Outstanding salaries Account</answer>
+    <explanation>
+      Salaries, interest paid and commission received are nominal accounts. Outstanding salaries represent a liability and are a representative personal account, not nominal.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A trader calculated his profit as Rs. 1,50,000 on 31/03/2014. It is an</text>
+    <option>Transaction</option>
+    <option>Event</option>
+    <option>Transaction as well as event</option>
+    <option>Neither transaction nor event</option>
+    <answer>Event</answer>
+    <explanation>
+      The computation of profit is a result or outcome (event). It is not itself an external transaction with another party involving exchange of value.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>For every debit there will be an equal credit according to</text>
+    <option>Matching concept</option>
+    <option>Cost concept</option>
+    <option>Money measurement concept</option>
+    <option>Dual aspect concept</option>
+    <answer>Dual aspect concept</answer>
+    <explanation>
+      Dual aspect concept states that every transaction has two aspects: a debit and a credit of equal amount, forming the basis of double-entry bookkeeping and the accounting equation.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Profit and loss is calculated at the stage of</text>
+    <option>Recording</option>
+    <option>Posting</option>
+    <option>Classifying</option>
+    <option>Summarising</option>
+    <answer>Summarising</answer>
+    <explanation>
+      After recording, posting and classifying, accounts are summarized in the Trading and Profit &amp; Loss A/c to arrive at profit or loss; this is the summarising stage of accounting.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Diwali advance given to an employee is</text>
+    <option>Revenue Expenditure</option>
+    <option>Capital Expenditure</option>
+    <option>Deferred Revenue Expenditure</option>
+    <option>Not an Expenditure</option>
+    <answer>Not an Expenditure</answer>
+    <explanation>
+      It is an advance (asset) to the employee, to be adjusted later against salary or recovered. It is not an expense at the time of giving the advance.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>If one of the cars purchased by a car dealer is used for business purpose instead of resale, then it should be recorded by</text>
+    <option>Dr Drawing A/c &amp; Cr Purchases A/c</option>
+    <option>Dr Office Expenses A/c &amp; Cr Motor Car A/c</option>
+    <option>Dr Motor Car A/c &amp; Cr Purchases A/c</option>
+    <option>Dr Motor Car &amp; Cr Sales A/c</option>
+    <answer>Dr Motor Car A/c &amp; Cr Purchases A/c</answer>
+    <explanation>
+      The car ceases to be trading stock and becomes a fixed asset. Stock (Purchases) is reduced and Motor Car (fixed asset) is increased: Dr Motor Car, Cr Purchases/Stock.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Cost concept basically recognises</text>
+    <option>Fair Market value</option>
+    <option>Historical cost</option>
+    <option>Realisable value</option>
+    <option>Replacement cost</option>
+    <answer>Historical cost</answer>
+    <explanation>
+      Cost concept records assets at the original cost incurred to acquire them (historical cost) and generally continues to carry them at cost less depreciation, not at current values.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is the least concern to an auditor regarding the client’s internal control system?</text>
+    <option>Efficiency and effectiveness of operations</option>
+    <option>Controls related to the reliability of financial reporting</option>
+    <option>Controls over classes of transactions</option>
+    <option>Auditors are equally concerned with each of the given issues.</option>
+    <answer>Efficiency and effectiveness of operations</answer>
+    <explanation>
+      The auditor&apos;s primary focus is on controls that affect the reliability of financial reporting. Operational efficiency is more of a management concern than an audit objective, so it is of lesser concern to the auditor.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The long term assets that have no physical existence but are rights that have value are known as</text>
+    <option>Current Assets</option>
+    <option>Fixed Assets</option>
+    <option>Intangible Assets</option>
+    <option>Investments</option>
+    <answer>Intangible Assets</answer>
+    <explanation>
+      Intangible assets such as goodwill, patents and trademarks lack physical form but represent valuable legal rights and are long-term in nature.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The capital market in India is controlled by</text>
+    <option>RBI</option>
+    <option>NABARD</option>
+    <option>SEBI</option>
+    <option>IRDA</option>
+    <answer>SEBI</answer>
+    <explanation>
+      Securities and Exchange Board of India (SEBI) is the regulator for the securities market and capital market in India, protecting investors and regulating intermediaries and stock exchanges.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The money market where debt and stocks are traded and maturity period is more than a year is known as</text>
+    <option>Long-term market</option>
+    <option>Counter market</option>
+    <option>Capital market</option>
+    <option>Shorter term market</option>
+    <answer>Capital market</answer>
+    <explanation>
+      Capital market is the market for long-term funds and securities (equity and long-term debt) with maturity of more than one year, as distinct from money market for short-term funds.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A ledger is called a book of</text>
+    <option>Primary entry</option>
+    <option>Final entry</option>
+    <option>Original entry</option>
+    <option>None of the above</option>
+    <answer>Final entry</answer>
+    <explanation>
+      Journal and subsidiary books are books of original/primary entry; ledger is a book of final entry where transactions are posted for classification and balances are determined.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The ledger column that links the entry with the journal is called</text>
+    <option>J.F column</option>
+    <option>L.F column</option>
+    <option>Credit column</option>
+    <option>Debit column</option>
+    <answer>J.F column</answer>
+    <explanation>
+      In the ledger, the Journal Folio (J.F) column gives the page reference of the journal or subsidiary book from which the entry has been posted, linking ledger and journal together.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The left hand side of the ledger account is referred to as</text>
+    <option>Footing</option>
+    <option>Credit side</option>
+    <option>Debit side</option>
+    <option>Balance</option>
+    <answer>Debit side</answer>
+    <explanation>
+      Ledger accounts are T-shaped; the left-hand side is the debit side and the right-hand side is the credit side as per double entry rules.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Ledger is a principal book that contains</text>
+    <option>Real Accounts only</option>
+    <option>Personal Accounts only</option>
+    <option>All accounts</option>
+    <option>Nominal Accounts only</option>
+    <answer>All accounts</answer>
+    <explanation>
+      The ledger contains all three types of accounts: real, personal and nominal. It is the principal book where all accounts are maintained in classified form.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which item is used as the base for preparing trial balance?</text>
+    <option>Cash Account</option>
+    <option>Balance Sheet</option>
+    <option>Journal</option>
+    <option>Ledger Account</option>
+    <answer>Ledger Account</answer>
+    <explanation>
+      Trial balance is a list of balances of all ledger accounts. It is prepared using ledger account balances, not directly from the journal or balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>From the below mentioned items which are financial assets?</text>
+    <option>Machines</option>
+    <option>Bonds</option>
+    <option>Stocks</option>
+    <option>B and C</option>
+    <answer>B and C</answer>
+    <explanation>
+      Bonds and stocks are financial assets (claims on future cash flows). Machines are tangible fixed assets, not financial assets in this sense.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Net Profit is computed in</text>
+    <option>Profit and Loss Account</option>
+    <option>Balance Sheet</option>
+    <option>Trial balance</option>
+    <option>Trading Account</option>
+    <answer>Profit and Loss Account</answer>
+    <explanation>
+      Trading A/c gives gross profit or loss; Profit &amp; Loss A/c includes all indirect incomes and expenses to arrive at net profit or net loss for the period.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Suppliers&apos; personal accounts are seen in</text>
+    <option>Sales Ledger</option>
+    <option>Nominal Ledger</option>
+    <option>Purchases Ledger</option>
+    <option>General Ledger</option>
+    <answer>Purchases Ledger</answer>
+    <explanation>
+      Purchases ledger (creditors ledger) contains the personal accounts of suppliers from whom the business purchases goods on credit.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>At the balance sheet date, the balance on the Accumulated Provision for Depreciation Account is</text>
+    <option>Transferred to Depreciation account</option>
+    <option>Transferred to asset account</option>
+    <option>Transferred to Profit and Loss account</option>
+    <option>Simply deducted from the asset in the Balance Sheet</option>
+    <answer>Simply deducted from the asset in the Balance Sheet</answer>
+    <explanation>
+      The accumulated depreciation (provision for depreciation) is shown as a deduction from the related asset&apos;s cost in the balance sheet to arrive at its net book value, not transferred to P&amp;L at that time.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>If it is required to maintain fixed capitals then the partners’ shares of profits must be</text>
+    <option>Credited to Capital Accounts</option>
+    <option>Debited to Capital Accounts</option>
+    <option>Credited to Partner’s Current Account</option>
+    <option>Debited to Partner’s Current Account</option>
+    <answer>Credited to Partner’s Current Account</answer>
+    <explanation>
+      Under fixed capital method, capital balances remain unchanged except for fresh capital or permanent withdrawals. All appropriations like share of profit, interest, drawings etc. are recorded in partners&apos; current accounts instead.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Financial instrument such as commercial paper can be sold</text>
+    <option>issued by commercial banks</option>
+    <option>directly</option>
+    <option>with brokers or dealers</option>
+    <option>functional buyers</option>
+    <answer>with brokers or dealers</answer>
+    <explanation>
+      Commercial paper is usually placed and traded in the money market through dealers or brokers who arrange sales to investors, rather than directly on exchanges by issuers themselves in most cases.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A financial market in which short-term papers or bills are bought and sold is known as</text>
+    <option>Bill market</option>
+    <option>Commercial market</option>
+    <option>Capital market</option>
+    <option>Call market</option>
+    <answer>Bill market</answer>
+    <explanation>
+      The segment of the money market where short-term bills of exchange and similar instruments are traded is often referred to as the bill market, a component of the broader money market.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The financial market for long-term funds is known as</text>
+    <option>Capital market</option>
+    <option>Money market</option>
+    <option>Primary market</option>
+    <option>Secondary market</option>
+    <answer>Capital market</answer>
+    <explanation>
+      Capital market deals in long-term funds and securities such as shares and debentures, while money market deals in short-term funds and instruments with maturity under one year.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The lender of the last resort to the market is the</text>
+    <option>Commercial banks</option>
+    <option>Indigenous banks</option>
+    <option>Money lenders</option>
+    <option>RBI</option>
+    <answer>RBI</answer>
+    <explanation>
+      The Reserve Bank of India acts as the lender of last resort to the banking system, providing funds in times of liquidity crisis to ensure stability of the financial system.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Type of market in which securities with less than one year maturity are traded is classified as</text>
+    <option>money market</option>
+    <option>capital market</option>
+    <option>transaction market</option>
+    <option>global market</option>
+    <answer>money market</answer>
+    <explanation>
+      Money market is the market for short-term funds and instruments (maturity up to one year), such as treasury bills, commercial paper and certificates of deposit.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>In order to protect the interests of investors and regulate the working of stock exchanges, the Government in 1988 set up</text>
+    <option>SEBI</option>
+    <option>SIDBI</option>
+    <option>RBI</option>
+    <option>Bank of India</option>
+    <answer>SEBI</answer>
+    <explanation>
+      The Securities and Exchange Board of India (SEBI) was established to regulate and develop the securities market and protect investors in securities in India.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Opening statement of affairs is usually prepared to find out the</text>
+    <option>Capital in the beginning of the year</option>
+    <option>Capital at the end of the year</option>
+    <option>Profit made during the year</option>
+    <option>Loss occurred during the year</option>
+    <answer>Capital in the beginning of the year</answer>
+    <explanation>
+      In single-entry or incomplete records, opening statement of affairs lists assets and liabilities at the beginning; the excess of assets over liabilities gives opening capital.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The excess of assets over liabilities is</text>
+    <option>Loss</option>
+    <option>Cash</option>
+    <option>Capital</option>
+    <option>Profit</option>
+    <answer>Capital</answer>
+    <explanation>
+      Capital (owner&apos;s equity) is defined as Assets minus Liabilities. It represents the residual interest of the owner in the business.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which one of the following statements is not true in relation to incomplete records?</text>
+    <option>It is an unscientific method of recording transactions</option>
+    <option>Records are maintained only for cash and personal accounts</option>
+    <option>It is suitable for all types of organisations</option>
+    <option>Tax authorities do not accept</option>
+    <answer>It is suitable for all types of organisations</answer>
+    <explanation>
+      Incomplete records are generally suitable only for small concerns. Larger entities and companies are required to maintain full double-entry books and are not allowed to use incomplete records for statutory reporting and tax purposes.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>When capital in the beginning is ` 10,000, drawings during the year is ` 6,000, profit made during the year is ` 2,000 and additional capital introduced is ` 3,000, what is the capital at the end?</text>
+    <option>` 9,000</option>
+    <option>` 11,000</option>
+    <option>` 21,000</option>
+    <option>` 3,000</option>
+    <answer>` 9,000</answer>
+    <explanation>
+      Closing capital = Opening capital + Profit + Additional capital − Drawings  
+      = 10,000 + 2,000 + 3,000 − 6,000 = 9,000.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is shown in Profit and Loss Appropriation Account?</text>
+    <option>Office expenses</option>
+    <option>Salary of staff</option>
+    <option>Partners’ salary</option>
+    <option>Interest on bank loan</option>
+    <answer>Partners’ salary</answer>
+    <explanation>
+      Office and staff salary and interest on bank loan are charges in Profit &amp; Loss A/c. Partners&apos; salary is an appropriation of profit and appears in the Profit and Loss Appropriation A/c in a partnership firm.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>When fixed capital method is adopted by a partnership firm, which of the following items will appear in capital account?</text>
+    <option>Additional capital introduced</option>
+    <option>Interest on capital</option>
+    <option>Interest on drawings</option>
+    <option>Share of profit</option>
+    <answer>Additional capital introduced</answer>
+    <explanation>
+      Under fixed capital method, only permanent changes like introduction or withdrawal of capital appear in capital accounts. Interest, drawings and share of profit are recorded in current accounts.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>In the absence of an agreement, partners are entitled to</text>
+    <option>Salary</option>
+    <option>Commission</option>
+    <option>Interest on loan</option>
+    <option>Interest on capital</option>
+    <answer>Interest on loan</answer>
+    <explanation>
+      In absence of agreement: no salary, no interest on capital, profits shared equally, but interest at 6% p.a. is allowed on loans given by partners to the firm as per Partnership Act provisions.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The profit or loss on revaluation of assets and liabilities is transferred to the capital account of</text>
+    <option>The old partners</option>
+    <option>The new partner</option>
+    <option>All the partners</option>
+    <option>The sacrificing partners</option>
+    <answer>The old partners</answer>
+    <explanation>
+      Revaluation profit or loss arising at the time of admission or change is shared by the old partners in their old profit sharing ratio, because it relates to the period before the new partner&apos;s admission.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>At the time of admission, the goodwill brought by the new partner may be credited to the capital accounts of</text>
+    <option>all the partners</option>
+    <option>the old partners</option>
+    <option>the new partner</option>
+    <option>the sacrificing partners</option>
+    <answer>the sacrificing partners</answer>
+    <explanation>
+      Goodwill premium brought in by the incoming partner is compensation for the share of profit sacrificed by existing partners. Hence, it is credited to the capital accounts of the sacrificing partners in their sacrificing ratio.
+    </explanation>
+  </question>
+
+   <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>All indirect costs are termed as</text>
+    <option>Prime Cost</option>
+    <option>Factory Cost</option>
+    <option>Conversion Cost</option>
+    <option>Overheads</option>
+    <answer>Overheads</answer>
+    <explanation>
+      Indirect material, indirect labour and indirect expenses together are called overheads. They cannot be directly traced to a specific unit of output.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>On the basis of “relationship with accounting period” costs are classified as</text>
+    <option>Historical Costs and Pre-determined Costs.</option>
+    <option>Capital Costs and Commercial Costs.</option>
+    <option>Capital Costs and Revenue Costs.</option>
+    <option>Product Costs and Period Costs.</option>
+    <answer>Product Costs and Period Costs.</answer>
+    <explanation>
+      Product costs are matched with revenue of the period in which goods are sold, whereas period costs are written off in the period in which they are incurred. This classification is based on their relationship with the accounting period.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is not a method of costing?</text>
+    <option>Process Costing</option>
+    <option>Batch Costing</option>
+    <option>Direct Costing</option>
+    <option>Operating Costing</option>
+    <answer>Direct Costing</answer>
+    <explanation>
+      Direct costing (marginal costing) is a <i>technique</i> of costing. Process, batch and operating costing are methods of costing applied in different industries.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The written down value of the abandoned plant less its salvage value is</text>
+    <option>Imputed Cost</option>
+    <option>Sunk Cost</option>
+    <option>Avoidable Cost</option>
+    <option>Opportunity Cost</option>
+    <answer>Sunk Cost</answer>
+    <explanation>
+      A sunk cost is a cost already incurred that cannot be recovered. The book value of an abandoned plant (less salvage) is a sunk cost and is irrelevant for future decisions.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Interest on own capital is</text>
+    <option>Cash Cost</option>
+    <option>Notional Cost</option>
+    <option>Part of Prime Cost</option>
+    <option>Semi-variable Cost</option>
+    <answer>Notional Cost</answer>
+    <explanation>
+      Interest on owner&apos;s capital is a notional or imputed cost, as no actual cash is paid to an outside party, but it is considered for decision making and costing purposes in some cases.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Variable costs are fixed</text>
+    <option>for a period.</option>
+    <option>per unit.</option>
+    <option>for a particular process of production.</option>
+    <option>depends upon the entity.</option>
+    <answer>per unit.</answer>
+    <explanation>
+      Variable cost per unit remains constant, while total variable cost varies in proportion to the level of activity or output.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A technique and process of ascertaining costs is known as</text>
+    <option>Cost</option>
+    <option>Costing</option>
+    <option>Cost Accounting</option>
+    <option>Cost Accountancy</option>
+    <answer>Costing</answer>
+    <explanation>
+      Costing is the technique and process of ascertaining costs, whereas cost accounting and cost accountancy are broader, including recording, control and presentation of cost data to management.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The branch of accounting dealing with the classification, recording, allocation, summarizing and reporting of current and prospective costs is known as</text>
+    <option>Financial Accounting</option>
+    <option>Management Accounting</option>
+    <option>Cost Accounting</option>
+    <option>Cost Accountancy</option>
+    <answer>Cost Accounting</answer>
+    <explanation>
+      Cost accounting focuses on cost classification, accumulation, allocation, apportionment and reporting to help control costs and assist management decisions.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Costs are classified between direct and indirect costs according to method of classification by</text>
+    <option>Nature or Element</option>
+    <option>Functions</option>
+    <option>Degree of traceability to product</option>
+    <option>Change in Activity or Volume</option>
+    <answer>Degree of traceability to product</answer>
+    <explanation>
+      A cost that can be directly traced to a cost unit is a direct cost; if it cannot be conveniently traced, it is an indirect cost. The basis here is the degree of traceability to the product or service.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>When the volume of output is increased then the per unit fixed cost will</text>
+    <option>increase in the proportion of output.</option>
+    <option>decrease in the reverse proportion of output.</option>
+    <option>changed but not in proportion of output.</option>
+    <option>unchanged.</option>
+    <answer>decrease in the reverse proportion of output.</answer>
+    <explanation>
+      Total fixed cost remains constant within the relevant range, so fixed cost per unit is \( \text{Total Fixed Cost} / \text{Units} \). As units increase, cost per unit decreases in inverse proportion.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following costing method is suitable for Toy Making Industry?</text>
+    <option>Contract Costing</option>
+    <option>Process Costing</option>
+    <option>Job Costing</option>
+    <option>Batch Costing</option>
+    <answer>Batch Costing</answer>
+    <explanation>
+      Toys are usually manufactured in batches of identical units. Batch costing is used where production is in identifiable, repeatable batches rather than single jobs or continuous processes.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is not a technique of costing?</text>
+    <option>Marginal Costing</option>
+    <option>Process Costing</option>
+    <option>Standard Costing</option>
+    <option>Budgetary Costing</option>
+    <answer>Process Costing</answer>
+    <explanation>
+      Process costing is a <i>method</i> of costing for continuous production. Techniques of costing include marginal costing, standard costing and budgetary control approaches, which can be applied with different methods of costing.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The works cost plus administration expenses represents</text>
+    <option>Total cost</option>
+    <option>Cost of production</option>
+    <option>Cost of sales</option>
+    <option>Factory cost</option>
+    <answer>Cost of production</answer>
+    <explanation>
+      \( \text{Prime Cost} + \text{Factory Overheads} = \text{Works (Factory) Cost} \).  
+      \( \text{Works Cost} + \text{Office &amp; Administration Overheads} = \text{Cost of Production} \).  
+      Adding selling and distribution overheads then gives cost of sales or total cost for sales purposes.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Prime cost may be correctly termed as</text>
+    <option>The sum of direct material and labour cost with all other cost exclude.</option>
+    <option>The total of all cost items which can be directly charged to production units.</option>
+    <option>The total costs incurred in producing a finished unit.</option>
+    <option>The sum of the large costs there in a product cost.</option>
+    <answer>The total of all cost items which can be directly charged to production units.</answer>
+    <explanation>
+      Prime cost \(=\) Direct material \(+\) Direct labour \(+\) Direct expenses. It is the total of all direct costs that can be directly identified with a cost unit.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The main purpose of cost accounting is to</text>
+    <option>Minimise cost</option>
+    <option>Help in valuation of inventory</option>
+    <option>Provide information to management for decision making</option>
+    <option>Aid in the fixation of selling price</option>
+    <answer>Provide information to management for decision making</answer>
+    <explanation>
+      All listed items are objectives, but the primary purpose is to furnish detailed cost information to management so that decisions regarding pricing, make-or-buy, cost control etc. can be taken effectively.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which method of costing is used for determination of costs for printing industry?</text>
+    <option>Process costing</option>
+    <option>Operating costing</option>
+    <option>Batch costing</option>
+    <option>Job costing</option>
+    <answer>Job costing</answer>
+    <explanation>
+      Printing work is generally executed against specific orders (jobs). Job costing is suitable where each order is distinct and costs must be collected for each job separately.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Prime cost plus factory overheads is known as</text>
+    <option>Marginal Costing</option>
+    <option>Conversion Cost</option>
+    <option>Commercial Cost</option>
+    <option>Factory Cost</option>
+    <answer>Factory Cost</answer>
+    <explanation>
+      \( \text{Prime Cost} + \text{Factory (Works) Overheads} = \text{Factory Cost or Works Cost} \).  
+      Conversion cost is Direct labour plus factory overheads only, not full prime cost.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Advertisement expenses are treated as</text>
+    <option>Selling overhead</option>
+    <option>Distribution overhead</option>
+    <option>Cost of production</option>
+    <option>Direct expenses</option>
+    <answer>Selling overhead</answer>
+    <explanation>
+      Advertising helps in promoting sales and is classified as selling overhead, not a direct cost of production or distribution overhead like freight-out or delivery charges.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>From the following information, find out purchases when raw material consumed is Rs. 26,500, closing stock Rs. 4,500 and opening stock Rs. 3,000.</text>
+    <option>Rs. 26,500</option>
+    <option>Rs. 25,000</option>
+    <option>Rs. 28,000</option>
+    <option>Rs. 34,000</option>
+    <answer>Rs. 28,000</answer>
+    <explanation>
+      Raw material consumed = Opening stock + Purchases − Closing stock  
+      So, \( 26{,}500 = 3{,}000 + \text{Purchases} − 4{,}500 \)  
+      \( \text{Purchases} = 26{,}500 + 4{,}500 − 3{,}000 = 28{,}000 \).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Bad debts are included as</text>
+    <option>Direct expenses</option>
+    <option>Distribution overhead</option>
+    <option>Cost of production</option>
+    <option>Selling overhead</option>
+    <answer>Selling overhead</answer>
+    <explanation>
+      Bad debts arise from credit sales and are usually treated as a selling overhead in cost accounts, since they are associated with the selling and credit-granting function rather than production or distribution logistics.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>_________ is the value of a benefit where no actual cost is incurred.</text>
+    <option>Imputed</option>
+    <option>Sunk</option>
+    <option>Out of pocket cost</option>
+    <option>None of the these</option>
+    <answer>Imputed</answer>
+    <explanation>
+      Imputed (notional) costs are hypothetical costs where no cash outflow occurs, e.g. interest on owner&apos;s capital or notional rent of owned premises used in business decisions.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>_________ is the cost which involves payment to outsiders.</text>
+    <option>Out of pocket cost</option>
+    <option>Imputed cost</option>
+    <option>Notional cost</option>
+    <option>None of these</option>
+    <answer>Out of pocket cost</answer>
+    <explanation>
+      Out-of-pocket costs are those that require actual cash payments to external parties, such as wages, power bills or purchased materials, unlike imputed costs where no such payment is made.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>_________ is the maximum possible alternative earning that might have been earned if the productive capacity is put to some alternative use.</text>
+    <option>Opportunity</option>
+    <option>Incremental revenue</option>
+    <option>Alternative revenue</option>
+    <option>None of these</option>
+    <answer>Opportunity</answer>
+    <explanation>
+      Opportunity cost is the benefit foregone by choosing one alternative over the next best alternative. It is crucial in decision-making, even if not recorded in the accounts.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>An item of cost that is direct for one business may be _________ for another business.</text>
+    <option>Important</option>
+    <option>Direct</option>
+    <option>Indirect</option>
+    <option>None of the above</option>
+    <answer>Indirect</answer>
+    <explanation>
+      Classification as direct or indirect depends on the nature of the business and cost object. A cost that can be directly traced in one firm may only be indirectly attributable in another context.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The total of all direct costs is known as _____ cost.</text>
+    <option>Prime</option>
+    <option>Works</option>
+    <option>Production</option>
+    <option>None of these</option>
+    <answer>Prime</answer>
+    <explanation>
+      Prime cost is the sum of all direct costs: direct materials, direct labour and direct expenses directly traceable to the product or service.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>________ cost are partially fixed and partially variable in relation to output.</text>
+    <option>Variable</option>
+    <option>Semi variable</option>
+    <option>Fixed</option>
+    <option>Both a and b</option>
+    <answer>Semi variable</answer>
+    <explanation>
+      Semi-variable (or mixed) costs have both a fixed component (e.g. standing charges) and a variable component that changes with activity level, like telephone charges with fixed line rent plus call charges.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is not an element of master budget?</text>
+    <option>Capital Expenditure Budget</option>
+    <option>Production Schedule</option>
+    <option>Operating Expenses Budget</option>
+    <option>All above</option>
+    <answer>All above</answer>
+    <explanation>
+      A master budget is a comprehensive summary of all functional budgets, including capital expenditure budget, production (or production schedule) and operating expense budgets. Hence none of these alone is &quot;not an element&quot;; they all feed into the master budget, so there is no single incorrect element among (a), (b), (c).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is not a potential benefit of using a budget?</text>
+    <option>Enhanced coordination of firm activities</option>
+    <option>More motivated managers</option>
+    <option>Improved interdepartmental communication</option>
+    <option>More accurate external financial statements</option>
+    <answer>More accurate external financial statements</answer>
+    <explanation>
+      Budgets primarily aid internal planning, control, coordination and motivation. They do not directly make external financial statements more accurate, which are prepared based on actual results and accounting standards, not on budgets.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is a long-term budget?</text>
+    <option>Master Budget</option>
+    <option>Flexible Budget</option>
+    <option>Cash Budget</option>
+    <option>Capital Budget</option>
+    <answer>Capital Budget</answer>
+    <explanation>
+      Capital budgeting covers long-term investments in fixed assets and projects, typically spanning several years, unlike cash and operating budgets which are usually short-term (often annual or less).
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Materials become key factor, if</text>
+    <option>quota restrictions exist</option>
+    <option>insufficient advertisement prevails</option>
+    <option>there is low demand</option>
+    <option>there is no problem with supplies of materials</option>
+    <answer>quota restrictions exist</answer>
+    <explanation>
+      When material supply is restricted (e.g. import quotas, scarcity), material becomes a limiting (key) factor in budgeting and production planning, rather than demand or capacity alone.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The difference between fixed cost and variable cost assumes significance in the preparation of the following budget.</text>
+    <option>Master Budget</option>
+    <option>Flexible Budget</option>
+    <option>Cash Budget</option>
+    <option>Capital Budget</option>
+    <answer>Flexible Budget</answer>
+    <explanation>
+      Flexible budgets show costs at different activity levels. To prepare them, costs must be split into fixed, variable and semi-variable components to adjust total costs appropriately with volume changes.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The budget that is prepared first of all is</text>
+    <option>Master budget</option>
+    <option>Budget, with key factor</option>
+    <option>Cash Budget</option>
+    <option>Capital expenditure budget</option>
+    <answer>Budget, with key factor</answer>
+    <explanation>
+      Budgeting starts by identifying the key factor (e.g. sales demand, material availability) and preparing the budget for that limiting factor first. Other functional budgets are then built around it, and the master budget is prepared last as a summary.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Sales budget is a</text>
+    <option>expenditure budget</option>
+    <option>functional budget</option>
+    <option>Master budget</option>
+    <option>None of these</option>
+    <answer>functional budget</answer>
+    <explanation>
+      Sales budget is one of the main functional budgets and usually the starting point (key budget) for many organisations, forming the basis for production and other budgets.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The entire budget organisation is controlled and headed by a senior executive known as</text>
+    <option>General Manager</option>
+    <option>Accountant</option>
+    <option>Budget Controller</option>
+    <option>None of the above</option>
+    <answer>Budget Controller</answer>
+    <explanation>
+      The budget controller (often the finance director or a senior executive) coordinates the preparation, implementation and monitoring of budgets across the organisation through the budget committee and responsibility centres.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>A flexible budget requires a careful study of</text>
+    <option>Fixed, semi-fixed and variable expenses</option>
+    <option>Past and current expenses</option>
+    <option>Overheads, selling and administrative expenses.</option>
+    <option>None of these.</option>
+    <answer>Fixed, semi-fixed and variable expenses</answer>
+    <explanation>
+      To flex costs with activity level, each expense must be analysed into fixed, variable or semi-variable behaviour patterns. This allows recalculation of total expected cost at different output levels in a flexible budget.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The basic difference between a fixed budget and flexible budget is that a fixed budget</text>
+    <option>is concerned with a single level of activity, while flexible budget is prepared for different levels of activity</option>
+    <option>is concerned with fixed costs, while flexible budget is concerned with variable costs.</option>
+    <option>is fixed while flexible budget changes</option>
+    <option>None of these.</option>
+    <answer>is concerned with a single level of activity, while flexible budget is prepared for different levels of activity</answer>
+    <explanation>
+      A fixed budget is prepared for one specific level of activity and does not change if actual activity changes. A flexible budget is designed to change with the activity level and can show costs for multiple levels of output.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Production budget is dependent on</text>
+    <option>Purchase budget</option>
+    <option>Sales budget</option>
+    <option>Cash budget</option>
+    <option>Overhead budget</option>
+    <answer>Sales budget</answer>
+    <explanation>
+      Required production = Budgeted sales + Desired closing stock − Opening stock. So production budget is primarily based on the sales budget and stock policy, not directly on the purchase or cash budget.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Budgetary control helps in implementation of</text>
+    <option>Standard costing</option>
+    <option>Marginal costing</option>
+    <option>Ration analysis</option>
+    <option>None of the above</option>
+    <answer>Standard costing</answer>
+    <explanation>
+      Both standard costing and budgetary control work together: budgets give overall targets, while standards give detailed unit cost benchmarks. Budgetary control reinforces and uses standard costing variances for control purposes.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following statement is not true regarding Zero Base Budgeting (ZBB)?</text>
+    <option>In ZBB, cost benefit analysis is undertaken for each activity of the decision unit.</option>
+    <option>Zero base budgeting is appropriate in areas where output is not related to production.</option>
+    <option>Zero base budgeting starts with previous year balance</option>
+    <option>Zero base budgets start with zero.</option>
+    <answer>Zero base budgeting starts with previous year balance</answer>
+    <explanation>
+      ZBB starts from &quot;zero&quot;, requiring every activity to be justified afresh. It does <i>not</i> assume previous year&apos;s figures as a base. Options (a), (b) and (d) reflect the idea that each activity is evaluated on cost–benefit grounds starting from zero activity level.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>________ is the first step of budgetary system and all other budgets depend on it.</text>
+    <option>Cost budget</option>
+    <option>Sales budget</option>
+    <option>Production budget</option>
+    <option>None of the above</option>
+    <answer>Sales budget</answer>
+    <explanation>
+      Since sales are usually the key factor, the sales budget is prepared first. Other budgets like production, purchases, labour and cash are derived from sales forecasts and stock policies.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>On the basis of period, budgets may be classified into _________ groups.</text>
+    <option>Five</option>
+    <option>Four</option>
+    <option>Three</option>
+    <option>Two</option>
+    <answer>Two</answer>
+    <explanation>
+      Budgets are broadly classified by period into long-term budgets and short-term budgets. Detailed functional budgets are usually short-term (e.g. one year) within a longer-term planning framework.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Usually, the production budget is stated in terms of</text>
+    <option>Money</option>
+    <option>Quantity</option>
+    <option>Both</option>
+    <option>None</option>
+    <answer>Quantity</answer>
+    <explanation>
+      Production budgets typically show the number of units of each product to be produced. The cost in monetary terms is usually shown in separate cost or material, labour and overhead budgets.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Following may be regarded as a summary budget</text>
+    <option>Production budget</option>
+    <option>Master budget</option>
+    <option>Cash budget</option>
+    <option>Sales budget</option>
+    <answer>Master budget</answer>
+    <explanation>
+      The master budget is a consolidated summary of all functional budgets (sales, production, purchases, overheads, etc.) and presents the overall plan, including budgeted income statement and balance sheet.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Process Costing is suitable for</text>
+    <option>Transport Sector</option>
+    <option>Oil Refining Firms</option>
+    <option>Dam construction</option>
+    <option>Furniture making</option>
+    <answer>Oil Refining Firms</answer>
+    <explanation>
+      Process costing is used where production is continuous and products are homogeneous, as in oil refining, chemicals, paper, etc. Contract and job costing are more suitable for dams or furniture making, and operating costing for transport services.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The Electricity department charges fixed charges Rs 500 per month plus Rs 5 per unit of electricity consumed. This is a</text>
+    <option>Fixed Cost</option>
+    <option>Variable Cost</option>
+    <option>Semi-variable Cost</option>
+    <option>Administrative Cost</option>
+    <answer>Semi-variable Cost</answer>
+    <explanation>
+      The bill has a fixed component (Rs 500 per month) and a variable component (Rs 5 per unit). Thus total cost varies with usage but not in direct proportion from zero, which is characteristic of semi-variable costs.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The classification of fixed and variable cost is useful for the preparation of</text>
+    <option>Master Budget</option>
+    <option>Flexible Budget</option>
+    <option>Cash Budget</option>
+    <option>Capital Budget</option>
+    <answer>Flexible Budget</answer>
+    <explanation>
+      Flexible budgeting requires costs to be analysed into fixed and variable elements so that total costs can be flexed appropriately for different levels of activity or output.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Which of the following is usually a short-term budget?</text>
+    <option>Capital expenditure budget</option>
+    <option>Research and development budget</option>
+    <option>Cash Budget</option>
+    <option>Sales Budget</option>
+    <answer>Cash Budget</answer>
+    <explanation>
+      Cash budgets are normally prepared for short periods (monthly, weekly, or even daily) to plan and control cash flows, whereas capital and R&amp;D budgets often cover several years. Sales budgets may be annual but are still longer-term than typical cash budgets.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Indirect material used in production is classified as</text>
+    <option>Office overhead</option>
+    <option>Selling Overhead</option>
+    <option>Distribution Overhead</option>
+    <option>Factory Overhead</option>
+    <answer>Factory Overhead</answer>
+    <explanation>
+      Indirect materials used in the factory, like lubricants or consumables, are part of factory (production) overheads, not office, selling or distribution overheads.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>Total of direct costs is termed as</text>
+    <option>Prime Cost</option>
+    <option>Works Cost</option>
+    <option>Cost of sales</option>
+    <option>Cost of Production</option>
+    <answer>Prime Cost</answer>
+    <explanation>
+      Prime cost is the aggregate of all direct costs (direct material, direct labour, direct expenses) of a product or service before adding overheads of any kind.
+    </explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+    <text>The loss which arises in manufacturing activity on account of inherent nature of the product is</text>
+    <option>Normal Loss</option>
+    <option>Abnormal Loss</option>
+    <option>Net Loss</option>
+    <option>Gross Loss</option>
+    <answer>Normal Loss</answer>
+    <explanation>
+      Normal loss is the unavoidable loss arising from the inherent nature of the process or material (e.g. evaporation, unavoidable scrap). It is anticipated and absorbed into the cost of good output, unlike abnormal loss which is beyond normal expectations.</explanation>
+  </question>
+
+  <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income Tax Act has come into force in which year?</text>
+        <topic>Basic Concepts of Income Tax</topic>
+        <option>1961</option>
+        <option>1962</option>
+        <option>1964</option>
+        <option>1951</option>
+        <answer>1962</answer>
+        <explanation>The Income-tax Act, 1961 was enacted in the year 1961, but it came into force with effect from 1 April 1962, so the year of coming into force is 1962.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Panchayat falls under which category of person under the Income Tax Act?</text>
+        <topic>Person &amp; Assessee</topic>
+        <option>Local Authority</option>
+        <option>Artificial Juridical person</option>
+        <option>AOP/BOI</option>
+        <option>Individuals</option>
+        <answer>Local Authority</answer>
+        <explanation>Under section 2(31), a Panchayat is treated as a local self-government body and covered under the category of “local authority”.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>How many categories of "persons" have been defined in the Income Tax Act?</text>
+        <topic>Person &amp; Assessee</topic>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>5</option>
+        <answer>7</answer>
+        <explanation>Section 2(31) defines 7 categories of persons: (i) Individual, (ii) HUF, (iii) Company, (iv) Firm, (v) AOP/BOI, (vi) Local Authority, (vii) Artificial Juridical Person.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Surcharge rate applicable for J&amp;K India Private Limited having total income of Rs. 12,50,23,400 would be:</text>
+        <topic>Surcharge &amp; Cess</topic>
+        <option>2</option>
+        <option>5</option>
+        <option>7</option>
+        <option>12</option>
+        <answer>12</answer>
+        <explanation>For a domestic company, surcharge is \(7\%\) if total income &gt; Rs. 1 crore and ≤ Rs. 10 crore, and \(12\%\) if &gt; Rs. 10 crore. Since income exceeds Rs. 10 crore, surcharge rate is \(12\%\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Assessment year means 12 months starting from 1st April and ending on 31st March.</text>
+        <topic>Assessment Year &amp; Previous Year</topic>
+        <option>Mandatorily</option>
+        <option>Not Necessary, can be of less than 12 months</option>
+        <option>Starts when we start earning Income</option>
+        <option>None of the above</option>
+        <answer>Mandatorily</answer>
+        <explanation>An assessment year is always a fixed period of 12 months from 1 April to 31 March for all assessees, as defined in the Act.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Previous year for the Assessment Year 2021-22 would be:</text>
+        <topic>Assessment Year &amp; Previous Year</topic>
+        <option>2019-20</option>
+        <option>2020-21</option>
+        <option>2022-23</option>
+        <option>None of the above</option>
+        <answer>2020-21</answer>
+        <explanation>The previous year is the financial year immediately preceding the assessment year, so for AY 2021–22 the previous year is 1 April 2020 to 31 March 2021 (FY 2020–21).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Rounding off of total tax liability before cess is to be done as per Income Tax Act.</text>
+        <topic>Rounding Off</topic>
+        <option>True</option>
+        <option>False</option>
+        <answer>True</answer>
+        <explanation>Under the Act, tax and total income are rounded off to the nearest ten rupees before adding health and education cess, so the statement is true.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Direct taxation is:</text>
+        <topic>Types of Taxes</topic>
+        <option>Progressive in nature</option>
+        <option>Regressive in nature</option>
+        <option>Can be both</option>
+        <option>None of the above</option>
+        <answer>Progressive in nature</answer>
+        <explanation>Income tax is typically progressive: as income increases, the rate of tax (marginal rate) increases in higher slabs, so the burden rises with ability to pay.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income tax rate for a domestic company for AY 2021-22 having total turnover in PY 2020-21 Rs. 300 crore and in PY 2018-19 Rs. 401 crore is:</text>
+        <topic>Corporate Tax Rates</topic>
+        <option>25%</option>
+        <option>30%</option>
+        <option>5%</option>
+        <option>20%</option>
+        <answer>30%</answer>
+        <explanation>For AY 2021–22, the reduced rate of \(25\%\) applies only if turnover in FY 2018–19 does not exceed Rs. 400 crore. Here turnover is Rs. 401 crore, so the normal rate \(30\%\) applies (ignoring optional sections like 115BAA).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Return of income of a firm having total income of Rs. 1,00,000 is not required to be filed.</text>
+        <topic>Return Filing Requirements</topic>
+        <option>True</option>
+        <option>False</option>
+        <option>Optional</option>
+        <option>Only if asked by AO</option>
+        <answer>False</answer>
+        <explanation>A partnership firm is required to file a return if it has any total income, since the basic exemption limit for a firm is effectively nil. So even at Rs. 1,00,000, return is compulsory.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Rebate under section 87A is applicable to every person having total income up to Rs. 5,00,000.</text>
+        <topic>Rebate u/s 87A</topic>
+        <option>True</option>
+        <option>False</option>
+        <answer>False</answer>
+        <explanation>Rebate under section 87A is available only to a resident individual, not to “every person”. HUFs, firms, companies etc. are not eligible.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Residential status of individuals is to be checked for the purpose of computing:</text>
+        <topic>Residential Status</topic>
+        <option>Total Income</option>
+        <option>Tax rate</option>
+        <option>Rebate</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Residential status determines the scope of total income, eligibility for certain rebates/benefits and sometimes applicable tax rates, so it affects all of these aspects.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Total income tax liability on total income of Rs. 52,35,246 of Mr. A whose age is 62 during the previous year would be (old regime):</text>
+        <topic>Individual Tax Computation</topic>
+        <option>Rs. 15,79,380</option>
+        <option>Rs. 14,35,796</option>
+        <option>Rs. 15,79,377</option>
+        <option>Rs. 14,35,798</option>
+        <answer>Rs. 15,79,377</answer>
+        <explanation>Age 62 ⇒ senior citizen slab.  
+Tax:  
+\[
+\begin{aligned}
+&amp;0\text{–}3,00,000: &amp;0 \\
+&amp;3,00,001\text{–}5,00,000: &amp;2,00,000 \times 5\% = 10,000 \\
+&amp;5,00,001\text{–}10,00,000: &amp;5,00,000 \times 20\% = 1,00,000 \\
+&amp;&gt;10,00,000: &amp;(52,35,246 - 10,00,000) \times 30\% \approx 12,70,574
+\end{aligned}
+\]
+Base tax ≈ Rs. 13,80,574.  
+Since income &gt; Rs. 50 lakh and ≤ Rs. 1 crore, surcharge @ \(10\%\) ≈ Rs. 1,38,057.  
+Tax + surcharge ≈ Rs. 15,18,631.  
+Cess @ \(4\%\) ≈ Rs. 60,745.  
+Total ≈ Rs. 15,79,376, which rounds to the nearest option Rs. 15,79,377.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Due date for payment of advance tax of 2nd instalment is:</text>
+        <topic>Advance Tax</topic>
+        <option>15th September</option>
+        <option>15th October</option>
+        <option>15th August</option>
+        <option>15th December</option>
+        <answer>15th September</answer>
+        <explanation>For non-corporate assessees, advance tax instalment schedule is: 15 June (15%), 15 September (45%), 15 December (75%), 15 March (100%). Hence the 2nd instalment is due on 15 September.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A, age 68 years during the previous year, having no income under the head "Profits and Gains from Business or Profession" is liable for advance tax?</text>
+        <topic>Advance Tax for Senior Citizens</topic>
+        <option>Yes</option>
+        <option>No</option>
+        <option>If advance tax liability exceeds Rs. 10,000</option>
+        <option>None of the above</option>
+        <answer>No</answer>
+        <explanation>A resident senior citizen (age ≥ 60) having no income chargeable under the head “Profits and Gains from Business or Profession” is exempt from payment of advance tax, irrespective of tax amount.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Total tax liability on total income of Rs. 51,00,246 of Mr. A whose age is 54 during the previous year would be (old regime):</text>
+        <topic>Individual Tax Computation</topic>
+        <option>Rs. 14,69,260</option>
+        <option>Rs. 15,35,910</option>
+        <option>Rs. 15,35,904</option>
+        <option>Rs. 13,96,278</option>
+        <answer>Rs. 15,35,904</answer>
+        <explanation>Age 54 ⇒ normal slab.  
+Compute tax on Rs. 51,00,246:  
+\[
+\begin{aligned}
+0\text{–}2,50,000 &amp;: 0 \\
+2,50,001\text{–}5,00,000 &amp;: 2,50,000 \times 5\% = 12,500 \\
+5,00,001\text{–}10,00,000 &amp;: 5,00,000 \times 20\% = 1,00,000 \\
+&gt;10,00,000 &amp;: 41,00,246 \times 30\% \approx 12,30,074
+\end{aligned}
+\]
+Base tax ≈ Rs. 13,42,574.  
+Since income &gt; Rs. 50 lakh and ≤ Rs. 1 crore, surcharge @ \(10\%\) ≈ Rs. 1,34,257.  
+Tax + surcharge ≈ Rs. 14,76,831.  
+Cess @ \(4\%\) ≈ Rs. 59,073.  
+Total ≈ Rs. 15,35,904 (matches option C).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Surcharge is applicable on:</text>
+        <topic>Surcharge &amp; Cess</topic>
+        <option>Total Income</option>
+        <option>Basic Income tax</option>
+        <option>Total tax liability</option>
+        <option>Basic Income tax + Cess</option>
+        <answer>Basic Income tax</answer>
+        <explanation>Surcharge is always calculated as a percentage of the basic income-tax amount before adding health and education cess.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income tax payment made in the assessment year is called:</text>
+        <topic>Types of Tax Payments</topic>
+        <option>Self-assessment tax</option>
+        <option>Tax Deducted at Source</option>
+        <option>Advance tax</option>
+        <option>None of the above</option>
+        <answer>Self-assessment tax</answer>
+        <explanation>Tax paid after the end of the previous year, while filing the return in the assessment year, is known as self-assessment tax under section 140A.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>How many heads of income have been defined in the Income Tax Act?</text>
+        <topic>Heads of Income</topic>
+        <option>5</option>
+        <option>7</option>
+        <option>6</option>
+        <option>4</option>
+        <answer>5</answer>
+        <explanation>The Act classifies income into 5 heads: (1) Salaries, (2) Income from House Property, (3) Profits and Gains from Business or Profession, (4) Capital Gains, (5) Income from Other Sources.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who administers Income Tax in India?</text>
+        <topic>Administration of Income Tax</topic>
+        <option>CBDT</option>
+        <option>CBIC</option>
+        <option>CBEC</option>
+        <option>Both A and B</option>
+        <answer>CBDT</answer>
+        <explanation>The Central Board of Direct Taxes (CBDT) administers direct taxes including income tax. CBIC administers indirect taxes like GST and customs.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Burden of tax borne by consumer is:</text>
+        <topic>Direct vs Indirect Tax</topic>
+        <option>Direct tax</option>
+        <option>Indirect tax</option>
+        <option>Both A and B above</option>
+        <option>None of the above</option>
+        <answer>Indirect tax</answer>
+        <explanation>In indirect taxes (like GST), the legal liability may be on the seller, but the economic burden is passed on to the consumer through higher prices.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income tax is applicable on:</text>
+        <topic>Scope of the Act</topic>
+        <option>Whole of India</option>
+        <option>Whole of India except Jammu and Kashmir</option>
+        <option>Whole of India except UT&apos;s without legislation of India</option>
+        <option>None of the above</option>
+        <answer>Whole of India</answer>
+        <explanation>After constitutional and statutory changes, the Income-tax Act, 1961 extends to the whole of India, including all States and Union Territories.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which article of the Constitution of India provides that no tax shall be levied or collected except by authority of law?</text>
+        <topic>Constitutional Provision</topic>
+        <option>Article 265</option>
+        <option>Article 246</option>
+        <option>Article 245</option>
+        <option>None of the above</option>
+        <answer>Article 265</answer>
+        <explanation>Article 265 of the Constitution states that no tax shall be levied or collected except by authority of law; this is the constitutional foundation for tax laws.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which section of the Income Tax Act is the charging section for income tax?</text>
+        <topic>Charging Section</topic>
+        <option>Section 2</option>
+        <option>Section 4</option>
+        <option>Section 6</option>
+        <option>Section 1</option>
+        <answer>Section 4</answer>
+        <explanation>Section 4 is the charging section which imposes income tax on the total income of the previous year of every person, at the rates prescribed by the Finance Act.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If Mr. A abuses tax loopholes in the Income Tax Act and tries to manipulate the law against the spirit of the law, it is:</text>
+        <topic>Tax Planning vs Avoidance</topic>
+        <option>Tax avoidance</option>
+        <option>Tax evasion</option>
+        <option>Tax management</option>
+        <option>Tax planning</option>
+        <answer>Tax avoidance</answer>
+        <explanation>Using legal loopholes to reduce tax while going against the intent of the law is called tax avoidance, whereas tax evasion involves illegal practices like concealment of income.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>As per new section 115BAC inserted, what is the slab rate applicable for the portion of income of an individual (age 54) between Rs. 7,50,000 and Rs. 10,00,000?</text>
+        <topic>Section 115BAC New Regime</topic>
+        <option>5%</option>
+        <option>10%</option>
+        <option>15%</option>
+        <option>20%</option>
+        <answer>15%</answer>
+        <explanation>Under section 115BAC (new tax regime), the income slab Rs. 7,50,001 to Rs. 10,00,000 is taxed at \(15\%\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A left India on 12 December 2019 and visited India in PY 2020-21 on several occasions. Total stay in India during PY 2020-21 exceeds 182 days. His likely residential status is:</text>
+        <topic>Residential Status</topic>
+        <option>Resident and ordinary resident</option>
+        <option>Non-resident</option>
+        <option>Resident but not ordinary resident</option>
+        <option>None of the above</option>
+        <answer>Resident and ordinary resident</answer>
+        <explanation>If an individual stays in India for ≥ \(182\) days in the previous year, he is a resident. Given the fact pattern implies long past connection with India, he will generally satisfy the additional conditions, making him resident and ordinarily resident.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Compute tax liability of Mr. A whose date of birth is 1st April 1961, having total income of Rs. 6,25,000 and eligible deduction under Chapter VI-A of Rs. 1,50,000 (old regime, resident).</text>
+        <topic>Rebate u/s 87A</topic>
+        <option>NIL</option>
+        <option>36,400</option>
+        <option>11,700</option>
+        <option>11,250</option>
+        <answer>NIL</answer>
+        <explanation>DOB 1 April 1961 ⇒ during PY 2020–21 he is 59 (not a senior citizen).  
+Gross total income = Rs. 6,25,000, deduction = Rs. 1,50,000 ⇒ taxable income = Rs. 4,75,000.  
+Tax before rebate: \((4,75,000 - 2,50,000) \times 5\% = 2,25,000 \times 5\% = 11,250\).  
+Since he is a resident individual with income ≤ Rs. 5,00,000, rebate u/s 87A (up to Rs. 12,500) makes tax \(0\). Hence tax liability is NIL.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When does a Finance Bill become a Finance Act?</text>
+        <topic>Finance Act</topic>
+        <option>When passed in both the Houses</option>
+        <option>When presented in Lok Sabha</option>
+        <option>When presented in Rajya Sabha</option>
+        <option>When the President gives assent</option>
+        <answer>When the President gives assent</answer>
+        <explanation>A Finance Bill becomes a Finance Act only after it is passed by both Houses of Parliament and receives the assent of the President. The formal point of becoming an Act is Presidential assent.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A, age 60, having total income of Rs. 2,00,000 and eligible deduction under Chapter VI-A of Rs. 1,00,000. Is he required to file return of income?</text>
+        <topic>Return Filing Threshold</topic>
+        <option>Yes</option>
+        <option>No</option>
+        <answer>No</answer>
+        <explanation>His taxable income after deduction is at most Rs. 2,00,000, which is below the basic exemption limit for a senior citizen (Rs. 3,00,000). Hence, return filing is not mandatory on income criteria alone (ignoring other special conditions).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A having total income of Rs. 4,50,000 has not filed his income tax return on or before the due date. What will be the penalty (late fee) as per section 234F?</text>
+        <topic>Fee u/s 234F</topic>
+        <option>1,000</option>
+        <option>5,000</option>
+        <option>10,000</option>
+        <option>None of the above</option>
+        <answer>1,000</answer>
+        <explanation>Where total income does not exceed Rs. 5,00,000, the fee u/s 234F for late filing is Rs. 1,000. For higher incomes, it can go up to Rs. 5,000/10,000 depending on the year.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A, age 54 years, has estimated total income for PY 2020-21 from profession of Rs. 12,00,000 and interest from fixed deposit of Rs. 2,00,000. Estimated TDS is Rs. 24,000. What is the 1st instalment of advance tax payable?</text>
+        <topic>Advance Tax Computation</topic>
+        <option>Rs. 21,780</option>
+        <option>Rs. 32,670</option>
+        <option>Rs. 54,450</option>
+        <option>Rs. 2,17,800</option>
+        <answer>Rs. 32,670</answer>
+        <explanation>Estimated total income = Rs. \(12,00,000 + 2,00,000 = 14,00,000\).  
+Tax (old regime) on Rs. 14,00,000 (age &lt; 60):  
+\[
+\begin{aligned}
+0\text{–}2,50,000 &amp;: 0 \\
+2,50,001\text{–}5,00,000 &amp;: 2,50,000 \times 5\% = 12,500 \\
+5,00,001\text{–}10,00,000 &amp;: 5,00,000 \times 20\% = 1,00,000 \\
+10,00,001\text{–}14,00,000 &amp;: 4,00,000 \times 30\% = 1,20,000
+\end{aligned}
+\]
+Base tax = Rs. 2,32,500. Cess @ \(4\%\) = Rs. 9,300. Total tax = Rs. 2,41,800.  
+Net tax payable after TDS = \(2,41,800 - 24,000 = 2,17,800\).  
+1st instalment (15 June) = \(15\%\) of Rs. 2,17,800 = Rs. 32,670.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the full form of PAN?</text>
+        <topic>PAN Basics</topic>
+        <option>Permanent Account Number</option>
+        <option>Present Account number</option>
+        <option>Permanent Assessee Number</option>
+        <option>None of the above</option>
+        <answer>Permanent Account Number</answer>
+        <explanation>PAN stands for “Permanent Account Number”, a ten-character alphanumeric identifier issued by the Income Tax Department.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>How much percentage of advance tax liability is to be paid by the 3rd instalment of advance tax?</text>
+        <topic>Advance Tax Schedule</topic>
+        <option>45%</option>
+        <option>65%</option>
+        <option>75%</option>
+        <option>90%</option>
+        <answer>75%</answer>
+        <explanation>For non-corporate assessees, cumulative advance tax to be paid: 15 June – 15%, 15 September – 45%, 15 December – 75%, 15 March – 100%. Thus by 3rd instalment, \(75\%\) must be paid.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the surcharge rate for a foreign company having total income of Rs. 2 crore?</text>
+        <topic>Surcharge on Foreign Companies</topic>
+        <option>2%</option>
+        <option>5%</option>
+        <option>7%</option>
+        <option>12%</option>
+        <answer>2%</answer>
+        <explanation>For foreign companies, surcharge is \(2\%\) where total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore; \(5\%\) applies beyond Rs. 10 crore. Hence, at Rs. 2 crore, surcharge rate is \(2\%\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the maximum amount not chargeable to tax for a non-resident senior citizen?</text>
+        <topic>Basic Exemption Limits</topic>
+        <option>2,50,000</option>
+        <option>3,00,000</option>
+        <option>5,00,000</option>
+        <option>None of the above</option>
+        <answer>2,50,000</answer>
+        <explanation>Higher basic exemption limits (Rs. 3,00,000 / 5,00,000) for senior and super senior citizens apply only to residents. For non-residents, the basic exemption remains Rs. 2,50,000 irrespective of age.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Mr. A, a non-resident individual aged 36, has total income of Rs. 3,50,000. Compute his tax liability (old regime).</text>
+        <topic>Tax for Non-Resident</topic>
+        <option>NIL</option>
+        <option>5,200</option>
+        <option>5,000</option>
+        <option>18,200</option>
+        <answer>5,200</answer>
+        <explanation>Slab for age &lt; 60:  
+Taxable income = Rs. 3,50,000.  
+\[
+(3,50,000 - 2,50,000) \times 5\% = 1,00,000 \times 5\% = 5,000
+\]  
+Rebate u/s 87A is NOT available to non-residents.  
+Cess @ \(4\%\) = Rs. 200.  
+Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the due date of filing return for M/s ABC LLP having total turnover of Rs. 2 crore in PY 2020-21 (tax audit applicable)?</text>
+        <topic>Return Due Dates</topic>
+        <option>31st July</option>
+        <option>31st October</option>
+        <option>30th November</option>
+        <option>31st December</option>
+        <answer>31st October</answer>
+        <explanation>For assessees (including LLPs) required to get accounts audited, the normal statutory due date for filing return is 31 October of the assessment year (ignoring special extensions).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the due date of filing return of income for Mr. A whose gross receipts from profession are Rs. 75 lakhs during PY 2020-21 and total income Rs. 7,50,000 (tax audit applicable)?</text>
+        <topic>Return Due Dates</topic>
+        <option>31st July</option>
+        <option>31st October</option>
+        <option>30th November</option>
+        <option>31st December</option>
+        <answer>31st October</answer>
+        <explanation>Gross receipts from profession exceed Rs. 50 lakh, so tax audit is applicable. For assessees subject to tax audit (other than those covered by transfer pricing), the due date is 31 October of the assessment year.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>M/s ABC HUF, whose control and management are partially in India and partially overseas, has a Karta who has never left India. What is the residential status of the HUF?</text>
+        <topic>Residential Status of HUF</topic>
+        <option>Resident</option>
+        <option>Non-resident</option>
+        <option>ROR</option>
+        <option>RNOR</option>
+        <answer>Resident</answer>
+        <explanation>An HUF is resident in India if control and management of its affairs is wholly or partly situated within India. Since control is partly in India, the HUF is resident (classification into ROR/RNOR would need further data).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Residential status is to be determined for which period?</text>
+        <topic>Residential Status</topic>
+        <option>Previous year</option>
+        <option>Assessment year</option>
+        <option>Accounting year</option>
+        <option>Financial year (other than PY)</option>
+        <answer>Previous year</answer>
+        <explanation>Residential status is always determined with reference to the stay during the relevant previous year, and then used for taxation in the corresponding assessment year.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income tax is a:</text>
+        <topic>Types of Taxes</topic>
+        <option>Professional tax</option>
+        <option>Direct tax</option>
+        <option>Indirect tax</option>
+        <option>Service tax</option>
+        <answer>Direct tax</answer>
+        <explanation>Income tax is a direct tax because the liability and burden fall on the same person (the assessee earning the income).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A person with the age of ______ or more is considered as a super senior citizen as per the Income Tax Act.</text>
+        <topic>Senior &amp; Super Senior Citizen</topic>
+        <option>56</option>
+        <option>60</option>
+        <option>80</option>
+        <option>85</option>
+        <answer>80</answer>
+        <explanation>An individual who is 80 years of age or more at any time during the relevant previous year is treated as a super senior citizen for income-tax purposes.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The special tax rates mentioned in section 115BAC for individuals are:</text>
+        <topic>Section 115BAC New Regime</topic>
+        <option>Optional</option>
+        <option>Mandatory</option>
+        <option>Not applicable for individuals</option>
+        <option>Only for senior citizens</option>
+        <answer>Optional</answer>
+        <explanation>The new tax regime u/s 115BAC is optional; an eligible individual or HUF can choose between the normal (old) regime and the new regime, subject to conditions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Rebate of Income tax is defined in which section?</text>
+        <topic>Rebate u/s 87A</topic>
+        <option>81A</option>
+        <option>87A</option>
+        <option>81C</option>
+        <option>87C</option>
+        <answer>87A</answer>
+        <explanation>Rebate for resident individuals with total income up to a specified limit (currently Rs. 5,00,000 under old regime) is provided under section 87A.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Assessment year is the period of 12 months commencing from ______ every year.</text>
+        <topic>Assessment Year</topic>
+        <option>1st March</option>
+        <option>31st March</option>
+        <option>1st April</option>
+        <option>30th April</option>
+        <answer>1st April</answer>
+        <explanation>An assessment year runs from 1 April to 31 March of the following calendar year for all taxpayers.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>As per Income Tax Act, 'person' includes:</text>
+        <topic>Person &amp; Assessee</topic>
+        <option>Individual</option>
+        <option>HUF</option>
+        <option>Local Authority</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Section 2(31) defines 'person' to include individual, HUF, company, firm, AOP/BOI, local authority and artificial juridical person. Hence all the listed categories are persons.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>CBDT stands for:</text>
+        <topic>Tax Administration</topic>
+        <option>Central Bureau of Direct Taxes</option>
+        <option>Central Board of Direct Taxes</option>
+        <option>Citizen&apos;s Board of Direct Taxes</option>
+        <option>Citizen&apos;s Bureau of Direct Taxes</option>
+        <answer>Central Board of Direct Taxes</answer>
+        <explanation>CBDT is the Central Board of Direct Taxes, the apex body for administration of direct tax laws in India under the Department of Revenue, Ministry of Finance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A citizen of India who goes abroad for the purpose of employment must stay in India in the previous year for at least ______ days to become a resident.</text>
+        <topic>Residential Status Tests</topic>
+        <option>90 days</option>
+        <option>162 days</option>
+        <option>180 days</option>
+        <option>182 days</option>
+        <answer>182 days</answer>
+        <explanation>For a citizen leaving India for employment, the relaxed condition of 60 days does not apply; he must be in India for at least \(182\) days in the previous year to be treated as resident.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Income received in India is taxable in the hands of:</text>
+        <topic>Scope of Total Income</topic>
+        <option>Resident only</option>
+        <option>Resident and ordinarily resident only</option>
+        <option>Non-resident only</option>
+        <option>All assessees</option>
+        <answer>All assessees</answer>
+        <explanation>Income received or deemed to be received in India is taxable for every assessee, whether resident, resident but not ordinarily resident or non-resident, as per section 5.</explanation>
+    </question>
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the full form of GST?</text>
+        <topic>GST Basics</topic>
+        <option>Goods and Supply Tax</option>
+        <option>Goods and Services Tax</option>
+        <option>General Sales Tax</option>
+        <option>Government Sales Tax</option>
+        <answer>Goods and Services Tax</answer>
+        <explanation>GST stands for Goods and Services Tax, a comprehensive indirect tax on the supply of goods and services.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST was implemented in India from:</text>
+        <topic>GST Implementation</topic>
+        <option>1st January 2017</option>
+        <option>1st April 2017</option>
+        <option>1st March 2017</option>
+        <option>1st July 2017</option>
+        <answer>1st July 2017</answer>
+        <explanation>GST came into effect in India on 1 July 2017, replacing multiple indirect taxes levied by the Centre and States.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In India, the GST is based on the dual model GST adopted in which country?</text>
+        <topic>GST Model</topic>
+        <option>UK</option>
+        <option>Canada</option>
+        <option>USA</option>
+        <option>Japan</option>
+        <answer>Canada</answer>
+        <explanation>India adopted a dual GST model similar to Canada, where both the Centre and States levy GST on the same transaction.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST is a consumption of goods and service tax based on:</text>
+        <topic>GST Characteristics</topic>
+        <option>Development</option>
+        <option>Dividend</option>
+        <option>Destiny</option>
+        <option>Destination</option>
+        <answer>Destination</answer>
+        <explanation>GST is a destination-based tax, meaning revenue goes to the state where goods or services are consumed, not where they are produced.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST rates applicable on goods and services are:</text>
+        <topic>GST Rate Structure</topic>
+        <option>0% 5% 12% 18% 26%</option>
+        <option>0% 6% 12% 18% 28%</option>
+        <option>0% 5% 12% 18% 28%</option>
+        <option>0% 5% 12% 16% 28%</option>
+        <answer>0% 5% 12% 18% 28%</answer>
+        <explanation>The standard GST rate slabs are 0%, 5%, 12%, 18% and 28% (apart from special rates on some items).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Taxes that are levied on any Intra-State supply are:</text>
+        <topic>Types of GST</topic>
+        <option>IGST</option>
+        <option>CGST and SGST/UTGST</option>
+        <option>SGST</option>
+        <option>CGST</option>
+        <answer>CGST and SGST/UTGST</answer>
+        <explanation>For intra-state supplies, Central GST (CGST) and State GST (SGST) or UTGST (for Union Territories) are levied together.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What does "I" in IGST stand for?</text>
+        <topic>Types of GST</topic>
+        <option>Internal</option>
+        <option>Integrated</option>
+        <option>Internal</option>
+        <option>Intra</option>
+        <answer>Integrated</answer>
+        <explanation>IGST stands for Integrated Goods and Services Tax, levied on inter-state supplies of goods and services and imports.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What kind of tax is GST?</text>
+        <topic>Indirect Tax</topic>
+        <option>Direct Tax</option>
+        <option>Indirect Tax</option>
+        <option>Depends on the type of goods and services</option>
+        <option>None of the above</option>
+        <answer>Indirect Tax</answer>
+        <explanation>GST is an indirect tax because it is collected from intermediaries (suppliers) but the burden is passed on to the final consumer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST was introduced in Jammu and Kashmir with effect from:</text>
+        <topic>GST in J&amp;K</topic>
+        <option>1.8.2017</option>
+        <option>1.7.2017</option>
+        <option>1.1.2018</option>
+        <option>8.7.2017</option>
+        <answer>8.7.2017</answer>
+        <explanation>Jammu and Kashmir adopted GST slightly later than the rest of India, with effect from 8 July 2017.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The Constitution Amendment Act, 2016 for GST was:</text>
+        <topic>Constitutional Amendment</topic>
+        <option>80th</option>
+        <option>101st</option>
+        <option>122nd</option>
+        <option>None of these</option>
+        <answer>101st</answer>
+        <explanation>The 101st Constitutional Amendment Act, 2016 enabled the introduction of GST in India (it was earlier the 122nd Amendment Bill).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>As a result of the Constitution amendment for GST, a separate Article has been inserted in the Constitution:</text>
+        <topic>Constitution &amp; GST</topic>
+        <option>Article 246A</option>
+        <option>Article 146B</option>
+        <option>Article 122C</option>
+        <option>Article 101B</option>
+        <answer>Article 246A</answer>
+        <explanation>Article 246A gives concurrent powers to Parliament and State legislatures to make laws with respect to GST, except for certain supplies like inter-state trade.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The incidence of tax on tax is called:</text>
+        <topic>Pre-GST Problems</topic>
+        <option>Tax Cascading</option>
+        <option>Tax Pyramidding</option>
+        <option>Tax evasion</option>
+        <option>Indirect tax</option>
+        <answer>Tax Cascading</answer>
+        <explanation>Tax cascading occurs when tax is charged on an amount that already includes tax, resulting in a "tax on tax" effect. GST seeks to eliminate this through input tax credit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Integrated Goods and Services Tax is applicable when:</text>
+        <topic>IGST Application</topic>
+        <option>Sold in Union Territory</option>
+        <option>Sold from one GST dealer to another within the same state</option>
+        <option>Sold within a state</option>
+        <option>There is inter-state supply</option>
+        <answer>There is inter-state supply</answer>
+        <explanation>IGST is levied on inter-state supplies and imports, whereas intra-state supplies attract CGST plus SGST/UTGST.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Introduction of GST affects the revenue of:</text>
+        <topic>GST Impact on States</topic>
+        <option>Consuming states</option>
+        <option>Manufacturing states</option>
+        <option>All the states</option>
+        <option>Central Government</option>
+        <answer>Manufacturing states</answer>
+        <explanation>Since GST is destination-based, manufacturing (origin) states could lose some revenue share compared to earlier origin-based taxes, which led to provisions like compensation to states.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Under GST law, tax rates are determined by:</text>
+        <topic>GST Council</topic>
+        <option>Central Government</option>
+        <option>State Government</option>
+        <option>GST Council</option>
+        <option>Central Government in consultation with state governments</option>
+        <answer>GST Council</answer>
+        <explanation>The GST Council, consisting of Union and State finance ministers, recommends tax rates, exemptions and other key aspects under GST.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The rate of IGST is equal to the rate of:</text>
+        <topic>IGST Rate</topic>
+        <option>CGST</option>
+        <option>SGST</option>
+        <option>CGST plus the rate of SGST</option>
+        <option>SGST plus UTGST</option>
+        <answer>CGST plus the rate of SGST</answer>
+        <explanation>Practically, IGST rate on a supply is the sum of the applicable CGST rate and SGST rate on that supply if it were intra-state.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>IGST collected belongs to:</text>
+        <topic>IGST Settlement</topic>
+        <option>Central Government</option>
+        <option>To the State in which supply occurs</option>
+        <option>To the State to which supply occurs</option>
+        <option>The Centre and state to which supply occurs</option>
+        <answer>The Centre and state to which supply occurs</answer>
+        <explanation>IGST is collected by the Centre and then apportioned between the Centre and the destination state where the supply is consumed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Where the location of the supplier and the place of supply are in two different States:</text>
+        <topic>Place of Supply</topic>
+        <option>IGST is applicable</option>
+        <option>CGST is applicable</option>
+        <option>SGST plus CGST is applicable</option>
+        <option>CGST plus IGST is applicable</option>
+        <answer>IGST is applicable</answer>
+        <explanation>When the location of supplier and place of supply are in different states, the transaction is treated as inter-state and IGST is levied.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Tax paid on goods or services involved in supply is called:</text>
+        <topic>Input vs Output Tax</topic>
+        <option>Output tax</option>
+        <option>Input tax</option>
+        <option>Composite tax</option>
+        <option>Reverse tax</option>
+        <answer>Input tax</answer>
+        <explanation>Input tax is the GST charged on purchases of goods or services which can be claimed as credit against output tax liability, subject to conditions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Tax collected at the time of supply of goods or services is called:</text>
+        <topic>Output Tax</topic>
+        <option>Output tax</option>
+        <option>Input tax</option>
+        <option>Composite tax</option>
+        <option>Reverse tax</option>
+        <answer>Output tax</answer>
+        <explanation>Output tax is the GST charged by a registered person on outward supplies made to customers or recipients.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Input tax credit shall be allowed only on the support of:</text>
+        <topic>Input Tax Credit</topic>
+        <option>Delivery note</option>
+        <option>Payment slip</option>
+        <option>Credit note</option>
+        <option>Tax invoice</option>
+        <answer>Tax invoice</answer>
+        <explanation>To claim input tax credit, the recipient must possess a valid tax invoice or similar prescribed document issued by a registered supplier.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST number does not include which of the following?</text>
+        <topic>GSTIN Structure</topic>
+        <option>PAN</option>
+        <option>State Code</option>
+        <option>Aadhaar Number</option>
+        <option>Alphabet Z</option>
+        <answer>Aadhaar Number</answer>
+        <explanation>A GSTIN is a 15-character code consisting of state code, PAN, entity code, the letter "Z" and a check digit. Aadhaar number is not part of the GSTIN structure.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>After introduction of GST, export from India is subject to:</text>
+        <topic>Export under GST</topic>
+        <option>IGST</option>
+        <option>CGST plus SGST</option>
+        <option>Zero rated</option>
+        <option>SGST plus CGST plus IGST</option>
+        <answer>Zero rated</answer>
+        <explanation>Exports are treated as zero-rated supplies under GST, meaning they are taxable at 0% but input tax credit is available and can be claimed as refund subject to conditions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who administers Indirect taxes after GST?</text>
+        <topic>Indirect Tax Administration</topic>
+        <option>CBDT</option>
+        <option>CBIC</option>
+        <option>CBEC</option>
+        <option>Both A and B</option>
+        <answer>CBIC</answer>
+        <explanation>The Central Board of Indirect Taxes and Customs (CBIC) administers GST, customs and other indirect taxes at the central level. CBEC was the earlier name before restructuring.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following central taxes has been subsumed in the ambit of GST?</text>
+        <topic>Taxes Subsumed in GST</topic>
+        <option>Central Excise duty</option>
+        <option>Service Tax</option>
+        <option>CVD on import</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Central excise duty (on most goods), service tax and additional customs duties like CVD and SAD have been subsumed into GST with some exceptions like petroleum products.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What tax is applicable in case of supply of goods from Gujarat to Assam?</text>
+        <topic>Inter-State Supply</topic>
+        <option>CGST</option>
+        <option>SGST</option>
+        <option>UTGST</option>
+        <option>IGST</option>
+        <answer>IGST</answer>
+        <explanation>Supply from Gujarat to Assam is an inter-state supply, so IGST is levied on the transaction instead of separate CGST and SGST.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Can a person who opts for composition scheme collect any tax from the recipient of goods or services or both?</text>
+        <topic>Composition Scheme</topic>
+        <option>Yes</option>
+        <option>No</option>
+        <option>Yes, provided the recipient is a registered person</option>
+        <option>Yes, provided the recipient is an unregistered person</option>
+        <answer>No</answer>
+        <explanation>A composition dealer cannot collect tax from customers; tax is paid out of his own pocket at a nominal rate on turnover and he cannot issue a tax invoice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which code is used to classify goods and services under GST?</text>
+        <topic>Classification Codes</topic>
+        <option>HSN Code</option>
+        <option>SAC/HSN Code</option>
+        <option>GST Code</option>
+        <option>SAC Code</option>
+        <answer>SAC/HSN Code</answer>
+        <explanation>Goods are classified using HSN (Harmonised System of Nomenclature) codes and services using SAC (Services Accounting Code). So both HSN and SAC are used under GST.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Liability to pay tax by the recipient of supply of goods or services is called:</text>
+        <topic>Reverse Charge</topic>
+        <option>Output tax</option>
+        <option>Reverse charge</option>
+        <option>Input tax</option>
+        <option>None of these</option>
+        <answer>Reverse charge</answer>
+        <explanation>Under reverse charge mechanism, the recipient of certain notified supplies is liable to pay GST instead of the supplier.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Transfer of the title in goods is a supply of:</text>
+        <topic>Supply Definition</topic>
+        <option>Goods</option>
+        <option>Services</option>
+        <option>Both goods and services</option>
+        <option>None</option>
+        <answer>Goods</answer>
+        <explanation>Under GST, transfer of title in goods amounts to supply of goods, whereas transfer of right to use or certain other activities may be treated as supply of services.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following goods have been kept outside the ambit of GST?</text>
+        <topic>Non-GST Goods</topic>
+        <option>Petroleum Crude</option>
+        <option>High Speed Diesel</option>
+        <option>Motor Spirit</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Petroleum crude, motor spirit (petrol), high speed diesel, aviation turbine fuel and natural gas are presently outside GST and continue under the earlier tax regime until notified otherwise.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>VAT is imposed:</text>
+        <topic>Pre-GST VAT</topic>
+        <option>Directly on consumer</option>
+        <option>On final stage of production</option>
+        <option>On first stage of production</option>
+        <option>On all stages between production and final sale</option>
+        <answer>On all stages between production and final sale</answer>
+        <explanation>Value Added Tax (VAT) is a multi-stage tax levied at each stage of the supply chain on the value added, with input tax credit to avoid cascading.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The main objective for introduction of GST is:</text>
+        <topic>Objectives of GST</topic>
+        <option>Nationwide Uniformity in tax structure</option>
+        <option>Elimination of multiple taxes</option>
+        <option>Creation of pan-India uniform market</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>GST aims to create a common national market, remove cascading and multiple taxes, and bring uniformity in indirect tax structure across India.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In India, GST structure is in ______ nature.</text>
+        <topic>GST Structure</topic>
+        <option>Single</option>
+        <option>Dual</option>
+        <option>Triple</option>
+        <option>(a) &amp; (b) both</option>
+        <answer>Dual</answer>
+        <explanation>India has a dual GST structure where both Centre (CGST) and States/UTs (SGST/UTGST) levy tax concurrently on the same transaction, along with IGST for inter-state supplies.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Taxable event under GST Act is:</text>
+        <topic>Taxable Event</topic>
+        <option>Sale</option>
+        <option>Service</option>
+        <option>Supply</option>
+        <option>Manufacturing</option>
+        <answer>Supply</answer>
+        <explanation>Under GST, the taxable event is "supply" of goods or services or both, replacing earlier separate taxable events like sale, manufacture or provision of service.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Alcoholic liquor for human consumption is subject to:</text>
+        <topic>Non-GST Items</topic>
+        <option>CGST</option>
+        <option>SGST</option>
+        <option>IGST</option>
+        <option>None of the above</option>
+        <answer>None of the above</answer>
+        <explanation>Alcoholic liquor for human consumption is kept outside the ambit of GST and continues to be taxed by the States under excise/VAT laws.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Five petroleum products have been kept out of GST:</text>
+        <topic>Petroleum &amp; GST</topic>
+        <option>Permanently</option>
+        <option>Temporarily</option>
+        <option>For one year</option>
+        <option>None of the above</option>
+        <answer>Temporarily</answer>
+        <explanation>Petroleum products have been constitutionally included but are temporarily kept outside GST; they can be brought under GST later by government notification on GST Council recommendation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>GST is a comprehensive tax regime covering:</text>
+        <topic>Scope of GST</topic>
+        <option>Goods</option>
+        <option>Services</option>
+        <option>Both goods and services</option>
+        <option>None of the above</option>
+        <answer>Both goods and services</answer>
+        <explanation>GST subsumes most indirect taxes on both goods and services into one unified regime, except a few excluded items like certain petroleum products and alcohol for human consumption.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Supply of which of the following is not liable to GST?</text>
+        <topic>Exempt / Non-GST Supplies</topic>
+        <option>Alcoholic liquor for industrial consumption</option>
+        <option>Alcoholic liquor for medicinal consumption</option>
+        <option>Alcoholic liquor for human consumption</option>
+        <option>Alcoholic liquor for animal consumption</option>
+        <answer>Alcoholic liquor for human consumption</answer>
+        <explanation>Alcoholic liquor for human consumption is specifically kept outside GST; other forms may fall under GST or other tax regimes depending on use and classification.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>How many petroleum products have been temporarily kept out of GST?</text>
+        <topic>Petroleum &amp; GST</topic>
+        <option>One</option>
+        <option>Two</option>
+        <option>Three</option>
+        <option>Five</option>
+        <answer>Five</answer>
+        <explanation>Five products are presently outside GST: petroleum crude, motor spirit (petrol), high speed diesel, aviation turbine fuel and natural gas.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following tax is not subsumed by GST?</text>
+        <topic>Taxes Not Subsumed</topic>
+        <option>Purchase tax</option>
+        <option>Entry tax</option>
+        <option>Octroi tax</option>
+        <option>Vehicle registration tax</option>
+        <answer>Vehicle registration tax</answer>
+        <explanation>Motor vehicle registration fees and taxes under the Motor Vehicles Act are not subsumed into GST; they continue separately. Purchase tax, entry tax and octroi have largely been subsumed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Taxes that are levied on any Inter-State supply are:</text>
+        <topic>Inter-State GST</topic>
+        <option>IGST</option>
+        <option>CGST and SGST</option>
+        <option>SGST</option>
+        <option>CGST</option>
+        <answer>IGST</answer>
+        <explanation>For inter-state supplies, IGST is levied and later apportioned between Centre and destination state.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the difference between a direct and an indirect tax?</text>
+        <topic>Direct vs Indirect Tax</topic>
+        <option>Charge of levy</option>
+        <option>Shifting of burden</option>
+        <option>Different collection pattern of tax</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Direct taxes are levied and borne by the same person, whereas indirect taxes are collected from intermediaries and passed to consumers. They differ in incidence, shifting of burden and collection process.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who is the Chairman of the GST Council?</text>
+        <topic>GST Council</topic>
+        <option>Union Minister of State</option>
+        <option>Union Finance Minister</option>
+        <option>Minister of State (Revenue)</option>
+        <option>Chief Minister of State</option>
+        <answer>Union Finance Minister</answer>
+        <explanation>The Union Finance Minister is the Chairperson of the GST Council, with State finance ministers as members.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Whether IGST revenue is to be apportioned to a state?</text>
+        <topic>IGST Apportionment</topic>
+        <option>No</option>
+        <option>Yes - apportioned to origin state</option>
+        <option>Yes - apportioned to destination state</option>
+        <option>Discretion of Parliament</option>
+        <answer>Yes - apportioned to destination state</answer>
+        <explanation>IGST collected by the Centre is apportioned to the destination (consuming) state in accordance with GST settlement rules, reflecting GST&apos;s destination-based nature.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following tax is levied at every stage of sale with input credit mechanism?</text>
+        <topic>VAT Concept</topic>
+        <option>VAT</option>
+        <option>Income tax</option>
+        <option>Custom duty</option>
+        <option>None of the above</option>
+        <answer>VAT</answer>
+        <explanation>Value Added Tax (and similarly GST) is levied at each stage on the value added, with input tax credit to avoid cascading. Income tax and customs do not work this way.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If a company imports a product from abroad, then which tax will be levied on it after GST?</text>
+        <topic>Import Duties</topic>
+        <option>VAT</option>
+        <option>Custom duty</option>
+        <option>Income tax</option>
+        <option>Corporation tax</option>
+        <answer>Custom duty</answer>
+        <explanation>Imports are subject to Basic Customs Duty (BCD) plus IGST and any applicable surcharge or cess. Among the given options, customs duty is the basic levy on imports.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Customs duties are imposed on commodities as they cross:</text>
+        <topic>Customs Duty</topic>
+        <option>State boundaries</option>
+        <option>District boundaries</option>
+        <option>National boundaries</option>
+        <option>Municipal boundaries</option>
+        <answer>National boundaries</answer>
+        <explanation>Customs duties are levied on goods when they cross the national customs frontier, i.e., on imports into or exports out of the country.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>After introduction of GST, import in India is subject to:</text>
+        <topic>Import under GST</topic>
+        <option>BCD Plus IGST</option>
+        <option>CGST Plus SGST Plus BCD</option>
+        <option>Zero rated</option>
+        <option>SGST Plus CGST Plus IGST</option>
+        <answer>BCD Plus IGST</answer>
+        <explanation>Imports are treated as inter-state supplies and attract Basic Customs Duty plus IGST (and applicable cesses). CGST and SGST are not levied separately at import stage.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Under GST law SAC refers to:</text>
+        <topic>Classification Codes</topic>
+        <option>Systematic Accounting Code</option>
+        <option>Services Accounting Code</option>
+        <option>System administration code</option>
+        <option>Scientific accounting code</option>
+        <answer>Services Accounting Code</answer>
+        <explanation>SAC stands for Services Accounting Code, used to classify services under GST, similar to HSN codes for goods.</explanation>
+    </question>
+
+
+
 
 </quizzes>
