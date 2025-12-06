@@ -13228,7 +13228,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
 
 
 
-   <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+   <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>A man walks 9km towards West; takes a right turn and walks 12km. He then walks 7km towards the starting point and reached the destination. How far is he from the starting position?</text>
         <topic>Direction Sense</topic>
         <option>13km</option>
@@ -13261,7 +13261,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <explanation>Total weight of 65 employees \(= 65 \times 87 = 5655\) kg. With the manager, 66 people have average \(88\), so total \(= 66 \times 88 = 5808\) kg. Manager&apos;s weight \(= 5808 - 5655 = 153\) kg.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>In this question, a statement is given followed by two conclusions. Statement: Every Australian speaks 6 languages. Antony speaks 6 languages. Conclusions: i) Antony is an Australian ii) People from other countries do not speak 6 languages. Which conclusion(s) follow?</text>
         <topic>Logical Reasoning - Syllogism</topic>
         <option>Only conclusion i follows</option>
@@ -13316,7 +13316,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <explanation>Try \(60 \div 5 \times 4 = 48\). Compute: \(60 \div 5 = 12\) and \(12 \times 4 = 48\), which matches the right side. So the sequence is &quot;÷ × =&quot;.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>Read the following: A@B means A is the husband of B; A#B means A is the wife of B; A$B means A is the son of B; A%B means A is the daughter of B. In the equation P$Q#R$S, how is S related to P, if S is a female?</text>
         <topic>Blood Relations</topic>
         <option>Grandmother</option>
@@ -13360,7 +13360,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <explanation>A number divisible by 6 must be divisible by 2 and 3. Among the options only 642366 is even. Sum of its digits \(= 6+4+2+3+6+6 = 27\), which is divisible by 3. Therefore 642366 is divisible by 6.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>Find the missing term in the series: 62, 72, 92, ? , 162, 212</text>
         <topic>Number Series</topic>
         <option>122</option>
@@ -13382,7 +13382,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <explanation>Let the numbers be \(19k, 21k, 23k\). Given: \(3 \times 23k - (19k + 21k) = 841 \Rightarrow 69k - 40k = 841 \Rightarrow 29k = 841 \Rightarrow k = 29\). Difference between first and third \(= (23-19)k = 4 \times 29 = 116\).</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>Find the next term in the given series: EXCOMMUNICATION, OMMUNICAT, XCOMMUNICATIO, MMUNICA, COMMUNICATI, ?</text>
         <topic>Alphabet / Word Series</topic>
         <option>MUNICAT</option>
@@ -13415,7 +13415,7 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <explanation>Convert speed: \(306 \text{ km/hr} = \frac{306000}{3600} \text{ m/s} = 85 \text{ m/s}\). Time \(= \frac{\text{distance}}{\text{speed}} = \frac{5015}{85}\) s. Since \(85 \times 59 = 5015\), time \(= 59\) seconds.</explanation>
     </question>
 
-    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
         <text>In a certain code language: &quot;learn life lessons&quot; is written as &quot;lo ma ku&quot;, &quot;lessons are good&quot; as &quot;pi rh ma&quot;, and &quot;lead good life&quot; as &quot;lo ja pi&quot;. What does the code &quot;ja&quot; stand for?</text>
         <topic>Coding - Decoding</topic>
         <option>lessons</option>
@@ -13670,6 +13670,1279 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
     
 
 
+ <!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The volunteers must have _____________ in dealing with the ____________ in the nearby areas.</text>
+        <topic>Homophones / Confused Words</topic>
+        <option>meddle, medal</option>
+        <option>patience, patients</option>
+        <option>medal, meddle</option>
+        <option>patients, patience</option>
+        <answer>patience, patients</answer>
+        <explanation>
+"Patience" (calm self-control) is needed while dealing with "patients" (people under medical care), so "patience, patients" fits both meanings.
+        </explanation>
+    </question>
+
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the parts to form a meaningful sentence:  
+P: planning Department and Food and Civil Supplies Department's  
+Q: the Standing Committee of the Northern Zonal Council  
+R: held in Shimla along with a 5-member delegation from Rajasthan  
+S: government Secretary Naveen Jain participated in the meeting of</text>
+        <topic>Sentence Arrangement</topic>
+        <option>PSQR</option>
+        <option>PQRS</option>
+        <option>SRQP</option>
+        <option>SPQR</option>
+        <answer>PSQR</answer>
+        <explanation>
+Order: P–S–Q–R →  
+"Planning Department and Food and Civil Supplies Department's government Secretary Naveen Jain participated in the meeting of the Standing Committee of the Northern Zonal Council held in Shimla along with a 5-member delegation from Rajasthan."
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with the correct preposition:  
+I fell asleep ____________ the drama.</text>
+        <topic>Prepositions</topic>
+        <option>since</option>
+        <option>for</option>
+        <option>during</option>
+        <option>on</option>
+        <answer>during</answer>
+        <explanation>
+We use "during" with events: "fell asleep during the drama."
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with the correct preposition:  
+The rain has been continuous _________ this afternoon.</text>
+        <topic>Prepositions of Time</topic>
+        <option>since</option>
+        <option>at</option>
+        <option>against</option>
+        <option>over</option>
+        <answer>since</answer>
+        <explanation>
+"Since this afternoon" shows the rain started then and continues till now.
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with the correct article:  
+I am going to see _________ Statue of Liberty this year.</text>
+        <topic>Articles</topic>
+        <option>a</option>
+        <option>an</option>
+        <option>the</option>
+        <option>No Error</option>
+        <answer>the</answer>
+        <explanation>
+The Statue of Liberty is a unique, famous monument → use the definite article "the".
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        
+        <text>
+        Alfred Nobel&apos;s willed legacy to reward exceptional work that furthers fraternity among nations, eliminates or reduces armies and promotes congresses of peace has brought the Nobel Peace Prize to a variety of causes — from abolition of landmines, nuclear and chemical weapons to addressing climate change, besides conflict resolution. This year&apos;s prize has been awarded to the World Food Programme (WFP), of the UN system, for its contribution to combating hunger in conflict and disaster-struck sites. The Norwegian Nobel Committee took note of the WFP&apos;s life-saving role in the year of the pandemic, staving off catastrophes of hunger in Yemen, Congo, Nigeria, South Sudan and Burkina Faso. The Prize is a fitting tribute to the aid workers who brave hazardous conditions to reach starving people in theatres of war, civil strife and natural disasters, moving food on aircraft, trucks and even all-terrain amphibious vehicles. The decision to honour the WFP echoes the advice of another peace laureate from 1949, Lord John Boyd Orr, the first head of the FAO, that peace cannot be built on empty stomachs. That counsel must resonate even more with all countries and foster greater cooperation to close the WFP&apos;s funding gap of $4.1 billion, as the world&apos;s hunger map presents a depressing picture with more than a quarter of the population facing undernourishment in many countries; in strife-ridden Syria, an estimated 4.6 million people survive on food aid. Clearly, without stronger commitment from the big powers, the challenge to feed the millions who suffer acute hunger due to conflict and failed agriculture can never be met.
+
+The recognition that the WFP has received can help the humanitarian organisation prepare for a decade of ambition and help meet the Sustainable Development Goals (SDG). Of central importance is SDG 2 — achieving zero hunger by 2030 — a target that requires determination to resolve festering armed conflict, and more fundamentally, to mitigate carbon emissions early and avert effects on agriculture from disastrous climate events. As the Norwegian committee has pointed out, the need for international solidarity and multilateral cooperation is more conspicuous than ever. Democracy also needs strengthening to help achieve equitable food distribution and end hunger, a salutary outcome experienced by free societies that also have unfettered media. Several poor countries have suffered a severe setback to their developmental aspirations due to the pandemic, and lack strong institutional governance to manage the crisis. This is a time for the world&apos;s big powers to strengthen the UN system, espousing fraternity, shunning militarism, greening economies and resolving conflicts in the true spirit of the Peace Prize.
+        Who was the first head of the FAO?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Alfred Nobel</option>
+        <option>Woodrow Wilson</option>
+        <option>Lord John Boyd Orr</option>
+        <option>NC Saxena</option>
+        <answer>Lord John Boyd Orr</answer>
+        <explanation>
+The passage explicitly names Lord John Boyd Orr as the first head of the FAO.
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The letter G in the abbreviation "SDG" stands for:</text>
+        <topic>Vocabulary / Abbreviations</topic>
+        <option>Grades</option>
+        <option>Gaps</option>
+        <option>Groups</option>
+        <option>Goals</option>
+        <answer>Goals</answer>
+        <explanation>
+SDG = Sustainable Development Goals → G = Goals.
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>What is the contextual meaning of the word "Determination" in the passage?</text>
+        <topic>Contextual Vocabulary</topic>
+        <option>Certainty</option>
+        <option>Spurious</option>
+        <option>Theory</option>
+        <option>Ambiguity</option>
+        <answer>Certainty</answer>
+        <explanation>
+Here "determination" means firm resolve or certainty of purpose, which matches "certainty".
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>What is of central importance in the SDGs, according to the passage?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Achieving zero hunger by 2030</option>
+        <option>Achieving less than 10% hunger by 2025</option>
+        <option>Achieving less than 10% hunger by 2040</option>
+        <option>Achieving zero hunger by 2025</option>
+        <answer>Achieving zero hunger by 2030</answer>
+        <explanation>
+The passage highlights SDG 2: achieving zero hunger by 2030 as central.
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which option is correct as per the passage?  
+Statement A: Several poor countries have suffered a severe setback to their developmental aspirations due to the pandemic.  
+Statement B: The Norwegian Nobel Committee took note of the WFP’s life-saving role in the year of the pandemic.</text>
+        <topic>Reading Comprehension – True/False</topic>
+        <option>Both the statements A and B are True</option>
+        <option>Statement A is True and Statement B is False</option>
+        <option>Statement A is False and Statement B is True</option>
+        <option>Both the statements A and B are False</option>
+        <answer>Both the statements A and B are True</answer>
+        <explanation>
+Both points are clearly mentioned in the passage, so A and B are true.
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct passive voice:  
+She pressed the shirts neatly.</text>
+        <topic>Voice Change</topic>
+        <option>The shirts are being pressed by her neatly.</option>
+        <option>The shirts are pressed by her neatly.</option>
+        <option>The shirts were pressed by her neatly.</option>
+        <option>The shirts pressed her neatly.</option>
+        <answer>The shirts were pressed by her neatly.</answer>
+        <explanation>
+Simple past active → simple past passive: "were pressed by her".
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct active voice:  
+The movies are reviewed by him.</text>
+        <topic>Voice Change</topic>
+        <option>He has reviewed the movies.</option>
+        <option>He reviews the movies.</option>
+        <option>He reviewed the movies.</option>
+        <option>He is reviews the movies.</option>
+        <answer>He reviews the movies.</answer>
+        <explanation>
+Present simple passive ("are reviewed") → present simple active: "He reviews the movies."
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill the blank (A) with a suitable pronoun:  
+"...a girl tossing a ball in the air alone by ____(A)____."</text>
+        <topic>Pronouns – Reflexive</topic>
+        <option>her</option>
+        <option>herself</option>
+        <option>hers</option>
+        <option>itself</option>
+        <answer>herself</answer>
+        <explanation>
+We say "by herself" to show she was alone, so the reflexive pronoun "herself" is correct.
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill the blank (B) with a suitable pronoun:  
+"Later, the twins arranged a welcome party for ____(B)____."</text>
+        <topic>Pronouns – Object Form</topic>
+        <option>she</option>
+        <option>hers</option>
+        <option>herself</option>
+        <option>her</option>
+        <answer>her</answer>
+        <explanation>
+After "for" we need an object pronoun → "for her".
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the parts to form a meaningful sentence:  
+P: cultural heritage of the tribal communities  
+Q: the Tripura Tribal Areas Autonomous District Council was formed  
+R: to ensure development and secure the rights and  
+S: under the sixth schedule of the Constitution in 1985</text>
+        <topic>Sentence Arrangement</topic>
+        <option>QSRP</option>
+        <option>QSPR</option>
+        <option>QRSP</option>
+        <option>RPSQ</option>
+        <answer>QSRP</answer>
+        <explanation>
+Order: Q–S–R–P → "was formed under the Sixth Schedule... to ensure development and secure the rights and cultural heritage..."
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with the correct article:  
+I am going to write ___________ letter for my friend.</text>
+        <topic>Articles</topic>
+        <option>a</option>
+        <option>an</option>
+        <option>the</option>
+        <option>No article</option>
+        <answer>a</answer>
+        <explanation>
+"Letter" starts with a consonant sound → "a letter".
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with a suitable idiom:  
+She may have grown old, but she has shed none of his dominance of his __________.</text>
+        <topic>Idioms &amp; Phrases</topic>
+        <option>salad days</option>
+        <option>dog days</option>
+        <option>fast days</option>
+        <option>slow days</option>
+        <answer>salad days</answer>
+        <explanation>
+"Salad days" = one’s youthful days. The sentence contrasts old age with dominance from youth.
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the synonym of "ACERBIC".</text>
+        <topic>Synonyms</topic>
+        <option>Kind</option>
+        <option>Calm</option>
+        <option>Mild</option>
+        <option>Sharp</option>
+        <answer>Sharp</answer>
+        <explanation>
+"Acerbic" means harsh or sharply critical in tone, so "sharp" is the closest in meaning.
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the antonym of "INEVITABLE".</text>
+        <topic>Antonyms</topic>
+        <option>Imminent</option>
+        <option>Necessary</option>
+        <option>Inflexible</option>
+        <option>Avoidable</option>
+        <answer>Avoidable</answer>
+        <explanation>
+"Inevitable" = unavoidable; the opposite is "avoidable".
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blank with a suitable idiom:  
+One needs to ____________ one's children before they go and play in the snow.</text>
+        <topic>Idioms &amp; Phrases</topic>
+        <option>black down</option>
+        <option>Shuffle down</option>
+        <option>bundle up</option>
+        <option>dog days</option>
+        <answer>bundle up</answer>
+        <explanation>
+"Bundle up" means to dress warmly in many layers, which fits going out to play in the snow.
+        </explanation>
+    </question>
+
+
+
+
+
+ <!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indain GK">
+        <text>Which of the following is the major ragi producing state in India?</text>
+        <topic>Indian Geography – Crops of India</topic>
+        <option>Tamil Nadu</option>
+        <option>Uttar Pradesh</option>
+        <option>Rajasthan</option>
+        <option>Haryana</option>
+        <answer>Tamil Nadu</answer>
+        <explanation>
+Ragi (finger millet) is mainly grown in peninsular India; Karnataka is first and Tamil Nadu is among the major producers. Among the given options, Tamil Nadu is correct.
+        </explanation>
+    </question>
+
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who among the following is the first ruler of Rajouri Kingdom?</text>
+        <topic>J&amp;K History – Rajouri</topic>
+        <option>Sultan Masud</option>
+        <option>Sangram Paul</option>
+        <option>Raja Prithvi Paul</option>
+        <option>Bahu Paul</option>
+        <answer>Raja Prithvi Paul</answer>
+        <explanation>
+Traditional accounts of the Rajouri kingdom trace its line of rulers back to Raja Prithvi Paul as the first known ruler of Rajouri.
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which of the following departments implements 'NIPUN Bharat Programme' at national level?</text>
+        <topic>Indian Schemes &amp; Current Affairs</topic>
+        <option>Department of Health Research</option>
+        <option>Department of School Education and Literacy</option>
+        <option>Department of financial services</option>
+        <option>Department of economic affairs</option>
+        <answer>Department of School Education and Literacy</answer>
+        <explanation>
+NIPUN Bharat (National Initiative for Proficiency in Reading with Understanding and Numeracy) is an education mission implemented by the Department of School Education and Literacy under the Ministry of Education.
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Who among the following is regarded as the Father of Cosmology?</text>
+        <topic>General Science – Personalities</topic>
+        <option>Aryabhatta</option>
+        <option>Copernicus</option>
+        <option>Edwin Hubble</option>
+        <option>Acharya Kapila</option>
+        <answer>Acharya Kapila</answer>
+        <explanation>
+In Indian philosophical tradition, Acharya Kapila is often called the “Father of Cosmology” for his work in the Sāṃkhya system, which deals with the origin and evolution of the universe.
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which King changed the name of Rajouri to Rampur in the Union Territory of Jammu &amp; Kashmir?</text>
+        <topic>J&amp;K History – Rajouri Region</topic>
+        <option>Maharaja Bhim Dev</option>
+        <option>Maharaja Chandra Dev</option>
+        <option>Maharaja Gulab Singh</option>
+        <option>Maharaja Vir Bala Dev</option>
+        <answer>Maharaja Gulab Singh</answer>
+        <explanation>
+During Dogra rule, Maharaja Gulab Singh is credited with changing the name of Rajouri to Rampur for a period.
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>The famous Lohar Devta Temple is in ___________ district of Union Territory of Jammu &amp; Kashmir.</text>
+        <topic>J&amp;K Places &amp; Temples</topic>
+        <option>Anantnag</option>
+        <option>Poonch</option>
+        <option>Shopian</option>
+        <option>Pulwama</option>
+        <answer>Poonch</answer>
+        <explanation>
+Lohar Devta Temple is a locally revered shrine situated in the Poonch district of J&amp;K.
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>What is the name of the cultivation that involves the crops such as Wheat, Oats and Rye?</text>
+        <topic>Crops and Climate</topic>
+        <option>Mediterranean Agriculture</option>
+        <option>Dairy Farming</option>
+        <option>Plantation Agriculture</option>
+        <option>Extensive Commercial Grain cultivation</option>
+        <answer>Extensive Commercial Grain cultivation</answer>
+        <explanation>
+Large-scale mechanised farming of cereals like wheat, oats and rye in temperate grasslands is known as extensive commercial grain cultivation.
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who was the builder of the Martand (Sun) Temple and founder of Kashmir Valley's canal irrigation system?</text>
+        <topic>J&amp;K History – Temples &amp; Rulers</topic>
+        <option>Bhu Dev</option>
+        <option>Zain-ul-adidin</option>
+        <option>Bhim Chand</option>
+        <option>Lalitaditya Muktapida</option>
+        <answer>Lalitaditya Muktapida</answer>
+        <explanation>
+King Lalitaditya Muktapida of the Karkota dynasty built the famous Martand Sun Temple and is also associated with early irrigation works in the Valley.
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who among the following rulers adopted ‘Compulsory Primary Education Regulation in Jammu and Kashmir'?</text>
+        <topic>J&amp;K Social Reforms</topic>
+        <option>Maharaja Gulab Singh</option>
+        <option>Raja Amar Singh</option>
+        <option>Maharaja Hari Singh</option>
+        <option>Maharaja Pratap Singh</option>
+        <answer>Maharaja Hari Singh</answer>
+        <explanation>
+Maharaja Hari Singh introduced several progressive reforms including compulsory primary education in the princely state.
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who built the Rajouri Fort at Dhannidhar village?</text>
+        <topic>J&amp;K History – Forts</topic>
+        <option>Noor-Ud-Din</option>
+        <option>Raja Prithvi Paul</option>
+        <option>Albaurni</option>
+        <option>Mian Hathu</option>
+        <answer>Mian Hathu</answer>
+        <explanation>
+Mian Hathu, Governor under Dogra rule, is credited with constructing the fort at Dhannidhar near Rajouri.
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Mian Hathu governed Rajouri from 1846 to ___________ A.D.</text>
+        <topic>J&amp;K History – Administration</topic>
+        <option>1850</option>
+        <option>1856</option>
+        <option>1848</option>
+        <option>1852</option>
+        <answer>1856</answer>
+        <explanation>
+Mian Hathu’s tenure as Governor of Rajouri is generally recorded as 1846–1856 A.D.
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>In which year was the Border Roads Organisation (BRO) established in India?</text>
+        <topic>Transport and Communication</topic>
+        <option>1956</option>
+        <option>1985</option>
+        <option>1970</option>
+        <option>1960</option>
+        <answer>1960</answer>
+        <explanation>
+BRO was formed in 1960 to develop and maintain road networks in India’s border areas.
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Krishna River originates at __________ in Maharashtra.</text>
+        <topic>Indian Rivers</topic>
+        <option>Verinag</option>
+        <option>Amarkantak Plateau</option>
+        <option>Mahabaleswar</option>
+        <option>Bhimashankar hills</option>
+        <answer>Mahabaleswar</answer>
+        <explanation>
+The Krishna River rises near Mahabaleshwar in the Western Ghats of Maharashtra.
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Where did the Congress Split of 1907 happen?</text>
+        <topic>Indian History – Freedom Movement</topic>
+        <option>Surat</option>
+        <option>Calcutta</option>
+        <option>Bombay</option>
+        <option>Madras</option>
+        <answer>Surat</answer>
+        <explanation>
+The famous split between Moderates and Extremists in the Indian National Congress took place at the Surat session in 1907.
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which among the following lakes was previously known as the Dhakuria Lake?</text>
+        <topic>Indian Geography – Lakes</topic>
+        <option>Rabindra Sarobar</option>
+        <option>Santragachi Jheel</option>
+        <option>Saheb Bandh</option>
+        <option>Senchal Lake</option>
+        <answer>Rabindra Sarobar</answer>
+        <explanation>
+Rabindra Sarobar in Kolkata was earlier known as Dhakuria Lake.
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>In which of the following districts of Jammu and Kashmir is the Gulmarg meteorological observatory located?</text>
+        <topic>J&amp;K Geography – Weather Stations</topic>
+        <option>Kulgam</option>
+        <option>Bandipora</option>
+        <option>Reasi</option>
+        <option>Baramulla</option>
+        <answer>Baramulla</answer>
+        <explanation>
+Gulmarg is situated in Baramulla district; the meteorological observatory there is therefore located in Baramulla district.
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>India hosted the International Climate Summit 2021 (ICS) on 3rd September in which city?</text>
+        <topic>Current Affairs – Environment</topic>
+        <option>Mumbai</option>
+        <option>Ahmedabad</option>
+        <option>New Delhi</option>
+        <option>Bhopal</option>
+        <answer>New Delhi</answer>
+        <explanation>
+The International Climate Summit 2021 was hosted in New Delhi on 3rd September 2021.
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Who issued the Partition of Bengal in 1905?</text>
+        <topic>Indian History – British Viceroys</topic>
+        <option>Lord MInto</option>
+        <option>Lord Rippon</option>
+        <option>Lord Lytton</option>
+        <option>Lord Curzon</option>
+        <answer>Lord Curzon</answer>
+        <explanation>
+The partition of Bengal in 1905 was carried out by the then Viceroy of India, Lord Curzon.
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>____________ waterfalls is located in the Poonch district of UT Jammu &amp; Kashmir.</text>
+        <topic>J&amp;K Geography – Waterfalls</topic>
+        <option>Chitrakote</option>
+        <option>Nandishool</option>
+        <option>Magod</option>
+        <option>Jog</option>
+        <answer>Nandishool</answer>
+        <explanation>
+Nandishool Waterfall is a well-known waterfall located in the Poonch district of J&amp;K.
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which is the hottest month in Kashmir valley?</text>
+        <topic>J&amp;K Climate</topic>
+        <option>March</option>
+        <option>July</option>
+        <option>August</option>
+        <option>September</option>
+        <answer>July</answer>
+        <explanation>
+In Kashmir Valley, July generally records the highest average temperatures and is considered the hottest month.
+        </explanation>
+    </question>
+
+
+
+
+ <!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>In this question, a statement is given followed by two conclusions numbered i and ii. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. Statement: Only the intelligent students can pass the examination. Jeno passed the examination. Conclusion: i) Jeno is an intelligent student ii) Jeno is a good human being Choose the appropriate one from the following options</text>
+        <topic>Logical Reasoning – Syllogism</topic>
+        <option>A</option>
+        <option>D</option>
+        <option>E</option>
+        <option>B</option>
+        <answer>A</answer>
+        <explanation>
+“Only intelligent students can pass” means: if a student passes, he/she must be intelligent.  
+Symbolically: \(\text{Pass} \Rightarrow \text{Intelligent}\).  
+Jeno passed \(\Rightarrow\) Jeno is intelligent.  
+Nothing is said about Jeno being a good human being, so only conclusion (i) follows.
+        </explanation>
+    </question>
+
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>A man is standing in a lawn facing North direction. If the man turns 45 degrees in anti-clockwise direction and 135 degrees in clockwise direction, which direction will he face now?</text>
+        <topic>Direction Sense</topic>
+        <option>South</option>
+        <option>North</option>
+        <option>East</option>
+        <option>West</option>
+        <answer>East</answer>
+        <explanation>
+Start: facing North.  
+First turn: \(45^\circ\) anticlockwise \(\Rightarrow\) North-West.  
+Second turn: \(135^\circ\) clockwise from North-West:  
+\(45^\circ\) to North + \(90^\circ\) to East \(\Rightarrow\) final direction is East.
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>What will be written in the place of question mark in the given series? Y25M13Q17D4?12</text>
+        <topic>Series – Alpha-numeric</topic>
+        <option>K</option>
+        <option>M</option>
+        <option>L</option>
+        <option>N</option>
+        <answer>L</answer>
+        <explanation>
+This is an alpha–numeric pattern question; according to the official key, the missing letter is \(L\). The exact exam pattern mapping letters to numbers leads to \(L\) in the missing position.
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>In a certain code language: 'fast road ways' is written as 'yo ga ri', 'ways to reach' is written as 'th yo sa', 'you reach fast' is written as 'ga bu th'. What is the code for 'road' in the given code language?</text>
+        <topic>Coding – Decoding</topic>
+        <option>ga</option>
+        <option>yo</option>
+        <option>ri</option>
+        <option>th</option>
+        <answer>ri</answer>
+        <explanation>
+From “fast road ways” \(\to\) yo, ga, ri.  
+From “ways to reach” \(\to\) th, yo, sa. So “ways” \(=\) yo.  
+From “you reach fast” \(\to\) ga, bu, th. So “fast” \(=\) ga.  
+Remaining code in the first sentence is “ri” \(\Rightarrow\) “road” \(=\) ri.
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>X can do a piece of work in 272 days. X worked at it for 56 days and then Y finished the remaining work in 216 days. In how many days can X and Y together finish the work?</text>
+        <topic>Time and Work</topic>
+        <option>144</option>
+        <option>136</option>
+        <option>140</option>
+        <option>148</option>
+        <answer>136</answer>
+        <explanation>
+Rate of \(X = \frac{1}{272}\) work/day.  
+Work done by \(X\) in 56 days \(= 56 \times \frac{1}{272} = \frac{7}{34}\).  
+Remaining work \(= 1 - \frac{7}{34} = \frac{27}{34}\).  
+\(\frac{27}{34}\) is done by \(Y\) in 216 days:  
+\[
+\text{Rate of }Y = \frac{\frac{27}{34}}{216} = \frac{27}{34 \times 216} = \frac{1}{272}
+\]
+So \(Y\) has the same rate as \(X\).  
+Together: \(\frac{1}{272} + \frac{1}{272} = \frac{2}{272} = \frac{1}{136}\).  
+\(\Rightarrow\) Time together \(= 136\) days.
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>Find the next number in the series. 24, 29, 27, 32, 30, ?</text>
+        <topic>Number Series</topic>
+        <option>35</option>
+        <option>34</option>
+        <option>33</option>
+        <option>28</option>
+        <answer>35</answer>
+        <explanation>
+Differences: \(+5, -2, +5, -2, \dots\)  
+\(24 \to 29 (+5)\)  
+\(29 \to 27 (-2)\)  
+\(27 \to 32 (+5)\)  
+\(32 \to 30 (-2)\)  
+Next: \(30 + 5 = 35\).
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Average of 13 consecutive numbers is 574. If the average of first 6 numbers is 571 and the average of last 6 numbers is 577, find the middle number.</text>
+        <topic>Averages</topic>
+        <option>576</option>
+        <option>570</option>
+        <option>572</option>
+        <option>574</option>
+        <answer>574</answer>
+        <explanation>
+For \(n\) consecutive integers, the average equals the middle term.  
+So for 13 consecutive numbers, middle number \(=\) average \(= 574\).
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>If 16% of 25% of 75% of a number is 381, then what is the number?</text>
+        <topic>Percentages</topic>
+        <option>12800</option>
+        <option>12600</option>
+        <option>12500</option>
+        <option>12700</option>
+        <answer>12700</answer>
+        <explanation>
+Let the number be \(N\).  
+\[
+16\% \text{ of } 25\% \text{ of } 75\% \text{ of } N = 381
+\]
+\[
+0.16 \times 0.25 \times 0.75 \times N = 381
+\]
+\[
+0.16 \times 0.25 = 0.04,\quad 0.04 \times 0.75 = 0.03
+\]
+\[
+0.03N = 381 \Rightarrow N = \frac{381}{0.03} = 12700
+\]
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Find the remainder, when 643288 is divided by 9.</text>
+        <topic>Number System – Divisibility</topic>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>4</option>
+        <answer>4</answer>
+        <explanation>
+For divisibility by 9, sum digits of \(643288\):  
+\[
+6+4+3+2+8+8 = 31
+\]
+Now \(31 \div 9 = 3\) remainder \(4\).  
+\(\Rightarrow\) Remainder when \(643288\) is divided by 9 is 4.
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>A alone can finish the work in 306 days. B is 70% more effcient than A. How many days does B alone take to finish the work?</text>
+        <topic>Time and Work</topic>
+        <option>150</option>
+        <option>160</option>
+        <option>180</option>
+        <option>170</option>
+        <answer>180</answer>
+        <explanation>
+Let A’s efficiency be 1 unit/day. Then B’s efficiency is \(1 + 0.70 = 1.7\) units/day.  
+Time \(\propto \frac{1}{\text{efficiency}}\).  
+\[
+T_B = \frac{T_A}{1.7} = \frac{306}{1.7} = 180 \text{ days}
+\]
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Select the appropriate set of sequence of mathematical operators to replace all * sign in the following equation &amp; hence to balance it. 12 * 3 * 4 * 40</text>
+        <topic>Simplification – Operators</topic>
+        <option>÷ × =</option>
+        <option>× + =</option>
+        <option>- × =</option>
+        <option>+ × =</option>
+        <answer>× + =</answer>
+        <explanation>
+Test:  
+\[
+12 \times 3 + 4 = 36 + 4 = 40
+\]
+This satisfies the equation, so the correct sequence is \(\times, +, =\).
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+        <text>Read the following statements and answer the following question. A@B means A is the husband of B A#B means A is the wife of B A$B means A is the son of B A%B means A is the daughter of B In the equation P$Q#R$S, How is P related to S?</text>
+        <topic>Blood Relations – Coding</topic>
+        <option>Grandfather</option>
+        <option>Son</option>
+        <option>Grandson</option>
+        <option>Son-in-law</option>
+        <answer>Grandson</answer>
+        <explanation>
+\(P\$Q\): P is son of Q \(\Rightarrow Q\) is parent of P.  
+\(Q\#R\): Q is wife of R \(\Rightarrow R\) is husband of Q.  
+\(R\$S\): R is son of S \(\Rightarrow S\) is parent of R.  
+Thus S is grandparent of P, and P is male \(\Rightarrow\) P is grandson of S.
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>How many seconds will a train take to cover a distance of 3335 meters, if it runs at a speed of 414 km/hr?</text>
+        <topic>Time, Speed and Distance</topic>
+        <option>27</option>
+        <option>25</option>
+        <option>29</option>
+        <option>31</option>
+        <answer>29</answer>
+        <explanation>
+Convert speed to m/s:  
+\[
+414 \text{ km/hr} = 414 \times \frac{1000}{3600} = 414 \times \frac{5}{18} = 115 \text{ m/s}
+\]
+Time \(t = \frac{\text{distance}}{\text{speed}} = \frac{3335}{115} = 29 \text{ s}\).
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>The average weight of a team of 66 employees is 88 kg. If the weight of the manager is included, then the average increases by 1 kg. Find the weight of the manager.(In kg)</text>
+        <topic>Averages</topic>
+        <option>177</option>
+        <option>155</option>
+        <option>166</option>
+        <option>144</option>
+        <answer>155</answer>
+        <explanation>
+Sum of weights of 66 employees:  
+\[
+66 \times 88 = 5808 \text{ kg}
+\]
+With manager, 67 people, average \(= 89\):  
+\[
+67 \times 89 = 5963 \text{ kg}
+\]
+Manager’s weight \(= 5963 - 5808 = 155 \text{ kg}\).
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Find the unit digit in the product (535 × 1049 × 3309 × 8325).</text>
+        <topic>Number System – Units Digit</topic>
+        <option>9</option>
+        <option>5</option>
+        <option>6</option>
+        <option>8</option>
+        <answer>5</answer>
+        <explanation>
+Consider only unit digits: \(5 \times 9 \times 9 \times 5\).  
+\(5 \times 9 = 45 \Rightarrow\) unit digit 5.  
+\(5 \times 9 = 45 \Rightarrow\) unit digit 5 again.  
+\(5 \times 5 = 25 \Rightarrow\) unit digit 5.  
+So final unit digit is 5.
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>When an article is sold at Rs.4275 after a discount of 25%, find its marked price.(In Rs)</text>
+        <topic>Profit, Loss &amp; Discount</topic>
+        <option>5700</option>
+        <option>5600</option>
+        <option>5400</option>
+        <option>5500</option>
+        <answer>5700</answer>
+        <explanation>
+Let marked price be \(M\). Discount \(=25\%\) \(\Rightarrow\) selling price \(= 75\%\) of \(M\).  
+\[
+0.75M = 4275 \Rightarrow M = \frac{4275}{0.75} = 4275 \times \frac{4}{3} = 5700
+\]
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>After 6264 liters of petrol was poured into the tank, it was still 13% empty. What is the total capacity of the tank?(In liters)</text>
+        <topic>Percentages</topic>
+        <option>7500</option>
+        <option>7200</option>
+        <option>7300</option>
+        <option>7400</option>
+        <answer>7200</answer>
+        <explanation>
+If 13% is empty, then 87% is filled by 6264 L.  
+Let capacity \(= C\).  
+\[
+0.87C = 6264 \Rightarrow C = \frac{6264}{0.87} = 7200 \text{ L}
+\]
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>A dealer bought a washing machine for Rs.19500 and sold at a gain of 25%. Find its selling price.(In Rs)</text>
+        <topic>Profit and Loss</topic>
+        <option>24475</option>
+        <option>24575</option>
+        <option>24375</option>
+        <option>24675</option>
+        <answer>24375</answer>
+        <explanation>
+Cost price \(= 19500\).  
+Profit \(=25\%\) \(\Rightarrow\) selling price  
+\[
+\text{SP} = 19500 \times 1.25 = 19500 \times \frac{5}{4} = 4875 \times 5 = 24375
+\]
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>The ratio of three numbers is 23:24:25 and their sum is 2664. Find the second number of the three numbers.</text>
+        <topic>Ratio and Proportion</topic>
+        <option>878</option>
+        <option>858</option>
+        <option>868</option>
+        <option>888</option>
+        <answer>888</answer>
+        <explanation>
+Let the common factor be \(k\). Numbers are \(23k, 24k, 25k\).  
+\[
+23k + 24k + 25k = 2664 \Rightarrow 72k = 2664 \Rightarrow k = \frac{2664}{72} = 37
+\]
+Second number \(= 24k = 24 \times 37 = 888\).
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>In what ratio must a grocer mix two varieties of pulses costing Rs.69 and Rs.92 per kg respectively so as to get a mixture worth Rs.79.5 per kg?</text>
+        <topic>Alligation and Mixture</topic>
+        <option>21:28</option>
+        <option>25:19</option>
+        <option>21:25</option>
+        <option>25:21</option>
+        <answer>25:21</answer>
+        <explanation>
+Use alligation. Let cheaper \(= 69\), dearer \(= 92\), mean \(= 79.5\).  
+\[
+92 - 79.5 = 12.5,\quad 79.5 - 69 = 10.5
+\]
+Ratio (cheaper : dearer)  
+\[
+= 12.5 : 10.5 = 125 : 105 = 25 : 21
+\]
+So pulses costing Rs.69 and Rs.92 are to be mixed in the ratio \(25:21\).
+        </explanation>
+    </question>
+
+
+
+  <!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Identify the domain name from http://www.ourcountry.in/home.aboutus.html</text>
+        <topic>Internet Basics – URLs</topic>
+        <option>ourcountry.in</option>
+        <option>http</option>
+        <option>aboutus.html</option>
+        <option>home</option>
+        <answer>ourcountry.in</answer>
+        <explanation>
+In a URL like  
+\[
+\text{http://www.ourcountry.in/home.aboutus.html}
+\]  
+the **protocol** is `http`, the **domain name** is `ourcountry.in`, and the remaining part (`/home.aboutus.html`) is the path/file. Hence the domain name is `ourcountry.in`.
+        </explanation>
+    </question>
+
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Word 2019, which of the following shortcut keys is used to delete one word to the left?</text>
+        <topic>MS Word – Keyboard Shortcuts</topic>
+        <option>Ctrl + Delete</option>
+        <option>Shift + Delete</option>
+        <option>Ctrl + Backspace</option>
+        <option>Shift + Backspace</option>
+        <answer>Ctrl + Backspace</answer>
+        <explanation>
+In MS Word,  
+- \(\text{Ctrl} + \text{Delete}\) deletes one word to the **right**,  
+- \(\text{Ctrl} + \text{Backspace}\) deletes one word to the **left**.  
+So the correct shortcut is \(\text{Ctrl} + \text{Backspace}\).
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What will Shift+F7 key do in MS Word?</text>
+        <topic>MS Word – Features</topic>
+        <option>Open MailMerge</option>
+        <option>Open Research</option>
+        <option>Open Thesaurus</option>
+        <option>Open PrintPreview dialogue box</option>
+        <answer>Open Thesaurus</answer>
+        <explanation>
+In MS Word, pressing \(\text{Shift} + \text{F7}\) opens the **Thesaurus**, which shows synonyms and related words for the selected word.
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>1 femtosecond = ______ second.</text>
+        <topic>Computer Hardware – Time Units</topic>
+        <option>10-9</option>
+        <option>10-18</option>
+        <option>10-12</option>
+        <option>10-15</option>
+        <answer>10-15</answer>
+        <explanation>
+A **femtosecond** is  
+\[
+1 \text{ fs} = 10^{-15} \text{ seconds}
+\]  
+So the correct power of 10 is \(10^{-15}\).
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In Windows 10 Operating system, __________ key combination opens the share pane, which allows you to share a screenshot of the current desktop.</text>
+        <topic>Operating System – Windows Shortcuts</topic>
+        <option>Windows+H</option>
+        <option>Windows+D</option>
+        <option>Windows+E</option>
+        <option>Windows+A</option>
+        <answer>Windows+H</answer>
+        <explanation>
+In Windows 10, pressing \(\text{Win} + H\) opens the **Share** pane, where you can share content (including screenshots) with apps.
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Notebook computer, desktop computer, handheld computer are the example of which type of computer?</text>
+        <topic>Types of Computers</topic>
+        <option>Supercomputer</option>
+        <option>Mainframe</option>
+        <option>Microcomputer</option>
+        <option>Minicomputer</option>
+        <answer>Microcomputer</answer>
+        <explanation>
+Devices meant for individual use (PCs, laptops, notebooks, handhelds) are **microcomputers**, built around microprocessors and designed for single users.
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>A ______ is a soft copy output device used to display text and graphics information generated by a computer through a video card.</text>
+        <topic>Input &amp; Output Devices</topic>
+        <option>projector</option>
+        <option>printer</option>
+        <option>monitor</option>
+        <option>plotter</option>
+        <answer>monitor</answer>
+        <explanation>
+“Soft copy” means output shown on a screen. A **monitor** displays text/graphics generated by the video (graphics) card. Printers/plotters give hard copy; a projector projects the screen image, but the primary standard term here is monitor.
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is the full from of DSL?</text>
+        <topic>Networking – Internet Connections</topic>
+        <option>Digital Sub Line</option>
+        <option>Digital Subscriber Line</option>
+        <option>Digital Superior Line</option>
+        <option>Digital Sub connector Line</option>
+        <answer>Digital Subscriber Line</answer>
+        <explanation>
+**DSL** stands for  
+\[
+\text{Digital Subscriber Line}
+\]  
+It is a technology for high-speed internet access over telephone lines.
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>The file extension of a Microsoft PowerPoint presentation is _________.</text>
+        <topic>MS PowerPoint – Basics</topic>
+        <option>DOC</option>
+        <option>MDB</option>
+        <option>PPT</option>
+        <option>XLS</option>
+        <answer>PPT</answer>
+        <explanation>
+Common default extensions:  
+- Word document \(\to\) `.DOC` / `.DOCX`  
+- Excel workbook \(\to\) `.XLS` / `.XLSX`  
+- PowerPoint presentation \(\to\) `.PPT` / `.PPTX`  
+So the answer is `.PPT`.
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>______ is a non-impact printer.</text>
+        <topic>Printers – Types</topic>
+        <option>Inkjet</option>
+        <option>Daisywheel</option>
+        <option>Band</option>
+        <option>Dot-matrix</option>
+        <answer>Inkjet</answer>
+        <explanation>
+Impact printers strike the paper (e.g. **daisywheel**, **dot-matrix**, **band**).  
+Non-impact printers (no physical hammer strike) include **inkjet** and **laser** printers. Hence, Inkjet is the non-impact printer here.
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is Microsoft Windows?</text>
+        <topic>Operating Systems</topic>
+        <option>It is a calculator</option>
+        <option>It is a word processor</option>
+        <option>It is an Operating System</option>
+        <option>It is a database program</option>
+        <answer>It is an Operating System</answer>
+        <explanation>
+**Microsoft Windows** is a family of **graphical operating systems** that manage hardware resources and provide services for applications.
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>OCR-A is the one of the standard form fonts of OCR. What is the full form of A?</text>
+        <topic>Input Devices – OCR</topic>
+        <option>American</option>
+        <option>Asian</option>
+        <option>Australian</option>
+        <option>African</option>
+        <answer>American</answer>
+        <explanation>
+**OCR-A** is a standardized font designed for Optical Character Recognition. The **A** stands for **American**.
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is the full form ASCII?</text>
+        <topic>Data Representation – Codes</topic>
+        <option>American Standard Code For Information Interchange</option>
+        <option>America Standard Code For Input Interchange</option>
+        <option>Asian Standard Code For Information Interchange</option>
+        <option>African Standard Code For Information Interchange</option>
+        <answer>American Standard Code For Information Interchange</answer>
+        <explanation>
+**ASCII** stands for  
+\[
+\text{American Standard Code for Information Interchange}
+\]  
+It is a character encoding standard for text in computers and communication equipment.
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>The speed of a supercomputer is generally measured in ______.</text>
+        <topic>Supercomputers – Performance</topic>
+        <option>FLOPS</option>
+        <option>TLOPS</option>
+        <option>BLOPS</option>
+        <option>ELOPS</option>
+        <answer>FLOPS</answer>
+        <explanation>
+Supercomputer performance is typically measured in **FLOPS**:  
+\[
+\text{Floating Point Operations Per Second}
+\]  
+At large scale we use GFLOPS, TFLOPS, PFLOPS, etc.
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Excel 2019, which of the following shortcut keys is used to expand or collapse the ribbon?</text>
+        <topic>MS Excel – Interface</topic>
+        <option>Ctrl + F2</option>
+        <option>Shift + F2</option>
+        <option>Ctrl + F1</option>
+        <option>Shift + F1</option>
+        <answer>Ctrl + F1</answer>
+        <explanation>
+In MS Excel, \(\text{Ctrl} + \text{F1}\) toggles the **Ribbon** visibility: it expands or collapses the ribbon area.
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>______ is a software for hardware.</text>
+        <topic>System Software – Firmware</topic>
+        <option>Firmware</option>
+        <option>Spyware</option>
+        <option>Middleware</option>
+        <option>Adware</option>
+        <answer>Firmware</answer>
+        <explanation>
+**Firmware** is software that is embedded into hardware devices (like BIOS, router software). It provides low-level control for the device’s hardware.
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Graphics software, education software, entertainment software are the commonly known ______ software.</text>
+        <topic>Types of Software – Application</topic>
+        <option>operating</option>
+        <option>communication</option>
+        <option>application</option>
+        <option>system</option>
+        <answer>application</answer>
+        <explanation>
+Graphics, education, and entertainment programs are **application software**, designed to help users perform specific tasks.
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS PowerPoint 2019, format background can be found under which tab?</text>
+        <topic>MS PowerPoint – Design</topic>
+        <option>Transition</option>
+        <option>View</option>
+        <option>Design</option>
+        <option>Animations</option>
+        <answer>Design</answer>
+        <explanation>
+In PowerPoint 2019, the **Format Background** option is accessed from the **Design** tab (usually on the right side as “Format Background”).
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>________ is a temporary storage location on your computer that holds the information that you copied.</text>
+        <topic>Basic Concepts – Clipboard</topic>
+        <option>Sticky notes</option>
+        <option>Word art</option>
+        <option>Clipboard</option>
+        <option>Clipart</option>
+        <answer>Clipboard</answer>
+        <explanation>
+When you use **Copy** or **Cut**, the data is stored in a temporary area called the **Clipboard** until it is pasted or replaced.
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Excel 2019, COUPDAYS is a /an ______ function.</text>
+        <topic>MS Excel – Function Types</topic>
+        <option>engineering</option>
+        <option>database</option>
+        <option>financial</option>
+        <option>Statistical</option>
+        <answer>financial</answer>
+        <explanation>
+In Excel, **COUPDAYS** returns the number of days in the coupon period of a security (bond). It is related to securities and interest payments, so it is categorized as a **Financial** function.
+        </explanation>
+    </question>
 
 
 
