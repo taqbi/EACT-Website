@@ -5,7 +5,7 @@ body, html {
     box-sizing: border-box;
     overflow-x: hidden;  /* Prevents horizontal scroll due to overflow */
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(135deg, #f5f7fa 0%, #e9ecf2 100%);
+    background: linear-gradient(135deg, #f5f7fa 0%, #dbe7ff 100%);
     background-color: #f0f2f5; /* A soft, neutral background */
     display: flex;
     flex-direction: column;
@@ -303,6 +303,47 @@ body::after {
 }
 
 
+.donate-card{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 28px;
+
+  background: rgb(255, 255, 255);
+  backdrop-filter: blur(12px);
+  border-radius: 20px;
+  border:1px solid rgb(0, 76, 255);
+
+  box-shadow: 0 12px 28px rgba(0,0,0,0.08);
+  text-align:center;
+}
+
+.donate-card h2{
+  margin-bottom:15px;
+  font-size:1rem;
+  color:#1f2937;
+}
+
+.donate-card p{
+  margin:6px 0;
+  font-size:1rem;
+  color:#000000;
+}
+
+.qr-container{
+  margin-top:18px;
+}
+
+.qr-container img{
+  height:150px;
+  width:150px;
+  border-radius:12px;
+  border:1px solid #d1d5db;
+}
+
+
+
+
+
 
 .typing-animation-section {
     text-align: center;
@@ -358,7 +399,7 @@ body::after {
 .popular-playlist-section,
 .testimonial-section {
     background-color: #ffffff;
-    border: 1px solid #e0e7ef;
+   border:1px solid rgb(0, 76, 255);
     border-radius: 16px;
     padding: 24px;
     box-shadow: 0 8px 32px rgba(0, 30, 80, 0.12);
@@ -435,7 +476,7 @@ body::after {
 .job-card {
     background-color: white;
     padding: 0px;
-    border: 1px solid #1f2a44;
+    border:1px solid rgb(0, 76, 255);
     border-radius: 8px;
     width: 100%;
     max-width: 300px;
@@ -463,7 +504,7 @@ body::after {
 {
     background-color: white;
     padding: 1%;
-    border: 1px solid #1f2a44;
+    border:1px solid rgb(0, 76, 255);
     border-radius: 8px;
     width: 100%;
     max-width: 97%;
@@ -572,8 +613,6 @@ body::after {
 }
 
 
-
-
 .popular-video-section {
     width: 100%;
     overflow: hidden; /* Hides scrollbar from the container */
@@ -643,7 +682,7 @@ body::after {
     backdrop-filter: blur(10px);
     border-radius: 10px;
     padding: 10px;
-    border: 1px solid rgba(223, 227, 235, 0.5);
+    border:1px solid rgb(0, 76, 255);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     flex: 0 0 280px; /* Flex-shrink, flex-grow, flex-basis. Prevents shrinking and sets a fixed width */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -693,7 +732,7 @@ body::after {
     backdrop-filter: blur(10px);
     border-radius: 10px;
     padding: 10px;
-    border: 1px solid rgba(223, 227, 235, 0.5);
+    border:1px solid rgb(0, 76, 255);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     flex: 0 0 280px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -744,35 +783,25 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Testimonial Section */
 .testimonial-section {
-    padding: 24px;
     position: relative;
-}
-
-.testimonial-grid h2 { 
-    background: linear-gradient(  #434d85,  #001685 );
-    color: white;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .testimonial-grid {
     display: flex;
     overflow-x: auto;
     gap: 20px;
-    padding: 1% 2%;
+    padding: 20px 2%; /* Add vertical padding */
     width: 100%;
     box-sizing: border-box;
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
     scroll-behavior: smooth;
 }
-
-
 .testimonial-grid::-webkit-scrollbar {
     display: none; /* Hide scrollbar for Chrome, Safari and Opera */
 }
 
 .testimonial-item {
-    background-color: #fff;
     background-color: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(10px);
     padding: 20px;
@@ -789,49 +818,88 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     height: 100px;
     border-radius: 50%;
     margin-bottom: 10px;
+    border: 3px solid #4f46e5; /* Add a colored border to the image */
 }
 
 .testimonial-item h4 {
     font-size: 18px;
     font-weight: bold;
-}
-
-.guidance-form-section {
-    margin: 40px auto 0 auto; /* Keep auto for horizontal centering, add top margin */
-    padding: 20px;
-    border: 2px solid #1f2a44;
-    border-radius: 10px;
-    max-width: 600px; /* It won't get wider than 600px */
-    width: 70%; /* It will take 90% of the screen width on smaller screens */
-    background-color: #f9f9ff;
-}
-
-.guidance-form-section h2 {
-    text-align: center;
     color: #1f2a44;
 }
 
+.guidance-form-section {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    /* Glassy white card */
+    padding: 10px 10px 10px 10px;
+    margin-top: 40px;
+    border-radius: 18px;
+    background: rgb(255, 255, 255);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+     border:1px solid rgb(0, 76, 255);
+
+    /* soft elevation */
+    box-shadow: 0 12px 30px rgba(0,0,0,0.07);
+}
+
+.guidance-form-section h2 {
+    margin-bottom: 20px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #1f2937;
+}
+.guidance-form-section label {
+    display: block;
+    text-align: left;
+    margin-bottom: 1px;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #374151;
+}
 .guidance-form-section textarea {
-    width: 95%;
-    padding: 10px;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
+    width: 100%;
+    padding-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+    border: 1px solid rgba(180, 180, 180, .55);
+    background: rgba(255,255,255,0.6);
 
+    font-size: 1rem;
+    color: #111827;
+
+    backdrop-filter: blur(6px);
+    transition: .25s box-shadow, .25s border-color;
+}
+.guidance-form-section textarea:focus {
+    outline: none;
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99,102,241,0.25);
+}
 .guidance-form-section input[type="submit"] {
-    background-color: #1f2a44;
-    color: white;
+    margin-top: 12px;
+
+    padding: 12px 28px;
+    border-radius: 999px;
     border: none;
-    padding: 10px 20px;
-    font-size: 1rem;
+
+    background: linear-gradient(135deg,#6366f1,#4338ca);
+    color: #fff;
+    font-weight: 600;
     cursor: pointer;
-    border-radius: 5px;
+    font-size: 1rem;
+
+    transition: .25s ease;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.13);
+}
+.guidance-form-section input[type="submit"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(0,0,0,.15);
 }
 
-.guidance-form-section input[type="submit"]:hover {
-    background-color: #1f2a44;
-}
 
 
 
@@ -1231,13 +1299,14 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     display: flex;
     flex-direction: column;
     gap: 30px; /* Space between courses and videos section */
+    
 }
 
 /* Container for the single course view content */
 .single-course-content {
     background-color: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border:1px solid rgb(0, 76, 255);
     border-radius: 16px;
     padding: 24px;
     width: 100%;
@@ -1267,7 +1336,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Button to go back from single course view to list view */
 #back-to-courses-btn {
-    background-color: #6c757d;
+    background-color: #001084;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -1286,30 +1355,31 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     /* Clean, professional card style */
     background-color: #ffffff; /* Solid white background */
     border-radius: 16px;
-    border: 1px solid #e9ecef; /* Soft border */
+    border:1px solid rgb(0, 76, 255);
     padding: 24px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Softer, more subtle shadow */
     display: flex; flex-direction: column; /* Use flexbox to push button to the bottom */
     position: relative; /* Required for positioning the ribbon */
     transition: transform 0.3s ease, box-shadow 0.3s ease, cursor 0.3s ease;
     cursor: pointer;
+    margin-bottom: 20px;
 }
 
 .course:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 25px rgba(0, 30, 80, 0.1); /* Subtle lift effect */
+    box-shadow: 0 8px 25px rgba(0, 89, 242, 0.1); /* Subtle lift effect */
 }
 
 /* Ribbon Tag for "FREE" courses */
 .free-ribbon {
     position: absolute;
-    top: 15px;
-    left: -8px;
-    background: linear-gradient(135deg, #34d399, #059669);
-    color: white;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(135deg, #227900, #66ff00);
+    color: rgb(255, 255, 255);
     padding: 6px 20px;
     font-weight: bold;
-    font-size: 0.85em;
+    font-size: 0.9em;
     border-radius: 20px 0 20px 0;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
     text-transform: uppercase;
@@ -1395,7 +1465,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     /* Badge-like styling for stats */
     padding: 8px 15px; /* Larger padding for a bolder look */
     border-radius: 15px;
-    font-size: 0.85em;
+    font-size: 0.99em;
     font-weight: 600;
     display: flex;
     align-items: center;
@@ -1476,7 +1546,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 }
 
 .playlist-title-header {
-    background: linear-gradient(135deg, #4f46e5, #3730a3); /* Bluish Indigo Gradient */
+   background: linear-gradient(135deg, #4a5a8a, #1f2a44);
     color: white;
     padding: 12px 15px;
     font-weight: bold;
