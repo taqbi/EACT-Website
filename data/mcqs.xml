@@ -5878,6 +5878,18 @@ d. True: standard derivative definition:
       Opposite direction multiply by −1 → \( \frac{-1}{\sqrt{2}}(1,-1) \).
     </explanation>
   </question>
+
+
+
+
+
+
+
+
+
+
+
+ <!-- JKSSB FAA Acoountancy MCQs Start Here --> 
 <question category="practice" exam="JKSSB FAA" subject="Accountancy">
 <text>Which one of the following is not a main objective of accounting?</text>
 <option>Systematic recording of transactions</option>
@@ -12750,7 +12762,914 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
         <answer>Sale of fixed asset</answer>
         <explanation>Profit on sale of fixed assets or other capital items (not normal trading stock) is capital profit, distinct from revenue profit arising from normal business operations.</explanation>
     </question>
+  
+  <!-- JKSSB FAA Acoountancy MCQs End Here -->
+
+ 
+
+
+
+
+
+
+
+
+<!-- JKSSB Junior Assistant PYQs Start Here -->
+ <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Article from the given alternatives. Jasprit Bumrah has taken _____________ cricketing world by storm.</text>
+        <topic>Articles</topic>
+        <option>the</option>
+        <option>a</option>
+        <option>No Article</option>
+        <option>an</option>
+        <answer>the</answer>
+        <explanation>We say &quot;the cricketing world&quot; because we are talking about a specific, commonly known world of cricket; therefore the definite article &quot;the&quot; is required.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+         <text><![CDATA[
+        <p><b>Directions: Read the short passage below and answer the questions that follow.</b></p>
+
+        <p>A medal can lose its lustre but the athlete’s sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an Olympian and it is an eternal stamp that sportspersons obsess about. The quadrennial congregation of the world’s finest athletes is set to begin, after a year’s delay imposed by the pandemic’s shadow. ‘Tokyo 2020’, as the Olympics is branded for the latest edition, will commence at Japan’s capital on Friday while COVID-19 protocols are in place. Tokyo and Fukushima will conduct events without spectators while a limited number may be allowed at stadiums in the Miyagi and Shizuoka regions.</p>
+
+        <p>Local approval ratings for the Games now stand at the half-way mark, a considerable improvement especially after an 83% opposition as recent as May. Having previously hosted the Olympics in 1964, Tokyo’s second dalliance with the premier championship has been extremely tough. Even two days ago, there were whispers of cancellation as the coronavirus graph linked to the Games and to Japan revealed an upward climb. Within the Olympics Village ecosystem of athletes, coaches, officials and volunteers, around 70 have tested positive for COVID-19. But the Olympics harking back to its Athens roots in 1896, is expected to hold steady till its conclusion on August 8.</p>
+
+        <p>When it comes to winning at the Olympics, the United States of America, Russia, China, European nations and Australia have excelled. India meanwhile has a mere 28 medals to show despite turning up since 1900. India’s initial share came from hockey but even that tap has run dry since the gold at Moscow in 1980. India’s tilts in the Olympics have often been infused with pathos. Legendary runners Milkha Singh and P.T. Usha missing their bronzes in 1960 and 1984 respectively, still test the tear glands of die-hard fans.</p>
+
+        <p>However, over the years and through diverse sports such as shooting, tennis, badminton, wrestling, boxing and weight-lifting, India has earned a few medals. This time around, the pursuit to better the best-ever tally of six, gained at London in 2012, continues. Headlined by P.V. Sindhu and Mary Kom besides the talent in shooting, weightlifting and wrestling, India hopes to push its Olympic envelope further while the yearning for excellence in hockey lingers. A sobering truth is that the demographic-dividend of being the second most populous nation, does not really convert into a better yield in multi-event jousts. It is a pointer to the need to improve sports infrastructure as India at the Olympics remains a work in progress. An Olympic medal offers sporting nirvana; even tennis legend Serbian Novak Djokovic is not immune to its charm.</p>
+
+        <p><b>What is the meaning of the highlighted word "excelled"?</b></p>
+    ]]></text>
+        <topic>Reading Comprehension</topic>
+        <option>Go beyond</option>
+        <option>Improve upon</option>
+        <option>Go one better</option>
+        <option>Be master of</option>
+        <answer>Be master of</answer>
+        <explanation>To &quot;excel&quot; means to be extremely good at something or to be very proficient, i.e. to &quot;be master of&quot; that activity.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Who missed the chance of bronze medal in 1960?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Abhinav Bindra</option>
+        <option>Milkha Singh</option>
+        <option>P.T. Usha</option>
+        <option>Anju Bobby George</option>
+        <answer>Milkha Singh</answer>
+        <explanation>The passage states that legendary runner Milkha Singh missed his bronze at the 1960 Olympics, which still pains fans.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>In which of the following places events will be conducted without spectators?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Tokyo</option>
+        <option>Fukushima</option>
+        <option>Miyagi</option>
+        <option>Both A and B</option>
+        <answer>Both A and B</answer>
+        <explanation>The passage clearly mentions that Tokyo and Fukushima will conduct events without spectators, while limited spectators may be allowed elsewhere.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>India's initial share of medals was from which sport?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Swimming</option>
+        <option>Hockey</option>
+        <option>Gymnastics</option>
+        <option>Boxing</option>
+        <answer>Hockey</answer>
+        <explanation>The passage notes that India’s initial share of Olympic medals came from hockey before the gold run dried up after 1980.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Read the following statements and pick the correct option. Statement A: India meanwhile has a mere 42 medals to show despite turning up since 1900. Statement B: A sobering truth is that the demographic-dividend of being the second most populous nation, does not really convert into a better yield in multi-event jousts.</text>
+        <topic>Reading Comprehension - Inference</topic>
+        <option>Statement A is true and Statement B is false</option>
+        <option>Statement A is false and Statement B is true</option>
+        <option>Both the Statements are True</option>
+        <option>Both the Statements are False</option>
+        <answer>Statement A is false and Statement B is true</answer>
+        <explanation>The passage says India has &quot;a mere 28 medals&quot;, not 42, so Statement A is false. It repeats almost exactly the idea in Statement B, so Statement B is true.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>From the given alternatives, choose the one that best expresses the meaning of the given idiom/phrase: &quot;Goose egg&quot;.</text>
+        <topic>Idioms</topic>
+        <option>An informal visit</option>
+        <option>Nothing</option>
+        <option>Unable to produce movement</option>
+        <option>To disturb or irritate someone</option>
+        <answer>Nothing</answer>
+        <explanation>&quot;Goose egg&quot; is a slang expression for the score zero; it figuratively means &quot;nothing&quot; gained or achieved.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options. P: predecessors, have been poor Q: Kohli’s men, like many of their R: travellers beyond the subcontinent S: the sobering truth is that</text>
+        <topic>Sentence Arrangement</topic>
+        <option>SQRP</option>
+        <option>SQPR</option>
+        <option>PQRS</option>
+        <option>PSRQ</option>
+        <answer>SQPR</answer>
+        <explanation>The logical sentence is &quot;the sobering truth is that Kohli’s men, like many of their predecessors, have been poor travellers beyond the subcontinent&quot;; this corresponds to S-Q-P-R.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the word which expresses nearly the opposite meaning of the given word &quot;URBANE&quot;.</text>
+        <topic>Antonyms</topic>
+        <option>Poised</option>
+        <option>Affable</option>
+        <option>Uncultured</option>
+        <option>Elegant</option>
+        <answer>Uncultured</answer>
+        <explanation>&quot;Urbane&quot; means polished, refined, and socially sophisticated. Its opposite is &quot;uncultured&quot;, meaning lacking refinement or good manners.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Preposition from the given alternatives. The way to a man's heart is __________ his stomach.</text>
+        <topic>Prepositions - Idiomatic Use</topic>
+        <option>along</option>
+        <option>after</option>
+        <option>through</option>
+        <option>for</option>
+        <answer>through</answer>
+        <explanation>The idiom is &quot;the way to a man’s heart is through his stomach&quot;, so the only correct preposition is &quot;through&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options. P. to the people of all ages from Q. physical activities along with the proper R. any background and abilities S. nutrition are really very beneficial</text>
+        <topic>Sentence Arrangement</topic>
+        <option>QSRP</option>
+        <option>SQRP</option>
+        <option>SQPR</option>
+        <option>QSPR</option>
+        <answer>QSPR</answer>
+        <explanation>The correct sentence is &quot;physical activities along with the proper nutrition are really very beneficial to the people of all ages from any background and abilities&quot;, which matches Q-S-P-R order.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Prepositions from the given alternatives. The International Union ________ the Conservation of Nature identifies the endangered species every year.</text>
+        <topic>Prepositions - Fixed Phrases</topic>
+        <option>over</option>
+        <option>for</option>
+        <option>from</option>
+        <option>at</option>
+        <answer>for</answer>
+        <explanation>The correct name is &quot;International Union for the Conservation of Nature&quot;, so the appropriate preposition is &quot;for&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>From the given alternatives, choose the one that best expresses the meaning of the given idiom/phrase: &quot;Chew the fat&quot;.</text>
+        <topic>Idioms</topic>
+        <option>Go through an emotional breakdown</option>
+        <option>A long and informal conversation with someone</option>
+        <option>To reveal something</option>
+        <option>A short sleep, usually during the day</option>
+        <answer>A long and informal conversation with someone</answer>
+        <explanation>&quot;Chew the fat&quot; means to chat idly or engage in a long, informal conversation, often about unimportant matters.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable pair of words. People have ______________ to this town from all over Europe; later on, they may decide to __________ elsewhere.</text>
+        <topic>Confusing Words - Immigrate/Emigrate</topic>
+        <option>immigrated, emigrate</option>
+        <option>emigrated, immigrate</option>
+        <option>hung, hanged</option>
+        <option>hanged, hung</option>
+        <answer>immigrated, emigrate</answer>
+        <explanation>People &quot;immigrate&quot; to a place (move into it) and may later &quot;emigrate&quot; (move out) elsewhere, so the correct pair is &quot;immigrated, emigrate&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>B. I have a male Persian cat as my pet. His name is Bingo. My parents gifted him on my fifteenth birthday. They said Bingo was ___(A)____ now and that I had to take care of him. Even though they said that, they still act like Bingo is ____(B)____ too, which sometimes irritates me. Choose the correct pronoun for blank (A).</text>
+        <topic>Pronouns - Possessive</topic>
+        <option>theirs</option>
+        <option>mine</option>
+        <option>hers</option>
+        <option>his</option>
+        <answer>theirs</answer>
+        <explanation>The parents are speaking: they say &quot;Bingo was theirs now&quot;, indicating joint ownership by &quot;they&quot;, so the correct possessive pronoun is &quot;theirs&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>A. I have a male Persian cat as my pet. His name is Bingo. My parents gifted him on my fifteenth birthday. They said Bingo was ____(A)____ now and that I had to take care of him. Even though they said that, they still act like Bingo is ____(B)____ too, which sometimes irritates me. Choose the correct pronoun for blank (B).</text>
+        <topic>Pronouns - Possessive</topic>
+        <option>hers</option>
+        <option>me's</option>
+        <option>my</option>
+        <option>mine</option>
+        <answer>mine</answer>
+        <explanation>The narrator is saying that the parents still act as if Bingo is theirs too, i.e. also &quot;mine&quot;. After &quot;is&quot; we use the independent possessive pronoun &quot;mine&quot; (not &quot;my&quot;).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct active/passive voice for the given sentence: &quot;Didn’t you call him?&quot;</text>
+        <topic>Voice (Active/Passive)</topic>
+        <option>Wasn’t he call by you?</option>
+        <option>Was he called by you?</option>
+        <option>Wasn’t he called you?</option>
+        <option>Wasn’t he called by you?</option>
+        <answer>Wasn’t he called by you?</answer>
+        <explanation>The correct passive interrogative keeps the auxiliary &quot;did&quot; in its past form as &quot;was&quot; and uses past participle: &quot;Wasn’t he called by you?&quot;</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the word which best expresses the similar meaning of the given word &quot;AMBULATE&quot;.</text>
+        <topic>Synonyms</topic>
+        <option>Secret</option>
+        <option>Step</option>
+        <option>Lucid</option>
+        <option>Crush</option>
+        <answer>Step</answer>
+        <explanation>&quot;Ambulate&quot; means to walk or move from place to place on foot; &quot;step&quot; is the closest in meaning among the given options.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Article from the given alternatives. In April last year, ________ Reserve Bank of India issued a directive on Storage of Payment System Data.</text>
+        <topic>Articles</topic>
+        <option>an</option>
+        <option>a</option>
+        <option>the</option>
+        <option>No Article</option>
+        <answer>the</answer>
+        <explanation>We use &quot;the&quot; before &quot;Reserve Bank of India&quot; because it is a unique, specific institution, hence the definite article is required.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct active/passive voice for the given sentence: &quot;The rains swept away the vehicles.&quot;</text>
+        <topic>Voice (Active/Passive)</topic>
+        <option>The vehicles were swept away by the rains.</option>
+        <option>The vehicles are swept away by the rains.</option>
+        <option>The vehicles have been swept away by the rains.</option>
+        <option>The vehicles had swept away by the rains.</option>
+        <answer>The vehicles were swept away by the rains.</answer>
+        <explanation>The active past simple &quot;swept away&quot; becomes passive past simple &quot;were swept away&quot; with the subject &quot;the vehicles&quot; taking the place of the object.</explanation>
+    </question>
+ <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>What is the another name of 'Regur Soil’ in India?</text>
+        <topic>Indian Geography - Soils</topic>
+        <option>Laterite Soil</option>
+        <option>Black Cotton Soil</option>
+        <option>Arid Soil</option>
+        <option>Saline Soil</option>
+        <answer>Black Cotton Soil</answer>
+        <explanation>Regur soil is the local name for black cotton soil in India. It is clayey, moisture-retentive and ideal for growing cotton, hence the name.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Who led the Champaran Satyagraha?</text>
+        <topic>Indian Freedom Struggle</topic>
+        <option>E V Ramsamy</option>
+        <option>Mahatma Gandhi</option>
+        <option>Anandha Charlu</option>
+        <option>Bal Gangadhar Tilak</option>
+        <answer>Mahatma Gandhi</answer>
+        <explanation>The Champaran Satyagraha of 1917, against indigo planters in Bihar, was led by Mahatma Gandhi and is regarded as his first successful mass movement in India.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>KVIC and BSF launched a Project 'BOLD' on 4th July from a tribal village in ____________.</text>
+        <topic>Indian Current Affairs</topic>
+        <option>Bhopal, Madhya Pradesh</option>
+        <option>Mysore, Karnataka</option>
+        <option>Udaipur, Rajasthan</option>
+        <option>Puri, Odisha</option>
+        <answer>Udaipur, Rajasthan</answer>
+        <explanation>Project BOLD (Bamboo Oasis on Lands in Drought) was launched by KVIC along with BSF from a tribal village near Udaipur in Rajasthan to promote bamboo-based green cover.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which of the following districts is a part of Kashmir valley?</text>
+        <topic>J&amp;K Geography - Districts</topic>
+        <option>Reasi</option>
+        <option>Baramulla</option>
+        <option>Poonch</option>
+        <option>Kathua</option>
+        <answer>Baramulla</answer>
+        <explanation>Baramulla lies in the Kashmir Valley region, whereas Reasi, Poonch and Kathua are in the Jammu division.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Nathpa Jhakri Dam was constructed across the ________ River.</text>
+        <topic>Indian Geography - Rivers and Dams</topic>
+        <option>Chenab</option>
+        <option>Cauvery</option>
+        <option>Satluj</option>
+        <option>Tapti</option>
+        <answer>Satluj</answer>
+        <explanation>The Nathpa Jhakri hydroelectric project is built on the Satluj River in Himachal Pradesh, one of India’s major hydropower projects.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which among the following forts was built by Gen. Zorawar Singh, the famous Dogra General?</text>
+        <topic>J&amp;K History - Dogra Rule</topic>
+        <option>Devalgarh</option>
+        <option>Pithoragarh</option>
+        <option>Banasur Garh</option>
+        <option>Bhim Garh</option>
+        <answer>Bhim Garh</answer>
+        <explanation>General Zorawar Singh, the noted Dogra commander, built the Bhim Garh Fort (also known as Bhimgarh Fort) in Reasi region of Jammu.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who was the Governor of Kashmir during the Mughal rule in 1663 A.D?</text>
+        <topic>J&amp;K History - Mughal Period</topic>
+        <option>Muhammad bin Qasim</option>
+        <option>Mian Hathu</option>
+        <option>Muhi-ud-Din Muhammad</option>
+        <option>Islam Khan</option>
+        <answer>Islam Khan</answer>
+        <explanation>During the Mughal rule in the mid-17th century, Islam Khan served as the Governor of Kashmir, including the year 1663 A.D.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who among the following wrote that Poonch was famous for graphics, fine tea (Musloom) and good horses?</text>
+        <topic>J&amp;K History - Foreign Travellers</topic>
+        <option>Albaurni</option>
+        <option>Al-Masudi</option>
+        <option>Ibn Battuta</option>
+        <option>Huien Tsang</option>
+        <answer>Huien Tsang</answer>
+        <explanation>Chinese traveller Xuanzang (Huien Tsang) wrote about the region’s specialties, including references to the Poonch area and its products.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>______________ is one of the lakes which is surrounded by Pir Panjal and Zanskar Ranges of Jammu &amp; Kashmir.</text>
+        <topic>J&amp;K Geography - Lakes</topic>
+        <option>Tulian Lake</option>
+        <option>Vihar Lake</option>
+        <option>Tansa Lake</option>
+        <option>Lonar Lake</option>
+        <answer>Tulian Lake</answer>
+        <explanation>Tulian Lake is a high-altitude lake in Jammu &amp; Kashmir located between the Pir Panjal and Zanskar ranges, near Pahalgam.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>In which year Kashmir came under the control of Ahmed Shah Durrani, the Afghan who invaded India many times?</text>
+        <topic>J&amp;K History - Afghan Rule</topic>
+        <option>1799</option>
+        <option>1857</option>
+        <option>1757</option>
+        <option>1947</option>
+        <answer>1757</answer>
+        <explanation>Ahmed Shah Durrani brought Kashmir under Afghan control in 1757, marking the beginning of Afghan rule in the region.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>In which of the following districts of Jammu and Kashmir is the Kokernag meteorological observatory located?</text>
+        <topic>J&amp;K Geography</topic>
+        <option>Doda</option>
+        <option>Kathua</option>
+        <option>Baramulla</option>
+        <option>Anantnag</option>
+        <answer>Anantnag</answer>
+        <explanation>The Kokernag meteorological observatory is situated in Anantnag district in the Kashmir Valley.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>The holy place of Baba Dhansar is located at ___________ district of Jammu &amp; Kashmir.</text>
+        <topic>J&amp;K Culture &amp; Pilgrimage</topic>
+        <option>Doda</option>
+        <option>Reasi</option>
+        <option>Ramban</option>
+        <option>Shopian</option>
+        <answer>Reasi</answer>
+        <explanation>Baba Dhansar is a famous religious site near Karua Jheel in Reasi district of Jammu &amp; Kashmir.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Where did the Moplah uprising take place in India?</text>
+        <topic>Indian History - Peasant Movements</topic>
+        <option>Bombay</option>
+        <option>Calcutta</option>
+        <option>Kerala</option>
+        <option>Pune</option>
+        <answer>Kerala</answer>
+        <explanation>The Moplah (Mappila) uprising was a peasant revolt by Muslim tenants that took place in the Malabar region of Kerala in 1921.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which Revolution was associated with the 'Operation Flood' launched in January 1970?</text>
+        <topic>Indian Economy - Revolutions</topic>
+        <option>Golden Revolution</option>
+        <option>Green Revolution</option>
+        <option>Brown Revolution</option>
+        <option>White Revolution</option>
+        <answer>White Revolution</answer>
+        <explanation>Operation Flood, launched by NDDB in 1970, is associated with the White Revolution, which dramatically increased milk production in India.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who was the last Muslim Ruler of the Rajouri region?</text>
+        <topic>J&amp;K History - Rajouri</topic>
+        <option>Raja Anwar Khan</option>
+        <option>Raja SardarKhan</option>
+        <option>Raja Raheem Ullah Khan</option>
+        <option>Noor-Ud-Din</option>
+        <answer>Raja Raheem Ullah Khan</answer>
+        <explanation>Raja Raheem Ullah Khan is regarded as the last Muslim ruler of the Rajouri region before Dogra control.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which of the following dams is built on the river Krishna?</text>
+        <topic>Indian Geography - Dams</topic>
+        <option>Kohira Dam</option>
+        <option>Hidkal Dam</option>
+        <option>Nagarjuna Sagar Dam</option>
+        <option>Salal Dam</option>
+        <answer>Nagarjuna Sagar Dam</answer>
+        <explanation>Nagarjuna Sagar Dam is constructed across the Krishna River on the border of Telangana and Andhra Pradesh.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Who has been recently appointed as 23rd Chief Minister of Karnataka?</text>
+        <topic>Indian Polity - States &amp; CMs</topic>
+        <option>D. V. Sadananda Gowda</option>
+        <option>B. S. Yediyurappa</option>
+        <option>Basavaraj S Bommai</option>
+        <option>Jagadish Shettar</option>
+        <answer>Basavaraj S Bommai</answer>
+        <explanation>Basavaraj S. Bommai took over as the 23rd Chief Minister of Karnataka after B. S. Yediyurappa stepped down.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Deendayal Port Trust is located in which of the following states in India?</text>
+        <topic>Indian Geography - Ports</topic>
+        <option>Gujarat</option>
+        <option>Odisha</option>
+        <option>Maharashtra</option>
+        <option>Andhra Pradesh</option>
+        <answer>Gujarat</answer>
+        <explanation>Deendayal Port (formerly Kandla Port) is situated in the state of Gujarat on the western coast of India.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which Indian territory is known as Khapa - chan (the land of snow)?</text>
+        <topic>J&amp;K Geography - Nicknames</topic>
+        <option>Ladakh</option>
+        <option>Gangtok</option>
+        <option>Dehradun</option>
+        <option>Shimla</option>
+        <answer>Ladakh</answer>
+        <explanation>Ladakh, with its high altitude and long snowbound winters, is popularly known as Khapa-chan, meaning &quot;land of snow&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Who appointed Mian Hathu as the Governor of Rajouri?</text>
+        <topic>J&amp;K History - Dogra Administration</topic>
+        <option>Raja Aggar Ullah Khan</option>
+        <option>Maharaja Gulab Singh</option>
+        <option>Maharaja Ranjit Singh</option>
+        <option>Raja Raheem Ullah Khan</option>
+        <answer>Maharaja Gulab Singh</answer>
+        <explanation>Mian Hathu was appointed as the Governor of Rajouri by Maharaja Gulab Singh, the first Dogra ruler of Jammu &amp; Kashmir.</explanation>
+    </question>
+
+
+
+   <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>A man walks 9km towards West; takes a right turn and walks 12km. He then walks 7km towards the starting point and reached the destination. How far is he from the starting position?</text>
+        <topic>Direction Sense</topic>
+        <option>13km</option>
+        <option>8km</option>
+        <option>10km</option>
+        <option>12km</option>
+        <answer>8km</answer>
+        <explanation>Place the starting point at \((0,0)\). He goes 9 km West to \((-9,0)\). Facing West, a right turn means North, so 12 km to \((-9,12)\). The vector from \((-9,12)\) to \((0,0)\) is \((9,-12)\), whose length is \(\sqrt{9^2+12^2} = 15\). Moving 7 km towards the start means moving \(\frac{7}{15}\) of that vector: displacement \(\left(\frac{21}{5}, -\frac{28}{5}\right) = (4.2,-5.6)\). Final point is \((-9+4.2, 12-5.6) = (-4.8, 6.4)\). Distance from origin is \(\sqrt{4.8^2 + 6.4^2} = \sqrt{64} = 8\) km.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Average of 11 consecutive numbers is 572. If the average of first 5 numbers is 569 and the average of last 5 numbers is 575, find the middle number.</text>
+        <topic>Averages</topic>
+        <option>572</option>
+        <option>552</option>
+        <option>582</option>
+        <option>562</option>
+        <answer>572</answer>
+        <explanation>Let the 11 numbers be \(a_1,\dots,a_{11}\). Total sum \(= 11 \times 572 = 6292\). Sum of first 5 \(= 5 \times 569 = 2845\). Sum of last 5 \(= 5 \times 575 = 2875\). If the middle term is \(m\), then \(2845 + m + 2875 = 6292 \Rightarrow 5720 + m = 6292 \Rightarrow m = 572\).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>The average weight of a team of 65 employees is 87 kg. If the weight of the manager is included, then the average increases by 1 kg. Find the weight of the manager.</text>
+        <topic>Averages</topic>
+        <option>155</option>
+        <option>153</option>
+        <option>151</option>
+        <option>157</option>
+        <answer>153</answer>
+        <explanation>Total weight of 65 employees \(= 65 \times 87 = 5655\) kg. With the manager, 66 people have average \(88\), so total \(= 66 \times 88 = 5808\) kg. Manager&apos;s weight \(= 5808 - 5655 = 153\) kg.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>In this question, a statement is given followed by two conclusions. Statement: Every Australian speaks 6 languages. Antony speaks 6 languages. Conclusions: i) Antony is an Australian ii) People from other countries do not speak 6 languages. Which conclusion(s) follow?</text>
+        <topic>Logical Reasoning - Syllogism</topic>
+        <option>Only conclusion i follows</option>
+        <option>Only conclusion ii follows</option>
+        <option>Either i or ii follows</option>
+        <option>Neither i nor ii follows</option>
+        <answer>Neither i nor ii follows</answer>
+        <explanation>The statement says &quot;if Australian, then speaks 6 languages&quot;, not the converse. From &quot;Antony speaks 6 languages&quot; we cannot conclude he is Australian. It also says nothing about people from other countries, so we cannot conclude that they do not speak 6 languages. Hence neither conclusion follows.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Find the remainder, when 643307 is divided by 9.</text>
+        <topic>Number System - Divisibility</topic>
+        <option>6</option>
+        <option>7</option>
+        <option>5</option>
+        <option>8</option>
+        <answer>5</answer>
+        <explanation>For division by 9, sum of digits is used: \(6+4+3+3+0+7 = 23\). Now \(23 \div 9\) leaves remainder \(5\). So 643307 leaves remainder \(5\) when divided by 9.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>What is the difference between a discount of 20% on Rs.25000 and two successive discounts of 14% and 6% on the same amount?</text>
+        <topic>Profit and Loss - Discount</topic>
+        <option>210</option>
+        <option>190</option>
+        <option>180</option>
+        <option>200</option>
+        <answer>210</answer>
+        <explanation>Single 20% discount on 25,000 is \(0.20 \times 25000 = 5000\). Successive discounts factor: \((1-0.14)(1-0.06) = 0.86 \times 0.94 = 0.8084\). So net discount \(= 1 - 0.8084 = 0.1916\), and amount of discount \(= 0.1916 \times 25000 = 4790\). Difference \(= 5000 - 4790 = 210\).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>By selling a table for Rs.3840, a shopkeeper loses 20%. At what price should he sell it to gain 20%?</text>
+        <topic>Profit and Loss</topic>
+        <option>5960</option>
+        <option>5760</option>
+        <option>5860</option>
+        <option>6060</option>
+        <answer>5760</answer>
+        <explanation>Let cost price be \(C\). Given \(3840 = 0.8C \Rightarrow C = \frac{3840}{0.8} = 4800\). For 20% gain, required selling price \(= 1.2C = 1.2 \times 4800 = 5760\).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Select the appropriate set of sequence of mathematical operators to replace all * sign in the following equation &amp; hence to balance it: 60 * 5 * 4 * 48</text>
+        <topic>Equations with Operators</topic>
+        <option>+ × =</option>
+        <option>× + =</option>
+        <option>- × =</option>
+        <option>÷ × =</option>
+        <answer>÷ × =</answer>
+        <explanation>Try \(60 \div 5 \times 4 = 48\). Compute: \(60 \div 5 = 12\) and \(12 \times 4 = 48\), which matches the right side. So the sequence is &quot;÷ × =&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Read the following: A@B means A is the husband of B; A#B means A is the wife of B; A$B means A is the son of B; A%B means A is the daughter of B. In the equation P$Q#R$S, how is S related to P, if S is a female?</text>
+        <topic>Blood Relations</topic>
+        <option>Grandmother</option>
+        <option>Mother</option>
+        <option>Grandfather</option>
+        <option>Mother-in-law</option>
+        <answer>Grandmother</answer>
+        <explanation>\(P\$Q\): P is son of Q. \(Q\#R\): Q is wife of R, so R is P&apos;s father. \(R\$S\): R is son of S, so S is R&apos;s mother. Since S is female and P is R&apos;s son, S is the grandmother of P.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Philip is twice good a workman as Roy and together they can finish the same work in 50 days. In how many days will Philip alone finish the same work?</text>
+        <topic>Time and Work</topic>
+        <option>80</option>
+        <option>75</option>
+        <option>85</option>
+        <option>90</option>
+        <answer>75</answer>
+        <explanation>Let Roy&apos;s work rate be \(r\), then Philip&apos;s rate is \(2r\). Together: \(r + 2r = 3r\). They finish in 50 days, so daily work \(3r = \frac{1}{50} \Rightarrow r = \frac{1}{150}\). Philip&apos;s rate \(= \frac{2}{150} = \frac{1}{75}\). Thus Philip alone needs 75 days.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>After 6205 liters of petrol was poured into the tank, it was still 15% empty. What is the total capacity of the tank?</text>
+        <topic>Percentages</topic>
+        <option>7000</option>
+        <option>7100</option>
+        <option>7300</option>
+        <option>7200</option>
+        <answer>7300</answer>
+        <explanation>If the tank is 15% empty, it is 85% full. So \(6205\) L represents \(85\%\) of capacity. Total capacity \(= \frac{6205}{0.85} = 7300\) liters (since \(6205 = 85 \times 73\)).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Which of the following is divisible by 6?</text>
+        <topic>Number System - Divisibility</topic>
+        <option>642361</option>
+        <option>642366</option>
+        <option>642365</option>
+        <option>642363</option>
+        <answer>642366</answer>
+        <explanation>A number divisible by 6 must be divisible by 2 and 3. Among the options only 642366 is even. Sum of its digits \(= 6+4+2+3+6+6 = 27\), which is divisible by 3. Therefore 642366 is divisible by 6.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Find the missing term in the series: 62, 72, 92, ? , 162, 212</text>
+        <topic>Number Series</topic>
+        <option>122</option>
+        <option>132</option>
+        <option>128</option>
+        <option>120</option>
+        <answer>122</answer>
+        <explanation>Look at differences: \(72-62 = 10\), \(92-72 = 20\). If the pattern is increasing differences of 10: \(10,20,30,40,50\), then the next term is \(92+30 = 122\), then \(122+40 = 162\) and \(162+50 = 212\). So the missing term is 122.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Three numbers are in the ratio 19:21:23. If the difference between thrice the third number and the sum of first and second number is 841, find the difference between the first and third number.</text>
+        <topic>Ratio and Proportion</topic>
+        <option>116</option>
+        <option>136</option>
+        <option>126</option>
+        <option>146</option>
+        <answer>116</answer>
+        <explanation>Let the numbers be \(19k, 21k, 23k\). Given: \(3 \times 23k - (19k + 21k) = 841 \Rightarrow 69k - 40k = 841 \Rightarrow 29k = 841 \Rightarrow k = 29\). Difference between first and third \(= (23-19)k = 4 \times 29 = 116\).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>Find the next term in the given series: EXCOMMUNICATION, OMMUNICAT, XCOMMUNICATIO, MMUNICA, COMMUNICATI, ?</text>
+        <topic>Alphabet / Word Series</topic>
+        <option>MUNICAT</option>
+        <option>MUNIC</option>
+        <option>OMMUNIC</option>
+        <option>OMMUNI</option>
+        <answer>MUNIC</answer>
+        <explanation>The series consists of substrings of the word &quot;EXCOMMUNICATION&quot; obtained by systematically removing letters from the start and/or end, preserving order. After &quot;COMMUNICATI&quot; (central part), the next shorter central chunk that continues this pattern is &quot;MUNIC&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>If A got 624 marks and B got 468 marks, then what percent of A&apos;s marks is B&apos;s marks?</text>
+        <topic>Percentages</topic>
+        <option>70</option>
+        <option>75</option>
+        <option>60</option>
+        <option>65</option>
+        <answer>75</answer>
+        <explanation>Required percentage \(= \frac{468}{624} \times 100\%\). Simplify: divide numerator and denominator by 12 to get \(\frac{39}{52}\). Further divide by 13: \(\frac{3}{4} = 0.75\). So percentage \(= 75\%\).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>How many seconds will a train take to cover a distance of 5015 meters, if it runs at a speed of 306 km/hr?</text>
+        <topic>Speed, Time and Distance</topic>
+        <option>55</option>
+        <option>61</option>
+        <option>57</option>
+        <option>59</option>
+        <answer>59</answer>
+        <explanation>Convert speed: \(306 \text{ km/hr} = \frac{306000}{3600} \text{ m/s} = 85 \text{ m/s}\). Time \(= \frac{\text{distance}}{\text{speed}} = \frac{5015}{85}\) s. Since \(85 \times 59 = 5015\), time \(= 59\) seconds.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>In a certain code language: &quot;learn life lessons&quot; is written as &quot;lo ma ku&quot;, &quot;lessons are good&quot; as &quot;pi rh ma&quot;, and &quot;lead good life&quot; as &quot;lo ja pi&quot;. What does the code &quot;ja&quot; stand for?</text>
+        <topic>Coding - Decoding</topic>
+        <option>lessons</option>
+        <option>life</option>
+        <option>lead</option>
+        <option>good</option>
+        <answer>lead</answer>
+        <explanation>Common word in first two sentences is &quot;lessons&quot; with common code &quot;ma&quot;. Common word in first and third is &quot;life&quot; with code &quot;lo&quot;. Common word in second and third is &quot;good&quot; with code &quot;pi&quot;. The leftover code in the third sentence is &quot;ja&quot;, so it stands for &quot;lead&quot;.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>A and B can do a piece of work in 28 days, while C and D can do the same work in 84 days. In how many days will A, B, C and D do it together?</text>
+        <topic>Time and Work</topic>
+        <option>17</option>
+        <option>19</option>
+        <option>21</option>
+        <option>15</option>
+        <answer>21</answer>
+        <explanation>Work rate of (A+B) \(= \frac{1}{28}\) per day. Work rate of (C+D) \(= \frac{1}{84}\) per day. Combined rate \(= \frac{1}{28} + \frac{1}{84} = \frac{3+1}{84} = \frac{4}{84} = \frac{1}{21}\). So all four together finish in 21 days.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+        <text>The salary of A, B and C are in the ratio of 5:6:11. If their total salary is Rs.2706, find the salary received by C.</text>
+        <topic>Ratio and Proportion</topic>
+        <option>1153</option>
+        <option>1353</option>
+        <option>1053</option>
+        <option>1253</option>
+        <answer>1353</answer>
+        <explanation>Sum of ratio parts \(= 5+6+11 = 22\). One part \(= \frac{2706}{22} = 123\). Salary of C \(= 11 \times 123 = 1353\) rupees.</explanation>
+    </question>
+
+     <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>WWW stands for_________.</text>
+        <topic>Internet Basics</topic>
+        <option>Web Server WideWeb</option>
+        <option>World Wide Web</option>
+        <option>Web Pages Wide Web</option>
+        <option>Weber's Webily Web</option>
+        <answer>World Wide Web</answer>
+        <explanation>WWW is the abbreviation for “World Wide Web”, the system of interlinked hypertext documents accessible via the internet using web browsers.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Word 2019, which of the following shortcut keys is used to move the cursor up by one paragraph?</text>
+        <topic>MS Word Shortcuts</topic>
+        <option>Shift + Up arrow key</option>
+        <option>Ctrl + Left arrow key</option>
+        <option>Ctrl + Up arrow key</option>
+        <option>Shift + Left arrow key</option>
+        <answer>Ctrl + Up arrow key</answer>
+        <explanation>In MS Word, <code>Ctrl + Up Arrow</code> moves the cursor up to the previous paragraph boundary, effectively jumping one paragraph up.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>What is the full form of GUI?</text>
+        <topic>Basic Computer Terms</topic>
+        <option>General User Interface</option>
+        <option>Graph user interface</option>
+        <option>Graphical User Interface</option>
+        <option>Graphics User Interpret</option>
+        <answer>Graphical User Interface</answer>
+        <explanation>GUI stands for “Graphical User Interface”, which allows users to interact with electronic devices using graphical elements like windows, icons, and menus instead of text commands.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Where can you find the "Word Count" option in MS Word?</text>
+        <topic>MS Word Ribbon</topic>
+        <option>Review-Word Count</option>
+        <option>View-Word Count</option>
+        <option>Reference-Word Count</option>
+        <option>Insert-Word Count</option>
+        <answer>Review-Word Count</answer>
+        <explanation>In MS Word, the Word Count tool is located under the <b>Review</b> tab in the Proofing group as “Word Count”.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which of the following is a file extension in MS PowerPoint 2019?</text>
+        <topic>File Extensions</topic>
+        <option>.pja</option>
+        <option>.ppa</option>
+        <option>.poa</option>
+        <option>.pna</option>
+        <answer>.ppa</answer>
+        <explanation>PowerPoint 2019 primarily uses <code>.pptx</code> for presentations, but <code>.ppa</code> is a valid PowerPoint add-in file extension; the other extensions listed are not standard PowerPoint types.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Processor Management, Memory Management, File Management, Device Management are some of the functions of ____________.</text>
+        <topic>Operating System Concepts</topic>
+        <option>Dreamweaver</option>
+        <option>Adobe PageMaker</option>
+        <option>OS</option>
+        <option>PhotoShop</option>
+        <answer>OS</answer>
+        <explanation>An Operating System (OS) manages CPU (processor), memory, files, and hardware devices, acting as an interface between user and hardware.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>The Internet works by using a protocol called __________.</text>
+        <topic>Networking Protocols</topic>
+        <option>TCP/IP</option>
+        <option>URL</option>
+        <option>XML</option>
+        <option>HTML</option>
+        <answer>TCP/IP</answer>
+        <explanation>The internet runs on the TCP/IP protocol suite (Transmission Control Protocol / Internet Protocol), which defines how data is packetized, addressed, transmitted and routed.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Control unit and arithmetic logic unit of a computer system are together known as ______.</text>
+        <topic>Computer Architecture</topic>
+        <option>Input Unit</option>
+        <option>Memory Unit</option>
+        <option>Output Unit</option>
+        <option>Central Processing Unit</option>
+        <answer>Central Processing Unit</answer>
+        <explanation>The Control Unit and Arithmetic Logic Unit (ALU) together form the CPU, which is the brain of the computer that executes instructions and performs calculations.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>A/ An ______ device is an electromechanical device that accepts data from outside world and translate them into a form computer can interpret.</text>
+        <topic>Input &amp; Output Devices</topic>
+        <option>Output</option>
+        <option>Input</option>
+        <option>Accessing</option>
+        <option>Controlling</option>
+        <answer>Input</answer>
+        <explanation>An input device takes data from the external world and converts it into signals that a computer can process (for example, keyboard, mouse, scanner).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Memories that are Read only are _____________.</text>
+        <topic>Computer Memory</topic>
+        <option>SDD</option>
+        <option>HDD</option>
+        <option>ROM</option>
+        <option>RAM</option>
+        <answer>ROM</answer>
+        <explanation>ROM (Read Only Memory) stores data permanently and typically cannot be modified during normal operation, unlike RAM which is read-write and volatile.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Excel 2019, sort &amp; filter can be found under which of the following tabs?</text>
+        <topic>MS Excel Ribbon</topic>
+        <option>Insert</option>
+        <option>Formulas</option>
+        <option>View</option>
+        <option>Data</option>
+        <answer>Data</answer>
+        <explanation>The Sort &amp; Filter tools in Excel are located under the <b>Data</b> tab, as they are data-management operations.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS PowerPoint 2019, which of the following shortcut keys is used to open the replace dialog box?</text>
+        <topic>MS PowerPoint Shortcuts</topic>
+        <option>Ctrl + R</option>
+        <option>Shift + H</option>
+        <option>Ctrl + H</option>
+        <option>Shift + R</option>
+        <answer>Ctrl + H</answer>
+        <explanation>In PowerPoint (and other Office apps), <code>Ctrl + H</code> opens the Find and Replace dialog with the Replace tab active.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>______ provides backup power and saves the computer from turning off when there is a power failure.</text>
+        <topic>Hardware Components</topic>
+        <option>USB</option>
+        <option>UPS</option>
+        <option>PPT</option>
+        <option>SMPS</option>
+        <answer>UPS</answer>
+        <explanation>A UPS (Uninterruptible Power Supply) gives temporary backup power when mains fails, preventing sudden shutdown and possible data loss.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Which is a single-user Operating System?</text>
+        <topic>Operating System Types</topic>
+        <option>Windows 2007</option>
+        <option>Windows 2010</option>
+        <option>Windows 2000</option>
+        <option>MS-DOS</option>
+        <answer>MS-DOS</answer>
+        <explanation>MS-DOS is a classic single-user, single-tasking operating system, unlike modern Windows versions which support multi-user and multitasking environments.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>The device that can act as both input and output device is:</text>
+        <topic>Input &amp; Output Devices</topic>
+        <option>Touch screen</option>
+        <option>Keyboard</option>
+        <option>Printer</option>
+        <option>Mouse</option>
+        <answer>Touch screen</answer>
+        <explanation>A touch screen displays output visually and also accepts input via touch, so it functions as both an input and an output device.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>Primary storage is also known as ______.</text>
+        <topic>Computer Memory</topic>
+        <option>Auxiliary storage</option>
+        <option>Prime memory</option>
+        <option>Main memory</option>
+        <option>Secondary memory</option>
+        <answer>Main memory</answer>
+        <explanation>Primary storage refers to main memory (RAM and sometimes cache), which the CPU can access directly and quickly, unlike secondary storage such as hard disks.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>_________ is the process of finding and resolving bugs during the software development process.</text>
+        <topic>Software Concepts</topic>
+        <option>Debugging</option>
+        <option>Running</option>
+        <option>Simulating</option>
+        <option>Flowcharting</option>
+        <answer>Debugging</answer>
+        <explanation>Debugging is the systematic process of identifying, analyzing, and fixing defects (bugs) in software code.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>__________ is an impact printer.</text>
+        <topic>Printers</topic>
+        <option>Inkjet printer</option>
+        <option>Laser printer</option>
+        <option>Dot-matrix printer</option>
+        <option>Toy printer</option>
+        <answer>Dot-matrix printer</answer>
+        <explanation>An impact printer physically strikes an inked ribbon to produce characters on paper. Dot-matrix printers use this mechanism, unlike inkjet or laser printers which are non-impact.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>The time required by the read/write head of magnetic tape to position itself on the specified track/cylinder is called ______.</text>
+        <topic>Secondary Storage Performance</topic>
+        <option>transfer time</option>
+        <option>latency time</option>
+        <option>seek time</option>
+        <option>delay time</option>
+        <answer>seek time</answer>
+        <explanation>Seek time is the time taken by the read/write head to move to the correct track or cylinder where data is stored, before reading or writing can begin.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+        <text>In MS Excel, intersection of a row and a column is called _________.</text>
+        <topic>MS Excel Basics</topic>
+        <option>WordArt</option>
+        <option>Hyperlink</option>
+        <option>Cell</option>
+        <option>Formula</option>
+        <answer>Cell</answer>
+        <explanation>In a spreadsheet, the box at the intersection of a row and a column is called a cell (for example, A1, B3).</explanation>
+    </question>
     
+
+
 
 
 
