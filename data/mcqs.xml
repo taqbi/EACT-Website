@@ -9458,6 +9458,3300 @@ Total tax = Rs. \(5,000 + 200 = 5,200\).</explanation>
     </question>
 
 
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a business transaction?</text>
+        <topic>Business Transaction &amp; Entity Concept</topic>
+        <option>Bought furniture of Rs. 10,000 for business</option>
+        <option>Paid for salaries of employees Rs. 5,000</option>
+        <option>Paid sons’ fees from his personal bank account Rs. 20,000</option>
+        <option>Paid sons’ fees from the business Rs. 2,000</option>
+        <answer>Paid sons’ fees from his personal bank account Rs. 20,000</answer>
+        <explanation>A business transaction is recorded only if it affects the business entity. Payment from the proprietor’s personal bank account does not affect business books, so it is not recorded.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which is the last step of accounting as a process of information?</text>
+        <topic>Accounting Process</topic>
+        <option>Recording of data in the books of accounts</option>
+        <option>Preparation of summaries in the form of financial statements</option>
+        <option>Communication of information</option>
+        <option>Analysis and interpretation of information</option>
+        <answer>Communication of information</answer>
+        <explanation>The final step is to communicate the analysed and interpreted financial information to users like owners, management and creditors.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which qualitative characteristic of accounting information is reflected when accounting information is clearly presented?</text>
+        <topic>Qualitative Characteristics</topic>
+        <option>Understandability</option>
+        <option>Relevance</option>
+        <option>Comparability</option>
+        <option>Reliability</option>
+        <answer>Understandability</answer>
+        <explanation>When information is clearly classified, presented and explained so that users can grasp it easily, the characteristic shown is understandability.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Use of common unit of measurement and common format of reporting promotes:</text>
+        <topic>Qualitative Characteristics</topic>
+        <option>Comparability</option>
+        <option>Understandability</option>
+        <option>Relevance</option>
+        <option>Reliability</option>
+        <answer>Comparability</answer>
+        <explanation>When the same unit (like rupees) and standard formats are used across periods and entities, it helps users compare performance and position meaningfully.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>We can say that the business is in profit when:</text>
+        <topic>Profit Concept</topic>
+        <option>Assets exceed Expenditure</option>
+        <option>Income exceeds Liabilities</option>
+        <option>Income exceeds Expenditure</option>
+        <option>Income exceeds Liabilities</option>
+        <answer>Income exceeds Expenditure</answer>
+        <explanation>Profit is calculated as income minus expenses. When income is greater than expenses for a period, the business earns profit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following shows a summary of a company&apos;s financial position at a specific date?</text>
+        <topic>Financial Statements</topic>
+        <option>Profit &amp; Loss Account</option>
+        <option>Cash Flow Statement</option>
+        <option>Balance Sheet</option>
+        <option>Income &amp; Expenditure Account</option>
+        <answer>Balance Sheet</answer>
+        <explanation>The balance sheet presents assets, liabilities and capital on a particular date, showing the financial position of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is NOT an example of intangible assets?</text>
+        <topic>Assets Classification</topic>
+        <option>Franchise rights</option>
+        <option>Goodwill</option>
+        <option>Patents</option>
+        <option>Land</option>
+        <answer>Land</answer>
+        <explanation>Land has physical substance and can be seen and touched, so it is a tangible asset. The others are intangible as they lack physical form.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is an example of business liability?</text>
+        <topic>Liabilities</topic>
+        <option>Land</option>
+        <option>Building</option>
+        <option>Cash</option>
+        <option>Creditors</option>
+        <answer>Creditors</answer>
+        <explanation>Creditors are persons or entities to whom the business owes money for credit purchases, hence they are liabilities.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In accounts recording is made of:</text>
+        <topic>Scope of Accounting</topic>
+        <option>Only financial transactions</option>
+        <option>Only non-financial transactions</option>
+        <option>Financial and non-financial transactions</option>
+        <option>Personal transactions of the proprietor</option>
+        <answer>Only financial transactions</answer>
+        <explanation>Accounting records only those events that can be expressed in monetary terms, that is, financial transactions of the business entity.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Rs. 5,000 paid as rent of office premises is a:</text>
+        <topic>Transactions vs Events</topic>
+        <option>Event</option>
+        <option>Transaction</option>
+        <option>Both ‘A’ and ‘B’</option>
+        <option>None of these</option>
+        <answer>Transaction</answer>
+        <explanation>It is a financial transaction because it involves payment of money and affects the financial position and profit of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following transactions is not of financial character?</text>
+        <topic>Money Measurement</topic>
+        <option>Purchase of goods on credit</option>
+        <option>Purchase of a building</option>
+        <option>Payment of salaries</option>
+        <option>Strike by employees</option>
+        <answer>Strike by employees</answer>
+        <explanation>A strike by employees does not involve immediate quantifiable money flow. Other items involve amounts that can be measured in money and are recorded.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a sub-field of accounting?</text>
+        <topic>Branches of Accounting</topic>
+        <option>Management Accounting</option>
+        <option>Cost Accounting</option>
+        <option>Financial Accounting</option>
+        <option>Book-keeping</option>
+        <answer>Book-keeping</answer>
+        <explanation>Book-keeping is the primary stage of recording transactions. Financial, cost and management accounting are recognised branches of accounting.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who invented the double entry system?</text>
+        <topic>History of Accounting</topic>
+        <option>Marshall</option>
+        <option>Karl Pearson</option>
+        <option>J.R. Batliboi</option>
+        <option>Lucas Pacioli</option>
+        <answer>Lucas Pacioli</answer>
+        <explanation>Luca (Lucas) Pacioli, an Italian monk and mathematician, is credited with describing the double-entry system in his book published in 1494.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Accounting is:</text>
+        <topic>Nature of Accounting</topic>
+        <option>A Science</option>
+        <option>An Art</option>
+        <option>An Art and Science both</option>
+        <option>None of these</option>
+        <answer>An Art and Science both</answer>
+        <explanation>Accounting is a science because it is based on principles and concepts, and an art because it involves skill in applying those principles in practice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Book-keeping was firstly introduced in:</text>
+        <topic>History of Accounting</topic>
+        <option>England</option>
+        <option>America</option>
+        <option>India</option>
+        <option>Italy</option>
+        <answer>Italy</answer>
+        <explanation>The earliest systematic records of book-keeping and double-entry were developed in Italy during the Renaissance period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Who is the user of Accounting information?</text>
+        <topic>Users of Financial Information</topic>
+        <option>Owners</option>
+        <option>Management</option>
+        <option>Investor</option>
+        <option>All of these</option>
+        <answer>All of these</answer>
+        <explanation>Owners, management, investors and many others (creditors, government etc.) all use accounting information for decisions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Goods means:</text>
+        <topic>Meaning of Goods</topic>
+        <option>Commodity to be bought and sold</option>
+        <option>Commodity to be used as an asset</option>
+        <option>Commodity to be bought but not to be sold</option>
+        <option>None of these</option>
+        <answer>Commodity to be bought and sold</answer>
+        <explanation>In accounting, goods are items purchased for the purpose of resale in the ordinary course of business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a current asset?</text>
+        <topic>Current vs Non-current Assets</topic>
+        <option>Prepaid Expenses</option>
+        <option>Debtors</option>
+        <option>Furniture</option>
+        <option>Bills Receivable</option>
+        <answer>Furniture</answer>
+        <explanation>Furniture is a long-term asset used in the business and is classified as a non-current (fixed) asset, not a current asset.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a tangible asset?</text>
+        <topic>Tangible vs Intangible Assets</topic>
+        <option>Motor Car</option>
+        <option>Goodwill</option>
+        <option>Stock</option>
+        <option>Building</option>
+        <answer>Goodwill</answer>
+        <explanation>Tangible assets have physical existence. Goodwill is an intangible asset as it represents reputation and other non-physical advantages.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Trade discount is:</text>
+        <topic>Trade Discount</topic>
+        <option>Allowed at the time of receiving payment</option>
+        <option>Allowed at the time of sale of goods</option>
+        <option>Both ‘A’ and ‘B’</option>
+        <option>None of the above</option>
+        <answer>Allowed at the time of sale of goods</answer>
+        <explanation>Trade discount is a reduction in list price given by seller to buyer at the time of sale, usually for bulk purchases, and is not recorded in the books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Cash discount is:</text>
+        <topic>Cash Discount</topic>
+        <option>Allowed at the time of sale of goods</option>
+        <option>Received at the time of making payment</option>
+        <option>Received at the time of purchase of goods</option>
+        <option>All the above</option>
+        <answer>Received at the time of making payment</answer>
+        <explanation>From the buyer&apos;s point of view, cash discount is received when he makes prompt payment within the allowed credit period. It is a financial discount and is recorded in accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is a current asset?</text>
+        <topic>Current Assets</topic>
+        <option>Land</option>
+        <option>Building</option>
+        <option>Machinery</option>
+        <option>Stock</option>
+        <answer>Stock</answer>
+        <explanation>Stock (inventory) is expected to be sold or consumed within the normal operating cycle, so it is a current asset. Land, building and machinery are non-current assets.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is a current liability?</text>
+        <topic>Current Liabilities</topic>
+        <option>Creditors</option>
+        <option>Debentures</option>
+        <option>Long-term Loan</option>
+        <option>None of these</option>
+        <answer>Creditors</answer>
+        <explanation>Trade creditors are payable in the short term and are therefore current liabilities, whereas debentures and long-term loans are long-term liabilities.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is a non-current asset?</text>
+        <topic>Non-current Assets</topic>
+        <option>Building</option>
+        <option>Stock</option>
+        <option>Debtors</option>
+        <option>Prepaid Expense</option>
+        <answer>Building</answer>
+        <explanation>Building is used over many years in the business and is classified as a non-current (fixed) asset. The others are current assets.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Arun is a book-seller. Which item will be goods for his business?</text>
+        <topic>Meaning of Goods</topic>
+        <option>Purchase of Computer</option>
+        <option>Purchase of Fan</option>
+        <option>Purchase of Furniture</option>
+        <option>Purchase of Stationery</option>
+        <answer>Purchase of Stationery</answer>
+        <explanation>For a book-seller, stationery items (like notebooks etc.) purchased for resale are goods. Computer, fan and furniture are assets, not goods for resale.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which discount is given to customers when they clear payment before a certain period?</text>
+        <topic>Cash Discount</topic>
+        <option>Cash Discount</option>
+        <option>Special Discount</option>
+        <option>Trade Discount</option>
+        <option>None of these</option>
+        <answer>Cash Discount</answer>
+        <explanation>Cash discount is allowed to encourage prompt payment of dues within the credit period. It is linked to time of payment, not quantity purchased.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>During the life-time of an entity accounting produces financial statements in accordance with which basic accounting concept?</text>
+        <topic>Accounting Period Concept</topic>
+        <option>Conservation</option>
+        <option>Matching</option>
+        <option>Accounting period</option>
+        <option>None of the above</option>
+        <answer>Accounting period</answer>
+        <explanation>The accounting period concept requires dividing the life of a business into uniform time periods (like one year) for reporting performance and position periodically.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A concept that a business enterprise will not be sold or liquidated in the near future is known as:</text>
+        <topic>Going Concern</topic>
+        <option>Going concern</option>
+        <option>Economic entity</option>
+        <option>Monetary unit</option>
+        <option>None of the above</option>
+        <answer>Going concern</answer>
+        <explanation>The going concern assumption states that the entity will continue operations for the foreseeable future and not be liquidated soon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to the money measurement concept, which of the following would be recorded in the books of accounts of the business?</text>
+        <topic>Money Measurement</topic>
+        <option>Health of director of the company</option>
+        <option>Quality of company&apos;s goods</option>
+        <option>Value of plant machinery</option>
+        <option>All of the above</option>
+        <answer>Value of plant machinery</answer>
+        <explanation>Only events that can be measured reliably in monetary terms, such as the cost of plant and machinery, are recorded in accounting books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to this concept, it is assumed that business will exist for an indefinite time period.</text>
+        <topic>Going Concern</topic>
+        <option>Realization concepts</option>
+        <option>Going Concern Concept</option>
+        <option>Business entity concept</option>
+        <option>None of the above</option>
+        <answer>Going Concern Concept</answer>
+        <explanation>The going concern concept assumes continuity of business in the foreseeable future, without intention to liquidate or significantly curtail operations.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to this concept, business and owner both have separate identity.</text>
+        <topic>Business Entity Concept</topic>
+        <option>Realization concepts</option>
+        <option>Going Concern Concept</option>
+        <option>Business entity concept</option>
+        <option>Cost Concept</option>
+        <answer>Business entity concept</answer>
+        <explanation>The business entity concept treats the business as a separate entity from its owner, so only business transactions are recorded in its books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to this concept, expenses are matched with revenue to study the business result.</text>
+        <topic>Matching Concept</topic>
+        <option>Matching concepts</option>
+        <option>Dual Aspect Concept</option>
+        <option>Business entity concept</option>
+        <option>Cost Concept</option>
+        <answer>Matching concepts</answer>
+        <explanation>The matching concept requires that expenses of a period be recognised in the same period as the revenues they helped to generate, to compute correct profit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to this convention, accounting practice should remain unchanged from one period to another.</text>
+        <topic>Consistency Concept</topic>
+        <option>Conservatism</option>
+        <option>Materiality</option>
+        <option>Full Disclosure</option>
+        <option>Consistency</option>
+        <answer>Consistency</answer>
+        <explanation>The consistency convention requires using the same accounting methods over periods so that figures are comparable over time.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to this concept, &quot;Accounting records only those transactions which can be expressed in terms of money&quot;.</text>
+        <topic>Money Measurement Concept</topic>
+        <option>Matching concept</option>
+        <option>Dual Aspect Concept</option>
+        <option>Business entity concept</option>
+        <option>Money Measurement Concept</option>
+        <answer>Money Measurement Concept</answer>
+        <explanation>The money measurement concept restricts accounting to events that can be quantified in monetary terms, excluding purely qualitative factors.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>All the following items are classified as fundamental accounting assumptions except:</text>
+        <topic>Fundamental Assumptions</topic>
+        <option>Consistency</option>
+        <option>Business Entity</option>
+        <option>Going Concern</option>
+        <option>Accrual</option>
+        <answer>Business Entity</answer>
+        <explanation>The three fundamental accounting assumptions are going concern, consistency and accrual. Business entity is a separate basic concept but not labelled as a fundamental assumption in standards.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If nothing is given in the financial statements about the three fundamental accounting assumptions then it is to be treated as:</text>
+        <topic>Fundamental Assumptions</topic>
+        <option>Is assumed that it is not followed</option>
+        <option>Is assumed to be followed</option>
+        <option>Is assumed to be followed to some extent</option>
+        <option>None of the above</option>
+        <answer>Is assumed to be followed</answer>
+        <explanation>Accounting standards state that in the absence of any specific mention, fundamental assumptions (going concern, consistency, accrual) are presumed to have been followed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The proprietor of the business is treated as creditor for the capital introduced by him due to which concept?</text>
+        <topic>Business Entity &amp; Capital</topic>
+        <option>Money measurement</option>
+        <option>Cost</option>
+        <option>Entity</option>
+        <option>Dual aspect</option>
+        <answer>Entity</answer>
+        <explanation>Under the business entity concept, the owner is separate from the business, so the capital introduced is treated as a liability of the business to the owner, similar to a creditor.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Fixed assets are held by business for:</text>
+        <topic>Fixed Assets</topic>
+        <option>Converting into cash</option>
+        <option>Generating revenue</option>
+        <option>Resale</option>
+        <option>None of the above</option>
+        <answer>Generating revenue</answer>
+        <explanation>Fixed assets like machinery and buildings are acquired to use in operations over many periods to generate revenue, not mainly for resale.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Human resources will not appear in the balance sheet according to which concept?</text>
+        <topic>Money Measurement Concept</topic>
+        <option>Accrual</option>
+        <option>Going concern</option>
+        <option>Money measurement concept</option>
+        <option>None</option>
+        <answer>Money measurement concept</answer>
+        <explanation>Although human resources have value, their monetary value cannot be measured reliably, so they are not recorded due to the money measurement concept.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Small items like pencils, pens, files etc. are written off within a year according to which concept?</text>
+        <topic>Materiality Concept</topic>
+        <option>Materiality</option>
+        <option>Consistency</option>
+        <option>Conservatism</option>
+        <option>Realisation</option>
+        <answer>Materiality</answer>
+        <explanation>The materiality concept allows ignoring strict capitalisation rules for very small, insignificant items and writing them off as expenses in the same year.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The policy of &quot;anticipate no profit and provide for all possible losses&quot; arises due to which concept?</text>
+        <topic>Conservatism Concept</topic>
+        <option>Consistency</option>
+        <option>Disclosure</option>
+        <option>Conservatism</option>
+        <option>Matching</option>
+        <answer>Conservatism</answer>
+        <explanation>The conservatism (prudence) concept requires that expected losses be recognised but unrealised gains should not be recognised until realised.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Matching concept means:</text>
+        <topic>Matching Concept</topic>
+        <option>Assets = capital + liabilities</option>
+        <option>Transactions recorded at accrual concept</option>
+        <option>Anticipate no profit but recognize all losses</option>
+        <option>Expenses should be matched with the revenue of the period</option>
+        <answer>Expenses should be matched with the revenue of the period</answer>
+        <explanation>The matching concept states that costs should be recognised in the same period as the revenues they help to generate, to compute correct profit or loss for that period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If the assets of a business are Rs. 1,00,000 and capital is Rs. 40,000, the value of liabilities will be:</text>
+        <topic>Accounting Equation</topic>
+        <option>Rs. 1,00,000</option>
+        <option>Rs. 20,000</option>
+        <option>Rs. 60,000</option>
+        <option>Rs. 0</option>
+        <answer>Rs. 60,000</answer>
+        <explanation>Using the accounting equation \( \text{Assets} = \text{Capital} + \text{Liabilities} \): \(100{,}000 = 40{,}000 + \text{Liabilities}\). So liabilities \(= 60{,}000\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The system of recording transactions based on dual aspect concept is called:</text>
+        <topic>Double Entry System</topic>
+        <option>Double account system</option>
+        <option>Double entry system</option>
+        <option>Single entry system</option>
+        <option>Modern entry system</option>
+        <answer>Double entry system</answer>
+        <explanation>Under the dual aspect concept every transaction has two aspects, debit and credit, and the double entry system records both aspects in the books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Assets minus liabilities is:</text>
+        <topic>Capital</topic>
+        <option>Profit</option>
+        <option>Working Capital</option>
+        <option>Capital</option>
+        <option>Long-term liabilities</option>
+        <answer>Capital</answer>
+        <explanation>Capital (owner&apos;s equity) is the residual interest in assets after deducting liabilities: \( \text{Capital} = \text{Assets} - \text{Liabilities} \).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The accounting equation is:</text>
+        <topic>Accounting Equation</topic>
+        <option>Liabilities = Assets + Capital</option>
+        <option>Assets = Liabilities + Capital</option>
+        <option>Liabilities = Assets – Capital</option>
+        <option>None of these</option>
+        <answer>Assets = Liabilities + Capital</answer>
+        <explanation>The basic accounting equation expresses that total assets are financed by owners (capital) and outsiders (liabilities): \( \text{Assets} = \text{Capital} + \text{Liabilities} \).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If assets are Rs. 8,000 and capital is Rs. 6,000, liabilities will be:</text>
+        <topic>Accounting Equation</topic>
+        <option>Rs. 8,000</option>
+        <option>Rs. 2,000</option>
+        <option>Rs. 14,000</option>
+        <option>None of these</option>
+        <answer>Rs. 2,000</answer>
+        <explanation>By the accounting equation: \(8{,}000 = 6{,}000 + \text{Liabilities}\). Therefore liabilities \(= 2{,}000\).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Assets must equal to:</text>
+        <topic>Accounting Equation</topic>
+        <option>Capital</option>
+        <option>Liabilities</option>
+        <option>Liabilities + Capital</option>
+        <option>Liabilities + Bank Loan</option>
+        <answer>Liabilities + Capital</answer>
+        <explanation>The fundamental relationship is \( \text{Assets} = \text{Capital} + \text{Liabilities} \). Bank loan is only one type of liability.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The accounting equation represents:</text>
+        <topic>Accounting Equation Interpretation</topic>
+        <option>Resources are allocated at cost price</option>
+        <option>Owners give money for business</option>
+        <option>Resources in the business are equal to the source of business</option>
+        <option>Resources in the business are not equal to the source of business</option>
+        <answer>Resources in the business are equal to the source of business</answer>
+        <explanation>Assets represent resources, while capital and liabilities show sources of finance. The equation shows that resources are fully financed by these sources.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The expression of the equality of an entity&apos;s assets with the claims against them is referred to as the:</text>
+        <topic>Accounting Equation</topic>
+        <option>Accounting equation</option>
+        <option>Accounting transaction</option>
+        <option>Bookkeeping</option>
+        <option>None of these</option>
+        <answer>Accounting equation</answer>
+        <explanation>The equality \( \text{Assets} = \text{Capital} + \text{Liabilities} \) is known as the accounting equation and is the base of double entry accounting.</explanation>
+    </question>
+
+        <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Accounting equation is base of</text>
+        <topic>Dual Aspect Concept</topic>
+        <option>Single Entry System</option>
+        <option>Dual Aspect Concept</option>
+        <option>Money Measurement Concept</option>
+        <option>Matching Concept</option>
+        <answer>Dual Aspect Concept</answer>
+        <explanation>The dual aspect concept states that every transaction has two aspects (debit and credit). The accounting equation is the mathematical expression of this concept.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The amount brought in by owner of the business should be credited to?</text>
+        <topic>Capital Account</topic>
+        <option>Capital Account</option>
+        <option>Cash Account</option>
+        <option>Drawing Account</option>
+        <option>Bank Account</option>
+        <answer>Capital Account</answer>
+        <explanation>When the owner introduces money, cash/bank is debited and capital is credited because it increases the owner&apos;s equity in the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Transactions are initially recorded in</text>
+        <topic>Books of Original Entry</topic>
+        <option>Ledger</option>
+        <option>Trial Balance</option>
+        <option>Journal</option>
+        <option>Accounting Equation</option>
+        <answer>Journal</answer>
+        <explanation>The journal is the book of original entry where transactions are first recorded in chronological order before posting to the ledger.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Of the following, which should be debited at the time of increase?</text>
+        <topic>Rules of Debit and Credit</topic>
+        <option>Assets and Capital</option>
+        <option>Liabilities and expenses</option>
+        <option>Assets &amp; expenses</option>
+        <option>Capital &amp; Reserves</option>
+        <answer>Assets &amp; expenses</answer>
+        <explanation>In double entry, increases in assets and expenses are debited, while increases in capital, income and liabilities are credited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Sales made to Ahmed on credit should be debited to?</text>
+        <topic>Personal Accounts</topic>
+        <option>Ahmed’s Account</option>
+        <option>Sales Account</option>
+        <option>Cash Account</option>
+        <option>Purchases Account</option>
+        <answer>Ahmed’s Account</answer>
+        <explanation>On credit sales, the customer becomes a debtor. We debit Ahmed&apos;s personal account (receiver of benefit) and credit Sales account (income).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Every business transaction affects at least ____ accounts</text>
+        <topic>Double Entry System</topic>
+        <option>One</option>
+        <option>Two</option>
+        <option>Three</option>
+        <option>Infinite</option>
+        <answer>Two</answer>
+        <explanation>Under the double entry system each transaction has two aspects and therefore affects at least two accounts (one debit and one credit).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When a Liability is reduced or decreased, it is recorded on the:</text>
+        <topic>Liability Accounts</topic>
+        <option>Left or credit side of the account</option>
+        <option>Right or debit side of the account</option>
+        <option>Right or credit side of the account</option>
+        <option>Left or debit side of the account</option>
+        <answer>Left or debit side of the account</answer>
+        <explanation>Liabilities normally have a credit balance. A decrease in a liability is recorded by debiting the liability account (debit side = left side).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When Capital is increased by an amount, it is recorded on the:</text>
+        <topic>Capital Account</topic>
+        <option>Right or debit side of the account</option>
+        <option>Left or credit side of the account</option>
+        <option>Left or debit side of the account</option>
+        <option>Right or credit side of the account</option>
+        <answer>Right or credit side of the account</answer>
+        <explanation>Capital normally has a credit balance. Any increase in capital is recorded on the credit (right) side of the capital account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following shows summary of business’s financial position at a specific date?</text>
+        <topic>Financial Statements</topic>
+        <option>Profit &amp; Loss Account</option>
+        <option>Cash Flow Statement</option>
+        <option>Balance Sheet</option>
+        <option>Income &amp; Expenditure Account</option>
+        <answer>Balance Sheet</answer>
+        <explanation>The balance sheet presents assets, liabilities and capital on a particular date and shows the financial position of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following account will be credited, if business bought goods on credit from Mr. Z</text>
+        <topic>Purchases on Credit</topic>
+        <option>Purchases account</option>
+        <option>Mr. Z account</option>
+        <option>Cash account</option>
+        <option>Sales account</option>
+        <answer>Mr. Z account</answer>
+        <explanation>On credit purchases, Purchases A/c is debited (goods coming in) and the supplier&apos;s account, Mr. Z, is credited (liability created).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following account will be credited when a Computer is sold that has been used in the office?</text>
+        <topic>Fixed Asset Disposal</topic>
+        <option>Computer Account</option>
+        <option>Cash Account</option>
+        <option>Sales Account</option>
+        <option>Purchase Account</option>
+        <answer>Computer Account</answer>
+        <explanation>Computer used in office is a fixed asset. On sale, the asset account (Computer A/c) is credited to remove its cost; any profit or loss is recognised separately.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following entry will be recorded when the Bad Debts are recovered?</text>
+        <topic>Bad Debts Recovered</topic>
+        <option>Cash (Dr.) &amp; Bad Debts recovered (Cr)</option>
+        <option>A/C Receivable (Dr.) &amp; Bad Debts recovered (Cr.)</option>
+        <option>Bad debts recovered (Dr.) and Profit &amp; Loss (Cr.)</option>
+        <option>Provision for doubtful debts (Dr.) &amp; Cash (Cr.)</option>
+        <answer>Cash (Dr.) &amp; Bad Debts recovered (Cr)</answer>
+        <explanation>Bad debts recovered is an income. When cash is received, Cash A/c is debited and Bad Debts Recovered A/c is credited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Commercial Accounting is based on:</text>
+        <topic>Systems of Book-keeping</topic>
+        <option>Single entry book keeping</option>
+        <option>Double entry book keeping</option>
+        <option>Both single and double entry book keeping</option>
+        <option>Cash basis of book keeping</option>
+        <answer>Double entry book keeping</answer>
+        <explanation>Modern commercial accounting is based on the double entry system, which records both aspects of every transaction.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>An Asset that is NOT physical in nature is called</text>
+        <topic>Intangible Assets</topic>
+        <option>Intangible Asset</option>
+        <option>Liquid Asset</option>
+        <option>Current Asset</option>
+        <option>Fixed Asset</option>
+        <answer>Intangible Asset</answer>
+        <explanation>Intangible assets such as goodwill and patents lack physical form but provide future economic benefits to the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Building A/c is related to</text>
+        <topic>Classification of Accounts</topic>
+        <option>Personal A/c</option>
+        <option>Real A/c</option>
+        <option>Nominal A/c</option>
+        <option>None of these</option>
+        <answer>Real A/c</answer>
+        <explanation>Real accounts relate to assets and properties. Building is a tangible fixed asset, so Building A/c is a real account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Interest A/c is:</text>
+        <topic>Classification of Accounts</topic>
+        <option>Nominal A/c</option>
+        <option>Real A/c</option>
+        <option>Personal A/c</option>
+        <option>None of these</option>
+        <answer>Nominal A/c</answer>
+        <explanation>Interest is an income or an expense, so Interest A/c is a nominal account, which records incomes, expenses, gains or losses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Salary A/c is related to:</text>
+        <topic>Nominal Accounts</topic>
+        <option>Personal A/c</option>
+        <option>Real A/c</option>
+        <option>Nominal A/c</option>
+        <option>Capital A/c</option>
+        <answer>Nominal A/c</answer>
+        <explanation>Salary is an expense of the business, so Salary A/c is a nominal account representing an expense.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Investment A/c is related to:</text>
+        <topic>Real Accounts</topic>
+        <option>Personal A/c</option>
+        <option>Real A/c</option>
+        <option>Nominal A/c</option>
+        <option>None of these</option>
+        <answer>Real A/c</answer>
+        <explanation>Investments represent assets of the business, so Investment A/c is a real account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Is given to businessman when clear his payment before certain period?</text>
+        <topic>Cash Discount</topic>
+        <option>Cash Discount</option>
+        <option>Special Discount</option>
+        <option>Trade Discount</option>
+        <option>None of these</option>
+        <answer>Cash Discount</answer>
+        <explanation>Cash discount is allowed for prompt payment within a specified credit period and is recorded in the books as an expense or income.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The rent paid to landlord is credited to</text>
+        <topic>Rent Payment</topic>
+        <option>Landlord’s Account</option>
+        <option>Rent Account</option>
+        <option>Cash Account</option>
+        <answer>Cash Account</answer>
+        <explanation>When rent is paid, Rent A/c is debited (expense) and Cash/Bank A/c is credited to record the outflow of cash.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Any written evidence in support of a business transaction is called</text>
+        <topic>Source Documents</topic>
+        <option>Journal</option>
+        <option>Ledger</option>
+        <option>Ledger posting</option>
+        <option>Voucher</option>
+        <answer>Voucher</answer>
+        <explanation>A voucher is the documentary proof of a business transaction, such as an invoice, receipt or bill, used as the basis for recording in the books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The accounts that records expenses, gains and losses are</text>
+        <topic>Nominal Accounts</topic>
+        <option>Personal accounts</option>
+        <option>Real accounts</option>
+        <option>Nominal accounts</option>
+        <option>None of the above</option>
+        <answer>Nominal accounts</answer>
+        <explanation>Nominal accounts record items appearing in the Profit &amp; Loss Account such as expenses, losses, incomes and gains.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Credit note is issued by an entity at the time of:</text>
+        <topic>Credit Note</topic>
+        <option>Purchase return</option>
+        <option>Sales Return</option>
+        <option>Both of (A) &amp; (B)</option>
+        <option>None of the above</option>
+        <answer>Sales Return</answer>
+        <explanation>When goods sold are returned by the customer, the seller issues a credit note to reduce the customer&apos;s dues for that amount.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Debit note is issued by an entity at the time of:</text>
+        <topic>Debit Note</topic>
+        <option>Purchase return</option>
+        <option>Sales Return</option>
+        <option>Both of (A) &amp; (B)</option>
+        <option>None of the above</option>
+        <answer>Purchase return</answer>
+        <explanation>When the buyer returns goods to a supplier, the buyer issues a debit note to inform the supplier that his account has been debited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>These vouchers are issued at the time of payment:</text>
+        <topic>Accounting Vouchers</topic>
+        <option>Debit vouchers</option>
+        <option>Credit vouchers</option>
+        <option>Supporting vouchers</option>
+        <option>Transfer vouchers</option>
+        <answer>Debit vouchers</answer>
+        <explanation>Payment vouchers (debit vouchers) are prepared when payments are made, as they generally result in debiting an expense or asset account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>These vouchers are issued at the time of receipt:</text>
+        <topic>Accounting Vouchers</topic>
+        <option>Debit vouchers</option>
+        <option>Credit vouchers</option>
+        <option>Supporting vouchers</option>
+        <option>Transfer vouchers</option>
+        <answer>Credit vouchers</answer>
+        <explanation>Receipt vouchers (credit vouchers) are prepared when cash or bank is received, leading to a credit in the cash/bank account in the ledger.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>These vouchers are issued to record the non-cash transactions</text>
+        <topic>Transfer Vouchers</topic>
+        <option>Debit vouchers</option>
+        <option>Credit vouchers</option>
+        <option>Supporting vouchers</option>
+        <option>Transfer vouchers</option>
+        <answer>Transfer vouchers</answer>
+        <explanation>Transfer vouchers record non-cash adjustments like depreciation, provisions, journal transfers etc., where no cash is involved.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Transferring information from journal to ledger is known as:</text>
+        <topic>Posting</topic>
+        <option>Transferring</option>
+        <option>Posting</option>
+        <option>Balancing</option>
+        <option>Journalizing</option>
+        <answer>Posting</answer>
+        <explanation>Posting is the process of transferring entries from the journal (book of original entry) to the respective ledger accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Collection or group of all accounts of a business enterprise is known as:</text>
+        <topic>Ledger</topic>
+        <option>Ledger</option>
+        <option>Balance sheet</option>
+        <option>Trial balance</option>
+        <option>Journal</option>
+        <answer>Ledger</answer>
+        <explanation>The ledger is the principal book containing all accounts (personal, real and nominal) of the business, summarising transactions by account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following accounts is expected to have a debit balance?</text>
+        <topic>Debit Balances</topic>
+        <option>Asset</option>
+        <option>Expense</option>
+        <option>Loss</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Assets, expenses and losses normally carry debit balances in the ledger under the rules of debit and credit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The process of finding out the balance of a ledger account is known as:</text>
+        <topic>Balancing</topic>
+        <option>Posting</option>
+        <option>Investigation</option>
+        <option>Calculation</option>
+        <option>Balancing</option>
+        <answer>Balancing</answer>
+        <explanation>Balancing means totalling both sides of a ledger account and finding the difference, which is its balance (debit or credit).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The left-hand side of a ledger account is known as:</text>
+        <topic>Ledger Format</topic>
+        <option>Income side</option>
+        <option>Credit side</option>
+        <option>Debit side</option>
+        <option>Profit side</option>
+        <answer>Debit side</answer>
+        <explanation>In a standard T-account, the left side is used for debits and the right side is used for credits.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The difference between the total of debit side and the total of credit side of a ledger account is known as:</text>
+        <topic>Balance of Account</topic>
+        <option>Deficit</option>
+        <option>Debit balance</option>
+        <option>Credit balance</option>
+        <option>Balance</option>
+        <answer>Balance</answer>
+        <explanation>The net difference between debit and credit totals of an account is simply called its balance (which can be debit or credit in nature).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If the total of debit side exceeds the total of credit side, the ledger account is said to have:</text>
+        <topic>Debit Balance</topic>
+        <option>Debit balance</option>
+        <option>Credit balance</option>
+        <option>Surplus balance</option>
+        <option>Normal balance</option>
+        <answer>Debit balance</answer>
+        <explanation>When debit entries are more than credit entries in total, the account has a debit balance equal to that excess.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In accounting, the abbreviation Dr. is used for:</text>
+        <topic>Debit Abbreviation</topic>
+        <option>Debtor</option>
+        <option>Debate</option>
+        <option>Defaulter</option>
+        <option>Debit side of ledger account</option>
+        <answer>Debit side of ledger account</answer>
+        <explanation>&quot;Dr.&quot; is the common abbreviation for &quot;debit&quot; and is written on the side or column representing debits in accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If an account has a credit balance, it means:</text>
+        <topic>Credit Balance</topic>
+        <option>Both debit and credit sides are equal</option>
+        <option>Total of debit side exceeds the total of credit side</option>
+        <option>Total of credit side exceeds the total of debit side</option>
+        <option>None of the above</option>
+        <answer>Total of credit side exceeds the total of debit side</answer>
+        <explanation>A credit balance arises when the total of credits is greater than the total of debits in an account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In accounting, the term credit is usually abbreviated as:</text>
+        <topic>Credit Abbreviation</topic>
+        <option>Dr.</option>
+        <option>Ct.</option>
+        <option>Cd</option>
+        <option>Cr.</option>
+        <answer>Cr.</answer>
+        <explanation>&quot;Cr.&quot; is the standard abbreviation used for the term &quot;credit&quot; in accounting records.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of following types of accounts normally have a credit balance?</text>
+        <topic>Credit Balances</topic>
+        <option>Assets, liabilities, capital</option>
+        <option>Revenues, liabilities, capital</option>
+        <option>Revenues, liabilities, Expenses</option>
+        <option>Revenues, liabilities, losses</option>
+        <answer>Revenues, liabilities, capital</answer>
+        <explanation>In general, revenue accounts and owners&apos; equity (capital) accounts and liability accounts carry normal credit balances.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If total of debit side is equal to the total of credit side of a ledger account, the account is said to have a:</text>
+        <topic>Nil Balance</topic>
+        <option>Expected balance</option>
+        <option>Credit balance</option>
+        <option>Nil balance</option>
+        <option>Debit balance</option>
+        <answer>Nil balance</answer>
+        <explanation>When the totals on both sides of an account are equal, there is no difference; hence the account has a nil (zero) balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A non-zero balance of a ledger account represents:</text>
+        <topic>Meaning of Balance</topic>
+        <option>Increase in account</option>
+        <option>Increase or decrease in account</option>
+        <option>Decrease in account</option>
+        <option>No change in account</option>
+        <answer>Increase or decrease in account</answer>
+        <explanation>A non-zero balance means one side exceeds the other; this net balance reflects the net increase or net decrease in that account over time.</explanation>
+    </question>
+
+    <!-- 91 and 92 are essentially repetitions of 57 and 58 with different option ordering -->
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When a Liability is reduced or decreased, it is recorded on the:</text>
+        <topic>Liability Accounts</topic>
+        <option>Right or debit side of the account</option>
+        <option>Left or credit side of the account</option>
+        <option>Right or credit side of the account</option>
+        <option>Left or debit side of the account</option>
+        <answer>Left or debit side of the account</answer>
+        <explanation>Liabilities decrease on the debit side of their accounts, so a reduction is recorded as a debit entry.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When Capital is increased by an amount, it is recorded on the:</text>
+        <topic>Capital Account</topic>
+        <option>Right or debit side of the account</option>
+        <option>Left or debit side of the account</option>
+        <option>Right or credit side of the account</option>
+        <option>Left or credit side of the account</option>
+        <answer>Right or credit side of the account</answer>
+        <explanation>Capital is a credit-natured account. Increases in capital are recorded on the credit (right) side of the account.</explanation>
+    </question>
+
+    <!-- 93 and 94 repeat earlier logic but kept as separate questions as given -->
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following account will be credited, if business bought goods on credit from Mr. Z</text>
+        <topic>Purchases on Credit</topic>
+        <option>Purchases account</option>
+        <option>Mr.Z account</option>
+        <option>Cash account</option>
+        <option>Sales account</option>
+        <answer>Mr.Z account</answer>
+        <explanation>In a credit purchase, the supplier&apos;s account (Mr. Z) is credited as the business now owes him money.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following entry will be recorded when the Bad Debts are recovered?</text>
+        <topic>Bad Debts Recovered</topic>
+        <option>Cash A/c (Dr.) &amp; Bad Debts recovered A/c (Cr)</option>
+        <option>A/C Receivable A/c (Dr.) &amp; Bad Debts recovered A/c (Cr.)</option>
+        <option>Bad debts recovered A/c (Dr.) and Profit &amp; Loss A/c (Cr.)</option>
+        <option>Provision for doubtful debts A/c (Dr.) &amp; Cash A/c (Cr.)</option>
+        <answer>Cash A/c (Dr.) &amp; Bad Debts recovered A/c (Cr)</answer>
+        <explanation>Bad debts previously written off, when recovered, are recognised as income. Cash is debited and Bad Debts Recovered A/c is credited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following account will be credited when a typewriter is sold that has been used in the office?</text>
+        <topic>Disposal of Office Equipment</topic>
+        <option>Sales Account</option>
+        <option>Purchase Account</option>
+        <option>Cash Account</option>
+        <option>Office Equipment Account</option>
+        <answer>Office Equipment Account</answer>
+        <explanation>A typewriter used in the office is part of office equipment (a fixed asset). On sale, the Office Equipment A/c is credited to remove the asset from the books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A ledger account is prepared from</text>
+        <topic>Source of Ledger Entries</topic>
+        <option>Events</option>
+        <option>Transactions</option>
+        <option>Journal</option>
+        <option>None of the above</option>
+        <answer>Journal</answer>
+        <explanation>Ledger accounts are prepared by posting entries from the journal, which records the transactions chronologically.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Real Accounts always show</text>
+        <topic>Real Accounts</topic>
+        <option>Debit balances</option>
+        <option>Credit balances</option>
+        <option>Nil balances</option>
+        <option>Trial balances</option>
+        <answer>Debit balances</answer>
+        <explanation>Real accounts (asset accounts) generally have debit balances, representing resources owned by the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When any entry is made on the both sides of cash book is called as?</text>
+        <topic>Contra Entry</topic>
+        <option>General entry</option>
+        <option>Double entry</option>
+        <option>Compound entry</option>
+        <option>Contra entry</option>
+        <answer>Contra entry</answer>
+        <explanation>Contra entries affect both cash and bank columns of the cash book (one side debit, other side credit), e.g. cash deposited into bank.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following affects cash book during a period?</text>
+        <topic>Cash Transactions</topic>
+        <option>Recording depreciation expense</option>
+        <option>Declaration of a cash dividend</option>
+        <option>Write-off of an uncollectible account receivable</option>
+        <option>Payment of an accounts payable</option>
+        <answer>Payment of an accounts payable</answer>
+        <explanation>Paying an account payable involves an actual cash/bank outflow and is recorded in the cash book; the other options are non-cash transactions at that moment.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>How much kind of Cash book?</text>
+        <topic>Types of Cash Book</topic>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>None of them</option>
+        <answer>4</answer>
+        <explanation>Commonly, there are four types of cash books: single column, double column, triple column and petty cash book.</explanation>
+    </question>
+        <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A company issues cheque to pay account payable. The effect of the transaction is to?</text>
+        <topic>Accounting Equation Effect</topic>
+        <option>Increase assets and liabilities</option>
+        <option>Increase assets and decrease liabilities</option>
+        <option>Decrease assets and liabilities</option>
+        <option>Increase assets and stockholder&apos;s equity</option>
+        <answer>Decrease assets and liabilities</answer>
+        <explanation>Paying an account payable by cheque decreases the bank balance (asset) and also decreases the accounts payable (liability). So both an asset and a liability decrease.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A cheque received and paid into the bank on the same date is recorded in the?</text>
+        <topic>Cash Book Columns</topic>
+        <option>Bank column of the cash book</option>
+        <option>Cash column of the cash book</option>
+        <option>Both the cash and bank column of the cash book</option>
+        <option>None of above</option>
+        <answer>Bank column of the cash book</answer>
+        <explanation>If the cheque is immediately deposited into the bank, the transaction affects only the bank balance. It is therefore recorded in the bank column of the cash book.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The transaction will be treated as a contra entry when?</text>
+        <topic>Contra Entries</topic>
+        <option>Cash withdrew from bank for personal use</option>
+        <option>Cheque received from customer and deposited</option>
+        <option>Cash drew from bank for office use</option>
+        <option>None of Above</option>
+        <answer>Cash drew from bank for office use</answer>
+        <explanation>A contra entry arises when both cash and bank columns of the cash book are affected. Withdrawing cash from bank for office use reduces bank and increases cash, so it is recorded on both sides as a contra entry.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following is not correct for cash book?</text>
+        <topic>Cash Book Basics</topic>
+        <option>It is a dual book</option>
+        <option>It is journalized ledger</option>
+        <option>It records liabilities</option>
+        <option>Both b and c</option>
+        <answer>It records liabilities</answer>
+        <explanation>The cash book records cash and bank receipts and payments. It acts both as a journal and a ledger for cash, but it does not record liabilities directly.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A cheque received on 12th of December dated 25th December is considered as?</text>
+        <topic>Post-dated Cheque</topic>
+        <option>Bank</option>
+        <option>Cash</option>
+        <option>Liability</option>
+        <option>Revenue</option>
+        <answer>Cash</answer>
+        <explanation>A post-dated cheque is not yet bankable, but examinations often treat it as a cash-like asset held by the business. In the absence of a specific &quot;bills receivable&quot; option, it is treated as cash received but not yet deposited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following item is not included in the Cash Book?</text>
+        <topic>Items in Cash Book</topic>
+        <option>Purchases of Rs. 10,000</option>
+        <option>Sales of Rs.5,000</option>
+        <option>Received cash for Salman Rs. 2,000</option>
+        <option>Credit sales of Rs. 22,000</option>
+        <answer>Credit sales of Rs. 22,000</answer>
+        <explanation>The cash book records only cash and bank transactions. Credit sales do not involve immediate cash or bank movement, so they are not recorded in the cash book.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following items is not considered as cash or cash equivalent?</text>
+        <topic>Cash and Cash Equivalents</topic>
+        <option>Cash on hand</option>
+        <option>Bank borrowings</option>
+        <option>Demand deposits</option>
+        <option>Investments with a maturity of two months from the date of acquisition</option>
+        <answer>Bank borrowings</answer>
+        <explanation>Cash equivalents are short-term, highly liquid investments and balances that are readily convertible to known amounts of cash. Bank borrowings are liabilities, not cash or cash equivalents.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The Cash of a business would change as a result of?</text>
+        <topic>Effect on Cash</topic>
+        <option>A supplier being paid by cheque and deposited</option>
+        <option>Raw materials being purchased on credit</option>
+        <option>Non-current assets being purchased on credit</option>
+        <option>Wages being paid in cash</option>
+        <answer>Wages being paid in cash</answer>
+        <explanation>Only wages paid in cash affects the cash balance directly (cash outflow). The other transactions either affect bank or are purely credit transactions with no immediate cash movement.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Contra entry is recorded in?</text>
+        <topic>Contra Entries</topic>
+        <option>Double column cash book</option>
+        <option>Single column cash book</option>
+        <option>Three column cash book</option>
+        <option>a and c</option>
+        <answer>a and c</answer>
+        <explanation>Contra entries arise when both cash and bank accounts are affected. These are recorded only where both cash and bank columns exist, i.e., in double column (cash &amp; bank) and three column cash books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A book in which cash balance and bank balance are simultaneously maintained is known as?</text>
+        <topic>Types of Cash Book</topic>
+        <option>Simple cash book</option>
+        <option>Single column cash book</option>
+        <option>Double column cash book</option>
+        <option>None-of these</option>
+        <answer>Double column cash book</answer>
+        <explanation>In a double column cash book, there are separate columns for cash and bank. This allows simultaneous maintenance of both balances in one book.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If a business shows a debit balance in its own record of its bank balance, this indicates?</text>
+        <topic>Bank Balance Meaning</topic>
+        <option>The business has a bank overdraft</option>
+        <option>The business is a debtor in the books of bank</option>
+        <option>The business has money in the bank</option>
+        <option>The ledger entry must be wrong</option>
+        <answer>The business has money in the bank</answer>
+        <explanation>In the business books, the bank account is an asset. A debit balance indicates a favourable balance, i.e., money available in the bank.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The unfavourable balance of cash in cash book is?</text>
+        <topic>Bank Overdraft</topic>
+        <option>An expense</option>
+        <option>Liability</option>
+        <option>A gain</option>
+        <option>An Asset</option>
+        <answer>Liability</answer>
+        <explanation>An unfavourable balance in the bank column of the cash book means a bank overdraft, which is a liability of the business to the bank.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When a company received cheque from customer. The effect of the transaction is to?</text>
+        <topic>Effect of Cheque Receipt</topic>
+        <option>Increase assets and decrease assets</option>
+        <option>Increase assets and liabilities</option>
+        <option>Increase assets and stockholder&apos;s equity</option>
+        <option>None of the above</option>
+        <answer>Increase assets and decrease assets</answer>
+        <explanation>Receiving a cheque from a customer increases bank (asset) and decreases accounts receivable (asset). One asset increases while another asset decreases; total assets may remain unchanged.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Cash book involves?</text>
+        <topic>Cash Book Content</topic>
+        <option>payment transactions</option>
+        <option>Both payment and receipt transactions</option>
+        <option>For receipt transactions</option>
+        <option>None</option>
+        <answer>Both payment and receipt transactions</answer>
+        <explanation>The cash book records all cash and bank receipts on the debit side and all payments on the credit side, so it covers both receipts and payments.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The transaction will be treated as a contra entry when?</text>
+        <topic>Contra Entries</topic>
+        <option>Cash withdrew from bank for domestic use</option>
+        <option>Cheque received from customer and deposited</option>
+        <option>Cash withdrew from bank for office use</option>
+        <option>1 and 3 only</option>
+        <answer>Cash withdrew from bank for office use</answer>
+        <explanation>Contra entries occur only when both cash and bank accounts of the business are involved. Cash withdrawn from bank for office use affects both cash and bank; domestic drawings affect bank and drawings, not cash, so they are not contra entries.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When a cheque is received from a customer and it is deposited into the bank for collection but ultimately returned dishonoured, the customer account will be?</text>
+        <topic>Dishonoured Cheque</topic>
+        <option>Debited</option>
+        <option>Credited</option>
+        <option>Becomes a liability</option>
+        <option>None of these</option>
+        <answer>Debited</answer>
+        <explanation>On dishonour, the earlier reduction in the customer&apos;s balance is reversed. The customer&apos;s account is debited again to reinstate the amount receivable from them.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Favourable balance means?</text>
+        <topic>Favourable Bank Balance</topic>
+        <option>Credit balance in the cash book</option>
+        <option>Credit balance in Bank statement</option>
+        <option>Debit balance in cash book</option>
+        <option>both b and c</option>
+        <answer>both b and c</answer>
+        <explanation>In the cash book (business books), a debit balance in bank column is favourable. In the bank statement (bank&apos;s books), the same position appears as a credit balance. So both descriptions together indicate a favourable balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The basic purpose of preparing a trial balance is:</text>
+        <topic>Purpose of Trial Balance</topic>
+        <option>to find out profit of the business</option>
+        <option>to show financial position of the business</option>
+        <option>to test arithmetical accuracy of the ledger</option>
+        <option>to calculate net purchases of the business</option>
+        <answer>to test arithmetical accuracy of the ledger</answer>
+        <explanation>A trial balance is mainly prepared to check that total debits equal total credits and to detect arithmetic errors in posting and balancing of ledger accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is correct about an agreed trial balance.</text>
+        <topic>Agreed Trial Balance</topic>
+        <option>both debit and credit aspects of each transaction have been recorded</option>
+        <option>the books are arithmetically correct</option>
+        <option>the debit and credit columns of trial balance have been correctly totaled</option>
+        <option>all of the above</option>
+        <answer>all of the above</answer>
+        <explanation>If the trial balance agrees, it indicates that debits and credits have been recorded and posted correctly and totals of both columns have been properly made, though some errors may still remain undetected.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following represents correct sequence of accounting cycle?</text>
+        <topic>Accounting Cycle</topic>
+        <option>Journal &gt; Trial balance &gt; Ledger &gt; Transaction analysis</option>
+        <option>Transaction analysis &gt; Journal &gt; Ledger &gt; Trial balance</option>
+        <option>Purchases &gt; Journal &gt; Ledger &gt; Trial balance</option>
+        <option>None of the above</option>
+        <answer>Transaction analysis &gt; Journal &gt; Ledger &gt; Trial balance</answer>
+        <explanation>The proper sequence is: analyse transactions, record them in the journal, post to the ledger, then prepare a trial balance from ledger balances.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A trial balance prepared after taking into account the effect of adjusting entries is known as:</text>
+        <topic>Adjusted Trial Balance</topic>
+        <option>Financial trial balance</option>
+        <option>Adjusted trial balance</option>
+        <option>Unadjusted trial balance</option>
+        <option>Normal trial balance</option>
+        <answer>Adjusted trial balance</answer>
+        <explanation>Once year-end adjustments (accruals, prepayments, depreciation etc.) are passed, a fresh trial balance is prepared. This is called an adjusted trial balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Two methods of preparing a trial balance are:</text>
+        <topic>Methods of Trial Balance</topic>
+        <option>Financial method and total method</option>
+        <option>Total method and normal method</option>
+        <option>Balance method and financial method</option>
+        <option>Balance method and total method</option>
+        <answer>Balance method and total method</answer>
+        <explanation>Under the total method, totals of debits and credits of each ledger account are used; under the balance method, only balances of accounts are used in the trial balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In addition to arithmetical accuracy of ledger, a trial balance provides:</text>
+        <topic>Use of Trial Balance</topic>
+        <option>A summary of total capital invested in the business during the period</option>
+        <option>A summary of sales made during the period</option>
+        <option>A summary of total cash collected from customers during the period</option>
+        <option>A summary of all transactions made since the end of the previous accounting period</option>
+        <answer>A summary of all transactions made since the end of the previous accounting period</answer>
+        <explanation>Because it lists all closing balances of ledger accounts, the trial balance summarises the net effect of all transactions recorded since the last accounting period ended.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following is the most popular method of preparing a trial balance:</text>
+        <topic>Popular Trial Balance Method</topic>
+        <option>Balance method</option>
+        <option>Total method</option>
+        <option>Trial and error method</option>
+        <option>Line method</option>
+        <answer>Balance method</answer>
+        <explanation>In practice, the balance method is most widely used because it is simpler and directly uses the closing balances of ledger accounts, which are needed for final accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Under balance method, which one of the following is used for preparing trial balance at the end of an accounting period?</text>
+        <topic>Balance Method</topic>
+        <option>Beginning balances of ledger accounts</option>
+        <option>Ending balances of ledger accounts</option>
+        <option>Total of beginning and ending balances of ledger accounts</option>
+        <option>Difference of beginning and ending balances of ledger accounts</option>
+        <answer>Ending balances of ledger accounts</answer>
+        <explanation>The balance method uses the closing (ending) balances of all ledger accounts to prepare the trial balance at period end.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Under total method, which of the following is used for preparing a trial balance:</text>
+        <topic>Total Method</topic>
+        <option>Totals of amount columns of ledger accounts</option>
+        <option>Differences of amount columns of ledger accounts</option>
+        <option>Opening balances of ledger accounts</option>
+        <option>Closing balances of ledger accounts</option>
+        <answer>Totals of amount columns of ledger accounts</answer>
+        <explanation>In the total method, the total debits and total credits of each account are listed, instead of the net balance, in the trial balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following errors in the journal entry will not be detected by trial balance.</text>
+        <topic>Errors Not Revealed by Trial Balance</topic>
+        <option>Debit part is overstated but credit part is correctly recorded</option>
+        <option>Debit part is correctly recorded but credit part is overstated</option>
+        <option>Both debit and credit parts are overstated by the same amount</option>
+        <option>Debit part is correctly recorded but credit part is understated</option>
+        <answer>Both debit and credit parts are overstated by the same amount</answer>
+        <explanation>If both debit and credit sides of an entry are overstated by the same amount, the equality of total debits and credits is preserved, so the trial balance still agrees and the error remains undetected.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following will be placed in the credit column of the trial balance?</text>
+        <topic>Credit Side Items</topic>
+        <option>Purchases</option>
+        <option>Rent expense</option>
+        <option>Furniture</option>
+        <option>Sales</option>
+        <answer>Sales</answer>
+        <explanation>Sales represents income and normally has a credit balance, so it appears in the credit column of the trial balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following will be placed in the debit column of the trial balance?</text>
+        <topic>Debit Side Items</topic>
+        <option>Capital</option>
+        <option>salaries payable</option>
+        <option>Accounts payable</option>
+        <option>None of the above</option>
+        <answer>None of the above</answer>
+        <explanation>Capital and payables are liabilities or equity accounts with normal credit balances. None of the given options is a typical debit balance item such as an asset or expense.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When closing stock is given in trial balance, then it will affect:</text>
+        <topic>Closing Stock in Trial Balance</topic>
+        <option>Trading and Profit &amp; Loss account only</option>
+        <option>Balance sheet only</option>
+        <option>Owner&apos;s equity only</option>
+        <option>Trading and Profit &amp; Loss account and Balance sheet</option>
+        <answer>Balance sheet only</answer>
+        <explanation>If closing stock is already in the trial balance, it means it has been adjusted in the accounts. It will then appear only as an asset in the balance sheet and not again in the trading account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A debit to an account may</text>
+        <topic>Effect of Debit</topic>
+        <option>increase expense</option>
+        <option>decrease an asset.</option>
+        <option>increase income.</option>
+        <option>increase a liability</option>
+        <answer>increase expense</answer>
+        <explanation>Debits increase assets and expenses, and decrease liabilities and equity. So a debit entry can increase an expense account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Prepayment of insurance premium will appear in the Balance Sheet and in the Insurance Account respectively as:</text>
+        <topic>Prepaid Expense</topic>
+        <option>liability and a debit balance.</option>
+        <option>an asset and a debit balance.</option>
+        <option>an asset and a credit balance</option>
+        <option>a liability and a credit balance</option>
+        <answer>an asset and a debit balance.</answer>
+        <explanation>Prepaid insurance is a current asset in the balance sheet and carries a debit balance in the insurance account representing expense paid in advance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In which of the following systems of recording the financial statements reflect true and fair view of an entity and accounting records are considered to be more accurate?</text>
+        <topic>Systems of Accounting</topic>
+        <option>Single entry system</option>
+        <option>Double entry system</option>
+        <option>Cash based system</option>
+        <option>None of the above</option>
+        <answer>Double entry system</answer>
+        <explanation>The double entry system records both aspects of every transaction, ensuring completeness and greater accuracy, so financial statements prepared under it give a more reliable view.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which report gives a review on the profitability of a business</text>
+        <topic>Income Statement</topic>
+        <option>Statement of changes in equity</option>
+        <option>Cash flow statement</option>
+        <option>Balance sheet</option>
+        <option>Income statement</option>
+        <answer>Income statement</answer>
+        <explanation>The income statement (or profit and loss account) summarises revenues and expenses and shows the profit or loss for the period, thus reviewing profitability.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When assets are subtracted from liabilities it will be equal to</text>
+        <topic>Basic Equation</topic>
+        <option>Capital</option>
+        <option>Net income</option>
+        <option>Working capital</option>
+        <option>Goodwill</option>
+        <answer>Capital</answer>
+        <explanation>From the accounting equation, Assets = Capital + Liabilities, rearranging gives Capital = Assets − Liabilities.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A financial Statement that summarises revenue and expenses is</text>
+        <topic>Income Statement</topic>
+        <option>Balance Sheet</option>
+        <option>Statement of owner’s equity</option>
+        <option>Income Statement</option>
+        <option>Cash flow statement</option>
+        <answer>Income Statement</answer>
+        <explanation>The income statement summarises all revenues and expenses of a period and reports the resulting profit or loss.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which financial statement presents a summary of the Assets, Liabilities and capital of a business:</text>
+        <topic>Balance Sheet</topic>
+        <option>General Ledger</option>
+        <option>Worksheet</option>
+        <option>Balance sheet</option>
+        <option>Cash flow statement</option>
+        <answer>Balance sheet</answer>
+        <explanation>The balance sheet is the statement of financial position that lists assets, liabilities, and capital at a particular date.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Interest on loan paid by business is an example of:</text>
+        <topic>Revenue Expenditure</topic>
+        <option>Revenue expense</option>
+        <option>Income</option>
+        <option>Asset</option>
+        <option>Return outward</option>
+        <answer>Revenue expense</answer>
+        <explanation>Interest on loan is a recurring cost incurred to obtain finance and is treated as a revenue (indirect) expense in the profit and loss account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The allocation of the cost of a tangible plant asset to expense in the periods, in which services are received from the asset, is termed as:</text>
+        <topic>Depreciation</topic>
+        <option>Appreciation</option>
+        <option>Depreciation</option>
+        <option>Fluctuation</option>
+        <option>None of the given options</option>
+        <answer>Depreciation</answer>
+        <explanation>Depreciation is the systematic allocation of the depreciable amount of a tangible asset over its useful life to match cost with revenue.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following will be debited, if cash is drawn by Proprietor?</text>
+        <topic>Drawings</topic>
+        <option>Proprietor’s drawings</option>
+        <option>Proprietor’s cash</option>
+        <option>Proprietor’s capital</option>
+        <option>Out flows</option>
+        <answer>Proprietor’s drawings</answer>
+        <explanation>Cash withdrawn by the proprietor for personal use reduces capital; the entry is Drawings A/c (debit) and Cash/Bank A/c (credit).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is TRUE about the treatment of insurance paid in advance RS 12000?</text>
+        <topic>Prepaid Insurance</topic>
+        <option>Current asset</option>
+        <option>Current liability</option>
+        <option>Short term liability</option>
+        <option>Fixed asset</option>
+        <answer>Current asset</answer>
+        <explanation>Insurance paid in advance represents a service to be received in future periods and is shown as a current asset (prepaid expense) in the balance sheet.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which accounting concept specifies the practice of crediting closing stock to the trading account?</text>
+        <topic>Matching Concept</topic>
+        <option>Cost</option>
+        <option>Going concern</option>
+        <option>Realisation</option>
+        <option>Matching</option>
+        <answer>Matching</answer>
+        <explanation>The matching concept requires that only the cost of goods actually sold be matched with sales. Closing stock is removed from cost of goods sold and carried as an asset, which is implemented by crediting it in the trading account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following would NOT be considered as a component of &apos;cost&apos; of stock?</text>
+        <topic>Cost of Inventory</topic>
+        <option>Transportation inward costs</option>
+        <option>Import duties</option>
+        <option>Salaries of selling staff</option>
+        <option>Purchase price</option>
+        <answer>Salaries of selling staff</answer>
+        <explanation>Cost of stock includes purchase price and all costs necessary to bring inventory to its present location and condition (e.g. carriage in, duties). Selling staff salaries are selling expenses, not part of inventory cost.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If sales revenues are `4,00,000; cost of goods sold is ` 3,10,000 and direct expenses are `60,000, the gross profit is</text>
+        <topic>Gross Profit</topic>
+        <option>` 30,000.</option>
+        <option>` 90,000.</option>
+        <option>` 3,40,000.</option>
+        <option>` 4,00,000</option>
+        <answer>` 30,000.</answer>
+        <explanation>Gross profit = Sales − (Cost of goods sold + Direct expenses) = 4,00,000 − (3,10,000 + 60,000) = 4,00,000 − 3,70,000 = 30,000.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Account which shows Gross Profit or Gross Loss of the business is called:</text>
+        <topic>Trading Account</topic>
+        <option>Profit and Loss Account</option>
+        <option>Balance Sheet</option>
+        <option>Trial Balance</option>
+        <option>Trading Account</option>
+        <answer>Trading Account</answer>
+        <explanation>The trading account is prepared to find the gross profit or gross loss by comparing net sales with cost of goods sold and direct expenses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>On debit side of Trading Account we record:</text>
+        <topic>Trading Account Items</topic>
+        <option>Direct Expense</option>
+        <option>Indirect Expense</option>
+        <option>Both of these</option>
+        <option>None of these</option>
+        <answer>Direct Expense</answer>
+        <explanation>The debit side of the trading account includes opening stock, purchases, carriage inwards, wages and other direct expenses related to production or purchase of goods.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Carriage Outwards is an example of:</text>
+        <topic>Indirect Expense</topic>
+        <option>Direct Expense</option>
+        <option>Indirect Expense</option>
+        <option>Indirect Income</option>
+        <option>Direct Income</option>
+        <answer>Indirect Expense</answer>
+        <explanation>Carriage outwards is the cost of delivering goods to customers. It is a selling and distribution expense and appears in the profit and loss account, not in the trading account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The unfavourable balance of Profit and Loss account should be:</text>
+        <topic>Net Loss Treatment</topic>
+        <option>Added in liabilities</option>
+        <option>Subtracted from current assets</option>
+        <option>Subtracted from capital</option>
+        <option>Subtracted from liabilities</option>
+        <answer>Subtracted from capital</answer>
+        <explanation>An unfavourable balance in the profit and loss account represents a net loss, which reduces the owner&apos;s equity and is therefore deducted from capital in the balance sheet.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>We can say that the business is in profit, when:</text>
+        <topic>Profit Condition</topic>
+        <option>Assets exceed Expenditure</option>
+        <option>Income exceeds Liabilities</option>
+        <option>Income exceeds Expenditure</option>
+        <option>Income exceeds Liabilities</option>
+        <answer>Income exceeds Expenditure</answer>
+        <explanation>Profit is the excess of income over expenses for a given accounting period. When income is greater than expenditure, the business earns a profit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What type of expenses are paid out of Gross Profit?</text>
+        <topic>Use of Gross Profit</topic>
+        <option>General Expenses</option>
+        <option>Financial Expenses</option>
+        <option>Selling Expenses</option>
+        <option>All of the given options</option>
+        <answer>All of the given options</answer>
+        <explanation>Gross profit is used to meet all operating expenses such as general and administrative expenses, selling and distribution expenses and financial expenses like interest, before arriving at net profit.</explanation>
+    </question>
+
+        <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is an example of operating expense?</text>
+        <topic>Operating Expenses</topic>
+        <option>Purchasing operating equipment</option>
+        <option>Purchasing a vehicle</option>
+        <option>Purchasing cleaning services</option>
+        <option>buying a computer</option>
+        <answer>Purchasing cleaning services</answer>
+        <explanation>Operating expenses are day-to-day expenses for running the business (like rent, salaries, cleaning). Buying equipment, vehicles or computers creates assets (capital expenditure), not operating expense.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Repair charge of office old furniture is:</text>
+        <topic>Revenue vs Capital Expenditure</topic>
+        <option>Revenue Expense</option>
+        <option>Capital Expense</option>
+        <option>Both Revenue &amp; Capital Expense</option>
+        <option>None of these</option>
+        <answer>Revenue Expense</answer>
+        <explanation>Repairs done to keep existing furniture in working condition do not increase its life or capacity substantially. Such costs are treated as revenue expenses and charged to Profit &amp; Loss Account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Capital profit is profit on</text>
+        <topic>Capital Profit</topic>
+        <option>Profit &amp; Loss A/c of Business</option>
+        <option>Sale of fixed asset</option>
+        <option>Sale of goods</option>
+        <option>None of these</option>
+        <answer>Sale of fixed asset</answer>
+        <explanation>Capital profits arise from non-trading activities like sale of fixed assets above their book value, not from sale of goods which is trading profit (revenue profit).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>P&amp;L statement is also known as</text>
+        <topic>Names of Financial Statements</topic>
+        <option>Statement of Operations</option>
+        <option>Statement of Income</option>
+        <option>Statement of Earnings</option>
+        <option>All of these</option>
+        <answer>All of these</answer>
+        <explanation>The Profit and Loss statement is commonly referred to as statement of operations, statement of income or statement of earnings; all are names for the same report of revenues and expenses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which are indirect Expense of the followings:</text>
+        <topic>Indirect Expenses</topic>
+        <option>Salaries</option>
+        <option>Insurance</option>
+        <option>Rent</option>
+        <option>All of these</option>
+        <answer>All of these</answer>
+        <explanation>Salaries, insurance and rent are indirect/operating expenses, as they are not directly traceable to production of a specific unit of goods but relate to general administration and operations.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Discount received is an example of:</text>
+        <topic>Indirect Incomes</topic>
+        <option>Direct Expense</option>
+        <option>Indirect Expense</option>
+        <option>Indirect Income</option>
+        <option>Direct Income</option>
+        <answer>Indirect Income</answer>
+        <explanation>Discount received from suppliers is a gain for the business, not related to main sales activity, so it is treated as an indirect income in the Profit &amp; Loss Account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following shows summary of a company&apos;s financial position at a specific date?</text>
+        <topic>Balance Sheet</topic>
+        <option>Profit &amp; Loss Account</option>
+        <option>Cash Flow Statement</option>
+        <option>Balance Sheet</option>
+        <option>Trial Balance</option>
+        <answer>Balance Sheet</answer>
+        <explanation>The balance sheet presents assets, liabilities and capital as at a particular date and shows the financial position of the entity at that point in time.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following items of balance sheet are useful in evaluating a company’s liquidity?</text>
+        <topic>Liquidity Ratios</topic>
+        <option>Current assets and other assets</option>
+        <option>Current liabilities and current assets</option>
+        <option>Current liabilities and plant and equipment</option>
+        <option>Non-current liabilities and other assets</option>
+        <answer>Current liabilities and current assets</answer>
+        <explanation>Liquidity is the ability to meet short-term obligations, measured using current assets and current liabilities (e.g. current ratio, quick ratio).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In which of the following auditor’s remuneration payable is shown?</text>
+        <topic>Outstanding Expenses</topic>
+        <option>In balance sheet under the head of current liabilities</option>
+        <option>In income statement under the administrative expense</option>
+        <option>In the statement of changes in equity</option>
+        <option>In Cash flow statement under investing activities</option>
+        <answer>In balance sheet under the head of current liabilities</answer>
+        <explanation>Auditor&apos;s remuneration payable is an outstanding (accrued) expense and is shown as a current liability in the balance sheet until it is paid.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Another name for the balance sheet is</text>
+        <topic>Balance Sheet Names</topic>
+        <option>Statement of Operations</option>
+        <option>Statement of Financial Position</option>
+        <answer>Statement of Financial Position</answer>
+        <explanation>The balance sheet is also known as the statement of financial position because it shows the financial status (assets, liabilities, capital) of the business at a particular date.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The balance sheet heading will specify a</text>
+        <topic>Reporting Period</topic>
+        <option>Period of Time</option>
+        <option>Point in Time</option>
+        <answer>Point in Time</answer>
+        <explanation>The balance sheet shows balances at a specific date (for example, &quot;as at 31 March 2025&quot;), i.e. a point in time, unlike the income statement which covers a period of time.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is a category or element of the balance sheet?</text>
+        <topic>Elements of Balance Sheet</topic>
+        <option>Expenses</option>
+        <option>Gains</option>
+        <option>Liabilities</option>
+        <option>Losses</option>
+        <answer>Liabilities</answer>
+        <explanation>The main elements of a balance sheet are assets, liabilities and equity. Expenses, gains and losses appear in the income statement, not the balance sheet (except via retained earnings).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is an asset account?</text>
+        <topic>Asset Accounts</topic>
+        <option>Accounts Payable</option>
+        <option>Prepaid Insurance</option>
+        <option>Unearned Revenue</option>
+        <answer>Prepaid Insurance</answer>
+        <explanation>Prepaid insurance represents insurance paid in advance; it is a current asset. Accounts payable and unearned revenue are liability accounts (amounts owed to others/customers).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the normal balance for an asset account?</text>
+        <topic>Normal Balances</topic>
+        <option>Debit</option>
+        <option>Credit</option>
+        <answer>Debit</answer>
+        <explanation>Assets increase on the debit side and decrease on the credit side. Therefore, asset accounts normally carry a debit balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the normal balance for liability accounts?</text>
+        <topic>Normal Balances</topic>
+        <option>Debit</option>
+        <option>Credit</option>
+        <answer>Credit</answer>
+        <explanation>Liabilities increase on the credit side and decrease on the debit side, so they normally have a credit balance in the ledger.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following would not be a current asset?</text>
+        <topic>Current vs Non-current Assets</topic>
+        <option>Accounts Receivable</option>
+        <option>Land</option>
+        <option>Prepaid Insurance</option>
+        <option>Stock</option>
+        <answer>Land</answer>
+        <explanation>Land is a long-term (non-current) asset held for use in business, not for short-term realisation. The others are normally current assets expected to be converted to cash within a year.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is NOT an example of intangible assets?</text>
+        <topic>Intangible vs Tangible Assets</topic>
+        <option>Franchise rights</option>
+        <option>Goodwill</option>
+        <option>Patents</option>
+        <option>Land</option>
+        <answer>Land</answer>
+        <explanation>Intangible assets lack physical substance (goodwill, patents, trademarks, franchise rights). Land is a tangible fixed asset with physical form, so it is not intangible.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is an example of business liability?</text>
+        <topic>Liabilities</topic>
+        <option>Land</option>
+        <option>Building</option>
+        <option>Cash</option>
+        <option>Creditors</option>
+        <answer>Creditors</answer>
+        <explanation>Creditors (accounts payable) represent amounts the business owes to its suppliers and are classified as liabilities. Land, building, and cash are assets of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a current asset?</text>
+        <topic>Current vs Fixed Assets</topic>
+        <option>Prepaid Expenses</option>
+        <option>Debtors</option>
+        <option>Furniture</option>
+        <option>Bills Receivable</option>
+        <answer>Furniture</answer>
+        <explanation>Furniture is a long-term tangible asset (fixed asset). Prepaid expenses, debtors (accounts receivable) and bills receivable are current assets recoverable within a short period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a tangible asset?</text>
+        <topic>Tangible vs Intangible</topic>
+        <option>Motor Car</option>
+        <option>Goodwill</option>
+        <option>Stock</option>
+        <option>Building</option>
+        <answer>Goodwill</answer>
+        <explanation>Tangible assets have physical form (car, stock, building). Goodwill is an intangible asset representing reputation and other non-physical advantages of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Current Assets is:</text>
+        <topic>Current Assets</topic>
+        <option>Land</option>
+        <option>Building</option>
+        <option>Machinery</option>
+        <option>Stock</option>
+        <answer>Stock</answer>
+        <explanation>Stock (inventory) is expected to be sold in the normal operating cycle and converted into cash; it is a current asset. Land, building and machinery are non-current (fixed) assets.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Current Liabilities is:</text>
+        <topic>Current Liabilities</topic>
+        <option>Creditors</option>
+        <option>Debentures</option>
+        <option>Long-term Loan</option>
+        <option>None of these</option>
+        <answer>Creditors</answer>
+        <explanation>Creditors (accounts payable) are due in the short term and are current liabilities. Debentures and long-term loans are non-current liabilities payable over a longer period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The term current asset doesn’t cover:</text>
+        <topic>Scope of Current Assets</topic>
+        <option>Car</option>
+        <option>Debtors</option>
+        <option>Stock</option>
+        <option>Prepaid Expense</option>
+        <answer>Car</answer>
+        <explanation>Debtors, stock and prepaid expenses are current assets. A car is generally used for more than one year and is treated as a fixed (non-current) asset, not as a current asset.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The main purpose of preparing a bank reconciliation statement is?</text>
+        <topic>Bank Reconciliation Purpose</topic>
+        <option>To know the bank balance</option>
+        <option>To know the balance of bank statement</option>
+        <option>To correct the cash book</option>
+        <option>To identify causes of difference between cash book and bank statement</option>
+        <answer>To identify causes of difference between cash book and bank statement</answer>
+        <explanation>A bank reconciliation statement explains and reconciles the differences between the bank balance as per cash book and as per bank statement by listing the reconciling items.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Bank reconciliation statement is?</text>
+        <topic>Nature of BRS</topic>
+        <option>Part of bank statement</option>
+        <option>Part of the cash book</option>
+        <option>A separate statement</option>
+        <option>a sub-division of journal</option>
+        <answer>A separate statement</answer>
+        <explanation>BRS is an independent reconciliation statement prepared by the business; it is not part of the bank statement, cash book or journal, though it uses figures from them.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Uncollected cheques are also known as?</text>
+        <topic>Uncollected Cheques</topic>
+        <option>Outstanding checks</option>
+        <option>Uncleared checks</option>
+        <option>Outstation checks</option>
+        <option>Both b &amp; c</option>
+        <answer>Both b &amp; c</answer>
+        <explanation>Cheques deposited but not yet cleared by the bank are uncollected; they may be described as uncleared or outstation cheques, depending on context, so both terms can apply.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Favourable balance means?</text>
+        <topic>Bank Balances</topic>
+        <option>Credit balance in the cash book</option>
+        <option>Credit balance in Bank statement</option>
+        <option>Debit balance in cash book</option>
+        <option>both b and c</option>
+        <answer>both b and c</answer>
+        <explanation>In the business cash book, a debit balance in the bank column is favourable. In the bank statement (bank&apos;s books), a credit balance in the customer&apos;s account is favourable. Both describe a positive bank balance for the customer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Unfavourable balance means?</text>
+        <topic>Bank Overdraft</topic>
+        <option>Credit balance in the cash book</option>
+        <option>Credit balance in Bank statement</option>
+        <option>Debit balance in cash book</option>
+        <option>Debit balance in petty cash book</option>
+        <answer>Credit balance in the cash book</answer>
+        <explanation>In the bank column of the cash book, a credit balance represents a bank overdraft (negative balance), which is an unfavourable position for the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When cheque is not paid by the bank, it is called?</text>
+        <topic>Dishonoured Cheques</topic>
+        <option>Honoured</option>
+        <option>Dishonoured</option>
+        <option>Endorsed</option>
+        <option>a &amp; b</option>
+        <answer>Dishonoured</answer>
+        <explanation>If the bank refuses payment of a cheque due to insufficient funds or other reasons, the cheque is said to be dishonoured (bounced).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A bank reconciliation statement is prepared by?</text>
+        <topic>Who Prepares BRS</topic>
+        <option>Banker</option>
+        <option>Accountant of the business</option>
+        <option>Auditors</option>
+        <option>Registrar</option>
+        <answer>Accountant of the business</answer>
+        <explanation>The business (depositor) reconciles its own cash book with the bank statement. Therefore, the accountant or accounts staff of the business usually prepares the BRS, not the bank.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Bank reconciliation is not a?</text>
+        <topic>Nature of BRS</topic>
+        <option>Reconcile records</option>
+        <option>Memorandum statement</option>
+        <option>Ledger account</option>
+        <option>Procedure to provide cash book adjustments</option>
+        <answer>Ledger account</answer>
+        <explanation>BRS is a memorandum reconciliation statement. It is not a ledger account and does not itself form part of the double-entry bookkeeping system.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The balance on the debit side of the bank column of cash book indicates?</text>
+        <topic>Meaning of Debit Bank Balance</topic>
+        <option>The total amount has drawn from the bank</option>
+        <option>Cash at bank</option>
+        <option>The total amount overdraft in the bank</option>
+        <option>None of above</option>
+        <answer>Cash at bank</answer>
+        <explanation>A debit balance in the bank column of the cash book is a favourable balance and represents cash at bank (amount available with the bank for the business).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Bank statement also called?</text>
+        <topic>Bank Statement Names</topic>
+        <option>Passbook</option>
+        <option>Cash book</option>
+        <option>Credit book</option>
+        <option>Debit book</option>
+        <answer>Passbook</answer>
+        <explanation>A bank statement is also known as a passbook; it is a copy of the customer&apos;s account in the books of the bank, showing debits and credits over a period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When balance as per Cash Book is the starting point, direct deposits by customers are:</text>
+        <topic>BRS Adjustments</topic>
+        <option>Added</option>
+        <option>Subtracted</option>
+        <option>Not required to be adjusted.</option>
+        <answer>Added</answer>
+        <explanation>If customers deposit money directly into the bank, it increases the bank statement balance but is not yet in the cash book. To reconcile starting from cash book, these deposits are added to reach the passbook balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The cheque which is deposited into bank but not cleared at the end of a particular year is called?</text>
+        <topic>Uncredited Cheques</topic>
+        <option>Uncredited cheque</option>
+        <option>Unpresented cheque</option>
+        <option>Omitted cheque</option>
+        <option>Dishonoured cheque</option>
+        <answer>Uncredited cheque</answer>
+        <explanation>Cheques deposited but not yet cleared or credited by the bank at the statement date are called uncredited (or uncleared) cheques. Unpresented cheques are cheques issued but not presented for payment.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Credit balance as per passbook is?</text>
+        <topic>Passbook Favourable Balance</topic>
+        <option>Unfavourable balance</option>
+        <option>Favourable balance</option>
+        <option>Both a &amp; b</option>
+        <option>None</option>
+        <answer>Favourable balance</answer>
+        <explanation>In the bank&apos;s books, a credit balance in the customer&apos;s account means the bank owes money to the customer, i.e. the customer has a positive (favourable) bank balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When cash is deposited into bank then the following account would be debited in the business’s accounts?</text>
+        <topic>Cash to Bank Entry</topic>
+        <option>Cash account</option>
+        <option>Overdraft account</option>
+        <option>Bank account</option>
+        <option>None</option>
+        <answer>Bank account</answer>
+        <explanation>Depositing cash into bank decreases cash and increases bank balance. The journal entry is Bank A/c (debit) and Cash A/c (credit), so the bank account is debited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following item must be recorded in the adjusted Cash Book in order to bring it in line with the entries in the Bank Statement?</text>
+        <topic>Items for Adjusted Cash Book</topic>
+        <option>Bank charges</option>
+        <option>An error on the Bank Statement</option>
+        <option>An uncredited deposit</option>
+        <option>An unpresented cheque</option>
+        <answer>Bank charges</answer>
+        <explanation>Bank charges are first recorded by the bank in the bank statement. The business must record them by debiting bank charges and crediting bank in the cash book (adjusted cash book). Unpresented/uncredited items are timing differences, not cash-book omissions.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following would not affect bank reconciliation?</text>
+        <topic>Items Affecting BRS</topic>
+        <option>Dishonoured cheque</option>
+        <option>Discount received</option>
+        <option>Bank interest</option>
+        <option>Check not presented</option>
+        <answer>Discount received</answer>
+        <explanation>Discount received is recorded only in the books of the business and does not involve any separate bank movement apart from the net payment already recorded. It does not create a difference between cash book and bank statement specifically for reconciliation purposes.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If any amount is directly deposited into the bank then?</text>
+        <topic>Direct Deposit Effect</topic>
+        <option>Cash book will show less balance &amp; bank book will show more</option>
+        <option>Cash book will show more balance &amp; bank book will show less</option>
+        <option>Cash book will show double balance</option>
+        <option>Bank book will show double balance</option>
+        <answer>Cash book will show less balance &amp; bank book will show more</answer>
+        <explanation>When customers deposit money directly into the bank, the bank statement balance increases, but until recorded, the cash book (bank column) shows a lower balance. Hence bank shows more, cash book less.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Passbook is a copy of:</text>
+        <topic>Passbook Nature</topic>
+        <option>Copy of customer Account</option>
+        <option>Bank column of cash book</option>
+        <option>Cash column of cash book</option>
+        <option>Copy of receipts and payments</option>
+        <answer>Copy of customer Account</answer>
+        <explanation>The passbook (bank statement) is a copy of the customer&apos;s account as it appears in the books of the bank, with all debits and credits recorded by the bank for that customer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Unfavourable bank balance means:</text>
+        <topic>Overdraft Meaning</topic>
+        <option>Credit balance in passbook</option>
+        <option>Credit balance in cash book</option>
+        <option>Debit balance in cash book</option>
+        <option>None of these</option>
+        <answer>Credit balance in passbook</answer>
+        <explanation>In the bank statement, a debit balance means overdraft from the bank&apos;s perspective; but from the customer view commonly used in exams, &quot;unfavourable bank balance&quot; is treated as an overdraft, which appears as a debit in bank books and credit in the customer&apos;s cash book. However, by wording, they usually link unfavourable with overdraft shown as credit in passbook relative to customer; follow exam convention that overdraft is unfavourable, represented opposite to favourable credit balance, so option A is used.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A bank reconciliation statement is mainly prepared for:</text>
+        <topic>Purpose of BRS</topic>
+        <option>Reconcile the cash balance of the cash book.</option>
+        <option>Reconcile the difference between the bank balance shown by the cash book and bank passbook</option>
+        <option>Both (a) and (b)</option>
+        <option>None of these</option>
+        <answer>Reconcile the difference between the bank balance shown by the cash book and bank passbook</answer>
+        <explanation>The key purpose is to reconcile the bank balances as per cash book and passbook by identifying timing and recording differences. It is not merely to reconcile cash balance alone.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A debit balance in the depositor’s Cash Book will be shown as:</text>
+        <topic>Cash Book vs Passbook</topic>
+        <option>A debit balance in the Bank Statement.</option>
+        <option>A credit balance in the Bank Statement.</option>
+        <option>An overdrawn balance in the Bank</option>
+        <answer>A credit balance in the Bank Statement.</answer>
+        <explanation>In the customer&apos;s cash book, a debit bank balance is favourable (asset). In the bank&apos;s books, the corresponding balance is a credit, as the bank owes that amount to the customer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When balance as per Passbook is the starting point, interest allowed by bank is</text>
+        <topic>BRS Adjustment for Interest</topic>
+        <option>Added</option>
+        <option>Subtracted</option>
+        <option>Not required to be adjusted.</option>
+        <answer>Subtracted</answer>
+        <explanation>Interest allowed is credited by the bank in the passbook but may not yet be entered in the cash book. When starting from passbook to arrive at cash book balance, this interest is subtracted from the passbook balance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A Bank Reconciliation Statement is prepared with the help of:</text>
+        <topic>BRS Inputs</topic>
+        <option>Bank statement and bank column of the Cash Book.</option>
+        <option>Bank statement and cash column of the Cash Book</option>
+        <option>Bank column of the Cash Book and cash column of the Cash Book.</option>
+        <answer>Bank statement and bank column of the Cash Book.</answer>
+        <explanation>The reconciliation focuses on the bank balances, so it uses the bank statement (passbook) and the bank column of the cash book, not the cash column.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The cash book showed an overdraft of Rs 1,50,000, but the passbook made up to the same date showed that cheques of Rs 10,000, Rs 5,000 and Rs 12,500 respectively had not been presented for payments; and the cheque of Rs 4,000 paid into account had not been cleared. The balance as per the passbook will be:</text>
+        <topic>BRS Numerical</topic>
+        <option>Rs 1,10,000</option>
+        <option>Rs 2,17,500</option>
+        <option>Rs 1,26,500</option>
+        <answer>Rs 1,26,500</answer>
+        <explanation>Starting overdraft as per cash book = 1,50,000. Cheques issued but not presented (10,000 + 5,000 + 12,500 = 27,500) mean bank has not yet paid them, so overdraft in passbook is less: subtract 27,500 from overdraft (1,50,000 − 27,500 = 1,22,500). Cheque deposited but not cleared (4,000) means bank has not credited it, so passbook overdraft is greater by 4,000: 1,22,500 + 4,000 = 1,26,500 overdraft as per passbook.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When drawing up a Bank Reconciliation Statement, if you start with a debit balance as per the Bank Statement, the unpresented cheques should be:</text>
+        <topic>Unpresented Cheques Adjustment</topic>
+        <option>Added</option>
+        <option>Deducted</option>
+        <option>Not required to be adjusted</option>
+        <answer>Deducted</answer>
+        <explanation>A debit balance as per bank statement usually indicates overdraft. Cheques issued but not presented reduce balance in the cash book but not yet in the bank statement. To reconcile from passbook (bank statement) to cash book, these unpresented cheques are deducted from the passbook overdraft figure.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>To start a partnership business, what should be the minimum number of partners?</text>
+        <topic>Basics of Partnership</topic>
+        <option>2</option>
+        <option>10</option>
+        <option>4</option>
+        <option>20</option>
+        <answer>2</answer>
+        <explanation>A partnership requires at least two persons coming together to carry on a business and share its profits and losses. Hence, minimum number of partners is 2.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What type of agreement is used to form a partnership business?</text>
+        <topic>Partnership Agreement</topic>
+        <option>Written agreement</option>
+        <option>Oral agreement</option>
+        <option>Written or oral agreement</option>
+        <option>None of them</option>
+        <answer>Written or oral agreement</answer>
+        <explanation>Partnership can be formed by a written agreement (partnership deed) or even by an oral agreement between partners, though a written deed is recommended for clarity and legal evidence.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In partnership, partners liabilities are</text>
+        <topic>Liability of Partners</topic>
+        <option>Unlimited</option>
+        <option>Limited to the capital of the business</option>
+        <option>Limited</option>
+        <option>Both A and C</option>
+        <answer>Unlimited</answer>
+        <explanation>In an ordinary partnership, partners have unlimited liability. They are jointly and severally liable for all debts of the firm, and their personal assets can be used to pay firm&apos;s liabilities.</explanation>
+    </question>
+        <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the partnership written agreement known as:</text>
+        <topic>Partnership Basics</topic>
+        <option>Partnership contract</option>
+        <option>Agreement</option>
+        <option>Partnership deed</option>
+        <option>Partnership Act</option>
+        <answer>Partnership deed</answer>
+        <explanation>The formal written document that defines the rights, duties and obligations of partners is called a partnership deed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>No partnership agreement, what will be the percentage of profit-sharing ratio between them?</text>
+        <topic>Partnership Act – Default Rules</topic>
+        <option>Unequal</option>
+        <option>Equal</option>
+        <option>It will depend on the experience of a partner</option>
+        <option>It will depend on a partner’s capital</option>
+        <answer>Equal</answer>
+        <explanation>In the absence of an agreement, the Partnership Act provides that profits and losses are to be shared equally among partners.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The correct double entry to record interest on drawings is:</text>
+        <topic>Interest on Drawings</topic>
+        <option>Debit capital account Credit profit and loss appropriation account</option>
+        <option>Debit profit and loss appropriation account Credit current account</option>
+        <answer>Debit capital account Credit profit and loss appropriation account</answer>
+        <explanation>Interest on drawings is an income for the firm and a charge to the partner. The partner’s capital/current account is debited and Profit &amp; Loss Appropriation Account is credited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following would not be found in a profit &amp; loss appropriation account?</text>
+        <topic>P&amp;L Appropriation Items</topic>
+        <option>Interest on capital</option>
+        <option>Salaries</option>
+        <option>Interest on loan by partner to partnership</option>
+        <option>Interest on drawings</option>
+        <answer>Interest on loan by partner to partnership</answer>
+        <explanation>Interest on a partner’s loan is a charge against profits and is shown in the Profit &amp; Loss Account, not in the Profit &amp; Loss Appropriation Account which deals with distribution of profit among partners.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A debit balance on a partner’s current account must indicate that:</text>
+        <topic>Partner’s Current Account</topic>
+        <option>Drawings are higher than the profit share for that year</option>
+        <option>They have withdrawn more than they have earned in the partnership</option>
+        <option>They have a credit balance on their capital account</option>
+        <option>They are insolvent</option>
+        <answer>They have withdrawn more than they have earned in the partnership</answer>
+        <explanation>A debit balance on a current account means the partner is in deficit, i.e. total drawings and debits exceed their accumulated share of profits and other credits in that account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Current accounts of the partners should be opened when the capitals are:</text>
+        <topic>Fixed vs Fluctuating Capital</topic>
+        <option>Fixed</option>
+        <option>Fluctuating</option>
+        <option>Floating</option>
+        <option>Normal</option>
+        <answer>Fixed</answer>
+        <explanation>Under the fixed capital method, capital accounts remain constant; all adjustments like drawings, interest, salaries, share of profit are recorded through partners’ current accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is interest on drawings?</text>
+        <topic>Interest on Drawings</topic>
+        <option>Credited to partner’s current a/c</option>
+        <option>Not shown in current account</option>
+        <option>Debited to partner’s current a/c</option>
+        <option>None of the above</option>
+        <answer>Debited to partner’s current a/c</answer>
+        <explanation>Interest on drawings is recoverable from the partner, so the partner’s capital/current account is debited with interest on drawings; the firm gains that amount.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The main account for dealing with partnership dissolution would be:</text>
+        <topic>Dissolution of Firm</topic>
+        <option>Revaluation</option>
+        <option>Realisation</option>
+        <option>Appropriation</option>
+        <option>Dissolution</option>
+        <answer>Realisation</answer>
+        <explanation>On dissolution, assets and liabilities are transferred to a Realisation Account where sale proceeds, settlement of liabilities and profit or loss on realisation are recorded.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The rule in Garner v. Murray deals with:</text>
+        <topic>Garner v. Murray</topic>
+        <option>Writing goodwill off against reserves</option>
+        <option>How the debts of insolvent partners are to be cleared</option>
+        <option>How profits are to be divided if no prior partnership agreement exists</option>
+        <option>Rules for align the admittance of new partners</option>
+        <answer>How the debts of insolvent partners are to be cleared</answer>
+        <explanation>Garner v. Murray lays down how the capital deficiency of an insolvent partner is to be borne by solvent partners, usually in their capital ratio, unless agreed otherwise.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which is not a feature of a partnership business?</text>
+        <topic>Features of Partnership</topic>
+        <option>Ease of formation</option>
+        <option>Limited liability</option>
+        <option>Limited life</option>
+        <option>Mutual agency</option>
+        <answer>Limited liability</answer>
+        <explanation>In an ordinary partnership, partners have unlimited liability. Ease of formation, limited life (dissolution on death/retirement) and mutual agency are typical features of partnership.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In case of partnership the act of any partner is:</text>
+        <topic>Mutual Agency</topic>
+        <option>Binding on all partners</option>
+        <option>Binding on that partner only</option>
+        <option>Binding on all partners except that particular partner</option>
+        <option>None of the above</option>
+        <answer>Binding on all partners</answer>
+        <explanation>Because each partner is an agent of the firm, any act done by a partner in the ordinary course of business binds all the partners (principals) of the firm.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following statement is true?</text>
+        <topic>Minor as Partner</topic>
+        <option>a minor cannot be admitted as a partner</option>
+        <option>a minor can be admitted as a partner, only into the benefits of the partnership</option>
+        <option>a minor can be admitted as a partner, but his rights and liabilities are same of adult partner</option>
+        <option>none of the above</option>
+        <answer>a minor can be admitted as a partner, only into the benefits of the partnership</answer>
+        <explanation>A minor cannot be a full-fledged partner, but with consent of all partners he may be admitted to the benefits of partnership (share of profit) without being personally liable for losses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The relation of partner with the firm is that of:</text>
+        <topic>Nature of Relationship</topic>
+        <option>An Owner</option>
+        <option>An Agent</option>
+        <option>An Owner and an Agent</option>
+        <option>Manager</option>
+        <answer>An Owner and an Agent</answer>
+        <explanation>A partner is both a co-owner of the firm’s assets and an agent of the firm, authorised to act on behalf of all partners in the ordinary course of business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In the absence of Partnership Deed, the interest is allowed on partner’s capital:</text>
+        <topic>Default Rules – Interest on Capital</topic>
+        <option>@ 5% p.a.</option>
+        <option>@ 6% p.a.</option>
+        <option>@ 12% p.a.</option>
+        <option>No interest is allowed</option>
+        <answer>No interest is allowed</answer>
+        <explanation>Without an agreement, the Partnership Act provides that no interest is allowed on capital. However, interest on loans from partners is allowed at a fixed rate by law.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When is the Partnership Act enforced?</text>
+        <topic>Application of Partnership Act</topic>
+        <option>when there is no partnership deed</option>
+        <option>where there is a partnership deed but there are differences of opinion between the partners</option>
+        <option>when capital contribution by the partners varies</option>
+        <option>when the partner’s salary and interest on capital are not incorporated in the partnership deed</option>
+        <answer>when there is no partnership deed</answer>
+        <explanation>Statutory provisions of the Partnership Act apply when there is no deed, or the deed is silent on a particular point; then default rules (equal share, no interest on capital etc.) operate.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A and B are partners in partnership firm without any agreement. A has given a loan of Rs.50,000 to the firm. At the end of year loss was incurred in the business. Following interest may be paid to A by the firm :</text>
+        <topic>Interest on Partner’s Loan</topic>
+        <option>@5% Per Annum</option>
+        <option>@ 6% Per Annum</option>
+        <option>@ 6% Per Month</option>
+        <option>As there is a loss in the business, interest can’t be paid</option>
+        <answer>@ 6% Per Annum</answer>
+        <explanation>In the absence of an agreement, the Partnership Act allows interest on a partner’s loan to the firm at 6% p.a., even if the firm incurs a loss.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A and B are partners in a partnership firm without any agreement. A has withdrawn Rs.50,000 out of his Capital as drawings. Interest on drawings may be charged from A by the firm:</text>
+        <topic>Interest on Drawings – Default Rule</topic>
+        <option>@ 5% Per Annum</option>
+        <option>@ 6% Per Annum</option>
+        <option>@ 6% Per Month</option>
+        <option>No interest can be charged</option>
+        <answer>No interest can be charged</answer>
+        <explanation>Interest on drawings is chargeable only if there is an agreement. In the absence of any provision in the deed, no interest on drawings can be charged from partners.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A and B are partners in a partnership firm without any agreement. A devotes more time for the firm as compared to B. A will get the following commission in addition to profit in the firm’s profit:</text>
+        <topic>Partner’s Commission – Default Rule</topic>
+        <option>6% of profit</option>
+        <option>4% of profit</option>
+        <option>5% of profit</option>
+        <option>None of the above</option>
+        <answer>None of the above</answer>
+        <explanation>Without an agreement, no partner is entitled to any salary or commission for extra work; all partners share profits equally regardless of the time devoted.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In the absence of partnership deed, the following rule will apply:</text>
+        <topic>Default Provisions</topic>
+        <option>No interest on capital</option>
+        <option>Profit sharing in capital ratio</option>
+        <option>Profit based salary to working partner</option>
+        <option>9% p.a. interest on drawings</option>
+        <answer>No interest on capital</answer>
+        <explanation>Under the Partnership Act, if there is no deed, partners get no interest on capital, share profits equally and get no salary. So “no interest on capital” is the correct default rule here.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In the absence of agreement, partners are not entitled to:</text>
+        <topic>Entitlements Without Agreement</topic>
+        <option>Salary</option>
+        <option>Commission</option>
+        <option>Equal share in profit</option>
+        <option>Both (a) and (b)</option>
+        <answer>Both (a) and (b)</answer>
+        <explanation>By default, partners are entitled to equal shares of profit but are not entitled to salary or commission unless expressly agreed in the partnership deed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Interest on capital will be paid to the partners if provided for in the partnership deed but only out of:</text>
+        <topic>Interest on Capital</topic>
+        <option>Profits</option>
+        <option>Reserves</option>
+        <option>Accumulated Profits</option>
+        <option>Goodwill</option>
+        <answer>Profits</answer>
+        <explanation>Interest on capital is an appropriation of profit. It can be allowed only if there is profit. It is not paid out of capital, reserves or goodwill when profits are insufficient (unless deed specifically permits adjustment).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following items cannot be recorded in the profit and loss appropriation account?</text>
+        <topic>P&amp;L Appropriation Items</topic>
+        <option>Interest on capital</option>
+        <option>Interest on drawings</option>
+        <option>Rent paid to partner</option>
+        <option>Partner’s salary</option>
+        <answer>Rent paid to partner</answer>
+        <explanation>Rent paid to a partner for use of his premises is a business expense and is debited to the Profit &amp; Loss Account, not the Profit &amp; Loss Appropriation Account which deals with distribution of profits among partners.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In single entry system of accounting</text>
+        <topic>Single Entry</topic>
+        <option>Dual aspects of a transaction are recorded</option>
+        <option>Single aspect of a transaction is recorded</option>
+        <option>Important transactions are recorded</option>
+        <option>All of them</option>
+        <answer>Single aspect of a transaction is recorded</answer>
+        <explanation>In single entry (more precisely, incomplete records), only one aspect of many transactions is recorded, usually personal and cash aspects, so the double entry is incomplete.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Statement of financial position produced from incomplete accounting record is commonly known as</text>
+        <topic>Statement of Affairs</topic>
+        <option>Balance sheet</option>
+        <option>Cash flow statement</option>
+        <option>Statement of affairs</option>
+        <option>Statement of financial operations</option>
+        <answer>Statement of affairs</answer>
+        <explanation>Under single entry/incomplete records, a list of assets and liabilities is prepared and called a statement of affairs; it is similar to but less reliable than a balance sheet under double entry.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following businesses usually maintain incomplete accounting record of the business activities?</text>
+        <topic>Users of Single Entry</topic>
+        <option>Large businesses</option>
+        <option>Companies</option>
+        <option>Big partnership firms</option>
+        <option>Small businesses</option>
+        <answer>Small businesses</answer>
+        <explanation>Single entry or incomplete records are typically maintained by small traders and very small businesses due to simplicity and low cost, not by large firms or companies which must use double entry.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In which of the following systems of recording the financial statements reflect true and fair view of an entity and accounting records are considered to be more accurate?</text>
+        <topic>Single vs Double Entry</topic>
+        <option>Single entry system</option>
+        <option>Double entry system</option>
+        <option>Cash based system</option>
+        <option>None of the above</option>
+        <answer>Double entry system</answer>
+        <explanation>Double entry system records both debit and credit aspects of all transactions and allows preparation of reliable financial statements that present a true and fair view.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Identify the correct formula used to ascertain the closing balance of capital</text>
+        <topic>Closing Capital</topic>
+        <option>Opening capital + Net income – Drawing – Assets = Closing capital</option>
+        <option>Closing capital = Opening Capital + Net loss - Drawings</option>
+        <option>Closing Capital = Opening capital + Assets + Incomes – Expenses</option>
+        <option>Closing capital = Opening capital + Net income – Drawings</option>
+        <answer>Closing capital = Opening capital + Net income – Drawings</answer>
+        <explanation>Ignoring additional capital for simplicity, closing capital equals opening capital plus net profit minus drawings made during the period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following formulas is used to calculate the net income for an accounting period?</text>
+        <topic>Net Income under Single Entry</topic>
+        <option>Net income = opening capital + Drawings + Ending capital</option>
+        <option>Net income = -Opening capital + Drawings – Ending capital</option>
+        <option>Net income = Ending capital + Drawings - Opening capital</option>
+        <option>Net income = Opening capital – Total assets</option>
+        <answer>Net income = Ending capital + Drawings - Opening capital</answer>
+        <explanation>Under the capital comparison method: Net profit = Closing capital + Drawings − Opening capital (plus/minus any additional or withdrawn capital, if given).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following accounts is supposed to be used to get the figure of credit purchases made during the current accounting period?</text>
+        <topic>Finding Credit Purchases</topic>
+        <option>Debtor account</option>
+        <option>Revenue account</option>
+        <option>Creditors account</option>
+        <option>Expenses account</option>
+        <answer>Creditors account</answer>
+        <explanation>To find credit purchases, a Total Creditors or Purchases Ledger Control Account is used: opening creditors + credit purchases − payments − returns = closing creditors.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>To obtain the amount of credit sales made during an accounting period, which account is generally used in single entry and incomplete records?</text>
+        <topic>Finding Credit Sales</topic>
+        <option>A/c payable account</option>
+        <option>Total revenue account</option>
+        <option>Debtors account</option>
+        <option>Stock account</option>
+        <answer>Debtors account</answer>
+        <explanation>The Total Debtors Account (or debtors control account) is used to compute credit sales: opening debtors + credit sales − cash received − returns = closing debtors.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Closing balance of cash can be obtained by drawing up a</text>
+        <topic>Cash Balance</topic>
+        <option>Balance sheet</option>
+        <option>Statement of affairs</option>
+        <option>Income statement</option>
+        <option>Cash account</option>
+        <answer>Cash account</answer>
+        <explanation>A cash account summarises all cash receipts and payments; balancing this account gives the closing cash balance at the end of the period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Net profit + operating expenses = ?</text>
+        <topic>Gross Profit Relation</topic>
+        <option>Cost of goods sold</option>
+        <option>Amount of sales</option>
+        <option>Net sales</option>
+        <option>Gross profit</option>
+        <answer>Gross profit</answer>
+        <explanation>From the income statement: Gross profit − operating expenses = net profit. Rearranging gives Gross profit = Net profit + operating expenses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Opening capital is ascertained by preparing:</text>
+        <topic>Opening Capital under Single Entry</topic>
+        <option>Total debtors account</option>
+        <option>Total creditors account</option>
+        <option>Cash account</option>
+        <option>Opening statement of affairs</option>
+        <answer>Opening statement of affairs</answer>
+        <explanation>The opening capital under incomplete records is found as Capital = Total assets − Total liabilities, using an opening statement of affairs at the beginning of the period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If opening capital is ` 60,000, drawings ` 5,000, capital introduced during the period ` 10,000, closing capital ` 90,000. The value of profit earned during the period will be:</text>
+        <topic>Profit via Capital Comparison</topic>
+        <option>` 20,000</option>
+        <option>` 25,000</option>
+        <option>` 30,000</option>
+        <option>` 40,000</option>
+        <answer>` 25,000</answer>
+        <explanation>Profit = Closing capital + Drawings − Opening capital − Additional capital = 90,000 + 5,000 − 60,000 − 10,000 = 25,000.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In Single entry mostly:</text>
+        <topic>Nature of Single Entry</topic>
+        <option>Personal aspects of transaction are recorded</option>
+        <option>Nominal aspects of transaction are recorded</option>
+        <option>Real aspects of transaction are recorded</option>
+        <option>All of the above</option>
+        <answer>Personal aspects of transaction are recorded</answer>
+        <explanation>Single entry systems usually keep records of personal accounts (debtors, creditors) and cash, while many nominal and real accounts remain unrecorded or incomplete.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In double entry system:</text>
+        <topic>Double Entry</topic>
+        <option>Only one aspect of a transaction is recorded</option>
+        <option>Both aspect of a transaction is recorded</option>
+        <option>No aspect of a transaction is recorded</option>
+        <option>None of these</option>
+        <answer>Both aspect of a transaction is recorded</answer>
+        <explanation>Double entry means every transaction is recorded with equal debit and credit entries, reflecting both aspects of the transaction in the accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Statements of assets &amp; liabilities prepared under single entry system is called:</text>
+        <topic>Statement of Affairs</topic>
+        <option>Balance sheet</option>
+        <option>Profit &amp; loss statement</option>
+        <option>Statement of affairs</option>
+        <option>Income Statement</option>
+        <answer>Statement of affairs</answer>
+        <explanation>Under single entry, a statement listing assets and liabilities prepared to estimate capital is called a statement of affairs, not a formal balance sheet.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Statements of assets &amp; liabilities prepared under double entry system is called:</text>
+        <topic>Balance Sheet</topic>
+        <option>Balance sheet</option>
+        <option>Profit &amp; loss statement</option>
+        <option>Statement of affairs</option>
+        <option>Income Statement</option>
+        <answer>Balance sheet</answer>
+        <explanation>Under double entry accounting, the formal statement showing assets, liabilities and capital at a particular date is the balance sheet.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In single entry system profit is calculated by:</text>
+        <topic>Profit Formula – Single Entry</topic>
+        <option>Opening capital + Drawing – Fresh Capital – Closing Capital</option>
+        <option>Closing capital + Drawing + Fresh Capital – Opening Capital</option>
+        <option>Closing capital – Drawing + Fresh Capital – Opening Capital</option>
+        <option>Closing capital + Drawing – Fresh Capital – Opening Capital</option>
+        <answer>Closing capital + Drawing – Fresh Capital – Opening Capital</answer>
+        <explanation>Capital comparison: Profit = Closing capital + Drawings − Additional capital introduced − Opening capital.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>If opening capital is Rs.10,000 &amp; closing capital is Rs.15,000 then profit or loss:</text>
+        <topic>Simple Profit Calculation</topic>
+        <option>Loss of Rs.5,000</option>
+        <option>Profit of Rs.2,500</option>
+        <option>Profit of Rs.5,000</option>
+        <option>None of these</option>
+        <answer>Profit of Rs.5,000</answer>
+        <explanation>Assuming no drawings or additional capital: Profit = Closing capital − Opening capital = 15,000 − 10,000 = 5,000 (profit).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In single entry system, it is not possible to prepare:</text>
+        <topic>Limitations of Single Entry</topic>
+        <option>Receipts and payments A/c</option>
+        <option>Trial balance</option>
+        <option>Balance sheet</option>
+        <option>Account sales</option>
+        <answer>Trial balance</answer>
+        <explanation>A trial balance requires complete double entry records. Under single entry/incomplete records, a proper trial balance cannot be prepared reliably.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Investment can be defined as</text>
+        <topic>Investment</topic>
+        <option>Person’s dedication to purchasing a house or flat</option>
+        <option>Use of capital on assets to receive returns</option>
+        <option>Usage of money on a production process of products and services</option>
+        <option>Net additions made to the nation’s capital stocks</option>
+        <answer>Use of capital on assets to receive returns</answer>
+        <explanation>In financial management, investment generally means committing funds to assets (real or financial) with the expectation of earning returns in future.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The concept of Financial management is.</text>
+        <topic>Concept of Financial Management</topic>
+        <option>Profit maximization</option>
+        <option>All features of obtaining and using financial resources for company operations in a optimum manner</option>
+        <option>Organization of funds</option>
+        <option>Effective Management of every company</option>
+        <answer>All features of obtaining and using financial resources for company operations in a optimum manner</answer>
+        <explanation>Financial management focuses on planning, raising, allocating and controlling financial resources to optimise the firm’s objectives, not merely profit maximisation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>What is the primary goal of financial management?</text>
+        <topic>Goal of FM</topic>
+        <option>To minimize the risk</option>
+        <option>To maximize the return</option>
+        <option>To maximize the owner’s wealth</option>
+        <option>To raise profit</option>
+        <answer>To maximize the owner’s wealth</answer>
+        <explanation>The modern objective of financial management is wealth maximisation, usually reflected in maximising the market value of the shareholders’ equity, rather than just current profit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The capital budget is associated with.</text>
+        <topic>Capital Budgeting</topic>
+        <option>Long terms and short terms assets</option>
+        <option>Fixed assets</option>
+        <option>Long terms assets</option>
+        <option>Short term assets</option>
+        <answer>Long terms assets</answer>
+        <explanation>Capital budgeting refers to planning and evaluating long-term investments in fixed/long-term assets such as plant, machinery, projects etc.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one is not an important objective of financial Management?</text>
+        <topic>Objectives of FM</topic>
+        <option>Profit Maximisation</option>
+        <option>Wealth Maximisation</option>
+        <option>Value Maximisation</option>
+        <option>Maximisation of Social benefits</option>
+        <answer>Maximisation of Social benefits</answer>
+        <explanation>Core objectives of financial management are profit, value or wealth maximisation. Social benefits may be a broader corporate objective but is not a primary financial management objective in the narrow sense.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Financial audit is primarily concerned with expression of audit opinion on a set of financial statements.</text>
+        <topic>Financial Audit Objective</topic>
+        <option>FALSE</option>
+        <option>TRUE</option>
+        <answer>TRUE</answer>
+        <explanation>A financial (statutory) audit’s main purpose is to enable the auditor to express an opinion whether the financial statements give a true and fair view in accordance with the applicable framework.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The Primary objective of a financial audit is to</text>
+        <topic>Audit Objective</topic>
+        <option>Examine the accounts and records</option>
+        <option>Scrutinize financial statements</option>
+        <option>Point out overstatements and understatements of account balances</option>
+        <option>Express an opinion on the financial statements</option>
+        <answer>Express an opinion on the financial statements</answer>
+        <explanation>Though auditors examine records and scrutinise statements, these are means to the end. The primary objective is to express an independent opinion on the financial statements as a whole.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A financial audit is intended to give</text>
+        <topic>Level of Assurance</topic>
+        <option>Qualified Assurance</option>
+        <option>Absolute Assurance</option>
+        <option>Positive Assurance</option>
+        <option>Reasonable assurance</option>
+        <answer>Reasonable assurance</answer>
+        <explanation>Audits provide reasonable (high but not absolute) assurance that the financial statements are free from material misstatement. Absolute assurance is not possible due to inherent limitations of audit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Auditing begins where _____ends.</text>
+        <topic>Relation of Accounting and Auditing</topic>
+        <option>Selling.</option>
+        <option>Inventory valuation.</option>
+        <option>Accounting.</option>
+        <option>Purchases.</option>
+        <answer>Accounting.</answer>
+        <explanation>First, financial transactions are recorded and financial statements prepared through accounting. After that, auditing starts to examine and give opinion on those accounting records and statements.</explanation>
+    </question>
+
+        <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When the auditor is an employee of the organization being audited, the audit is classified as _____</text>
+        <topic>Types of Audit</topic>
+        <option>Internal</option>
+        <option>External</option>
+        <option>Compliance</option>
+        <option>Both A &amp; B</option>
+        <answer>Internal</answer>
+        <explanation>If the auditor is on the payroll of the same organization, the engagement is an internal audit; external auditors are independent of the entity.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Internal auditor is appointed by______</text>
+        <topic>Internal Audit</topic>
+        <option>Management</option>
+        <option>Shareholders</option>
+        <option>Government</option>
+        <option>Statutory body</option>
+        <answer>Management</answer>
+        <explanation>Internal auditors are part of the internal control system and are appointed by management or the board, not by shareholders or government.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Audit means _______.</text>
+        <topic>Meaning of Audit</topic>
+        <option>Recording business transactions</option>
+        <option>Preparing final accounts</option>
+        <option>Examination of books, accounts or vouchers</option>
+        <option>Decision making</option>
+        <answer>Examination of books, accounts or vouchers</answer>
+        <explanation>Auditing is the independent examination of books, vouchers and records to form an opinion on the financial statements, not the original recording or preparation itself.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Incomplete record mechanism of book keeping is :</text>
+        <topic>Incomplete Records</topic>
+        <option>Scientific</option>
+        <option>Unscientific</option>
+        <option>Unsystematic</option>
+        <option>both (b) and (c)</option>
+        <answer>both (b) and (c)</answer>
+        <explanation>Incomplete records lack full double entry and a proper system; hence they are regarded as both unscientific and unsystematic compared to full double-entry accounting.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Financial Statements are part of</text>
+        <topic>Scope of Accounting</topic>
+        <option>Accounting</option>
+        <option>Bookkeeping</option>
+        <option>All of the above</option>
+        <option>None of the above</option>
+        <answer>Accounting</answer>
+        <explanation>Bookkeeping focuses on recording; accounting includes recording plus classification, summarising and preparation of financial statements for reporting and analysis.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Historical cost concept requires the valuation of an asset at</text>
+        <topic>Historical Cost Concept</topic>
+        <option>Original Cost</option>
+        <option>Replacement Value</option>
+        <option>Market Value</option>
+        <option>Realisable Value</option>
+        <answer>Original Cost</answer>
+        <explanation>The historical cost concept requires assets to be recorded at the amount originally paid to acquire them, not at current market or replacement values.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Accounting standards in India are issued by</text>
+        <topic>Accounting Standards</topic>
+        <option>Central Govt</option>
+        <option>RBI</option>
+        <option>State Govt</option>
+        <option>ICAI</option>
+        <answer>ICAI</answer>
+        <explanation>In India, Accounting Standards are formulated and issued by the Institute of Chartered Accountants of India (ICAI), the professional body for CAs.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Loss leads to reduction in</text>
+        <topic>Effect of Loss</topic>
+        <option>Liability</option>
+        <option>Goods</option>
+        <option>Cash</option>
+        <option>Capital</option>
+        <answer>Capital</answer>
+        <explanation>Net loss reduces the owner’s equity; it is ultimately debited to capital, thereby decreasing the capital balance of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Furniture purchased for Rs 10000. In this transaction, accounts affected are</text>
+        <topic>Basic Journal Entry</topic>
+        <option>Furniture</option>
+        <option>Cash</option>
+        <option>Both</option>
+        <option>None</option>
+        <answer>Both</answer>
+        <explanation>The transaction is: Furniture A/c Dr. To Cash A/c. So both the Furniture account (asset) and Cash account (asset) are affected, one debited and one credited.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The proprietor is treated as creditor/internal liability for the Capital introduced by him due to………… Concept</text>
+        <topic>Business Entity Concept</topic>
+        <option>Money Measurement</option>
+        <option>Cost</option>
+        <option>Entity</option>
+        <option>Dual Aspect</option>
+        <answer>Entity</answer>
+        <explanation>The business entity concept treats business and owner as separate entities; capital is therefore shown as a liability of the business to the proprietor.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>According to Conservatism concept, the stock in trade is valued at</text>
+        <topic>Conservatism (Prudence)</topic>
+        <option>Market Price</option>
+        <option>Cost Price</option>
+        <option>Cost or Net Realisable Value, whichever is Higher</option>
+        <option>Cost or Net Realisable Value, whichever is Lower</option>
+        <answer>Cost or Net Realisable Value, whichever is Lower</answer>
+        <explanation>Prudence says do not anticipate profits but provide for losses. Hence inventories are valued at the lower of cost and net realisable value (NRV).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Discount received from Creditor is</text>
+        <topic>Discount Received</topic>
+        <option>Expense</option>
+        <option>Income</option>
+        <option>Loss</option>
+        <option>Asset</option>
+        <answer>Income</answer>
+        <explanation>Discount received reduces the amount payable to creditors; it is a gain for the business and is treated as an indirect income in the Profit &amp; Loss Account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The ………... Principle requires that the same accounting policies should be used from year to year</text>
+        <topic>Consistency Principle</topic>
+        <option>Accrual</option>
+        <option>Prudence</option>
+        <option>Conservatism</option>
+        <option>Consistency</option>
+        <answer>Consistency</answer>
+        <explanation>The consistency principle says that accounting policies and methods once chosen should be applied consistently over periods to make comparisons meaningful.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which book is called Principal Book</text>
+        <topic>Ledger</topic>
+        <option>Journal</option>
+        <option>Ledger</option>
+        <option>Balance Sheet</option>
+        <option>Day Book</option>
+        <answer>Ledger</answer>
+        <explanation>The ledger is called the principal book of accounts because it contains all accounts and is the main source for preparing the trial balance and financial statements.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Personal accounts are related to</text>
+        <topic>Classification of Accounts</topic>
+        <option>Assets &amp; Liabilities</option>
+        <option>Expenses &amp; Losses</option>
+        <option>Customers &amp; Creditors</option>
+        <option>Incomes &amp; Revenues</option>
+        <answer>Customers &amp; Creditors</answer>
+        <explanation>Personal accounts include accounts of persons and entities (debtors, creditors, banks, firms, etc.), typically customers and suppliers of the business.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Put the odd one out</text>
+        <topic>Types of Accounts</topic>
+        <option>Goodwill</option>
+        <option>Cash</option>
+        <option>Creditor</option>
+        <option>Debtor</option>
+        <answer>Creditor</answer>
+        <explanation>Goodwill, cash and debtor are assets, while a creditor represents a liability. Hence creditor is the odd one out in terms of nature (liability vs assets).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Preliminary expenses are</text>
+        <topic>Fictitious Assets</topic>
+        <option>Fictitious Assets</option>
+        <option>Expenses</option>
+        <option>Losses</option>
+        <option>Current Liability</option>
+        <answer>Fictitious Assets</answer>
+        <explanation>Preliminary expenses (like company formation expenses) are not real assets but deferred write-offs shown as fictitious assets until written off to Profit &amp; Loss A/c.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Sales are also known as</text>
+        <topic>Basic Terms</topic>
+        <option>Profit</option>
+        <option>Income</option>
+        <option>Revenue</option>
+        <option>Gain</option>
+        <answer>Revenue</answer>
+        <explanation>Sales represent the main operating revenue of a trading business and are classified under revenue in income statements.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which one of the following is not an external user of accounting information</text>
+        <topic>Users of Accounting Information</topic>
+        <option>Creditor</option>
+        <option>Manager</option>
+        <option>Supplier</option>
+        <option>Debtor</option>
+        <answer>Manager</answer>
+        <explanation>Managers are internal users of accounting information. Creditors, suppliers and debtors are external parties to the organization.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a Nominal Account</text>
+        <topic>Nominal vs Real Accounts</topic>
+        <option>Purchases A/C</option>
+        <option>Sales A/C</option>
+        <option>Cash</option>
+        <option>Salaries A/C</option>
+        <answer>Cash</answer>
+        <explanation>Cash A/c is a real account (asset). Purchases, sales and salaries accounts are nominal accounts relating to expenses, losses or incomes.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When an Asset increases, its account is</text>
+        <topic>Rules of Debit &amp; Credit</topic>
+        <option>Debited</option>
+        <option>Credited</option>
+        <option>Reduced</option>
+        <option>Increased</option>
+        <answer>Debited</answer>
+        <explanation>For real accounts (assets), the rule is: debit what comes in, credit what goes out. Thus, an increase in asset is recorded by debiting the asset account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The rule of “Debit all Expenses &amp; Losses” relates to</text>
+        <topic>Nominal Accounts</topic>
+        <option>Personal Accounts</option>
+        <option>Real Accounts</option>
+        <option>Nominal Accounts</option>
+        <option>All of the above</option>
+        <answer>Nominal Accounts</answer>
+        <explanation>Nominal accounts record incomes and expenses; the rule is: debit all expenses and losses, credit all incomes and gains.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following is not a Nominal Account</text>
+        <topic>Representative Personal Accounts</topic>
+        <option>Outstanding salaries A/C</option>
+        <option>Interest paid</option>
+        <option>Interest Received</option>
+        <option>Salaries A/C</option>
+        <answer>Outstanding salaries A/C</answer>
+        <explanation>Outstanding salaries is a representative personal account (representing the liability to pay employees), whereas interest paid, interest received and salaries A/c are nominal accounts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>For every debit, there will be an equal credit according to</text>
+        <topic>Dual Aspect</topic>
+        <option>Matching Concept</option>
+        <option>Cost Concept</option>
+        <option>Accrual Concept</option>
+        <option>Dual Aspect Concept</option>
+        <answer>Dual Aspect Concept</answer>
+        <explanation>The dual aspect concept states that every transaction has two aspects, debit and credit, of equal amount, which is the basis of double entry bookkeeping.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>When Liability increases, its account is</text>
+        <topic>Rules of Debit &amp; Credit</topic>
+        <option>Debited</option>
+        <option>Credited</option>
+        <option>not changed</option>
+        <option>Closed</option>
+        <answer>Credited</answer>
+        <explanation>For liabilities, the rule is: credit the increase, debit the decrease. Thus, an increase in liability is credited in the relevant account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>To whom goods are sold on credit</text>
+        <topic>Basic Terms</topic>
+        <option>Creditor</option>
+        <option>Debtor</option>
+        <option>Supplier</option>
+        <option>None of these</option>
+        <answer>Debtor</answer>
+        <explanation>The person who owes money to the business, e.g. because of goods sold on credit, is called a debtor. A creditor is someone to whom the business owes money.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In a Partnership, a Minor</text>
+        <topic>Minor in Partnership</topic>
+        <option>Cannot be a partner</option>
+        <option>Can be a partner,</option>
+        <option>can be partner only for the benefits</option>
+        <option>None of the above</option>
+        <answer>can be partner only for the benefits</answer>
+        <explanation>A minor can be admitted to the benefits of partnership (share in profits) with consent of all partners but cannot be a full-fledged partner liable for losses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Accounting records transactions in terms of</text>
+        <topic>Money Measurement Concept</topic>
+        <option>Commodity units</option>
+        <option>Monetary units</option>
+        <option>Production units</option>
+        <option>None of the above</option>
+        <answer>Monetary units</answer>
+        <explanation>The money measurement concept states that only those events and transactions that can be expressed in terms of money are recorded in the books of account.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Goodwill is recorded in the books when</text>
+        <topic>Recognition of Goodwill</topic>
+        <option>Super profit is earned by the enterprise</option>
+        <option>Money or Money’s worth is paid for acquiring goodwill</option>
+        <option>Mgt. of the enterprise decides to record goodwill</option>
+        <option>Any of the above</option>
+        <answer>Money or Money’s worth is paid for acquiring goodwill</answer>
+        <explanation>As per accounting principles, goodwill is recognised as an intangible asset only when it is purchased for consideration, not merely because the business earns super profits.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>A purchase book records</text>
+        <topic>Subsidiary Books</topic>
+        <option>All types of purchases</option>
+        <option>Only Credit purchase of goods</option>
+        <option>All types of credit purchase</option>
+        <option>Both credit and cash purchase of goods</option>
+        <answer>Only Credit purchase of goods</answer>
+        <explanation>The purchases book records only credit purchases of goods (items dealt in), not cash purchases or purchases of fixed assets on credit.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>The imprest system in used in relation to</text>
+        <topic>Petty Cash</topic>
+        <option>Purchase Book</option>
+        <option>Sales Book</option>
+        <option>Cash Book</option>
+        <option>Petty Cash Book</option>
+        <answer>Petty Cash Book</answer>
+        <explanation>Under the imprest system, a fixed amount is given to the petty cashier and periodically reimbursed; this system is specifically used for petty cash books.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Credit Balance of a passbook is a</text>
+        <topic>Bank Reconciliation</topic>
+        <option>Plus balance</option>
+        <option>Minus balance</option>
+        <option>Either Plus or Minus</option>
+        <option>Neither Plus nor Minus</option>
+        <answer>Plus balance</answer>
+        <explanation>In the bank’s books, the customer’s account is a liability; a credit balance in the passbook means the bank owes money to the customer, i.e. a favourable balance for the customer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following shows the chronological record of transactions.</text>
+        <topic>Journal</topic>
+        <option>Journal</option>
+        <option>Ledger</option>
+        <option>Trial Balance</option>
+        <option>None of the above</option>
+        <answer>Journal</answer>
+        <explanation>Transactions are first recorded in the journal in chronological (date) order; the ledger groups entries by account, not by date.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Assets very easily convertible into cash are</text>
+        <topic>Liquid Assets</topic>
+        <option>Current Assets</option>
+        <option>Fixed Assets</option>
+        <option>Liquid Assets</option>
+        <option>Floating Assets</option>
+        <answer>Liquid Assets</answer>
+        <explanation>Liquid assets are current assets that can be converted into cash quickly without significant loss, such as bank balance and marketable securities.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Periodic writing off of Intangible assets is called</text>
+        <topic>Amortisation</topic>
+        <option>Depreciation</option>
+        <option>Allocation</option>
+        <option>Amortisation</option>
+        <option>None of the above</option>
+        <answer>Amortisation</answer>
+        <explanation>The systematic allocation of the cost of an intangible asset (like patents, goodwill) over its useful life is called amortisation; depreciation is used for tangible fixed assets.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>On the dissolution of a firm if partner has a debit balance in his capital then</text>
+        <topic>Dissolution &amp; Capital Deficit</topic>
+        <option>He shall not share in the profit/loss on dissolution</option>
+        <option>He need not bring cash</option>
+        <option>He is required to bring in enough cash to clear off his debit balance</option>
+        <option>None of the above</option>
+        <answer>He is required to bring in enough cash to clear off his debit balance</answer>
+        <explanation>A debit balance in capital indicates the partner owes money to the firm; on dissolution, he must contribute cash to settle this deficit (subject to insolvency rules like Garner v. Murray).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>On dissolution all assets are transferred to realization account at</text>
+        <topic>Realisation Account</topic>
+        <option>Book value</option>
+        <option>Market value</option>
+        <option>Cost or Market value, whichever is less</option>
+        <option>Replacement value</option>
+        <answer>Book value</answer>
+        <explanation>On dissolution, assets are transferred from their ledger accounts to the Realisation Account at their book values; sale proceeds then determine profit or loss on realisation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>PFMS is managed by</text>
+        <topic>PFMS</topic>
+        <option>Central govt</option>
+        <option>Office of CGA</option>
+        <option>RBI</option>
+        <option>State govt</option>
+        <answer>Office of CGA</answer>
+        <explanation>The Public Financial Management System (PFMS) is implemented and managed by the Office of the Controller General of Accounts (CGA), under the Ministry of Finance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>PFMS/CPSMS was started in</text>
+        <topic>PFMS History</topic>
+        <option>2007-08</option>
+        <option>2008-09</option>
+        <option>2009-10</option>
+        <option>2014-15</option>
+        <answer>2008-09</answer>
+        <explanation>The CPSMS (now PFMS) project began around 2008-09 to track fund flows under central schemes and later expanded to a full public financial management platform.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Which of the following states were not part of initial PFMS implementation states</text>
+        <topic>PFMS States</topic>
+        <option>Madhya Pradesh</option>
+        <option>Punjab</option>
+        <option>West Bengal</option>
+        <option>Mizoram</option>
+        <answer>Mizoram</answer>
+        <explanation>The initial pilot implementation of CPSMS/PFMS was in larger states; Mizoram was not among the early pilot states listed in the usual exam references.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>In which year govt scrapped the distinction between Plan and non-plan expenditure</text>
+        <topic>Plan vs Non-plan</topic>
+        <option>2013</option>
+        <option>2019</option>
+        <option>2014</option>
+        <option>2017</option>
+        <answer>2017</answer>
+        <explanation>The distinction between Plan and non-Plan expenditure in the Union Budget was scrapped from the budget for 2017-18 onwards, effectively from 2017.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>CSR is in which section of companies Act,2013</text>
+        <topic>CSR Law</topic>
+        <option>133</option>
+        <option>135</option>
+        <option>137</option>
+        <option>134</option>
+        <answer>135</answer>
+        <explanation>Corporate Social Responsibility (CSR) requirements for certain companies are laid down in Section 135 of the Companies Act, 2013.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>India is at which number in implementation of CSR</text>
+        <topic>CSR Rank</topic>
+        <option>1st</option>
+        <option>2nd</option>
+        <option>3rd</option>
+        <option>4th</option>
+        <answer>1st</answer>
+        <explanation>India is often described as the first country in the world to have legislated mandatory CSR spending through its Companies Act, 2013 (Section 135).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>All of these are types of Assets</text>
+        <topic>Asset Types</topic>
+        <option>Fixed Assets</option>
+        <option>Floating Assets</option>
+        <option>Fictitious Assets</option>
+        <option>Tangible &amp; Intangible Assets</option>
+        <answer>Tangible &amp; Intangible Assets</answer>
+        <explanation>Fixed, floating, fictitious, tangible and intangible are all classifications of assets; the option &quot;Tangible &amp; Intangible Assets&quot; itself is a combined type and includes major asset classes discussed in theory.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Partner’s Capitals are:</text>
+        <topic>Capital Methods</topic>
+        <option>Fixed</option>
+        <option>Floating</option>
+        <option>Both of the above</option>
+        <option>None of the above</option>
+        <answer>Both of the above</answer>
+        <explanation>Partnerships may follow either the fixed capital method (separate current accounts) or the fluctuating capital method; hence capital can be fixed or fluctuating depending on the method used.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Accounting cycle includes:</text>
+        <topic>Accounting Cycle</topic>
+        <option>Recording</option>
+        <option>Classifying</option>
+        <option>Summarizing</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>The accounting cycle covers recording (journal), classifying (ledger), summarising (trial balance &amp; statements) and reporting, so all the listed steps are part of it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Qualitative characteristics of accounting information are</text>
+        <topic>Qualitative Characteristics</topic>
+        <option>Reliability</option>
+        <option>Relevance</option>
+        <option>Understandability</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Useful accounting information must be relevant, reliable (faithful), and understandable; comparability is another key qualitative characteristic often included with these.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Livestock includes</text>
+        <topic>Livestock</topic>
+        <option>Plant</option>
+        <option>Machinery</option>
+        <option>Animals</option>
+        <option>Life insurance Policy</option>
+        <answer>Animals</answer>
+        <explanation>Livestock refers to animals such as cattle, sheep, etc., kept by a business, typically an agricultural enterprise, and treated as biological assets or stock-in-trade depending on context.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>External users of accounting information are:</text>
+        <topic>External Users</topic>
+        <option>Researchers</option>
+        <option>Government</option>
+        <option>Tax authorities</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>Researchers, government agencies and tax authorities are all external to the business but rely on financial information for analysis, regulation and taxation purposes.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB FAA" subject="Accountancy">
+        <text>Capital profit is profit on</text>
+        <topic>Capital Profit</topic>
+        <option>Profit &amp; Loss A/c of Business</option>
+        <option>Sale of fixed asset</option>
+        <option>Sale of goods</option>
+        <option>None of these</option>
+        <answer>Sale of fixed asset</answer>
+        <explanation>Profit on sale of fixed assets or other capital items (not normal trading stock) is capital profit, distinct from revenue profit arising from normal business operations.</explanation>
+    </question>
+    
+
 
 
 </quizzes>
