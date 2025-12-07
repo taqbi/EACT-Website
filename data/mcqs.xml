@@ -2942,7 +2942,14 @@ Additional amount to be debited to P/L = 5,000 - 1,000 = 4,000.</explanation>
     </question>
 
     <question category="practice" exam="JKPSI (Police Sub Inspector)" subject="Environment and Ecology">
-        <text>Which of the following is/are the effects of Deforestation?</text>
+        <text>Which of the following is/are the effects of Deforestation?
+        Which of the following is/are consequence/s of deforestation?
+(1) Increase in atmospheric temperature.
+(2) Increase in the level of CO2 in the atmosphere.
+(3) Increases chances of natural calamities such as floods and drought.
+(4) Increase in groundwater level.
+
+        </text>
         <topic>Deforestation</topic>
         <option>A. 1 and 2 only</option>
         <option>B. 2 and 3 only</option>
