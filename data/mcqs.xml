@@ -16465,6 +16465,1527 @@ Pressing **Windows + X** in Windows 10 opens the **Power User / Start button con
 
 
 
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Idiom/Phrase from the given alternatives.
+Her speech during the gathering is completely _____________ with what we discussed last month.</text>
+  <topic>Idioms and Phrases</topic>
+  <option>at odds</option>
+  <option>way forward</option>
+  <option>in the water</option>
+  <option>run out</option>
+  <answer>at odds</answer>
+  <explanation>
+The expression **"at odds with"** means *in disagreement or in conflict with* something.  
+So, her speech is **at odds with** (i.e., contradicts) what was discussed last month.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Article from the given alternatives.
+The company is looking for ______ MA graduate.</text>
+  <topic>Articles</topic>
+  <option>No article</option>
+  <option>an</option>
+  <option>a</option>
+  <option>the</option>
+  <answer>an</answer>
+  <explanation>
+We choose the article based on **sound**, not spelling.  
+“MA” is pronounced as **/em eɪ/** starting with a vowel sound, so we use **an**:
+\[
+\text{an MA graduate}
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options.
+Q: the Public Accounts Committee, not being an executive body,
+P: can only make decisions that are advisory by nature
+R: was introduced in 1921 after its first mention
+S: in the Government of India Act, 1919</text>
+  <topic>Sentence Arrangement</topic>
+  <option>QPRS</option>
+  <option>QRPS</option>
+  <option>SQRP</option>
+  <option>SRQP</option>
+  <answer>QPRS</answer>
+  <explanation>
+Logical order:
+- **Q**: introduces *the Public Accounts Committee* with a qualifier.  
+- **P**: completes the idea about its nature.  
+- **R**: gives historical introduction year.  
+- **S**: adds detail “in the Government of India Act, 1919”.
+
+So the correct sequence is:
+\[
+Q \rightarrow P \rightarrow R \rightarrow S
+\]
+i.e. **QPRS**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text> Directions for questions 1 to 5- Read the short passage below and answer the questions that follow.
+The trail of death and devastation that Cyclone Amphan has left in West Bengal and Odisha
+demonstrates, once again, the fragile state of eastern coastal States during the storm season. At least 72 people are dead in Bengal and normal life is paralysed for millions in Kolkata and in the rural areas of both the States. That Amphan would be a terrible disaster was anticipated, but even with reliable forecasts of its movement since May 16, and the preparatory moves by National and State Disaster Response Force units, the impact has been catastrophic. The States along the east coast have evolved a code of practice for a storm coming under category 3 and above: evacuations, arranging for backup power, warning people to stay far from the coasts, designating strong buildings as cyclone shelters, and providing for at least a week’s supply of cooked food besides bolstering medical supplies. Yet, the loss of life and damage to livelihoods is always significant. This time has been no different, and the Centre and the governments of the affected States, including those in the Northeast lashed by heavy rain, must help people already weighed down by a severe lockdown pick up their lives again. There is an additional challenge, as thousands of people have been moved to crowded shelters where the COVID-19 pandemic poses a continuing threat. Adhering to hygienic practices, monitoring those requiring medical assistance and testing for the virus is a high priority.
+India’s cyclone warning system has made major advances for being able to provide clear
+warnings and saving lives but the precarious lives led by millions of citizens have once again been subjected to a severe shock. Many who were working in distant States have just returned to Odisha and Bengal in the wake of the economic paralysis caused by COVID-19, and need sustained support after the storm. West Bengal Chief Minister Mamata Banerjee has appealed for strong support from the Centre, which the State must be provided to help it overcome the double jeopardy of the pandemic and the cyclone. Encouragingly, some vital activities such as functioning of the Kolkata airport were restored a day after the cyclone struck, facilitating movement of essentials, and additional NDRF personnel despatched to restore normalcy. The challenge is to provide pre-fabricated facilities for safe shelter in outlying areas, such as the Sunderbans, and use off-the-shelf solutions such as solar power to mobilise communities. While the battle against the virus may yet be won sooner or later, India must strengthen its response capabilities for a neverending cycle of storms along its coastline.
+  What happened in Kolkata due to the cyclone Amphan as per the given passage?</text>
+  <topic>Reading Comprehension</topic>
+  <option>More than 1000 members were died</option>
+  <option>Fishermen were killed along coastal line</option>
+  <option>Economy is devastated</option>
+  <option>Normal life is paralysed for millions of people</option>
+  <answer>Normal life is paralysed for millions of people</answer>
+  <explanation>
+The passage clearly states that due to Cyclone Amphan, **“normal life is paralysed for millions in Kolkata and in the rural areas of both the States.”**  
+Hence, the correct choice is that **normal life is paralysed for millions of people**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Read the following statements and answer as per the given passage.
+Statement A: India’s cyclone warning system has made major advances for being able to provide clear warnings and saving lives.
+Statement B: Due to the Cyclone, at least 72 people are dead in Bengal and normal life is paralysed for millions in Kolkata and in the rural areas of both the States.</text>
+  <topic>Reading Comprehension</topic>
+  <option>Both the statements A and B are True</option>
+  <option>Statement A is True and Statement B is False</option>
+  <option>Statement A is False and Statement B is True</option>
+  <option>Both the statements A and B are False</option>
+  <answer>Both the statements A and B are True</answer>
+  <explanation>
+The passage mentions:
+- Advances in India’s **cyclone warning system** that help provide clear warnings and save lives.  
+- That **“at least 72 people are dead in Bengal and normal life is paralysed for millions in Kolkata and in the rural areas.”**
+
+So **both** Statement A and Statement B correctly reflect the passage.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Which of the following caused the economic paralysis as per the given passage?</text>
+  <topic>Reading Comprehension</topic>
+  <option>Land slide</option>
+  <option>COVID-19</option>
+  <option>Earth quake</option>
+  <option>Amphan</option>
+  <answer>COVID-19</answer>
+  <explanation>
+The passage says many workers returned “in the wake of the **economic paralysis caused by COVID-19**.”  
+So the economic paralysis was due to **COVID-19**, not directly due to the cyclone.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>How many people died in Bengal due to the cyclone Amphan?</text>
+  <topic>Reading Comprehension</topic>
+  <option>At least 72</option>
+  <option>Less than 50</option>
+  <option>At least 50</option>
+  <option>At least 100</option>
+  <answer>At least 72</answer>
+  <explanation>
+The passage clearly mentions:
+\[
+\text{“At least 72 people are dead in Bengal.”}
+\]
+So the correct answer is **At least 72**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>What is the contextual meaning for the highlighted word 'Precarious'?</text>
+  <topic>Vocabulary – Word Meaning</topic>
+  <option>Strong</option>
+  <option>Loaded</option>
+  <option>Dangerous</option>
+  <option>Volatile</option>
+  <answer>Dangerous</answer>
+  <explanation>
+“Precarious lives” in the passage refers to lives that are **unsafe, insecure, and at risk**, i.e. **dangerous**.  
+So the closest meaning is **dangerous**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Preposition from the given alternatives.
+All the trekkers walked _______________ the forest.</text>
+  <topic>Prepositions</topic>
+  <option>on</option>
+  <option>before</option>
+  <option>through</option>
+  <option>after</option>
+  <answer>through</answer>
+  <explanation>
+We use **“walked through the forest”** to mean they **passed inside/within** the forest from one side to the other.  
+“On” or “before” do not convey this movement inside an area.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Find the correct active/ passive voice for the given sentence.
+They bundled the crackers.</text>
+  <topic>Voice (Active / Passive)</topic>
+  <option>The crackers are bundled by them.</option>
+  <option>The crackers bundled by them.</option>
+  <option>The crackers were bundled by them.</option>
+  <option>The crackers had bundled by them.</option>
+  <answer>The crackers were bundled by them.</answer>
+  <explanation>
+Original sentence: **Simple past active** – "They bundled the crackers."
+
+Passive structure in simple past:
+\[
+\text{Object} + \text{was/were} + \text{past participle} + \text{by + subject}
+\]
+So:
+\[
+\text{The crackers were bundled by them.}
+\]
+is the correct passive form.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Choose the word which expresses nearly the opposite meaning of the given word "ASTUTE".</text>
+  <topic>Antonyms</topic>
+  <option>Brainy</option>
+  <option>Clever</option>
+  <option>Foolish</option>
+  <option>Adroit</option>
+  <answer>Foolish</answer>
+  <explanation>
+**Astute** means *shrewd, clever, mentally sharp*.  
+The opposite of this is **foolish**. The other options (brainy, clever, adroit) are all similar in meaning to astute, not opposite.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Choose the word which best expresses the similar meaning of the given word "CALLOW".</text>
+  <topic>Synonyms</topic>
+  <option>Calm</option>
+  <option>Sophisticated</option>
+  <option>Immature</option>
+  <option>Mature</option>
+  <answer>Immature</answer>
+  <explanation>
+**Callow** means *inexperienced, immature, green*.  
+So the closest synonym given is **Immature**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Idiom/Phrase from the given alternatives.
+She was in her ________________ when she received her job offer letter.</text>
+  <topic>Idioms and Phrases</topic>
+  <option>seventh heaven</option>
+  <option>apples to oranges</option>
+  <option>lion's share</option>
+  <option>knock out</option>
+  <answer>seventh heaven</answer>
+  <explanation>
+**“In seventh heaven”** means *extremely happy; in a state of great joy*.  
+Receiving a job offer fits this context of intense happiness.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>A. Once when I was feeling low, my father gave ____(A)____ a paper in which was written "No matter what you do, no matter how many times you screw up and think to ____(B)____ there is no point to carry on - keep going. Don't quit." I have that paper safe and I read it often.
+Choose the correct pronoun for blank (A).</text>
+  <topic>Pronouns</topic>
+  <option>me</option>
+  <option>myself</option>
+  <option>mine</option>
+  <option>I</option>
+  <answer>me</answer>
+  <explanation>
+Correct structure:
+\[
+\text{“my father gave me a paper”}
+\]
+“Gave” takes an indirect object “me”. “Myself” is reflexive and not needed here; “I” cannot be used as object; “mine” is possessive pronoun, also incorrect here.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>B. Once when I was feeling low, my father gave ____(A)____ a paper in which was written "No matter what you do, no matter how many times you screw up and think to ____(B)____ there is no point to carry on - keep going. Don't quit." I have that paper safe and I read it often.
+Choose the correct pronoun for blank (B).</text>
+  <topic>Pronouns</topic>
+  <option>myself</option>
+  <option>you</option>
+  <option>yourself</option>
+  <option>me</option>
+  <answer>yourself</answer>
+  <explanation>
+Inside the quote the speaker is repeating the **father’s general motivational message**, addressing the reader/“you” in a reflective way:
+\[
+\text{“…no matter how many times you screw up and think to yourself there is no point…”}
+\]
+So **“yourself”** is correct as a reflexive pronoun referring back to “you”.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options.
+Q: indonesia straddles the "Pacific Ring of Fire", a highly
+P: seismically active zone, where different plates
+R: on the earth’s crust meet and create
+S: a large number of earthquakes and volcanoes</text>
+  <topic>Sentence Arrangement</topic>
+  <option>QRPS</option>
+  <option>QPRS</option>
+  <option>SQPR</option>
+  <option>SQRP</option>
+  <answer>QPRS</answer>
+  <explanation>
+Logical sequence:
+- **Q**: Introduces Indonesia and the “Pacific Ring of Fire”.  
+- **P**: Explains it is a seismically active zone.  
+- **R**: Adds detail about plates on the earth’s crust.  
+- **S**: States the result – earthquakes and volcanoes.
+
+Order:
+\[
+Q \rightarrow P \rightarrow R \rightarrow S
+\]
+i.e. **QPRS**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Find the correct active/ passive voice for the given sentence.
+They are weaving silk sarees here.</text>
+  <topic>Voice (Active / Passive)</topic>
+  <option>Silk sarees are woven by them here.</option>
+  <option>Silk sarees were being woven by them here.</option>
+  <option>Silk sarees are being woven by them here.</option>
+  <option>Silk sarees were woven by them here.</option>
+  <answer>Silk sarees are being woven by them here.</answer>
+  <explanation>
+Original tense: **Present continuous active** – “are weaving”.
+
+Passive form:
+\[
+\text{Object} + \text{am/is/are being} + \text{past participle} + \text{by + subject}
+\]
+So:
+\[
+\text{Silk sarees are being woven by them here.}
+\]
+is correct.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>A ____________ rooftop was mounted on the fields of the most ____________ hotel in town.</text>
+  <topic>Confused Words / Vocabulary</topic>
+  <option>formerly, formally</option>
+  <option>latest, last</option>
+  <option>oral, aural</option>
+  <option>luxuriant, luxurious</option>
+  <answer>luxuriant, luxurious</answer>
+  <explanation>
+- **Luxuriant** = rich, abundant, lush (e.g., luxuriant growth, luxuriant rooftop garden).  
+- **Luxurious** = very comfortable, expensive, full of luxury (e.g., luxurious hotel).
+
+So:
+\[
+\text{a luxuriant rooftop} \quad \text{of the most luxurious hotel}
+\]
+is the correct pair.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Article from the given alternatives.
+English has become one of _______ common languages among people.</text>
+  <topic>Articles</topic>
+  <option>an</option>
+  <option>the</option>
+  <option>a</option>
+  <option>No article</option>
+  <answer>the</answer>
+  <explanation>
+Structure:
+\[
+\text{one of the} + \text{plural noun}
+\]
+is the standard pattern. Here, “common languages” is plural, so:
+\[
+\text{one of the common languages}
+\]
+Thus we use **the**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+  <text>Fill in the blanks with suitable Preposition from the given alternatives.
+The pen is ______________ the table.</text>
+  <topic>Prepositions</topic>
+  <option>till</option>
+  <option>through</option>
+  <option>besides</option>
+  <option>beneath</option>
+  <answer>beneath</answer>
+  <explanation>
+- **Beneath the table** = *under the table*, which fits normal spatial usage.  
+- “Besides” means *next to* (and would be “beside”, not “besides” in that sense).  
+So the best preposition is **beneath**.
+  </explanation>
+</question>
+
+
+
+
+
+
+
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>Which is the hottest month in Jammu region?</text>
+  <topic>Climate of Jammu &amp; Kashmir</topic>
+  <option>March</option>
+  <option>August</option>
+  <option>September</option>
+  <option>June</option>
+  <answer>June</answer>
+  <explanation>
+In the **Jammu** region, summer peaks around **June**, when temperatures are generally at their highest, often crossing \(40^\circ\text{C}\). Hence, **June** is considered the hottest month there.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>In August 2021, the Reserve Bank of India cancelled the licence of which of the following banks?</text>
+  <topic>Indian Economy</topic>
+  <option>Shivaji Rao Bhosale Sahakari Bank Ltd</option>
+  <option>The Karad Janata Sahakari Bank Ltd</option>
+  <option>The Kapol Co-operative Bank Ltd</option>
+  <option>Karnala Nagari Sahakari Bank Ltd</option>
+  <answer>Karnala Nagari Sahakari Bank Ltd</answer>
+  <explanation>
+In **August 2021**, the **RBI** cancelled the banking licence of **Karnala Nagari Sahakari Bank Ltd** due to its poor financial position and lack of prospects for revival under regulatory norms.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>What was the Nagpur Plan drawn in 1943 related to?</text>
+  <topic>Transport and Communication</topic>
+  <option>Space exploration</option>
+  <option>Telecommunication</option>
+  <option>Inland waterways</option>
+  <option>Road transportation</option>
+  <answer>Road transportation</answer>
+  <explanation>
+The **Nagpur Plan (1943)** is historically important in India as a comprehensive plan related to **road transportation**, aiming to develop an all-India road network in a systematic way.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>The book “The Valley of Kashmir” is written by:</text>
+  <topic>Books on Jammu &amp; Kashmir</topic>
+  <option>Prem Nath Bazaz</option>
+  <option>Walter Roper Lawrence</option>
+  <option>Alan Moorehead</option>
+  <option>Swaleh Reshi</option>
+  <answer>Walter Roper Lawrence</answer>
+  <explanation>
+**“The Valley of Kashmir”** is a classic work on Kashmir’s geography, society and administration written by **Walter Roper Lawrence**, a British settlement commissioner in Kashmir in the late 19th century.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>Emperor Jahangir wished to be buried at ______________, in Anantnag District of Jammu &amp; Kashmir.</text>
+  <topic>Mughal History in Kashmir</topic>
+  <option>Gurdashnag</option>
+  <option>Thattapani</option>
+  <option>Chamuthang</option>
+  <option>Verinag</option>
+  <answer>Verinag</answer>
+  <explanation>
+Mughal Emperor **Jahangir** was very fond of **Verinag**, a famous spring in present-day **Anantnag district**, and expressed his desire to be buried there. However, he was ultimately buried at Shahdara Bagh near Lahore.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+  <text>Where did the Champaran Satyagraha originate?</text>
+  <topic>Indian Freedom Movement</topic>
+  <option>Madhya Pradesh</option>
+  <option>Bihar</option>
+  <option>West Bengal</option>
+  <option>Assam</option>
+  <answer>Bihar</answer>
+  <explanation>
+The **Champaran Satyagraha (1917)** was Mahatma Gandhi’s first Satyagraha in India and it originated in **Champaran district of Bihar**, against the indigo plantation system.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>The ancient Devi Maha Lakshmi Temple, situated at Pacca Danga of Jammu District, was built by __________.</text>
+  <topic>Temples of Jammu</topic>
+  <option>Maharaja Vir Dev</option>
+  <option>Maharaja Ranbir Singh</option>
+  <option>Maharaja Dhanpal Singh</option>
+  <option>Maharaja Bhim Dev</option>
+  <answer>Maharaja Ranbir Singh</answer>
+  <explanation>
+The **Devi Maha Lakshmi Temple** at **Pacca Danga (Jammu city)** is traditionally associated with the rule of **Maharaja Ranbir Singh**, one of the prominent Dogra rulers of Jammu &amp; Kashmir.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Which among the following is an Impact Crater Lake of India?</text>
+  <topic>Indian Lakes</topic>
+  <option>Wular Lake</option>
+  <option>Karakul</option>
+  <option>Lonar Lake</option>
+  <option>Chilika Lake</option>
+  <answer>Lonar Lake</answer>
+  <explanation>
+**Lonar Lake** in Maharashtra is a famous **meteorite impact crater lake**, formed when a meteor struck the Deccan plateau basalt.  
+The others:
+- **Wular** – tectonic / floodplain lake in J&amp;K  
+- **Chilika** – brackish water lagoon in Odisha  
+- **Karakul** – outside India
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Which among the following lakes is India's first and largest artificial sweet water lake?</text>
+  <topic>Indian Lakes</topic>
+  <option>Dipor Bil</option>
+  <option>Umiam Lake</option>
+  <option>Dhebar Lake</option>
+  <option>Shilloi Lake</option>
+  <answer>Dhebar Lake</answer>
+  <explanation>
+**Dhebar Lake** (also called **Jaisamand Lake**) in Rajasthan is regarded as **India’s first and one of the largest artificial sweet-water lakes**, created in the 17th century by building a masonry dam on the Gomati River.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>Pulwama district in J&amp;K is famous for archaeological monuments especially for those left by _____________.</text>
+  <topic>Heritage of Jammu &amp; Kashmir</topic>
+  <option>Raja Suchet Singh &amp; Hari Dev</option>
+  <option>Raja Avantivarman &amp; Lalta Ditya</option>
+  <option>Raja Aggar Ullah Khan &amp; Noor-Ud-Din</option>
+  <option>Maharaja Hari Singh</option>
+  <answer>Raja Avantivarman &amp; Lalta Ditya</answer>
+  <explanation>
+**Pulwama district** is noted for archaeological remains, particularly temples and structures associated with ancient Kashmiri rulers like **Raja Avantivarman** and **Lalitaditya (Lalta Ditya)** of the Karkota dynasty.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Which of the following is the Headquarters of Eastern Railway Zone in India?</text>
+  <topic>Transport and Communication</topic>
+  <option>Allahabad</option>
+  <option>Gorakhpur</option>
+  <option>Hajipur</option>
+  <option>Kolkata</option>
+  <answer>Kolkata</answer>
+  <explanation>
+The **Eastern Railway Zone** of Indian Railways has its headquarters at **Kolkata** (Fairlie Place).  
+- **Gorakhpur** – HQ of North Eastern Railway  
+- **Hajipur** – HQ of East Central Railway  
+- **Prayagraj (Allahabad)** – HQ of North Central Railway
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Indravati River is one of the tributaries of river _________.</text>
+  <topic>Indian Rivers</topic>
+  <option>Kaveri</option>
+  <option>Godavari</option>
+  <option>Krishna</option>
+  <option>Mahanadi</option>
+  <answer>Godavari</answer>
+  <explanation>
+The **Indravati River** flows through Chhattisgarh, Maharashtra and Telangana and is a major **tributary of the Godavari River**, joining it in Telangana.  
+It does **not** belong to the Kaveri, Krishna or Mahanadi systems.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Golden Quadrilateral connects which of the following cities in India?</text>
+  <topic>Transpot and Communication</topic>
+  <option>Delhi-Mumbai-Chennai-Kolkata</option>
+  <option>Mumbai-Bengaluru-Chennai-Pune</option>
+  <option>Delhi-Mumbai-Hyderabad-Pune</option>
+  <option>Mumbai-Kolkata-Bengaluru-Hyderabad</option>
+  <answer>Delhi-Mumbai-Chennai-Kolkata</answer>
+  <explanation>
+The **Golden Quadrilateral (GQ)** is a highway network connecting four major metro cities of India:
+\[
+\text{Delhi} \leftrightarrow \text{Mumbai} \leftrightarrow \text{Chennai} \leftrightarrow \text{Kolkata} \leftrightarrow \text{Delhi}
+\]
+forming a quadrilateral.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>When did Maharaja Gulab Singh, the Dogra ruler of Jammu, annex the Kishtwar region?</text>
+  <topic>History J&amp;K</topic>
+  <option>1721 AD</option>
+  <option>1845 AD</option>
+  <option>1790 AD</option>
+  <option>1821 AD</option>
+  <answer>1821 AD</answer>
+  <explanation>
+**Maharaja Gulab Singh** expanded Dogra territories in the early 19th century. The **Kishtwar region** was annexed by him around **1821 AD**, laying the foundation for later consolidation of Jammu &amp; Kashmir under Dogra rule.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+  <text>Who is called the "Grand Old Man of India"?</text>
+  <topic>Indian National Movement Leaders</topic>
+  <option>E V Ramsamy</option>
+  <option>Dadabhai Naoroji</option>
+  <option>Anandha Charlu</option>
+  <option>Badruddin Tyabji</option>
+  <answer>Dadabhai Naoroji</answer>
+  <explanation>
+**Dadabhai Naoroji** is popularly known as the **“Grand Old Man of India”** for his pioneering role in the Indian National Movement and for propounding the **Drain of Wealth** theory about British economic exploitation of India.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>In which of the following districts of Jammu and Kashmir is the Bhaderwah meteorological observatory located?</text>
+  <topic>Meteorological Observatories in J&amp;K</topic>
+  <option>Doda</option>
+  <option>Reasi</option>
+  <option>Kulgam</option>
+  <option>Poonch</option>
+  <answer>Doda</answer>
+  <explanation>
+The **Bhaderwah meteorological observatory** is located in **Doda district** of Jammu &amp; Kashmir, helping record local climatic data for this hilly region.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>__________ Island was constructed by King Zainul-Abi-Din in the Wular Lake of Union Territory of Jammu &amp; Kashmir.</text>
+  <topic>Geography of Jammu &amp; Kashmir</topic>
+  <option>Char Chinari</option>
+  <option>Roopa Lank</option>
+  <option>Zaina Lank</option>
+  <option>Majuli</option>
+  <answer>Zaina Lank</answer>
+  <explanation>
+**Zaina Lank** is an artificial island in **Wular Lake**, constructed by Sultan **Zain-ul-Abidin** (Budshah), a famous Kashmiri ruler known for his public works and patronage.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+  <text>Which is the only Indian city selected for the 'International Clean Air Catalyst Programme' of USAID?</text>
+  <topic>Environment Initiatives in India</topic>
+  <option>Mysore</option>
+  <option>Mumbai</option>
+  <option>Hyderabad</option>
+  <option>Indore</option>
+  <answer>Indore</answer>
+  <explanation>
+**Indore** (Madhya Pradesh), already known for topping cleanliness rankings, was selected as the **only Indian city** under USAID’s **International Clean Air Catalyst Programme** to work on innovative air-quality solutions.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>___________ Town in Jammu &amp; Kashmir has derived its name from a famous spring named "Ganderbhavan".</text>
+  <topic>Toponymy of Jammu &amp; Kashmir</topic>
+  <option>Ganderbal</option>
+  <option>Srinagar</option>
+  <option>Reasi</option>
+  <option>Jammu</option>
+  <answer>Ganderbal</answer>
+  <explanation>
+The town and district **Ganderbal** derive their name from the nearby spring **“Ganderbhavan”**, showing how many place names in J&amp;K are linked to local water bodies and shrines.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+  <text>In which year was the construction of Dhannidhar Fort in Rajouri completed?</text>
+  <topic>Forts of Jammu &amp; Kashmir</topic>
+  <option>1848 A.D</option>
+  <option>1855 A.D</option>
+  <option>1850 A.D</option>
+  <option>1858 A.D</option>
+  <answer>1855 A.D</answer>
+  <explanation>
+**Dhannidhar Fort** in **Rajouri** is associated with the Dogra period and is recorded as having its construction completed around **1855 A.D.**, serving both strategic and administrative purposes.
+  </explanation>
+</question>
+
+
+
+
+
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>The average of 189 lab readings was 85 units. Later on it was found that a reading 274 was wrongly typed as 85. Find the correct average.</text>
+    <topic>Averages (Error Correction)</topic>
+    <option>76</option>
+    <option>86</option>
+    <option>66</option>
+    <option>56</option>
+    <answer>86</answer>
+    <explanation>
+Original (wrong) total:
+\[
+S_{\text{wrong}} = 85 \times 189
+\]
+
+Correct total:
+\[
+S_{\text{correct}} = S_{\text{wrong}} - 85 + 274 = 85 \times 189 + 189
+\]
+
+Correct average:
+\[
+\text{Average} = \frac{S_{\text{correct}}}{189} 
+= \frac{85 \times 189 + 189}{189} 
+= 85 + 1 = 86
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>In a certain code language:
+"clean and neat" is written as "so ra ni",
+"neat white floor" is written as "ju pa ra",
+"bright clean floor" is written as "ni ju ma".
+What is the code for "and" in the given code language?</text>
+    <topic>Coding-Decoding</topic>
+    <option>ni</option>
+    <option>ju</option>
+    <option>ra</option>
+    <option>so</option>
+    <answer>so</answer>
+    <explanation>
+From the first and third sentences:  
+
+- "clean and neat" → `so ra ni`  
+- "bright clean floor" → `ni ju ma`  
+
+Common word = **clean**, so common code = **ni**.  
+
+From first and second sentences:  
+
+- "clean and neat" → `so ra ni`  
+- "neat white floor" → `ju pa ra`  
+
+Common word = **neat**, so common code = **ra**.  
+
+Now in "clean and neat" (`so ra ni`), we already know:  
+- `ni` = clean  
+- `ra` = neat  
+
+Remaining word = **and**, remaining code = **so**.  
+So, **"and" → "so"**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>If A got 616 marks and B got 462 marks, then what percent of A's marks is B's marks?</text>
+    <topic>Percentage</topic>
+    <option>90</option>
+    <option>85</option>
+    <option>80</option>
+    <option>75</option>
+    <answer>75</answer>
+    <explanation>
+Required percentage:
+\[
+\frac{\text{B's marks}}{\text{A's marks}} \times 100
+= \frac{462}{616} \times 100
+\]
+
+Simplify:
+\[
+\frac{462}{616} = \frac{231}{308}
+\]
+
+Check:
+\[
+308 \times 0.75 = 231 \Rightarrow \frac{231}{308} = 0.75
+\]
+
+So percentage:
+\[
+0.75 \times 100 = 75\%
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>A man walks 3 km towards West; takes a right turn and walks 4 km. He then walks 1 km towards the starting point and reached the destination. How far is he from the starting position?</text>
+    <topic>Direction Sense</topic>
+    <option>4km</option>
+    <option>2km</option>
+    <option>3km</option>
+    <option>1km</option>
+    <answer>4km</answer>
+    <explanation>
+Take starting point as \((0,0)\).
+
+1. Walk 3 km West → \((-3, 0)\).  
+2. Right turn from West means **North**, walk 4 km → \((-3, 4)\).
+
+Distance from origin:
+\[
+d = \sqrt{(-3)^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 \text{ km}
+\]
+
+3. He walks 1 km **towards the starting point**, i.e. along the line back to \((0,0)\).  
+New distance from start:
+\[
+5 - 1 = 4 \text{ km}
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>In this question, a statement is given followed by two conclusions numbered i and ii. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+Statement: Every Saturday is a holiday. Today is a holiday.
+Conclusion:
+i. Today is Saturday.
+ii. Today is not a Saturday.
+Choose the appropriate one from the following options:
+(A) Only conclusion i follows
+(B) Only conclusion ii follows
+(C) Either i or ii follows
+(D) Neither i nor ii follows and
+(E) Both i and ii follow.</text>
+    <topic>Logical Reasoning (Statements and Conclusions)</topic>
+    <option>C</option>
+    <option>B</option>
+    <option>A</option>
+    <option>E</option>
+    <answer>C</answer>
+    <explanation>
+Statement: “Every Saturday is a holiday” means:
+\[
+\text{If it is Saturday} \Rightarrow \text{it is a holiday}
+\]
+but it does **not** mean holidays occur **only** on Saturdays.
+
+We know “Today is a holiday”, but that could be:
+- a Saturday, or  
+- some other holiday (festival, national holiday, etc.)
+
+So:
+- We **cannot** be sure today *is* Saturday.  
+- We **cannot** be sure today *is not* Saturday.
+
+Exactly one of the two must be true, but we don't know which. Hence **“either i or ii follows”**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Sabeer gets a discount of 10% on his purchase bill of Rs.7500. What is the total discount he got? (In Rs)</text>
+    <topic>Discount</topic>
+    <option>650</option>
+    <option>700</option>
+    <option>750</option>
+    <option>600</option>
+    <answer>750</answer>
+    <explanation>
+Discount:
+\[
+10\% \text{ of } 7500 = \frac{10}{100} \times 7500 = 750
+\]
+So he got a discount of **Rs.750**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>Find the next number in the series.
+12, 16, 25, 41, 66, ?</text>
+    <topic>Number Series</topic>
+    <option>100</option>
+    <option>102</option>
+    <option>98</option>
+    <option>92</option>
+    <answer>102</answer>
+    <explanation>
+Look at differences:
+
+\[
+16-12=4,\; 25-16=9,\; 41-25=16,\; 66-41=25
+\]
+
+So differences are:
+\[
+4, 9, 16, 25 = 2^2, 3^2, 4^2, 5^2
+\]
+
+Next difference should be:
+\[
+6^2 = 36
+\]
+
+Next term:
+\[
+66 + 36 = 102
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Find the unit digit in the product (538 × 1052 × 3312 × 8328).</text>
+    <topic>Number System (Last Digit)</topic>
+    <option>12</option>
+    <option>6</option>
+    <option>8</option>
+    <option>10</option>
+    <answer>6</answer>
+    <explanation>
+Consider only unit digits:
+
+\[
+538 \Rightarrow 8,\quad 1052 \Rightarrow 2,\quad 3312 \Rightarrow 2,\quad 8328 \Rightarrow 8
+\]
+
+Compute unit digit step by step:
+
+\[
+8 \times 2 = 16 \Rightarrow 6
+\]
+\[
+6 \times 2 = 12 \Rightarrow 2
+\]
+\[
+2 \times 8 = 16 \Rightarrow 6
+\]
+
+So the unit digit of the product is **6**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>The price of a bucket has increased from Rs.1240 to Rs.1426. Find the percentage increase in the price.</text>
+    <topic>Percentage</topic>
+    <option>5</option>
+    <option>15</option>
+    <option>20</option>
+    <option>10</option>
+    <answer>15</answer>
+    <explanation>
+Increase in price:
+\[
+1426 - 1240 = 186
+\]
+
+Percentage increase:
+\[
+\frac{186}{1240} \times 100
+\]
+
+Simplify:
+\[
+\frac{186}{1240} = \frac{93}{620}
+\]
+Now,
+\[
+\frac{93}{620} \times 100 = \frac{93 \times 100}{620} = \frac{9300}{62} = 150
+\div 10 = 15
+\]
+So the increase is **15\%**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>The ratio of two numbers is 8:9 and their sum is 1037. Find the greater of the two numbers.</text>
+    <topic>Ratio and Proportion</topic>
+    <option>549</option>
+    <option>529</option>
+    <option>539</option>
+    <option>519</option>
+    <answer>549</answer>
+    <explanation>
+Let the numbers be \(8k\) and \(9k\).
+
+Sum:
+\[
+8k + 9k = 17k = 1037 \Rightarrow k = \frac{1037}{17} = 61
+\]
+
+Greater number:
+\[
+9k = 9 \times 61 = 549
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>18 girls can dig a pit in 450 days. If a boy is twice as efficient as a girl, then 5 girls and 2 boys can dig a similar pit in how many days?</text>
+    <topic>Time and Work</topic>
+    <option>800</option>
+    <option>600</option>
+    <option>700</option>
+    <option>900</option>
+    <answer>900</answer>
+    <explanation>
+Total work (in girl-days):
+\[
+18 \times 450
+\]
+
+Rate of 1 girl:
+\[
+\frac{1}{18 \times 450}
+\]
+
+A boy is twice as efficient as a girl, so:
+\[
+\text{Rate of 1 boy} = \frac{2}{18 \times 450} = \frac{1}{9 \times 450}
+\]
+
+Rate of 5 girls \(+ 2\) boys:
+\[
+5 \times \frac{1}{18 \times 450} + 2 \times \frac{1}{9 \times 450}
+= \frac{5}{8100} + \frac{2}{4050}
+= \frac{5}{8100} + \frac{4}{8100} 
+= \frac{9}{8100} 
+= \frac{1}{900}
+\]
+
+So they take **900 days**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Eladevi travels at a speed of 139 kmph and she reaches the destination in 15 hours. Find the distance she covers. (In km)</text>
+    <topic>Speed, Time and Distance</topic>
+    <option>1885</option>
+    <option>1985</option>
+    <option>2185</option>
+    <option>2085</option>
+    <answer>2085</answer>
+    <explanation>
+\[
+\text{Distance} = \text{Speed} \times \text{Time} = 139 \times 15
+\]
+
+Compute:
+\[
+139 \times 15 = 139 \times (10 + 5) = 1390 + 695 = 2085
+\]
+
+So distance = **2085 km**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>Find the next term in the given series.
+PROCRASTINATION, OCRASTINATI, ROCRASTINATIO, CRASTINAT, OCRASTINATI, ?</text>
+    <topic>Alphabet/Word Series</topic>
+    <option>CRASTINAT</option>
+    <option>RASTINAT</option>
+    <option>CRASTIN</option>
+    <option>RASTINA</option>
+    <answer>RASTINA</answer>
+    <explanation>
+The word **PROCRASTINATION** is being cyclically reduced and shifted:
+
+- PROCRASTINATION  
+- OCRASTINATI (removed **PRON** pattern-wise)  
+- ROCRASTINATIO  
+- CRASTINAT  
+- OCRASTINATI  
+
+Continuing the pattern of trimming and shifting leads to the segment **RASTINA** as the next term.
+
+(For exam practice, you mostly match this by pattern recognition and options; the correct continuation is **RASTINA**.)
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>P is the mother of Q and R. R is the father of S and T. How is P related to T?</text>
+    <topic>Blood Relations</topic>
+    <option>Grandmother</option>
+    <option>Mother</option>
+    <option>Mother-in-law</option>
+    <option>Aunt</option>
+    <answer>Grandmother</answer>
+    <explanation>
+- P is mother of R.  
+- R is father of T.  
+
+So P is the **grandmother** of T.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Find the remainder when sum of 5 consecutive natural numbers from 5235 to 5239 (both inclusive) is divided by 5.</text>
+    <topic>Number System (Remainders)</topic>
+    <option>3</option>
+    <option>0</option>
+    <option>2</option>
+    <option>1</option>
+    <answer>0</answer>
+    <explanation>
+Numbers: \(5235, 5236, 5237, 5238, 5239\).
+
+For any 5 consecutive integers, their sum is:
+\[
+5 \times \text{(middle number)}
+\]
+
+Middle number = \(5237\).
+
+So sum:
+\[
+5 \times 5237
+\]
+
+Clearly divisible by \(5\), so remainder = **0**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Rs.1066 is divided among 2 men, 6 women and 8 boys so that the share of a man, a woman and a boy are in the ratio 3 : 2 : 1. Then, how much does a man get? (In Rs.)</text>
+    <topic>Ratio and Proportion</topic>
+    <option>120</option>
+    <option>121</option>
+    <option>123</option>
+    <option>119</option>
+    <answer>123</answer>
+    <explanation>
+Let shares be:
+
+- Boy = \(k\)  
+- Woman = \(2k\)  
+- Man = \(3k\)
+
+Total shares:
+\[
+2 \times 3k + 6 \times 2k + 8 \times k = 6k + 12k + 8k = 26k
+\]
+
+Given total:
+\[
+26k = 1066 \Rightarrow k = \frac{1066}{26} = 41
+\]
+
+Man’s share:
+\[
+3k = 3 \times 41 = 123
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+    <text>If R means 'add to', Q means 'multiply by', S means 'subtract from' and P means 'divide by', then (11Q4P2R7)S55 = ?</text>
+    <topic>Simplification (Coded Operations)</topic>
+    <option>26</option>
+    <option>30</option>
+    <option>38</option>
+    <option>32</option>
+    <answer>26</answer>
+    <explanation>
+Replace the codes:
+
+- \(Q\) → \(\times\)  
+- \(P\) → \(\div\)  
+- \(R\) → \(+\)  
+- \(S\) → “subtract from” (reverse order)
+
+Compute inside the brackets first:
+\[
+11Q4P2R7 \Rightarrow 11 \times 4 \div 2 + 7
+\]
+
+\[
+11 \times 4 = 44,\quad 44 \div 2 = 22,\quad 22 + 7 = 29
+\]
+
+Now:
+\[
+(29)S55 \Rightarrow 29 \text{ subtracted from } 55 = 55 - 29 = 26
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>Pipe A can fill a tank in 498 seconds and Pipe B can fill the same tank in 249 seconds. If both pipes are opened together, how many seconds will it take to fill the empty tank?</text>
+    <topic>Pipes and Cisterns</topic>
+    <option>186</option>
+    <option>176</option>
+    <option>196</option>
+    <option>166</option>
+    <answer>166</answer>
+    <explanation>
+Rates:
+
+\[
+A: \frac{1}{498} \text{ tank/sec}, \quad B: \frac{1}{249} \text{ tank/sec}
+\]
+
+Note:
+\[
+249 = \frac{498}{2} \Rightarrow \frac{1}{249} = \frac{2}{498}
+\]
+
+Combined rate:
+\[
+\frac{1}{498} + \frac{2}{498} = \frac{3}{498} = \frac{1}{166}
+\]
+
+So time taken:
+\[
+166 \text{ seconds}
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>A monitor for personal computer is bought for Rs.22500 and sold at Rs.15750. Find its loss percentage.</text>
+    <topic>Profit and Loss</topic>
+    <option>30</option>
+    <option>45</option>
+    <option>35</option>
+    <option>40</option>
+    <answer>30</answer>
+    <explanation>
+Cost price \(= 22500\), Selling price \(= 15750\).
+
+Loss:
+\[
+22500 - 15750 = 6750
+\]
+
+Loss percentage:
+\[
+\frac{6750}{22500} \times 100 = \frac{3}{10} \times 100 = 30\%
+\]
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+    <text>The average of 89 numbers is 235. After excluding one of the numbers, the average remains the same. Find the number which is excluded.</text>
+    <topic>Averages</topic>
+    <option>265</option>
+    <option>245</option>
+    <option>235</option>
+    <option>255</option>
+    <answer>235</answer>
+    <explanation>
+Let the excluded number be \(x\).
+
+Original total:
+\[
+S = 89 \times 235
+\]
+
+After excluding \(x\), there are \(88\) numbers, average still \(235\):
+\[
+\frac{S - x}{88} = 235 \Rightarrow S - x = 88 \times 235
+\]
+
+So:
+\[
+x = S - 88 \times 235 = 89 \times 235 - 88 \times 235 = 235
+\]
+
+Hence excluded number = **235**.
+    </explanation>
+</question>
+
+
+
+
+
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Pressing the ______ key will make the PowerPoint in presentation mode.</text>
+    <topic>MS PowerPoint Shortcuts</topic>
+    <option>F7</option>
+    <option>F1</option>
+    <option>F2</option>
+    <option>F5</option>
+    <answer>F5</answer>
+    <explanation>
+In Microsoft PowerPoint, pressing **F5** starts the slide show **from the first slide**.  
+So the correct key for presentation mode is **F5**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is SMTP?</text>
+    <topic>Internet and Email Protocols</topic>
+    <option>Simple Mail Transfer Protocol</option>
+    <option>Simple Message Transfer Protocol</option>
+    <option>Safer Mail Transfer Protocol</option>
+    <option>Soft Mail Transfer Protocol</option>
+    <answer>Simple Mail Transfer Protocol</answer>
+    <explanation>
+**SMTP** stands for **Simple Mail Transfer Protocol**.  
+It is the standard protocol used for **sending** emails across the Internet.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>______ is the process of storing data and instructions to make them readily available for initial or additional processing as and when required.</text>
+    <topic>Basic Computer Concepts</topic>
+    <option>Storing</option>
+    <option>Arranging</option>
+    <option>Inputting</option>
+    <option>Executing</option>
+    <answer>Storing</answer>
+    <explanation>
+The definition clearly matches the term **storing**:  
+keeping data and instructions in a memory/storage so they can be used later for processing.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Magnetic disk, Magnetic tape, optical disk, are example of which type of memory?</text>
+    <topic>Types of Memory</topic>
+    <option>Cache</option>
+    <option>Secondary</option>
+    <option>Primary</option>
+    <option>Main</option>
+    <answer>Secondary</answer>
+    <explanation>
+Devices like **magnetic disk, magnetic tape, optical disk (CD/DVD)** are used for **long-term storage**, not for direct CPU access.  
+They are therefore called **secondary memory** (secondary storage).
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>______ contains a photocell in a small tube and is used to select objects directly on the computer screen.</text>
+    <topic>Input Devices</topic>
+    <option>Light pen</option>
+    <option>Joystick</option>
+    <option>Mouse</option>
+    <option>Touch screen</option>
+    <answer>Light pen</answer>
+    <explanation>
+A **light pen** has a **photocell** in a small pen-like tube and is used to **point/select directly on the CRT screen**.  
+Hence, the correct answer is **light pen**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel 2019, which of the following shortcut keys is used to open the Format Cells dialog?</text>
+    <topic>MS Excel Shortcuts</topic>
+    <option>Ctrl + 2</option>
+    <option>Ctrl + 1</option>
+    <option>Ctrl + 4</option>
+    <option>Ctrl + 3</option>
+    <answer>Ctrl + 1</answer>
+    <explanation>
+In Microsoft Excel, pressing **Ctrl + 1** opens the **Format Cells** dialog box, where you can change number format, alignment, border, fill, etc.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The most popular keyboard used today is _________.</text>
+    <topic>Input Devices – Keyboard Layouts</topic>
+    <option>Quick</option>
+    <option>QWERTY</option>
+    <option>AZERTY</option>
+    <option>Usual</option>
+    <answer>QWERTY</answer>
+    <explanation>
+The standard keyboard layout where the first six letters on the top letter row are **Q-W-E-R-T-Y** is called the **QWERTY keyboard** and is the most widely used layout today.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>______ is used to identify coding errors at different stages of software development.</text>
+    <topic>Programming Tools</topic>
+    <option>Debugger</option>
+    <option>Translator</option>
+    <option>Loader</option>
+    <option>Linker</option>
+    <answer>Debugger</answer>
+    <explanation>
+A **debugger** is a software tool that helps programmers **find and fix errors (bugs)** in program code by allowing step-by-step execution, breakpoints, etc.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>95, 98, NT, XP are some of the versions of which Operating System?</text>
+    <topic>Operating Systems</topic>
+    <option>DOS</option>
+    <option>Android</option>
+    <option>Linux</option>
+    <option>Windows</option>
+    <answer>Windows</answer>
+    <explanation>
+**Windows 95, 98, NT, XP** are all versions of the **Microsoft Windows** operating system family.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word 2019, which of the following shortcut keys is used to copy the selected formatting?</text>
+    <topic>MS Word Shortcuts</topic>
+    <option>Ctrl + C</option>
+    <option>Ctrl + Alt + C</option>
+    <option>Ctrl + Shift + C</option>
+    <option>Alt + Shift + C</option>
+    <answer>Ctrl + Shift + C</answer>
+    <explanation>
+In MS Word,  
+- **Ctrl + C** copies text/content,  
+- **Ctrl + Shift + C** copies **formatting only** (like Format Painter via keyboard).  
+
+So the correct answer is **Ctrl + Shift + C**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Identify the correct email address:</text>
+    <topic>Basic Email Concepts</topic>
+    <option>https://books.com/mybook</option>
+    <option>mybook12@books.com</option>
+    <option>www.books.com</option>
+    <option>books.com/mybook-info</option>
+    <answer>mybook12@books.com</answer>
+    <explanation>
+A valid email address has the form:
+\[
+\text{username}@\text{domain}
+\]
+**mybook12@books.com** matches this format, so it is the correct email address.  
+The other options are URLs or web paths, not email addresses.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>___________ is a storage device or a secondary storage device.</text>
+    <topic>Storage Devices</topic>
+    <option>RAM</option>
+    <option>Human brain</option>
+    <option>ROM</option>
+    <option>Hard disk drive</option>
+    <answer>Hard disk drive</answer>
+    <explanation>
+A **hard disk drive (HDD)** is a **secondary storage device** used for long-term data storage.  
+RAM and ROM are types of **primary memory**, not secondary storage.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>___________ is the shortcut key to start a PowerPoint presentation.</text>
+    <topic>MS PowerPoint Shortcuts</topic>
+    <option>F5</option>
+    <option>F3</option>
+    <option>F7</option>
+    <option>F1</option>
+    <answer>F5</answer>
+    <explanation>
+Pressing **F5** in PowerPoint starts the slide show **from the beginning**.  
+This is the standard shortcut to start a presentation.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is DOS?</text>
+    <topic>Operating Systems – Basics</topic>
+    <option>Device Operating System</option>
+    <option>Dual Operating System</option>
+    <option>Double Operating System</option>
+    <option>Disk Operating System</option>
+    <answer>Disk Operating System</answer>
+    <explanation>
+**DOS** stands for **Disk Operating System**.  
+It is an early operating system that relied on disk storage for managing files and system operations (e.g., MS-DOS).
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>_______ button on Windows Explorer helps you make the window appear at its largest possible size.</text>
+    <topic>Windows GUI Basics</topic>
+    <option>Maximize</option>
+    <option>Restore</option>
+    <option>Minimize</option>
+    <option>Close</option>
+    <answer>Maximize</answer>
+    <explanation>
+The **Maximize** button enlarges the window to fill the screen, i.e., its **largest possible size**.  
+Minimize hides it to the taskbar, Restore resizes it back, and Close exits the window.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>How will you mark a specific area of a sheet for printing in MS Excel?</text>
+    <topic>MS Excel – Page Setup</topic>
+    <option>Using Page Layout - Print Area option</option>
+    <option>Using View - Print Area option</option>
+    <option>Using Data - Print Area option</option>
+    <option>Using Home - Print Area option</option>
+    <answer>Using Page Layout - Print Area option</answer>
+    <explanation>
+In Excel, to define a **Print Area**, you:  
+1. Select the range,  
+2. Go to **Page Layout → Print Area → Set Print Area**.  
+
+So the correct answer is **Page Layout - Print Area** option.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The file extension of a Microsoft Word Template file is __________.</text>
+    <topic>File Extensions</topic>
+    <option>ppt</option>
+    <option>xls</option>
+    <option>indd</option>
+    <option>dotx</option>
+    <answer>dotx</answer>
+    <explanation>
+In modern MS Word:
+- **.docx** → standard document  
+- **.dotx** → **template** file  
+
+So a Word template file uses the extension **.dotx**.
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Mouse, Trackball, Electronic pen etc. are which type of input devices?</text>
+    <topic>Input Devices Classification</topic>
+    <option>Vision based devices</option>
+    <option>Keyboard devices</option>
+    <option>Speech recognition devices</option>
+    <option>Point-and-draw devices</option>
+    <answer>Point-and-draw devices</answer>
+    <explanation>
+Devices like **mouse, trackball, electronic pen/stylus** are used to **point, drag, draw** on the screen.  
+They are classified as **point-and-draw devices** (pointing devices).
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A ______ is a non-impact printer which uses a laser beam to produce an image on a negatively charged cylindrical drum.</text>
+    <topic>Printers</topic>
+    <option>chain</option>
+    <option>drum</option>
+    <option>inkjet</option>
+    <option>laser</option>
+    <answer>laser</answer>
+    <explanation>
+A **laser printer** uses a **laser beam** to form an electrostatic image on a **negatively charged drum**, then transfers toner to paper.  
+So the correct answer is **laser** printer (a non-impact printer).
+    </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The evolution of computer to their present state is divided into ______ generations of computer, based on hardware and software development.</text>
+    <topic>Generations of Computers</topic>
+    <option>4</option>
+    <option>6</option>
+    <option>5</option>
+    <option>3</option>
+    <answer>5</answer>
+    <explanation>
+Historically, computer development is categorized into **five generations** based on technology (vacuum tubes, transistors, ICs, microprocessors, AI, etc.).  
+So the correct answer is **5** generations.
+    </explanation>
+</question>
+
+
+
 
 
 </quizzes>
