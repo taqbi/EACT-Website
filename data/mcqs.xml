@@ -14946,7 +14946,1215 @@ In Excel, **COUPDAYS** returns the number of days in the coupon period of a secu
 
 
 
+<!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct active/ passive voice for the given sentence in passive/ active voice from the given alternatives.<br/>They clean the terrace.</text>
+        <topic>Voice (Active/Passive)</topic>
+        <option>The terrace cleaned them.</option>
+        <option>The terrace is cleaned by them.</option>
+        <option>The terrace is clean by them.</option>
+        <option>The terrace was cleaned by them.</option>
+        <answer>The terrace is cleaned by them.</answer>
+        <explanation>
+The sentence is in simple present tense: **They clean the terrace.**  
+Rule:  
+\[
+\text{Active: } \text{Subject + V}_1 + \text{Object} \rightarrow 
+\text{Passive: Object + is/am/are + V}_3 + \text{by + Subject}
+\]  
+So it becomes: **The terrace is cleaned by them.**
+        </explanation>
+    </question>
 
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Directions: Read the short passage below and answer the questions that follow.
+As India’s vaccination drive chugs along with bursts of frenetic inoculation, there are possibilities
+of administering vaccines to children soon — as early as next month. At present, two Indian
+vaccines may be eligible for administration to children. Zydus Cadilla’s ZycoV-D, a three-dose
+plasmid DNA vaccine, with a 66.6% efficacy in phase-3 trials, has also been tested in adolescents
+(12-18 years), data for which has been submitted to the regulator. The company has also
+requested permission to test in children over five. Covaxin’s Bharat Biotech is also testing the
+vaccine in a cohort of children below 12. Though none of these studies has been completed, the
+expectations are that these vaccines may be ready by September. Pfizer’s mRNA vaccine has been
+authorised in those above 12 and Moderna’s too may be similarly approved in the U.S. Both
+companies are reportedly in discussions with the Indian government. Young children are at the
+least risk of hospitalisation and death from COVID-19 but are capable of being infection carriers
+and putting older caregivers at risk. This undergirds the difficult decision by governments to
+continue with school closures that has brought forth unprecedented challenges such as denying
+many Indian children access to quality education.
+From the global experience so far, the broad principle is that if an effective vaccine is available, it
+must be administered irrespective of age. However, it is also true that the vaccines are far more
+effective at protecting from disease than infection. Because children and adults respond to the
+virus differently, it still remains to be seen whether vaccinating children as a pre-requisite to
+opening schools actually brings down overall rates of infection. Countries that have vaccinated
+those above 12 and have fully opened up are also those boasting high rates of adult vaccination.
+In India, only around 10% of all adults have been fully vaccinated. India already has a challenging
+target of fully inoculating all adults — 94.4 crore — by the end of the year. A key constraint has
+been Covaxin; its manufacturer has been unable to ramp up monthly production to its stated
+nearly six crore doses. Put together, this implies that if the aim of universal vaccination is to
+protect from disease, then the thrust must be on prioritising adults over children. Government and
+independent experts have advised that schools can open in a staggered fashion. This again
+underlines that reopening should not be contingent on vaccination alone. There is also the worry
+that prioritising vaccines for children would mean diverting already limited stocks. Rather than
+blindly emulate the West, India must decide on what policy works best for its entire population,
+including children.
+        What is the meaning of the highlighted word <b>advised</b>?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Notified</option>
+        <option>Familiarised</option>
+        <option>Instructed</option>
+        <option>Enlightened</option>
+        <answer>Instructed</answer>
+        <explanation>
+In the passage, experts “have advised that schools can open…” – here **advised** is closest in meaning to **instructed / recommended** how something should be done.
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which of the following is a three-dose plasmid DNA vaccine?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Zydus Cadilla’s ZycoV-D</option>
+        <option>Pfizer’s mRNA vaccine</option>
+        <option>Bharat Biotech's Covaxin</option>
+        <option>All the above</option>
+        <answer>Zydus Cadilla’s ZycoV-D</answer>
+        <explanation>
+The passage clearly states that **Zydus Cadilla’s ZycoV-D** is “a three-dose plasmid DNA vaccine”. The others are different platforms (mRNA, inactivated virus etc.).
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Read the following statements and pick the correct option.<br/>
+Statement A: Young children are at the least risk of hospitalisation and death from COVID-19.<br/>
+Statement B: Countries that have vaccinated those above 18 and have fully opened up are also those boasting high rates of adult vaccination.</text>
+        <topic>Reading Comprehension</topic>
+        <option>Statement A is true and Statement B is false</option>
+        <option>Statement A is false and Statement B is true</option>
+        <option>Both the Statements are True</option>
+        <option>Both the Statements are False</option>
+        <answer>Statement A is true and Statement B is false</answer>
+        <explanation>
+From the passage:  
+- It explicitly says **young children are at the least risk** of hospitalisation and death ⇒ Statement A is **true**.  
+- It says countries have vaccinated **those above 12**, not 18 ⇒ Statement B, as worded, is **false**.
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>How much percentage of Indian adult population has been fully vaccinated?</text>
+        <topic>Reading Comprehension</topic>
+        <option>15%</option>
+        <option>20%</option>
+        <option>10%</option>
+        <option>30%</option>
+        <answer>10%</answer>
+        <explanation>
+The passage states: “In India, **only around 10% of all adults have been fully vaccinated**.” So the correct answer is **10%**.
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>At present how many Indian vaccines may be eligible for administration to children?</text>
+        <topic>Reading Comprehension</topic>
+        <option>Three</option>
+        <option>One</option>
+        <option>Four</option>
+        <option>Two</option>
+        <answer>Two</answer>
+        <explanation>
+The passage says “At present, **two Indian vaccines may be eligible** for administration to children” – ZycoV-D and Covaxin. Hence **two**.
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Article from the given alternatives.<br/>Most of ______________ chimneys come with a lifetime warranty offer so that you can enjoy cooking for many years.</text>
+        <topic>Articles</topic>
+        <option>the</option>
+        <option>No Article</option>
+        <option>a</option>
+        <option>an</option>
+        <answer>the</answer>
+        <explanation>
+Here we are talking about a **specific set** of chimneys (perhaps mentioned or known from context), so we use the definite article:  
+“Most of **the** chimneys…”
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Idiom/Phrase from the given alternatives.<br/>She has been in ____________ since Boju entered my life.</text>
+        <topic>Idioms &amp; Phrases</topic>
+        <option>the horizon</option>
+        <option>zero tolerance</option>
+        <option>heart touching</option>
+        <option>seventh heaven</option>
+        <answer>seventh heaven</answer>
+        <explanation>
+**In seventh heaven** means extremely happy or delighted.  
+So: “She has been in **seventh heaven** since Boju entered my life.”
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Find the correct active/ passive voice for the given sentence in passive/ active voice from the given alternatives.<br/>Change the room.</text>
+        <topic>Voice (Imperatives)</topic>
+        <option>Let the room be changed.</option>
+        <option>Let change the room.</option>
+        <option>Let the room changed.</option>
+        <option>Let the room change.</option>
+        <answer>Let the room be changed.</answer>
+        <explanation>
+Passive of an imperative is formed as:  
+\[
+\text{Let + object + be + V}_3
+\]  
+So “Change the room.” → **Let the room be changed.**
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the word which expresses nearly the opposite meaning of the given word "UPHOLD".</text>
+        <topic>Vocabulary – Antonyms</topic>
+        <option>Sustain</option>
+        <option>Hoist</option>
+        <option>Assist</option>
+        <option>Destroy</option>
+        <answer>Destroy</answer>
+        <explanation>
+To **uphold** means to support, maintain or defend. Its opposite in this list is **destroy** (to tear down / ruin), which is against supporting or maintaining something.
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Preposition from the given alternatives.<br/>I am living ____________ my parents.</text>
+        <topic>Prepositions</topic>
+        <option>with</option>
+        <option>since</option>
+        <option>through</option>
+        <option>at</option>
+        <answer>with</answer>
+        <explanation>
+We say **“live with someone”** when we share a home:  
+“I am living **with** my parents.”
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>On a hot summer day, a lion and a boar reached a small water body for a drink. They began arguing about ____(A)____ should drink first. After a while, they realised vultures are waiting above for one or both of ____(B)____ to fall from tiredness and they could feast on them. So, they drank peacefully and went their way.<br/>Fill blank (B).</text>
+        <topic>Pronouns</topic>
+        <option>us</option>
+        <option>them</option>
+        <option>they</option>
+        <option>whom</option>
+        <answer>them</answer>
+        <explanation>
+The phrase is: “for one or both of **them** to fall from tiredness”.  
+We need an **object pronoun** referring to lion and boar ⇒ **them**.
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>On a hot summer day, a lion and a boar reached a small water body for a drink. They began arguing about ____(A)____ should drink first. After a while, they realised vultures are waiting above for one or both of ____(B)____ to fall from tiredness and they could feast on them. So, they drank peacefully and went their way.<br/>Fill blank (A).</text>
+        <topic>Pronouns (Interrogative)</topic>
+        <option>who</option>
+        <option>whom</option>
+        <option>what</option>
+        <option>which</option>
+        <answer>who</answer>
+        <explanation>
+Correct structure is: “arguing about **who** should drink first.”  
+Here **who** is the subject of the verb “should drink”, so we use **who**, not “whom”.
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options.<br/>
+P: in Braille script as well as e-library under Sugamya Library<br/>
+Q: braille Press Bilaspur has received National Award for<br/>
+R: persons with text books, literature and informative books<br/>
+S: the remarkable work in online teaching of visually impaired</text>
+        <topic>Sentence Arrangement (Jumbled Sentences)</topic>
+        <option>QRSP</option>
+        <option>QSRP</option>
+        <option>QSPR</option>
+        <option>RPSQ</option>
+        <answer>QSPR</answer>
+        <explanation>
+Correct order: **Q S P R**  
+- Q: introduces Braille Press Bilaspur and the award  
+- S: tells what work – remarkable work in online teaching  
+- P: gives detail “in Braille script as well as e-library…”  
+- R: completes the idea “persons with text books, literature…”  
+So the sentence reads smoothly in Q→S→P→R.
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Article from the given alternatives.<br/>The Hindu is _________ ninth-most-circulated newspaper in India.</text>
+        <topic>Articles – Ordinals</topic>
+        <option>a</option>
+        <option>an</option>
+        <option>the</option>
+        <option>No Article</option>
+        <answer>the</answer>
+        <explanation>
+We use **the** before ordinal numbers (first, second, ninth, etc.):  
+“The Hindu is **the** ninth-most-circulated newspaper in India.”
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable pair of words.<br/>As Bose ____________ his soldiers into war, his armour seemed to be made of __________.</text>
+        <topic>Homophones</topic>
+        <option>led, lead</option>
+        <option>loose, lose</option>
+        <option>lead, led</option>
+        <option>lose, loose</option>
+        <answer>led, lead</answer>
+        <explanation>
+- Past tense of **lead** (verb) is **led** → “Bose **led** his soldiers…”  
+- The metal is **lead** (noun) → “made of **lead**.”  
+So the correct pair is **led, lead**.
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the word which best expresses the similar meaning of the given word "SERVILE".</text>
+        <topic>Vocabulary – Synonyms</topic>
+        <option>Submissive</option>
+        <option>Arrogant</option>
+        <option>Assertive</option>
+        <option>Bossy</option>
+        <answer>Submissive</answer>
+        <explanation>
+**Servile** means excessively willing to serve or please others; like a slave.  
+Closest synonym here is **submissive** (ready to yield or obey).
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Rearrange the following to form a meaningful sentence and find the most logical order from the given options.<br/>
+P: the main objective of the International apple festival<br/>
+Q: the apples of Uttarakhand to the international market<br/>
+R: is to promote apple production in the state and to promote<br/>
+S: organised in Dehradun where around fifty types were exhibited</text>
+        <topic>Sentence Arrangement (Jumbled Sentences)</topic>
+        <option>PSRQ</option>
+        <option>SRPQ</option>
+        <option>SQRP</option>
+        <option>PQRS</option>
+        <answer>PSRQ</answer>
+        <explanation>
+Logical order: **P S R Q**  
+- P introduces “the main objective of the International apple festival…”  
+- S gives extra info about the festival (organised in Dehradun…)  
+- R continues “is to promote apple production… and to promote”  
+- Q finishes “the apples of Uttarakhand to the international market.”  
+So PSRQ forms a clear, complete sentence.
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Preposition from the given alternatives.<br/>India won’t back down _________ its plan for mandatory data localisation.</text>
+        <topic>Prepositions – Phrasal Verbs</topic>
+        <option>on</option>
+        <option>since</option>
+        <option>under</option>
+        <option>near</option>
+        <answer>on</answer>
+        <explanation>
+The correct phrasal combination is **“back down on (a plan / demand)”**.  
+So: “India won’t back down **on** its plan…”
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Fill in the blanks with suitable Idiom/Phrase from the given alternatives.<br/>This new education program is the _________________ if we want to save our institution.</text>
+        <topic>Idioms &amp; Phrases</topic>
+        <option>play by ear</option>
+        <option>bronze linings</option>
+        <option>long wire</option>
+        <option>way forward</option>
+        <answer>way forward</answer>
+        <explanation>
+**The way forward** means the best plan or direction for the future.  
+So: “This new education program is the **way forward** if we want to save our institution.”
+        </explanation>
+    </question>
+
+
+
+
+
+   <!-- Q1 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which of the following festivals is celebrated on April 13th of every year in Jammu &amp; Kashmir?</text>
+        <topic>Festivals of J&amp;K</topic>
+        <option>Tulip Festival</option>
+        <option>Shikara Festival</option>
+        <option>Baisakhi Festival</option>
+        <option>Gurez Festival</option>
+        <answer>Baisakhi Festival</answer>
+        <explanation>
+Baisakhi is celebrated every year on **13th April** (sometimes 14th), marking the harvest festival and solar new year in North India, including Jammu &amp; Kashmir. Hence, the correct option is **Baisakhi Festival**.
+        </explanation>
+    </question>
+
+    <!-- Q2 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which one of the following describes a system of agriculture where a single crop is grown on a large area?</text>
+        <topic>Crops and Climate</topic>
+        <option>Shifting Agriculture</option>
+        <option>Plantation Agriculture</option>
+        <option>Intensive Agriculture</option>
+        <option>Horticulture</option>
+        <answer>Plantation Agriculture</answer>
+        <explanation>
+**Plantation agriculture** is characterised by:
+- A **single crop (monoculture)**  
+- Grown on a **large estate/area**  
+Examples: tea, coffee, rubber, sugarcane, etc.  
+So plantation agriculture best matches the description.
+        </explanation>
+    </question>
+
+    <!-- Q3 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which state has registered the highest coal production in FY 2020-21?</text>
+        <topic>Indian Economy &amp; Resources</topic>
+        <option>Jharkhand</option>
+        <option>Odisha</option>
+        <option>Chhattisgarh</option>
+        <option>West Bengal</option>
+        <answer>Chhattisgarh</answer>
+        <explanation>
+As per the question’s key for FY 2020–21, **Chhattisgarh** is stated as the state with the highest coal production among the given options, so that is the correct answer for this PYQ.
+        </explanation>
+    </question>
+
+    <!-- Q4 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>The famous tourist destination Yusmarg, is located in ____________ district of Union Territory of Jammu &amp; Kashmir.</text>
+        <topic>Tourism in J&amp;K</topic>
+        <option>Doda</option>
+        <option>Shopian</option>
+        <option>Badgam</option>
+        <option>Jammu</option>
+        <answer>Badgam</answer>
+        <explanation>
+**Yusmarg** is a well-known meadow and tourist destination situated in the **Budgam (Badgam) district** of Jammu &amp; Kashmir. Hence **Badgam** is correct.
+        </explanation>
+    </question>
+
+    <!-- Q5 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>During which year, Kashmir passed on from the feeble control of the Mughal emperor of the time to Ahmed Shah Abdali of Afghanistan?</text>
+        <topic>History of Kashmir</topic>
+        <option>1888 A.D.</option>
+        <option>1640 A.D.</option>
+        <option>1947 A.D.</option>
+        <option>1752 A.D.</option>
+        <answer>1752 A.D.</answer>
+        <explanation>
+Kashmir came under the control of **Ahmed Shah Abdali** (Durrani) of Afghanistan in **1752 A.D.**, ending the effective Mughal hold over the region.
+        </explanation>
+    </question>
+
+    <!-- Q6 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>The District Ganderbal was carved out from which of the following districts in Jammu and Kashmir?</text>
+        <topic>Administrative Setup of J&amp;K</topic>
+        <option>Doda</option>
+        <option>Srinagar</option>
+        <option>Anantnag</option>
+        <option>Kupwara</option>
+        <answer>Srinagar</answer>
+        <explanation>
+**Ganderbal** district was created by carving it out of **Srinagar** district, so the parent district is Srinagar.
+        </explanation>
+    </question>
+
+    <!-- Q7 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>_____________ in Kashmir is famous for its hilltop Muslim shrine.</text>
+        <topic>Places of Religious Importance – J&amp;K</topic>
+        <option>Ajmer Sharif</option>
+        <option>Haji Ali</option>
+        <option>Watlab</option>
+        <option>Dargah Qutub Sahib</option>
+        <answer>Watlab</answer>
+        <explanation>
+**Watlab**, in North Kashmir near Wular Lake, is known for a prominent **hilltop Muslim shrine** (the shrine of Baba Shukur-ud-Din), making **Watlab** the correct answer.
+        </explanation>
+    </question>
+
+    <!-- Q8 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>District Kishtwar was carved out from which of the following districts during the year 2007-08?</text>
+        <topic>Polity – J&amp;K</topic>
+        <option>Anantnag</option>
+        <option>Poonch</option>
+        <option>Doda</option>
+        <option>Ramban</option>
+        <answer>Doda</answer>
+        <explanation>
+**Kishtwar** district was formed in **2007–08** by bifurcating the old **Doda** district. So **Doda** is correct.
+        </explanation>
+    </question>
+
+    <!-- Q9 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>What is the pre announced price for the crops declared by the government annually before the sowing season known as?</text>
+        <topic>Indian Economy</topic>
+        <option>Market Buffer Price</option>
+        <option>Market Issue Price</option>
+        <option>Minimum Support Price</option>
+        <option>Buffer Stock Price</option>
+        <answer>Minimum Support Price</answer>
+        <explanation>
+The **Minimum Support Price (MSP)** is the **pre-announced price** declared by the government **before the sowing season** to assure farmers a minimum return on their produce.
+        </explanation>
+    </question>
+
+    <!-- Q10 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>India’s First Cryptogamic garden is inaugurated in which district of Uttarakhand?</text>
+        <topic>Indian Geography &amp; Environment</topic>
+        <option>Dehradun</option>
+        <option>Nainital</option>
+        <option>Pauri Garhwal</option>
+        <option>Chamoli</option>
+        <answer>Dehradun</answer>
+        <explanation>
+The PYQ key states **Dehradun** as the district where India’s first **cryptogamic garden** was inaugurated, so that is the answer you must mark for this exam question.
+        </explanation>
+    </question>
+
+    <!-- Q11 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which of the following is the shortest National Highway in India?</text>
+        <topic>Transport and Communication</topic>
+        <option>NH 31B</option>
+        <option>NH 26</option>
+        <option>NH 35</option>
+        <option>NH 47A</option>
+        <answer>NH 47A</answer>
+        <explanation>
+Among the options, **NH 47A** (now renumbered in the new system) is historically known as one of the **shortest National Highways** in India, so the correct answer as per the key is **NH 47A**.
+        </explanation>
+    </question>
+
+    <!-- Q12 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>In which year, Samba region came under the supremacy of Jammu, during the period of Hari Dev?</text>
+        <topic>History of Jammu Region</topic>
+        <option>1816 A.D.</option>
+        <option>1929 A.D.</option>
+        <option>1876 A.D.</option>
+        <option>1899 A.D.</option>
+        <answer>1816 A.D.</answer>
+        <explanation>
+The **Samba region** came under the supremacy of Jammu during the rule of **Hari Dev** in **1816 A.D.**, hence 1816 A.D. is correct.
+        </explanation>
+    </question>
+
+    <!-- Q13 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Where did the Kheda Satyagraha originate?</text>
+        <topic>Indian Freedom Struggle</topic>
+        <option>Madhya Pradesh</option>
+        <option>Bihar</option>
+        <option>Gujarat</option>
+        <option>West Bengal</option>
+        <answer>Gujarat</answer>
+        <explanation>
+The **Kheda Satyagraha (1918)** was a peasant movement led by Mahatma Gandhi in **Kheda district of Gujarat**, so the correct answer is **Gujarat**.
+        </explanation>
+    </question>
+
+    <!-- Q14 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which of the following districts is a part of Jammu region?</text>
+        <topic>Districts of J&amp;K</topic>
+        <option>Baramulla</option>
+        <option>Pulwama</option>
+        <option>Udhampur</option>
+        <option>Kupwara</option>
+        <answer>Udhampur</answer>
+        <explanation>
+- **Baramulla, Pulwama, Kupwara** belong to the Kashmir division.  
+- **Udhampur** is a district in the **Jammu region**.  
+So, **Udhampur** is correct.
+        </explanation>
+    </question>
+
+    <!-- Q15 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>In which year was the Wildlife Protection Act enacted by the Government of India?</text>
+        <topic>Environmnent and Ecology</topic>
+        <option>1969</option>
+        <option>1972</option>
+        <option>1974</option>
+        <option>1970</option>
+        <answer>1972</answer>
+        <explanation>
+The **Wildlife (Protection) Act** was passed by the Government of India in **1972**, providing legal protection to wildlife and their habitats.
+        </explanation>
+    </question>
+
+    <!-- Q16 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Narmada river, the fifth longest river in India, flows through the states of _________.</text>
+        <topic>Indian Rivers</topic>
+        <option>Madhya Pradesh, Gujarat and Rajasthan</option>
+        <option>Madhya Pradesh, Maharashtra and Goa</option>
+        <option>Madhya Pradesh, Gujarat and Maharashtra</option>
+        <option>Madhya Pradesh, Gujarat, Maharashtra and Goa</option>
+        <answer>Madhya Pradesh, Gujarat and Maharashtra</answer>
+        <explanation>
+The **Narmada River** flows mainly through:
+- **Madhya Pradesh**
+- Forms part of the boundary with **Maharashtra**
+- And finally flows through **Gujarat** into the Arabian Sea.  
+
+Thus the correct combination is **Madhya Pradesh, Gujarat and Maharashtra**.
+        </explanation>
+    </question>
+
+    <!-- Q17 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>Which of the following districts in Jammu &amp; Kashmir is the birthplace of Basohli Art Paintings?</text>
+        <topic>Art &amp; Culture – J&amp;K</topic>
+        <option>Reasi</option>
+        <option>Samba</option>
+        <option>Kathua</option>
+        <option>Ramban</option>
+        <answer>Kathua</answer>
+        <explanation>
+**Basohli paintings**, an early school of Pahari miniature art, originated in **Basohli**, which lies in the **Kathua district** of Jammu &amp; Kashmir. Hence **Kathua** is correct.
+        </explanation>
+    </question>
+
+    <!-- Q18 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="J&amp;K GK">
+        <text>In which of the following districts of Jammu and Kashmir is the Katra meteorological observatory located?</text>
+        <topic>GK – J&amp;K</topic>
+        <option>Reasi</option>
+        <option>Ramban</option>
+        <option>Poonch</option>
+        <option>Doda</option>
+        <answer>Reasi</answer>
+        <explanation>
+**Katra**, the base camp for the Vaishno Devi shrine, lies in **Reasi district**, and the **Katra meteorological observatory** is also located there.
+        </explanation>
+    </question>
+
+    <!-- Q19 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian History">
+        <text>Who led the Bardoli Satyagraha?</text>
+        <topic>Indian Freedom Struggle</topic>
+        <option>Mahatma Gandhi</option>
+        <option>Sadar Vallabhai Patel</option>
+        <option>Jawaharlal Nehru</option>
+        <option>M N Roy</option>
+        <answer>Sadar Vallabhai Patel</answer>
+        <explanation>
+The **Bardoli Satyagraha (1928)**, a peasants’ movement against increased land revenue in Gujarat, was famously led by **Sardar Vallabhbhai Patel**, who earned the title “Sardar” from this struggle.
+        </explanation>
+    </question>
+
+    <!-- Q20 -->
+    <question category="pyq" exam="JKSSB Junior Assistant" subject="Indian GK">
+        <text>Which among the following rivers is a tributary of Brahmaputra in India?</text>
+        <topic>Indian Rivers</topic>
+        <option>Beas</option>
+        <option>Ravi</option>
+        <option>Sutlej</option>
+        <option>Manas</option>
+        <answer>Manas</answer>
+        <explanation>
+Among the options:  
+- **Beas, Ravi, Sutlej** are tributaries of the Indus system.  
+- **Manas River** is a major **tributary of the Brahmaputra** in India.  
+
+So, the correct answer is **Manas**.
+        </explanation>
+    </question>
+
+
+
+
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>Three numbers are in the ratio 35:36:37. The smallest number is 2275. Find the difference between the smallest and the largest number.</text>
+  <topic>Ratio and Proportion</topic>
+  <option>100</option>
+  <option>120</option>
+  <option>130</option>
+  <option>110</option>
+  <answer>130</answer>
+  <explanation>
+Let the common factor be \(k\). Then the numbers are:
+\[
+35k,\;36k,\;37k
+\]
+Given \(35k = 2275 \Rightarrow k = \frac{2275}{35} = 65\).
+
+Largest number:
+\[
+37k = 37 \times 65 = 2405
+\]
+
+Difference:
+\[
+2405 - 2275 = 130
+\]
+So the answer is \(130\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>Find the remainder, when 46362 is divided by 3.</text>
+  <topic>Number System</topic>
+  <option>3</option>
+  <option>1</option>
+  <option>2</option>
+  <option>0</option>
+  <answer>0</answer>
+  <explanation>
+A number is divisible by \(3\) if the sum of its digits is divisible by \(3\).
+
+Digits of \(46362\):
+\[
+4+6+3+6+2 = 21
+\]
+
+Since \(21\) is divisible by \(3\), \(46362\) is divisible by \(3\), so the remainder is \(0\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>6 litres is drawn from a cask full of wine and is then filled with water. This operation is performed once more. The ratio of the quantity of wine now left in cask to that of the water is 16:9. How many litres of wine did the cask hold originally?</text>
+  <topic>Mixtures and Alligation</topic>
+  <option>26</option>
+  <option>30</option>
+  <option>28</option>
+  <option>24</option>
+  <answer>30</answer>
+  <explanation>
+Let the capacity of the cask be \(V\) litres.
+
+Each time, a fraction \(\frac{6}{V}\) of wine is removed, so the fraction of wine left after one operation is:
+\[
+1 - \frac{6}{V}
+\]
+
+After two such operations, the fraction of wine left:
+\[
+\left(1 - \frac{6}{V}\right)^2
+\]
+
+Given final ratio wine : water \(= 16 : 9\). So fraction of wine:
+\[
+\frac{16}{16+9} = \frac{16}{25}
+\]
+
+Thus,
+\[
+\left(1 - \frac{6}{V}\right)^2 = \frac{16}{25}
+\]
+\[
+1 - \frac{6}{V} = \frac{4}{5} \quad (\text{taking positive root})
+\]
+\[
+\frac{6}{V} = 1 - \frac{4}{5} = \frac{1}{5} \Rightarrow V = 30
+\]
+
+So the cask originally held \(30\) litres of wine.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>The average of 188 lab readings was 84 units. Later on it was found that a reading 272 was wrongly typed as 84. Find the correct average.</text>
+  <topic>Averages</topic>
+  <option>81</option>
+  <option>85</option>
+  <option>79</option>
+  <option>83</option>
+  <answer>85</answer>
+  <explanation>
+Original total (with wrong value):
+\[
+S_{\text{wrong}} = 84 \times 188
+\]
+
+Correct sum:
+\[
+S_{\text{correct}} = S_{\text{wrong}} - 84 + 272
+= 84 \times 188 - 84 + 272
+= 84 \times 188 + 188
+\]
+
+Correct average:
+\[
+\overline{x}_{\text{correct}} = \frac{84 \times 188 + 188}{188}
+= 84 + 1 = 85
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>If A got 620 marks and B got 465 marks, then what percent of A's marks is B's marks?</text>
+  <topic>Percentages</topic>
+  <option>75</option>
+  <option>90</option>
+  <option>85</option>
+  <option>80</option>
+  <answer>75</answer>
+  <explanation>
+Required percentage:
+\[
+\frac{\text{B's marks}}{\text{A's marks}} \times 100
+= \frac{465}{620} \times 100
+\]
+
+Simplify:
+\[
+\frac{465}{620} = \frac{93}{124} = 0.75
+\]
+
+So percentage \(= 0.75 \times 100 = 75\%\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>What will be written in the place of question mark in the given series? F6M13Z26E5?23</text>
+  <topic>Alphabet Series</topic>
+  <option>Z</option>
+  <option>Y</option>
+  <option>W</option>
+  <option>X</option>
+  <answer>W</answer>
+  <explanation>
+Each letter is followed by its position in the English alphabet:
+
+- \(F\) is the \(6^{\text{th}}\) letter \(\Rightarrow F6\)  
+- \(M\) is the \(13^{\text{th}}\) letter \(\Rightarrow M13\)  
+- \(Z\) is the \(26^{\text{th}}\) letter \(\Rightarrow Z26\)  
+- \(E\) is the \(5^{\text{th}}\) letter \(\Rightarrow E5\)  
+
+So we need the letter whose position is \(23\), i.e. \(W\).
+
+Hence the missing letter is \(W\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>A, B and C can complete a piece of work in 573, 382 and 1146 days respectively. Working together, they will complete the same work in how many days?</text>
+  <topic>Time and Work</topic>
+  <option>193</option>
+  <option>187</option>
+  <option>189</option>
+  <option>191</option>
+  <answer>191</answer>
+  <explanation>
+Rates of work:
+\[
+A: \frac{1}{573},\quad B: \frac{1}{382},\quad C: \frac{1}{1146}
+\]
+
+Note that \(1146 = 2 \times 573\), so:
+\[
+\frac{1}{573} + \frac{1}{1146}
+= \frac{2}{1146} + \frac{1}{1146}
+= \frac{3}{1146}
+= \frac{1}{382}
+\]
+
+Therefore total rate:
+\[
+\frac{1}{573} + \frac{1}{382} + \frac{1}{1146}
+= \frac{1}{382} + \frac{1}{382}
+= \frac{2}{382}
+= \frac{1}{191}
+\]
+
+So together they take \(191\) days.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>An article is bought for Rs.49000 and sold at a loss of 35%. Find its selling price. (In Rs)</text>
+  <topic>Profit and Loss</topic>
+  <option>31850</option>
+  <option>34850</option>
+  <option>33850</option>
+  <option>32850</option>
+  <answer>31850</answer>
+  <explanation>
+Loss \(= 35\%\) \(\Rightarrow\) selling price is \(65\%\) of cost price.
+
+\[
+\text{SP} = 49000 \times \frac{65}{100}
+= 49000 \times 0.65
+= 31850
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>If A stands for +, B stands for -, C stands for ×, then what is the value of (15C4)B(9C3)A7?</text>
+  <topic>Operator Substitution</topic>
+  <option>40</option>
+  <option>25</option>
+  <option>30</option>
+  <option>35</option>
+  <answer>40</answer>
+  <explanation>
+Substitute the operators:
+
+- \(C \rightarrow \times\)  
+- \(B \rightarrow -\)  
+- \(A \rightarrow +\)
+
+Expression:
+\[
+(15 \times 4) - (9 \times 3) + 7
+= 60 - 27 + 7
+= 33 + 7
+= 40
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>A works twice as fast as B. If B can complete a work in 603 days independently, find the number of days in which A and B can together finish the work.</text>
+  <topic>Time and Work</topic>
+  <option>201</option>
+  <option>198</option>
+  <option>204</option>
+  <option>207</option>
+  <answer>201</answer>
+  <explanation>
+Let the total work be \(W\).
+
+Time taken by \(B = 603\) days \(\Rightarrow\) rate of \(B = \dfrac{W}{603}\).
+
+“A works twice as fast” \(\Rightarrow\) rate of \(A = 2 \times \dfrac{W}{603} = \dfrac{2W}{603}\).
+
+Combined rate:
+\[
+\dfrac{W}{603} + \dfrac{2W}{603}
+= \dfrac{3W}{603}
+= \dfrac{W}{201}
+\]
+
+So together they finish the work in \(201\) days.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>A man travels at a speed of 540 kmph and covers a certain distance in 36 minutes. Find the distance covered in metres.</text>
+  <topic>Time, Speed and Distance</topic>
+  <option>314000</option>
+  <option>324000</option>
+  <option>334000</option>
+  <option>344000</option>
+  <answer>324000</answer>
+  <explanation>
+Convert time to hours:
+\[
+36\ \text{minutes} = \frac{36}{60} = 0.6\ \text{hours}
+\]
+
+Distance:
+\[
+\text{Distance} = \text{Speed} \times \text{Time}
+= 540 \times 0.6
+= 324\ \text{km}
+\]
+
+Convert to metres:
+\[
+324 \times 1000 = 324000\ \text{metres}
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>Pointing to a boy, a girl said, "His mother is the only sister of my father." How is the boy related to the girl?</text>
+  <topic>Blood Relations</topic>
+  <option>Nephew</option>
+  <option>Uncle</option>
+  <option>Cousin</option>
+  <option>Brother</option>
+  <answer>Cousin</answer>
+  <explanation>
+The girl’s father has only one sister. That sister is the boy’s mother.
+
+So the boy is the son of the girl’s aunt (her father’s sister), hence he is her cousin.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>Which of the following is divisible by 4?</text>
+  <topic>Number System</topic>
+  <option>412143</option>
+  <option>412142</option>
+  <option>412144</option>
+  <option>412141</option>
+  <answer>412144</answer>
+  <explanation>
+A number is divisible by \(4\) if its last two digits form a number divisible by \(4\).
+
+Check last two digits:
+
+- \(412143 \Rightarrow 43\) (not divisible by 4)  
+- \(412142 \Rightarrow 42\) (not divisible by 4)  
+- \(412144 \Rightarrow 44\), and \(44 \div 4 = 11\) (divisible)  
+- \(412141 \Rightarrow 41\) (not divisible by 4)
+
+So only \(412144\) is divisible by \(4\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>In a certain code language:
+'keep eating fruits' is written as 'ju ko ma',
+'stop eating carbs' is written as 'ma nt sm',
+'donot stop fruits' is written as 'ju sm ri'.
+What does the code 'ri' stand for?</text>
+  <topic>Coding - Decoding</topic>
+  <option>stop</option>
+  <option>donot</option>
+  <option>eating</option>
+  <option>fruits</option>
+  <answer>donot</answer>
+  <explanation>
+Compare sentences:
+
+1. “keep eating fruits” \(\Rightarrow\) "ju ko ma"  
+2. “stop eating carbs” \(\Rightarrow\) "ma nt sm"  
+
+Common word “eating” \(\Rightarrow\) common code is \(ma\).
+
+1. “keep eating fruits” \(\Rightarrow\) "ju ko ma"  
+3. “donot stop fruits” \(\Rightarrow\) "ju sm ri"  
+
+Common word “fruits” \(\Rightarrow\) common code is \(ju\).
+
+2. “stop eating carbs” \(\Rightarrow\) "ma nt sm"  
+3. “donot stop fruits” \(\Rightarrow\) "ju sm ri"  
+
+Common word “stop” \(\Rightarrow\) common code is \(sm\).
+
+Remaining word in sentence 3 is “donot”, remaining code is \(ri\).  
+So “donot” is coded as \(ri\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>The average of 87 numbers is 233. After excluding one of the numbers, the average remains the same. Find the number which is excluded.</text>
+  <topic>Averages</topic>
+  <option>239</option>
+  <option>237</option>
+  <option>233</option>
+  <option>235</option>
+  <answer>233</answer>
+  <explanation>
+Let the excluded number be \(x\).
+
+Original total:
+\[
+S = 87 \times 233
+\]
+
+After excluding \(x\), we have \(86\) numbers and average is still \(233\):
+\[
+\frac{S - x}{86} = 233
+\]
+\[
+S - x = 86 \times 233
+\]
+
+But \(S = 87 \times 233\), so:
+\[
+x = S - 86 \times 233 = (87 - 86) \times 233 = 233
+\]
+
+So the excluded number is \(233\).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>In this question, a statement is given followed by two conclusions numbered i and ii. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+Statement: It rains every Monday. It rains today.
+Conclusion:
+i) It must be a rainy season.
+ii) Today is Monday
+Choose the appropriate one from the following options
+(A) Only conclusion i follows
+(B) Only conclusion ii follows
+(C) Either i or ii follows
+(D) Neither i nor ii follows and
+(E) Both i and ii follow.</text>
+  <topic>Statement and Conclusion</topic>
+  <option>B</option>
+  <option>C</option>
+  <option>A</option>
+  <option>D</option>
+  <answer>D</answer>
+  <explanation>
+Statement “It rains every Monday” means:
+\[
+\text{If it is Monday} \Rightarrow \text{it rains.}
+\]
+
+But it does **not** say that it rains **only** on Monday.
+
+From “It rains today” we cannot conclude:
+- that it is rainy season (no information about the season), or  
+- that today is Monday (it could also rain on other days).
+
+So **neither** conclusion i nor ii logically follows from the statement.  
+Hence the correct choice is option **D** (“Neither i nor ii follows”).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>If Benjamin distributed 1386 chocolates from a box of 4200 chocolates, what percentage of the chocolates will be left in the box?</text>
+  <topic>Percentages</topic>
+  <option>67</option>
+  <option>97</option>
+  <option>87</option>
+  <option>77</option>
+  <answer>67</answer>
+  <explanation>
+Chocolates left:
+\[
+4200 - 1386 = 2814
+\]
+
+Percentage left:
+\[
+\frac{2814}{4200} \times 100
+\]
+
+Simplify by dividing numerator and denominator by \(42\):
+\[
+\frac{2814 \div 42}{4200 \div 42} \times 100
+= \frac{67}{100} \times 100
+= 67\%
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Quantitative Aptitude">
+  <text>The marked price on an item was Rs.2600 but the shopkeeper offered a double discount of 25% and 20%. How much did he finally sell the item for?</text>
+  <topic>Discount</topic>
+  <option>1360</option>
+  <option>1560</option>
+  <option>1460</option>
+  <option>1260</option>
+  <answer>1560</answer>
+  <explanation>
+First discount \(25\%\):
+\[
+\text{Price after 1st discount} = 2600 \times (1 - 0.25)
+= 2600 \times 0.75
+= 1950
+\]
+
+Second discount \(20\%\) on this price:
+\[
+\text{Final price} = 1950 \times (1 - 0.20)
+= 1950 \times 0.80
+= 1560
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>Find the next number in the series.
+10, 14, 18, 26, 34, 46, ?</text>
+  <topic>Number Series</topic>
+  <option>50</option>
+  <option>52</option>
+  <option>58</option>
+  <option>56</option>
+  <answer>58</answer>
+  <explanation>
+Look at the successive differences:
+
+\[
+14 - 10 = 4,\quad
+18 - 14 = 4,\quad
+26 - 18 = 8,\quad
+34 - 26 = 8,\quad
+46 - 34 = 12
+\]
+
+So the pattern of differences is:
+\[
+4, 4, 8, 8, 12, 12, \dots
+\]
+
+Thus the next difference is also \(12\).
+
+Next term:
+\[
+46 + 12 = 58
+\]
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Reasoning">
+  <text>A man walks 8km towards West; takes a right turn and walks 6km. He then walks 5km towards the starting point and reached the destination. How far is he from the starting position?</text>
+  <topic>Direction Sense</topic>
+  <option>9km</option>
+  <option>5km</option>
+  <option>11km</option>
+  <option>7km</option>
+  <answer>5km</answer>
+  <explanation>
+Take the starting point as \((0,0)\).
+
+1. He walks \(8\) km West \(\Rightarrow (-8, 0)\).  
+2. A right turn from West means he faces North, then walks \(6\) km \(\Rightarrow (-8, 6)\).
+
+Distance from the start at this point:
+\[
+\sqrt{(-8)^2 + 6^2} = \sqrt{64 + 36} = \sqrt{100} = 10\ \text{km}
+\]
+
+3. He then walks \(5\) km **towards** the starting point, along the straight line back to \((0,0)\).  
+
+So the new distance from the start:
+\[
+10 - 5 = 5\ \text{km}
+\]
+
+Hence he is \(5\) km away from the starting position.
+  </explanation>
+</question>
 
 
 
