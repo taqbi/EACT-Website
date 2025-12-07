@@ -16158,4 +16158,306 @@ Hence he is \(5\) km away from the starting position.
 
 
 
+
+
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>In MS Word 2019, which of the following shortcut keys is used to increase the font size by 1 point?</text>
+  <topic>MS Word Shortcuts</topic>
+  <option>Ctrl + {</option>
+  <option>Ctrl + ]</option>
+  <option>Ctrl + }</option>
+  <option>Ctrl + [</option>
+  <answer>Ctrl + ]</answer>
+  <explanation>
+In MS Word, **Ctrl + ]** increases the font size by **1 point**, while **Ctrl + [** decreases the font size by 1 point.  
+The other combinations are not valid font-size shortcuts in Word.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>If you have to recover a deleted file, which item on the desktop can help you?</text>
+  <topic>Windows Basics</topic>
+  <option>Time indicator</option>
+  <option>Screensaver</option>
+  <option>Recycle bin</option>
+  <option>My Computer</option>
+  <answer>Recycle bin</answer>
+  <explanation>
+When you delete a file in Windows, it is first moved to the **Recycle Bin** instead of being permanently deleted.  
+You can open **Recycle Bin**, right-click the file and choose **Restore** to recover it.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>In MS Excel 2019, which of the following shortcut keys is used to select an entire column in a worksheet?</text>
+  <topic>MS Excel Shortcuts</topic>
+  <option>Ctrl + Spacebar</option>
+  <option>Shift + Spacebar</option>
+  <option>Alt + Spacebar</option>
+  <option>Tab + Spacebar</option>
+  <answer>Ctrl + Spacebar</answer>
+  <explanation>
+In Excel:
+- **Ctrl + Spacebar** selects the **entire column** of the active cell.  
+- **Shift + Spacebar** selects the **entire row**.  
+
+So the correct shortcut for selecting a whole column is **Ctrl + Spacebar**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>1 picosecond = ______ seconds.</text>
+  <topic>Computer Time Units</topic>
+  <option>10^-15</option>
+  <option>10^-12</option>
+  <option>10^-6</option>
+  <option>10^-9</option>
+  <answer>10^-12</answer>
+  <explanation>
+A **picosecond** is:
+\[
+1\ \text{picosecond} = 10^{-12}\ \text{seconds}.
+\]
+So the correct value is \(10^{-12}\) seconds.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>__________ is a non-impact printer.</text>
+  <topic>Printers and Output Devices</topic>
+  <option>Dot-matrix printer</option>
+  <option>Toy printers</option>
+  <option>Inkjet printers</option>
+  <option>Rock and scissor</option>
+  <answer>Inkjet printers</answer>
+  <explanation>
+- **Impact printers** (like dot-matrix) strike an inked ribbon to make marks on paper.  
+- **Inkjet printers** spray tiny droplets of ink without any physical impact on the paper, so they are **non-impact printers**.  
+
+Hence, **Inkjet printers** is correct.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>A ______ is an electromechanical device which is used to input alphanumeric data into a computer.</text>
+  <topic>Input Devices</topic>
+  <option>Joystick</option>
+  <option>Keyboard</option>
+  <option>Mouse</option>
+  <option>Trackball</option>
+  <answer>Keyboard</answer>
+  <explanation>
+A **keyboard** is the standard **electromechanical input device** used to enter **alphanumeric data (letters, numbers, symbols)** into a computer.  
+Other devices like joystick or mouse are pointing/input devices but not mainly for alphanumeric text.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>IP address consists of 4 numbers ranging from:</text>
+  <topic>Networking Basics</topic>
+  <option>0 to 250</option>
+  <option>0 to 255</option>
+  <option>5 to 255</option>
+  <option>5 to 250</option>
+  <answer>0 to 255</answer>
+  <explanation>
+An IPv4 address is written as four **octets** (like \(192.168.1.1\)), and each octet is an 8-bit number in the range:
+\[
+0 \text{ to } 255
+\]
+So each of the 4 numbers can be from **0 to 255**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>What will the Themes do in MS Word?</text>
+  <topic>MS Word Features</topic>
+  <option>Themes change only the background color of document</option>
+  <option>Themes change the overall design of entire document</option>
+  <option>Themes change only the font style in the document</option>
+  <option>Themes change only the font color of document</option>
+  <answer>Themes change the overall design of entire document</answer>
+  <explanation>
+A **Theme** in Word changes the **overall design** of a document:
+- coordinated **fonts**  
+- **colors**  
+- **effects**  
+
+So it affects the entire look of the document, not just one element like background or font color alone.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>Which among the following is a search engine?</text>
+  <topic>Internet Basics</topic>
+  <option>Google</option>
+  <option>MS Office</option>
+  <option>Adobe Reader</option>
+  <option>Photoshop</option>
+  <answer>Google</answer>
+  <explanation>
+- **Google** is a **search engine**.  
+- **MS Office** is an office suite.  
+- **Adobe Reader** is a PDF viewer.  
+- **Photoshop** is an image editing software.  
+
+So the correct answer is **Google**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>What is the shortcut key to expand or collapse the ribbon in MS PowerPoint?</text>
+  <topic>MS PowerPoint Shortcuts</topic>
+  <option>Ctrl + F4</option>
+  <option>Ctrl + F3</option>
+  <option>Ctrl + F1</option>
+  <option>Ctrl + F2</option>
+  <answer>Ctrl + F1</answer>
+  <explanation>
+In modern Office apps (including PowerPoint 2019), pressing **Ctrl + F1** toggles (expands or collapses) the **Ribbon** interface.  
+The other keys have different functions (e.g., closing window, etc.).
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>Personal computer, laptop, tablet are the example of which type of the computer?</text>
+  <topic>Types of Computers</topic>
+  <option>Microcomputer</option>
+  <option>Minicomputer</option>
+  <option>Mainframe</option>
+  <option>Supercomputer</option>
+  <answer>Microcomputer</answer>
+  <explanation>
+**Personal computers (PCs), laptops, and tablets** are all examples of **microcomputers**, designed for use by one person at a time.  
+Minicomputers, mainframes, and supercomputers are much larger and serve many users or intensive tasks.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>The technology in your computer that helps you connect with the internet without a wired connection is _________.</text>
+  <topic>Networking and Connectivity</topic>
+  <option>Bluetooth</option>
+  <option>Wi-Fi</option>
+  <option>Location</option>
+  <option>Webcam</option>
+  <answer>Wi-Fi</answer>
+  <explanation>
+**Wi-Fi** is the wireless networking technology that allows devices to **connect to the internet without cables**.  
+Bluetooth is used mainly for short-range device-to-device communication, not for general internet access.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>What is the full form of CRT in the context of display device?</text>
+  <topic>Display Devices</topic>
+  <option>Crystal Ray Tube</option>
+  <option>Cathode Ray Tube</option>
+  <option>Circuit Ray Tube</option>
+  <option>Central Ray Tube</option>
+  <answer>Cathode Ray Tube</answer>
+  <explanation>
+**CRT** stands for **Cathode Ray Tube**, which is the technology used in older television and computer monitor screens.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>In MS PowerPoint 2019, which of the following shortcut keys is used to open the font dialog box?</text>
+  <topic>MS PowerPoint Shortcuts</topic>
+  <option>Ctrl + F</option>
+  <option>Ctrl + T</option>
+  <option>Shift + F</option>
+  <option>Shift + T</option>
+  <answer>Ctrl + T</answer>
+  <explanation>
+In PowerPoint (and other Office apps), **Ctrl + T** opens the **Font dialog box** where you can change font style, size, effects, etc.  
+Ctrl + F is used for **Find**.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>________ software helps you to protect your PC from viruses and malware.</text>
+  <topic>Security Software</topic>
+  <option>WinZip</option>
+  <option>Java</option>
+  <option>Firefox</option>
+  <option>Antivirus</option>
+  <answer>Antivirus</answer>
+  <explanation>
+**Antivirus software** is specifically designed to detect, prevent, and remove **viruses and malware** from your computer.  
+WinZip is a compression tool, Java is a platform, Firefox is a browser.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>______ is the brain of a computer system.</text>
+  <topic>Computer Components</topic>
+  <option>Output unit</option>
+  <option>Memory unit</option>
+  <option>Central processing unit</option>
+  <option>Input unit</option>
+  <answer>Central processing unit</answer>
+  <explanation>
+The **CPU (Central Processing Unit)** is called the **brain of the computer** because it performs all processing and controls the operations of other components.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>In MS Excel 2019, DMAX is a ______ function.</text>
+  <topic>MS Excel Functions</topic>
+  <option>financial</option>
+  <option>date and time</option>
+  <option>statistical</option>
+  <option>database</option>
+  <answer>database</answer>
+  <explanation>
+In Excel, **DMAX** is a **database function**.  
+It returns the maximum value in a column of a list or database that matches specified conditions.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>Resolution is expressed in ______.</text>
+  <topic>Monitors and Resolution</topic>
+  <option>dots per inch</option>
+  <option>dots per pixel</option>
+  <option>dots per cm</option>
+  <option>dots per m</option>
+  <answer>dots per inch</answer>
+  <explanation>
+Display and print **resolution** is commonly measured in **DPI (dots per inch)**, which indicates how many individual dots can be placed within a linear inch.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>What is the full name of the MS-DOS?</text>
+  <topic>Operating Systems</topic>
+  <option>Magnetic disk</option>
+  <option>Microsoft Disk Operating System</option>
+  <option>Mouse and driver Operating System</option>
+  <option>Mechanical DOS</option>
+  <answer>Microsoft Disk Operating System</answer>
+  <explanation>
+**MS-DOS** stands for **Microsoft Disk Operating System**, an early command-line operating system for PCs.
+  </explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+  <text>In Windows 10 Operating system, which key combination opens the start button's context menu?</text>
+  <topic>Windows Shortcuts</topic>
+  <option>Windows + M</option>
+  <option>Windows + X</option>
+  <option>Windows + C</option>
+  <option>Windows + O</option>
+  <answer>Windows + X</answer>
+  <explanation>
+Pressing **Windows + X** in Windows 10 opens the **Power User / Start button context menu**, which shows options like Apps &amp; Features, Power Options, Disk Management, etc.
+  </explanation>
+</question>
+
+
+
+
+
+
 </quizzes>

@@ -639,9 +639,10 @@ document.addEventListener('DOMContentLoaded', function () {
         const quizName = subjectFilter.value !== 'all' ? subjectFilter.value : (examFilter.value !== 'all' ? examFilter.value : 'General');
 
         // Render the first page and set up pagination
-        renderPage(currentPage);
-        setupPagination();
-
+        if (currentQuestions.length > 0) {
+            renderPage(currentPage);
+            setupPagination();
+        }
     }
 
     if (quizContainer) {
