@@ -861,7 +861,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #374151;
 }
 .guidance-form-section textarea {
-    width: 100%;
+    width: 90%;
     padding-left: 10px;
     margin-right: 10px;
     border-radius: 12px;
