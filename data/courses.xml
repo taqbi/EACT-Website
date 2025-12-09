@@ -5,7 +5,11 @@
     <playlists>
       
       
-     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" compiledPdfDriveId="1Zy73cWJGgdM-yaO7RMes--HuSDpmvjiX" marks="30">
+     <playlist id="pl103" title="Accountancy" youtubePlaylistId="PLfM9ONl2Lh0KKUgvOX8jcop0GjMZOHa_V" marks="30">
+        <compiledPdfs>
+            <pdf title="FAA Accountancy PDF" driveFileId="1Zy73cWJGgdM-yaO7RMes--HuSDpmvjiX" />
+            <pdf title="PAA Accountancy PDF" driveFileId="1Zucsr-W01-Xpd-xoaul6WaVgjVR-yXSH" />
+        </compiledPdfs>
   <video id="v101" title="ACCOUNTANCY BOOK FOR FINANCE ACCOUNTS ASSISTANT EXAM || BOOK RELEASE || JKSSB || CA MOHAMAD LATEEF" youtubeId="QimLDYRZU9c" duration="43:24" position="1">
     <pdf driveFileId="" url=""/>
   </video>

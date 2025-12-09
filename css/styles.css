@@ -1643,6 +1643,25 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     margin: 0;
     font-size: 1.3rem;
 }
+/* Styles for the new prominent PDF links container */
+.prominent-pdf-links {
+    background-color: #eef2ff; /* A light, noticeable background */
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 25px; /* Space between this and the video list */
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between multiple PDF link groups */
+    border: 1px solid #d1d5db;
+}
+
+.prominent-pdf-link-item {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* Space between open and download buttons */
+    align-items: center;
+    justify-content: center;
+}
 
 /* Videos Section Container */
 #videos-container {

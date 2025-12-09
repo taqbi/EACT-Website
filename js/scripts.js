@@ -1033,12 +1033,10 @@ document.addEventListener('DOMContentLoaded', function () {
             const singleCourseView = document.getElementById('single-course-view');
             const videosContainer = document.getElementById('videos-container');
 
-            // Hide the main list of courses and clear any previously shown videos
             courseListView.style.display = 'none';
             videosContainer.style.display = 'none';
             videosContainer.innerHTML = '';
 
-            // Build the single course view
             singleCourseView.innerHTML = `
                 <button id="back-to-courses-btn"><i class="fas fa-arrow-left"></i> Back to Courses</button>
                 <div class="single-course-content">
@@ -1049,6 +1047,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             const playlistsContainer = singleCourseView.querySelector('.playlists');
             const playlistEls = Array.from(courseEl.querySelectorAll('playlists > playlist'));
+
             playlistEls.forEach(pl => {
                 const plDiv = document.createElement('div');
                 plDiv.className = 'playlist';
@@ -1056,17 +1055,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 const plVideos = countVideosInPlaylist(pl);
                 const marks = pl.getAttribute('marks');
 
-                // Check for a compiled PDF for the entire playlist
-                const compiledPdfId = pl.getAttribute('compiledPdfDriveId');
+                // --- PDF Count Logic ---
                 let pdfInfoHtml = '';
-                if (compiledPdfId && compiledPdfId.trim() !== '') {
-                    pdfInfoHtml = `<a href="${makeDriveViewUrl(compiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> Open PDF</a>
-                                   <a href="${makeDriveDownloadUrl(compiledPdfId)}" class="playlist-stats compiled-pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download PDF</a>`;
-                } else { // For individual PDFs, just show the count
-                    const individualPdfCount = countPdfsInPlaylist(pl);
-                    if (individualPdfCount > 0) {
-                        pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${individualPdfCount} PDFs</div>`;
-                    }
+                // For the playlist card, we will only show the total count of all PDFs.
+                const totalPdfCountForPlaylist = countAllPdfsInPlaylist(pl);
+                if (totalPdfCountForPlaylist > 0) {
+                    pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${totalPdfCountForPlaylist} PDFs</div>`;
                 }
                 
                 let marksInfoHtml = '';
@@ -1101,8 +1095,42 @@ document.addEventListener('DOMContentLoaded', function () {
 
         function showPlaylistVideos(playlistEl, playlistTitle) {
             const videosContainer = document.getElementById('videos-container');
-            videosContainer.style.display = 'block'; // Make the container visible
-            videosContainer.innerHTML = `<div class="playlist-video-header"><h3>${playlistTitle}</h3></div>`;
+            videosContainer.style.display = 'block';
+
+            // --- Create Compiled PDF Links Section ---
+            let compiledPdfHtml = '';
+            const compiledPdfsContainer = playlistEl.querySelector('compiledPdfs');
+            const singleCompiledPdfId = playlistEl.getAttribute('compiledPdfDriveId');
+
+            if (compiledPdfsContainer) {
+                // Handle multiple compiled PDFs
+                const compiledPdfNodes = compiledPdfsContainer.querySelectorAll('pdf');
+                compiledPdfNodes.forEach(pdfNode => {
+                    const pdfTitle = pdfNode.getAttribute('title') || 'Open PDF';
+                    const pdfId = pdfNode.getAttribute('driveFileId');
+                    if (pdfId && pdfId.trim() !== '') {
+                        compiledPdfHtml += `
+                            <div class="prominent-pdf-link-item">
+                                <a href="${makeDriveViewUrl(pdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> ${pdfTitle}</a>
+                                <a href="${makeDriveDownloadUrl(pdfId)}" class="playlist-stats compiled-pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download</a>
+                            </div>`;
+                    }
+                });
+            } else if (singleCompiledPdfId && singleCompiledPdfId.trim() !== '') {
+                // Handle single compiled PDF from attribute
+                compiledPdfHtml = `
+                    <div class="prominent-pdf-link-item">
+                        <a href="${makeDriveViewUrl(singleCompiledPdfId)}" target="_blank" class="playlist-stats compiled-pdf-btn open-pdf-btn"><i class="fas fa-file-alt"></i> Open Compiled PDF</a>
+                        <a href="${makeDriveDownloadUrl(singleCompiledPdfId)}" class="playlist-stats compiled-pdf-btn download-pdf-btn"><i class="fas fa-download"></i> Download Compiled PDF</a>
+                    </div>`;
+            }
+
+            // --- Build the Video List View ---
+            videosContainer.innerHTML = `
+                <div class="playlist-video-header"><h3>${playlistTitle}</h3></div>
+                ${compiledPdfHtml ? `<div class="prominent-pdf-links">${compiledPdfHtml}</div>` : ''}
+            `;
+
             const videosDiv = document.createElement('div');
             videosContainer.appendChild(videosDiv);
 
@@ -1113,8 +1141,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 return;
             }
 
-            // Check if the parent playlist has a compiled PDF.
-            const hasCompiledPdf = playlistEl.hasAttribute('compiledPdfDriveId');
+            // Check if the parent playlist has any compiled PDF (either single or multiple).
+            const hasCompiledPdf = playlistEl.hasAttribute('compiledPdfDriveId') || playlistEl.querySelector('compiledPdfs');
+
 
             videoEls.forEach(v => {
                 const vid = v.getAttribute('youtubeId') || '';
@@ -1177,6 +1206,28 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Auto-scroll down to the videos container
             videosContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function countAllPdfsInPlaylist(playlistEl) {
+            let pdfCount = 0;
+            // Count individual PDFs attached to videos
+            const individualPdfNodes = playlistEl.querySelectorAll('video > pdf');
+            individualPdfNodes.forEach(pdf => {
+                const driveId = pdf.getAttribute('driveFileId');
+                const url = pdf.getAttribute('url');
+                if ((driveId && driveId.trim() !== '') || (url && url.trim() !== '')) {
+                    pdfCount++;
+                }
+            });
+
+            // Count compiled PDFs (both single and multiple formats)
+            const singleCompiledPdfId = playlistEl.getAttribute('compiledPdfDriveId');
+            if (singleCompiledPdfId && singleCompiledPdfId.trim() !== '') {
+                pdfCount++;
+            } else if (playlistEl.querySelector('compiledPdfs')) {
+                pdfCount += playlistEl.querySelectorAll('compiledPdfs > pdf').length;
+            }
+            return pdfCount;
         }
 
         (async function init() {
