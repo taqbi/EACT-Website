@@ -1841,7 +1841,22 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     transition: background-color 0.3s ease;
     font-size: 0.85em; /* Ensure consistent font size */
 }
-    font-size: 0.85em; /* Ensure consistent font size */
-}
-    font-size: 0.85em; /* Ensure consistent font size */
-}
+  
+
+
+
+.upi-pay-button {
+        display: inline-block;
+        margin-top: 15px;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white !important;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }
+    .upi-pay-button:hover {
+        background-color: #0056b3;
+    }
