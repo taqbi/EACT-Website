@@ -543,6 +543,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="chart-container" style="flex: 1; min-width: 300px; height: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
                     <canvas id="subjectChart"></canvas>
                 </div>
+                <div class="improvement-container" style="flex: 1; min-width: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+                    <h3 id="improvement-heading">Subjects to Improve</h3>
+                    <div id="improvement-list"></div>
+                </div>
             </div>
             <div class="progress-category">
                 <h3>Exam Wise</h3>
@@ -619,12 +623,12 @@ document.addEventListener('DOMContentLoaded', function () {
             statsContainer.insertAdjacentHTML('afterbegin', overallHtml);
             
             // Render Charts
-            renderPerformanceCharts(overallCorrect, overallIncorrect, progress.scores.subject);
+            renderPerformanceVisuals(overallCorrect, overallIncorrect, progress.scores.subject);
         }
         progressContainer.style.display = 'block';
     }
     
-    function renderPerformanceCharts(correct, incorrect, subjectScores) {
+    function renderPerformanceVisuals(correct, incorrect, subjectScores) {
         // Overall Accuracy Chart
         const ctxOverall = document.getElementById('overallChart').getContext('2d');
         new Chart(ctxOverall, {
@@ -684,6 +688,43 @@ document.addEventListener('DOMContentLoaded', function () {
                     legend: { position: 'bottom' },
                     title: { display: true, text: 'Subject Wise Performance', font: { size: 16 } }
                 }
+            }
+        });
+
+        // Improvement List (Subjects with lowest accuracy)
+        const subjectAccuracy = Object.keys(subjectScores).map(subject => {
+            const s = subjectScores[subject];
+            const accuracy = s.attempted > 0 ? (s.correct / s.attempted) * 100 : 0;
+            return { subject, accuracy, attempted: s.attempted };
+        });
+
+        // Sort by accuracy ascending (lowest first) and take top 5
+        subjectAccuracy.sort((a, b) => a.accuracy - b.accuracy);
+        const improvementData = subjectAccuracy.slice(0, 5);
+
+        const improvementList = document.getElementById('improvement-list');
+        improvementList.innerHTML = ''; // Clear previous content
+
+        if (improvementData.length === 0 || improvementData.every(d => d.attempted === 0)) {
+            improvementList.innerHTML = '<p style="text-align: center; color: #6c757d;">Not enough data. Attempt more questions to see areas for improvement.</p>';
+            return;
+        }
+
+        improvementData.forEach(item => {
+            if (item.attempted > 0) { // Only show subjects that have been attempted
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'improvement-item';
+                itemDiv.innerHTML = `
+                    <div class="improvement-subject-name">${item.subject}</div>
+                    <div class="improvement-stats">
+                        <div class="accuracy-text">${item.accuracy.toFixed(1)}% Accuracy</div>
+                        <div class="attempted-text">(${item.attempted} attempted)</div>
+                    </div>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" style="width: ${item.accuracy.toFixed(1)}%;"></div>
+                    </div>
+                `;
+                improvementList.appendChild(itemDiv);
             }
         });
     }

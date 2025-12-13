@@ -470,6 +470,66 @@
     color: #fff;
 }
 
+/* --- New Improvement List Styles --- */
+.improvement-container h3 {
+    text-align: center;
+    color: #1f2a44;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 10px;
+}
+
+#improvement-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.improvement-item {
+    background-color: #fff;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    border-left: 5px solid #ef4444; /* Red accent for 'needs improvement' */
+}
+
+.improvement-subject-name {
+    font-weight: bold;
+    color: #344054;
+    margin-bottom: 8px;
+}
+
+.improvement-stats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    color: #6c757d;
+    margin-bottom: 8px;
+}
+
+.accuracy-text {
+    font-weight: 600;
+    color: #d9534f; /* A slightly darker red for text */
+}
+
+.progress-bar-container {
+    width: 100%;
+    background-color: #e9ecef;
+    border-radius: 10px;
+    height: 10px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #fca5a5, #ef4444);
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+}
+
 #attempt-another-btn {
     background-color: #1f2a44;
     color: white;
