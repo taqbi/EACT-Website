@@ -418,11 +418,19 @@ document.addEventListener('DOMContentLoaded', function () {
             const selectedExam = examFilter.value;
             populateSubjectFilter(); // Repopulate subjects based on selected exam
 
+            // When the exam filter changes, clear the current quiz view and pagination
+            // because a new subject selection is now required in "Topic Wise" mode.
+            quizContainer.innerHTML = '';
+            document.getElementById('pagination-container').innerHTML = '';
+            scoreContainer.style.display = 'none';
+
             // If a valid exam option is selected (including "All Exams"), show the toggle.
             if (selectedExam) {
                 pyqModeToggleContainer.style.display = 'flex'; // Show toggle for a specific exam
-                document.getElementById('pyq-mode-toggle').checked = true;
-                handleToggleChange();
+                // If the toggle is already on "Random MCQs", re-trigger the filter.
+                if (document.getElementById('pyq-mode-toggle').checked) {
+                    filterAndDisplayQuestions(true, 'all');
+                }
             } else {
                 // If the placeholder is selected, hide everything.
                 resetQuizView();
@@ -449,6 +457,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 subjectFilter.value = ''; // Reset to show placeholder
                 quizContainer.innerHTML = '';
                 scoreContainer.style.display = 'none';
+                document.getElementById('pagination-container').innerHTML = ''; // Also clear pagination
             }
         }
 
@@ -536,14 +545,14 @@ document.addEventListener('DOMContentLoaded', function () {
         const progress = readProgress();
         const statsContainer = document.getElementById('progress-stats');
         statsContainer.innerHTML = `
-            <div class="charts-row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-                <div class="chart-container" style="flex: 1; min-width: 300px; height: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+            <div class="charts-row">
+                <div class="chart-container">
                     <canvas id="overallChart"></canvas>
                 </div>
-                <div class="chart-container" style="flex: 1; min-width: 300px; height: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+                <div class="chart-container">
                     <canvas id="subjectChart"></canvas>
                 </div>
-                <div class="improvement-container" style="flex: 1; min-width: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+                <div class="improvement-container">
                     <h3 id="improvement-heading">Subjects to Improve</h3>
                     <div id="improvement-list"></div>
                 </div>
@@ -574,13 +583,27 @@ document.addEventListener('DOMContentLoaded', function () {
             overallCorrect += correct;
 
             examContainer.innerHTML += `
-                <div class="progress-entry">
-                    <strong>${name}</strong>
-                    <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                <div class="progress-entry-card">
+                    <div class="progress-entry-header">
+                        <strong>${name}</strong>
+                        <div class="accuracy-display">
+                            <span class="stat-value-main">${percentage}%</span>
+                            <span class="stat-label-main">Accuracy</span>
+                        </div>
+                    </div>
+                    <div class="progress-entry-stats">
+                        <div class="stat-item">
+                            <span class="stat-label">Attempted</span>
+                            <span class="stat-value attempted">${attempted}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Correct</span>
+                            <span class="stat-value correct">${correct}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Incorrect</span>
+                            <span class="stat-value incorrect">${incorrect}</span>
+                        </div>
                     </div>
                 </div>`;
         }
@@ -593,13 +616,27 @@ document.addEventListener('DOMContentLoaded', function () {
             const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
 
             subjectContainer.innerHTML += `
-                <div class="progress-entry">
-                    <strong>${name}</strong>
-                    <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Correct</span><span class="stat-value">${correct}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
+                <div class="progress-entry-card">
+                    <div class="progress-entry-header">
+                        <strong>${name}</strong>
+                        <div class="accuracy-display">
+                            <span class="stat-value-main">${percentage}%</span>
+                            <span class="stat-label-main">Accuracy</span>
+                        </div>
+                    </div>
+                    <div class="progress-entry-stats">
+                        <div class="stat-item">
+                            <span class="stat-label">Attempted</span>
+                            <span class="stat-value attempted">${attempted}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Correct</span>
+                            <span class="stat-value correct">${correct}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Incorrect</span>
+                            <span class="stat-value incorrect">${incorrect}</span>
+                        </div>
                     </div>
                 </div>`;
         }
@@ -611,13 +648,27 @@ document.addEventListener('DOMContentLoaded', function () {
             const overallIncorrect = overallAttempted - overallCorrect;
             const overallPercentage = overallAttempted > 0 ? ((overallCorrect / overallAttempted) * 100).toFixed(1) : 0;
             const overallHtml = `
-                <div class="overall-performance progress-category">
-                    <h3>Overall Performance</h3>
-                    <div class="stat-boxes">
-                        <div class="stat-box stat-box--attempted"><span class="stat-label">Total Attempted</span><span class="stat-value">${overallAttempted}</span></div>
-                        <div class="stat-box stat-box--correct"><span class="stat-label">Total Correct</span><span class="stat-value">${overallCorrect}</span></div>
-                        <div class="stat-box stat-box--incorrect"><span class="stat-label">Total Incorrect</span><span class="stat-value">${overallIncorrect}</span></div>
-                        <div class="stat-box stat-box--accuracy"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
+                <div class="progress-entry-card overall-performance-card">
+                    <div class="progress-entry-header">
+                        <strong>Overall Performance</strong>
+                        <div class="accuracy-display">
+                            <span class="stat-value-main">${overallPercentage}%</span>
+                            <span class="stat-label-main">Accuracy</span>
+                        </div>
+                    </div>
+                    <div class="progress-entry-stats">
+                        <div class="stat-item">
+                            <span class="stat-label">Total Attempted</span>
+                            <span class="stat-value attempted">${overallAttempted}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Total Correct</span>
+                            <span class="stat-value correct">${overallCorrect}</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Total Incorrect</span>
+                            <span class="stat-value incorrect">${overallIncorrect}</span>
+                        </div>
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterbegin', overallHtml);
@@ -943,6 +994,7 @@ document.addEventListener('DOMContentLoaded', function () {
         newFilterContainer.style.display = 'none';
         pyqModeToggleContainer.style.display = 'none';
         progressContainer.style.display = 'none';
+        document.getElementById('pagination-container').innerHTML = ''; // Also clear pagination
         resetQuizState();
     }
 
