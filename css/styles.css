@@ -1905,3 +1905,43 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     display: inline-block;
     font-weight: bold;
 }
+
+/* Blinking Donate Button */
+.header-donate {
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.donate-blink-btn {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid white;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+    animation: blink-animation 1s infinite alternate;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+@keyframes blink-animation {
+    0% {
+        box-shadow: 0 0 5px #ff0000;
+        transform: scale(1);
+    }
+    100% {
+        box-shadow: 0 0 20px #ff0000, 0 0 10px #ff0000;
+        transform: scale(1.05);
+    }
+}
+
+@media (max-width: 768px) {
+    .header-donate {
+        margin: 10px 0;
+    }
+}
