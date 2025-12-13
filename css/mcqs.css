@@ -263,14 +263,14 @@
     border-radius: 8px 8px 0 0; /* Round the top corners to match the container */
     text-align: center;
 }
-#progress-stats p {
+.progress-entry {
     padding: 15px;
     border-radius: 8px;
     margin: 0 0 15px 0; /* Remove top/side margin, add bottom margin */
     border: 1px solid #e9ecef;
     background-color: #fff;
 }
-#progress-stats p strong {
+.progress-entry strong {
     display: block;
     margin-bottom: 10px;
     background-color: #e9ecef; /* Default background */
@@ -298,7 +298,7 @@
 .progress-entry--general strong {
     background-color: #e5e7eb; color: #374151;
 }
-#progress-stats p small {
+.progress-entry small {
     color: #555; /* Make the stats text a slightly lighter color */
 }
 .stat-boxes {

@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <div class="stat-box stat-box--accuracy"><span class="stat-label">Overall Accuracy</span><span class="stat-value">${overallPercentage}%</span></div>
                     </div>
                 </div>`;
-            statsContainer.insertAdjacentHTML('afterend', overallHtml);
+            statsContainer.insertAdjacentHTML('afterbegin', overallHtml);
         }
         progressContainer.style.display = 'block';
     }
