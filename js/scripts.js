@@ -518,6 +518,15 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function displayProgress() {
+        // Check if Chart.js is loaded, if not load it dynamically
+        if (typeof Chart === 'undefined') {
+            const script = document.createElement('script');
+            script.src = 'https://cdn.jsdelivr.net/npm/chart.js';
+            script.onload = () => displayProgress();
+            document.head.appendChild(script);
+            return;
+        }
+
             // First, remove any existing overall performance section to prevent duplication
         const existingOverall = document.querySelector('.overall-performance');
         if (existingOverall) {
@@ -527,6 +536,14 @@ document.addEventListener('DOMContentLoaded', function () {
         const progress = readProgress();
         const statsContainer = document.getElementById('progress-stats');
         statsContainer.innerHTML = `
+            <div class="charts-row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+                <div class="chart-container" style="flex: 1; min-width: 300px; height: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+                    <canvas id="overallChart"></canvas>
+                </div>
+                <div class="chart-container" style="flex: 1; min-width: 300px; height: 300px; background: #fff; padding: 15px; border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 8px rgba(0, 30, 80, 0.05);">
+                    <canvas id="subjectChart"></canvas>
+                </div>
+            </div>
             <div class="progress-category">
                 <h3>Exam Wise</h3>
                 <div id="progress-exam"></div>
@@ -553,7 +570,7 @@ document.addEventListener('DOMContentLoaded', function () {
             overallCorrect += correct;
 
             examContainer.innerHTML += `
-                <p>
+                <div class="progress-entry">
                     <strong>${name}</strong>
                     <div class="stat-boxes">
                         <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
@@ -561,7 +578,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
                         <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
-                </p>`;
+                </div>`;
         }
 
         let hasSubjectScores = false;
@@ -572,7 +589,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const percentage = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0;
 
             subjectContainer.innerHTML += `
-                <p>
+                <div class="progress-entry">
                     <strong>${name}</strong>
                     <div class="stat-boxes">
                         <div class="stat-box stat-box--attempted"><span class="stat-label">Attempted</span><span class="stat-value">${attempted}</span></div>
@@ -580,7 +597,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <div class="stat-box stat-box--incorrect"><span class="stat-label">Incorrect</span><span class="stat-value">${incorrect}</span></div>
                         <div class="stat-box stat-box--accuracy"><span class="stat-label">Accuracy</span><span class="stat-value">${percentage}%</span></div>
                     </div>
-                </p>`;
+                </div>`;
         }
 
         if (!hasExamScores && !hasSubjectScores) {
@@ -600,10 +617,77 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                 </div>`;
             statsContainer.insertAdjacentHTML('afterbegin', overallHtml);
+            
+            // Render Charts
+            renderPerformanceCharts(overallCorrect, overallIncorrect, progress.scores.subject);
         }
         progressContainer.style.display = 'block';
     }
     
+    function renderPerformanceCharts(correct, incorrect, subjectScores) {
+        // Overall Accuracy Chart
+        const ctxOverall = document.getElementById('overallChart').getContext('2d');
+        new Chart(ctxOverall, {
+            type: 'doughnut',
+            data: {
+                labels: ['Correct', 'Incorrect'],
+                datasets: [{
+                    data: [correct, incorrect],
+                    backgroundColor: ['#22c55e', '#ef4444'],
+                    borderWidth: 0,
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'bottom' },
+                    title: { display: true, text: 'Overall Accuracy', font: { size: 16 } }
+                }
+            }
+        });
+
+        // Subject Performance Chart
+        const subjects = Object.keys(subjectScores);
+        const correctData = subjects.map(s => subjectScores[s].correct);
+        const incorrectData = subjects.map(s => subjectScores[s].attempted - subjectScores[s].correct);
+
+        const ctxSubject = document.getElementById('subjectChart').getContext('2d');
+        new Chart(ctxSubject, {
+            type: 'bar',
+            data: {
+                labels: subjects,
+                datasets: [
+                    {
+                        label: 'Correct',
+                        data: correctData,
+                        backgroundColor: '#22c55e',
+                        borderRadius: 4
+                    },
+                    {
+                        label: 'Incorrect',
+                        data: incorrectData,
+                        backgroundColor: '#ef4444',
+                        borderRadius: 4
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { stacked: true },
+                    y: { stacked: true, beginAtZero: true }
+                },
+                plugins: {
+                    legend: { position: 'bottom' },
+                    title: { display: true, text: 'Subject Wise Performance', font: { size: 16 } }
+                }
+            }
+        });
+    }
+
         function populateFilter(category, type) {
 
         // New logic: Filter based on the 'type' (exam or subject) and get unique names
