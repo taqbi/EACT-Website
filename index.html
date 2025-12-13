@@ -259,5 +259,22 @@ I hope you will carry on with such great content</p>
 </footer>
 
 <script src="js/scripts.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const testimonials = document.querySelectorAll('.testimonial-item p');
+        testimonials.forEach(p => {
+            if (p.scrollHeight > p.clientHeight) {
+                const btn = document.createElement('span');
+                btn.classList.add('read-more-btn');
+                btn.innerText = 'Read More';
+                btn.onclick = function() {
+                    p.classList.toggle('expanded');
+                    btn.innerText = p.classList.contains('expanded') ? 'Read Less' : 'Read More';
+                };
+                p.parentNode.insertBefore(btn, p.nextSibling);
+            }
+        });
+    });
+</script>
 </body>
 </html>

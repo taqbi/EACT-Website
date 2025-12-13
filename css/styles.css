@@ -1860,3 +1860,22 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     .upi-pay-button:hover {
         background-color: #0056b3;
     }
+
+/* Testimonial Read More Styles */
+.testimonial-item p {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.testimonial-item p.expanded {
+    -webkit-line-clamp: unset;
+}
+.read-more-btn {
+    color: #007bff;
+    cursor: pointer;
+    font-size: 0.9em;
+    margin-top: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
