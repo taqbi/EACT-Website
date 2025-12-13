@@ -1236,4 +1236,17 @@ document.addEventListener('DOMContentLoaded', function () {
             createCoursesUI(xml);
         })();
     }
+
+    
 }); // This closes the 'DOMContentLoaded' event listener.
+
+function copyUpiId() {
+    const upiIdElement = document.getElementById('upi-id');
+    const upiId = upiIdElement.innerText;
+    navigator.clipboard.writeText(upiId).then(() => {
+        alert('UPI ID copied to clipboard!');
+    }, (err) => {
+        console.error('Could not copy text: ', err);
+        alert('Failed to copy UPI ID.');
+    });
+}

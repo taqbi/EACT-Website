@@ -411,6 +411,26 @@ body::after {
     margin-bottom: 10px;
 }
 
+.upi-id-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #e9ecef;
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin: 10px auto;
+    width: fit-content;
+}
+
+.copy-icon {
+    cursor: pointer;
+    color: #0056b3;
+    transition: transform 0.2s ease;
+}
+.copy-icon:hover {
+    transform: scale(1.2);
+}
 
 
 
