@@ -593,15 +593,6 @@ body::after {
 }
 .about-section p
 {
-    background-color: white;
-    padding: 1%;
-    border:1px solid rgb(0, 76, 255);
-    border-radius: 8px;
-    width: 100%;
-    max-width: 97%;
-    text-align: center;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
     text-align: justify;
     font-family: 'Open Sans', sans-serif;
     font-size: 1rem;
@@ -2026,4 +2017,74 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .download-btn:hover {
     background-color: #0056b3;
+}
+
+/* --- About Page Stats Grid --- */
+.about-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin: 40px 0;
+    animation: fadeInUp 0.8s ease-out forwards;
+    animation-delay: 0.2s;
+}
+
+.stat-card {
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-color: #bfdbfe;
+}
+
+.stat-card h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin: 0 0 10px 0;
+    background: linear-gradient(135deg, #1f2a44 0%, #2563eb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: #1f2a44;
+}
+
+.stat-card p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    text-align: center;
+}
+
+/* Responsive adjustments for About Section */
+@media (max-width: 1024px) {
+    .about-stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .about-stats-grid {
+        grid-template-columns: 1fr;
+    }
+    .about-section {
+        padding: 24px;
+        margin: 20px auto;
+    }
+    .content-title h2 {
+        font-size: 1.5rem;
+    }
 }
