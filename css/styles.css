@@ -1497,11 +1497,27 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Header banner for each course card */
 .course-card-header {
-    background: linear-gradient(135deg, #4a5a8a, #1f2a44);
+    /* background is now set via inline style */
     color: white;
-    padding: 20px 24px;
     margin: -24px -24px 15px -24px; /* Use negative margins to span the full width */
     border-radius: 16px 16px 0 0; /* Match the top corners of the card */
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 180px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 15px;
+    text-align: center;
+}
+
+.course-card-header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 60%);
+    border-radius: 16px 16px 0 0;
 }
 
 .course-card-header h3 {
@@ -1515,20 +1531,12 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .course h3 {
     margin-top: 0;
-    font-size: 1.3rem; /* Slightly adjusted for better hierarchy */
-    color: rgb(255, 255, 255);
-    display: flex;
-    align-items: center;
-    flex-direction: column; /* Stack icon and title vertically */
-    align-items: center; /* Center them horizontally */
-    gap: 10px;
-}
-.course h3 .fas { /* Styling for the large icon in the course header */
-    color: #1f2a44; /* A lighter, blending blue for the icon */
-    color: white; /* Set icon color to white inside the banner */
-    font-size: 1.8rem; /* Scaled down to match new title size */
-    opacity: 0.7;
-    opacity: 0.8; /* Slightly transparent for a softer look */
+    font-size: 1.4rem;
+    color: white;
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
 /* Styling for the course description */
@@ -1998,4 +2006,24 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     .header-donate {
         margin: 10px 0;
     }
+}
+
+/* Download Button Styles */
+.download-btn-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.download-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #0056b3;
 }

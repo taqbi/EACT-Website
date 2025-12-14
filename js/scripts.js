@@ -1165,6 +1165,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 courseDiv.className = 'course';
 
                 const title = course.getAttribute('title') || 'Untitled course';
+                const image = course.getAttribute('image') || 'assets/Logo.png'; // Use existing logo as a fallback
                 const desc = course.querySelector('description')?.textContent || course.getAttribute('description') || '';
                 const totalVideos = countVideosInCourse(course);
                 const totalPdfs = countPdfsInCourse(course);
@@ -1172,7 +1173,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 courseDiv.innerHTML = `
                     <div class="free-ribbon">FREE</div>
-                    <div class="course-card-header"><h3><i class="fas fa-book-reader"></i> ${title}</h3></div>
+                    <div class="course-card-header" style="background-image: url('${image}');"><h3>${title}</h3></div>
                     <div class="course-description">${desc}</div>
                     <div class="course-stats">
                         <div class="meta total-videos-meta hours-stat"><i class="fas fa-clock"></i> ~${totalHours} Hours</div>
