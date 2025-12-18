@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
    
-   https://youtu.be/fMWr9D9gldE
+   https://jkssb.nic.in/Pdf/Annual_calendar_2026_18122025.pdf
+   <update>
+        <text>JKSSB FAA, JKPSI,Junior Assistant etc. Exam Dates Out</text>
+        <url> https://jkssb.nic.in/Pdf/Annual_calendar_2026_18122025.pdf</url>
+        <date>2025-12-18</date> <!-- Example date -->
+    </update>
    <update>
         <text>Lec 9: Energy Sources of Jammu and Kashmir uploaded on Youtube</text>
         <url> https://youtu.be/fMWr9D9gldE</url>
