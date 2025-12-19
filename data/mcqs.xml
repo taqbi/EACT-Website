@@ -24174,4 +24174,1036 @@ Keyboard, mouse (point-and-draw), scanners, OCR, etc., are all types of **input 
 
 
 
+
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "I know **where he lives**."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Principal Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>The clause acts as the object of the verb 'know'. (I know *something*). Therefore, it is a Noun Clause.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "The book **that I bought** is very interesting."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Adjective Clause</option>
+        <option>Coordinate Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>The clause describes the noun 'book'. Clauses that modify nouns or pronouns are Adjective (Relative) Clauses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He will succeed **because he works hard**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause of Reason</option>
+        <option>Adverb Clause of Time</option>
+        <answer>Adverb Clause of Reason</answer>
+        <explanation>The clause answers the question 'Why?'. It modifies the verb 'succeed' by giving a reason.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "**If you run fast**, you will catch the train."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Condition</option>
+        <option>Adverb Clause of Time</option>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <answer>Adverb Clause of Condition</answer>
+        <explanation>The clause sets a condition for the main action. Identifying word: 'If'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "This is the house **where I was born**."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Adjective Clause</option>
+        <option>Prepositional Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>The clause qualifies the noun 'house'. Note: Even though it starts with 'where', it describes a noun, making it an Adjective clause.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Wait here **until I return**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Place</option>
+        <option>Adverb Clause of Time</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Time</answer>
+        <explanation>The clause tells us 'when' to wait.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "I asked him **how old he was**."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause</option>
+        <option>Noun Clause</option>
+        <option>Principal Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>It acts as the object of the verb 'asked'. (I asked him *something*).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He is so weak **that he cannot walk**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Result</option>
+        <option>Adverb Clause of Reason</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Result</answer>
+        <explanation>The clause explains the result/consequence of him being weak. (So... that structure).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "**That he is honest** is known to all."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adverb Clause</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Coordinate Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>The entire clause serves as the Subject of the verb 'is known'. Only a Noun Clause can be the subject.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "The boy **who is sitting there** is my brother."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Defining Relative Clause</option>
+        <option>Non-defining Relative Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <answer>Defining Relative Clause</answer>
+        <explanation>It defines exactly which boy is being referred to. It is an Adjective clause.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 2: HARD (Tricky Identifications & Functions) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "The news **that he died** is false."</text>
+        <topic>Noun Clauses (Apposition)</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Relative Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>This is tricky. It looks like an Adjective clause, but it is a Noun clause in 'Apposition' to the noun 'news'. It tells us *what* the news is, rather than describing the *kind* of news.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He talks **as if he were mad**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Manner</option>
+        <option>Adverb Clause of Condition</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Manner</answer>
+        <explanation>It describes 'how' he talks. 'As if' usually introduces a clause of manner or supposition.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the function of the Noun Clause: "My belief is **that he will not come**."</text>
+        <topic>Noun Clause Functions</topic>
+        <option>Object of a verb</option>
+        <option>Subject of a verb</option>
+        <option>Subject Complement</option>
+        <option>Object of a preposition</option>
+        <answer>Subject Complement</answer>
+        <explanation>The clause follows the linking verb 'is' and renames/describes the subject 'My belief'. Hence, Subject Complement.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Rich **as he is**, he is not happy."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Comparison</option>
+        <option>Adverb Clause of Concession</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Concession</answer>
+        <explanation>This structure (Adjective + as + Subject + Verb) indicates contrast/concession (meaning: Although he is rich...).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "There is no one **but likes him**."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Adjective Clause</option>
+        <option>Conjunctional Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>Here, 'but' acts as a relative pronoun meaning 'who does not'. The sentence means: "There is no one *who does not like* him." It modifies 'one'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Pay attention to **what I say**."</text>
+        <topic>Noun Clause Functions</topic>
+        <option>Object of a Verb</option>
+        <option>Object of a Preposition</option>
+        <option>Subject of a Verb</option>
+        <option>Complement of a Verb</option>
+        <answer>Object of a Preposition</answer>
+        <explanation>The clause follows the preposition 'to' and acts as its object.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He is older **than he looks**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Comparison</option>
+        <option>Adverb Clause of Time</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Comparison</answer>
+        <explanation>The clause compares his age to his appearance.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "**What cannot be cured** must be endured."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Main Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>The entire clause acts as the Subject of the main verb 'must be endured'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Strike the iron **while it is hot**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Reason</option>
+        <option>Adverb Clause of Time</option>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <answer>Adverb Clause of Time</answer>
+        <explanation>It tells 'when' to strike the iron.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "I am afraid **that he is sick**."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adverb Clause of Reason</option>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause of Result</option>
+        <answer>Noun Clause</answer>
+        <explanation>This is a Noun clause used as the complement of the adjective 'afraid'. (I am afraid of *something*).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "All **that glitters** is not gold."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause</option>
+        <option>Principal Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>The clause modifies the indefinite pronoun 'All'. Hence, it is an Adjective (Relative) Clause.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "**Whatever you do**, do it well."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause of Concession</option>
+        <option>Adverb Clause of Purpose</option>
+        <answer>Adverb Clause of Concession</answer>
+        <explanation>Here, 'Whatever' implies "No matter what you do". It functions as an Adverb Clause of Concession/Supposition modifying the main verb.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "The reason **why he left** is a mystery."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause</option>
+        <option>Main Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>The clause modifies the noun 'reason'. (Note: In some modern grammars, this is debated, but traditionally in exams, clauses modifying 'reason', 'time', 'place' are Adjective Clauses).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "It is true **that he is my friend**."</text>
+        <topic>Noun Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Coordinate Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>The clause is in apposition to the introductory pronoun 'It'. The real subject is the clause itself (That he is my friend is true).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He came **so that he might see me**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Result</option>
+        <option>Adverb Clause of Purpose</option>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <answer>Adverb Clause of Purpose</answer>
+        <explanation>'So that' followed by 'may/might' indicates Purpose (Why he came).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "**Where there is a will**, there is a way."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Noun Clause</option>
+        <option>Adverb Clause of Place</option>
+        <option>Adverb Clause of Condition</option>
+        <answer>Adverb Clause of Place</answer>
+        <explanation>It modifies the verb/existence in the main clause by specifying the location/condition.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Uneasy lies the head **that wears a crown**."</text>
+        <topic>Adjective Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adverb Clause</option>
+        <option>Adjective Clause</option>
+        <option>Principal Clause</option>
+        <answer>Adjective Clause</answer>
+        <explanation>The clause describes the noun 'head'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "I shall remain **where I am**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Noun Clause</option>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause of Place</option>
+        <option>Adverb Clause of Time</option>
+        <answer>Adverb Clause of Place</answer>
+        <explanation>It modifies the verb 'remain' by telling the place.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "Can you tell me **who wrote this**?"</text>
+        <topic>Noun Clauses</topic>
+        <option>Adjective Clause</option>
+        <option>Adverb Clause</option>
+        <option>Noun Clause</option>
+        <option>Prepositional Clause</option>
+        <answer>Noun Clause</answer>
+        <explanation>It is the direct object of the verb 'tell'. (Tell me *something*).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the underlined clause: "He worked hard **lest he should fail**."</text>
+        <topic>Adverb Clauses</topic>
+        <option>Adverb Clause of Result</option>
+        <option>Adverb Clause of Purpose</option>
+        <option>Adverb Clause of Condition</option>
+        <option>Noun Clause</option>
+        <answer>Adverb Clause of Purpose</answer>
+        <explanation>'Lest' introduces a negative purpose (in order that he might not fail).</explanation>
+    </question>
+
+
+
+
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 1: MEDIUM (Commas, Apostrophes, Basic Quotes) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Apostrophe)</topic>
+        <option>The dogs collar is loose.</option>
+        <option>The dog's collar is loose.</option>
+        <option>The dogs' collar is loose.</option>
+        <option>The dogs collar's is loose.</option>
+        <answer>The dog's collar is loose.</answer>
+        <explanation>Singular possession requires 's (dog's). Option C implies multiple dogs sharing one collar, which is unlikely.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Introductory Comma)</topic>
+        <option>Before we go to the movie we should eat dinner.</option>
+        <option>Before we go to the movie, we should eat dinner.</option>
+        <option>Before we go, to the movie we should eat dinner.</option>
+        <option>Before, we go to the movie we should eat dinner.</option>
+        <answer>Before we go to the movie, we should eat dinner.</answer>
+        <explanation>Use a comma after an introductory dependent clause (Before we go to the movie).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the sentence with the correct use of the apostrophe.</text>
+        <topic>Punctuation (Plural Possession)</topic>
+        <option>The student's books were left in the classroom.</option>
+        <option>The students' books were left in the classroom.</option>
+        <option>The students books' were left in the classroom.</option>
+        <option>The students book's were left in the classroom.</option>
+        <answer>The students' books were left in the classroom.</answer>
+        <explanation>When the noun is plural and ends in 's' (students), the apostrophe goes after the 's' (students') to show possession.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence is punctuated correctly?</text>
+        <topic>Punctuation (Dates)</topic>
+        <option>She was born on May 24, 2000 in London.</option>
+        <option>She was born on May 24 2000, in London.</option>
+        <option>She was born on May 24, 2000, in London.</option>
+        <option>She was born on May, 24 2000 in London.</option>
+        <answer>She was born on May 24, 2000, in London.</answer>
+        <explanation>A comma is used between the day and year, and another comma follows the year if the sentence continues.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (It's vs Its)</topic>
+        <option>The cat licked it's paws.</option>
+        <option>The cat licked its paws.</option>
+        <option>The cat licked its' paws.</option>
+        <option>The cat licked it is paws.</option>
+        <answer>The cat licked its paws.</answer>
+        <explanation>'Its' is the possessive form. 'It's' is the contraction for 'It is'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the correct sentence.</text>
+        <topic>Punctuation (Direct Address)</topic>
+        <option>Let's eat Grandma.</option>
+        <option>Let's eat, Grandma.</option>
+        <option>Let's, eat Grandma.</option>
+        <option>Lets eat, Grandma.</option>
+        <answer>Let's eat, Grandma.</answer>
+        <explanation>A comma is used for direct address to separate the name of the person being spoken to. Without the comma, it implies cannibalism!</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence is correct?</text>
+        <topic>Punctuation (Lists)</topic>
+        <option>I need to buy eggs milk, and bread.</option>
+        <option>I need to buy eggs, milk and bread.</option>
+        <option>I need to buy, eggs, milk, and bread.</option>
+        <option>I need to buy eggs milk and bread.</option>
+        <answer>I need to buy eggs, milk and bread.</answer>
+        <explanation>Commas are used to separate items in a list. (Note: The Oxford comma before 'and' is optional but preferred in formal writing; Option B is the standard correct choice among the errors).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Adjectives)</topic>
+        <option>It was a long, boring movie.</option>
+        <option>It was a long boring movie.</option>
+        <option>It was a long, boring, movie.</option>
+        <option>It was a long boring, movie.</option>
+        <answer>It was a long, boring movie.</answer>
+        <explanation>Coordinate adjectives (adjectives that modify the noun equally) are separated by commas.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence handles the quotation marks correctly?</text>
+        <topic>Punctuation (Dialogue)</topic>
+        <option>She said "I am tired."</option>
+        <option>She said, "I am tired."</option>
+        <option>She said, "I am tired".</option>
+        <option>She said "I am tired".</option>
+        <answer>She said, "I am tired."</answer>
+        <explanation>A comma separates the signal phrase (She said) from the quote, and the period goes inside the quotation marks.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correct sentence.</text>
+        <topic>Punctuation (City/State)</topic>
+        <option>We visited Paris France last year.</option>
+        <option>We visited Paris, France, last year.</option>
+        <option>We visited Paris, France last year.</option>
+        <option>We visited, Paris France last year.</option>
+        <answer>We visited Paris, France, last year.</answer>
+        <explanation>Use a comma between the city and country/state, and another comma after the country/state if the sentence continues.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the correctly punctuated sentence.</text>
+        <topic>Punctuation (Hyphens)</topic>
+        <option>He is a well known actor.</option>
+        <option>He is a well-known actor.</option>
+        <option>He is a well known-actor.</option>
+        <option>He is a-well known actor.</option>
+        <answer>He is a well-known actor.</answer>
+        <explanation>Use a hyphen in compound adjectives (well-known) when they come before the noun they modify.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence uses the colon correctly?</text>
+        <topic>Punctuation (Colon)</topic>
+        <option>I have three sisters: Mary, Jane, and Sue.</option>
+        <option>I have: three sisters Mary, Jane, and Sue.</option>
+        <option>I have three sisters; Mary, Jane, and Sue.</option>
+        <option>I have three sisters, Mary, Jane, and Sue.</option>
+        <answer>I have three sisters: Mary, Jane, and Sue.</answer>
+        <explanation>A colon is used to introduce a list after a complete independent clause.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Indirect Question)</topic>
+        <option>He asked me where I was going?</option>
+        <option>He asked me where I was going.</option>
+        <option>He asked me, where I was going.</option>
+        <option>He asked me: where I was going.</option>
+        <answer>He asked me where I was going.</answer>
+        <explanation>Indirect questions end with a period, not a question mark.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correct sentence.</text>
+        <topic>Punctuation (Numbers)</topic>
+        <option>There are twenty-five students in the class.</option>
+        <option>There are twenty five students in the class.</option>
+        <option>There are twenty five-students in the class.</option>
+        <option>There are twentyfive students in the class.</option>
+        <answer>There are twenty-five students in the class.</answer>
+        <explanation>Compound numbers from twenty-one to ninety-nine are hyphenated.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence is correct?</text>
+        <topic>Punctuation (Question Tag)</topic>
+        <option>You are coming, aren't you.</option>
+        <option>You are coming aren't you?</option>
+        <option>You are coming, aren't you?</option>
+        <option>You are coming; aren't you?</option>
+        <answer>You are coming, aren't you?</answer>
+        <explanation>A comma separates the statement from the question tag, and it must end with a question mark.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 2: HARD (Semicolons, Colons, Relative Clauses) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Semicolon)</topic>
+        <option>I have a big test tomorrow, I can't go out tonight.</option>
+        <option>I have a big test tomorrow; I can't go out tonight.</option>
+        <option>I have a big test tomorrow: I can't go out tonight.</option>
+        <option>I have a big test tomorrow I can't go out tonight.</option>
+        <answer>I have a big test tomorrow; I can't go out tonight.</answer>
+        <explanation>Use a semicolon to join two independent clauses that are not connected by a conjunction. Option A is a 'comma splice' error.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence uses commas correctly?</text>
+        <topic>Punctuation (Non-restrictive Clauses)</topic>
+        <option>My brother, who lives in New York, is a doctor.</option>
+        <option>My brother who lives in New York, is a doctor.</option>
+        <option>My brother who lives in New York is a doctor.</option>
+        <option>My brother, who lives in New York is a doctor.</option>
+        <answer>My brother, who lives in New York, is a doctor.</answer>
+        <explanation>If the speaker has only one brother, the clause 'who lives in New York' is non-essential (non-restrictive) and must be set off by commas. If the speaker has multiple brothers, Option C would be correct. However, in exams, typically the non-restrictive (commas) format is tested for punctuation rules.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correct sentence.</text>
+        <topic>Punctuation (Conjunctive Adverbs)</topic>
+        <option>I wanted to go; however I was too tired.</option>
+        <option>I wanted to go, however, I was too tired.</option>
+        <option>I wanted to go; however, I was too tired.</option>
+        <option>I wanted to go however, I was too tired.</option>
+        <answer>I wanted to go; however, I was too tired.</answer>
+        <explanation>When a conjunctive adverb (however) connects two independent clauses, use a semicolon before it and a comma after it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence is punctuated correctly?</text>
+        <topic>Punctuation (Appositives)</topic>
+        <option>The author, George Orwell wrote 1984.</option>
+        <option>The author George Orwell, wrote 1984.</option>
+        <option>The author George Orwell wrote 1984.</option>
+        <option>The author, George Orwell, wrote 1984.</option>
+        <answer>The author, George Orwell, wrote 1984.</answer>
+        <explanation>The name 'George Orwell' is an appositive renaming 'The author'. If it is considered essential info, C is correct. However, if 'The author' is treated as a specific introduction, commas are used. Standard test answer is D when the noun is a specific title.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Joint Possession)</topic>
+        <option>Jack and Jill's bucket is full.</option>
+        <option>Jack's and Jill's bucket is full.</option>
+        <option>Jack and Jills bucket is full.</option>
+        <option>Jack's and Jill bucket is full.</option>
+        <answer>Jack and Jill's bucket is full.</answer>
+        <explanation>For joint possession (they share the bucket), add the apostrophe only to the last name.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the sentence with the correct use of the semicolon.</text>
+        <topic>Punctuation (Complex Lists)</topic>
+        <option>I visited Seattle, Washington; Tokyo, Japan; and London, England.</option>
+        <option>I visited Seattle, Washington, Tokyo, Japan, and London, England.</option>
+        <option>I visited Seattle; Washington, Tokyo; Japan, and London; England.</option>
+        <option>I visited Seattle Washington; Tokyo Japan; and London England.</option>
+        <answer>I visited Seattle, Washington; Tokyo, Japan; and London, England.</answer>
+        <explanation>When items in a list already contain commas (city, country), use semicolons to separate the items for clarity.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence uses the dash correctly?</text>
+        <topic>Punctuation (Dash)</topic>
+        <option>He has only one passion—music.</option>
+        <option>He has only one passion: music.</option>
+        <option>He has only one passion; music.</option>
+        <option>He has only one passion, music.</option>
+        <answer>He has only one passion—music.</answer>
+        <explanation>An em-dash is used to add emphasis or a sudden break. A colon (Option B) is also grammatically correct, but the dash adds dramatic effect. In multiple-choice questions involving dashes vs colons, look for the emphasis context.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Quotations)</topic>
+        <option>"Did you hear him say 'I quit'?" asked John.</option>
+        <option>"Did you hear him say 'I quit?'" asked John.</option>
+        <option>"Did you hear him say "I quit"?" asked John.</option>
+        <option>"Did you hear him say 'I quit'?" asked John.</option>
+        <answer>"Did you hear him say 'I quit'?" asked John.</answer>
+        <explanation>Use single quotes for a quote within a quote. Since the main sentence is a question, the question mark goes outside the single quote but inside the double quote.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Identify the correct sentence.</text>
+        <topic>Punctuation (Colon/Explanation)</topic>
+        <option>He had a good reason for his delay; traffic.</option>
+        <option>He had a good reason for his delay: traffic.</option>
+        <option>He had a good reason for his delay, traffic.</option>
+        <option>He had a good reason for his delay - traffic.</option>
+        <answer>He had a good reason for his delay: traffic.</answer>
+        <explanation>A colon is best used to introduce an explanation or a specific detail that clarifies the preceding clause.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Commas/Clauses)</topic>
+        <option>Although it was raining, we went for a walk.</option>
+        <option>Although, it was raining we went for a walk.</option>
+        <option>Although it was raining we went for a walk.</option>
+        <option>Although it was raining; we went for a walk.</option>
+        <answer>Although it was raining, we went for a walk.</answer>
+        <explanation>When a dependent clause (Although it was raining) comes first, it must be followed by a comma.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence is correct?</text>
+        <topic>Punctuation (Proper Nouns/Titles)</topic>
+        <option>The Prime Minister of India visited the White House.</option>
+        <option>The Prime Minister of India visited the white house.</option>
+        <option>The prime minister of India visited the White House.</option>
+        <option>The Prime minister of India visited the White House.</option>
+        <answer>The Prime Minister of India visited the White House.</answer>
+        <explanation>Capitalize specific titles when they refer to a specific person or office, and capitalize proper nouns (White House).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Names ending in S)</topic>
+        <option>James's car is new.</option>
+        <option>James' car is new.</option>
+        <option>Jame's car is new.</option>
+        <option>Both A and B are acceptable.</option>
+        <answer>Both A and B are acceptable.</answer>
+        <explanation>Style guides vary. James's is common in academic styles (MLA/APA), while James' is common in journalism (AP). In exams, usually, James's is preferred if 'Both' isn't an option, but technically both are correct.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Which sentence handles the parenthesis correctly?</text>
+        <topic>Punctuation (Parentheses)</topic>
+        <option>He finally answered (after taking five minutes to think.)</option>
+        <option>He finally answered (after taking five minutes to think).</option>
+        <option>He finally answered, (after taking five minutes to think).</option>
+        <option>He finally answered. (after taking five minutes to think)</option>
+        <answer>He finally answered (after taking five minutes to think).</answer>
+        <explanation>If the text in parentheses is part of the sentence, the period goes outside the closing parenthesis.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correct sentence.</text>
+        <topic>Punctuation (Ellipsis)</topic>
+        <option>He said, "I'm not sure... maybe."</option>
+        <option>He said, "I'm not sure. . . maybe."</option>
+        <option>He said, "I'm not sure maybe..."</option>
+        <option>He said "I'm not sure ... maybe".</option>
+        <answer>He said, "I'm not sure... maybe."</answer>
+        <explanation>Ellipses (...) indicate a pause or trailing off thought.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Choose the correctly punctuated sentence.</text>
+        <topic>Punctuation (Compound Sentences)</topic>
+        <option>The car was expensive but, I bought it anyway.</option>
+        <option>The car was expensive, but I bought it anyway.</option>
+        <option>The car was expensive but I bought it anyway.</option>
+        <option>The car was expensive; but I bought it anyway.</option>
+        <answer>The car was expensive, but I bought it anyway.</answer>
+        <explanation>Use a comma before a coordinating conjunction (but) that connects two independent clauses.</explanation>
+    </question>
+
+
+
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- SECTION 1: SYNONYMS (Choose the word nearest in meaning) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **EPHEMERAL**</text>
+        <topic>Synonyms</topic>
+        <option>Eternal</option>
+        <option>Transient</option>
+        <option>Ethical</option>
+        <option>Spiritual</option>
+        <answer>Transient</answer>
+        <explanation>Ephemeral means lasting for a very short time. Transient also means lasting only for a short time.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **OBSEQUIOUS**</text>
+        <topic>Synonyms</topic>
+        <option>Defiant</option>
+        <option>Servile</option>
+        <option>Domineering</option>
+        <option>Honest</option>
+        <answer>Servile</answer>
+        <explanation>Obsequious means obedient or attentive to an excessive or servile degree. Servile matches this meaning.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **LACONIC**</text>
+        <topic>Synonyms</topic>
+        <option>Loquacious</option>
+        <option>Terse</option>
+        <option>Rambling</option>
+        <option>Emotional</option>
+        <answer>Terse</answer>
+        <explanation>Laconic means using very few words. Terse means sparing in the use of words; abrupt.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **MITIGATE**</text>
+        <topic>Synonyms</topic>
+        <option>Aggravate</option>
+        <option>Alleviate</option>
+        <option>Instigate</option>
+        <option>Irrigate</option>
+        <answer>Alleviate</answer>
+        <explanation>Mitigate means to make less severe or painful. Alleviate means to make suffering less severe.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **CACOPHONY**</text>
+        <topic>Synonyms</topic>
+        <option>Harmony</option>
+        <option>Din</option>
+        <option>Melody</option>
+        <option>Silence</option>
+        <answer>Din</answer>
+        <explanation>Cacophony refers to a harsh, discordant mixture of sounds. Din refers to a loud, unpleasant, and prolonged noise.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **ENIGMATIC**</text>
+        <topic>Synonyms</topic>
+        <option>Obvious</option>
+        <option>Cryptic</option>
+        <option>Energetic</option>
+        <option>Sympathetic</option>
+        <answer>Cryptic</answer>
+        <explanation>Enigmatic means difficult to interpret or understand; mysterious. Cryptic has a similar meaning.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **PERNICIOUS**</text>
+        <topic>Synonyms</topic>
+        <option>Beneficial</option>
+        <option>Detrimental</option>
+        <option>Innocuous</option>
+        <option>Pious</option>
+        <answer>Detrimental</answer>
+        <explanation>Pernicious means having a harmful effect, especially in a gradual way. Detrimental means tending to cause harm.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **ALACRITY**</text>
+        <topic>Synonyms</topic>
+        <option>Hesitation</option>
+        <option>Promptness</option>
+        <option>Apathy</option>
+        <option>Fear</option>
+        <answer>Promptness</answer>
+        <explanation>Alacrity means brisk and cheerful readiness. Promptness implies speed and readiness.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **MAGNANIMOUS**</text>
+        <topic>Synonyms</topic>
+        <option>Selfish</option>
+        <option>Altruistic</option>
+        <option>Petty</option>
+        <option>Suspicious</option>
+        <answer>Altruistic</answer>
+        <explanation>Magnanimous means generous or forgiving. Altruistic means showing a disinterested and selfless concern for the well-being of others.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **ESOTERIC**</text>
+        <topic>Synonyms</topic>
+        <option>Common</option>
+        <option>Abstruse</option>
+        <option>Simple</option>
+        <option>Physical</option>
+        <answer>Abstruse</answer>
+        <explanation>Esoteric means intended for or likely to be understood by only a small number of people. Abstruse means difficult to understand; obscure.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **VINDICATE**</text>
+        <topic>Synonyms</topic>
+        <option>Accuse</option>
+        <option>Exonerate</option>
+        <option>Convict</option>
+        <option>Ignore</option>
+        <answer>Exonerate</answer>
+        <explanation>Vindicate means to clear someone of blame or suspicion. Exonerate means to absolve someone from blame.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **GARRULOUS**</text>
+        <topic>Synonyms</topic>
+        <option>Taciturn</option>
+        <option>Voluble</option>
+        <option>Silent</option>
+        <option>Grumpy</option>
+        <answer>Voluble</answer>
+        <explanation>Garrulous means excessively talkative. Voluble means speaking or spoken incessantly and fluently.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **ICONOCLAST**</text>
+        <topic>Synonyms</topic>
+        <option>Believer</option>
+        <option>Dissident</option>
+        <option>Idol</option>
+        <option>Artist</option>
+        <answer>Dissident</answer>
+        <explanation>An iconoclast is a person who attacks cherished beliefs or institutions. A dissident is a person who opposes official policy.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **QUINTESSENTIAL**</text>
+        <topic>Synonyms</topic>
+        <option>Average</option>
+        <option>Typical</option>
+        <option>Weak</option>
+        <option>Foreign</option>
+        <answer>Typical</answer>
+        <explanation>Quintessential means representing the most perfect or typical example of a quality or class.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the synonym of the word: **TACITURN**</text>
+        <topic>Synonyms</topic>
+        <option>Reticent</option>
+        <option>Talkative</option>
+        <option>Loud</option>
+        <option>Gregarious</option>
+        <answer>Reticent</answer>
+        <explanation>Taciturn means reserved or uncommunicative in speech. Reticent means not revealing one's thoughts or feelings readily.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 2: ANTONYMS (Choose the word opposite in meaning) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **BENEVOLENT**</text>
+        <topic>Antonyms</topic>
+        <option>Kind</option>
+        <option>Malevolent</option>
+        <option>Generous</option>
+        <option>Peaceful</option>
+        <answer>Malevolent</answer>
+        <explanation>Benevolent means well-meaning and kindly. Malevolent means having or showing a wish to do evil to others.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **AMELIORATE**</text>
+        <topic>Antonyms</topic>
+        <option>Improve</option>
+        <option>Worsen</option>
+        <option>Praise</option>
+        <option>Ignore</option>
+        <answer>Worsen</answer>
+        <explanation>Ameliorate means to make something bad better. Worsen is the direct opposite.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **GREGARIOUS**</text>
+        <topic>Antonyms</topic>
+        <option>Sociable</option>
+        <option>Reclusive</option>
+        <option>Friendly</option>
+        <option>Talkative</option>
+        <answer>Reclusive</answer>
+        <explanation>Gregarious means fond of company; sociable. Reclusive means avoiding the company of other people.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **TRANQUIL**</text>
+        <topic>Antonyms</topic>
+        <option>Peaceful</option>
+        <option>Tumultuous</option>
+        <option>Quiet</option>
+        <option>Serene</option>
+        <answer>Tumultuous</answer>
+        <explanation>Tranquil means free from disturbance; calm. Tumultuous means making a loud, confused noise; uproarious.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **ASSUAGE**</text>
+        <topic>Antonyms</topic>
+        <option>Soothe</option>
+        <option>Aggravate</option>
+        <option>Pacify</option>
+        <option>Help</option>
+        <answer>Aggravate</answer>
+        <explanation>Assuage means to make an unpleasant feeling less intense. Aggravate means to make a problem or injury worse.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **AUDACIOUS**</text>
+        <topic>Antonyms</topic>
+        <option>Bold</option>
+        <option>Timid</option>
+        <option>Brave</option>
+        <option>Risky</option>
+        <answer>Timid</answer>
+        <explanation>Audacious means showing a willingness to take surprisingly bold risks. Timid means showing a lack of courage.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **PROFOUND**</text>
+        <topic>Antonyms</topic>
+        <option>Deep</option>
+        <option>Superficial</option>
+        <option>Wise</option>
+        <option>Intelligent</option>
+        <answer>Superficial</answer>
+        <explanation>Profound means very great or intense; having deep knowledge. Superficial means existing only on the surface.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **FRUGAL**</text>
+        <topic>Antonyms</topic>
+        <option>Miserly</option>
+        <option>Extravagant</option>
+        <option>Careful</option>
+        <option>Poor</option>
+        <answer>Extravagant</answer>
+        <explanation>Frugal means simple and plain and costing little. Extravagant means lacking restraint in spending money.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **CANDID**</text>
+        <topic>Antonyms</topic>
+        <option>Frank</option>
+        <option>Deceitful</option>
+        <option>Open</option>
+        <option>Blunt</option>
+        <answer>Deceitful</answer>
+        <explanation>Candid means truthful and straightforward. Deceitful means guilty of or involving deceit; deceiving.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **ZENITH**</text>
+        <topic>Antonyms</topic>
+        <option>Peak</option>
+        <option>Nadir</option>
+        <option>Summit</option>
+        <option>Middle</option>
+        <answer>Nadir</answer>
+        <explanation>Zenith is the highest point reached by a celestial or other object. Nadir is the lowest point in the fortunes of a person or organization.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **CHIDE**</text>
+        <topic>Antonyms</topic>
+        <option>Scold</option>
+        <option>Praise</option>
+        <option>Criticize</option>
+        <option>Fear</option>
+        <answer>Praise</answer>
+        <explanation>Chide means to scold or rebuke. Praise means to express warm approval or admiration.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **DORMANT**</text>
+        <topic>Antonyms</topic>
+        <option>Sleeping</option>
+        <option>Active</option>
+        <option>Hidden</option>
+        <option>Latent</option>
+        <answer>Active</answer>
+        <explanation>Dormant means temporarily inactive. Active means engaging or ready to engage in physically energetic pursuits.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **PAUCITY**</text>
+        <topic>Antonyms</topic>
+        <option>Scarcity</option>
+        <option>Plethora</option>
+        <option>Lack</option>
+        <option>Few</option>
+        <answer>Plethora</answer>
+        <explanation>Paucity means the presence of something only in small or insufficient quantities. Plethora means a large or excessive amount.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **OSTENTATIOUS**</text>
+        <topic>Antonyms</topic>
+        <option>Showy</option>
+        <option>Modest</option>
+        <option>Loud</option>
+        <option>Pretentious</option>
+        <answer>Modest</answer>
+        <explanation>Ostentatious means characterized by vulgar or pretentious display. Modest means unassuming in the estimation of one's abilities.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the antonym of the word: **EPHEMERAL**</text>
+        <topic>Antonyms</topic>
+        <option>Brief</option>
+        <option>Permanent</option>
+        <option>Fleeting</option>
+        <option>Temporary</option>
+        <answer>Permanent</answer>
+        <explanation>Ephemeral means lasting a very short time. Permanent means lasting or intended to last or remain unchanged indefinitely.</explanation>
+    </question>
+
+
+
+
+
+    
+
+
 </quizzes>
