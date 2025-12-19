@@ -25203,7 +25203,1699 @@ Keyboard, mouse (point-and-draw), scanners, OCR, etc., are all types of **input 
 
 
 
-    
 
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- SECTION 1: MEDIUM DIFFICULTY (Common but Tricky) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To clip one's wings"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To stop someone from flying</option>
+        <option>To restrict someone's freedom or power</option>
+        <option>To help someone grow</option>
+        <option>To become very angry</option>
+        <answer>To restrict someone's freedom or power</answer>
+        <explanation>To clip someone's wings means to limit their ability to do things or restrict their freedom.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To give the cold shoulder"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To ignore or treat someone in an unfriendly way</option>
+        <option>To support someone in tough times</option>
+        <option>To shiver with cold</option>
+        <option>To scold someone severly</option>
+        <answer>To ignore or treat someone in an unfriendly way</answer>
+        <explanation>Giving the cold shoulder means intentionally ignoring someone or treating them with indifference.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A wild goose chase"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A fun adventure</option>
+        <option>A foolish and hopeless search</option>
+        <option>Hunting for birds</option>
+        <option>Running very fast</option>
+        <answer>A foolish and hopeless search</answer>
+        <explanation>A wild goose chase is a search that is completely unsuccessful and a waste of time.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To burn the midnight oil"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To waste resources</option>
+        <option>To work or study late into the night</option>
+        <option>To create a mess</option>
+        <option>To sleep very late</option>
+        <answer>To work or study late into the night</answer>
+        <explanation>To burn the midnight oil means to work hard, especially late at night.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To sit on the fence"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To be lazy</option>
+        <option>To hesitate between two decisions</option>
+        <option>To be very brave</option>
+        <option>To occupy a high position</option>
+        <answer>To hesitate between two decisions</answer>
+        <explanation>Sitting on the fence means avoiding making a decision or choosing a side in an argument.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Spill the beans"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To make a mess</option>
+        <option>To reveal a secret</option>
+        <option>To cook food</option>
+        <option>To waste money</option>
+        <answer>To reveal a secret</answer>
+        <explanation>To spill the beans means to disclose a secret or confidential information.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Bury the hatchet"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To dig a hole</option>
+        <option>To make peace</option>
+        <option>To start a war</option>
+        <option>To hide a weapon</option>
+        <answer>To make peace</answer>
+        <explanation>To bury the hatchet means to end a conflict or quarrel and become friends.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Through thick and thin"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Through a forest</option>
+        <option>Under all circumstances, good or bad</option>
+        <option>Losing and gaining weight</option>
+        <option>Passing through a narrow passage</option>
+        <answer>Under all circumstances, good or bad</answer>
+        <explanation>To support someone through thick and thin means to stay with them during both good times and bad times.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To read between the lines"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To read very slowly</option>
+        <option>To understand the hidden meaning</option>
+        <option>To read only important parts</option>
+        <option>To misunderstand something</option>
+        <answer>To understand the hidden meaning</answer>
+        <explanation>Reading between the lines involves understanding what is implied but not explicitly stated.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A blessing in disguise"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A bad thing that turns out to be good</option>
+        <option>A prayer in secret</option>
+        <option>A hidden treasure</option>
+        <option>A good thing that ends badly</option>
+        <answer>A bad thing that turns out to be good</answer>
+        <explanation>Something that seems bad or unlucky at first, but results in something good happening later.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To cut corners"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To drive fast</option>
+        <option>To do something badly to save time or money</option>
+        <option>To destroy something</option>
+        <option>To take a shortcut while walking</option>
+        <answer>To do something badly to save time or money</answer>
+        <explanation>Cutting corners means doing something in the easiest or cheapest way, often sacrificing quality.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Once in a blue moon"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Every month</option>
+        <option>Very rarely</option>
+        <option>During a full moon</option>
+        <option>Frequently</option>
+        <answer>Very rarely</answer>
+        <explanation>An event that happens very rarely.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To hit the nail on the head"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To hurt oneself</option>
+        <option>To do or say something exactly right</option>
+        <option>To complete a task</option>
+        <option>To be violent</option>
+        <answer>To do or say something exactly right</answer>
+        <explanation>To describe exactly what is causing a situation or problem; to be exactly correct.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Let the cat out of the bag"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To allow a pet to run away</option>
+        <option>To reveal a secret carelessly or by mistake</option>
+        <option>To solve a problem</option>
+        <option>To create a disturbance</option>
+        <answer>To reveal a secret carelessly or by mistake</answer>
+        <explanation>To disclose a secret, often accidentally.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To turn a blind eye"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To become blind</option>
+        <option>To pretend not to notice</option>
+        <option>To look away in fear</option>
+        <option>To stare at someone</option>
+        <answer>To pretend not to notice</answer>
+        <explanation>To choose to ignore something that you know is wrong.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"At the eleventh hour"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>At 11:00 PM</option>
+        <option>At the last possible moment</option>
+        <option>Too late to do anything</option>
+        <option>Very early in the morning</option>
+        <answer>At the last possible moment</answer>
+        <explanation>Happening at the last moment before it is too late.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A piece of cake"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A tasty dessert</option>
+        <option>Something very easy to do</option>
+        <option>Something very expensive</option>
+        <option>A part of a whole</option>
+        <answer>Something very easy to do</answer>
+        <explanation>Something that is very simple or easy to accomplish.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To break the ice"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To start a conflict</option>
+        <option>To initiate a conversation in a social setting</option>
+        <option>To break a promise</option>
+        <option>To cool down a situation</option>
+        <answer>To initiate a conversation in a social setting</answer>
+        <explanation>To say or do something to make people feel more relaxed in a new situation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Under the weather"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Standing in the rain</option>
+        <option>Feeling sick or unwell</option>
+        <option>Feeling excited</option>
+        <option>Under pressure</option>
+        <answer>Feeling sick or unwell</answer>
+        <explanation>To feel slightly ill or not in good spirits.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To bite the bullet"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To eat quickly</option>
+        <option>To face a difficult situation with courage</option>
+        <option>To accept defeat</option>
+        <option>To start a war</option>
+        <answer>To face a difficult situation with courage</answer>
+        <explanation>To force yourself to do something unpleasant or difficult, or to be brave in a difficult situation.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 2: HARD DIFFICULTY (Less Common/Confusing) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To cast pearls before swine"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To waste money on food</option>
+        <option>To offer something valuable to someone who cannot appreciate it</option>
+        <option>To be very generous to the poor</option>
+        <option>To show off one's wealth</option>
+        <answer>To offer something valuable to someone who cannot appreciate it</answer>
+        <explanation>Giving something valuable to someone who does not understand its value.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A damp squib"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A wet firecracker</option>
+        <option>A disappointing result</option>
+        <option>A great success</option>
+        <option>A dangerous situation</option>
+        <answer>A disappointing result</answer>
+        <explanation>An event that is not as exciting or successful as expected.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To curry favour"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To cook a good meal</option>
+        <option>To seek approval through flattery</option>
+        <option>To ask for a loan</option>
+        <option>To be impartial</option>
+        <answer>To seek approval through flattery</answer>
+        <explanation>Ingratiating oneself with someone through obsequious behavior.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To rule the roost"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To be the most powerful person in a group</option>
+        <option>To be a strict vegetarian</option>
+        <option>To ruin a plan</option>
+        <option>To live in a village</option>
+        <answer>To be the most powerful person in a group</answer>
+        <explanation>To be in charge or to be the dominant person in a group.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To show the white feather"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To show signs of cowardice</option>
+        <option>To act arrogant</option>
+        <option>To surrender peacefully</option>
+        <option>To challenge someone</option>
+        <answer>To show signs of cowardice</answer>
+        <explanation>In cockfighting, a white feather in a gamecock's tail was considered a sign of poor breeding and cowardice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A mare's nest"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A complicated situation</option>
+        <option>A false discovery or illusion</option>
+        <option>A comfortable place</option>
+        <option>A secret hideout</option>
+        <answer>A false discovery or illusion</answer>
+        <explanation>A mare's nest is a discovery that turns out to be illusory or worthless.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To flog a dead horse"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To revive interest in an old subject</option>
+        <option>To waste effort on something that has no chance of succeeding</option>
+        <option>To be cruel to animals</option>
+        <option>To work very hard</option>
+        <answer>To waste effort on something that has no chance of succeeding</answer>
+        <explanation>Trying to interest someone in an idea or plan that has already failed or been decided against.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To cut the Gordian knot"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To solve a difficult problem by direct action</option>
+        <option>To perform a magic trick</option>
+        <option>To create a difficult problem</option>
+        <option>To get married</option>
+        <answer>To solve a difficult problem by direct action</answer>
+        <explanation>To resolve a difficult problem in a quick and decisive manner.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To steal someone's thunder"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To make a loud noise</option>
+        <option>To take credit for someone else's idea</option>
+        <option>To prove someone wrong</option>
+        <option>To be very angry</option>
+        <answer>To take credit for someone else's idea</answer>
+        <explanation>To use someone else's ideas or inventions to your own advantage, or to prevent them from getting attention.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A red letter day"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A dangerous day</option>
+        <option>A very important or memorable day</option>
+        <option>A bloody day</option>
+        <option>A very hot day</option>
+        <answer>A very important or memorable day</answer>
+        <explanation>A day that is pleasantly noteworthy or memorable.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To be at daggers drawn"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To be ready to fight</option>
+        <option>To be very friendly</option>
+        <option>To play a game</option>
+        <option>To be confused</option>
+        <answer>To be ready to fight</answer>
+        <explanation>To be bitterly hostile towards each other.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"French leave"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Leave with permission</option>
+        <option>Leave without permission</option>
+        <option>A long holiday</option>
+        <option>Resignation from job</option>
+        <answer>Leave without permission</answer>
+        <explanation>Absence from work or duty without permission.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Apple of discord"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A tasty fruit</option>
+        <option>Cause of quarrel</option>
+        <option>A precious object</option>
+        <option>A good opportunity</option>
+        <answer>Cause of quarrel</answer>
+        <explanation>Something that causes trouble or unhappiness.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To talk through one's hat"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To talk wisely</option>
+        <option>To talk nonsense</option>
+        <option>To talk secretly</option>
+        <option>To talk loudly</option>
+        <answer>To talk nonsense</answer>
+        <explanation>To speak foolishly or without knowing the facts.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To keep the wolf from the door"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To keep wild animals away</option>
+        <option>To avoid starvation</option>
+        <option>To maintain safety</option>
+        <option>To be very rich</option>
+        <answer>To avoid starvation</answer>
+        <explanation>To have enough money to be able to eat and live.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To turn the corner"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To drive a car</option>
+        <option>To pass a critical point in an illness or difficulty</option>
+        <option>To hide from someone</option>
+        <option>To change one's opinion</option>
+        <answer>To pass a critical point in an illness or difficulty</answer>
+        <explanation>To start to improve after a difficult period.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"A bolt from the blue"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A sudden and unexpected event</option>
+        <option>A thunderstorm</option>
+        <option>A pleasant surprise</option>
+        <option>A blue colored bolt</option>
+        <answer>A sudden and unexpected event</answer>
+        <explanation>A sudden, shocking, and unexpected event or news.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To eat humble pie"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To eat a cheap meal</option>
+        <option>To apologize humbly</option>
+        <option>To be humiliated by others</option>
+        <option>To live in poverty</option>
+        <answer>To apologize humbly</answer>
+        <explanation>To admit that one was wrong or accept that one has been defeated.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To pay lip service"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To pay money for a service</option>
+        <option>To express agreement without taking action</option>
+        <option>To talk too much</option>
+        <option>To serve food</option>
+        <answer>To express agreement without taking action</answer>
+        <explanation>To say that you agree with something but do nothing to support it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Gift of the gab"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>An expensive gift</option>
+        <option>Talent for speaking</option>
+        <option>A hidden talent</option>
+        <option>Winning a lottery</option>
+        <answer>Talent for speaking</answer>
+        <explanation>The ability to speak with eloquence and fluency.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To be on tenterhooks"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To be happy</option>
+        <option>To be in a state of suspense and anxiety</option>
+        <option>To be angry</option>
+        <option>To be injured</option>
+        <answer>To be in a state of suspense and anxiety</answer>
+        <explanation>Waiting nervously for something to happen.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Between Scylla and Charybdis"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Between two rivers</option>
+        <option>Between two equal dangers</option>
+        <option>A comfortable position</option>
+        <option>Between two friends</option>
+        <answer>Between two equal dangers</answer>
+        <explanation>Facing two equally unpleasant alternatives (similar to "between a rock and a hard place").</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To go to the dogs"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To play with pets</option>
+        <option>To become ruined</option>
+        <option>To become successful</option>
+        <option>To join the police</option>
+        <answer>To become ruined</answer>
+        <explanation>To deteriorate or go to ruin.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To throw in the towel"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To wash clothes</option>
+        <option>To give up</option>
+        <option>To clean the floor</option>
+        <option>To start a fight</option>
+        <answer>To give up</answer>
+        <explanation>To admit defeat and stop trying.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Blue blood"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>Poisoned blood</option>
+        <option>Noble or aristocratic descent</option>
+        <option>Very cold blood</option>
+        <option>Working class</option>
+        <answer>Noble or aristocratic descent</answer>
+        <explanation>Refers to someone belonging to a noble or socially prominent family.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To mince matters"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To speak clearly</option>
+        <option>To speak vaguely or politely to avoid offence</option>
+        <option>To cut meat</option>
+        <option>To solve a problem</option>
+        <answer>To speak vaguely or politely to avoid offence</answer>
+        <explanation>To use polite or moderate expressions to indicate disapproval.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"Sword of Damocles"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>A brave warrior</option>
+        <option>A constant threat</option>
+        <option>A sharp weapon</option>
+        <option>A royal decree</option>
+        <answer>A constant threat</answer>
+        <explanation>An impending danger or threat that is always present.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To smell a rat"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To see a pest</option>
+        <option>To suspect something is wrong</option>
+        <option>To be sick</option>
+        <option>To misunderstand</option>
+        <answer>To suspect something is wrong</answer>
+        <explanation>To begin to suspect that something is wrong or that someone is trying to deceive you.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To hit the hay"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To feed animals</option>
+        <option>To go to sleep</option>
+        <option>To work in a farm</option>
+        <option>To get angry</option>
+        <answer>To go to sleep</answer>
+        <explanation>A slang term meaning to go to bed.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Select the meaning of the idiom: **"To take with a grain of salt"**</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To eat food</option>
+        <option>To not believe something completely</option>
+        <option>To accept happily</option>
+        <option>To reject completely</option>
+        <answer>To not believe something completely</answer>
+        <explanation>To view something with skepticism or not to interpret it literally.</explanation>
+    </question>
+
+
+
+
+
+
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 1: MEDIUM (Fixed Prepositions & Common Confusions) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is addicted __________ gambling.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>with</option>
+        <option>of</option>
+        <option>to</option>
+        <option>for</option>
+        <answer>to</answer>
+        <explanation>'Addicted' is always followed by the preposition 'to'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The climate of Jammu does not agree __________ me.</text>
+        <topic>Prepositions</topic>
+        <option>to</option>
+        <option>with</option>
+        <option>for</option>
+        <option>on</option>
+        <answer>with</answer>
+        <explanation>We say something 'agrees with' a person (health/suitability).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He died __________ cancer.</text>
+        <topic>Prepositions (Cause)</topic>
+        <option>by</option>
+        <option>from</option>
+        <option>of</option>
+        <option>with</option>
+        <answer>of</answer>
+        <explanation>We use 'died of' for diseases. We use 'died from' for external causes (like wounds/overeating).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>She prevented me __________ entering the house.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>to</option>
+        <option>from</option>
+        <option>of</option>
+        <option>against</option>
+        <answer>from</answer>
+        <explanation>The verb 'prevent' is followed by 'from' + gerund (ing form).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The property was divided __________ the four brothers.</text>
+        <topic>Prepositions (Distribution)</topic>
+        <option>between</option>
+        <option>among</option>
+        <option>amongst</option>
+        <option>with</option>
+        <answer>among</answer>
+        <explanation>'Between' is generally used for two people; 'among' is used for more than two.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is married __________ my cousin.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>with</option>
+        <option>to</option>
+        <option>by</option>
+        <option>of</option>
+        <answer>to</answer>
+        <explanation>The correct usage is 'married to', not 'married with'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I prefer tea __________ coffee.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>than</option>
+        <option>over</option>
+        <option>to</option>
+        <option>from</option>
+        <answer>to</answer>
+        <explanation>'Prefer' is followed by 'to' when comparing two nouns.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is good __________ Mathematics.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>in</option>
+        <option>at</option>
+        <option>on</option>
+        <option>with</option>
+        <answer>at</answer>
+        <explanation>We use 'good at' to indicate proficiency in a subject or skill.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Please attend __________ what I say.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>at</option>
+        <option>to</option>
+        <option>on</option>
+        <option>with</option>
+        <answer>to</answer>
+        <explanation>'Attend to' means to pay attention or deal with something.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He deals __________ rice and sugar.</text>
+        <topic>Prepositions (Phrasal)</topic>
+        <option>with</option>
+        <option>in</option>
+        <option>at</option>
+        <option>by</option>
+        <answer>in</answer>
+        <explanation>'Deal in' means to trade (buy/sell). 'Deal with' means to handle a person or problem.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>She is suffering __________ fever.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>with</option>
+        <option>from</option>
+        <option>of</option>
+        <option>by</option>
+        <answer>from</answer>
+        <explanation>'Suffering from' is the correct idiomatic usage for illnesses.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is senior __________ me by two years.</text>
+        <topic>Comparatives</topic>
+        <option>than</option>
+        <option>to</option>
+        <option>of</option>
+        <option>from</option>
+        <answer>to</answer>
+        <explanation>Adjectives ending in '-ior' (senior, junior, superior) take 'to'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The dog ran __________ the road.</text>
+        <topic>Prepositions of Movement</topic>
+        <option>along</option>
+        <option>across</option>
+        <option>through</option>
+        <option>over</option>
+        <answer>across</answer>
+        <explanation>'Across' implies movement from one side to the other.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I am satisfied __________ your work.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>by</option>
+        <option>at</option>
+        <option>with</option>
+        <option>of</option>
+        <answer>with</answer>
+        <explanation>'Satisfied' takes the preposition 'with'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Don't look down __________ the poor.</text>
+        <topic>Phrasal Prepositions</topic>
+        <option>at</option>
+        <option>on</option>
+        <option>upon</option>
+        <option>to</option>
+        <answer>upon</answer>
+        <explanation>'Look down upon' means to regard with contempt or think oneself superior to.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He jumped __________ the river.</text>
+        <topic>Prepositions of Movement</topic>
+        <option>in</option>
+        <option>into</option>
+        <option>on</option>
+        <option>to</option>
+        <answer>into</answer>
+        <explanation>'Into' denotes motion towards the inside of something.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I have been waiting here __________ 2 o'clock.</text>
+        <topic>Time Prepositions</topic>
+        <option>for</option>
+        <option>from</option>
+        <option>since</option>
+        <option>by</option>
+        <answer>since</answer>
+        <explanation>'Since' is used for a specific point of time. 'For' is used for a duration.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is worthy __________ our praise.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>for</option>
+        <option>of</option>
+        <option>to</option>
+        <option>at</option>
+        <answer>of</answer>
+        <explanation>'Worthy' is followed by 'of'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>She is jealous __________ my success.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>with</option>
+        <option>of</option>
+        <option>for</option>
+        <option>at</option>
+        <answer>of</answer>
+        <explanation>'Jealous' takes the preposition 'of'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Translate this passage from English __________ Hindi.</text>
+        <topic>Change of State</topic>
+        <option>to</option>
+        <option>in</option>
+        <option>into</option>
+        <option>onto</option>
+        <answer>into</answer>
+        <explanation>'Into' denotes a change of form or medium.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 2: HARD (Contextual Nuances & Complex Usage) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is blind __________ one eye.</text>
+        <topic>Tricky Prepositions</topic>
+        <option>of</option>
+        <option>in</option>
+        <option>to</option>
+        <option>with</option>
+        <answer>in</answer>
+        <explanation>We use 'blind in' when referring to the physical eye. (Note: Some older texts use 'of', but 'in' is standard modern usage).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He is blind __________ his son's faults.</text>
+        <topic>Tricky Prepositions</topic>
+        <option>of</option>
+        <option>in</option>
+        <option>to</option>
+        <option>with</option>
+        <answer>to</answer>
+        <explanation>'Blind to' means unable or unwilling to perceive or understand something (metaphorical).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I am angry __________ his rude behavior.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>with</option>
+        <option>on</option>
+        <option>at</option>
+        <option>against</option>
+        <answer>at</answer>
+        <explanation>We are angry *with* a person, but angry *at* a thing/action/behavior.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>We should not encroach __________ the rights of others.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>in</option>
+        <option>on</option>
+        <option>at</option>
+        <option>with</option>
+        <answer>on</answer>
+        <explanation>'Encroach' is followed by 'on' or 'upon'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He dispensed __________ the services of his driver.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>of</option>
+        <option>with</option>
+        <option>off</option>
+        <option>from</option>
+        <answer>with</answer>
+        <explanation>'Dispense with' means to manage without or get rid of.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I differ __________ you on this point.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>from</option>
+        <option>with</option>
+        <option>of</option>
+        <option>against</option>
+        <answer>with</answer>
+        <explanation>We differ *with* a person (disagree), but one thing differs *from* another (is unlike).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He wrote the letter __________ ink.</text>
+        <topic>Instrumental Prepositions</topic>
+        <option>with</option>
+        <option>in</option>
+        <option>by</option>
+        <option>from</option>
+        <answer>in</answer>
+        <explanation>We write *with* a pen (instrument), but we write *in* ink (medium/liquid).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>She was sitting __________ the shade of the tree.</text>
+        <topic>Tricky Prepositions</topic>
+        <option>under</option>
+        <option>in</option>
+        <option>below</option>
+        <option>beneath</option>
+        <answer>in</answer>
+        <explanation>You sit *under* a tree, but you sit *in* the shade (shade is an area/condition, not a physical roof).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The decision rests entirely __________ you.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>on</option>
+        <option>with</option>
+        <option>for</option>
+        <option>to</option>
+        <answer>with</answer>
+        <explanation>'Rest with' means to lie in the power or responsibility of someone.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He died __________ loss of blood.</text>
+        <topic>Prepositions (Cause)</topic>
+        <option>of</option>
+        <option>from</option>
+        <option>by</option>
+        <option>with</option>
+        <answer>from</answer>
+        <explanation>Died *of* disease; Died *from* external causes/effects (like loss of blood, wounds, overeating).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He parted __________ his luggage at the station.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>from</option>
+        <option>with</option>
+        <option>off</option>
+        <option>away</option>
+        <answer>with</answer>
+        <explanation>Part *from* a person; Part *with* a thing/possession.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I must apologize __________ him for my mistake.</text>
+        <topic>Multiple Prepositions</topic>
+        <option>to</option>
+        <option>with</option>
+        <option>at</option>
+        <option>against</option>
+        <answer>to</answer>
+        <explanation>Apologize *to* a person *for* a mistake.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The magistrate acquitted him __________ the charge.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>from</option>
+        <option>of</option>
+        <option>off</option>
+        <option>with</option>
+        <answer>of</answer>
+        <explanation>'Acquit' is followed by 'of'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The robbers set __________ the house.</text>
+        <topic>Phrasal Prepositions</topic>
+        <option>on</option>
+        <option>upon</option>
+        <option>in</option>
+        <option>at</option>
+        <answer>upon</answer>
+        <explanation>'Set upon' means to attack violently.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He jumped __________ the conclusion that I was guilty.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>at</option>
+        <option>to</option>
+        <option>on</option>
+        <option>into</option>
+        <answer>to</answer>
+        <explanation>The idiom is 'jump to a conclusion'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The train is running __________ time.</text>
+        <topic>Tricky Prepositions</topic>
+        <option>on</option>
+        <option>in</option>
+        <option>behind</option>
+        <option>before</option>
+        <answer>behind</answer>
+        <explanation>'Behind time' means late. 'On time' implies punctuality, but usually, sentences framing 'running' imply a deviation unless specified 'on'. However, 'running behind time' is the standard phrase for lateness.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He has no taste __________ music.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>of</option>
+        <option>in</option>
+        <option>for</option>
+        <option>at</option>
+        <answer>for</answer>
+        <explanation>We have a 'taste for' (liking/appreciation) something.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>You must compensate the loss __________ him.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>for</option>
+        <option>to</option>
+        <option>with</option>
+        <option>at</option>
+        <answer>to</answer>
+        <explanation>Compensate someone *for* a loss, or compensate a loss *to* someone. (Structure implies paying him).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Do not confide your secrets __________ strangers.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>in</option>
+        <option>to</option>
+        <option>with</option>
+        <option>on</option>
+        <answer>to</answer>
+        <explanation>Confide *in* a person (trust them), but confide a secret *to* a person (tell them).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He agreed __________ my proposal.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>with</option>
+        <option>to</option>
+        <option>on</option>
+        <option>for</option>
+        <answer>to</answer>
+        <explanation>Agree *with* a person; Agree *to* a proposal/plan; Agree *on* a point.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The ship is bound __________ India.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>to</option>
+        <option>towards</option>
+        <option>for</option>
+        <option>at</option>
+        <answer>for</answer>
+        <explanation>'Bound for' means destined for a place.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Beside being fined, he was sentenced __________ a term of imprisonment.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>with</option>
+        <option>to</option>
+        <option>for</option>
+        <option>by</option>
+        <answer>to</answer>
+        <explanation>Sentenced *to* (punishment/prison).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>I cannot put __________ with this insult.</text>
+        <topic>Phrasal Verbs</topic>
+        <option>up</option>
+        <option>out</option>
+        <option>on</option>
+        <option>off</option>
+        <answer>up</answer>
+        <explanation>'Put up with' means to endure or tolerate.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He deals __________ rare diamonds.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>with</option>
+        <option>in</option>
+        <option>at</option>
+        <option>on</option>
+        <answer>in</answer>
+        <explanation>'Deal in' refers to business/trading.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>This custom is prevalent __________ the tribes.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>in</option>
+        <option>among</option>
+        <option>with</option>
+        <option>between</option>
+        <answer>among</answer>
+        <explanation>Used when referring to a group.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He was charged __________ murder.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>of</option>
+        <option>for</option>
+        <option>with</option>
+        <option>by</option>
+        <answer>with</answer>
+        <explanation>Charged *with* a crime (but Accused *of* a crime).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He resembles __________ his father.</text>
+        <topic>No Preposition</topic>
+        <option>to</option>
+        <option>with</option>
+        <option>by</option>
+        <option>no preposition</option>
+        <answer>no preposition</answer>
+        <explanation>'Resemble' is a transitive verb and does not take a preposition.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Please send __________ a doctor.</text>
+        <topic>Phrasal Verbs</topic>
+        <option>for</option>
+        <option>to</option>
+        <option>after</option>
+        <option>on</option>
+        <answer>for</answer>
+        <explanation>'Send for' means to summon or call someone to come.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>He corresponds __________ his parents regularly.</text>
+        <topic>Contextual Prepositions</topic>
+        <option>to</option>
+        <option>with</option>
+        <option>by</option>
+        <option>for</option>
+        <answer>with</answer>
+        <explanation>Correspond *with* a person (write to them); Correspond *to* something (match/agree).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>The responsibility devolved __________ the Vice President.</text>
+        <topic>Fixed Prepositions</topic>
+        <option>on</option>
+        <option>to</option>
+        <option>at</option>
+        <option>with</option>
+        <answer>on</answer>
+        <explanation>'Devolve on/upon' means to pass (power/duty) to a deputy or successor.</explanation>
+    </question>
+
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 1: MEDIUM (Interrogatives, Perfect Tenses, Modals) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Who taught you grammar?"</text>
+        <topic>Active to Passive (Interrogative)</topic>
+        <option>By whom you were taught grammar?</option>
+        <option>By whom were you taught grammar?</option>
+        <option>By whom was you taught grammar?</option>
+        <option>By whom grammar was taught to you?</option>
+        <answer>By whom were you taught grammar?</answer>
+        <explanation>In interrogative sentences starting with 'Who', we use 'By whom'. The auxiliary verb (were) must come before the subject (you).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "They are building a house next door."</text>
+        <topic>Active to Passive (Continuous)</topic>
+        <option>A house is built next door.</option>
+        <option>A house is being built next door.</option>
+        <option>A house was being built next door.</option>
+        <option>Next door a house is building.</option>
+        <answer>A house is being built next door.</answer>
+        <explanation>Present Continuous (is/am/are + ing) changes to 'is/am/are + being + V3'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Has anyone seen my keys?"</text>
+        <topic>Active to Passive (Perfect)</topic>
+        <option>Have my keys been seen by anyone?</option>
+        <option>Has my keys been seen by anyone?</option>
+        <option>Had my keys been seen by anyone?</option>
+        <option>Have my keys seen by anyone?</option>
+        <answer>Have my keys been seen by anyone?</answer>
+        <explanation>'Keys' is plural, so we use 'Have'. Structure: Have + Subject + been + V3.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "You must keep your promises."</text>
+        <topic>Active to Passive (Modals)</topic>
+        <option>Your promises must kept.</option>
+        <option>Your promises must be kept.</option>
+        <option>Your promises were to be kept.</option>
+        <option>Your promises had to be kept.</option>
+        <answer>Your promises must be kept.</answer>
+        <explanation>Modal verbs (must, should, can) take 'be' + V3 in passive voice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "The doctor advised him to rest."</text>
+        <topic>Active to Passive (Infinitive)</topic>
+        <option>He was advised to rest by the doctor.</option>
+        <option>He advised to rest by the doctor.</option>
+        <option>To rest was advised by the doctor.</option>
+        <option>He has been advised to rest.</option>
+        <answer>He was advised to rest by the doctor.</answer>
+        <explanation>Past Indefinite changes to 'was/were + V3'. The object 'him' becomes the subject 'He'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Did he buy a new car?"</text>
+        <topic>Active to Passive (Interrogative)</topic>
+        <option>Is a new car bought by him?</option>
+        <option>Was a new car bought by him?</option>
+        <option>Had a new car been bought by him?</option>
+        <option>Did a new car bought by him?</option>
+        <answer>Was a new car bought by him?</answer>
+        <explanation>Past Indefinite Interrogative 'Did' changes to 'Was/Were' placed before the subject.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Someone has picked my pocket."</text>
+        <topic>Active to Passive (Indefinite Agent)</topic>
+        <option>My pocket had been picked.</option>
+        <option>My pocket has been picked.</option>
+        <option>My pocket has been picked by someone.</option>
+        <option>My pocket was picked.</option>
+        <answer>My pocket has been picked.</answer>
+        <explanation>When the agent is indefinite (someone), we usually omit 'by someone' in the passive voice. Tense: Present Perfect.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "They offered him a job."</text>
+        <topic>Active to Passive (Double Object)</topic>
+        <option>He offered a job.</option>
+        <option>A job offered to him.</option>
+        <option>He was offered a job.</option>
+        <option>A job was being offered to him.</option>
+        <answer>He was offered a job.</answer>
+        <explanation>This sentence has two objects. The indirect object (him) usually becomes the subject (He) in the passive voice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "We expect good news."</text>
+        <topic>Active to Passive</topic>
+        <option>Good news is expected.</option>
+        <option>Good news was expected.</option>
+        <option>Good news has been expected.</option>
+        <option>Good news is being expected.</option>
+        <answer>Good news is expected.</answer>
+        <explanation>Simple Present changes to 'is/am/are + V3'. 'News' is singular.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Why did you write such a letter?"</text>
+        <topic>Active to Passive (Wh- Question)</topic>
+        <option>Why was such a letter written by you?</option>
+        <option>Why such a letter was written by you?</option>
+        <option>Why did such a letter written by you?</option>
+        <option>Why had such a letter been written by you?</option>
+        <answer>Why was such a letter written by you?</answer>
+        <explanation>Wh- word + Auxiliary (was) + Subject + V3 + by + Agent.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Open the window."</text>
+        <topic>Active to Passive (Imperative)</topic>
+        <option>The window should be open.</option>
+        <option>Let the window be opened.</option>
+        <option>Let the window opened.</option>
+        <option>The window is opened.</option>
+        <answer>Let the window be opened.</answer>
+        <explanation>For imperatives (orders), the structure is 'Let + Object + be + V3'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "She was cooking dinner."</text>
+        <topic>Active to Passive (Past Continuous)</topic>
+        <option>Dinner is being cooked by her.</option>
+        <option>Dinner was cooked by her.</option>
+        <option>Dinner was being cooked by her.</option>
+        <option>Dinner had been cooked by her.</option>
+        <answer>Dinner was being cooked by her.</answer>
+        <explanation>Past Continuous changes to 'was/were + being + V3'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Everyone loves him."</text>
+        <topic>Active to Passive</topic>
+        <option>He is loved by everyone.</option>
+        <option>He was loved by everyone.</option>
+        <option>He has been loved by everyone.</option>
+        <option>He is being loved by everyone.</option>
+        <answer>He is loved by everyone.</answer>
+        <explanation>Simple Present Tense conversion.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Do not insult the weak."</text>
+        <topic>Active to Passive (Imperative Negative)</topic>
+        <option>Let the weak not be insulted.</option>
+        <option>The weak not be insulted.</option>
+        <option>Let not the weak be insulted.</option>
+        <option>Both A and C.</option>
+        <answer>Let the weak not be insulted.</answer>
+        <explanation>Imperative negative: 'Let + Object + not + be + V3'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "He had completed the work."</text>
+        <topic>Active to Passive (Past Perfect)</topic>
+        <option>The work has been completed by him.</option>
+        <option>The work had been completed by him.</option>
+        <option>The work was completed by him.</option>
+        <option>The work had completed by him.</option>
+        <answer>The work had been completed by him.</answer>
+        <explanation>Past Perfect changes to 'had been + V3'.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- LEVEL 2: HARD (Fixed Prepositions, Infinitives, Complex Sentences) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "I know him."</text>
+        <topic>Active to Passive (Fixed Preposition)</topic>
+        <option>He is known by me.</option>
+        <option>He was known to me.</option>
+        <option>He is known to me.</option>
+        <option>He has been known by me.</option>
+        <answer>He is known to me.</answer>
+        <explanation>The verb 'know' takes the preposition 'to', not 'by', in passive voice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "It is time to take tea."</text>
+        <topic>Active to Passive (Infinitive)</topic>
+        <option>It is time for tea to be taken.</option>
+        <option>It is time that tea should be taken.</option>
+        <option>Tea is time to be taken.</option>
+        <option>It is time for tea to be took.</option>
+        <answer>It is time for tea to be taken.</answer>
+        <explanation>Structure: 'It is time + for + Object + to be + V3'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Her behavior annoyed me."</text>
+        <topic>Active to Passive (Fixed Preposition)</topic>
+        <option>I was annoyed by her behavior.</option>
+        <option>I was annoyed with her behavior.</option>
+        <option>I was annoyed at her behavior.</option>
+        <option>I am annoyed at her behavior.</option>
+        <answer>I was annoyed at her behavior.</answer>
+        <explanation>'Annoyed' takes 'at' for behavior/things and 'with' for persons.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "One should keep one's promises."</text>
+        <topic>Active to Passive (General)</topic>
+        <option>Promises should be kept by one.</option>
+        <option>One's promises should be kept.</option>
+        <option>Promises should be kept.</option>
+        <option>Promises must be kept.</option>
+        <answer>Promises should be kept.</answer>
+        <explanation>When the subject is vague (One), it is usually omitted in the passive voice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "The judge inquired into the case."</text>
+        <topic>Active to Passive (Prepositional Verb)</topic>
+        <option>The case was inquired into by the judge.</option>
+        <option>The case was inquired by the judge.</option>
+        <option>The case inquired into by the judge.</option>
+        <option>The case was being inquired into by the judge.</option>
+        <answer>The case was inquired into by the judge.</answer>
+        <explanation>When a verb + preposition (inquired into) is used, the preposition must be retained in the passive voice.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "They say that honesty is the best policy."</text>
+        <topic>Active to Passive (Complex Sentence)</topic>
+        <option>It is said that honesty is the best policy.</option>
+        <option>Honesty is said to be the best policy.</option>
+        <option>That honesty is the best policy is said by them.</option>
+        <option>Both A and B.</option>
+        <answer>Both A and B.</answer>
+        <explanation>Both structures ('It is said that...' and 'Honesty is said to be...') are correct for this type of complex sentence.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "I want him to do this work."</text>
+        <topic>Active to Passive (Infinitive)</topic>
+        <option>I want this work to be done by him.</option>
+        <option>I want that this work be done by him.</option>
+        <option>This work is wanted to be done by him.</option>
+        <option>He is wanted to do this work.</option>
+        <answer>I want this work to be done by him.</answer>
+        <explanation>Structure: Subject + want + Object + to be + V3 + by + Agent.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "This pot contains milk."</text>
+        <topic>Active to Passive (Stative Verb)</topic>
+        <option>Milk is contained by this pot.</option>
+        <option>Milk is contained in this pot.</option>
+        <option>Milk was contained in this pot.</option>
+        <option>Milk is contained with this pot.</option>
+        <answer>Milk is contained in this pot.</answer>
+        <explanation>'Contained' takes the preposition 'in', not 'by'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Please help the poor."</text>
+        <topic>Active to Passive (Request)</topic>
+        <option>The poor should be helped.</option>
+        <option>You are requested to help the poor.</option>
+        <option>Let the poor be helped.</option>
+        <option>The poor must be helped.</option>
+        <answer>You are requested to help the poor.</answer>
+        <explanation>For sentences starting with 'Please', we use 'You are requested to...'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Who broke the glass?"</text>
+        <topic>Active to Passive (Interrogative)</topic>
+        <option>By whom the glass was broken?</option>
+        <option>Who was the glass broken by?</option>
+        <option>By whom was the glass broken?</option>
+        <option>Both B and C.</option>
+        <answer>Both B and C.</answer>
+        <explanation>Both 'By whom was...' and 'Who was... by' are correct standard forms.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "There is no money to buy."</text>
+        <topic>Active to Passive (Infinitive)</topic>
+        <option>There is no money to be bought.</option>
+        <option>There is no money for buying.</option>
+        <option>Money is not there to be bought.</option>
+        <option>There is no money to be bought with.</option>
+        <answer>There is no money to be bought.</answer>
+        <explanation>'To buy' changes to 'to be bought'. (Though usually, context implies buying *something* with money, strictly grammatical conversion changes the infinitive).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Let him play the match."</text>
+        <topic>Active to Passive (Let)</topic>
+        <option>Let the match be played by him.</option>
+        <option>The match should be played by him.</option>
+        <option>Let the match played by him.</option>
+        <option>He should be allowed to play the match.</option>
+        <answer>Let the match be played by him.</answer>
+        <explanation>Sentences starting with 'Let' follow 'Let + Object + be + V3 + by + Agent'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "The smell of these flowers is sweet."</text>
+        <topic>Active to Passive (Adjective)</topic>
+        <option>These flowers are sweet when smelt.</option>
+        <option>These flowers are sweet when they are smelt.</option>
+        <option>Sweet are the flowers when smelt.</option>
+        <option>Both A and B.</option>
+        <answer>Both A and B.</answer>
+        <explanation>This is a quasi-passive voice. Structure: Subject + Verb + Adjective + when + V3.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Prepare for the worst."</text>
+        <topic>Active to Passive (Imperative)</topic>
+        <option>Let the worst be prepared for.</option>
+        <option>Be prepared for the worst.</option>
+        <option>The worst should be prepared for.</option>
+        <option>You are ordered to prepare for the worst.</option>
+        <answer>Be prepared for the worst.</answer>
+        <explanation>This is an idiomatic imperative. 'Be prepared' is the passive form.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "He disappointed me."</text>
+        <topic>Active to Passive (Fixed Preposition)</topic>
+        <option>I was disappointed by him.</option>
+        <option>I was disappointed with him.</option>
+        <option>I was disappointed at him.</option>
+        <option>I had been disappointed by him.</option>
+        <answer>I was disappointed with him.</answer>
+        <explanation>'Disappointed' takes 'with' for persons and 'at/about' for things/results.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Women like men to flatter them."</text>
+        <topic>Active to Passive (Complex Infinitive)</topic>
+        <option>Women like to be flattered by men.</option>
+        <option>Men are liked by women to flatter them.</option>
+        <option>Women like men to be flattered.</option>
+        <option>Women are liked to be flattered by men.</option>
+        <answer>Women like to be flattered by men.</answer>
+        <explanation>The infinitive 'to flatter' applies to the subject. Conversion: 'Women like to be flattered'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Someone saw him picking up a gun."</text>
+        <topic>Active to Passive (Participle)</topic>
+        <option>He was seen picking up a gun.</option>
+        <option>He was seen to pick up a gun.</option>
+        <option>He was saw picking up a gun.</option>
+        <option>Picking up a gun he was seen.</option>
+        <answer>He was seen picking up a gun.</answer>
+        <explanation>The participle 'picking' remains unchanged. 'Saw' becomes 'was seen'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Let us help him."</text>
+        <topic>Active to Passive (Let/Suggestion)</topic>
+        <option>Let he be helped.</option>
+        <option>Let him be helped by us.</option>
+        <option>He should be helped.</option>
+        <option>It is suggested that we help him.</option>
+        <answer>Let him be helped by us.</answer>
+        <explanation>'Let' sentences retain 'Let' in passive if possible. Object (him) stays in objective case.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Have the box broken."</text>
+        <topic>Passive to Active (Causative)</topic>
+        <option>Break the box.</option>
+        <option>Get someone to break the box.</option>
+        <option>Someone broke the box.</option>
+        <option>Have someone break the box.</option>
+        <answer>Get someone to break the box.</answer>
+        <explanation>This is a causative passive. The active form implies causing someone else to do the action.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Circumstances will oblige me to go."</text>
+        <topic>Active to Passive</topic>
+        <option>I will be obliged to go.</option>
+        <option>I shall be obliged to go.</option>
+        <option>I shall be obliged to go by circumstances.</option>
+        <option>Circumstances will be obliged by me.</option>
+        <answer>I shall be obliged to go.</answer>
+        <explanation>'Obliged' often drops the agent 'by circumstances' as it is implied. 'I' takes 'shall' (traditional grammar) or 'will'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "They elected him Chairman."</text>
+        <topic>Active to Passive (Complement)</topic>
+        <option>He was elected Chairman.</option>
+        <option>Chairman was elected to him.</option>
+        <option>He was elected Chairman by them.</option>
+        <option>Chairman was elected him.</option>
+        <answer>He was elected Chairman.</answer>
+        <explanation>'Chairman' is a complement, not the object. 'Him' is the object that becomes the subject 'He'. 'By them' is optional/unnecessary.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "I remember my sister taking me to the museum."</text>
+        <topic>Active to Passive (Gerund)</topic>
+        <option>I remember being taken to the museum by my sister.</option>
+        <option>I remember taken to the museum by my sister.</option>
+        <option>I remember myself being taken to the museum.</option>
+        <option>Being taken to the museum is remembered by me.</option>
+        <answer>I remember being taken to the museum by my sister.</answer>
+        <explanation>The gerund 'taking' changes to 'being taken'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Quinine tastes bitter."</text>
+        <topic>Active to Passive (Quasi-Passive)</topic>
+        <option>Quinine is bitter when it is tasted.</option>
+        <option>Quinine is tasted bitter.</option>
+        <option>The taste of quinine is bitter.</option>
+        <option>Quinine is bitter.</option>
+        <answer>Quinine is bitter when it is tasted.</answer>
+        <explanation>Quasi-passive structure: Subject + Verb + Adjective + when + V3.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Let the order be given."</text>
+        <topic>Passive to Active (Imperative)</topic>
+        <option>Give the order.</option>
+        <option>Order given.</option>
+        <option>Some one give the order.</option>
+        <option>Let give the order.</option>
+        <answer>Give the order.</answer>
+        <explanation>Reverse of imperative passive. 'Let + Object + be + V3' -> 'V1 + Object'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Whom are you laughing at?"</text>
+        <topic>Active to Passive (Wh- + Preposition)</topic>
+        <option>Who is being laughed at by you?</option>
+        <option>Who is laughed at by you?</option>
+        <option>Whom is being laughed at by you?</option>
+        <option>At whom are you laughing?</option>
+        <answer>Who is being laughed at by you?</answer>
+        <explanation>'Whom' changes to 'Who' in passive subject position. Continuous tense: 'is being'. Preposition 'at' stays.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "He was designated as the captain."</text>
+        <topic>Passive to Active</topic>
+        <option>They designated him as the captain.</option>
+        <option>He designated the captain.</option>
+        <option>People designated him captain.</option>
+        <option>They designated him captain.</option>
+        <answer>They designated him as the captain.</answer>
+        <explanation>Supply the vague subject 'They'. 'Was designated' (Past Passive) -> 'Designated' (Past Active).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "It is impossible to do this."</text>
+        <topic>Active to Passive</topic>
+        <option>This is impossible to be done.</option>
+        <option>To do this is impossible.</option>
+        <option>It is impossible for this to be done.</option>
+        <option>Doing this is impossible.</option>
+        <answer>This is impossible to be done.</answer>
+        <explanation>Generally, 'It is + adj + to + V1 + Obj' -> 'Obj + is + adj + to be + V3'. Or 'It is impossible for this to be done'. 'This is impossible to be done' is the most direct conversion often found in exams.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Do you understand what I mean?"</text>
+        <topic>Active to Passive (Clause)</topic>
+        <option>Is what I mean understood by you?</option>
+        <option>Was what I mean understood by you?</option>
+        <option>Is what I meant understood by you?</option>
+        <option>What I mean is understood by you?</option>
+        <answer>Is what I mean understood by you?</answer>
+        <explanation>The object is the clause 'what I mean'. Present Indefinite 'Do' -> 'Is'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Nobody has answered my question."</text>
+        <topic>Active to Passive (Negative)</topic>
+        <option>My question has been answered by nobody.</option>
+        <option>My question has not been answered.</option>
+        <option>My question was not answered.</option>
+        <option>My question had not been answered.</option>
+        <answer>My question has not been answered.</answer>
+        <explanation>When the subject is 'Nobody', the passive becomes negative (has not), and 'by nobody' is omitted.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Look at the poll results."</text>
+        <topic>Active to Passive (Prepositional Imperative)</topic>
+        <option>Let the poll results be looked at.</option>
+        <option>Let the poll results be looked.</option>
+        <option>The poll results should be looked at.</option>
+        <option>Looked at the poll results.</option>
+        <answer>Let the poll results be looked at.</answer>
+        <explanation>Imperative 'Let... be + V3'. Crucial to keep the preposition 'at'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "We must write to him."</text>
+        <topic>Active to Passive (Prepositional Verb)</topic>
+        <option>He must be written to.</option>
+        <option>He must be written.</option>
+        <option>He must be written to by us.</option>
+        <option>To him must be written.</option>
+        <answer>He must be written to.</answer>
+        <explanation>'Write to' is the verb phrase. 'To' must be retained. 'By us' is optional.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "The Romans expected to conquer Carthage."</text>
+        <topic>Active to Passive (Infinitive Object)</topic>
+        <option>It was expected by the Romans that they would conquer Carthage.</option>
+        <option>The Romans expected Carthage to be conquered.</option>
+        <option>Carthage was expected to be conquered by the Romans.</option>
+        <option>To conquer Carthage was expected by the Romans.</option>
+        <answer>The Romans expected Carthage to be conquered.</answer>
+        <explanation>The Romans expected (something). That something is 'Carthage to be conquered'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "One must endure what one cannot cure."</text>
+        <topic>Active to Passive (Proverb)</topic>
+        <option>What cannot be cured must be endured.</option>
+        <option>What cannot cure must be endured.</option>
+        <option>What one cannot cure must be endured.</option>
+        <option>What cannot be cured must be endured by one.</option>
+        <answer>What cannot be cured must be endured.</answer>
+        <explanation>Double passive conversion for both clauses. Agents 'One/by one' are omitted.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "I saw him opening the box."</text>
+        <topic>Active to Passive</topic>
+        <option>He was seen opening the box.</option>
+        <option>He was seen to open the box.</option>
+        <option>He saw the box opening.</option>
+        <option>The box was seen opening by him.</option>
+        <answer>He was seen opening the box.</answer>
+        <explanation>'Opening' is a present participle used as an object complement. It remains 'opening'. (Note: 'I saw him open' would become 'He was seen to open').</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="General English">
+        <text>Change the voice: "Don't touch this switch."</text>
+        <topic>Active to Passive (Negative Imperative)</topic>
+        <option>This switch does not be touched.</option>
+        <option>This switch must not be touched.</option>
+        <option>Let not this switch be touched.</option>
+        <option>Let this switch not be touched.</option>
+        <answer>Let this switch not be touched.</answer>
+        <explanation>Standard negative imperative: 'Let + Object + not + be + V3'. (Also 'This switch must not be touched' is valid as a warning, but 'Let' is the direct grammatical conversion).</explanation>
+    </question>
+
+
+    
 
 </quizzes>
