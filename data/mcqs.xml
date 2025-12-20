@@ -224,7 +224,7 @@
     </question>
 
   <!-- ========================================== -->
-    <!-- SECTION 1: J&K GENERAL KNOWLEDGE (PYQ & Practice) -->
+    <!-- SECTION 1: J&amp;K GENERAL KNOWLEDGE (PYQ & Practice) -->
     <!-- ========================================== -->
 
     <question category="pyq" exam="JKSSB Class IV (MTS)" subject="J&amp;K GK">
@@ -30789,6 +30789,1147 @@ Keyboard, mouse (point-and-draw), scanners, OCR, etc., are all types of **input 
         <answer>Krishna and Kaveri</answer>
         <explanation>The Pennar basin lies between the Krishna basin to the north and the Kaveri basin to the south.</explanation>
     </question>
+
+
+
+
+    <!-- =============================================================== -->
+    <!-- SECTION 1: MECHANISM OF MONSOON & SEASONS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Burst of Monsoon' refers to:</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Gradual onset of rain</option>
+        <option>Sudden onset of heavy rainfall</option>
+        <option>Rainfall during winter</option>
+        <option>Cyclonic rainfall in October</option>
+        <answer>Sudden onset of heavy rainfall</answer>
+        <explanation>The sudden onset of the moisture-laden winds associated with violent thunder and lightning is termed as the 'break' or 'burst' of the monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which jet stream is primarily responsible for the sudden outbreak of the Southwest Monsoon in India?</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Westerly Jet Stream</option>
+        <option>Easterly Jet Stream</option>
+        <option>Polar Jet Stream</option>
+        <option>Subtropical Jet Stream</option>
+        <answer>Easterly Jet Stream</answer>
+        <explanation>The Tropical Easterly Jet Stream steers the tropical depressions into India and is responsible for the burst of the monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Western Disturbances' which cause winter rainfall in North-West India originate from:</text>
+        <topic>Winter Season</topic>
+        <option>Arabian Sea</option>
+        <option>Bay of Bengal</option>
+        <option>Mediterranean Sea</option>
+        <option>Caspian Sea</option>
+        <answer>Mediterranean Sea</answer>
+        <explanation>Western Disturbances originate over the Mediterranean Sea and are brought into India by the Westerly Jet Stream.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>'Mango Showers' are pre-monsoon showers common in which states?</text>
+        <topic>Local Winds/Pre-monsoon</topic>
+        <option>West Bengal and Assam</option>
+        <option>Kerala and Karnataka</option>
+        <option>Gujarat and Maharashtra</option>
+        <option>Punjab and Haryana</option>
+        <answer>Kerala and Karnataka</answer>
+        <explanation>They help in the early ripening of mangoes in Kerala and Karnataka.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The retreating monsoon season (October-November) is characterized by:</text>
+        <topic>Retreating Monsoon</topic>
+        <option>Clear skies and rise in temperature</option>
+        <option>Heavy rainfall in Punjab</option>
+        <option>Cold waves in North India</option>
+        <option>Low humidity</option>
+        <answer>Clear skies and rise in temperature</answer>
+        <explanation>The retreat of the monsoon is marked by clear skies and a rise in temperature, often referred to as 'October Heat'.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which branch of the monsoon gives rainfall to the Garo, Khasi, and Jaintia hills?</text>
+        <topic>Monsoon Branches</topic>
+        <option>Arabian Sea Branch</option>
+        <option>Bay of Bengal Branch</option>
+        <option>Retreating Monsoon</option>
+        <option>North-East Monsoon</option>
+        <answer>Bay of Bengal Branch</answer>
+        <explanation>The Bay of Bengal branch strikes the Meghalaya plateau causing heavy rainfall.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The phenomenon of 'El Nino' is associated with:</text>
+        <topic>Global Climate Phenomena</topic>
+        <option>Cooling of the Pacific Ocean</option>
+        <option>Warming of the Pacific Ocean</option>
+        <option>Cooling of the Indian Ocean</option>
+        <option>Warming of the Atlantic Ocean</option>
+        <answer>Warming of the Pacific Ocean</answer>
+        <explanation>El Nino involves the abnormal warming of surface waters in the eastern tropical Pacific Ocean, often weakening the Indian Monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>'Kal Baisakhi' (Nor'westers) are thunderstorms occurring in:</text>
+        <topic>Local Winds</topic>
+        <option>Punjab</option>
+        <option>West Bengal and Assam</option>
+        <option>Kerala</option>
+        <option>Tamil Nadu</option>
+        <answer>West Bengal and Assam</answer>
+        <explanation>These are evening thunderstorms in Bengal and Assam, useful for tea, jute, and rice cultivation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The bulk of rainfall in the Coromandel Coast (Tamil Nadu) is received from:</text>
+        <topic>Rainfall Distribution</topic>
+        <option>South-West Monsoon</option>
+        <option>North-East Monsoon</option>
+        <option>Western Disturbances</option>
+        <option>Local Thunderstorms</option>
+        <answer>North-East Monsoon</answer>
+        <explanation>Tamil Nadu receives most of its rainfall during the winter season (Oct-Dec) from the retreating/North-East monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'ITCZ' (Inter-Tropical Convergence Zone) shifts northwards during summer. Where does it position itself in July?</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Over the Equator</option>
+        <option>Over the Ganga Plain (20°N-25°N)</option>
+        <option>Over the Deccan Plateau</option>
+        <option>Over the Indian Ocean</option>
+        <answer>Over the Ganga Plain (20°N-25°N)</answer>
+        <explanation>In summer, the ITCZ moves north over the Ganga plain, creating a low-pressure trough that attracts the monsoon winds.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 2: CLIMATIC CLASSIFICATION & REGIONAL FEATURES -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>According to Koppen's classification, 'Amw' climate is found in:</text>
+        <topic>Koppen's Classification</topic>
+        <option>Coromandel Coast</option>
+        <option>Malabar Coast</option>
+        <option>Gujarat</option>
+        <option>Rajasthan</option>
+        <answer>Malabar Coast</answer>
+        <explanation>'Amw' stands for Monsoon type with short dry season, found on the western coast of India (south of Goa).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Most of North-West India falls under which Koppen's climatic type?</text>
+        <topic>Koppen's Classification</topic>
+        <option>Aw</option>
+        <option>BShw</option>
+        <option>Cwg</option>
+        <option>Amw</option>
+        <answer>BShw</answer>
+        <explanation>'BShw' represents Semi-arid Steppe climate, found in parts of Rajasthan, Haryana, and Rain-shadow Deccan.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The term 'Loo' refers to:</text>
+        <topic>Local Winds</topic>
+        <option>Cold wind in winter</option>
+        <option>Hot, dry wind in summer</option>
+        <option>Coastal breeze</option>
+        <option>Mountain breeze</option>
+        <answer>Hot, dry wind in summer</answer>
+        <explanation>Loo is a strong, hot, and dry wind blowing during the day over North and Northwest India in summer.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which region receives the highest rainfall in India?</text>
+        <topic>Rainfall Distribution</topic>
+        <option>Western Ghats</option>
+        <option>Mawsynram (Meghalaya)</option>
+        <option>Andaman &amp; Nicobar</option>
+        <option>Himalayas</option>
+        <answer>Mawsynram (Meghalaya)</answer>
+        <explanation>Mawsynram in the Khasi Hills receives the highest average annual rainfall in the world.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The diurnal range of temperature is highest in:</text>
+        <topic>Temperature Distribution</topic>
+        <option>Coastal areas</option>
+        <option>Thar Desert</option>
+        <option>North-East India</option>
+        <option>Islands</option>
+        <answer>Thar Desert</answer>
+        <explanation>Deserts heat up quickly during the day and cool down rapidly at night due to lack of clouds and moisture.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>'Cherry Blossoms' or 'Coffee Showers' occur in:</text>
+        <topic>Local Winds</topic>
+        <option>Assam</option>
+        <option>Karnataka</option>
+        <option>Himachal Pradesh</option>
+        <option>West Bengal</option>
+        <answer>Karnataka</answer>
+        <explanation>These pre-monsoon showers help in the flowering of coffee plantations in Karnataka and Kerala.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which part of India receives rainfall from both the South-West and North-East monsoons?</text>
+        <topic>Rainfall Distribution</topic>
+        <option>Kerala</option>
+        <option>Tamil Nadu</option>
+        <option>Andaman &amp; Nicobar Islands</option>
+        <option>Odisha</option>
+        <answer>Andaman &amp; Nicobar Islands</answer>
+        <explanation>The islands receive rainfall from both monsoon branches, having a long rainy season.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Break in Monsoon' means:</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Failure of monsoon</option>
+        <option>Dry spell during the rainy season</option>
+        <option>Heavy flooding</option>
+        <option>Arrival of monsoon</option>
+        <answer>Dry spell during the rainy season</answer>
+        <explanation>During the south-west monsoon, if rain fails for one or more weeks, it is known as a 'break' in the monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Why does the Tamil Nadu coast remain dry during the South-West Monsoon?</text>
+        <topic>Climate Mechanism</topic>
+        <option>It lies in the rain shadow area of the Arabian Sea branch</option>
+        <option>It is parallel to the Bay of Bengal branch</option>
+        <option>Both A and B</option>
+        <option>None of the above</option>
+        <answer>Both A and B</answer>
+        <explanation>It is in the rain shadow of the Western Ghats (Arabian branch) and runs parallel to the Bay of Bengal branch.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>In Koppen's classification, 'As' type climate represents:</text>
+        <topic>Koppen's Classification</topic>
+        <option>Tropical Savanna</option>
+        <option>Monsoon with dry summer</option>
+        <option>Monsoon with dry winter</option>
+        <option>Semi-arid</option>
+        <answer>Monsoon with dry summer</answer>
+        <explanation>'As' represents Tropical Moist Climate with a dry summer season, typically found in the Coromandel coast (Tamil Nadu), where winters are wet.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 3: ADVANCED/HARD (Concepts & Anomalies) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Southern Oscillation' refers to the fluctuation in pressure conditions between:</text>
+        <topic>Global Climate</topic>
+        <option>Indian Ocean and Pacific Ocean</option>
+        <option>Atlantic Ocean and Pacific Ocean</option>
+        <option>Arctic and Antarctic</option>
+        <option>Bay of Bengal and Arabian Sea</option>
+        <answer>Indian Ocean and Pacific Ocean</answer>
+        <explanation>Southern Oscillation Index (SOI) measures the pressure difference between Tahiti (Pacific) and Darwin (Indian Ocean).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The intensity of the Indian Monsoon is strengthened by:</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>El Nino</option>
+        <option>La Nina</option>
+        <option>Weak Somali Jet</option>
+        <option>Negative IOD</option>
+        <answer>La Nina</answer>
+        <explanation>La Nina (cooling of the Pacific) generally enhances the Indian Monsoon, whereas El Nino weakens it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>'Mawsinram' receives more rainfall than 'Cherrapunji' because:</text>
+        <topic>Local Geography</topic>
+        <option>It is at a higher altitude</option>
+        <option>It is located in a funnel-shaped valley</option>
+        <option>It is closer to the sea</option>
+        <option>It has dense forests</option>
+        <answer>It is located in a funnel-shaped valley</answer>
+        <explanation>The funnel shape of the hills traps the moisture-laden clouds, forcing them to rise and cause heavy orographic rainfall.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Indian Ocean Dipole' (IOD) refers to:</text>
+        <topic>Climate Concepts</topic>
+        <option>Difference in sea surface temperature between western and eastern Indian Ocean</option>
+        <option>Difference in salinity</option>
+        <option>Difference in tides</option>
+        <option>Movement of cyclones</option>
+        <answer>Difference in sea surface temperature between western and eastern Indian Ocean</answer>
+        <explanation>Positive IOD (warmer west) helps the Indian Monsoon; Negative IOD (warmer east) hinders it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which region of India experiences the 'Tundra' type of climate (ET)?</text>
+        <topic>Koppen's Classification</topic>
+        <option>Ladakh</option>
+        <option>Uttarakhand</option>
+        <option>Higher Himalayas</option>
+        <option>Sikkim</option>
+        <answer>Higher Himalayas</answer>
+        <explanation>ET (Tundra) climate is found in the very high altitudes of the Himalayas.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'October Heat' is caused due to:</text>
+        <topic>Retreating Monsoon</topic>
+        <option>High temperature and high humidity</option>
+        <option>Low temperature and dry air</option>
+        <option>Cyclonic activity</option>
+        <option>Western Disturbances</option>
+        <answer>High temperature and high humidity</answer>
+        <explanation>After the rains stop, the land is moist and the sun shines brightly, leading to oppressive humidity and heat.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which of the following places has the lowest annual rainfall?</text>
+        <topic>Rainfall Distribution</topic>
+        <option>Jaisalmer</option>
+        <option>Leh</option>
+        <option>Bikaner</option>
+        <option>Jodhpur</option>
+        <answer>Leh</answer>
+        <explanation>Leh (Ladakh) receives extremely low precipitation (less than 10 cm) as it is a cold desert in the rain shadow.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Somali Jet' is a:</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>High level easterly wind</option>
+        <option>Low level cross-equatorial jet stream</option>
+        <option>Polar wind</option>
+        <option>Cyclone</option>
+        <answer>Low level cross-equatorial jet stream</answer>
+        <explanation>The Somali Jet is a low-level jet stream that flows from the south-east to north-west along the east coast of Africa, boosting the SW Monsoon.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>In which season do we see the frequency of tropical cyclones originating over the Bay of Bengal reaching its maximum?</text>
+        <topic>Cyclones</topic>
+        <option>Summer</option>
+        <option>Winter</option>
+        <option>Post-Monsoon (Transition)</option>
+        <option>South-West Monsoon</option>
+        <answer>Post-Monsoon (Transition)</answer>
+        <explanation>The frequency is highest during the retreating monsoon season (October-November).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The climate of India is broadly described as:</text>
+        <topic>General Climate</topic>
+        <option>Tropical Humid</option>
+        <option>Tropical Monsoon</option>
+        <option>Subtropical Arid</option>
+        <option>Mediterranean</option>
+        <answer>Tropical Monsoon</answer>
+        <explanation>Despite regional variations, the overall climate is termed 'Tropical Monsoon'.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 4: MIXED & SPECIFIC (HARD LEVEL) -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which wind is responsible for rainfall along the Coromandel coast?</text>
+        <topic>Winds</topic>
+        <option>South-West Trade Winds</option>
+        <option>North-East Trade Winds</option>
+        <option>Westerlies</option>
+        <option>Polar Easterlies</option>
+        <answer>North-East Trade Winds</answer>
+        <explanation>The North-East Monsoon winds (which are trade winds) pick up moisture from the Bay of Bengal and rain on the TN coast.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Koppen's Code' "Cwg" refers to the climate of:</text>
+        <topic>Koppen's Classification</topic>
+        <option>Ganga Plain</option>
+        <option>Thar Desert</option>
+        <option>Coromandel Coast</option>
+        <option>Western Ghats</option>
+        <answer>Ganga Plain</answer>
+        <explanation>Cwg: Monsoon type with dry winters, characteristic of the Northern Plains (Ganga).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which factor is NOT responsible for the formation of the South-West Monsoon?</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Heating of the Tibetan Plateau</option>
+        <option>Shift of the ITCZ</option>
+        <option>Presence of the Westerly Jet Stream over North India during Summer</option>
+        <option>High pressure area east of Madagascar</option>
+        <answer>Presence of the Westerly Jet Stream over North India during Summer</answer>
+        <explanation>The *withdrawal* of the Westerly Jet Stream from the plains to the north of the Himalayas is necessary for the onset of the monsoon. Its presence hinders it.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>'Bordoisila' is a local storm occurring in:</text>
+        <topic>Local Winds</topic>
+        <option>West Bengal</option>
+        <option>Assam</option>
+        <option>Odisha</option>
+        <option>Tripura</option>
+        <answer>Assam</answer>
+        <explanation>Bordoisila is the local name for the pre-monsoon thunderstorms (Nor'westers) in Assam.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The average annual rainfall of India is approximately:</text>
+        <topic>Rainfall Data</topic>
+        <option>100 cm</option>
+        <option>118 cm</option>
+        <option>150 cm</option>
+        <option>80 cm</option>
+        <answer>118 cm</answer>
+        <explanation>The average annual rainfall is roughly 118-120 cm.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>In winter, the north-western part of India gets rainfall due to:</text>
+        <topic>Winter Rainfall</topic>
+        <option>North-East Monsoon</option>
+        <option>Retreating Monsoon</option>
+        <option>Western Disturbances</option>
+        <option>Tropical Cyclones</option>
+        <answer>Western Disturbances</answer>
+        <explanation>These temperate cyclones bring light rain to the plains and snow to the hills, crucial for Rabi crops.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which of the following states does not receive rainfall from the South-West Monsoon?</text>
+        <topic>Rainfall Distribution</topic>
+        <option>Rajasthan</option>
+        <option>Tamil Nadu</option>
+        <option>Punjab</option>
+        <option>Kerala</option>
+        <answer>Tamil Nadu</answer>
+        <explanation>Tamil Nadu remains largely dry during the SW Monsoon season due to being in the rain shadow/parallel wind direction.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Mango Showers' are also known as __________ in Bengal.</text>
+        <topic>Local Winds</topic>
+        <option>Kal Baisakhi</option>
+        <option>Bardoli Chheerha</option>
+        <option>Loo</option>
+        <option>Cherry Blossoms</option>
+        <answer>Kal Baisakhi</answer>
+        <explanation>While Mango Showers specifically refers to South India, the equivalent pre-monsoon storm in Bengal is Kal Baisakhi.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>During the South-West Monsoon, the wind blows from:</text>
+        <topic>Wind Direction</topic>
+        <option>Land to Sea</option>
+        <option>Sea to Land</option>
+        <option>Mountains to Plains</option>
+        <option>North to South</option>
+        <answer>Sea to Land</answer>
+        <explanation>The winds blow from the Indian Ocean (Sea) towards the Indian subcontinent (Land).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>What causes the 'break' in the monsoon over the Gangetic plains?</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Absence of clouds</option>
+        <option>Shift of the Monsoon Trough to the foothills of Himalayas</option>
+        <option>Blowing of Loo</option>
+        <option>Formation of cyclones</option>
+        <answer>Shift of the Monsoon Trough to the foothills of Himalayas</answer>
+        <explanation>When the axis of the monsoon trough shifts north to the Himalayas, rainfall decreases in the plains and increases in the hills.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The region with the highest variability of rainfall in India is:</text>
+        <topic>Rainfall Variability</topic>
+        <option>Western Ghats</option>
+        <option>North-East India</option>
+        <option>Gujarat and Rajasthan</option>
+        <option>Ganga Plains</option>
+        <answer>Gujarat and Rajasthan</answer>
+        <explanation>Areas with low rainfall generally have high variability (unreliability).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The Tibetan Plateau acts as a heat source during summer, leading to the formation of:</text>
+        <topic>Monsoon Mechanism</topic>
+        <option>Westerly Jet</option>
+        <option>Tropical Easterly Jet</option>
+        <option>Polar Vortex</option>
+        <option>Trade Winds</option>
+        <answer>Tropical Easterly Jet</answer>
+        <explanation>The heating creates a high-pressure cell in the upper atmosphere, generating the Easterly Jet Stream.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which date is generally considered the onset of the Monsoon in Kerala?</text>
+        <topic>Monsoon Dates</topic>
+        <option>15th May</option>
+        <option>1st June</option>
+        <option>15th June</option>
+        <option>1st July</option>
+        <answer>1st June</answer>
+        <explanation>The normal date for the onset of the South-West Monsoon over Kerala is 1st June.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Rainfall in the 'Winter Season' in Tamil Nadu is caused by:</text>
+        <topic>Retreating Monsoon</topic>
+        <option>Western Disturbances</option>
+        <option>Retreating Monsoon winds picking up moisture from Bay of Bengal</option>
+        <option>Arabian Sea branch</option>
+        <option>Convectional currents</option>
+        <answer>Retreating Monsoon winds picking up moisture from Bay of Bengal</answer>
+        <explanation>The dry retreating winds blow over the Bay of Bengal, pick up moisture, and deposit it on the Coromandel coast.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Which of the following is an example of 'Orographic Rainfall' in India?</text>
+        <topic>Rainfall Types</topic>
+        <option>Rainfall in Rajasthan</option>
+        <option>Rainfall on the windward side of Western Ghats</option>
+        <option>Rainfall in Punjab winters</option>
+        <option>Cyclonic rainfall in Odisha</option>
+        <answer>Rainfall on the windward side of Western Ghats</answer>
+        <explanation>Moisture-laden winds are forced to rise by the Western Ghats, cooling and causing heavy rain on the windward side.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The 'Koppen Code' "E" represents which climate in India?</text>
+        <topic>Koppen's Classification</topic>
+        <option>Arid</option>
+        <option>Semi-Arid</option>
+        <option>Polar (Alpine)</option>
+        <option>Tropical</option>
+        <answer>Polar (Alpine)</answer>
+        <explanation>'E' type is Polar climate, found in J&amp;K (Ladakh) and Himachal Pradesh.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The distinct seasonal reversal of wind direction is the primary characteristic of:</text>
+        <topic>Climate Type</topic>
+        <option>Equatorial Climate</option>
+        <option>Mediterranean Climate</option>
+        <option>Monsoon Climate</option>
+        <option>Tundra Climate</option>
+        <answer>Monsoon Climate</answer>
+        <explanation>The word 'Monsoon' comes from Arabic 'Mausim' meaning season, referring to the seasonal reversal of winds.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>Mahabaleshwar receives more rainfall than Pune because:</text>
+        <topic>Local Geography</topic>
+        <option>Mahabaleshwar is on the leeward side</option>
+        <option>Pune is on the windward side</option>
+        <option>Mahabaleshwar is on the windward side</option>
+        <option>Pune is at a higher altitude</option>
+        <answer>Mahabaleshwar is on the windward side</answer>
+        <explanation>Mahabaleshwar is on the windward side of the Ghats capturing the rain, while Pune lies in the rain shadow.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>The driest part of India is:</text>
+        <topic>Rainfall Distribution</topic>
+        <option>Western Rajasthan (Jaisalmer)</option>
+        <option>Ladakh</option>
+        <option>Rann of Kutch</option>
+        <option>Rayalaseema</option>
+        <answer>Western Rajasthan (Jaisalmer)</answer>
+        <explanation>While Ladakh is also dry, Jaisalmer in Western Rajasthan is typically cited as the driest region with extremely low rainfall and high evaporation.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Indian Climate">
+        <text>In May-June, the sun is overhead at:</text>
+        <topic>Seasons</topic>
+        <option>The Equator</option>
+        <option>The Tropic of Capricorn</option>
+        <option>The Tropic of Cancer</option>
+        <option>The Arctic Circle</option>
+        <answer>The Tropic of Cancer</answer>
+        <explanation>This causes intense heating of the Indian subcontinent, creating the low pressure needed for the monsoon.</explanation>
+    </question>
+
+
+
+
+
+    
+    <!-- =============================================================== -->
+    <!-- SECTION 1: RAILWAYS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The first passenger train in India ran between:</text>
+        <topic>Railways History</topic>
+        <option>Bombay and Pune</option>
+        <option>Bombay and Thane</option>
+        <option>Calcutta and Raniganj</option>
+        <option>Madras and Arcot</option>
+        <answer>Bombay and Thane</answer>
+        <explanation>The first train ran on April 16, 1853, covering 34 km between Bombay (Bori Bunder) and Thane.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which Railway Zone has the longest route length in India?</text>
+        <topic>Railway Zones</topic>
+        <option>Western Railway</option>
+        <option>Northern Railway</option>
+        <option>Southern Railway</option>
+        <option>Eastern Railway</option>
+        <answer>Northern Railway</answer>
+        <explanation>Northern Railway is the largest zone in terms of route kilometers.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Where is the headquarters of the 'South Coast Railway' (SCoR), the newest railway zone?</text>
+        <topic>Railway Zones</topic>
+        <option>Vijayawada</option>
+        <option>Visakhapatnam</option>
+        <option>Guntur</option>
+        <option>Hyderabad</option>
+        <answer>Visakhapatnam</answer>
+        <explanation>The headquarters of the newly announced South Coast Railway zone is in Visakhapatnam, Andhra Pradesh.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Diamond Quadrilateral' project is related to:</text>
+        <topic>Railway Projects</topic>
+        <option>High Speed Rail Network</option>
+        <option>Connecting major ports</option>
+        <option>Connecting metro cities by road</option>
+        <option>Inland Waterways</option>
+        <answer>High Speed Rail Network</answer>
+        <explanation>It aims to establish a high-speed rail network connecting the four metros: Delhi, Mumbai, Kolkata, and Chennai.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Konkan Railway' connects which two places?</text>
+        <topic>Railways Engineering</topic>
+        <option>Mumbai and Mangalore</option>
+        <option>Roha and Mangalore</option>
+        <option>Mumbai and Cochin</option>
+        <option>Goa and Kerala</option>
+        <answer>Roha and Mangalore</answer>
+        <explanation>Technically, it connects Roha (Maharashtra) to Thokur (near Mangalore, Karnataka).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which is the longest railway platform in the world (as of current records)?</text>
+        <topic>Railways Facts</topic>
+        <option>Gorakhpur</option>
+        <option>Kharagpur</option>
+        <option>Hubballi (Hubli)</option>
+        <option>Kollam</option>
+        <answer>Hubballi (Hubli)</answer>
+        <explanation>Shree Siddharoodha Swamiji Hubballi Station (Karnataka) now has the longest platform (1507 m), surpassing Gorakhpur.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The UNESCO World Heritage Site 'Chhatrapati Shivaji Maharaj Terminus' was designed by:</text>
+        <topic>Railways History</topic>
+        <option>Edwin Lutyens</option>
+        <option>F.W. Stevens</option>
+        <option>Le Corbusier</option>
+        <option>Herbert Baker</option>
+        <answer>F.W. Stevens</answer>
+        <explanation>Frederick William Stevens designed the Victoria Terminus (now CSMT) in Victorian Gothic Revival style.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which train is India's first semi-high speed train?</text>
+        <topic>Modern Trains</topic>
+        <option>Gatiman Express</option>
+        <option>Vande Bharat Express</option>
+        <option>Tejas Express</option>
+        <option>Shatabdi Express</option>
+        <answer>Gatiman Express</answer>
+        <explanation>Gatiman Express (Delhi-Agra/Jhansi) was the first semi-high speed train. Vande Bharat (Train 18) came later but is indigenous and faster.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The headquarters of the North Eastern Railway is located at:</text>
+        <topic>Railway Zones</topic>
+        <option>Guwahati</option>
+        <option>Gorakhpur</option>
+        <option>Kolkata</option>
+        <option>Patna</option>
+        <answer>Gorakhpur</answer>
+        <explanation>North Eastern Railway HQ is in Gorakhpur. (Note: Northeast Frontier Railway HQ is in Maligaon, Guwahati).</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 2: ROADWAYS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which National Highway is the longest in India?</text>
+        <topic>Roadways</topic>
+        <option>NH 44</option>
+        <option>NH 7</option>
+        <option>NH 2</option>
+        <option>NH 27</option>
+        <answer>NH 44</answer>
+        <explanation>NH 44 (Srinagar to Kanyakumari) is the longest national highway. (Previously NH 7 was longest, now merged into NH 44).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Golden Quadrilateral' project connects which four major cities?</text>
+        <topic>Road Projects</topic>
+        <option>Delhi, Mumbai, Chennai, Kolkata</option>
+        <option>Delhi, Bangalore, Chennai, Kolkata</option>
+        <option>Delhi, Mumbai, Hyderabad, Kolkata</option>
+        <option>Mumbai, Pune, Bangalore, Chennai</option>
+        <answer>Delhi, Mumbai, Chennai, Kolkata</answer>
+        <explanation>It connects the four metropolitan cities forming a quadrilateral shape.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Pradhan Mantri Gram Sadak Yojana' (PMGSY) aims to provide connectivity to:</text>
+        <topic>Government Schemes</topic>
+        <option>Urban Areas</option>
+        <option>Unconnected Rural Habitations</option>
+        <option>Border Areas</option>
+        <option>Coastal Areas</option>
+        <answer>Unconnected Rural Habitations</answer>
+        <explanation>Launched in 2000, it aims to provide all-weather road connectivity to unconnected rural habitations.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Bharatmala Pariyojana' is primarily focused on:</text>
+        <topic>Road Projects</topic>
+        <option>Development of Inland Waterways</option>
+        <option>Connecting Ports</option>
+        <option>Development of National Highways and Border Roads</option>
+        <option>Rail Connectivity</option>
+        <answer>Development of National Highways and Border Roads</answer>
+        <explanation>It is an umbrella program for the highways sector that focuses on optimizing efficiency of freight and passenger movement.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which organization is responsible for the construction and maintenance of roads in border areas?</text>
+        <topic>Road Agencies</topic>
+        <option>NHAI</option>
+        <option>BRO (Border Roads Organization)</option>
+        <option>PWD</option>
+        <option>CPWD</option>
+        <answer>BRO (Border Roads Organization)</answer>
+        <explanation>BRO develops and maintains road networks in India's border areas and friendly neighboring countries.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The longest road tunnel in India, 'Dr. Syama Prasad Mookerjee Tunnel' (Chenani-Nashri), is located in:</text>
+        <topic>Tunnels</topic>
+        <option>Himachal Pradesh</option>
+        <option>Uttarakhand</option>
+        <option>Jammu &amp; Kashmir</option>
+        <option>Arunachal Pradesh</option>
+        <answer>Jammu &amp; Kashmir</answer>
+        <explanation>It is located on NH 44 in J&amp;K. (Note: Atal Tunnel is the longest highway tunnel above 10,000 ft).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which National Highway connects Delhi and Mumbai?</text>
+        <topic>Highways</topic>
+        <option>NH 8 (Old)</option>
+        <option>NH 48</option>
+        <option>NH 44</option>
+        <option>NH 19</option>
+        <answer>NH 48</answer>
+        <explanation>Under the new numbering system, NH 48 connects Delhi to Chennai via Mumbai.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'East-West Corridor' connects:</text>
+        <topic>Road Corridors</topic>
+        <option>Srinagar and Kanyakumari</option>
+        <option>Porbandar and Silchar</option>
+        <option>Mumbai and Kolkata</option>
+        <option>Delhi and Kolkata</option>
+        <answer>Porbandar and Silchar</answer>
+        <explanation>It connects Porbandar (Gujarat) in the West to Silchar (Assam) in the East.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 3: WATERWAYS & PORTS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>National Waterway 1 (NW-1) operates on which river system?</text>
+        <topic>Inland Waterways</topic>
+        <option>Brahmaputra</option>
+        <option>Ganga-Bhagirathi-Hooghly</option>
+        <option>Godavari-Krishna</option>
+        <option>Mahanadi</option>
+        <answer>Ganga-Bhagirathi-Hooghly</answer>
+        <explanation>NW-1 runs from Prayagraj (Allahabad) to Haldia on the Ganga-Bhagirathi-Hooghly river system.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which port is known as the 'Gateway of Karnataka'?</text>
+        <topic>Ports</topic>
+        <option>Karwar</option>
+        <option>New Mangalore Port</option>
+        <option>Mormugao</option>
+        <option>Kochi</option>
+        <answer>New Mangalore Port</answer>
+        <explanation>New Mangalore Port is the major port in Karnataka.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Sagarmala' project is associated with:</text>
+        <topic>Government Schemes</topic>
+        <option>Deep sea fishing</option>
+        <option>Port-led development</option>
+        <option>River linking</option>
+        <option>Ocean research</option>
+        <answer>Port-led development</answer>
+        <explanation>Sagarmala aims to modernize ports and integrate them with Special Economic Zones (SEZs) and connectivity projects.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which of the following is a tidal port?</text>
+        <topic>Ports</topic>
+        <option>Kandla (Deendayal Port)</option>
+        <option>Mumbai</option>
+        <option>Chennai</option>
+        <option>Visakhapatnam</option>
+        <answer>Kandla (Deendayal Port)</answer>
+        <explanation>Kandla in Gujarat is a tidal port located in the Gulf of Kutch.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>National Waterway 2 (NW-2) is located on which river?</text>
+        <topic>Inland Waterways</topic>
+        <option>Ganga</option>
+        <option>Brahmaputra</option>
+        <option>Mahanadi</option>
+        <option>Godavari</option>
+        <answer>Brahmaputra</answer>
+        <explanation>NW-2 is on the Brahmaputra river between Sadiya and Dhubri in Assam.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which is the deepest landlocked port in India?</text>
+        <topic>Ports</topic>
+        <option>Paradip</option>
+        <option>Visakhapatnam</option>
+        <option>Kolkata</option>
+        <option>Mumbai</option>
+        <answer>Visakhapatnam</answer>
+        <explanation>Visakhapatnam (Vizag) is the deepest landlocked and protected port.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Kolkata Port' is an example of a:</text>
+        <topic>Ports</topic>
+        <option>Sea Port</option>
+        <option>Riverine Port</option>
+        <option>Lagoon Port</option>
+        <option>Tidal Port</option>
+        <answer>Riverine Port</answer>
+        <explanation>Kolkata (Syama Prasad Mookerjee Port) is the only major riverine port in India, located on the Hooghly River.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which port was developed to relieve the pressure on Mumbai Port?</text>
+        <topic>Ports</topic>
+        <option>Kandla</option>
+        <option>Jawaharlal Nehru Port (Nhava Sheva)</option>
+        <option>Mormugao</option>
+        <option>Surat</option>
+        <answer>Jawaharlal Nehru Port (Nhava Sheva)</answer>
+        <explanation>JNPT was built just across the harbor from Mumbai to decongest the Mumbai Port.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 4: AIRWAYS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'UDAN' scheme stands for:</text>
+        <topic>Airways Schemes</topic>
+        <option>Ude Desh Ka Aam Nagrik</option>
+        <option>Udaan Development And Networking</option>
+        <option>Urban Development Aviation Network</option>
+        <option>Unified Domestic Aviation Network</option>
+        <answer>Ude Desh Ka Aam Nagrik</answer>
+        <explanation>It is a regional connectivity scheme to make flying affordable for the common man.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which is the first airport in India to be fully powered by solar energy?</text>
+        <topic>Airports</topic>
+        <option>Indira Gandhi International Airport (Delhi)</option>
+        <option>Cochin International Airport</option>
+        <option>Kempegowda International Airport (Bangalore)</option>
+        <option>Chhatrapati Shivaji Maharaj International Airport (Mumbai)</option>
+        <answer>Cochin International Airport</answer>
+        <explanation>Cochin International Airport (Kerala) became the world's first fully solar-powered airport in 2015.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Greenfield Airport Policy' relates to:</text>
+        <topic>Airways Policy</topic>
+        <option>Developing existing airports</option>
+        <option>Constructing new airports from scratch</option>
+        <option>Planting trees around airports</option>
+        <option>Using biofuels in aircraft</option>
+        <answer>Constructing new airports from scratch</answer>
+        <explanation>A Greenfield project means building a new facility on unused land.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Where is the 'Veer Savarkar International Airport' located?</text>
+        <topic>Airports</topic>
+        <option>Nagpur</option>
+        <option>Port Blair</option>
+        <option>Pune</option>
+        <option>Nashik</option>
+        <answer>Port Blair</answer>
+        <explanation>It serves the Andaman and Nicobar Islands.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The Airports Authority of India (AAI) was constituted in which year?</text>
+        <topic>Airways Organizations</topic>
+        <option>1991</option>
+        <option>1995</option>
+        <option>2000</option>
+        <option>1985</option>
+        <answer>1995</answer>
+        <explanation>AAI was formed on 1st April 1995 by merging the National Airports Authority and the International Airports Authority of India.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which airport is located at the highest altitude in India?</text>
+        <topic>Airports</topic>
+        <option>Leh (Kushok Bakula Rimpochee)</option>
+        <option>Srinagar</option>
+        <option>Pakyong</option>
+        <option>Shimla</option>
+        <answer>Leh (Kushok Bakula Rimpochee)</answer>
+        <explanation>Located in Ladakh, it is one of the highest commercial airports in the world.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Open Sky Policy' of the Indian Government refers to:</text>
+        <topic>Airways Policy</topic>
+        <option>Allowing drones everywhere</option>
+        <option>Allowing foreign airlines to operate more flights</option>
+        <option>No roof on airport terminals</option>
+        <option>Allowing private helicopters</option>
+        <answer>Allowing foreign airlines to operate more flights</answer>
+        <explanation>It allows foreign airlines or an association of airlines to chart flights to and from India without restrictions on the number of flights/seats.</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- SECTION 5: COMMUNICATION -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>In India, the Postal Index Number (PIN) code system was introduced in:</text>
+        <topic>Postal System</topic>
+        <option>1947</option>
+        <option>1952</option>
+        <option>1972</option>
+        <option>1986</option>
+        <answer>1972</answer>
+        <explanation>The PIN code system was introduced on August 15, 1972, by Shriram Bhikaji Velankar.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The first telegraph line in India was opened in 1851 between:</text>
+        <topic>Communication History</topic>
+        <option>Calcutta and Diamond Harbour</option>
+        <option>Bombay and Thane</option>
+        <option>Agra and Calcutta</option>
+        <option>Madras and Bangalore</option>
+        <answer>Calcutta and Diamond Harbour</answer>
+        <explanation>It was an experimental line. Public services started later in 1854.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which satellite series is primarily used for telecommunication in India?</text>
+        <topic>Satellite Communication</topic>
+        <option>IRS (Indian Remote Sensing)</option>
+        <option>INSAT (Indian National Satellite System)</option>
+        <option>Cartosat</option>
+        <option>Risat</option>
+        <answer>INSAT (Indian National Satellite System)</answer>
+        <explanation>INSAT series satellites are geostationary satellites used for telecommunications, broadcasting, and meteorology.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'BharatNet' project aims to provide:</text>
+        <topic>Communication Projects</topic>
+        <option>Satellite phones to soldiers</option>
+        <option>High-speed broadband connectivity to Gram Panchayats</option>
+        <option>Free mobile phones to students</option>
+        <option>5G network in cities</option>
+        <answer>High-speed broadband connectivity to Gram Panchayats</answer>
+        <explanation>BharatNet is the world's largest rural broadband connectivity program using Optical Fibre.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Radio broadcasting in India started in 1927 by:</text>
+        <topic>Radio</topic>
+        <option>All India Radio</option>
+        <option>Prasar Bharati</option>
+        <option>Private clubs in Bombay and Calcutta</option>
+        <option>British Government</option>
+        <answer>Private clubs in Bombay and Calcutta</answer>
+        <explanation>Radio Club of Bombay started the first broadcast in 1923, and organized broadcasting began in 1927 by the Indian Broadcasting Company (private).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>When was 'All India Radio' renamed as 'Akashvani'?</text>
+        <topic>Radio</topic>
+        <option>1947</option>
+        <option>1957</option>
+        <option>1965</option>
+        <option>1975</option>
+        <answer>1957</answer>
+        <explanation>The name was officially changed to Akashvani in 1957.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The headquarters of the Telecom Regulatory Authority of India (TRAI) is in:</text>
+        <topic>Regulators</topic>
+        <option>Mumbai</option>
+        <option>New Delhi</option>
+        <option>Bangalore</option>
+        <option>Hyderabad</option>
+        <answer>New Delhi</answer>
+        <explanation>TRAI is the regulator of the telecommunications sector in India.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>India's first post office was established by the East India Company in:</text>
+        <topic>Postal History</topic>
+        <option>Bombay</option>
+        <option>Madras</option>
+        <option>Calcutta</option>
+        <option>Surat</option>
+        <answer>Calcutta</answer>
+        <explanation>Established in 1727 (though Warren Hastings established the first General Post Office in Calcutta in 1774).</explanation>
+    </question>
+
+    <!-- =============================================================== -->
+    <!-- MISCELLANEOUS HARD QUESTIONS -->
+    <!-- =============================================================== -->
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which of the following is the 'longest' pipeline in India?</text>
+        <topic>Pipelines</topic>
+        <option>Hajira-Vijaipur-Jagdishpur (HVJ)</option>
+        <option>Jamnagar-Loni</option>
+        <option>Kandla-Bhatinda</option>
+        <option>Salaya-Mathura</option>
+        <answer>Jamnagar-Loni</answer>
+        <explanation>The Jamnagar-Loni LPG pipeline (approx 1269 km initially, extended later) is one of the longest. HVJ is a major gas pipeline.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Sethusamudram Shipping Canal Project' aims to create a shipping route in the shallow straits between:</text>
+        <topic>Waterways Projects</topic>
+        <option>India and Maldives</option>
+        <option>India and Sri Lanka</option>
+        <option>Andaman and Nicobar</option>
+        <option>Lakshadweep and Kerala</option>
+        <answer>India and Sri Lanka</answer>
+        <explanation>It proposes to link Palk Bay and Gulf of Mannar to avoid circumnavigating Sri Lanka.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which railway gauge is the standard and most common in India?</text>
+        <topic>Railways</topic>
+        <option>Narrow Gauge</option>
+        <option>Meter Gauge</option>
+        <option>Broad Gauge</option>
+        <option>Standard Gauge</option>
+        <answer>Broad Gauge</answer>
+        <explanation>Broad Gauge (1.676 m) covers the vast majority of the Indian Railway network. (Standard Gauge is used in Metros).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Dedicated Freight Corridor Corporation of India' (DFCCIL) is constructing how many corridors?</text>
+        <topic>Railways</topic>
+        <option>Two (Eastern and Western)</option>
+        <option>Four</option>
+        <option>Three</option>
+        <option>Six</option>
+        <answer>Two (Eastern and Western)</answer>
+        <explanation>Currently, the Eastern and Western Dedicated Freight Corridors are under major construction phases.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Who is known as the 'Father of Civil Aviation in India'?</text>
+        <topic>Airways History</topic>
+        <option>J.R.D. Tata</option>
+        <option>Homi Bhabha</option>
+        <option>G.D. Birla</option>
+        <option>Jamsetji Tata</option>
+        <answer>J.R.D. Tata</answer>
+        <explanation>J.R.D. Tata was the first licensed pilot in India and founded Tata Airlines (later Air India).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which state has the highest road density in India?</text>
+        <topic>Roadways</topic>
+        <option>Uttar Pradesh</option>
+        <option>Kerala</option>
+        <option>Maharashtra</option>
+        <option>Tamil Nadu</option>
+        <answer>Kerala</answer>
+        <explanation>Kerala consistently ranks highest in road density (road length per unit area).</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Chenab Bridge', the world's highest railway bridge, connects which two locations?</text>
+        <topic>Railways</topic>
+        <option>Katra and Banihal</option>
+        <option>Bakkal and Kauri</option>
+        <option>Jammu and Udhampur</option>
+        <option>Qazigund and Baramulla</option>
+        <answer>Bakkal and Kauri</answer>
+        <explanation>It connects Bakkal and Kauri in the Reasi district of J&amp;K as part of the USBRL project.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>Which satellite system provides navigation services (GPS equivalent) for India?</text>
+        <topic>Communication/Navigation</topic>
+        <option>GAGAN</option>
+        <option>NavIC (IRNSS)</option>
+        <option>BHUVAN</option>
+        <option>SARAL</option>
+        <answer>NavIC (IRNSS)</answer>
+        <explanation>NavIC (Navigation with Indian Constellation) or IRNSS is India's regional satellite navigation system.</explanation>
+    </question>
+
+    <question category="practice" exam="JKSSB Junior Assistant" subject="Transport and Communication">
+        <text>The 'Ro-Ro' (Roll-on/Roll-off) ferry service was famously inaugurated between which two points in Gujarat?</text>
+        <topic>Waterways</topic>
+        <option>Surat and Mumbai</option>
+        <option>Ghogha and Dahej</option>
+        <option>Kandla and Mundra</option>
+        <option>Porbandar and Dwarka</option>
+        <answer>Ghogha and Dahej</answer>
+        <explanation>It connects Ghogha in Bhavnagar and Dahej in Bharuch across the Gulf of Khambhat.</explanation>
+    </question>
+
+
+
+
 
 
 
