@@ -70,45 +70,87 @@
 
     /* Responsive styles */
     @media only screen and (max-width: 768px) {
-        .financial-table, 
-        .financial-table thead, 
-        .financial-table tbody, 
-        .financial-table th, 
-        .financial-table td, 
-        .financial-table tr {
-            display: block;
+        .financial-table {
+            display: none;
+        }
+        
+        .mobile-year-view {
+            display: block !important;
         }
 
-        .financial-table thead tr {
-            position: absolute;
-            top: -9999px;
-            left: -9999px;
+        .year-card {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            overflow: hidden;
         }
 
-        .financial-table tr {
-            margin-bottom: 1rem;
-            border: 1px solid #ccc;
-        }
-
-        .financial-table td {
-            border: none;
-            border-bottom: 1px solid #eee;
-            position: relative;
-            padding-left: 50%;
-            text-align: right;
-        }
-
-        .financial-table td:before {
-            position: absolute;
-            top: 8px;
-            left: 8px;
-            width: 45%;
-            padding-right: 10px;
-            white-space: nowrap;
-            text-align: left;
+        .year-header {
+            background-color: #1f2a44;
+            color: white;
+            padding: 10px;
+            text-align: center;
             font-weight: bold;
-            content: attr(data-label);
+            font-size: 1.1em;
         }
+
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 15px;
+            border-bottom: 1px solid #eee;
+            font-size: 0.9rem;
+        }
+
+        .stat-row:last-child {
+            border-bottom: none;
+        }
+
+        .stat-label {
+            font-weight: 600;
+            color: #555;
+            flex: 1;
+            text-align: left;
+        }
+
+        .stat-value {
+            font-weight: bold;
+            color: #333;
+            text-align: right;
+            margin-left: 10px;
+        }
+
+        .section-title {
+            background-color: #e8f4ff;
+            color: #1f2a44;
+            font-weight: bold;
+            text-align: center;
+            padding: 8px;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+        }
+        
+        .section-title.expenditure {
+            background-color: #ffeede;
+        }
+
+        .stat-row.total-row {
+            background-color: #f8f9fa;
+            border-top: 2px solid #ddd;
+        }
+
+        .stat-row.surplus-row {
+            background-color: #e7ffe7;
+            color: #006400;
+            border-top: 2px solid #c3e6cb;
+        }
+    }
+    
+    .mobile-year-view {
+        display: none;
     }
 </style>
 <body>
@@ -271,6 +313,55 @@
      </div>
 </footer>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const table = document.querySelector('.financial-table');
+        if (!table) return;
+
+        const mobileView = document.createElement('div');
+        mobileView.className = 'mobile-year-view';
+        
+        const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.innerText.trim());
+        const rows = Array.from(table.querySelectorAll('tbody tr'));
+        
+        for (let i = 1; i < headers.length; i++) {
+            const yearCard = document.createElement('div');
+            yearCard.className = 'year-card';
+            
+            const yearHeader = document.createElement('div');
+            yearHeader.className = 'year-header';
+            yearHeader.innerText = headers[i];
+            yearCard.appendChild(yearHeader);
+            
+            rows.forEach(row => {
+                const cells = row.querySelectorAll('td');
+                
+                if (cells.length === 1 && cells[0].hasAttribute('colspan')) {
+                    const sectionTitle = document.createElement('div');
+                    sectionTitle.className = 'section-title';
+                    if (row.classList.contains('expenditure-header')) {
+                        sectionTitle.classList.add('expenditure');
+                    }
+                    sectionTitle.innerText = cells[0].innerText;
+                    yearCard.appendChild(sectionTitle);
+                } else if (cells.length > i) {
+                    const label = cells[0].innerText.trim();
+                    const value = cells[i].innerText.trim();
+                    
+                    const statRow = document.createElement('div');
+                    statRow.className = 'stat-row';
+                    if (row.classList.contains('total-row')) statRow.classList.add('total-row');
+                    if (row.classList.contains('surplus-row')) statRow.classList.add('surplus-row');
+
+                    statRow.innerHTML = `<span class="stat-label">${label}</span><span class="stat-value">${value}</span>`;
+                    yearCard.appendChild(statRow);
+                }
+            });
+            mobileView.appendChild(yearCard);
+        }
+        table.parentNode.insertBefore(mobileView, table.nextSibling);
+    });
+</script>
 <script src="js/scripts.js"></script>
 </body>
 </html>
