@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
    
+
+   <update>
+        <text>JKSSB FAA 2025 Syllabus Released</text>
+        <url> https://jkssb.nic.in/Pdf/Syllabus_FAA_23122025.pdf </url>
+        <date>2025-12-23</date> 
+    </update>
+
+   <update>
+        <text>JKSSB Junior Assistant 2025 Syllabus Released</text>
+        <url> https://jkssb.nic.in/Pdf/Syllabus_JrAsstt_Steno_23122025.pdf </url>
+        <date>2025-12-23</date> 
+    </update>
+
    <update>
         <text>Lec 10 | Transport and Communication in Jammu nad Kashmir has been uploaded</text>
         <url> https://youtu.be/G93O_0wZnyE?si=fBmyUfwazW-XV5-o </url>
