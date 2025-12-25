@@ -843,6 +843,743 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<course id="c003" title="JKSSB JKP Constable 2026" image="assets/Constable_Course_Header.png">
+    <description>Free Complete JKSSB JKP Constable Course</description>
+    <playlists>
+      
+      
+  
+
+
+
+
+<playlist id="pl102" title="Concepts of Computers" youtubePlaylistId="PLfM9ONl2Lh0I6EtvtIq8nkRl4qHWe9CT5" compiledPdfDriveId="1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R" marks="15">
+  <video id="v301" title="Lec 1 | Definition of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="coIwFO_SX4Y" duration="34:20" position="1">
+    <pdf driveFileId="" url="https://drive.google.com/file/d/1iLDU8gdP_4NDrf_A-9Lfu0Y3zPrXln5R/view?usp=drive_link"/>
+  </video>
+  <video id="v302" title="Lec 2 | Working of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_08Ht3DP7Yo" duration="8:59" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v303" title="Lec 3 | Characteristics of a Computer | By Tawqeer Sir | For JKSSB SSC RRB" youtubeId="_zHeqGudbAI" duration="8:03" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v304" title="Lec 4 | Types / Classification of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="L_C7Nr_Ba7Q" duration="46:21" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v305" title="Lec 5 | Generations / History of Computers By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="vNj8d9r58Kw" duration="6:15" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v306" title="Lec 6 | Components of a Computer | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="MzjrD5zq-HU" duration="30:03" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v307" title="Lec 7 | Input/Output Unit | Introduction | By Tawqeer Sir | For JKSSB JKPSC SSC RRB UPSC" youtubeId="HxF6INA2L6c" duration="10:48" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v308" title="Lec 8 | Central Processing Unit (CPU) | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="tRNxwlMMF5I" duration="41:18" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v309" title="Lec 9 | Memory Unit of a Computer | Introduction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="Qy5xyrnxFLA" duration="5:30" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v310" title="Lec 10 | Motherboard of a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="H7DDHhOG-AE" duration="5:42" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v311" title="Lec 11 | Buses in a Computer | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="0ptLM2ZMvmI" duration="4:35" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v312" title="Lec 12 | Instruction Cycle ad Instruction Format | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="BGiLc7SXaUE" duration="7:35" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v313" title="Lec 13 | Difference between Command and Instruction | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="3assWInZND0" duration="11:33" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v314" title="Lec 14 | CPU Speed | Speed of a computer Processor | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="6RwtplrdS0I" duration="8:22" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v315" title="Lec 15 | Registers in a Computer | CPU Registers | By Tawqeer Sir |For JKSSB JKPSC SSC RRB UPSC" youtubeId="RoxZzmzxwdc" duration="13:00" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v316" title="Lec 16 | What is Instruction Set, Direct Memory Access and UPS | By Tawqeer Sir |For JKSSB SSC RRB" youtubeId="6FNWfTafnt0" duration="4:00" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v317" title="Lec 17 | What is Computer Hardware | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="g6PK0Fc5_kw" duration="7:09" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v318" title="Lec 18 | Introduction to the Input Devices | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="E13cKjnd30Q" duration="7:34" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v319" title="Lec 19 | Input Devices - 1 (Keyboard) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="WFiQwIZ306E" duration="27:09" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v320" title="Lec 20 | Input Devices - 2 (MOUSE) | By Tawqeer Sir |For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="H89TBfLMwqo" duration="24:47" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v321" title="Lec 21 | Input Devices - 3 (Trackball) | By Tawqeer Sir | For JKSSB SSC RRB KPSC UPSC UPPSC BPSC" youtubeId="z8xlHxcFWOo" duration="8:39" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v322" title="Lec 22 | Input Devices - 4 (Pointing Stick Joystick Light Pen and Touch Screen Track Pad)" youtubeId="PbP1_J_niDA" duration="22:50" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v323" title="Lec 23 | Input Devices - 5 (Digitizer OR Graphics Tablet ) | By Tawqeer SIr | For JKSSB SSC RRB UPSC" youtubeId="Mi8xg9zEwdI" duration="3:11" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v324" title="Lec 24 | Input Devices - 6 (Barcode, OMR, OCR, RFID, Biometrics) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="o0u_-aIyW5U" duration="19:02" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v325" title="Lec 25 | Input Devices - 7 (Scanners) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="gbb_dXzAYLo" duration="30:00" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v326" title="Lec 26 | Input Devices - 8 (Microphone and Webcam) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="_35G1Z5sMhQ" duration="5:49" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v327" title="Lec 27 | Output Devices (Introduction and Types) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="d3A3BMMBN60" duration="5:29" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v328" title="Lec 28 | Output Devices -1 ( MONITOR ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="-frzUJBqYuM" duration="19:31" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v329" title="Lec 29 | Output Devices -2 ( PRINTER ) | By Tawqeer Sir| For JKSSB SSC RRB" youtubeId="jck4jWsnc3o" duration="37:24" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v330" title="Lec 30 | Output Devices -3 (PLOTTER SPEAKER HEADPHONE SPEECH SYNTHESIZER PROJECTOR) | JKSSB SSC RRB" youtubeId="m9p9jVjg82k" duration="10:44" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v331" title="Lec 31 | Both Input and Output Devices | For JKSSB VLW FAA JKPSC SSC RRB BPSC | By Tawqeer Sir" youtubeId="6AswKK1dTYo" duration="7:05" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v332" title="Lec 32 | Input Output (I/O) Ports | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC Bank By Tawqeer Sir" youtubeId="g4NaA8zsNAY" duration="14:22" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v333" title="Lec 33 | Computer Memory (Introduction) | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="sSrr9upTOpQ" duration="46:23" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v334" title="Lec 34 | Types of Computer Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="LhAHn-2Fs14" duration="11:27" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v335" title="Lec 35 | Primary Memory and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="WqUlWzXX530" duration="28:05" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v336" title="Lec 36 | Cache Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="0N0cFAD-BQA" duration="22:01" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v337" title="Lec 37 | Secondary Memory HARD DISK | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC By Tawqeer Sir" youtubeId="onlASKJ6MQw" duration="45:40" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v338" title="Lec 38 | Secondary Memory - 2 SSD, CD, Floppy Disk | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="_DYvzI1afcw" duration="21:51" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v339" title="Lec 39 | Teritiary, Flash and Virtual Memory | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="hq-RAhkdZHM" duration="32:48" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v340" title="Lec 40 | Computer Software and its Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="W6cZ-KS2ZAg" duration="1:18:30" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v341" title="Lec 41 | Operating Systems Functions and Types | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="GqqN2rCFBHg" duration="1:08:13" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v342" title="Lec 42 | Algorithms and Flowcharts | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="5T6qcfKFH2M" duration="15:30" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v343" title="Lec 43 | Computer Programs and Programming Languages | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="lAAHYfw8AZc" duration="28:14" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v344" title="Lec 44 |Language Translators - Compiler, Assembler and Interpreter| For JKSSB VLW FAA SSC RRB BPSC" youtubeId="BnoV4fYIXfs" duration="23:11" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v345" title="Lec 45 | Microsoft Windows and its features | For JKSSB VLW FAA SSC RRB BPSC" youtubeId="YAjhNrdGjmI" duration="57:51" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v346" title="Lec 46 | FIles and FIle Systems - NTFS, FAT, EXT4, etc | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="kvCQGDzvHR8" duration="3:59" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v347" title="Lec 47 | Data Communication and Communication Media | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="A40U4ytipcg" duration="29:48" position="47">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v348" title="Lec 48 | Computer Networks | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC" youtubeId="owzSpQWrwTc" duration="8:15" position="48">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v349" title="Lec 49 | Network Devices - Hub Switch Bridge Router Gateway Repeater | For JKSSB VLW SSC RRB BPSC" youtubeId="MuiFPycnUwU" duration="15:44" position="49">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v350" title="Lec 50 | Network Topologies and OSI Model | For JKSSB VLW SSC RRB BPSC" youtubeId="rEBCnG2CMCU" duration="15:03" position="50">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v351" title="Lec 51 | Internet - History and Advantages and Disadvantages | For JKSSB VLW SSC RRB BPSC" youtubeId="v9RmMpxwW2g" duration="39:05" position="51">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v352" title="Lec 52 | Internet Protocols: TCP/IP, FTP, HTTP, VoIP, etc | For JKSSB VLW SSC RRB BPSC" youtubeId="nRmrR0AI8cA" duration="13:07" position="52">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v353" title="Lec 53 | IP Address and MAC Addresses | For JKSSB VLW SSC RRB BPSC" youtubeId="JeuZx76pyOw" duration="5:55" position="53">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v354" title="Lec 54 | Email and Email proocols - SMTP, POP, IMAP, MIME | For JKSSB VLW SSC RRB BPSC" youtubeId="IiaT9WNqF8w" duration="7:53" position="54">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v355" title="Lec 55 | IoT - Internet of Things | For JKSSB VLW SSC RRB BPSC" youtubeId="aOHyYOGyW7s" duration="3:12" position="55">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v356" title="Lec 56 | Deep Web, Dark Web and Tor Browser | For JKSSB VLW SSC RRB BPSC" youtubeId="ed0p9kCRtDs" duration="4:51" position="56">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v357" title="Lec 57 | IMPORTANT TERMS: WWW, URL, SERVER, DOMAIN, DNS, COOKIES, Cloud Computing, etc" youtubeId="B5AePyRvN1s" duration="15:35" position="57">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v358" title="Lec 58 | Computer Security and its Components | For JKSSB VLW FAA JKPSC SSC RRB BPSC UPPSC KPSC Bank" youtubeId="iauGonHHF_4" duration="18:23" position="58">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v359" title="Lec 59 | Computer Malwares: Viruses, Worms, Trojans and Security Threats|For JKSSB VLW FAA JKPSC SSC" youtubeId="YfetFo3YqTU" duration="59:24" position="59">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v360" title="Lec 60 | Valid Email Address Format |For JKSSB VLW FAA JKPSC SSC" youtubeId="K3Y5_P9spO4" duration="6:49" position="60">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v361" title="Lec 61 | Microsoft Office | Marathon | Word Excel Powerpoint Access | For JKSSB VLW SSC RRB BPSC" youtubeId="LiP-hM3U2Pg" duration="2:58:47" position="61">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v362" title="Number Systems | Binary Decimal Octal Hexadecimal | Lec 13 | By Tawqeer Sir | For JKSSB JKPSC etc" youtubeId="lQcS9j5qCY4" duration="1:20:57" position="62">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v363" title="Computer Awareness Marathon | By Tawqeer Sir | For JKSSB SSC Bank IBPS UGC NET" youtubeId="_8TO59Z_3mw" duration="5:34:42" position="63">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<playlist id="pl112" title="GK with Special Reference to J&amp;K for JKP Constable" youtubePlaylistId="PLfM9ONl2Lh0LYYBqU0nIZEAHn_Kb3RCO4">
+  <video id="v1001" title="Lec 1 | Physiography of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="aY5gHf0D8JU" duration="1:15:41" position="1">
+    <pdf driveFileId="1eMdX7dJ3wosPIZVtowP0BMXDzuRQx4BD" url=""/>
+  </video>
+  <video id="v1002" title="Lec 2 | Climate of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="r_St3TuDvAc" duration="1:06:11" position="2">
+    <pdf driveFileId="1TaSxV4OQG1DbR5_lJF-mAKTp0ybusJcZ" url=""/>
+  </video>
+  <video id="v1003" title="Lec 3 | Rivers of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="yv-52sooG7Y" duration="1:26:16" position="3">
+    <pdf driveFileId="1c76EC31CRcGadAT_PG1gKzy-Fnchp_28" url=""/>
+  </video>
+  <video id="v1004" title="Lec 4 | Lakes of Jammu and Kashmir | General Knowledge about Jammu and Kashmir|By Tawqeer Sir" youtubeId="UiApsoFw3nQ" duration="1:32:06" position="4">
+    <pdf driveFileId="1DXrLv9uxS8Y4yqOWqkwyhmho2VnCI1vC" url=""/>
+  </video>
+  <video id="v1005" title="Lec 5 | Glaciers and Mountain Passes of Jammu and Kashmir | GK of Jammu and Kashmir | By Tawqeer Sir" youtubeId="lvUCKZC7zQo" duration="1:03:24" position="5">
+    <pdf driveFileId="1UIfEkArrSZBlUlbErIGxcelWw6Lk22EI" url=""/>
+  </video>
+  <video id="v1006" title="Lec 6 | Flora and Fauna of Jammu and Kashmir | GK of Jammu and Kashmir for JKSSB JKPSC| Tawqeer Sir" youtubeId="8tNvmaa1y3o" duration="1:29:32" position="6">
+    <pdf driveFileId="1kO56hdbq3gd-X1q4CNQfX3u8gcVyPX6e" url=""/>
+  </video>
+  <video id="v1007" title="Lec 7 | Soils and Agriculture of Jammu and Kashmir J&amp;K GK | For JKSSB JKPSC JKPSI FAA MTS SSC" youtubeId="Fq9ix1pTxU8" duration="1:58:20" position="7">
+    <pdf driveFileId="16kGKDjtbEzd46DJM6EzJePU3CAJrB5hb" url=""/>
+  </video>
+  <video id="v1008" title="Lec 8 | Economy of Jammu and Kashmir | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI | By Tawqeer Sir" youtubeId="igJApxTMtm8" duration="2:40:38" position="8">
+    <pdf driveFileId="1XhVHW7bEgeSf0owzUWnfG81XF92fI1VN" url=""/>
+  </video>
+  <video id="v1009" title="Lec 9 | Energy Sources of Jammu and Kashmir | Power Projects of J&amp;K GK for JKSSB FAA SI MTS JA JKPSI" youtubeId="fMWr9D9gldE" duration="1:22:40" position="9">
+    <pdf driveFileId="1XHBc3yQyhROkTAZjcbVKeIBpWSnIrG-M" url=""/>
+  </video>
+  <video id="v1010" title="Lec 10 | Transport and Communication on Jammu and Kashmir | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI" youtubeId="G93O_0wZnyE" duration="1:47:05" position="10">
+    <pdf driveFileId="1aU00IzYng3lvUxG8R0Y-o7nAd8y0gMCI" url=""/>
+  </video>
+  <video id="v1011" title="Lec 11 | Part 1 | Tourist Places of Jammu | J&amp;K GK for JKSSB FAA SI MTS JA JKPSI Constable" youtubeId="HbsNaWeydPo" duration="1:45:13" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+<playlist id="pl113" title="General Knowledge (India) JKP Constable" youtubePlaylistId="PLfM9ONl2Lh0Lyg4QpJ79kdR6Q8z0u5940">
+  <video id="v1101" title="Indian National Congress | Indian freedom Movement | Lecture 1 | JKSSB Exams | Asif Rafiq" youtubeId="LxDXf-gyGXA" duration="14:24" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1102" title="MODERATES &amp; RISE OF EXTREMISM | Indian freedom Movement | Lecture 2 | JKSSB Exams | Asif Rafiq" youtubeId="NJBTP5thuP0" duration="29:55" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1103" title="Partition of Bengal | Swadeshi &amp; Boycott Movement | Indian Freedom Movement | Lecture 3 |JKSSB Exams" youtubeId="RxMOVzYxEsw" duration="33:39" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1104" title="Muslim League and Surat Split | Indian Freedom Movement | Lecture 4 | JKSSB Exams | Asif Rafiq" youtubeId="1XBtewz1kaE" duration="27:34" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1105" title="TOP 15 MCQ's on Indian Freedom Movement | General Knowledge | Lecture 5 | JKSSB Exams | Asif Rafiq" youtubeId="2Vyh_ZdKgJQ" duration="14:49" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1106" title="Revolutionary Activities | Indian Freedom Movement | GK | LECTURE 6 | JKSSB Exams | Asif Rafiq" youtubeId="lgg1F-Y2iJU" duration="16:46" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1107" title="GADAR PARTY &amp; GADAR MOVEMENT | INDIAN FREEDOM MOVEMENT | LECTURE 7 | JKSSB/JKPSC Exams | ASIF RAFIQ" youtubeId="o4jhrVvvANo" duration="21:52" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1108" title="Home Rule Movement &amp; Lucknow Pact | Indian Freedom Movement | JKSSB Exams | Lecture 8 | Asif Rafiq" youtubeId="wI-qF0jiEyg" duration="17:13" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1109" title="The Gandhian Era | Gandhi in Africa | Indian Freedom Movement | Lecture 9 | JKSSB Exams |Asif Rafiq" youtubeId="5KMVul5R4VM" duration="18:56" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1110" title="GANDHIAN ERA - GANDHI IN INDIA | Indian Freedom Movement | LECTURE 10 | JKSSB JKPSC Exams | Asif Sir" youtubeId="y0jS1kAX5h8" duration="19:00" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1111" title="Rowlatt Act &amp; Jallianwala Bagh Massacre - History | Indian Freedom Movement | JKSSB Exams | Asif Sir" youtubeId="qY6fX7axEhE" duration="25:01" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1112" title="Non -cooperation &amp; Khilafat movement | Indian Freedom Movement | Lecture 12 | JKSSB Exams | Asif Sir" youtubeId="9UuKNXJx4rQ" duration="29:18" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1113" title="Swaraj Party and Simon Commission- History | Indian Freedom Movement|Lecture13| JKSSB Exams|Asif Sir" youtubeId="N_2Kkty6v9s" duration="30:13" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1114" title="Nehru Report and Poorna Swaraj- History | Indian Freedom Movement|Lecture14| JKSSB Exams|Asif Sir" youtubeId="uDrq33rHNik" duration="21:26" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1115" title="CIVIL DISOBEDIENCE MOVEMENT | INDIAN FREEDOM MOVEMENT | LECTURE 15 | JKSSB, JKPSC EXAMS" youtubeId="kM3n9EygSso" duration="22:43" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1116" title="Round Table conferences | Indian Freedom Movement | Lecture 16 | JKSSB, JKPSC, Exams" youtubeId="OGqLscGONiE" duration="24:54" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1117" title="Quit India Movement | Indian Freedom Movement | Lecture 17 | JKSSB Exams | Asif Rafiq" youtubeId="DU5BpugU7BI" duration="35:28" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1118" title="Bombay Plan | C R Formula | INA | Wavell Plan Indian Freedom Movement | Lecture 18 | JKSSB Exams" youtubeId="blM9GVeDlaU" duration="36:41" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1119" title="INA Trials and Cabinet Mission | Indian Freedom Movement | Lecure 19 | JKSSB Exams" youtubeId="LbeAioqvEms" duration="29:11" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1120" title="Mountbatten Plan and Indian freedom | Indian Freedom Movement | Lecture 20 | JKSSB Exams" youtubeId="DvVQZdh0aBw" duration="17:49" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1121" title="First in the World | By Tawqeer Sir | For JKSSB SSC CGL" youtubeId="vnIijt6FKIw" duration="17:48" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1122" title="First in India | By Tawqeer Sir | For JKSSB SSC CGL CHSL" youtubeId="BjfN2AStwXM" duration="30:32" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1123" title="Popular Personalities | By Tawqeer Sir | For JKSSB JKPSC NDS SSC CGL CHSL and other exams" youtubeId="X4A1NG69y0Y" duration="50:47" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1124" title="Books and Authors | By Zeeshan Sir | For JKSSB JKPSC and other competetive Exams" youtubeId="UleZCVnqQvQ" duration="18:22" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1125" title="Important Places and Persons | By Zeeshan Sir |For JKSSB and other Competitive Exams" youtubeId="p0KgxVgEvaI" duration="41:49" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1126" title="Classical Languages #currentaffairs #UPSC #JKSSB" youtubeId="eXPXrOWydf8" duration="0:38" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1127" title="United Nations Organization UNO | International Organisations| For JKSSB Constable" youtubeId="spajm7KUwkM" duration="24:27" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1128" title="SAARC and ASEAN | For JKSSB CONSTABLE and other competitive Exams | By Showkat Sir" youtubeId="r8mRBWwuccM" duration="19:04" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1129" title="Sports | By Tawqeer Sir | For JKSSB SSC CGL SSC CHSL" youtubeId="zX4EQzj5SXY" duration="46:43" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1130" title="Climate of India | Indian Weather | Monsoon | Tawqeer Sir | One Shot | For All Competitive Exams" youtubeId="wXYfvTl6ELI" duration="1:33:50" position="30">
+    <pdf driveFileId="1XflzoulIMf0LDjJaHRmEqA2T_e7H1Znx" url=""/>
+  </video>
+  <video id="v1131" title="Top MCQs on Climate of India | Indian Monsson | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="oKeO2IuJ2gk" duration="54:49" position="31">
+    <pdf driveFileId="1kNaRfapP6tiXLiJJsR6UI3e9SPBEWY9L" url=""/>
+  </video>
+  <video id="v1132" title="Crops of India | Indian Agriculture | ONE SHOT | For JKSSB JKPSC NDA UPSC|By Tawqeer Sir" youtubeId="jN8PnQP2afg" duration="58:26" position="32">
+    <pdf driveFileId="12hRHhk-QDV86lQx5gCFQh699ansEvdmg" url=""/>
+  </video>
+  <video id="v1133" title="Top MCQs on Crops of India | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="862Xg5rbSXk" duration="34:31" position="33">
+    <pdf driveFileId="10EEGIT6_7Lw2P89ScvzRjrjQtZH-Nv2b" url=""/>
+  </video>
+  <video id="v1134" title="2024 Updated | Top Crop Producing States of India | For JKSSB JKPSC UPSC SSC IBPS RRB | Tawqeer Sir" youtubeId="cHd4lRX92Wo" duration="16:13" position="34">
+    <pdf driveFileId="1jjDkDjrgoezVrnsvG8IKo8CaZFcK7McE" url=""/>
+  </video>
+  <video id="v1135" title="Indian Polity Constitution Marathon | For JKSSB SSC IBPS UPSC RRB | By Tawqeer SIr" youtubeId="mLc5i2uvm8w" duration="5:32:35" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1136" title="Physical &amp; Political Divisions of World | One Shot | By Tawqeer Sir" youtubeId="qpISxkoOloo" duration="48:13" position="36">
+    <pdf driveFileId="1ZP3tCpcBa2RJmtmhWQmKe4OuNHckYaMr" url=""/>
+  </video>
+  <video id="v1137" title="Top MCQ'S on Physical and Political Divisions of the world | Session 2 |For JKSSB JKPSC NDA, UPSC" youtubeId="2RA5cGWKnyY" duration="49:31" position="37">
+    <pdf driveFileId="1cWQqdbkVAotMgmoLMJg86Elk4y5tIMku" url=""/>
+  </video>
+  <video id="v1138" title="Physical and Political Divisions of India | Indian Geography | ONE SHOT | Physiography of India" youtubeId="HHyl1pzIpyQ" duration="59:21" position="38">
+    <pdf driveFileId="1Bv0-w0FR9KGLSl7um2wVbnqOc84Rw-90" url=""/>
+  </video>
+  <video id="v1139" title="Top MCQs on Physical and Political Divisions of India | For JKSSB Naib Tehsildar Patwari SI" youtubeId="98NNur7e36A" duration="58:03" position="39">
+    <pdf driveFileId="1Q4QtR2mFLyN832u6LB5apHeA16viPRfS" url=""/>
+  </video>
+  <video id="v1140" title="Rivers of India | ONE SHOT | By Tawqeer Sir | For All Competitive Exams" youtubeId="iDmBlSbxiy8" duration="1:22:31" position="40">
+    <pdf driveFileId="1J4GRbi6UJifVfyWqGNXGDEtQ9V7APmNI" url=""/>
+  </video>
+  <video id="v1141" title="Top MCQs on Rivers of India | For JKSSB JKPSC NDA UPSC | By Tawqeer Sir" youtubeId="20EgHcpUAd8" duration="46:21" position="41">
+    <pdf driveFileId="1zFDCBLFQU5wH5nW2Cm99dTKw9etaX7VK" url=""/>
+  </video>
+  <video id="v1142" title="Lakes Of India | ONE SHOT | By Tawqeer Sir | For JKSSB JKPSC UPSC NDA" youtubeId="CZjLQ6CCAb0" duration="59:24" position="42">
+    <pdf driveFileId="1LAzTQifvBNXwp8PI43V2-SvtBV7DelSk" url=""/>
+  </video>
+  <video id="v1143" title="Government Schemes of Jammu and Kashmir | Lecture 1 | JKSSB Exams | JKPSC | UPSC | By Bisma Ma'am" youtubeId="RyO-fyaoBW4" duration="14:38" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1144" title="Government Schemes of Jammu and Kashmir | Lecture 2 | JKSSB Exams | JKPSC | UPSC | By Bisma Ma'am" youtubeId="tCU6_WrdXso" duration="16:50" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1145" title="Government Schemes of Jammu and Kashmir | Lecture 3 | JKSSB Exams | JKPSC | UPSC | By Bisma Ma'am" youtubeId="ZMOMwwny0fs" duration="16:42" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1146" title="Government Schemes of Jammu and Kashmir | Lecture 4 | JKSSB Exams | JKPSC | UPSC | By Bisma Ma'am" youtubeId="qcwC0eLIGBk" duration="13:20" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+
+
+
+
+<playlist id="pl114" title="Numerical And Reasoning Ability JKP Constable" youtubePlaylistId="PLfM9ONl2Lh0Lqvsw0WgpfsRFXoC510XOw">
+  <video id="v1201" title="Number System | Lec 1 | Real Numbers, Integers, Rational | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="X9p01_AG6qg" duration="33:56" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1202" title="Number System | Lec 2 | Important MCQ's | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="WbSmFWWu2Ko" duration="29:08" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1203" title="Number System | Lec 3 | Divisibility Rules &amp; Tricks | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="e7NMic2IaAc" duration="38:43" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1204" title="Number System | Lec 4 | Divisibility Rules &amp; Tricks | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="Zh51rFlesZ4" duration="41:07" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1205" title="Number System | Lec 5 | Remainder Theorem | Maths | JKSSB Forester &amp; Supervisor Exams" youtubeId="r3Raq-2Y2qQ" duration="34:00" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1206" title="Number System | Lec 6 | Negative Remainder Concept &amp; MCQ's |Maths |JKSSB Forester &amp; Supervisor Exams" youtubeId="q5FvzFdjtS0" duration="35:02" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1207" title="Number System | Lec 7 | Unit Digit Concept |Maths | JKSSB Forester &amp; Supervisor Exams | By Tariq Sir" youtubeId="pAK4TvGSnTM" duration="1:02:02" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1208" title="Number System | Lec 8 | Unit Digit Concept &amp; MCQ's |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="5pzTqZVTMQQ" duration="28:55" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1209" title="Number System | Lec 9 | Simplification -01 |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="8dfGjB8T_LE" duration="1:02:16" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1210" title="Number System | Lec 10 | Simplification -02 &amp; MCQ's |Maths | JKSSB Forester &amp; Supervisor Exams |" youtubeId="EzDUK91EPAM" duration="58:04" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1211" title="Number System | Lecture 11 | Ladder Fraction , Mixed Fraction &amp; Calculation | Maths for JKSSB Exams" youtubeId="87UOh3HMj_k" duration="57:41" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1212" title="Number System | Lecture 12 | Digital Sum Concept | Maths for JKSSB Exams | By Tariq Sir" youtubeId="cXGOjqtxVxI" duration="51:41" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1213" title="Percentage | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="3gn3AhIr378" duration="43:42" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1214" title="Percentage | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="8cUlJsPG1zM" duration="1:12:39" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1215" title="Average | Lecture 01 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="0o9z9xtvPZA" duration="40:57" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1216" title="Average | Lecture 02 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="EtSE07cE6dw" duration="37:39" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1217" title="Average | Lecture 03 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="DWATQfvCCl8" duration="43:54" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1218" title="Average | Lecture 04 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="meaicm_to84" duration="40:48" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1219" title="Average | Lecture 05 | Mathematics| Basic to Advance Level | JKSSB Exams , SSC, UPSC, | Tariq Sir" youtubeId="eLzLzUobwRc" duration="47:50" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1220" title="Profit &amp; Loss | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="2RsvA2INbRA" duration="1:03:01" position="20">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1221" title="Profit &amp; Loss | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="ysSg6YGnLYo" duration="1:18:30" position="21">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1222" title="Time, Speed &amp; Distance | Lecture 1 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="SXRJJPZsLGk" duration="1:04:28" position="22">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1223" title="Time, Speed &amp; Distance | Lecture 2 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="WCx8rkcuajM" duration="1:02:09" position="23">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1224" title="Time, Speed &amp; Distance | Lecture 3 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="o_Cd8ZKsdEA" duration="38:39" position="24">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1225" title="Time, Speed &amp; Distance | Lecture 4 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="M98SaQLOlWI" duration="45:26" position="25">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1226" title="Time, Speed &amp; Distance | Lecture 5 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="5FV3HoU4rOY" duration="50:29" position="26">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1227" title="Time, Speed &amp; Distance | Lecture 6 | JKSSB, SSC, Railway Exams |Basic to Advanced Concepts &amp; MCQs" youtubeId="ESVzPO5mElw" duration="37:53" position="27">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1228" title="Ratio &amp; Proportion | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="DRY73nckB2M" duration="40:55" position="28">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1229" title="Ratio &amp; Proportion | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="XZiEx2nFb-k" duration="54:46" position="29">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1230" title="Ratio &amp; Proportion | Lecture 3 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="yukCaWTJG-Y" duration="42:52" position="30">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1231" title="Ratio &amp; Proportion | Lecture 4 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="E4iqcNVHN9k" duration="51:01" position="31">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1232" title="Symbolic/Mathematical Operations ||Part-01 || Reasoning for JKSSB VLW &amp; other competitive exams" youtubeId="upty-cx91CE" duration="1:01:33" position="32">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1233" title="Symbolic/Mathematical Operations ||Part 2 (Last) | Reasoning for JKSSB VLW &amp; other competitive exams" youtubeId="kUuWGiQLaxo" duration="38:11" position="33">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1234" title="Lec 01 -Mensuration - Triangles Area and Perimeter | By Yawar Sir | Maths/Aptitude for JKSSB Exams" youtubeId="9vbal8QUAX0" duration="58:14" position="34">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1235" title="Lec 02 - Mensuration | Maths/Aptitude | Veterinary Pharmacist/ Stock Assistant | By Yawar Sir" youtubeId="RUDM_Q9-isQ" duration="38:24" position="35">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1236" title="Lec 03 - Mensuration | Rectangle | Maths/Aptitude | Veterinary Pharmacist | By Yawar Sir" youtubeId="n-lfuUtEehU" duration="56:16" position="36">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1237" title="Lec 04 - Mensuration | Square and Rhombus| Maths/Aptitude | Veterinary Pharmacist | By Yawar Sir" youtubeId="LttVdfPhunU" duration="1:05:27" position="37">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1238" title="2D Mensuration | Part 1 | Triangle | One Shot video | Quantitative Aptitude for VLW by Asif Sir" youtubeId="Aklvq9oEv58" duration="45:46" position="38">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1239" title="2D Mensuration | Last Part | Quadrilaterals | Polygons etc Quantitative Aptitude for VLW by Asif Sir" youtubeId="5AWORBq1X5A" duration="1:14:33" position="39">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1240" title="TOP MCQ's on 2D Mensuration | Previous Year Questions | Quantitative Aptitude | JKSSB VLW Exam" youtubeId="ULWhl0Ede1w" duration="38:36" position="40">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1241" title="3D Mensuration | Cube &amp; Cubiod | Lecture 7 | Quantitative Aptitude for JKSSB VLW Exam by Asif Sir" youtubeId="VB1ay633FSg" duration="27:22" position="41">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1242" title="3D Mensuration | Cylinder, Cone, Sphere &amp; HemiSphere| Lecture 8 | Quantitative Aptitude for VLW Exam" youtubeId="fjJBQSNFC8k" duration="32:37" position="42">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1243" title="TOP MCQ's on 3D Mensuration | Lecture 9 | Quantitative Aptitude for JKSSB VLW Exam by Asif Sir" youtubeId="gkRNfKyRojo" duration="32:10" position="43">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1244" title="Top Questions on 3D Mensuration | JKSSB VLW Exam" youtubeId="cS3r9yuXqP0" duration="19:12" position="44">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1245" title="Decimal and Fractions | Part 01| Quantitative Aptitude for JKSSB VLW &amp; other exams by Muneeb sir" youtubeId="jE3VkBCb7ms" duration="34:51" position="45">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1246" title="Decimal and Fractions | Part 02| Quantitative Aptitude for JKSSB VLW &amp; other exams by Muneeb sir" youtubeId="Ygooyxm3Gbo" duration="31:33" position="46">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1247" title="Fractions &amp; decimal || Lecture 3 || Quantitative Aptitude || for | VLW | SSC etc by Muneeb sir" youtubeId="RvpTB_jdFsg" duration="34:36" position="47">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1248" title="Simple Interest | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="JlgbD5h2FE8" duration="46:51" position="48">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1249" title="Simple Interest | Lecture 2 | | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="9YkQ4OPWB5Q" duration="42:07" position="49">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1250" title="Compound Interest | Lecture 1 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="CFpgVkfw9Xs" duration="39:35" position="50">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1251" title="Compound Interest | Lecture 2 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="tPeBh8rEZ0U" duration="50:23" position="51">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1252" title="Compound Interest | Lecture 3 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="h2_0_5nmyN0" duration="46:41" position="52">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1253" title="Compound Interest | Lecture 4 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="_Dy90HNSuDc" duration="31:45" position="53">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1254" title="Compound Interest | Lecture 5 | Mathematics | JKSSB Supervisor &amp; Forester Exam | Tariq Sir" youtubeId="5MRdrcuVIbw" duration="34:05" position="54">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1255" title="Trigonometry Lecture 01 || Quantitative Aptitude for JKSSB VLW Exam by Muneeb sir" youtubeId="OYjHJ9ewmug" duration="32:43" position="55">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1256" title="Trigonometric ratios of complementary and Supplementary angles | Lec 11| JKSSB VLW Exam | Asif Sir" youtubeId="PQGGE_hn6vw" duration="44:19" position="56">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1257" title="Lec 01 || Number series | Reasoning for Competitive Exams || Reasoning lectures by Malik Sameer Sir" youtubeId="Z_Fv0psxEe0" duration="39:14" position="57">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1258" title="Lec 02 || Number series | final lecture | Reasoning for Competitive Exams || Malik Sameer Sir" youtubeId="P1A7-fcjs2Y" duration="1:09:09" position="58">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1259" title="Letter Series | Logical reasoning | Lecture 1 | JKPSI JKSSB Exams by Daanish Sir" youtubeId="W6LakFPfd_Y" duration="39:26" position="59">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1260" title="Coding Decoding - Master concept, Part 1/n| Tips/Tricks of Coding Decoding | Reasoning by Sameer Sir" youtubeId="NBkbXOXFHrE" duration="1:11:18" position="60">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1261" title="Coding Decoding - Magic Tricks | Part 2/2, Last Part| Reasoning For Competitive Exams by Sameer Sir" youtubeId="7wqGua70Etg" duration="37:32" position="61">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1262" title="Direction Sense Test, One shot || Direction sense full chapter in single video by Malik sameer sir" youtubeId="13pucu1vIxY" duration="1:14:25" position="62">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v1263" title="Blood Relation, One shot || Reasoning || Blood relation full chapter in one video by Malik Sameer" youtubeId="N_mI5eAA9m0" duration="1:09:36" position="63">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<playlist id="pl301" title="General English for JKSSB Constable Exam" youtubePlaylistId="PLfM9ONl2Lh0I9m21cfxA-M2Q3sEFfJkpi" marks="25">
+  <compiledPdfs>
+    <pdf title="" driveFileId="" />
+    <pdf title="" driveFileId="" />
+  </compiledPdfs>
+  <video id="v101" title="How to Improve English from Zero Level | For SSC CGL, CPO, BANK PO, CLERK, NDA, CDS | Tarun Grover" youtubeId="XiEiu8ylS9c" duration="11:52" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v102" title="💯 Best Method to Improve Vocabulary | SSC CGL/CHSL/CPO/MTS | Bank PO/Clerk | NDA/CDS | Tarun Grover" youtubeId="Lqz3P8rYVWQ" duration="55:07" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v103" title="Basics of English for Competitive Exams | SSC CGL/CHSL/CPO/CDS | Bank PO/Clerk | Tarun Grover" youtubeId="KtsBb6QEM4w" duration="3:40:36" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v104" title="Articles | Complete Chapter | English Grammar For SSC, Bank &amp; CDS | Tarun Grover" youtubeId="XbB3KxP-jH4" duration="1:26:00" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v105" title="Articles | English Grammar for All Competitive Exams | Lecture 2 | JKSSB VLW Exam | By Sumaira Mam" youtubeId="vcgvVY3vPhI" duration="21:01" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v106" title="Practice Questions on Article |A, An, The | English for competitive exams | JKSSB | SSC | NTPC etc" youtubeId="5bAub8z5FzE" duration="18:37" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v107" title="Prepositions | English Grammar for All Competitive Exams" youtubeId="S5kzypZ4yEs" duration="19:31" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v108" title="Pronouns | English Grammar for CET, SSC CGL, CPO, CHSL, CDS | SBI/IBPS PO/Clerk | Tarun Grover" youtubeId="rN5-V5RJslU" duration="4:02:47" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v109" title="100+ Exam Oriented Practice Questions on Pronouns | CET, SSC &amp; Bank Exam | Tarun Grover" youtubeId="B6KHK4e5E8U" duration="1:16:38" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v110" title="Homophones and Homonyms For NDA | Complete English For NDA 2 2024 | Learn With Sumit" youtubeId="izPJ_bqkFXM" duration="3:20:19" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v111" title="Complete Tenses For Competitive Exams | SSC CGL, CHSL, CPO, CDS, Bank PO-Clerk | Tarun Grover" youtubeId="RA94k_N0FA8" duration="5:23:19" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v112" title="100+ Exam Oriented Practice Questions | Tenses | CET, SSC CGL,CHSL, CDS, Bank Exam | Tarun Grover" youtubeId="YcqnlNkoOiQ" duration="1:46:14" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v113" title="पूरा Punctuation एक Video में खत्म || For TGT, PGT, CSIR, BPSC TRE || English With Rani Ma'am" youtubeId="N9MUcZIOPOE" duration="2:12:11" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v114" title="CUET 2024 | Synonyms and Antonyms | CUET English | CUET Preparation" youtubeId="dDkdGeYsFtM" duration="50:37" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v115" title="CUET 2024 English Language | Analogy (Concept + Questions) | Part 1 | By Rubaika Ma'am" youtubeId="gLBJkdaFw0U" duration="1:02:26" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v116" title="Prepositions Complete Chapter | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="vC2_hacfr7I" duration="2:10:44" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v117" title="Prepositions 100+ Practice Questions | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="teXsE4ilFC4" duration="46:00" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v118" title="Idioms &amp; Phrases | 2010 से अब तक | English | One Shot | Zero to Hero | For SSC CHSL" youtubeId="IL1GEzUipJw" duration="40:39" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v119" title="English Grammar Practice for all Competitive Exams | SSC CGL/CHSL/CPO | Bank PO/Clerk | NDA/CDS" youtubeId="3gr2j0sXUng" duration="1:16:52" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+  </playlists>
+</course>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <course id="c002" title="JKSSB Junior Assistant 2026" image="assets/JA_Course_Header.png">
     <description>Free JKSSB Junior Assistant Course</description>
 
@@ -1382,89 +2119,9 @@ youtubePlaylistId="PLfM9ONl2Lh0JK2O-J-0b6ZUzyO7-lArK9" marks="20">
 
 
 
-<course id="c003" title="JKSSB JKP Constable 2026" image="assets/Constable_Course_Header.png">
-    <description>Free Complete JKSSB JKP Constable Course</description>
-    <playlists>
-      
-      
-  <playlist id="pl301" title="General English for JKSSB Constable Exam" youtubePlaylistId="PLfM9ONl2Lh0I9m21cfxA-M2Q3sEFfJkpi" marks="25">
-  <compiledPdfs>
-    <pdf title="" driveFileId="" />
-    <pdf title="" driveFileId="" />
-  </compiledPdfs>
-  <video id="v101" title="How to Improve English from Zero Level | For SSC CGL, CPO, BANK PO, CLERK, NDA, CDS | Tarun Grover" youtubeId="XiEiu8ylS9c" duration="11:52" position="1">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v102" title="💯 Best Method to Improve Vocabulary | SSC CGL/CHSL/CPO/MTS | Bank PO/Clerk | NDA/CDS | Tarun Grover" youtubeId="Lqz3P8rYVWQ" duration="55:07" position="2">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v103" title="Basics of English for Competitive Exams | SSC CGL/CHSL/CPO/CDS | Bank PO/Clerk | Tarun Grover" youtubeId="KtsBb6QEM4w" duration="3:40:36" position="3">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v104" title="Articles | Complete Chapter | English Grammar For SSC, Bank &amp; CDS | Tarun Grover" youtubeId="XbB3KxP-jH4" duration="1:26:00" position="4">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v105" title="Articles | English Grammar for All Competitive Exams | Lecture 2 | JKSSB VLW Exam | By Sumaira Mam" youtubeId="vcgvVY3vPhI" duration="21:01" position="5">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v106" title="Practice Questions on Article |A, An, The | English for competitive exams | JKSSB | SSC | NTPC etc" youtubeId="5bAub8z5FzE" duration="18:37" position="6">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v107" title="Prepositions | English Grammar for All Competitive Exams" youtubeId="S5kzypZ4yEs" duration="19:31" position="7">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v108" title="Pronouns | English Grammar for CET, SSC CGL, CPO, CHSL, CDS | SBI/IBPS PO/Clerk | Tarun Grover" youtubeId="rN5-V5RJslU" duration="4:02:47" position="8">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v109" title="100+ Exam Oriented Practice Questions on Pronouns | CET, SSC &amp; Bank Exam | Tarun Grover" youtubeId="B6KHK4e5E8U" duration="1:16:38" position="9">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v110" title="Homophones and Homonyms For NDA | Complete English For NDA 2 2024 | Learn With Sumit" youtubeId="izPJ_bqkFXM" duration="3:20:19" position="10">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v111" title="Complete Tenses For Competitive Exams | SSC CGL, CHSL, CPO, CDS, Bank PO-Clerk | Tarun Grover" youtubeId="RA94k_N0FA8" duration="5:23:19" position="11">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v112" title="100+ Exam Oriented Practice Questions | Tenses | CET, SSC CGL,CHSL, CDS, Bank Exam | Tarun Grover" youtubeId="YcqnlNkoOiQ" duration="1:46:14" position="12">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v113" title="पूरा Punctuation एक Video में खत्म || For TGT, PGT, CSIR, BPSC TRE || English With Rani Ma'am" youtubeId="N9MUcZIOPOE" duration="2:12:11" position="13">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v114" title="CUET 2024 | Synonyms and Antonyms | CUET English | CUET Preparation" youtubeId="dDkdGeYsFtM" duration="50:37" position="14">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v115" title="CUET 2024 English Language | Analogy (Concept + Questions) | Part 1 | By Rubaika Ma'am" youtubeId="gLBJkdaFw0U" duration="1:02:26" position="15">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v116" title="Prepositions Complete Chapter | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="vC2_hacfr7I" duration="2:10:44" position="16">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v117" title="Prepositions 100+ Practice Questions | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="teXsE4ilFC4" duration="46:00" position="17">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v118" title="Idioms &amp; Phrases | 2010 से अब तक | English | One Shot | Zero to Hero | For SSC CHSL" youtubeId="IL1GEzUipJw" duration="40:39" position="18">
-    <pdf driveFileId="" url=""/>
-  </video>
-  <video id="v119" title="English Grammar Practice for all Competitive Exams | SSC CGL/CHSL/CPO | Bank PO/Clerk | NDA/CDS" youtubeId="3gr2j0sXUng" duration="1:16:52" position="19">
-    <pdf driveFileId="" url=""/>
-  </video>
-</playlist>
 
 
 
-
-
-
-
-
-
-
-
-
-
-  </playlists>
-</course>
 
 
 
