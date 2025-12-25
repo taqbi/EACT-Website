@@ -1366,11 +1366,115 @@ youtubePlaylistId="PLfM9ONl2Lh0JK2O-J-0b6ZUzyO7-lArK9" marks="20">
 </playlist>
 
 
-
-
-
 </playlists>
 </course>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<course id="c003" title="JKSSB JKP Constable 2026" image="assets/Constable_Course_Header.png">
+    <description>Free Complete JKSSB JKP Constable Course</description>
+    <playlists>
+      
+      
+  <playlist id="pl301" title="General English for JKSSB Constable Exam" youtubePlaylistId="PLfM9ONl2Lh0I9m21cfxA-M2Q3sEFfJkpi" marks="25">
+  <compiledPdfs>
+    <pdf title="" driveFileId="" />
+    <pdf title="" driveFileId="" />
+  </compiledPdfs>
+  <video id="v101" title="How to Improve English from Zero Level | For SSC CGL, CPO, BANK PO, CLERK, NDA, CDS | Tarun Grover" youtubeId="XiEiu8ylS9c" duration="11:52" position="1">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v102" title="💯 Best Method to Improve Vocabulary | SSC CGL/CHSL/CPO/MTS | Bank PO/Clerk | NDA/CDS | Tarun Grover" youtubeId="Lqz3P8rYVWQ" duration="55:07" position="2">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v103" title="Basics of English for Competitive Exams | SSC CGL/CHSL/CPO/CDS | Bank PO/Clerk | Tarun Grover" youtubeId="KtsBb6QEM4w" duration="3:40:36" position="3">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v104" title="Articles | Complete Chapter | English Grammar For SSC, Bank &amp; CDS | Tarun Grover" youtubeId="XbB3KxP-jH4" duration="1:26:00" position="4">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v105" title="Articles | English Grammar for All Competitive Exams | Lecture 2 | JKSSB VLW Exam | By Sumaira Mam" youtubeId="vcgvVY3vPhI" duration="21:01" position="5">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v106" title="Practice Questions on Article |A, An, The | English for competitive exams | JKSSB | SSC | NTPC etc" youtubeId="5bAub8z5FzE" duration="18:37" position="6">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v107" title="Prepositions | English Grammar for All Competitive Exams" youtubeId="S5kzypZ4yEs" duration="19:31" position="7">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v108" title="Pronouns | English Grammar for CET, SSC CGL, CPO, CHSL, CDS | SBI/IBPS PO/Clerk | Tarun Grover" youtubeId="rN5-V5RJslU" duration="4:02:47" position="8">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v109" title="100+ Exam Oriented Practice Questions on Pronouns | CET, SSC &amp; Bank Exam | Tarun Grover" youtubeId="B6KHK4e5E8U" duration="1:16:38" position="9">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v110" title="Homophones and Homonyms For NDA | Complete English For NDA 2 2024 | Learn With Sumit" youtubeId="izPJ_bqkFXM" duration="3:20:19" position="10">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v111" title="Complete Tenses For Competitive Exams | SSC CGL, CHSL, CPO, CDS, Bank PO-Clerk | Tarun Grover" youtubeId="RA94k_N0FA8" duration="5:23:19" position="11">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v112" title="100+ Exam Oriented Practice Questions | Tenses | CET, SSC CGL,CHSL, CDS, Bank Exam | Tarun Grover" youtubeId="YcqnlNkoOiQ" duration="1:46:14" position="12">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v113" title="पूरा Punctuation एक Video में खत्म || For TGT, PGT, CSIR, BPSC TRE || English With Rani Ma'am" youtubeId="N9MUcZIOPOE" duration="2:12:11" position="13">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v114" title="CUET 2024 | Synonyms and Antonyms | CUET English | CUET Preparation" youtubeId="dDkdGeYsFtM" duration="50:37" position="14">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v115" title="CUET 2024 English Language | Analogy (Concept + Questions) | Part 1 | By Rubaika Ma'am" youtubeId="gLBJkdaFw0U" duration="1:02:26" position="15">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v116" title="Prepositions Complete Chapter | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="vC2_hacfr7I" duration="2:10:44" position="16">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v117" title="Prepositions 100+ Practice Questions | For CET, SSC, CPO, CDS. Railway &amp; Bank Exams | Tarun Grover" youtubeId="teXsE4ilFC4" duration="46:00" position="17">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v118" title="Idioms &amp; Phrases | 2010 से अब तक | English | One Shot | Zero to Hero | For SSC CHSL" youtubeId="IL1GEzUipJw" duration="40:39" position="18">
+    <pdf driveFileId="" url=""/>
+  </video>
+  <video id="v119" title="English Grammar Practice for all Competitive Exams | SSC CGL/CHSL/CPO | Bank PO/Clerk | NDA/CDS" youtubeId="3gr2j0sXUng" duration="1:16:52" position="19">
+    <pdf driveFileId="" url=""/>
+  </video>
+</playlist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </playlists>
+</course>
+
+
+
+
+
+
+
+
+
+
 
 
 
