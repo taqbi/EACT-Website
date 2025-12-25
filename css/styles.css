@@ -1549,43 +1549,50 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 }
 
 .course .course-stats {
-    display: flex;
-    flex-wrap: wrap; /* Allow badges to wrap on smaller screens */
-    gap: 20px;
-    margin-top: 20px; /* More space above the badges */
-    font-weight: 500;
-    color: #343a40;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin-top: 20px;
+    text-align: center;
 }
 
-.course .total-videos-meta { /* Base style for stat badges */
-    /* Badge-like styling for stats */
-    padding: 8px 15px; /* Larger padding for a bolder look */
-    border-radius: 15px;
-    font-size: 0.99em;
+.course .stat-item {
+    background-color: #f8f9fa;
+    padding: 15px 10px;
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.course .stat-item:hover {
+    transform: translateY(-3px);
+    background-color: #f1f3f5;
+}
+
+.course .stat-item i {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.course .stat-item .stat-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1f2a44;
+    display: block;
+    line-height: 1.2;
+}
+
+.course .stat-item .stat-label {
+    font-size: 0.8rem;
+    color: #6c757d;
     font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    border: 1px solid rgba(255, 255, 255, 0.5); /* Light border for glass effect */
+    text-transform: uppercase;
 }
 
-/* Specific color for Video stats */
-.course .video-stat {
-    background: linear-gradient(135deg, #e0f2fe, #bae6fd); /* Soft Blue Gradient */
-    color: #0c4a6e; /* Darker Blue text */
-}
-
-/* Specific color for PDF stats */
-.course .pdf-stat {
-    background: linear-gradient(135deg, #dcfce7, #bbf7d0); /* Soft Green Gradient */
-    color: #065f46; /* Darker Green text */
-}
-
-/* Specific color for Hours stat */
-.course .hours-stat {
-    background: linear-gradient(135deg, #ede9fe, #ddd6fe); /* Soft Purple Gradient */
-    color: #5b21b6; /* Darker Purple text */
-}
+.course .hours-stat i { color: #5b21b6; }
+.course .video-stat i { color: #0c4a6e; }
+.course .pdf-stat i { color: #065f46; }
 
 /* Container for the Explore button */
 .explore-btn-container {
@@ -1619,111 +1626,134 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     padding-top: 15px;
 }
 
-/* Individual Playlist Item */
-.playlist {
-    padding: 0; /* Remove padding to allow header to be full-width */
-    margin: 6px 0;
-    cursor: pointer;
-    background-color: #ffffff;
-    border-radius: 10px; /* This ensures the card has rounded corners */
-    border: 1px solid #d0d7de; /* This adds a thin, visible border */
+/* Playlist Cards inside Single Course View */
+#single-course-view .playlists {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.playlist-card {
+    background: linear-gradient(145deg, #f9f9ff, #eef2ff); /* Light lavender gradient */
+    border-radius: 16px;
+    border: 1px solid transparent;
+    box-shadow: 0 8px 25px rgba(0, 30, 80, 0.07);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
     transition: all 0.3s ease;
-    overflow: hidden; /* Ensures the header corners are clipped correctly */
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
 }
 
-.playlist:hover {
-    transform: translateY(-3px) scale(1.01);
-    box-shadow: 0 8px 20px rgba(0, 30, 80, 0.1);
+.playlist-card::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle, rgba(79, 70, 229, 0.1), transparent 70%);
+    transition: transform 0.4s ease;
 }
 
-/* New container for header and marks tag */
-.playlist-header-container {
-    position: relative; /* This is the new anchor for the marks tag */
+.playlist-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0, 30, 80, 0.12);
 }
 
-.playlist-title-header {
-   background: linear-gradient(135deg, #4a5a8a, #1f2a44);
-    color: white;
-    padding: 12px 15px;
-    font-weight: bold;
-    font-size: 1.1rem;
+.playlist-card:hover::before {
+    transform: scale(1.2);
 }
 
-.playlist-meta-container {
-    padding: 15px;
-    padding-top: 20px; /* Add more space below the header */
+.playlist-card-header {
     display: flex;
     align-items: center;
-    justify-content: center; /* Center the badges */
     gap: 15px;
-    flex-wrap: wrap;
+    margin-bottom: 20px;
 }
 
-.playlist-stats, .compiled-pdf-btn {
-    margin: 0; /* Override the margin from the old rule */
-    text-decoration: none;
-    display: inline-flex; /* Use inline-flex to make it capsule-like */
-    align-items: center;
-    gap: 8px;
-    padding: 10px 20px; /* Increased padding for a bigger look */
-    border-radius: 20px;
+.playlist-icon {
+    font-size: 2rem;
+    color: #fff;
+    background: linear-gradient(135deg, #4f46e5, #6366f1);
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: grid;
+    place-items: center;
+    flex-shrink: 0;
+    box-shadow: 0 4px 10px rgba(79, 70, 229, 0.3);
+}
+
+.playlist-card-title {
+    font-size: 1.2rem;
     font-weight: 600;
-    font-size: 1rem; /* Larger font size */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Add a subtle shadow */
+    color: #1f2a44;
+    margin: 0;
+}
+
+.playlist-card-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.playlist-card-stats .stat {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #e9ecef;
+}
+
+.playlist-card-stats .stat-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    display: block;
+    line-height: 1.1;
+}
+
+.playlist-card-stats .stat-label {
+    font-size: 0.7rem;
+    color: #6c757d;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+/* Color coding for stats */
+.playlist-card-stats .video-stat .stat-value { color: #0c4a6e; }
+.playlist-card-stats .pdf-stat .stat-value { color: #065f46; }
+.playlist-card-stats .marks-stat .stat-value { color: #991b1b; }
+
+.playlist-card-footer {
+    margin-top: auto;
+    padding-top: 15px;
+}
+
+.explore-playlist-btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px 15px;
+    background: linear-gradient(135deg, #1f2a44, #4a5a8a);
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
     transition: all 0.3s ease;
 }
 
-.playlist-stats:hover {
+.playlist-card:hover .explore-playlist-btn {
+    background: linear-gradient(135deg, #4a5a8a, #1f2a44);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-}
-
-.playlist-stats {
-    background-color: #e0f2fe; /* Using the same blue as the course card video stat */
-    color: #0c4a6e;
-}
-
-/* Styling for the Compiled PDF button and individual PDF count badge */
-.compiled-pdf-btn {
-    background-color: #dcfce7; /* Using the same green as the course card pdf stat */
-    color: #065f46;
 }
 
 .playlist-stats .fas, .compiled-pdf-btn .fas {
     font-size: 1.1em; /* Make the icon slightly larger than the text */
     margin-right: 2px;
-}
-
-/* Styling for the new Marks badge */
-.marks-stat {
-    position: absolute; /* Now relative to .playlist-header-container */
-    bottom: -15px; /* Position it below the header, overlapping slightly for style */
-    right: 0;
-    background: linear-gradient(135deg, #f59e0b, #d97706); /* Richer amber gradient */
-    color: white;
-    padding: 6px 15px;
-    font-weight: bold;
-    font-size: 0.9em;
-     box-shadow: -3px 3px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 0 0 0 8px; /* Rounded bottom-left corner */
-    z-index: 1; /* Ensure it sits above the meta container */
-
-}
-
-/* Dog-ear fold effect */
-.marks-stat::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -10px; /* Width of the fold */
-    border-style: solid;
-    border-width: 0 10px 10px 0; /* Creates the triangle shape */
-    border-color: transparent #92400e transparent transparent; /* Darker shade for the fold's shadow */
-}
-
-.playlist-meta-container .pdf-stat {
-    background-color: #dcfce7;
-    color: #065f46;
 }
 
 /* Header for the video list inside the course page */

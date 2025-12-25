@@ -1176,9 +1176,21 @@ document.addEventListener('DOMContentLoaded', function () {
                     <div class="course-card-header" style="background-image: url('${image}');"><h3>${title}</h3></div>
                     <div class="course-description">${desc}</div>
                     <div class="course-stats">
-                        <div class="meta total-videos-meta hours-stat"><i class="fas fa-clock"></i> ~${totalHours} Hours</div>
-                        <div class="meta total-videos-meta video-stat"><i class="fas fa-video"></i> Videos: <strong>${totalVideos}</strong></div>
-                        <div class="meta total-videos-meta pdf-stat"><i class="fas fa-file-pdf"></i> PDFs: <strong>${totalPdfs}</strong></div>
+                        <div class="stat-item hours-stat">
+                            <i class="fas fa-clock"></i>
+                            <span class="stat-value">~${totalHours}</span>
+                            <span class="stat-label">Hours</span>
+                        </div>
+                        <div class="stat-item video-stat">
+                            <i class="fas fa-video"></i>
+                            <span class="stat-value">${totalVideos}</span>
+                            <span class="stat-label">Videos</span>
+                        </div>
+                        <div class="stat-item pdf-stat">
+                            <i class="fas fa-file-pdf"></i>
+                            <span class="stat-value">${totalPdfs}</span>
+                            <span class="stat-label">PDFs</span>
+                        </div>
                     </div>
                     <div class="explore-btn-container">
                         <button class="explore-btn">Explore Course <i class="fas fa-arrow-right"></i></button>
@@ -1228,30 +1240,40 @@ document.addEventListener('DOMContentLoaded', function () {
 
             playlistEls.forEach(pl => {
                 const plDiv = document.createElement('div');
-                plDiv.className = 'playlist';
+                plDiv.className = 'playlist-card';
                 const plTitle = pl.getAttribute('title') || 'Untitled playlist';
                 const plVideos = countVideosInPlaylist(pl);
                 const marks = pl.getAttribute('marks');
-
-                // --- PDF Count Logic ---
-                let pdfInfoHtml = '';
-                // For the playlist card, we will only show the total count of all PDFs.
                 const totalPdfCountForPlaylist = countAllPdfsInPlaylist(pl);
-                if (totalPdfCountForPlaylist > 0) {
-                    pdfInfoHtml = `<div class="playlist-stats pdf-stat"><i class="fas fa-file-pdf"></i> ${totalPdfCountForPlaylist} PDFs</div>`;
-                }
                 
-                let marksInfoHtml = '';
+                let marksHtml = '';
                 if (marks) {
-                    marksInfoHtml = `<div class="playlist-stats marks-stat"><i class="fas fa-check-circle"></i> ${marks} Marks</div>`;
+                    marksHtml = `
+                    <div class="stat marks-stat">
+                        <span class="stat-value">${marks}</span>
+                        <span class="stat-label">Marks</span>
+                    </div>`;
                 }
 
                 plDiv.innerHTML = `
-                    <div class="playlist-header-container">
-                        <div class="playlist-title-header">${plTitle}</div>
-                        ${marksInfoHtml}
+                    <div class="playlist-card-header">
+                        <i class="fas fa-list-alt playlist-icon"></i>
+                        <h4 class="playlist-card-title">${plTitle}</h4>
                     </div>
-                    <div class="playlist-meta-container"><div class="playlist-stats"><i class="fas fa-video"></i> ${plVideos} Videos</div>${pdfInfoHtml}</div>
+                    <div class="playlist-card-stats">
+                        <div class="stat video-stat">
+                            <span class="stat-value">${plVideos}</span>
+                            <span class="stat-label">Videos</span>
+                        </div>
+                        <div class="stat pdf-stat">
+                            <span class="stat-value">${totalPdfCountForPlaylist}</span>
+                            <span class="stat-label">PDFs</span>
+                        </div>
+                        ${marksHtml}
+                    </div>
+                    <div class="playlist-card-footer">
+                        <span class="explore-playlist-btn">Explore Playlist <i class="fas fa-arrow-right"></i></span>
+                    </div>
                 `;
                 plDiv.addEventListener('click', (e) => {
                     e.stopPropagation(); // Prevent course click event
