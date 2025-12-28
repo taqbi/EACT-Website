@@ -1174,6 +1174,9 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     .grid-container {
         grid-template-columns: repeat(6, 1fr);
     }
+    #course-list-view {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 /* =========================================================
@@ -1186,6 +1189,10 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
     .grid-item img {
         width: 50%;
+    }
+
+    #course-list-view {
+        grid-template-columns: 1fr;
     }
 }
 
@@ -1271,6 +1278,8 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     #update-list li a {
         font-size: 1rem;
     }
+   #course-list-view {
+        grid-template-columns: 1fr;
 }
 
 /* =========================================================
@@ -1292,6 +1301,8 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     .faculty-description {
         font-size: 0.9em;
     }
+       #course-list-view {
+        grid-template-columns: 1fr;
 }
 
 /* =========================================================
@@ -1416,11 +1427,11 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 /* Container for the list of course cards */
 #course-list-view {
-    display: flex; /* Use flexbox for horizontal layout */
-    flex-wrap: wrap; /* Allow cards to wrap to the next line */
-    justify-content: center; /* Center the cards horizontally */
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
     gap: 25px; /* Space between cards */
 }
+
 
 /* Button to go back from single course view to list view */
 #back-to-courses-btn {
@@ -1450,7 +1461,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     position: relative; /* Required for positioning the ribbon */
     transition: transform 0.3s ease, box-shadow 0.3s ease, cursor 0.3s ease;
     cursor: pointer;
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 
 .course:hover {
