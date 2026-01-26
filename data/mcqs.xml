@@ -5978,9 +5978,9 @@ Purchases book records only credit purchases of goods.
     <text>The cash book records</text>
     <option>All cash receipts</option>
     <option>All cash payments</option>
-    <option>Both (a) and (b)</option>
+    <option>Both cash recipts and cash payments</option>
     <option>All credit transactions</option>
-    <answer>Both (a) and (b)</answer>
+    <answer>Both cash recipts and cash payments</answer>
     <explanation>
       Cash book records all cash (and bank) receipts and all cash (and bank) payments; credit transactions are not recorded there.
     </explanation>
@@ -6252,9 +6252,9 @@ Purchases book records only credit purchases of goods.
     <option>Fixed asset account</option>
     <option>Depreciation account</option>
     <option>Bank account</option>
-    <answer>Bank account</answer>
+    <answer></answer>
     <explanation>
-      Receipt of cash increases bank balance, so Bank A/c is credited in cash book entry; gain or loss on sale is later transferred to Profit &amp; Loss A/c.
+       Fixed asset is a real account so when asset is sold it gets out and hence we will credit the asset and debit cash. If cash received is more than wdv of asset then we will have gain else loss. Those will be later transferred to Profit &amp; loss account
     </explanation>
   </question>
 
