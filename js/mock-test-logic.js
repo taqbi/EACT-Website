@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const timerDisplay = document.getElementById('time');
     const prevBtn = document.getElementById('prev-question-btn');
     const nextBtn = document.getElementById('next-question-btn');
+    const markReviewBtn = document.getElementById('mark-review-btn');
     const submitBtn = document.getElementById('submit-mock-btn');
     const resultsSummary = document.getElementById('results-summary');
     const backToSelectionBtn = document.getElementById('back-to-selection-btn');
@@ -32,9 +33,11 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentQuestionIndex = 0;
     let userAnswers = [];
     let timerInterval;
+    let markedForReview = [];
     let currentTestCorrectMarks = 1;
     let currentTestNegativeMarks = 0;
     let startTime;
+    let currentTestRank = null;
 
     // --- Performance Tracking Logic ---
     const MOCK_PERFORMANCE_KEY = 'eactMockTestPerformance';
@@ -148,7 +151,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 alert('Please select a mock test to begin.');
                 return;
             }
-            initializeTest(selectedTestName);
+            showStartConfirmation(selectedTestName);
         });
     }
 
@@ -159,8 +162,62 @@ document.addEventListener('DOMContentLoaded', () => {
                 alert('Please select a mock test to begin.');
                 return;
             }
-            initializeTest(selectedTestName);
+            showStartConfirmation(selectedTestName);
         });
+    }
+
+    function showStartConfirmation(testName) {
+        const testData = allMockTests[testName];
+        if (!testData) return;
+
+        let modal = document.getElementById('start-confirmation-modal');
+        if (!modal) {
+            modal = document.createElement('div');
+            modal.id = 'start-confirmation-modal';
+            modal.className = 'modal-overlay';
+            document.body.appendChild(modal);
+        }
+
+        const questionCount = testData.questions.length;
+        const duration = 120; // Fixed duration as per initializeTest logic
+
+        modal.innerHTML = `
+            <div class="confirmation-card">
+                <h3>Start Test?</h3>
+                <p style="margin-bottom: 15px;">You are about to start:<br><strong>${testName}</strong></p>
+                
+                <div class="confirmation-stats">
+                    <div class="conf-stat-item">
+                        <span class="conf-value" style="color: #3b82f6;">${questionCount}</span>
+                        <span class="conf-label">Questions</span>
+                    </div>
+                    <div class="conf-stat-item">
+                        <span class="conf-value" style="color: #f59e0b;">${duration}</span>
+                        <span class="conf-label">Minutes</span>
+                    </div>
+                </div>
+
+                <p style="font-size: 0.9rem; color: #6c757d; margin-bottom: 25px;">
+                    <i class="fas fa-info-circle"></i> Once started, the timer will begin. Do not refresh the page.
+                </p>
+
+                <div class="modal-actions">
+                    <button id="cancel-start-btn" class="modal-btn cancel">Cancel</button>
+                    <button id="confirm-start-btn" class="modal-btn confirm">Start Test</button>
+                </div>
+            </div>
+        `;
+
+        modal.style.display = 'flex';
+
+        document.getElementById('cancel-start-btn').onclick = () => {
+            modal.style.display = 'none';
+        };
+
+        document.getElementById('confirm-start-btn').onclick = () => {
+            modal.style.display = 'none';
+            initializeTest(testName);
+        };
     }
 
     function initializeTest(testName) {
@@ -170,8 +227,10 @@ document.addEventListener('DOMContentLoaded', () => {
         currentTestNegativeMarks = testData.negativeMarks;
         currentTestName = testName;
         userAnswers = new Array(currentTest.length).fill(null);
+        markedForReview = new Array(currentTest.length).fill(false);
         currentQuestionIndex = 0;
         startTime = new Date();
+        currentTestRank = null;
 
         selectionContainer.style.display = 'none';
         resultsArea.style.display = 'none';
@@ -200,6 +259,11 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
         `;
         updateNavButtons();
+        
+        if (markReviewBtn) {
+            markReviewBtn.textContent = markedForReview[currentQuestionIndex] ? 'Unmark Review' : 'Mark for Review';
+            markReviewBtn.classList.toggle('active', markedForReview[currentQuestionIndex]);
+        }
 
         updatePalette(); // Update palette status
 
@@ -230,6 +294,14 @@ document.addEventListener('DOMContentLoaded', () => {
             displayQuestion();
         }
     });
+    
+    if (markReviewBtn) {
+        markReviewBtn.addEventListener('click', () => {
+            markedForReview[currentQuestionIndex] = !markedForReview[currentQuestionIndex];
+            updatePalette();
+            displayQuestion(); // To update button text
+        });
+    }
 
     // --- Palette Logic ---
     function renderPalette() {
@@ -257,12 +329,16 @@ document.addEventListener('DOMContentLoaded', () => {
         items.forEach((item, index) => {
             item.className = 'palette-item'; // Reset
             
-            if (index === currentQuestionIndex) {
-                item.classList.add('current');
+            if (markedForReview[index]) {
+                item.classList.add('marked');
             } else if (userAnswers[index] !== null) {
                 item.classList.add('attempted');
             } else {
                 item.classList.add('unattempted');
+            }
+            
+            if (index === currentQuestionIndex) {
+                item.classList.add('current');
             }
         });
     }
@@ -384,6 +460,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const unattempted = totalQuestions - attempted;
         const percentage = totalMarks > 0 ? ((score / totalMarks) * 100).toFixed(1) : 0;
 
+        // Calculate or Retrieve Rank
+        let rankDisplay = currentTestRank;
+        if (isSubmission) {
+            // Simulate Global Rank: Higher percentage = Better (lower) rank
+            const totalParticipants = 3500 + Math.floor(Math.random() * 1500); // Random between 3500-5000
+            let rank = Math.floor((totalParticipants * (100 - parseFloat(percentage))) / 100);
+            if (rank === 0) rank = 1; // Top rank
+            rankDisplay = `${rank} / ${totalParticipants}`;
+        }
+
         let isFirstAttempt = false;
         if (isSubmission) {
             // Calculate Time Taken
@@ -406,7 +492,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 percentage: percentage,
                 date: new Date().toLocaleDateString(),
                 timeTaken: timeTaken,
-                userAnswers: userAnswers
+                userAnswers: userAnswers,
+                rank: rankDisplay
             };
             isFirstAttempt = saveTestResult(result);
         }
@@ -467,7 +554,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h2>${headerTitle}</h2>
                 ${subHeader}
                 <div class="score-circle ${scoreClass}">
-                    <span class="score-text">${score} / ${totalMarks}</span>
+                    <span class="score-text">${score} <small>/ ${totalMarks}</small></span>
                     <span class="score-label">${percentage}%</span>
                 </div>
             </div>
@@ -510,6 +597,13 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="stat-info">
                             <span class="label">Unattempted</span>
                             <span class="value">${unattempted}</span>
+                        </div>
+                    </div>
+                     <div class="stat-card rank">
+                        <span class="stat-icon">🏆</span>
+                        <div class="stat-info">
+                            <span class="label">Global Rank</span>
+                            <span class="value">${rankDisplay || 'N/A'}</span>
                         </div>
                     </div>
                 </div>
@@ -697,6 +791,10 @@ document.addEventListener('DOMContentLoaded', () => {
                             <span class="h-label">Time Taken</span>
                             <span class="h-value">${result.timeTaken || 'N/A'}</span>
                         </div>
+                        <div class="history-stat">
+                            <span class="h-label">Rank</span>
+                            <span class="h-value">${result.rank || '-'}</span>
+                        </div>
                     </div>
                 </div>
             `;
@@ -730,6 +828,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentTestName = attempt.name;
         // Handle legacy data where userAnswers might not be saved
         userAnswers = attempt.userAnswers || new Array(currentTest.length).fill(null);
+        currentTestRank = attempt.rank;
         
         calculateAndDisplayResults(false);
     }
