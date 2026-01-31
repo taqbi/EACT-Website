@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
     <!-- Full Length Mock Tests -->
-    <test name="JKSSB Junior Assistant Full Length Mock Test 1" type="full" isLive="No">
+    <test name="JKSSB Junior Assistant Full Length Mock Test 1" type="full" isLive="No" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
         <question>
@@ -431,7 +431,7 @@ Indirect:</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 1 (Old)" type="full" isLive="Yes">
+<test name="JKSSB FAA Full Length Mock Test 1 (Old)" type="full" isLive="Yes" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
@@ -1808,7 +1808,7 @@ Indirect:</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 2 (Old)" type="full" isLive="Yes">
+<test name="JKSSB FAA Full Length Mock Test 2 (Old)" type="full" isLive="Yes" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
@@ -3159,12 +3159,206 @@ Indirect:</text>
 
 
 
-<test name="Dummy" type="full" isLive="No">
+<test name="Dummy" type="full" isLive="No" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
 
 
 </test>
+
+    <!-- Subject Wise Mock Tests -->
+    <test name="Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="20">
+        <correctMarks>1</correctMarks>
+        <negativeMarks>0.25</negativeMarks>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which register in the CPU keeps track of the memory address of the next instruction to be executed?</text>
+            <option>Accumulator</option>
+            <option>Program Counter</option>
+            <option>Instruction Register</option>
+            <option>Memory Address Register</option>
+            <answer>Program Counter</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which phenomenon occurs when two or more processes are each waiting for a resource held by another process in the same group, creating a circular dependency?</text>
+            <option>Deadlock</option>
+            <option>Thrashing</option>
+            <option>Swapping</option>
+            <option>Fragmentation</option>
+            <answer>Deadlock</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>In computer science and artificial intelligence, GPT stands for</text>
+            <option>General Purpose Transformer</option>
+            <option>General Purpose Transistor</option>
+            <option>Generative Processing Transformer </option>
+            <option>Generative Pre-trained Transformer</option>
+            <answer>Generative Pre-trained Transformer</answer>
+           </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which protocol is used to translate domain names into IP addresses?</text>
+            <option>HTTP</option>
+            <option>FTP</option>
+            <option>DNS</option>
+            <option>SMTP</option>
+            <answer>DNS</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which protocol is used to resolve an IP address to a MAC address?</text>
+            <option>DNS</option>
+            <option>DHCP</option>
+            <option>ARP</option>
+            <option>RARP</option>
+            <answer>ARP</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which type of malware locks a user's data and demands payment to unlock it?</text>
+            <option>Spyware</option>
+            <option>Ransomware</option>
+            <option>Adware</option>
+            <option>Worm</option>
+            <answer>Ransomware</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which shortcut key is used to open the “Save As” dialog box in MS Word?</text>
+            <option>Ctrl + S</option>
+            <option>Ctrl + Shift + S</option>
+            <option>F12</option>
+            <option>Alt + S</option>
+            <answer>F12</answer>
+          </question>
+        <question>
+         <subject>Computer Awareness</subject>
+            <text>In MS Excel, which function returns the internal rate of return for a series of cash flows?</text>
+            <option>NPV</option>
+            <option>IRR</option>
+            <option>PMT</option>
+            <option>FV</option>
+            <answer>IRR</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which of the following is the largest unit of memory?</text>
+            <option>TeraByte (TB)</option>
+            <option>GigaByte (GB)</option>
+            <option>ExaByte (EB)</option>
+            <option>PetaByte (PB)</option>
+            <answer>ExaByte (EB)</answer>
+            </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>What is the IEEE standard for Wi-Fi?</text>
+            <option>802.3</option>
+            <option>802.11</option>
+            <option>802.15</option>
+            <option>802.16</option>
+            <answer>802.11</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which of the following is NOT an antivirus software but is often mistakenly assumed to provide virus protection?</text>
+            <option>Windows Defender</option>
+            <option>Malwarebytes</option>
+            <option>Firewall</option>
+            <option>Kaspersky</option>
+            <answer>Firewall</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which hardware component performs the decoding of instructions before execution?</text>
+            <option>Arithmetic Logic Unit</option>
+            <option>Control Unit</option>
+            <option>Memory Unit</option>
+            <option>Cache</option>
+            <answer>Control Unit</answer>
+            </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which one of the following statements is FALSE?</text>
+            <option>HTTP is a protocol used for transferring hypertext documents on the World Wide Web.</option>
+            <option>FTP is a protocol used for transferring files between computers over a network.</option>
+            <option>SMTP is a protocol used to receive emails from a mail server.</option>
+            <option>DNS is a protocol used to translate domain names into IP addresses.</option>
+            <answer>SMTP is a protocol used to receive emails from a mail server.</answer>
+        </question>
+       
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which type of memory is volatile and requires periodic refreshing to retain data?</text>
+            <option>SRAM</option>
+            <option>DRAM</option>
+            <option>ROM</option>
+            <option>Flash Memory</option>
+            <answer>DRAM</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>What is the term for a network topology where every node is connected to every other node?</text>
+            <option>Star</option>
+            <option>Bus</option>
+            <option>Mesh</option>
+            <option>Ring</option>
+            <answer>Mesh</answer>
+        </question>
+       
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>In MS Word, what is the shortcut key to insert a footnote?</text>
+            <option>Ctrl + Alt + F</option>
+            <option>Ctrl + Shift + F</option>
+            <option>Alt + Shift + F</option>
+            <option>Ctrl + F</option>
+            <answer>Ctrl + Alt + F</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which cloud service model provides software applications over the internet?</text>
+            <option>IaaS</option>
+            <option>PaaS</option>
+            <option>SaaS</option>
+            <option>DaaS</option>
+            <answer>SaaS</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>What is the purpose of the 'Virtual Memory' in an operating system?</text>
+            <option>To increase the speed of the CPU</option>
+            <option>To extend the available RAM using hard disk space</option>
+            <option>To store BIOS settings</option>
+            <option>To backup data automatically</option>
+            <answer>To extend the available RAM using hard disk space</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>Which device is used to connect a computer to the internet via telephone line?</text>
+            <option>Modem</option>
+            <option>Hub</option>
+            <option>Switch</option>
+            <option>Repeater</option>
+            <answer>Modem</answer>
+        </question>
+        <question>
+            <subject>Computer Awareness</subject>
+            <text>What is the size of an IPv6 address?</text>
+            <option>32 bits</option>
+            <option>64 bits</option>
+            <option>128 bits</option>
+            <option>256 bits</option>
+            <answer>128 bits</answer>
+        </question>
+    </test>
+
+
+
+
+
+
 
 </mock-tests>

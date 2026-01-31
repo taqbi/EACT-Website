@@ -2080,7 +2080,7 @@ input:checked + .slider:before {
     box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3);
 }
 
-#test-list-area {
+#test-list-area, #subject-wise-test-list-area {
     padding: 30px;
     max-width: 900px;
     margin: 0 auto;
@@ -2090,7 +2090,7 @@ input:checked + .slider:before {
     animation: fadeIn 0.5s ease;
 }
 
-#test-list-area h2 {
+#test-list-area h2, #subject-wise-test-list-area h2 {
     color: #1f2a44;
     margin-bottom: 25px;
     font-size: 2rem;
@@ -2098,12 +2098,12 @@ input:checked + .slider:before {
     font-weight: 800;
 }
 
-#test-list-area .test-list-container {
+#test-list-area .test-list-container, #subject-wise-test-list-area .test-list-container {
     max-height: none;
     overflow-y: visible;
 }
 
-#back-from-list-btn {
+#back-from-list-btn, #back-from-subject-list-btn {
     background: none;
     border: none;
     color: #1f2a44;
@@ -2114,3 +2114,18 @@ input:checked + .slider:before {
     align-items: center;
     gap: 5px;
 }
+
+.test-score-badge {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 12px;
+    background-color: #f3f4f6;
+    color: #4b5563;
+}
+.test-score-badge.score-excellent { background-color: #dcfce7; color: #166534; }
+.test-score-badge.score-good { background-color: #dbeafe; color: #1e40af; }
+.test-score-badge.score-average { background-color: #fef3c7; color: #92400e; }
+.test-score-badge.score-poor { background-color: #fee2e2; color: #991b1b; }

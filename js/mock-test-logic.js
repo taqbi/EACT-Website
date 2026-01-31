@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsArea = document.getElementById('mock-results-area');
     const performanceArea = document.getElementById('mock-performance-area');
     const testListArea = document.getElementById('test-list-area');
+    const subjectWiseTestListArea = document.getElementById('subject-wise-test-list-area');
 
     // Elements
     const fullLengthList = document.getElementById('full-length-list');
@@ -27,6 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const palettePanel = document.getElementById('question-palette-panel');
     const viewFullLengthBtn = document.getElementById('view-full-length-btn');
     const backFromListBtn = document.getElementById('back-from-list-btn');
+    const viewSubjectWiseBtn = document.getElementById('view-subject-wise-btn');
+    const backFromSubjectListBtn = document.getElementById('back-from-subject-list-btn');
 
     let allMockTests = {};
     let currentTest = [];
@@ -109,6 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const parser = new DOMParser();
             const xml = parser.parseFromString(data, "application/xml");
             const testNodes = xml.querySelectorAll('test');
+            const history = readMockPerformance();
             
             testNodes.forEach(testNode => {
                 const testName = testNode.getAttribute('name');
@@ -121,6 +125,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const negativeMarksNode = testNode.querySelector('negativeMarks');
                 const correctMarks = correctMarksNode ? parseFloat(correctMarksNode.textContent) : 1;
                 const negativeMarks = negativeMarksNode ? parseFloat(negativeMarksNode.textContent) : 0;
+                const duration = testNode.getAttribute('duration') ? parseInt(testNode.getAttribute('duration')) : 120;
 
                 const questions = [];
                 testNode.querySelectorAll('question').forEach(qNode => {
@@ -131,7 +136,23 @@ document.addEventListener('DOMContentLoaded', () => {
                         answer: qNode.querySelector('answer').textContent
                     });
                 });
-                allMockTests[testName] = { questions, correctMarks, negativeMarks };
+                allMockTests[testName] = { questions, correctMarks, negativeMarks, duration };
+
+                // Check for previous attempts
+                const attempt = history.find(h => h.name === testName);
+                let scoreHtml = '';
+                let btnText = 'Start';
+
+                if (attempt) {
+                    let scoreClass = 'score-average';
+                    const p = parseFloat(attempt.percentage);
+                    if (p >= 80) scoreClass = 'score-excellent';
+                    else if (p >= 60) scoreClass = 'score-good';
+                    else if (p < 40) scoreClass = 'score-poor';
+                    
+                    scoreHtml = `<div class="test-score-badge ${scoreClass}">Score: ${attempt.score}/${attempt.total} (${attempt.percentage}%)</div>`;
+                    btnText = 'Retake';
+                }
 
                 // Create Test Card
                 const card = document.createElement('div');
@@ -140,8 +161,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="test-info">
                         <h4>${testName}</h4>
                         <span class="q-count">${questions.length} Questions</span>
+                        ${scoreHtml}
                     </div>
-                    <button class="start-test-btn">Start</button>
+                    <button class="start-test-btn">${btnText}</button>
                 `;
                 
                 card.querySelector('.start-test-btn').addEventListener('click', () => showStartConfirmation(testName));
@@ -167,7 +189,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const questionCount = testData.questions.length;
-        const duration = 120; // Fixed duration as per initializeTest logic
+        const duration = testData.duration;
 
         modal.innerHTML = `
             <div class="confirmation-card">
@@ -224,11 +246,12 @@ document.addEventListener('DOMContentLoaded', () => {
         resultsArea.style.display = 'none';
         performanceArea.style.display = 'none';
         if (testListArea) testListArea.style.display = 'none';
+        if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'none';
         testArea.style.display = 'block';
 
         displayQuestion();
         renderPalette();
-        startTimer(120 * 60); // 120 minutes in seconds
+        startTimer(testData.duration * 60);
     }
 
     // --- 3. Display and Navigate Questions ---
@@ -711,6 +734,7 @@ document.addEventListener('DOMContentLoaded', () => {
         resultsArea.style.display = 'none';
         performanceArea.style.display = 'block';
         if (testListArea) testListArea.style.display = 'none';
+        if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'none';
 
         const history = readMockPerformance();
         performanceHistoryContainer.innerHTML = '';
@@ -862,12 +886,28 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // View Subject Wise Tests Button
+    if (viewSubjectWiseBtn) {
+        viewSubjectWiseBtn.addEventListener('click', () => {
+            selectionContainer.style.display = 'none';
+            if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'block';
+        });
+    }
+
+    if (backFromSubjectListBtn) {
+        backFromSubjectListBtn.addEventListener('click', () => {
+            if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'none';
+            selectionContainer.style.display = 'grid';
+        });
+    }
+
     // --- 6. Reset View ---
     if (backToSelectionBtn) {
         backToSelectionBtn.addEventListener('click', () => {
             resultsArea.style.display = 'none';
             performanceArea.style.display = 'none';
             if (testListArea) testListArea.style.display = 'none';
+            if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'none';
             selectionContainer.style.display = 'grid';
         });
     }
