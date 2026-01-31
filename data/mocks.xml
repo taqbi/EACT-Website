@@ -1,56 +1,3145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
     <!-- Full Length Mock Tests -->
-    <test name="JKSSB FAA Mock Test 1" type="full">
+    <test name="JKSSB Junior Assistant Full Length Mock Test 1" type="full" isLive="No">
+        <correctMarks>1</correctMarks>
+        <negativeMarks>0.25</negativeMarks>
         <question>
-            <text>What is the primary purpose of a 'Journal' in accounting?</text>
-            <option>To summarize transactions</option>
-            <option>To record transactions chronologically</option>
-            <option>To check arithmetical accuracy</option>
-            <option>To prepare financial statements</option>
-            <answer>To record transactions chronologically</answer>
-        </question>
-        <question>
-            <text>The concept of 'Conservatism' means that:</text>
-            <option>The same accounting principles should be used from one period to another</option>
-            <option>A business is treated as separate from its owners</option>
-            <option>Accountants should anticipate no profits but provide for all possible losses</option>
-            <option>Assets should be recorded at their original purchase price</option>
-            <answer>Accountants should anticipate no profits but provide for all possible losses</answer>
-        </question>
-    </test>
+    <subject>General English</subject>
+    <text>Rearrange the sentences:
+1. in public life
+2. honesty is
+3. indispensable
+4. an essential quality</text>
+    <option>2 4 3 1</option>
+    <option>2 3 4 1</option>
+    <option>4 2 3 1</option>
+    <option>1 2 3 4</option>
+    <answer>2 4 3 1</answer>
+</question>
 
-    <test name="JKPSI Full Length Mock 1" type="full">
-        <question>
-            <text>Who was the first ruler of the Mauryan Empire?</text>
-            <option>Ashoka</option>
-            <option>Chandragupta Maurya</option>
-            <option>Bindusara</option>
-            <option>Samudragupta</option>
-            <answer>Chandragupta Maurya</answer>
-        </question>
-    </test>
+<question>
+    <subject>General English</subject>
+    <text>Change into indirect speech:
+He said, “I will help you provided you follow my advice.”</text>
+    <option>He said that he will help me provided I follow his advice</option>
+    <option>He said that he would help you if you followed your advice</option>
+    <option>He said that he would help me if I followed his advice</option>
+    <option>He says that he would help me provided I followed his advice</option>
+    <answer>He said that he would help me if I followed his advice</answer>
+</question>
 
-    <!-- Subject Wise Mock Tests -->
-    <test name="Computer Awareness (Subject Wise)" type="subject">
-        <question>
-            <text>Which of the following is a volatile memory?</text>
-            <option>ROM</option>
-            <option>Hard Disk</option>
-            <option>RAM</option>
-            <option>SSD</option>
-            <answer>RAM</answer>
-        </question>
-    </test>
+<question>
+    <subject>General English</subject>
+    <text>Choose the correctly punctuated sentence:</text>
+    <option>The officer said “Work honestly and fear none.”</option>
+    <option>The officer said, “Work honestly and fear none.”</option>
+    <option>The officer, said “Work honestly and fear none”.</option>
+    <option>The officer said “Work honestly, and fear none.”</option>
+    <answer>The officer said, “Work honestly and fear none.”</answer>
+</question>
 
-    <test name="J&amp;K GK (Subject Wise)" type="subject">
-        <question>
-            <text>The Shalimar Bagh in Srinagar was built by which Mughal Emperor?</text>
-            <option>Akbar</option>
-            <option>Shah Jahan</option>
-            <option>Jahangir</option>
-            <option>Aurangzeb</option>
-            <answer>Jahangir</answer>
-        </question>
-    </test>
+<question>
+    <subject>General English</subject>
+    <text>Meaning of “to throw cold water on”:</text>
+    <option>To discourage</option>
+    <option>To provoke</option>
+    <option>To ignore</option>
+    <option>To approve</option>
+    <answer>To discourage</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>“Discipline is the bridge between goals and achievement.” What does “bridge” signify here?</text>
+    <option>Obstacle</option>
+    <option>Connection</option>
+    <option>Difficulty</option>
+    <option>Separation</option>
+    <answer>Connection</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Choose the correct sentence:</text>
+    <option>He did not knew the answer</option>
+    <option>He did not know the answer</option>
+    <option>He does not knew the answer</option>
+    <option>He does not knows the answer</option>
+    <answer>He did not know the answer</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>“Rules without enforcement breed contempt rather than compliance.” The sentence suggests that rules:</text>
+    <option>Should be flexible</option>
+    <option>Create confusion among people</option>
+    <option>Are better than no rules</option>
+    <option>Lose respect if not strictly enforced</option>
+    <answer>Lose respect if not strictly enforced</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>The proposal was rejected ___ its apparent benefits.</text>
+    <option>owing to</option>
+    <option>in view of</option>
+    <option>regardless of</option>
+    <option>by reason of</option>
+    <answer>regardless of</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Choose the correct word:
+The officer declined to ___ responsibility for the delay.</text>
+    <option>except</option>
+    <option>accept</option>
+    <option>access</option>
+    <option>assess</option>
+    <answer>accept</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Choose the closest synonym of “Scrupulous”:</text>
+    <option>Careless</option>
+    <option>Dishonest</option>
+    <option>Flexible</option>
+    <option>Meticulous</option>
+    <answer>Meticulous</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Identify the segment containing an error:
+“The committee, along with several advisors, have approved the revised draft.”</text>
+    <option>The committee</option>
+    <option>along with several advisors</option>
+    <option>have approved</option>
+    <option>the revised draft</option>
+    <answer>have approved</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Choose the correct option:
+The scientist was awarded ___ Fellowship of the Royal Society.</text>
+    <option>a</option>
+    <option>the</option>
+    <option>an</option>
+    <option>no article</option>
+    <answer>the</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>He is proficient ___ both Arabic and Persian.</text>
+    <option>at</option>
+    <option>with</option>
+    <option>in</option>
+    <option>over</option>
+    <answer>in</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Change to passive voice:
+“People believe that the painting is priceless.”</text>
+    <option>The painting was believed to be priceless.</option>
+    <option>It is believed that the painting is priceless.</option>
+    <option>The painting is believed to be priceless.</option>
+    <option>That the painting is priceless is believed.</option>
+    <answer>The painting is believed to be priceless.</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>In the sentence:
+“His argument was cogent, yet it failed to persuade the audience.”
+The word cogent means:</text>
+    <option>Emotionally driven</option>
+    <option>Logical and convincing</option>
+    <option>Weak and inconsistent</option>
+    <option>Overly aggressive</option>
+    <answer>Logical and convincing</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Opposite of “lucid”:</text>
+    <option>Ambiguous</option>
+    <option>Clear</option>
+    <option>Wise</option>
+    <option>Fragile</option>
+    <answer>Ambiguous</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>The underlined part is which type of clause?
+“I will wait here until you return.”</text>
+    <option>Noun clause</option>
+    <option>Adjective clause</option>
+    <option>Adverb clause of time</option>
+    <option>Adverb clause of condition</option>
+    <answer>Adverb clause of time</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>The new system is superior ___ the previous one.</text>
+    <option>than</option>
+    <option>from</option>
+    <option>to</option>
+    <option>over</option>
+    <answer>to</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Direct: He said, “What a beautiful sight!”
+Indirect:</text>
+    <option>He exclaimed that it was a beautiful sight.</option>
+    <option>He said that it is a beautiful sight.</option>
+    <option>He exclaimed what a beautiful sight it was.</option>
+    <option>He exclaimed that what a beautiful sight!</option>
+    <answer>He exclaimed that it was a beautiful sight.</answer>
+</question>
+
+<question>
+    <subject>General English</subject>
+    <text>Every candidate must bring ___ own identification documents.</text>
+    <option>his</option>
+    <option>their</option>
+    <option>his or her</option>
+    <option>its</option>
+    <answer>his or her</answer>
+</question>
+
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In the context of computer architecture, who is known as the father of Stored Program Archotecture?</text>
+    <option>Charles Babbage</option>
+    <option>Alan Turing</option>
+    <option> Jon von Neuman</option>
+    <option>James Harper</option>
+    <answer>Jon von Neuman</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In MS Excel, what is the result of the formula =CEILING(25.4, 5)?</text>
+    <option>25</option>
+    <option>26</option>
+    <option>30</option>
+    <option>25.4</option>
+    <answer>30</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which layer of the OSI in context to the Computers Networks</text>
+    <option>Open Source Interconnection</option>
+    <option>Open Systems Interconnection</option>
+    <option>Open Session Interconnection</option>
+    <option>Open Sessions Interchange</option>
+    <answer>Open Systems Interconnection</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>What is the shortcut key to insert a footnote in MS Word?</text>
+    <option>Ctrl + Alt + F</option>
+    <option>Ctrl + Alt + D</option>
+    <option>Alt + Shift + F</option>
+    <option>Ctrl + Shift + F</option>
+    <answer>Ctrl + Alt + F</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Match the following input and output devices with their correct functions:
+    A. Scanner — 1. Produces hard copy output
+    B. Monitor — 2. Converts printed text/images into digital form
+    C. Printer — 3. Displays visual output on screen
+    D. Microphone — 4. Captures audio input</text>
+
+    <option>a. A-2, B-3, C-1, D-4</option>
+    <option>b. A-1, B-2, C-3, D-4</option>
+    <option>c. A-2, B-1, C-3, D-4</option>
+    <option>d. A-3, B-2, C-1, D-4</option>
+
+    <answer>A-2, B-3, C-1, D-4</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which type of malware disguises itself as legitimate software to trick users into installing it, but performs malicious activities once inside?</text>
+    <option>Worm</option>
+    <option>Trojan Horse</option>
+    <option>Spyware</option>
+    <option>Ransomware</option>
+    <answer>Trojan Horse</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In MS Access, which data type is best suited for storing long blocks of text and combinations of text and numbers, up to 65,535 characters?</text>
+    <option>Short Text</option>
+    <option>Long Text (Memo)</option>
+    <option>OLE Object</option>
+    <option>Hyperlink</option>
+    <answer>Long Text (Memo)</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>What does the acronym 'SATA' stand for in computer hardware interfaces?</text>
+    <option>Serial Advanced Technology Attachment</option>
+    <option>Serial Advanced Transfer Adapter</option>
+    <option>System Advanced Technology Attachment</option>
+    <option>System Advanced Transfer Adapter</option>
+    <answer>Serial Advanced Technology Attachment</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which feature in MS PowerPoint allows you to create a consistent look for all slides in a presentation by defining background, fonts, and layout in one place?</text>
+    <option>Slide Sorter</option>
+    <option>Slide Master</option>
+    <option>Animation Pane</option>
+    <option>Transition Effect</option>
+    <answer>Slide Master</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which technology is used in modern optical mice to detect movement relative to a surface?</text>
+    <option>Mechanical ball</option>
+    <option>Laser or LED with a DSP</option>
+    <option>Infrared sensors</option>
+    <option>Gyroscope</option>
+    <answer>Laser or LED with a DSP</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which type of volatile memory requires periodic refreshing of its electrical charge to retain data?</text>
+    <option>SRAM</option>
+    <option>DRAM</option>
+    <option>ROM</option>
+    <option>EEPROM</option>
+    <answer>DRAM</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which email protocol is primarily used for retrieving emails from a server to a client, typically removing them from the server after download?</text>
+    <option>IMAP</option>
+    <option>SMTP</option>
+    <option>POP3</option>
+    <option>HTTP</option>
+    <answer>POP3</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which of the following is NOT an example of Open Source Software?</text>
+    <option>Linux</option>
+    <option>Mozilla Firefox</option>
+    <option>VLC Media Player</option>
+    <option>Adobe Photoshop</option>
+    <answer>Adobe Photoshop</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In MS Excel, which function counts the number of cells that contain numbers, excluding blanks and text?</text>
+    <option>COUNT</option>
+    <option>COUNTA</option>
+    <option>COUNTIF</option>
+    <option>COUNTBLANK</option>
+    <answer>COUNT</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>What is the full form of 'URL' in internet terminology?</text>
+    <option>Universal Resource Locator</option>
+    <option>Uniform Resource Link</option>
+    <option>Uniform Resource Locator</option>
+    <option>Universal Resource Link</option>
+    <answer>Uniform Resource Locator</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In MS Word, what is the 'Gutter Margin' used for?</text>
+    <option>Adding space to the left margin</option>
+    <option>Adding space to the right margin</option>
+    <option>Adding space to the binding side of the page</option>
+    <option>Adding space to the top of the page</option>
+    <answer>Adding space to the binding side of the page</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which key is used to delete the character to the left of the cursor?</text>
+    <option>Delete</option>
+    <option>Backspace</option>
+    <option>Insert</option>
+    <option>Tab</option>
+    <answer>Backspace</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which electronic component was the defining technology of Third Generation computers?</text>
+    <option>Vacuum Tubes</option>
+    <option>Transistors</option>
+    <option>Integrated Circuits (ICs)</option>
+    <option>Microprocessors</option>
+    <answer>Integrated Circuits (ICs)</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In a computer system what is the primary role of an Operating System?</text>
+    <option>Managing hardware and software resources</option>
+    <option>Providing a user interface</option>
+    <option>Managing memory allocation</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+</question>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>What is 'Phishing' in the context of cyber security?</text>
+    <option>Checking network connectivity</option>
+    <option>A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity</option>
+    <option>A type of virus that replicates itself</option>
+    <option>Software to block unauthorized access</option>
+    <answer>A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity</answer>
+</question>
+
+
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<test name="JKSSB FAA Full Length Mock Test 1 (Old)" type="full" isLive="Yes">
+        <correctMarks>1</correctMarks>
+        <negativeMarks>0.25</negativeMarks>
+
+    
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>As per the 2011 Census, the Child Sex Ratio (0- 6 year) in India was</text>
+    <options>
+      <option>919</option>
+      <option>940</option>
+      <option>960</option>
+      <option>979</option>
+    </options>
+    <answer>919</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>The first protocol to ban the emissions of chlorofluorocarbons in the atmosphere was made in</text>
+    <options>
+      <option>Montreal, 1987</option>
+      <option>Kyoto, 1997</option>
+      <option>Nagoyo, 2010</option>
+      <option>Stockholm, 2001</option>
+    </options>
+    <answer>Montreal, 1987</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following district has the highest forest cover in Jammu and Kashmir?</text>
+    <options>
+      <option>Poonch</option>
+      <option>Kathua</option>
+      <option>Kupwara</option>
+      <option>Kishtwar</option>
+    </options>
+    <answer>Kishtwar</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>The 10% Rule of Ecological Efficiency was proposed by</text>
+    <options>
+      <option>Herbert Spencer</option>
+      <option>Raymond Lindeman</option>
+      <option>Ernest Heckel</option>
+      <option>Victor Hansen</option>
+    </options>
+    <answer>Raymond Lindeman</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+   <text>Tech giant Google has announced "Project Suncatcher." What is the ambitious research initiative aiming to develop?</text>
+    <options>
+      <option>Underwater data centers for oceanic research.</option>
+      <option>AI-powered data centres in space.</option>
+      <option>Solar-powered supercomputers for climate modeling.</option>
+      <option>Satellite networks for global internet access.</option>
+    </options>
+    <answer>AI-powered data centres in space.</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>The Chingus Fort, which is believed to the burial place of Emperor Jehangir’s intestines is in</text>
+    <options>
+      <option>Poonch</option>
+      <option>Reasi</option>
+      <option>Rajouri</option>
+      <option>Jammu</option>
+    </options>
+    <answer>Rajouri</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following rivers does not flow into the Arabian Sea?</text>
+    <options>
+      <option>Damodar</option>
+      <option>Periyar</option>
+      <option>Mandovi</option>
+      <option>Narmada</option>
+    </options>
+    <answer>Damodar</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>The pseudo cereal Amaranth (Ganhar) is primarily grown in the</text>
+    <options>
+      <option>Chenab Valley</option>
+      <option>Kashmir Valley</option>
+      <option>Ladakh Region</option>
+    </options>
+    <answer>Kashmir Valley</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following rivers is not a transboundary river?</text>
+    <options>
+      <option>Indus</option>
+      <option>Yamuna</option>
+      <option>Brahmaputra</option>
+      <option>Jhelum</option>
+    </options>
+    <answer>Yamuna</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following emperors of Kashmir was also known as Shahi Khan?</text>
+    <options>
+      <option>Shah Mir</option>
+      <option>Yousuf Shah Chak</option>
+      <option>Zainul Aabideen</option>
+      <option>Sikandar Shah Miri</option>
+    </options>
+    <answer>Zainul Aabideen</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Rajparian Wildlife Sanctuary is a protected area located in ……………………… district of Jammu and Kashmir.</text>
+    <options>
+      <option>Anantnag</option>
+      <option>Kishtwar</option>
+      <option>Doda</option>
+      <option>Kupwara</option>
+    </options>
+    <answer>Anantnag</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+     <text>Who won the 2025 Booker Prize for his fictional novel "Flesh"?</text>
+    <options>
+      <option>Kazuo Ishiguro</option>
+      <option>Margaret Atwood</option>
+      <option>David Szalay</option>
+      <option>Bernardine Evaristo</option>
+    </options>
+    <answer>David Szalay</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+     <text>Who inaugurated the 2-day Lavender Festival 2025 organized by CSIR–IIIM Jammu, highlighting Bhaderwah’s emergence as a national hub for agri-business innovation?</text>
+    <options>
+        <option>Dr. Harsh Vardhan</option>
+        <option>Dr. Jitendra Singh</option>
+        <option>Amit Shah</option>
+        <option>Narendra Singh Tomar</option>
+    </options>
+    <answer>Dr. Jitendra Singh</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Match the following countries with the appropriate geographical sobriquets: A. Nation of Thousand Hills I. Norway B. Gift of Nile II. Japan C. Land of Midnight Sun III. Egypt D. Land of the Rising Sun IV. Rwanda</text>
+    <options>
+      <option>A – I, B – III, C- IV, D – II</option>
+      <option>A – IV, B – III, C- I, D – II</option>
+      <option>A – II, B – III, C- IV, D – I</option>
+      <option>A – I, B – II, C- IV, D – III</option>
+    </options>
+    <answer>A – IV, B – III, C- I, D – II</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>…………………. the guard elephant is the mascot of the Indian Railways.</text>
+    <options>
+      <option>Hathi</option>
+      <option>Motu</option>
+      <option>Sheru</option>
+      <option>Bholu</option>
+    </options>
+    <answer>Bholu</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following National Waterways is extends in Godavari and Krishna Rivers?</text>
+    <options>
+      <option>NW 1</option>
+      <option>NW 2</option>
+      <option>NW 3</option>
+      <option>NW 4</option>
+    </options>
+    <answer>NW 4</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>The concept of differential heating was primarily given to explain which of the following geographical phenomena in India?</text>
+    <options>
+      <option>Heat Wave in North India</option>
+      <option>Monsoon</option>
+      <option>Cyclones</option>
+      <option>Desert Storms</option>
+    </options>
+    <answer>Monsoon</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+     <text>Match the following Chief Justices of India with their respective order:</text>
+    <options>
+        <option>A. 50th CJI — 1. D. Y. Chandrachud</option>
+        <option>B. 51st CJI — 2. N. V. Ramana</option>
+        <option>C. 52nd CJI — 3. B. R. Gavai</option>
+        <option>D. 53rd CJI — 4. Sanjiv Khanna</option>
+
+        <option>a. A-2, B-1, C-4, D-3</option>
+        <option>b. A-1, B-2, C-3, D-4</option>
+        <option>c. A-2, B-4, C-1, D-3</option>
+        <option>d. A-3, B-1, C-2, D-4</option>
+    </options>
+    <answer>A-2, B-1, C-4, D-3</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Part VIII of the Jammu and Kashmir Reorganisation Act deals with the</text>
+    <options>
+      <option>High Court</option>
+      <option>Legislative Assembly</option>
+      <option>Advocate General</option>
+      <option>Assets and Liabilities</option>
+    </options>
+    <answer>High Court</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>During the summer season in the City of Jammu and its environs, a cool wind descends from the Shivaliks in the night time which is locally known as</text>
+    <options>
+      <option>Loo</option>
+      <option>Dadu</option>
+      <option>Grishim</option>
+      <option>Shoor</option>
+    </options>
+    <answer>Dadu</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the Indian states does not share borders with Nepal?</text>
+    <options>
+      <option>Assam</option>
+      <option>Sikkim</option>
+      <option>West Bengal</option>
+      <option>Uttarakhand</option>
+    </options>
+    <answer>Assam</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following peaks is also known as the Hidden Peak?</text>
+    <options>
+      <option>Gasherbrum I</option>
+      <option>Masherbrum II</option>
+      <option>Nun Kun</option>
+      <option>Harmukh</option>
+    </options>
+    <answer>Gasherbrum I</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following is the folk music of Jammu and Kashmir?</text>
+    <options>
+      <option>Wunwun</option>
+      <option>Chakri</option>
+      <option>Hanzea</option>
+      <option>Ladishah</option>
+    </options>
+    <answer>Ladishah</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Jhum Cultivation is also known as</text>
+    <options>
+      <option>Slash and Burn</option>
+      <option>Podu</option>
+      <option>Shifting Agriculture</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following Indian classical dances is characterized by the performer adorning white or off-white clothes, displaying realistic expressions and gestures and narrating the feminine dance of Vishnu?</text>
+    <options>
+      <option>Bharatnatyam</option>
+      <option>Kuchipudi</option>
+      <option>Mohiniatam</option>
+      <option>Oddissi</option>
+    </options>
+    <answer>Mohiniatam</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following is the folk dance of Snake Charmers usually performed in the state of Rajasthan?</text>
+    <options>
+      <option>Jhoomar</option>
+      <option>Ghoomar</option>
+      <option>Kalbelia</option>
+      <option>Lavani</option>
+    </options>
+    <answer>Kalbelia</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>In which session of Congress, the demand of “Poorna Swaraj” was accepted as the aim of the Congress?</text>
+    <options>
+      <option>Calcutta</option>
+      <option>Madras</option>
+      <option>Nagpur</option>
+      <option>Lahore</option>
+    </options>
+    <answer>Lahore</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following states of India is known as the “Land of the Dawn-Lit Mountains”?</text>
+    <options>
+      <option>Assam</option>
+      <option>Sikkim</option>
+      <option>Arunachal Pradesh</option>
+      <option>Meghalaya</option>
+    </options>
+    <answer>Arunachal Pradesh</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Match the following Mountain Peaks with the respective states of India in which they lie 
+    A . Nanda Devi I. Madhya Pradesh 
+    B . Nun Kun II. Ladakh 
+    C . Guru Shikhar III. Rajasthan 
+    D. Dhupgarh IV. Uttrakhand</text>
+    <options>
+      <option>A – I, B – III, C- IV, D – II</option>
+      <option>A – IV, B – II, C- III, D – I</option>
+      <option>A – II, B – III, C- IV, D – I</option>
+      <option>A – IV, B – II, C- I, D – III</option>
+    </options>
+    <answer>A – IV, B – II, C- III, D – I</answer>
+  </question>
+  <question>
+    <subject>General Knowledge with special reference to J and K</subject>
+    <text>Which of the following rivers is also known as the Stod River?</text>
+    <options>
+      <option>Neelam River</option>
+      <option>Doda River</option>
+      <option>Chenab River</option>
+      <option>Brengi River</option>
+    </options>
+    <answer>Doda River</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The Accounting entry to record income which has accrued but not received will be</text>
+    <options>
+      <option>Debit concerned income, Credit Accrued Income</option>
+      <option>Debit cash, credit concerned Income</option>
+      <option>Debit accrued income , credit concerned income</option>
+      <option>Debit accrued income , credit bank</option>
+    </options>
+    <answer>Debit accrued income , credit concerned income</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following accounts are not balanced at the end of the Accounting period</text>
+    <options>
+      <option>Real Accounts</option>
+      <option>Nominal Accounts</option>
+      <option>Personal Accounts</option>
+      <option>All Accounts are balanced</option>
+    </options>
+    <answer>Nominal Accounts</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The Auditor's_____________safeguards the auditor's ability to form an audit opinion without being affected by any influences.</text>
+    <options>
+      <option>Objectivity</option>
+      <option>Integrity</option>
+      <option>Confidentiality</option>
+      <option>Independence</option>
+    </options>
+    <answer>Independence</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>All expenses other than direct material or direct labour which are specially incurred for a particular cost object and can be identified in an economically feasible way are termed as</text>
+    <options>
+      <option>Direct Expenses</option>
+      <option>Indirect Expenses</option>
+      <option>Indirect material</option>
+      <option>Overheads</option>
+    </options>
+    <answer>Direct Expenses</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>At the time of finalization of accounts, bad debt recovered account will be transferred to</text>
+    <options>
+      <option>Debtors Account</option>
+      <option>Profit and Loss Account</option>
+      <option>Profit and Loss Adjustment Account</option>
+      <option>Profit and Loss Appropriation Account</option>
+    </options>
+    <answer>Profit and Loss Account</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following statements is correct i. Provident Fund has debit balance ii. Accrued Income has credit balance iii. Advance from from customers has debit balance</text>
+    <options>
+      <option>Only i</option>
+      <option>Only ii</option>
+      <option>Only iii</option>
+      <option>All are incorrect statements</option>
+    </options>
+    <answer>All are incorrect statements</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>If the Partnership deed is silent but one partner is actively working in the office &amp; another partner is not working at all, then what is the salary that can be paid to the partner who is actively engaged in the affairs of the business</text>
+    <options>
+      <option>RS 5000 per month</option>
+      <option>6% of his Capital</option>
+      <option>No Salary</option>
+      <option>6% of his capital or 5000 per month, whichever is higher</option>
+    </options>
+    <answer>No Salary</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>If the passbook shows a favourable balance and if it is taken as the starting point for the purpose of bank reconciliation statement then cheques issued but not presented for payment should be .............to find out the balance as per cash book.</text>
+    <options>
+      <option>Added</option>
+      <option>Subtracted</option>
+      <option>No Treatment</option>
+      <option>None of the above</option>
+    </options>
+    <answer>Subtracted</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The closing capital of Mr B as on 31.03.2016 was Rs 4,00,000. On 01.04.2015, his capital was Rs 3,50,000. His Net Profit for the year ended 31.03.2016 was Rs 1,00,000. He introduced Rs 30,000 as additional capital in February 2016. Find out the amount withdrawn by Mr B for his domestic expenses.</text>
+    <options>
+      <option>Rs 1,00,000</option>
+      <option>Rs 80,000</option>
+      <option>Rs 1,20,000</option>
+      <option>Rs 1,80,000</option>
+    </options>
+    <answer>Rs 80,000</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>When a rational person makes a choice, the concept of opportunity cost enters, thus opportunity cost is defined as</text>
+    <options>
+      <option>the benefit gained in terms of the next best alternative foregone when a choice is made</option>
+      <option>the benefit lost in terms of the next best alternative foregone when a choice is made</option>
+      <option>the benefit lost in terms of the next best alternative gained when a choice is made</option>
+      <option>the benefit lost in terms of the next best alternative foregone when there is no choice at all</option>
+    </options>
+    <answer>the benefit lost in terms of the next best alternative foregone when a choice is made</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>GST is a _______________based tax on consumption of goods &amp; services</text>
+    <options>
+      <option>Production</option>
+      <option>Destination</option>
+      <option>Distribution</option>
+      <option>Manufacture</option>
+    </options>
+    <answer>Destination</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Shyam bought goods having the list price of Rs. 50,000 from Ram less 20% trade discount &amp; 2% cash discount and paid 40% by cheque. What is the amount paid by Shyam ?</text>
+    <options>
+      <option>Rs. 16,000</option>
+      <option>Rs. 19,600</option>
+      <option>Rs. 15,680</option>
+      <option>Rs. 15,600</option>
+    </options>
+    <answer>Rs. 15,680</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Ledger Folio column is mentioned in</text>
+    <options>
+      <option>Journal</option>
+      <option>Ledger</option>
+      <option>Cash book</option>
+      <option>Both Journal &amp; Cash book</option>
+    </options>
+    <answer>Both Journal &amp; Cash book</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Compute cost of goods sold for the year 2021 with the help of the following information Sales 20, 00,000 Purchases 15, 00,000 Wages 1, 00,000 Stock (Apr. 01, 2020) 3, 00,000 Stock (March 31, 2021) 4,00,000 Freight inwards 1,00,000</text>
+    <options>
+      <option>15,00,000</option>
+      <option>14,00,000</option>
+      <option>16,00,000</option>
+      <option>17,00,000</option>
+    </options>
+    <answer>16,00,000</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Match the items given under ‘A’ with the correct items under ‘B’ (i) Closing stock is credited to (a) Trial balance (ii) Accuracy of book of account is tested by (b) Trading account (iii) On returning the goods to seller, the buyer sends (c) Credit note (iv) The financial position is determined by (d) Balance sheet (v) On receiving the returned goods from the (e) Debit note buyer, the seller sends</text>
+    <options>
+      <option>i - b , ii - d , iii - e , iv - a , v - c</option>
+      <option>i - b , ii - a , iii - e , iv - d , v - c</option>
+      <option>i - d , ii - a , iii - e , iv - b , v - c</option>
+      <option>i - b , ii - a , iii - c , iv - d , v - e</option>
+    </options>
+    <answer>i - b , ii - a , iii - e , iv - d , v - c</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>A second hand car was purchased for Rs. 2,00,000 and depreciation is charged @ 10 % on written down value method and car is sold after 2 years for Rs. 1,40,000. Find the profit or loss on the sale of the car.</text>
+    <options>
+      <option>Loss of Rs. 20,000</option>
+      <option>Loss of Rs. 11,000</option>
+      <option>Profit of Rs. 11,000</option>
+      <option>Loss of Rs. 22,000</option>
+    </options>
+    <answer>Loss of Rs. 22,000</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Creating provision for bad &amp; doubtful debts is an application of which of the following principles /concepts :</text>
+    <options>
+      <option>Realisation Principle</option>
+      <option>Full Disclosure</option>
+      <option>Conservatism</option>
+      <option>Money Measurement</option>
+    </options>
+    <answer>Conservatism</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>A ____________ is a document drawn by a customer upon a specified banker to pay on demand a certain sum of money.</text>
+    <options>
+      <option>Bill of exchange</option>
+      <option>Promisory note</option>
+      <option>Cheque</option>
+      <option>Letter of credit</option>
+    </options>
+    <answer>Cheque</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Prepaid expenses are valued in Balance sheet at</text>
+    <options>
+      <option>Replacement Cost</option>
+      <option>Current Cost</option>
+      <option>Cost to acquire less accumulated amortization</option>
+      <option>Cost less expired portion</option>
+    </options>
+    <answer>Cost less expired portion</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following account will be credited, if business bought goods on credit from Mr. Z</text>
+    <options>
+      <option>Purchases account</option>
+      <option>Mr. Z account</option>
+      <option>Cash account</option>
+      <option>Sales account</option>
+    </options>
+    <answer>Mr. Z account</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The budget control organization is usually headed by a top executive who is known as</text>
+    <options>
+      <option>General Manager</option>
+      <option>Accountant of the Organization</option>
+      <option>Budget director/budget controller</option>
+      <option>None of the above</option>
+    </options>
+    <answer>Budget director/budget controller</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Deewali advance given to an employee is</text>
+    <options>
+      <option>Revenue Expenditure</option>
+      <option>Capital Expenditure</option>
+      <option>Deferred Revenue Expenditure</option>
+      <option>Not an Expenditure</option>
+    </options>
+    <answer>Not an Expenditure</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The relation of partner with the firm is that of:</text>
+    <options>
+      <option>An Owner</option>
+      <option>An Agent</option>
+      <option>An Owner and an Agent</option>
+      <option>Manager</option>
+    </options>
+    <answer>An Owner and an Agent</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>When an endorsed cheque is dishonoured, Bank account will be</text>
+    <options>
+      <option>Debited</option>
+      <option>Credited</option>
+      <option>No entry in Cash book</option>
+      <option>None of the above</option>
+    </options>
+    <answer>No entry in Cash book</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following is not related with Money Market?</text>
+    <options>
+      <option>Treasury Bills</option>
+      <option>Commercial Bills</option>
+      <option>Certificates of Deposit</option>
+      <option>Shares</option>
+    </options>
+    <answer>Shares</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>If one of the cars purchased by a car dealer is used for business purpose, instead of resale, then it should be recorded by_____</text>
+    <options>
+      <option>Dr Office Expenses A/c &amp; Cr Motor Car A/c</option>
+      <option>Dr Drawing A/c &amp; Cr Purchases A/c</option>
+      <option>Dr Motor Car A/c &amp; Cr Purchases A/c</option>
+      <option>Dr Motor Car &amp; Cr Sales A/c</option>
+    </options>
+    <answer>Dr Motor Car A/c &amp; Cr Purchases A/c</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>What is the rate of Health &amp; Education Cess in India at Present</text>
+    <options>
+      <option>3%</option>
+      <option>5%</option>
+      <option>2%</option>
+      <option>4%</option>
+    </options>
+    <answer>4%</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following is true ?</text>
+    <options>
+      <option>Payment of liability Causes an increase in Owners equity</option>
+      <option>Purchase of an asset, either in cash or Credit, does not change the owners equity</option>
+      <option>The accounting equation is Assets + Liability = Owner's equity</option>
+      <option>The Collection of an Account Receivable will cause total assets to increase</option>
+    </options>
+    <answer>Purchase of an asset, either in cash or Credit, does not change the owners equity</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>Which of the following statements is correct? i. Increase in revenue/gain is credited. ii. Increase in capital is credited. iii. Increase in expense is debited. iv. increase in liabilities is credited.</text>
+    <options>
+      <option>Only i &amp; iii</option>
+      <option>Only ii &amp; iv</option>
+      <option>i, iii &amp; iv</option>
+      <option>All are correct</option>
+    </options>
+    <answer>All are correct</answer>
+  </question>
+  <question>
+    <subject>Accounting &amp; Bookkeeping</subject>
+    <text>The PFMS was included in __________initiative of the Planning Commission.</text>
+    <options>
+      <option>10th Plan</option>
+      <option>9th Plan</option>
+      <option>12th Plan</option>
+      <option>11th Plan</option>
+    </options>
+    <answer>12th Plan</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Select the right modal for the blank When we lived in Malaysia, we _____ often ________ in the restaurant next to my flat.</text>
+    <options>
+      <option>will, eat</option>
+      <option>would, eat</option>
+      <option>have, ate</option>
+      <option>could, eaten</option>
+    </options>
+    <answer>would, eat</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Rearrange the sentences in meaningful order: A. In addition, learners should also be taught to write letters associated with the day to day running of life. B. Writing letters is a good way to learn communication skills. C. For example letters to invite and thank speakers, letters requesting research information, etc. D. Learners should be encouraged to write “real” letters wherever possible.</text>
+    <options>
+      <option>BDCA</option>
+      <option>BDAC</option>
+      <option>CADB</option>
+      <option>ACDB</option>
+    </options>
+    <answer>BDCA</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Which of the following choices is the correct reported speech of the question statement? She said to her daughter, “Don ’t worry, everything shall be fine ”.</text>
+    <options>
+      <option>She told her daughter to not worry as everything should be fine.</option>
+      <option>She comforted her daughter asking her not to worry as everything shall be fine.</option>
+      <option>She advised her daughter to not to worry as everything was going to be fine.</option>
+      <option>She comforted her daughter telling her not to worry as everything would be fine.</option>
+    </options>
+    <answer>She comforted her daughter telling her not to worry as everything would be fine.</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Fill the blanks with the right pair of words: My _______to you is that you should ______ yourself to the situation as quickly as possible.</text>
+    <options>
+      <option>Advise, adapt</option>
+      <option>Advise, adopt</option>
+      <option>Advice, adopt</option>
+      <option>Advice, adapt</option>
+    </options>
+    <answer>Advice, adapt</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Select the meaning of the underlined phrase There is nothing so bad as washing one's dirty linen in public</text>
+    <options>
+      <option>washing ones clothes in the open</option>
+      <option>cleaning dirty clothes in the public</option>
+      <option>discussing unpleasant private matters before strangers</option>
+      <option>washing others dirty clothes</option>
+    </options>
+    <answer>discussing unpleasant private matters before strangers</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Fill in the blanks with the correct homophones: He asked me to keep the things ________ but I could not ________ him properly.</text>
+    <options>
+      <option>hear, hear</option>
+      <option>here, hear</option>
+      <option>here, here</option>
+      <option>hear, here</option>
+    </options>
+    <answer>here, hear</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Synonym of enamour is</text>
+    <options>
+      <option>Demand loudly</option>
+      <option>Resist</option>
+      <option>Captivate</option>
+      <option>Disharmony</option>
+    </options>
+    <answer>Captivate</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Fill in the blanks with the correct pronouns: The mayor wrote a letter to Seema and _______ in which he asked us if we could settle the matter between __________.</text>
+    <options>
+      <option>me, us</option>
+      <option>I, us</option>
+      <option>me, we</option>
+      <option>myself, ourselves</option>
+    </options>
+    <answer>me, us</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Insert the right article in the blank. I have been suffering from _______Fever</text>
+    <options>
+      <option>the</option>
+      <option>a</option>
+      <option>an</option>
+      <option>No Article</option>
+    </options>
+    <answer>No Article</answer>
+  </question>
+  <question>
+    <subject>General English</subject>
+    <text>Select the correct preposition for the blank: The present speech is mild, contrasted ____________ his past utterance on the same subject</text>
+    <options>
+      <option>To</option>
+      <option>Against</option>
+      <option>For</option>
+      <option>In</option>
+    </options>
+    <answer>To</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Which partition value divides the total set of values into four equal Parts</text>
+    <options>
+      <option>Deciles</option>
+      <option>Percentile</option>
+      <option>Quartile</option>
+      <option>Median</option>
+    </options>
+    <answer>Quartile</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>The export of agricultural product in million dollars from a country during eight quarters in 1974 and 1975 was recorded as 29.7, 16.6, 2.3, 14.1, 36.6, 18.7, 3.5, 21.3. Find the median of the given set of values.</text>
+    <options>
+      <option>18.7 million dollars</option>
+      <option>17.85 million dollars</option>
+      <option>16.6 million dollars</option>
+      <option>17.65 million dollars</option>
+    </options>
+    <answer>17.65 million dollars</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>As per 2011 census, what is the Sex ratio (Number of females per 1000 males ) in India.</text>
+    <options>
+      <option>933</option>
+      <option>943</option>
+      <option>940</option>
+      <option>929</option>
+    </options>
+    <answer>943</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>In statistics, an arrangement of raw data in an order of magnitude or in a sequence is called</text>
+    <options>
+      <option>Sequencing</option>
+      <option>Ordering</option>
+      <option>Array</option>
+      <option>Grouping</option>
+    </options>
+    <answer>Array</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>G.M between _______________________is called to be Fisher's Index Number?</text>
+    <options>
+      <option>Laspeyre's and Paasche's</option>
+      <option>Marshall and Laspeyre's</option>
+      <option>Marshall and Paasche's</option>
+      <option>Fisher and Paasche's</option>
+    </options>
+    <answer>Laspeyre's and Paasche's</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>In a moderately symmetric distribution mean, median and mode are connected by</text>
+    <options>
+      <option>MODE= 2 MEDIAN – 3 MEAN</option>
+      <option>MODE= 3 MEDIAN – 2 MEAN</option>
+      <option>MODE= 3 MEDIAN – 4 MEAN</option>
+      <option>MODE = MEDIAN + MEAN</option>
+    </options>
+    <answer>MODE= 3 MEDIAN – 2 MEAN</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Three cards are drawn successively from a well-shuffled pack of 52 playing cards. Find the probability all three cards drawn successively is ace without replacing the card after each draw</text>
+    <options>
+      <option>4/52</option>
+      <option>3/52</option>
+      <option>1/5525</option>
+      <option>None of the above</option>
+    </options>
+    <answer>1/5525</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Number of new cases in a specified disease in a calender year is called</text>
+    <options>
+      <option>Incidence Rate</option>
+      <option>Prevalence rate</option>
+      <option>Penetration Rate</option>
+      <option>None of the above</option>
+    </options>
+    <answer>Incidence Rate</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>If the value of (AB) =60, (Aβ) =40, (AlphaB) =30, (Alphaβ) = 20, The value of N is</text>
+    <options>
+      <option>130</option>
+      <option>150</option>
+      <option>30</option>
+      <option>100</option>
+    </options>
+    <answer>150</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Which one of the method is not a primary data collection method</text>
+    <options>
+      <option>Questionnaire method</option>
+      <option>Date collected from published sources</option>
+      <option>Local correspondent method</option>
+      <option>Indirect investigation</option>
+    </options>
+    <answer>Date collected from published sources</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>Find the number of ways in which letters of word “OEEGA” can be arranged if O and A are on the end places:</text>
+    <options>
+      <option>12</option>
+      <option>24</option>
+      <option>6</option>
+      <option>3</option>
+    </options>
+    <answer>6</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>The taxi charges in a city consist of fixed charge together with charge per km for distance covered. For a distance of 20km, the charge paid is Rs. 205 and for distance of 25 km, the charge paid on Rs. 255. How much does a person have to pay for distance of 50 km?</text>
+    <options>
+      <option>505</option>
+      <option>500</option>
+      <option>495</option>
+      <option>Information is insufficient</option>
+    </options>
+    <answer>505</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>If in a hotel, 60% had vegetarian lunch while 30% had non-vegetarian lunch and 15% had both types of lunch. If 96 people were present, then how many didn’t eat at all?</text>
+    <options>
+      <option>20</option>
+      <option>24</option>
+      <option>26</option>
+      <option>28</option>
+    </options>
+    <answer>24</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>The coefficient of y in the expansion of (y² + c/y)5 is</text>
+    <options>
+      <option>10c</option>
+      <option>10c²</option>
+      <option>10c³</option>
+      <option>None of these</option>
+    </options>
+    <answer>10c³</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>The points (-5, 1), (1, p) and (4, -2) are collinear if the value of p is</text>
+    <options>
+      <option>3</option>
+      <option>2</option>
+      <option>1</option>
+      <option>-1</option>
+    </options>
+    <answer>-1</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>If f(x) = 1/(1-x) and g(x) = (x-1)/x , then fog(x) is</text>
+    <options>
+      <option>x2</option>
+      <option>1/x</option>
+      <option>–x</option>
+      <option>None of these</option>
+    </options>
+    <answer>None of these</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>The derivative of a constant function is</text>
+    <options>
+      <option>1</option>
+      <option>Constant itself</option>
+      <option>0</option>
+      <option>∞</option>
+    </options>
+    <answer>0</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>If 
+      
+      Then order of matrix A =?</text>
+    <options>
+      <option>2 x 2</option>
+      <option>2 x 3</option>
+      <option>3 x 2</option>
+      <option>3 x 3</option>
+    </options>
+    <answer>2 x 3</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>In a single cast of two dice the odds against drawing a sum of 7:</text>
+    <options>
+      <option>1:6</option>
+      <option>1:12</option>
+      <option>5:1</option>
+      <option>1:5</option>
+    </options>
+    <answer>5:1</answer>
+  </question>
+  <question>
+    <subject>Mathematics</subject>
+    <text>The difference between compound interest and simple interest at the same rate of interest R% p.a on Rs. 15000/- for 2yrs is Rs. 96/- .What is value of R?</text>
+    <options>
+      <option>8%</option>
+      <option>6%</option>
+      <option>12%</option>
+      <option>14%</option>
+    </options>
+    <answer>8%</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>Marginal cost is defined as :</text>
+    <options>
+      <option>the change in total cost due to one unit change in output</option>
+      <option>total cost divided by total output</option>
+      <option>change in output due to one unit change in input</option>
+      <option>total product divided by quantity of inputs</option>
+    </options>
+    <answer>the change in total cost due to one unit change in output</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>Under which plan of the Indian economy did the government introduce the agricultural strategy which gave rise to green revolution?</text>
+    <options>
+      <option>Second Five year plan</option>
+      <option>Third Five year plan</option>
+      <option>Fifth Five year plan</option>
+      <option>Seventh Five year plan</option>
+    </options>
+    <answer>Third Five year plan</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>___ is the official minimum rate at which the Central Bank of a country is prepared to rediscount approved bills held by the commercial banks.</text>
+    <options>
+      <option>Bank Rate</option>
+      <option>Repo rate</option>
+      <option>Prime lending rate</option>
+      <option>Reverse repo rate</option>
+    </options>
+    <answer>Bank Rate</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>Gross National disposable income is equal to:</text>
+    <options>
+      <option>Net National disposable income + Current replacement cost</option>
+      <option>Net National disposable income – Corporate profit tax</option>
+      <option>Gross National disposable income – Direct personal taxes</option>
+      <option>Gross National disposable income – Miscellaneous fees and fines paid by the households</option>
+    </options>
+    <answer>Net National disposable income + Current replacement cost</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>What will be the effect of rise in price of a commodity on the total revenue when demand is elastic?</text>
+    <options>
+      <option>Total revenue will increase or decrease alternately</option>
+      <option>Total revenue will increase</option>
+      <option>Total revenue will decrease</option>
+      <option>Total revenue will remain unchanged</option>
+    </options>
+    <answer>Total revenue will decrease</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>In case of law of variable proportions, point of inflexion is where:</text>
+    <options>
+      <option>TP starts declining because MP is negative</option>
+      <option>TP stops increasing at the increasing rate and starts increasing at the decreasing rate</option>
+      <option>MP is decreasing and TP is increasing at the increasing rate.</option>
+      <option>MP is increasing and TP is increasing at the increasing rate</option>
+    </options>
+    <answer>TP stops increasing at the increasing rate and starts increasing at the decreasing rate</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>What is Fiscal deficit?</text>
+    <options>
+      <option>It occurs when a government's total revenue exceeds the total expenditure excluding borrowings.</option>
+      <option>It is the difference between governments total receipts and its total expenditure including borrowings</option>
+      <option>It occurs when a government's total expenditure exceed the revenue that it generates, excluding money from borrowings</option>
+      <option>No option is correct</option>
+    </options>
+    <answer>It occurs when a government's total expenditure exceed the revenue that it generates, excluding money from borrowings</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>Which factor induces the movement of the economy from a point inside the production possibility curve to a point on it?</text>
+    <options>
+      <option>Increase in productive capacity</option>
+      <option>Decrease in productive capacity</option>
+      <option>Fuller employment of the given resources</option>
+      <option>Partial employment of the given resources</option>
+    </options>
+    <answer>Fuller employment of the given resources</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>Which of the following statements is incorrect</text>
+    <options>
+      <option>Under monopoly, there is no difference between a firm and an industry</option>
+      <option>A monopolist may restrict output and raise prices</option>
+      <option>Commodities offered for sales under perfect competition will be heterogeneous</option>
+      <option>Product differentiation is peculiar to monopolistic competition</option>
+    </options>
+    <answer>Commodities offered for sales under perfect competition will be heterogeneous</answer>
+  </question>
+  <question>
+    <subject>General Economics</subject>
+    <text>In case of a Giffen good, the Demand curve will be</text>
+    <options>
+      <option>Horizontal</option>
+      <option>downward sloping to the right</option>
+      <option>upward sloping to the right</option>
+      <option>Vertical</option>
+    </options>
+    <answer>upward sloping to the right</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Which of the following is not true regarding the Newton’s Third Law of Motion?</text>
+    <options>
+      <option>To every action there is an equal and opposite reaction.</option>
+      <option>Action and reaction act on the same body.</option>
+      <option>There is no cause effect relation in action and reaction.</option>
+      <option>Action and Reaction forces are simultaneous.</option>
+    </options>
+    <answer>Action and reaction act on the same body.</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Ocean Thermal Energy Conversion (OTEC) is a process that can produce electricity by using the</text>
+    <options>
+      <option>Energy stored by waves in the ocean</option>
+      <option>Pressure difference at different levels in the ocean</option>
+      <option>Tides arising out in the ocean</option>
+      <option>Temperature difference at different levels in the ocean</option>
+    </options>
+    <answer>Temperature difference at different levels in the ocean</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>What would be the power rating of the heater coil when used on 220V supply taking 6 Amperes of current?</text>
+    <options>
+      <option>1.2 kw</option>
+      <option>1.32 kw</option>
+      <option>132 kw</option>
+      <option>1320 kw</option>
+    </options>
+    <answer>1.32 kw</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Which of the following vitamins is also known as ascorbic acid?</text>
+    <options>
+      <option>Vitamin B</option>
+      <option>Vitamin A</option>
+      <option>Vitamin E</option>
+      <option>Vitamin C</option>
+    </options>
+    <answer>Vitamin C</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Which of the following is not an infectious disease?</text>
+    <options>
+      <option>Dengue</option>
+      <option>Typhoid Fever</option>
+      <option>Scurvy</option>
+      <option>Whooping Cough</option>
+    </options>
+    <answer>Scurvy</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>The ratio between energy flow at different points in a food chain is known as</text>
+    <options>
+      <option>Ecological capacity</option>
+      <option>Ecological efficiency</option>
+      <option>Ecological assimilation</option>
+      <option>Ecological potential</option>
+    </options>
+    <answer>Ecological efficiency</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Roots of the plants absorb water from the soil through the process of</text>
+    <options>
+      <option>Diffusion</option>
+      <option>Transpiration</option>
+      <option>Osmosis</option>
+      <option>None of these</option>
+    </options>
+    <answer>Osmosis</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Which of the following nonmetals exists in liquid state at room temperature?</text>
+    <options>
+      <option>Bromine</option>
+      <option>Hydrogen</option>
+      <option>Sulphur</option>
+      <option>Chlorine</option>
+    </options>
+    <answer>Bromine</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>Freons are generally not recommended for use because they cause</text>
+    <options>
+      <option>Global Warming</option>
+      <option>Acid Rain</option>
+      <option>Air Pollution</option>
+      <option>Ozone Depletion</option>
+    </options>
+    <answer>Ozone Depletion</answer>
+  </question>
+  <question>
+    <subject>General Science</subject>
+    <text>The formation of Calcium oxide and carbon dioxide by heating lime stone is an example of</text>
+    <options>
+      <option>Combination Reaction</option>
+      <option>Displacement Reaction</option>
+      <option>Double Displacement Reaction</option>
+      <option>Decomposition Reaction</option>
+    </options>
+    <answer>Decomposition Reaction</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>Which of the following is an Open-Source software?</text>
+    <options>
+      <option>Linux</option>
+      <option>Mozilla Firefox</option>
+      <option>VLC media player</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>In MS Word 2019, what is the shortcut key combination to navigate to the Design Tab on the Ribbon?</text>
+    <options>
+      <option>Alt + H</option>
+      <option>Alt + N</option>
+      <option>Alt + G</option>
+      <option>Alt + T</option>
+    </options>
+    <answer>Alt + G</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>A network of compromised computers usually employed by a hacker to execute a DDoS attack is called a</text>
+    <options>
+      <option>Denial of Service</option>
+      <option>LAN</option>
+      <option>Botnet</option>
+      <option>VirusNet</option>
+    </options>
+    <answer>Botnet</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>Which of the following storage devices is semiconductor based?</text>
+    <options>
+      <option>Hard Disk</option>
+      <option>SSD</option>
+      <option>CD</option>
+      <option>Floppy Disk</option>
+    </options>
+    <answer>SSD</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>Which of the following is a suitable role of IT in governance?</text>
+    <options>
+      <option>Striving for E-Legislature</option>
+      <option>Promoting Participative Democracy</option>
+      <option>Virtual Judiciary</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>Match the following? (i) Normal View (a) It provides a view of slides in thumbnail form. (ii) Slide Sorter View (b) In this view, the notes pane is located just below the slide pane. (iii) Notes Page View (c) This is the main editing view, where you write and design your presentations, i.e., actual screen which is displayed. (iv) Slide Show (d) This is used to deliver a presentation to the audience and takes up the full computer screen</text>
+    <options>
+      <option>i – a, ii - c, iii – b, iv - d</option>
+      <option>i – b, ii - d, iii – a, iv - c</option>
+      <option>i – c, ii - a, iii – b, iv – d</option>
+    </options>
+    <answer>i – c, ii - a, iii – b, iv – d</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>Which of the following is not a characteristic of computers?</text>
+    <options>
+      <option>Consistency</option>
+      <option>User Independence</option>
+      <option>Versatility</option>
+      <option>Reliability</option>
+    </options>
+    <answer>User Independence</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>What is the main job of the Mother Board in a computer system?</text>
+    <options>
+      <option>Sends power to all the components</option>
+      <option>Tells the computer what to do</option>
+      <option>Holds all the circuits and components together</option>
+      <option>Tells the computer what to do</option>
+    </options>
+    <answer>Holds all the circuits and components together</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>The malicious program that is related to ancient Greek mythology, during the war between Greece and Troy, the city of Troy was surrounded by the Greek army and they decided to make a hollow wooden horse with soldiers hidden inside it to enter the city. The wooden horse was presented to the citizens of the Troy as a gift. During the night, the soldiers came out of the horse and conquered city.</text>
+    <options>
+      <option>Antivirus</option>
+      <option>Boot sector virus</option>
+      <option>Worms</option>
+      <option>Trojan Horses</option>
+    </options>
+    <answer>Trojan Horses</answer>
+  </question>
+  <question>
+    <subject>Knowledge of Computers</subject>
+    <text>The hardware devices that are not part of the main computer system and are often added later to the system are called as the</text>
+    <options>
+      <option>System Unit</option>
+      <option>Peripherals</option>
+      <option>Drivers</option>
+      <option>Firmware</option>
+    </options>
+    <answer>Peripherals</answer>
+  </question>
+
+
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<test name="JKSSB FAA Full Length Mock Test 2 (Old)" type="full" isLive="Yes">
+        <correctMarks>1</correctMarks>
+        <negativeMarks>0.25</negativeMarks>
+
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+     <text>Consider the following statements regarding the ICC Women's World Cup 2025:
+      <statement>I. India won the ICC Women's World Cup 2025.</statement>
+      <statement>II. The final match was played against South Africa.</statement>
+      <statement>III. India won the final by 52 runs.</statement>
+      <statement>IV. The final was held at the DY Patil Stadium in Navi Mumbai.</statement>
+      Which of the above statements are correct?</text>
+    <options>
+      <option>I, II and III only</option>
+      <option>II, III and IV only</option>
+      <option>I, III and IV only</option>
+      <option>All I, II, III and IV</option>
+    </options>
+    <answer>All I, II, III and IV</answer>
+  </question>
+
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>In which of the following sessions of the Indian National Congress, Subhash Chandra Bose had defeated Pattabhi Sitaramayya in the election of the Congress President?</text>
+    <options>
+      <option>Madras Session 1927</option>
+      <option>Ramgarh Session 1940</option>
+      <option>Haripura Session 1938</option>
+      <option>Tripuri Session 1939</option>
+    </options>
+    <answer>Tripuri Session 1939</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Kashmir's first train was flagged off in the year 2008 by the then PM Manmohan Singh. The train ran from Anantnag station to _______ station.</text>
+    <options>
+      <option>Srinagar</option>
+      <option>Budgam</option>
+      <option>Baramulla</option>
+      <option>Pulwama</option>
+    </options>
+    <answer>Budgam</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>As per the 2011 census, which among the following is the least populated state in India?</text>
+    <options>
+      <option>Mizoram</option>
+      <option>Sikkim</option>
+      <option>Goa</option>
+      <option>Tripura</option>
+    </options>
+    <answer>Sikkim</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Which section of J&amp;K Reorganization Act 2019 talks about inconsistency between laws made by Parliament and laws made by Legislative Assembly.</text>
+    <options>
+      <option>Section 36</option>
+      <option>Section 38</option>
+      <option>Section 35</option>
+      <option>Section 39</option>
+    </options>
+    <answer>Section 35</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+      <text>Security forces have launched "Operation Chhatru," a major anti-terror operation, in which district of Jammu &amp; Kashmir?</text>
+    <options>
+      <option>Baramulla</option>
+      <option>Kishtwar</option>
+      <option>Pulwama</option>
+      <option>Shopian</option>
+    </options>
+    <answer>Kishtwar</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Kashmiri Pandits from various parts of the UT throng to this district to participate in ‘Kapal Mochan Shradh’, an annual ritual to seek emancipation of the souls of deceased, especially children. Identify the district from the following options.</text>
+    <options>
+      <option>Anantnag</option>
+      <option>Jammu</option>
+      <option>Shopian</option>
+      <option>Ganderbal</option>
+    </options>
+    <answer>Shopian</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>In which of the following states of India is Padayani, a ritual dance art form, performed at Bhadrakali temple?</text>
+    <options>
+      <option>Karnataka</option>
+      <option>Maharashtra</option>
+      <option>Kerela</option>
+      <option>Tamil Nadu</option>
+    </options>
+    <answer>Kerela</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Arrange the following in chronological order: A. Chauri Chaura incident B. Arms Act C. Ilbert Bill Controversy D. Public Safety Bill</text>
+    <options>
+      <option>D, B, A, C</option>
+      <option>B, C, A, D</option>
+      <option>B, A, C, D</option>
+      <option>C, B, A, D</option>
+    </options>
+    <answer>B, C, A, D</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+     <text>Which country has officially become the first in the world to enforce a generational ban on smoking, prohibiting anyone born on or after 1st January 2007 from ever purchasing, possessing, or using tobacco products?</text>
+    <options>
+      <option>New Zealand</option>
+      <option>Finland</option>
+      <option>Maldives</option>
+      <option>Bhutan</option>
+    </options>
+    <answer>Maldives</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Census of a country is of greater value when it can be compared with the censuses of the other countries, which are taken at approximately the same time. This feature of census is known as?</text>
+    <options>
+      <option>Universality</option>
+      <option>Relevancy</option>
+      <option>International Simultaneity</option>
+      <option>Periodicity</option>
+    </options>
+    <answer>International Simultaneity</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+     <text>Which city hosted the "G20 Summit 2025," focusing on climate action under the theme "Solidarity, Equality, Sustainability"</text>
+    <options>
+      <option>Johansberg</option>
+      <option>Paris</option>
+      <option>Moscow</option>
+      <option>London</option>
+    </options>
+    <answer>Johansberg</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>India’s first railway university, Gati Shakti Vishvavidyala is located in which of the following states?</text>
+    <options>
+      <option>Haryana</option>
+      <option>Uttar Pradesh</option>
+      <option>Rajasthan</option>
+      <option>Gujarat</option>
+    </options>
+    <answer>Gujarat</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Damdama lake is located in which of the following states?</text>
+    <options>
+      <option>Punjab</option>
+      <option>Uttar Pradesh</option>
+      <option>Haryana</option>
+      <option>Gujarat</option>
+    </options>
+    <answer>Haryana</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Carnivorous plants trap insects in order to meet the deficiency of nitrogen. Which among the following is a carnivorous plant?</text>
+    <options>
+      <option>Moringa Oleifera</option>
+      <option>Triticum aestivum</option>
+      <option>Utricularia</option>
+      <option>Piper nigrum</option>
+    </options>
+    <answer>Utricularia</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Scientific name of Alpine Musk Deer found in J&amp;K is?</text>
+    <options>
+      <option>Oryctolagus cuniculus</option>
+      <option>Vulpes vulpes</option>
+      <option>Antilope cervicapra</option>
+      <option>Moschus Chrysogaster</option>
+    </options>
+    <answer>Moschus Chrysogaster</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+      <text>A nationwide survey covering over 4,800 Urban Local Bodies (ULBs) was conducted to identify Sewer and Septic Tank Workers (SSWs) and strengthen their safety and dignity in sanitation work. This survey was carried out under which scheme?</text>
+    <options>
+      <option>Swachh Bharat Abhiyan</option>
+      <option>Atal Mission for Rejuvenation and Urban Transformation (AMRUT)</option>
+      <option>National Action for Mechanised Sanitation Ecosystem (NAMASTE)</option>
+      <option>Pradhan Mantri Awas Yojana (Urban)</option>
+    </options>
+    <answer>National Action for Mechanised Sanitation Ecosystem (NAMASTE)</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Raksha Mantri Shri Rajnath Singh will preside over the Defence Estates Day celebrations in Delhi Cantonment on December 16, 2025. This event will mark the 100th year of which department?</text>
+    <options>
+      <option>Indian Army Corps of Engineers</option>
+      <option>Defence Research and Development Organisation (DRDO)</option>
+      <option>Defence Estates Department</option>
+      <option>Border Roads Organisation (BRO)</option>
+    </options>
+    <answer>Defence Estates Department</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Where was the first Gen Z Post Office in Jammu &amp; Kashmir inaugurated, aimed at modernising postal services to be more technology-enabled and youth-centric?</text>
+    <options>
+      <option>Srinagar City Centre</option>
+      <option>Jammu University Campus</option>
+      <option>AIIMS Vijaypur campus</option>
+      <option>Leh Main Market</option>
+    </options>
+    <answer>AIIMS Vijaypur campus</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Which part of the J&amp;K Reorganization Act 2019 lists the provisions related to All India Services?</text>
+    <options>
+      <option>Part XIII</option>
+      <option>Part XII</option>
+      <option>Part VIII</option>
+      <option>Part IX</option>
+    </options>
+    <answer>Part XIII</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Sinai peninsula lies between _________ &amp; _________.</text>
+    <options>
+      <option>Gulf of Aden and Gulf of Aqaba</option>
+      <option>Gulf of Aden and Red Sea</option>
+      <option>Persian Gulf and Gulf of Oman</option>
+      <option>Gulf of Suez and Gulf of Aqaba</option>
+    </options>
+    <answer>Gulf of Suez and Gulf of Aqaba</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>In 1934, Hari Singh permitted setting up of Praja Sabha which had 75 members. The number of elected members was 33: ______ Muslims, ____Hindus and _____Sikhs.</text>
+    <options>
+      <option>21, 10, 2</option>
+      <option>15, 15, 3</option>
+      <option>18, 12, 3</option>
+      <option>16, 15, 2</option>
+    </options>
+    <answer>21, 10, 2</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Fiscal deficit is equal to?</text>
+    <options>
+      <option>Total Expenditure – Total Receipts</option>
+      <option>Revenue Deficit – Capital Expenditure + Non Debt Creating Capital Receipts</option>
+      <option>Revenue Deficit + Capital Expenditure – Non Debt Creating Capital Receipts</option>
+      <option>Total Expenditure – Total receipts including borrowings</option>
+    </options>
+    <answer>Revenue Deficit + Capital Expenditure – Non Debt Creating Capital Receipts</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Recently, Geographical Indication application has been filed for 9 products of J&amp;K. Which among the following indigenous varieties of rice is included in the list of these 9 products that are likely to receive the GI tag?</text>
+    <options>
+      <option>Shalimar rice</option>
+      <option>Mughal rice</option>
+      <option>Zag (red rice)</option>
+      <option>Mushk Budji (scented rice)</option>
+    </options>
+    <answer>Mushk Budji (scented rice)</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Match the following countries with the respective water bodies they touch: Column I Column II 1. SudanA. Black sea 2. China B. White Sea 3. BulgariCa. Red Sea 4. RussiaD. Yellow Sea</text>
+    <options>
+      <option>1-B, 2-A, 3-C, 4-D</option>
+      <option>1-C, 2-B, 3-A, 4-D</option>
+      <option>1-D, 2-C, 3-B, 4-A</option>
+      <option>1-C, 2-D, 3-A, 4-B</option>
+    </options>
+    <answer>1-C, 2-D, 3-A, 4-B</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Mopa International Airport is located in which of the following states?</text>
+    <options>
+      <option>Odisha</option>
+      <option>Gujarat</option>
+      <option>Goa</option>
+      <option>Tamil Nadu</option>
+    </options>
+    <answer>Goa</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Baisaran vallay, a popular tourist attraction nicknamed "Mini-Switzerland" due to its stunning beauty, is located in which of the following districts of J&amp;K?</text>
+    <options>
+      <option>Bandipora</option>
+      <option>Doda</option>
+      <option>Anantnag</option>
+      <option>Baramulla</option>
+    </options>
+    <answer>Anantnag</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Which among the following is the highest peak in the Eastern Ghats?</text>
+    <options>
+      <option>Anamudi</option>
+      <option>Kanchenjunga</option>
+      <option>Mahendragiri</option>
+      <option>Jindhagada peak</option>
+    </options>
+    <answer>Jindhagada peak</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>With which state is the art form ‘Patachitra’ associated?</text>
+    <options>
+      <option>Gujarat</option>
+      <option>Telangana</option>
+      <option>Andhra Pradesh</option>
+      <option>Odisha</option>
+    </options>
+    <answer>Odisha</answer>
+  </question>
+  <question>
+    <subject>GK with special reference to J&amp;K</subject>
+    <text>Which of the following is the largest ‘carbon sink’ on the earth?</text>
+    <options>
+      <option>Forests</option>
+      <option>Soil</option>
+      <option>Ocean</option>
+      <option>Animals</option>
+    </options>
+    <answer>Ocean</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Which among the is not the step involved in Audit</text>
+    <options>
+      <option>Ratio analysis</option>
+      <option>Testing</option>
+      <option>Reporting</option>
+      <option>Internal control</option>
+    </options>
+    <answer>Ratio analysis</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>X ltd. follows the written down value method of depreciating machinery year after year due to which concept</text>
+    <options>
+      <option>Comparability</option>
+      <option>Convenience</option>
+      <option>Consistency</option>
+      <option>None of the above</option>
+    </options>
+    <answer>Consistency</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Which of the following accounts has a credit balance</text>
+    <options>
+      <option>Carriage inward</option>
+      <option>Carriage outward</option>
+      <option>Discount allowed</option>
+      <option>Discount received</option>
+    </options>
+    <answer>Discount received</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>A cost which has been incurred in the past and is not relevant to the particular decision making is called as</text>
+    <options>
+      <option>Replacement cost</option>
+      <option>Imputed cost</option>
+      <option>Sunk cost</option>
+      <option>Shut down cost</option>
+    </options>
+    <answer>Sunk cost</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Tax on jewellery will come under which head</text>
+    <options>
+      <option>Income from house property</option>
+      <option>Profit and gains of business or profession</option>
+      <option>Income from other sources</option>
+      <option>Capital gain</option>
+    </options>
+    <answer>Capital gain</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Bank Overdraft is a</text>
+    <options>
+      <option>Short term liability</option>
+      <option>Long term liability</option>
+      <option>Asset</option>
+      <option>Contingent liability</option>
+    </options>
+    <answer>Short term liability</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>A start a business and invest Rs 50,000 on 1st April 2018. On 31 March 2019 his assets are Rs 65,000 and liabilities are Rs 6000. Find out the amount of profit for the year ending on 31st March, 2019, assuming Nil drawings during the year.</text>
+    <options>
+      <option>8000</option>
+      <option>15000</option>
+      <option>9000</option>
+      <option>44000</option>
+    </options>
+    <answer>9000</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Salary of Rs 5,000 is paid to Ranjan, which among the following account will be debited</text>
+    <options>
+      <option>Ranjan A/c</option>
+      <option>Cash A/c</option>
+      <option>Salary A/c</option>
+      <option>Sales A/c</option>
+    </options>
+    <answer>Salary A/c</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Goods costing Rs 500 given as charity ( sales price Rs 600). Which among the following journal entry is correct.</text>
+    <options>
+      <option>Purchase A/c Dr. 500To charity A/c 500</option>
+      <option>Charity A/c. Dr. 600To purchase A/c 600</option>
+      <option>Charity A/c. Dr. 500To purchase A/c 500</option>
+      <option>Purchase A/c Dr. 600To charity A/c 600</option>
+    </options>
+    <answer>Charity A/c. Dr. 500To purchase A/c 500</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>The balance ( debit) at bank in Rahuls cashbook on 30th April, 2016 is Rs 37,380. However a cheque for Rs 43,410 received from Mahesh and the cheque for Rs 5,220 paid to Aman appears in the cashbook, but not on the bank statement. Also , bank charges of Rs 13,500 have not been entered in the cashbook. What will be the balance as per pass book.</text>
+    <options>
+      <option>Favourable balance of Rs 14,310</option>
+      <option>Unfavourable balance of Rs 27,810</option>
+      <option>Unfavourable balance of Rs 14,310</option>
+      <option>Favourable balance of Rs 27,810</option>
+    </options>
+    <answer>Unfavourable balance of Rs 14,310</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Interest on loan raised to construct an asset upto the point it's is ready for use is debited to</text>
+    <options>
+      <option>Cash A/c</option>
+      <option>Capital A/c</option>
+      <option>Interest on loan A/c</option>
+      <option>Asset A/c</option>
+    </options>
+    <answer>Asset A/c</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>A trial balance is</text>
+    <options>
+      <option>A summary</option>
+      <option>An account</option>
+      <option>A statement</option>
+      <option>None of these</option>
+    </options>
+    <answer>A statement</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Type of market in which securities with less than one year maturity are traded, is classified as</text>
+    <options>
+      <option>Money market</option>
+      <option>Capital market</option>
+      <option>Transaction market</option>
+      <option>Global market</option>
+    </options>
+    <answer>Money market</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Social Audit is</text>
+    <options>
+      <option>Financial Audit</option>
+      <option>Non- Financial Audit</option>
+      <option>Both Financial and Non Financial Audit</option>
+      <option>None of the above</option>
+    </options>
+    <answer>Non- Financial Audit</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>………. Is a partner which does not need to give public notice on his retirement</text>
+    <options>
+      <option>Partner in profit</option>
+      <option>Active Partner</option>
+      <option>Nominal partner</option>
+      <option>Dormant partner</option>
+    </options>
+    <answer>Dormant partner</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Opening stock Rs 30,000 , purchase Rs 54,600 , Expenses on purchase Rs 6,000, sales Rs 90,000, Expenses on sale Rs 3000, Closing stock Rs 36,600. Calculate Cost of Goods sold and Gross profit.</text>
+    <options>
+      <option>54,000 and 36,000</option>
+      <option>54,000 and 33,000</option>
+      <option>48,000 and 36,000</option>
+      <option>48,000 and 33,000</option>
+    </options>
+    <answer>54,000 and 36,000</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>The technique of charging all costs,both variable and fixed to operations,processes or products is called</text>
+    <options>
+      <option>Absorption costing</option>
+      <option>Historical costing</option>
+      <option>Marginal costing</option>
+      <option>Uniform costing</option>
+    </options>
+    <answer>Absorption costing</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>A budget designed to remain unchanged irrespective of the level of activity actually attained is</text>
+    <options>
+      <option>Fixed budget</option>
+      <option>Flexible budget</option>
+      <option>Master budget</option>
+      <option>Material budget</option>
+    </options>
+    <answer>Fixed budget</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Which among the following is excluded from GST</text>
+    <options>
+      <option>Petroleum product</option>
+      <option>Real estate</option>
+      <option>Alcohol for Human consumption</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>The nature of capital is</text>
+    <options>
+      <option>An asset</option>
+      <option>A liability</option>
+      <option>An income</option>
+      <option>An expense</option>
+    </options>
+    <answer>A liability</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>How do we adjust when payment side of cashbook is undercast , if the starting balance is credit balance as per passbook.</text>
+    <options>
+      <option>Added</option>
+      <option>Subtracted</option>
+      <option>Adjusted</option>
+      <option>Not-adjusted</option>
+    </options>
+    <answer>Added</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Which among the following is the objective of Financial management</text>
+    <options>
+      <option>To ensure optimum fund utilization</option>
+      <option>To maximize owners wealth</option>
+      <option>Plan a sound capital structure</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Credit Purchase of computer for office use , is recorded in which of the following books</text>
+    <options>
+      <option>Purchase book</option>
+      <option>Journal proper</option>
+      <option>Sales book</option>
+      <option>None of these</option>
+    </options>
+    <answer>Journal proper</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>When new partner brings goodwill in cash , it will be shared among old partners in</text>
+    <options>
+      <option>Sacrificing ratio</option>
+      <option>Old ratio</option>
+      <option>Gaining ratio</option>
+      <option>New ratio</option>
+    </options>
+    <answer>Sacrificing ratio</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Fixed assets are valued at cost less depression, according to which concept</text>
+    <options>
+      <option>Cost concept</option>
+      <option>Going concern concept</option>
+      <option>Conservatism concept</option>
+      <option>Matching concept</option>
+    </options>
+    <answer>Going concern concept</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Depreciation is a</text>
+    <options>
+      <option>Personal account</option>
+      <option>Real account</option>
+      <option>Nominal account</option>
+      <option>All of these</option>
+    </options>
+    <answer>Nominal account</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>…………. Is a source document used for deposting cash or cheque into bank</text>
+    <options>
+      <option>Cash memo</option>
+      <option>Invoice</option>
+      <option>Receipt</option>
+      <option>Pay-in-slip</option>
+    </options>
+    <answer>Pay-in-slip</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Accounting does not show the reaslisable value of business. It is a</text>
+    <options>
+      <option>Limitation of Accounting</option>
+      <option>Advantage of Accounting</option>
+      <option>Both a and b</option>
+      <option>None of these</option>
+    </options>
+    <answer>Limitation of Accounting</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Machinery purchased for Rs 50,000 was passed through the purchase book. It is</text>
+    <options>
+      <option>Error of omission</option>
+      <option>Error of commission</option>
+      <option>Compensating Error</option>
+      <option>Error of principle</option>
+    </options>
+    <answer>Error of principle</answer>
+  </question>
+  <question>
+    <subject>Accountancy</subject>
+    <text>Which statement shows financial position of the business.</text>
+    <options>
+      <option>Trading account</option>
+      <option>Profit and loss account</option>
+      <option>Trial balance</option>
+      <option>Balance sheet</option>
+    </options>
+    <answer>Balance sheet</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>The food that was served was rather unpleasant, but her company made up for everything. In the above sentence, the word(s) in bold can be replaced by which of these words?</text>
+    <options>
+      <option>Vexatious</option>
+      <option>Torpor</option>
+      <option>Jolly</option>
+      <option>Aberrant</option>
+    </options>
+    <answer>Vexatious</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>_____________ you open the window, please?</text>
+    <options>
+      <option>May</option>
+      <option>Might</option>
+      <option>Will</option>
+      <option>Would</option>
+    </options>
+    <answer>Would</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>To cut corners means?</text>
+    <options>
+      <option>Something is better than nothing</option>
+      <option>To look disappointed for something</option>
+      <option>To take short-cuts</option>
+      <option>To sniff something wrong</option>
+    </options>
+    <answer>To take short-cuts</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>The rotten smell was so _______________ that she became unconscious then and there and had to be hospitalized.</text>
+    <options>
+      <option>revolting</option>
+      <option>gratifying</option>
+      <option>captivating</option>
+      <option>unappealing</option>
+    </options>
+    <answer>revolting</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>Charles ___________ his father in the shop until school____________.</text>
+    <options>
+      <option>is helping, starts</option>
+      <option>helped, was starting</option>
+      <option>was helping, will start</option>
+      <option>has helped, is starting</option>
+    </options>
+    <answer>is helping, starts</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>_________ Titanic met with ______ accident in ______Pacific Ocean.</text>
+    <options>
+      <option>The, a, a</option>
+      <option>The, the, the</option>
+      <option>A, the, a</option>
+      <option>The, a, the</option>
+    </options>
+    <answer>The, a, the</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>In the following question, a pair of similar sounding words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response accordingly. ‘Vial’ and ‘Vile’</text>
+    <options>
+      <option>Vial means a small container and Vile means extremely unpleasant.</option>
+      <option>Vial means a huge container and Vile means extremely pleasant.</option>
+      <option>Vial means extremely pleasant and Vile means huge container.</option>
+      <option>Vial means extremely unpleasant and Vile means small container</option>
+    </options>
+    <answer>Vial means a small container and Vile means extremely unpleasant.</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>In the question given below, there is a sentence with jumbled up parts. Rearrange these parts that are labelled P, Q, R and S to produce a grammatically correct and coherent sentence. The parents__________ P. when they were in France Q. to their three children R. for 7 years S. could not teach Kashmiri</text>
+    <options>
+      <option>SRPQ</option>
+      <option>PRSQ</option>
+      <option>SQPR</option>
+      <option>PQRS</option>
+    </options>
+    <answer>SQPR</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>In the following question, a sentence has been given in direct/indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in direct/indirect speech. He said, “I was writing an application to the mayor about the pathetic condition of road”.</text>
+    <options>
+      <option>He said that we was writing an application to the mayor about the pathetic condition of the road.</option>
+      <option>He said that he has been writing an application to the mayor about the pathetic condition of road.</option>
+      <option>He said that he had been writing an application to the mayor about the pathetic condition of the road.</option>
+      <option>He said that he had written an application to the mayor about the pathetic condition of the road.</option>
+    </options>
+    <answer>He said that he had been writing an application to the mayor about the pathetic condition of the road.</answer>
+  </question>
+  <question>
+    <subject>English</subject>
+    <text>Convert the following sentence into passive voice: They first sun-dried the garbage for one to three days to bring down the moisture level.</text>
+    <options>
+      <option>The garbage was first sun-dried for one to three days to bring down the moisture level.</option>
+      <option>The moisture level of the garbage came down when it was sun-dried for one to three days.</option>
+      <option>One to three days of sun-drying brought down the moisture level of the garbage.</option>
+      <option>The moisture level was brought down by sun-drying the garbage for one to three days.</option>
+    </options>
+    <answer>The garbage was first sun-dried for one to three days to bring down the moisture level.</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Index of Eight Core Industries (ICI) is released by which of the following ministries?</text>
+    <options>
+      <option>MOLE</option>
+      <option>MOSPI</option>
+      <option>Commerce &amp; Industry Ministry</option>
+      <option>Ministry of Corporate Affairs</option>
+    </options>
+    <answer>Commerce &amp; Industry Ministry</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Calculate the modal income from the following data: Daily Income Number of Persons 100-150 17 150-200 24 200-250 33 250-300 58 300-350 26 350-400 19 400-450 5</text>
+    <options>
+      <option>271.39</option>
+      <option>364.39</option>
+      <option>364.93</option>
+      <option>271.93</option>
+    </options>
+    <answer>271.93</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>As per the Sample Registration System (SRS) Statistical Report 2020 released on 22nd September 2022 by Registrar General of India (RGI), what is the value of Infant Mortality Rate (IMR)?</text>
+    <options>
+      <option>20</option>
+      <option>28</option>
+      <option>22</option>
+      <option>32</option>
+    </options>
+    <answer>28</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>____________include such sources that belong to the organization with which the decision maker is associated.</text>
+    <options>
+      <option>External sources</option>
+      <option>Internal sources</option>
+      <option>National Organisation</option>
+      <option>International Organisation</option>
+    </options>
+    <answer>Internal sources</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>If two attributes are positively associated, what does it mean?</text>
+    <options>
+      <option>Both the attributes are absent together.</option>
+      <option>Both the attributes are present together.</option>
+      <option>One attribute is present and the other is absent.</option>
+      <option>Both the attributes are either present or absent together.</option>
+    </options>
+    <answer>Both the attributes are either present or absent together.</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>What is the sex ratio of J&amp;K as per 2011 census?</text>
+    <options>
+      <option>862</option>
+      <option>889</option>
+      <option>854</option>
+      <option>920</option>
+    </options>
+    <answer>889</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>X and Y are independent events such that P (Y) = 0.3 and P (XUY) = 0.6, then what is the value of P (X) ?</text>
+    <options>
+      <option>1/3</option>
+      <option>1/6</option>
+      <option>3/7</option>
+      <option>2/7</option>
+    </options>
+    <answer>3/7</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>Which of the following questionnaires is simple to administer and easy to tabulate and analyse?</text>
+    <options>
+      <option>Structured disguised</option>
+      <option>Structured undisguised</option>
+      <option>Unstructured disguised</option>
+      <option>Unstructured undisguised</option>
+    </options>
+    <answer>Structured undisguised</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>If the value of Geometric Mean is 33 and that of Harmonic Mean is 22, then find the value of Arithmetic Mean?</text>
+    <options>
+      <option>39.5</option>
+      <option>59.5</option>
+      <option>49.5</option>
+      <option>49</option>
+    </options>
+    <answer>49.5</answer>
+  </question>
+  <question>
+    <subject>Statistics</subject>
+    <text>The child-woman ratio relates the number of children aged________ to women in their reproductive period at a given point of time.</text>
+    <options>
+      <option>less than 3 years</option>
+      <option>less than 5 years</option>
+      <option>less than 2 years</option>
+      <option>less than 6 years</option>
+    </options>
+    <answer>less than 5 years</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>Asha has only ₹1 and ₹2 coins with her. If the total number of coins that she has is 50 and the amount of money with her is ₹75, then the number of ₹1 and ₹2 coins are, respectively?</text>
+    <options>
+      <option>35 and 15</option>
+      <option>35 and 20</option>
+      <option>25 and 25</option>
+      <option>15 and 35</option>
+    </options>
+    <answer>25 and 25</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>Amit borrowed Rs. 20,000 from his friend at 15% per annum simple interest he lent it to Tarun at the same but rate compounded annually. Find his gain after 2 years?</text>
+    <options>
+      <option>324</option>
+      <option>604</option>
+      <option>572</option>
+      <option>450</option>
+    </options>
+    <answer>450</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>There are total 18 balls in a bag. Out of them 6 are red in colour, 4 are green in colour and 8 are blue in colour. If Vishal picks three balls randomly from the bag, then what will be the probability that all the three balls are not of the same colour?</text>
+    <options>
+      <option>95/102</option>
+      <option>46/51</option>
+      <option>19/23</option>
+      <option>21/26</option>
+    </options>
+    <answer>46/51</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>A team of 7 children is to be selected out of 7 girls and 5 boys such that it contains at least 5 girls. In how many different ways can the selection be made?</text>
+    <options>
+      <option>105</option>
+      <option>246</option>
+      <option>100</option>
+      <option>128</option>
+    </options>
+    <answer>246</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>Two vertices of a triangle are (3,2) and (7,4).If the centroid of the triangle is (8,9), then what are the coordinates of the third vertex of the triangle?</text>
+    <options>
+      <option>(15, 23)</option>
+      <option>(21, 23)</option>
+      <option>(16,19)</option>
+      <option>(14, 21)</option>
+    </options>
+    <answer>(14, 21)</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>If A is a 4*4 matrix such that |A| = 2, then what is the value of |5A|?</text>
+    <options>
+      <option>125</option>
+      <option>625</option>
+      <option>1250</option>
+      <option>1080</option>
+    </options>
+    <answer>1250</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>If f(x) = x2 - 8x + 7, then what is the value of fʹ(4) + 3fʹ(2)?</text>
+    <options>
+      <option>-18</option>
+      <option>-16</option>
+      <option>-12</option>
+      <option>-20</option>
+    </options>
+    <answer>-12</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>If f : R → R be defined by f(x) = 3x2 – 5 and g : R → R by g(x) = x/(x2 + 1), then g o f is?</text>
+    <options>
+      <option>(3x2 – 5)/(9x4 – 30x2 + 26)</option>
+      <option>(3x2 – 5)/(9x4 – 6x2 + 26)</option>
+      <option>3x2/(9x4 + 30x2 – 2)</option>
+      <option>3x2/(x4 + 2x2 – 4)</option>
+    </options>
+    <answer>(3x2 – 5)/(9x4 – 30x2 + 26)</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>The coefficient of x-4 in (3/2-3/x2)10 is?</text>
+    <options>
+      <option>405/226</option>
+      <option>504/289</option>
+      <option>450/263</option>
+      <option>None of these</option>
+    </options>
+    <answer>None of these</answer>
+  </question>
+  <question>
+    <subject>Maths</subject>
+    <text>The shaded region in the given Venn diagram represents: 
+      
+      </text>
+    <options>
+      <option>A∪(B∪C)</option>
+      <option>A∩(B∩C)</option>
+      <option>A∪(B∩C)</option>
+      <option>A∩(B∪C)</option>
+    </options>
+    <answer>A∪(B∩C)</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>There are 5 All India Financial Institutions regulated by RBI. Which among the following is NOT one of them?</text>
+    <options>
+      <option>EXIM Bank</option>
+      <option>DICGC</option>
+      <option>NABARD</option>
+      <option>SIDBI</option>
+    </options>
+    <answer>DICGC</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>If the price elasticity of demand for a good is 1.2, then the demand for that good is?</text>
+    <options>
+      <option>Perfectly elastic</option>
+      <option>Nearly unitary elastic</option>
+      <option>Relatively elastic</option>
+      <option>Perfectly inelastic</option>
+    </options>
+    <answer>Relatively elastic</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>If a point falls inside the production possibility curve, what does it indicate?</text>
+    <options>
+      <option>Resources are over utilized</option>
+      <option>Resources are under utilized</option>
+      <option>There is employment in the economy</option>
+      <option>Both b and c</option>
+    </options>
+    <answer>Resources are under utilized</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>From the following data, calculate the ‘consumption of fixed capital’. Particulars Rs. (in crores) National income 4000 Gross Domestic Product at Market Price 5000 Net indirect tax 300 Net factor income from abroad 200</text>
+    <options>
+      <option>Rs. 950 crores</option>
+      <option>Rs. 850 crores</option>
+      <option>Rs. 900 crores</option>
+      <option>Rs. 875 crores</option>
+    </options>
+    <answer>Rs. 900 crores</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>Sale proceeds of Govt. bonds is an example of?</text>
+    <options>
+      <option>Revenue receipts</option>
+      <option>Capital expenditure</option>
+      <option>Capital receipts</option>
+      <option>Revenue expenditure</option>
+    </options>
+    <answer>Capital receipts</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>As per New Industrial Policy of 1991, all sick industrial units were referred to _______________ to decide whether a sick unit was to be restructured or closed down.</text>
+    <options>
+      <option>MoFA</option>
+      <option>TIFR</option>
+      <option>PSU</option>
+      <option>BIFR</option>
+    </options>
+    <answer>BIFR</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>Which of the following is NOT one of the central questions that the study of economics is supposed to answer?</text>
+    <options>
+      <option>Who produces what?</option>
+      <option>When are goods produced?</option>
+      <option>Who consumes what?</option>
+      <option>How are goods produced?</option>
+    </options>
+    <answer>When are goods produced?</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>Which of the following is NOT one of the problems faced by most developing nations?</text>
+    <options>
+      <option>Food shortages</option>
+      <option>Foreign debt</option>
+      <option>Rapid population growth</option>
+      <option>Labour shortages</option>
+    </options>
+    <answer>Labour shortages</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>Which of the following statements about monopolistic competition is true?</text>
+    <options>
+      <option>It has a relatively large number of sellers in the market</option>
+      <option>Product differentiation is the corner stone of this market</option>
+      <option>Both A &amp; B</option>
+      <option>It is one of the types of perfect competition market</option>
+    </options>
+    <answer>Both A &amp; B</answer>
+  </question>
+  <question>
+    <subject>Economics</subject>
+    <text>Which phase of ‘Law Of Variable Proportions’ has been ruled out on the grounds of technical inefficiency?</text>
+    <options>
+      <option>Increasing returns to a factor</option>
+      <option>Constant returns to a factor</option>
+      <option>Diminishing returns to a factor</option>
+      <option>Negative returns to a factor</option>
+    </options>
+    <answer>Negative returns to a factor</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Which among the following pollutants is not measured under National Ambient Air Quality Standards (NAAQS)?</text>
+    <options>
+      <option>Arsenic</option>
+      <option>Ammonia</option>
+      <option>Ozone</option>
+      <option>Carbon Dioxide</option>
+    </options>
+    <answer>Carbon Dioxide</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>The empirical formula of “chlorophyll a” is?</text>
+    <options>
+      <option>C55H72O5N4Fe</option>
+      <option>C55H70O6N4Mg</option>
+      <option>C55H72O5N4Mg</option>
+      <option>C55H72O4N5Mg</option>
+    </options>
+    <answer>C55H72O5N4Mg</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Consider the following statements about catalysts: 1. They reduce the activation energy of the reaction. 2. They always increase the rate of reaction. Which among the above statements is/are correct?</text>
+    <options>
+      <option>1 only</option>
+      <option>2 only</option>
+      <option>Both 1 &amp; 2</option>
+      <option>Neither 1 nor 2</option>
+    </options>
+    <answer>1 only</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>All of these are ores of Aluminium except?</text>
+    <options>
+      <option>Cryolite</option>
+      <option>Bauxite</option>
+      <option>Duralumin</option>
+      <option>Corundum</option>
+    </options>
+    <answer>Duralumin</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Which among the following is not a vaccine against COVID-19 disease?</text>
+    <options>
+      <option>Incovacc</option>
+      <option>Cervavac</option>
+      <option>Corbevax</option>
+      <option>Spikevax</option>
+    </options>
+    <answer>Cervavac</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>What is the dimensional formula of electrical resistance?</text>
+    <options>
+      <option>M 1 L 2 T -3 A 1</option>
+      <option>M 1 L 3 T -2 A 2</option>
+      <option>M 1 L 2 T -3 A -2</option>
+      <option>M 1 L 3 T -2 A -2</option>
+    </options>
+    <answer>M 1 L 2 T -3 A -2</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Solar energy is the cleanest and most abundant renewable energy source available and India is trying its best to harness this inexhaustible source of energy. In this regard, India’s largest floating solar power plant is coming up in which of the following states?</text>
+    <options>
+      <option>Tamil Nadu</option>
+      <option>Rajasthan</option>
+      <option>Gujarat</option>
+      <option>Madhya Pradesh</option>
+    </options>
+    <answer>Madhya Pradesh</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Which among the following vitamins is/are natural antioxidants or show(s) antioxidant properties?</text>
+    <options>
+      <option>Vitamin C</option>
+      <option>Vitamin E</option>
+      <option>Vitamin A</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>As we move from equator towards the poles, what happens to the weight?</text>
+    <options>
+      <option>It increases</option>
+      <option>It decreases</option>
+      <option>It remains constant</option>
+      <option>Weight at poles = 1/6 weight at the equator</option>
+    </options>
+    <answer>It increases</answer>
+  </question>
+  <question>
+    <subject>Science</subject>
+    <text>Which among the following shows commensalism?</text>
+    <options>
+      <option>Black Walnut Tree</option>
+      <option>Tapeworms</option>
+      <option>Cattle erget</option>
+      <option>Two closely related species of aquatic birds found together in England in breeding season and feeding on different types of fishes.</option>
+    </options>
+    <answer>Cattle erget</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Who among the following invented the 3D printer?</text>
+    <options>
+      <option>Nick Holonyak</option>
+      <option>Neal Stephenson</option>
+      <option>Danny Boyle</option>
+      <option>Chuck Hull</option>
+    </options>
+    <answer>Chuck Hull</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>For which purpose the given symbol of the flow chart is used: 
+      
+      </text>
+    <options>
+      <option>Connector</option>
+      <option>Input</option>
+      <option>Decision</option>
+      <option>Start</option>
+    </options>
+    <answer>Decision</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>J&amp;K Govt. sets into motion exercise to extend e-office up to Tehsil level. e-office has been developed by National Informatics Centre and launched by which among the following departments?</text>
+    <options>
+      <option>Department of Administrative Reforms and Public Grievances</option>
+      <option>Department of Internal Security</option>
+      <option>Centre for Development of Advance Computing</option>
+      <option>Indian Computer Emergency Response Team (ICERT)</option>
+    </options>
+    <answer>Department of Administrative Reforms and Public Grievances</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Which among the following is not an antivirus software?</text>
+    <options>
+      <option>CoffeeCup</option>
+      <option>Webroot</option>
+      <option>Trend Micro</option>
+      <option>Intego</option>
+    </options>
+    <answer>CoffeeCup</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Which among the following is not an open source software/app?</text>
+    <options>
+      <option>Linux</option>
+      <option>Aarogya Setu</option>
+      <option>VLC Media Player</option>
+      <option>Lotus Symphony</option>
+    </options>
+    <answer>Lotus Symphony</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Recently, J&amp;K became the first Indian UT to completely shift to e-governance mode. e-governance is basically a move towards SMART governance. What does R stand for in “SMART”?</text>
+    <options>
+      <option>Resilient</option>
+      <option>Robust</option>
+      <option>Responsive</option>
+      <option>Reliable</option>
+    </options>
+    <answer>Responsive</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Which among the following is not a mobile operating system?</text>
+    <options>
+      <option>Android</option>
+      <option>Harmony</option>
+      <option>Yandex</option>
+      <option>Sailfish</option>
+    </options>
+    <answer>Yandex</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>In Microsoft Word, in how many ways you can save a document?</text>
+    <options>
+      <option>4</option>
+      <option>5</option>
+      <option>3</option>
+      <option>2</option>
+    </options>
+    <answer>3</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>De bugging is the process of:</text>
+    <options>
+      <option>A. Rolling out a software program</option>
+      <option>B. Modifying a software program</option>
+      <option>C. Checking errors in a software program</option>
+      <option>D. Changing the design structure of a program</option>
+    </options>
+    <answer>C</answer>
+  </question>
+  <question>
+    <subject>Computer</subject>
+    <text>Which of the following shortcut keys represents the correct sequence for copy, paste and cut commands?</text>
+    <options>
+      <option>Ctrl + V; Ctrl+C; Ctrl+V</option>
+      <option>Ctrl + C; Ctrl+V; Ctrl+X</option>
+      <option>Ctrl + X; Ctrl+C; Ctrl+V</option>
+      <option>Ctrl + C; Ctrl+X; Ctrl+V</option>
+    </options>
+    <answer>Ctrl + C; Ctrl+V; Ctrl+X</answer>
+  </question>
+
+
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<test name="Dummy" type="full" isLive="No">
+        <correctMarks>1</correctMarks>
+        <negativeMarks>0.25</negativeMarks>
+
+
+
+</test>
+
 </mock-tests>

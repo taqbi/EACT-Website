@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function setupEventListeners() {
             // A single, powerful event listener for the entire category container
-        document.querySelectorAll('.dashboard-card').forEach(card => {
+        document.querySelectorAll('.mcq-card').forEach(card => {
             card.addEventListener('click', (e) => {
                 e.preventDefault(); // Prevent default link behavior
                 const action = card.dataset.action;
@@ -400,7 +400,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     resetQuizView();
                     populateExamFilter();
                     populateSubjectFilter(); // Initial population
-                    newFilterContainer.style.display = 'grid';
+                    newFilterContainer.style.display = 'block';
                     newFilterContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
                 } else if (action === 'show-progress') {
                     resetQuizView();
@@ -411,6 +411,25 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
             });
         });
+
+        // Close button for filters
+        const closeFiltersBtn = document.getElementById('close-filters-btn');
+        if (closeFiltersBtn) {
+            closeFiltersBtn.addEventListener('click', () => {
+                newFilterContainer.style.display = 'none';
+                // Optional: scroll back to top
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        }
+
+        // Close button for progress
+        const closeProgressBtn = document.getElementById('close-progress-btn');
+        if (closeProgressBtn) {
+            closeProgressBtn.addEventListener('click', () => {
+                progressContainer.style.display = 'none';
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        }
 
             // --- New Dependent Dropdown Logic ---
 

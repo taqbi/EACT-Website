@@ -54,87 +54,119 @@
 </header>
 
 <main>
-    <div class="content-title"> <h2>MCQs and Previous Year Papers</h2> </div>
-
     <div class="mcq-main-container">
+        
+        <div class="mcq-welcome-header">
+            <h1>MCQ Practice Portal</h1>
+            <p>Master your preparation with our extensive collection of Previous Year Questions (PYQs) and Subject-wise Practice MCQs.</p>
+        </div>
+
         <div id="category-container">
-            <!-- New Dashboard Card Layout -->
-            <a href="#" class="dashboard-card" data-action="show-filters" data-category="pyq">
-                <div class="card-icon"><i class="fas fa-history"></i></div>
-                <div class="card-content">
-                    <h4>PYQs</h4>
-                    <p>Practice with past exam questions.</p>
-                </div>
-            </a>
+            <!-- PYQ Card -->
+            <div class="mcq-card" data-action="show-filters" data-category="pyq">
+                <div class="mcq-card-icon"><i class="fas fa-history"></i></div>
+                <h3>Previous Year Questions</h3>
+                <p>Practice with actual questions from past exams to understand the pattern.</p>
+                <button class="mcq-card-btn">Explore PYQs</button>
+            </div>
 
-            <a href="#" class="dashboard-card" data-action="show-filters" data-category="practice">
-                <div class="card-icon"><i class="fas fa-pencil-alt"></i></div>
-                <div class="card-content">
-                    <h4>Practice MCQs</h4>
-                    <p>Sharpen your skills by subject.</p>
-                </div>
-            </a>
+            <!-- Practice Card -->
+            <div class="mcq-card" data-action="show-filters" data-category="practice">
+                <div class="mcq-card-icon"><i class="fas fa-pencil-alt"></i></div>
+                <h3>Practice MCQs</h3>
+                <p>Topic-wise and Subject-wise questions to strengthen your concepts.</p>
+                <button class="mcq-card-btn">Start Practice</button>
+            </div>
 
-            <a href="mock-tests.html" class="dashboard-card" data-action="navigate">
-                <div class="card-icon"><i class="fas fa-vial"></i></div>
-                <div class="card-content">
-                    <h4>Mock Tests</h4>
-                    <p>Simulate real exam conditions.</p>
-                </div>
-            </a>
+            <!-- Mock Test Card (Link) -->
+            <div class="mcq-card" data-action="navigate">
+                <div class="mcq-card-icon"><i class="fas fa-stopwatch"></i></div>
+                <h3>Mock Tests</h3>
+                <p>Simulate real exam conditions with full-length and sectional mock tests.</p>
+                <button class="mcq-card-btn">Go to Mocks</button>
+            </div>
 
-            <a href="#" class="dashboard-card" data-action="show-progress">
-                <div class="card-icon"><i class="fas fa-chart-line"></i></div>
-                <div class="card-content">
-                    <h4>My Progress</h4>
-                    <p>Track your performance and scores.</p>
-                </div>
-            </a>
+            <!-- Progress Card -->
+            <div class="mcq-card progress-card" data-action="show-progress">
+                <div class="mcq-card-icon"><i class="fas fa-chart-line"></i></div>
+                <h3>My Progress</h3>
+                <p>Track your performance, accuracy, and attempted questions.</p>
+                <button class="mcq-card-btn">View Stats</button>
+            </div>
         </div>
 
-        <!-- This is the new, unified filter container that will be populated by JS -->
+        <!-- Filters Section (Hidden initially) -->
         <div id="new-filter-container" style="display: none;">
-            <div class="filter-group">
-                <label for="exam-filter">Select Exam</label>
-                <select id="exam-filter"></select>
+            <div class="filter-header">
+                <h3>Select Preferences</h3>
+                <button id="close-filters-btn" title="Close"><i class="fas fa-times"></i></button>
             </div>
-            <div class="filter-group">
-                <label for="subject-filter">Select Subject</label>
-                <select id="subject-filter"></select>
+            <div class="filter-grid">
+                <div class="filter-group">
+                    <label for="exam-filter">Select Exam</label>
+                    <select id="exam-filter"></select>
+                </div>
+                <div class="filter-group">
+                    <label for="subject-filter">Select Subject</label>
+                    <select id="subject-filter"></select>
+                </div>
             </div>
-        </div>
-
-        <div id="pyq-mode-toggle-container" style="display: none;">
-            <span class="toggle-label">Subject Wise</span>
-            <label class="toggle-switch"><input type="checkbox" id="pyq-mode-toggle"><span class="slider round"></span></label>
             
-            <span class="toggle-label">All Subjects</span>
+            <div id="pyq-mode-toggle-container" style="display: none;">
+                <span class="toggle-label active">Topic Wise</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="pyq-mode-toggle">
+                    <span class="slider round"></span>
+                </label>
+                <span class="toggle-label">Random Mix</span>
+            </div>
         </div>
 
-        <div id="score-container" class="stat-boxes">
-            <div class="stat-box stat-box--attempted">
-                <span class="stat-label">Attempted</span><span class="stat-value" id="attempted-count">0</span>
+        <!-- Score & Quiz Area -->
+        <div id="score-container" class="stat-grid" style="display: none;">
+            <div class="stat-card attempted">
+                <div class="stat-icon">✏️</div>
+                <div class="stat-info">
+                    <span class="label">Attempted</span>
+                    <span class="value" id="attempted-count">0</span>
+                </div>
             </div>
-            <div class="stat-box stat-box--correct">
-                <span class="stat-label">Correct</span><span class="stat-value" id="correct-count">0</span>
+            <div class="stat-card correct">
+                <div class="stat-icon">✅</div>
+                <div class="stat-info">
+                    <span class="label">Correct</span>
+                    <span class="value" id="correct-count">0</span>
+                </div>
             </div>
-            <div class="stat-box stat-box--incorrect">
-                <span class="stat-label">Incorrect</span><span class="stat-value" id="incorrect-count">0</span>
+            <div class="stat-card incorrect">
+                <div class="stat-icon">❌</div>
+                <div class="stat-info">
+                    <span class="label">Incorrect</span>
+                    <span class="value" id="incorrect-count">0</span>
+                </div>
             </div>
-            <div class="stat-box stat-box--accuracy">
-                <span class="stat-label">Accuracy</span><span class="stat-value" id="accuracy-percentage">0.0%</span>
+            <div class="stat-card accuracy">
+                <div class="stat-icon">🎯</div>
+                <div class="stat-info">
+                    <span class="label">Accuracy</span>
+                    <span class="value" id="accuracy-percentage">0.0%</span>
+                </div>
             </div>
         </div>
+
         <div id="quiz-container"></div>
-        <!-- Container for page numbers -->
         <div id="pagination-container"></div>
 
-
+        <!-- Progress Section -->
         <div id="progress-container" style="display: none;">
-            <h2>Your Progress</h2>
+            <div class="progress-header-bar">
+                <h2>Your Learning Progress</h2>
+                <button id="close-progress-btn"><i class="fas fa-times"></i> Close</button>
+            </div>
             <div id="progress-stats"></div>
-            <button id="clear-progress-btn">Clear All My Attempts</button>
+            <button id="clear-progress-btn">Reset All Progress</button>
         </div>
+
     </div>
 </main>
 
