@@ -1541,6 +1541,9 @@ input:checked + .slider:before {
     .stat-grid {
         min-width: 100%;
     }
+    #score-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: 480px) {
@@ -2129,3 +2132,23 @@ input:checked + .slider:before {
 .test-score-badge.score-good { background-color: #dbeafe; color: #1e40af; }
 .test-score-badge.score-average { background-color: #fef3c7; color: #92400e; }
 .test-score-badge.score-poor { background-color: #fee2e2; color: #991b1b; }
+
+#mock-results-area h2 {
+    text-align: center;
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+    font-weight: 800;
+    background: linear-gradient(135deg, #1f2a44 0%, #3b82f6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.score-caption {
+    font-size: 1.4rem;
+    color: #64748b;
+    font-weight: 700;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

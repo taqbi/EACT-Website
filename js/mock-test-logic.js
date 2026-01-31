@@ -561,10 +561,8 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
         }
 
-        let headerTitle = 'Test Result Details';
         let subHeader = '';
         if (isSubmission) {
-            headerTitle = isFirstAttempt ? 'Test Submitted Successfully!' : 'Reattempt Completed';
             if (!isFirstAttempt) {
                 subHeader = '<p style="color: #6c757d; margin-top: 5px;">(Note: Only the first attempt is recorded in history)</p>';
             }
@@ -572,12 +570,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         resultsSummary.innerHTML = `
             <div class="result-header">
-                <h2>${headerTitle}</h2>
                 ${subHeader}
                 <div class="score-circle ${scoreClass}">
                     <span class="score-text">${score} <small>/ ${totalMarks}</small></span>
                     <span class="score-label">${percentage}%</span>
                 </div>
+                <div class="score-caption">Score</div>
             </div>
             
             <div class="result-analytics-container">
