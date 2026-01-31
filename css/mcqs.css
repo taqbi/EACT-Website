@@ -1327,6 +1327,9 @@ input:checked + .slider:before {
     .stat-grid {
         grid-template-columns: 1fr;
     }
+    .perf-value {
+        font-size: 1.3rem;
+    }
 }
 
 /* Subject Wise Analysis Table */
@@ -1387,6 +1390,7 @@ input:checked + .slider:before {
 .perf-summary-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     margin-bottom: 30px;
 }
@@ -1416,6 +1420,7 @@ input:checked + .slider:before {
 .perf-data {
     display: flex;
     flex-direction: column;
+    min-width: 0;
 }
 
 .perf-value {
