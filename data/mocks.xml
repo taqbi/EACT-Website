@@ -520,6 +520,7 @@ Indirect:</text>
       <option>Chenab Valley</option>
       <option>Kashmir Valley</option>
       <option>Ladakh Region</option>
+      <option>Jammu Region</option>
     </options>
     <answer>Kashmir Valley</answer>
   </question>
@@ -580,7 +581,11 @@ Indirect:</text>
   </question>
   <question>
     <subject>General Knowledge with special reference to J and K</subject>
-    <text>Match the following countries with the appropriate geographical sobriquets: A. Nation of Thousand Hills I. Norway B. Gift of Nile II. Japan C. Land of Midnight Sun III. Egypt D. Land of the Rising Sun IV. Rwanda</text>
+    <text>Match the following countries with the appropriate geographical sobriquets: 
+    A. Nation of Thousand Hills I. Norway 
+    B. Gift of Nile II. Japan 
+    C. Land of Midnight Sun III. Egypt 
+    D. Land of the Rising Sun IV. Rwanda</text>
     <options>
       <option>A – I, B – III, C- IV, D – II</option>
       <option>A – IV, B – III, C- I, D – II</option>
@@ -624,13 +629,13 @@ Indirect:</text>
   </question>
   <question>
     <subject>General Knowledge with special reference to J and K</subject>
-     <text>Match the following Chief Justices of India with their respective order:</text>
+     <text>Match the following Chief Justices of India with their respective order:
+    
+        A. 50th CJI — 1. D. Y. Chandrachud
+        B. 51st CJI — 2. N. V. Ramana
+        C. 52nd CJI — 3. B. R. Gavai
+        D. 53rd CJI — 4. Sanjiv Khanna </text>
     <options>
-        <option>A. 50th CJI — 1. D. Y. Chandrachud</option>
-        <option>B. 51st CJI — 2. N. V. Ramana</option>
-        <option>C. 52nd CJI — 3. B. R. Gavai</option>
-        <option>D. 53rd CJI — 4. Sanjiv Khanna</option>
-
         <option>a. A-2, B-1, C-4, D-3</option>
         <option>b. A-1, B-2, C-3, D-4</option>
         <option>c. A-2, B-4, C-1, D-3</option>
@@ -831,7 +836,10 @@ Indirect:</text>
   </question>
   <question>
     <subject>Accounting &amp; Bookkeeping</subject>
-    <text>Which of the following statements is correct i. Provident Fund has debit balance ii. Accrued Income has credit balance iii. Advance from from customers has debit balance</text>
+    <text>Which of the following statements is correct 
+    i. Provident Fund has debit balance 
+    ii. Accrued Income has credit balance 
+    iii. Advance from from customers has debit balance</text>
     <options>
       <option>Only i</option>
       <option>Only ii</option>
@@ -930,7 +938,12 @@ Indirect:</text>
   </question>
   <question>
     <subject>Accounting &amp; Bookkeeping</subject>
-    <text>Match the items given under ‘A’ with the correct items under ‘B’ (i) Closing stock is credited to (a) Trial balance (ii) Accuracy of book of account is tested by (b) Trading account (iii) On returning the goods to seller, the buyer sends (c) Credit note (iv) The financial position is determined by (d) Balance sheet (v) On receiving the returned goods from the (e) Debit note buyer, the seller sends</text>
+    <text>Match the items given under ‘A’ with the correct items under ‘B’ 
+    (i) Closing stock is credited to (a) Trial balance 
+    (ii) Accuracy of book of account is tested by (b) Trading account 
+    (iii) On returning the goods to seller, the buyer sends (c) Credit note 
+    (iv) The financial position is determined by (d) Balance sheet 
+    (v) On receiving the returned goods from the (e) Debit note buyer, the seller sends</text>
     <options>
       <option>i - b , ii - d , iii - e , iv - a , v - c</option>
       <option>i - b , ii - a , iii - e , iv - d , v - c</option>
@@ -1084,7 +1097,11 @@ Indirect:</text>
   </question>
   <question>
     <subject>Accounting &amp; Bookkeeping</subject>
-    <text>Which of the following statements is correct? i. Increase in revenue/gain is credited. ii. Increase in capital is credited. iii. Increase in expense is debited. iv. increase in liabilities is credited.</text>
+    <text>Which of the following statements is correct? 
+    i. Increase in revenue/gain is credited. 
+    ii. Increase in capital is credited. 
+    iii. Increase in expense is debited. 
+    iv. increase in liabilities is credited.</text>
     <options>
       <option>Only i &amp; iii</option>
       <option>Only ii &amp; iv</option>
@@ -1117,7 +1134,11 @@ Indirect:</text>
   </question>
   <question>
     <subject>General English</subject>
-    <text>Rearrange the sentences in meaningful order: A. In addition, learners should also be taught to write letters associated with the day to day running of life. B. Writing letters is a good way to learn communication skills. C. For example letters to invite and thank speakers, letters requesting research information, etc. D. Learners should be encouraged to write “real” letters wherever possible.</text>
+    <text>Rearrange the sentences in meaningful order: 
+    A. In addition, learners should also be taught to write letters associated with the day to day running of life. 
+    B. Writing letters is a good way to learn communication skills. 
+    C. For example letters to invite and thank speakers, letters requesting research information, etc. 
+    D. Learners should be encouraged to write “real” letters wherever possible.</text>
     <options>
       <option>BDCA</option>
       <option>BDAC</option>
@@ -1404,7 +1425,11 @@ Indirect:</text>
   <question>
     <subject>Mathematics</subject>
     <text>If 
-      
+      [ a11 a12
+        a21 a22
+        a31 a32 ] A = [ b11 b12 b13
+                        b21 b22 b23
+                        b31 b32 b33 ]
       Then order of matrix A =?</text>
     <options>
       <option>2 x 2</option>
