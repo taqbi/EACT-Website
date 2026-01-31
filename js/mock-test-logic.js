@@ -463,11 +463,20 @@ document.addEventListener('DOMContentLoaded', () => {
         // Calculate or Retrieve Rank
         let rankDisplay = currentTestRank;
         if (isSubmission) {
-            // Simulate Global Rank: Higher percentage = Better (lower) rank
-            const totalParticipants = 3500 + Math.floor(Math.random() * 1500); // Random between 3500-5000
-            let rank = Math.floor((totalParticipants * (100 - parseFloat(percentage))) / 100);
-            if (rank === 0) rank = 1; // Top rank
-            rankDisplay = `${rank} / ${totalParticipants}`;
+            const numPercentage = parseFloat(percentage);
+            if (numPercentage < 10) {
+                rankDisplay = "Invalid Attempt";
+            } else {
+                // Simulate Global Rank: Higher percentage = Better (lower) rank
+                const totalParticipants = 3500 + Math.floor(Math.random() * 1500); // Random between 3500-5000
+                let rank;
+                if (numPercentage >= 90) {
+                    rank = 1;
+                } else {
+                    rank = 1 + Math.floor((totalParticipants * (90 - numPercentage)) / 90);
+                }
+                rankDisplay = `${rank} / ${totalParticipants}`;
+            }
         }
 
         let isFirstAttempt = false;
