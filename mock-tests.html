@@ -63,14 +63,37 @@
 
         <!-- Test Area (Initially Hidden) -->
         <div id="mock-test-area" style="display: none;">
-            <div id="timer-container">
-                Time Remaining: <span id="time">02:00:00</span>
+            <div class="test-top-bar">
+                <div id="timer-container">
+                    Time Remaining: <span id="time">02:00:00</span>
+                </div>
+                <button id="palette-toggle-btn" class="palette-toggle-btn">
+                    <i class="fas fa-th"></i> Palette
+                </button>
             </div>
-            <div id="mock-quiz-container"></div>
-            <div id="mock-navigation">
-                <button id="prev-question-btn">Previous</button>
-                <button id="next-question-btn">Next</button>
-                <button id="submit-mock-btn">Submit Test</button>
+            
+            <div class="test-interface">
+                <div class="question-section">
+                    <div id="mock-quiz-container"></div>
+                    <div id="mock-navigation">
+                        <button id="prev-question-btn">Previous</button>
+                        <button id="next-question-btn">Next</button>
+                        <button id="submit-mock-btn">Submit Test</button>
+                    </div>
+                </div>
+                
+                <div id="question-palette-panel" class="question-palette-panel">
+                    <div class="palette-header">
+                        <h3>Question Palette</h3>
+                        <button id="close-palette-btn"><i class="fas fa-times"></i></button>
+                    </div>
+                    <div class="palette-legend">
+                        <div class="legend-item"><span class="dot current"></span> Current</div>
+                        <div class="legend-item"><span class="dot attempted"></span> Attempted</div>
+                        <div class="legend-item"><span class="dot unattempted"></span> Unattempted</div>
+                    </div>
+                    <div id="palette-grid" class="palette-grid"></div>
+                </div>
             </div>
         </div>
 

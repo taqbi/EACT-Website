@@ -21,6 +21,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const performanceHistoryContainer = document.getElementById('performance-history');
     const clearPerformanceBtn = document.getElementById('clear-performance-btn');
     const attemptAnotherBtn = document.getElementById('attempt-another-btn');
+    const paletteGrid = document.getElementById('palette-grid');
+    const paletteToggleBtn = document.getElementById('palette-toggle-btn');
+    const closePaletteBtn = document.getElementById('close-palette-btn');
+    const palettePanel = document.getElementById('question-palette-panel');
 
     let allMockTests = {};
     let currentTest = [];
@@ -175,6 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
         testArea.style.display = 'block';
 
         displayQuestion();
+        renderPalette();
         startTimer(120 * 60); // 120 minutes in seconds
     }
 
@@ -196,10 +201,13 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
         updateNavButtons();
 
+        updatePalette(); // Update palette status
+
         // Add event listener for the newly created radio buttons
         document.querySelectorAll(`input[name="q${currentQuestionIndex}"]`).forEach(radio => {
             radio.addEventListener('change', (e) => {
                 userAnswers[currentQuestionIndex] = e.target.value;
+                updatePalette(); // Update palette when answer changes
             });
         });
     }
@@ -222,6 +230,46 @@ document.addEventListener('DOMContentLoaded', () => {
             displayQuestion();
         }
     });
+
+    // --- Palette Logic ---
+    function renderPalette() {
+        paletteGrid.innerHTML = '';
+        currentTest.forEach((_, index) => {
+            const item = document.createElement('div');
+            item.className = 'palette-item unattempted';
+            item.textContent = index + 1;
+            item.dataset.index = index;
+            item.addEventListener('click', () => {
+                currentQuestionIndex = index;
+                displayQuestion();
+                // On mobile, maybe close palette after selection? Optional.
+                if (window.innerWidth < 992) {
+                    palettePanel.classList.remove('active');
+                }
+            });
+            paletteGrid.appendChild(item);
+        });
+        updatePalette();
+    }
+
+    function updatePalette() {
+        const items = paletteGrid.querySelectorAll('.palette-item');
+        items.forEach((item, index) => {
+            item.className = 'palette-item'; // Reset
+            
+            if (index === currentQuestionIndex) {
+                item.classList.add('current');
+            } else if (userAnswers[index] !== null) {
+                item.classList.add('attempted');
+            } else {
+                item.classList.add('unattempted');
+            }
+        });
+    }
+
+    // Palette Toggle Listeners
+    if (paletteToggleBtn) paletteToggleBtn.addEventListener('click', () => palettePanel.classList.add('active'));
+    if (closePaletteBtn) closePaletteBtn.addEventListener('click', () => palettePanel.classList.remove('active'));
 
     // --- 4. Timer Logic ---
     function startTimer(duration) {
