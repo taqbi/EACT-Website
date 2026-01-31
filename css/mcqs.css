@@ -137,10 +137,13 @@
 }
 
 .mcq-card h3 {
-    font-size: 1.4rem;
-    color: #1f2a44;
+    font-size: 1.8rem;
+    background: linear-gradient(90deg, #1f2a44, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin: 0 0 15px 0;
-    font-weight: 700;
+    font-weight: 800;
+    letter-spacing: -0.5px;
 }
 
 .mcq-card p {
@@ -703,12 +706,15 @@
 }
 
 .mock-type-section h3 { 
-    font-size: 1.5rem; 
-    color: #1f2a44; 
+    font-size: 1.8rem; 
+    background: linear-gradient(90deg, #1f2a44, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-top: 0; 
     margin-bottom: 15px; 
-    font-weight: 700; 
+    font-weight: 800; 
     border-bottom: none; 
+    letter-spacing: -0.5px;
 }
 
 .mock-type-section p {
@@ -830,9 +836,9 @@
 
 .test-info h4 {
     margin: 0 0 8px 0;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     color: #1f2a44;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .test-info .q-count {
