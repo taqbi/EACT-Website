@@ -4,12 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const testArea = document.getElementById('mock-test-area');
     const resultsArea = document.getElementById('mock-results-area');
     const performanceArea = document.getElementById('mock-performance-area');
+    const testListArea = document.getElementById('test-list-area');
 
     // Elements
-    const fullLengthSelect = document.getElementById('full-length-select');
-    const subjectWiseSelect = document.getElementById('subject-wise-select');
-    const startFullLengthBtn = document.getElementById('start-full-length-btn');
-    const startSubjectWiseBtn = document.getElementById('start-subject-wise-btn');
+    const fullLengthList = document.getElementById('full-length-list');
+    const subjectWiseList = document.getElementById('subject-wise-list');
     const quizContainer = document.getElementById('mock-quiz-container');
     const timerDisplay = document.getElementById('time');
     const prevBtn = document.getElementById('prev-question-btn');
@@ -26,6 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const paletteToggleBtn = document.getElementById('palette-toggle-btn');
     const closePaletteBtn = document.getElementById('close-palette-btn');
     const palettePanel = document.getElementById('question-palette-panel');
+    const viewFullLengthBtn = document.getElementById('view-full-length-btn');
+    const backFromListBtn = document.getElementById('back-from-list-btn');
 
     let allMockTests = {};
     let currentTest = [];
@@ -109,9 +110,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const xml = parser.parseFromString(data, "application/xml");
             const testNodes = xml.querySelectorAll('test');
             
-            fullLengthSelect.innerHTML = '<option value="">-- Select a Test --</option>';
-            subjectWiseSelect.innerHTML = '<option value="">-- Select a Test --</option>';
-
             testNodes.forEach(testNode => {
                 const testName = testNode.getAttribute('name');
                 const testType = testNode.getAttribute('type');
@@ -135,36 +133,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 allMockTests[testName] = { questions, correctMarks, negativeMarks };
 
-                if (testType === 'full') {
-                    fullLengthSelect.innerHTML += `<option value="${testName}">${testName}</option>`;
-                } else if (testType === 'subject') {
-                    subjectWiseSelect.innerHTML += `<option value="${testName}">${testName}</option>`;
+                // Create Test Card
+                const card = document.createElement('div');
+                card.className = 'test-card-item';
+                card.innerHTML = `
+                    <div class="test-info">
+                        <h4>${testName}</h4>
+                        <span class="q-count">${questions.length} Questions</span>
+                    </div>
+                    <button class="start-test-btn">Start</button>
+                `;
+                
+                card.querySelector('.start-test-btn').addEventListener('click', () => showStartConfirmation(testName));
+
+                if (testType === 'full' && fullLengthList) {
+                    fullLengthList.appendChild(card);
+                } else if (testType === 'subject' && subjectWiseList) {
+                    subjectWiseList.appendChild(card);
                 }
             });
         });
-
-    // --- 2. Start the Test ---
-    if (startFullLengthBtn) {
-        startFullLengthBtn.addEventListener('click', () => {
-            const selectedTestName = fullLengthSelect.value;
-            if (!selectedTestName) {
-                alert('Please select a mock test to begin.');
-                return;
-            }
-            showStartConfirmation(selectedTestName);
-        });
-    }
-
-    if (startSubjectWiseBtn) {
-        startSubjectWiseBtn.addEventListener('click', () => {
-            const selectedTestName = subjectWiseSelect.value;
-            if (!selectedTestName) {
-                alert('Please select a mock test to begin.');
-                return;
-            }
-            showStartConfirmation(selectedTestName);
-        });
-    }
 
     function showStartConfirmation(testName) {
         const testData = allMockTests[testName];
@@ -235,6 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
         selectionContainer.style.display = 'none';
         resultsArea.style.display = 'none';
         performanceArea.style.display = 'none';
+        if (testListArea) testListArea.style.display = 'none';
         testArea.style.display = 'block';
 
         displayQuestion();
@@ -721,6 +710,7 @@ document.addEventListener('DOMContentLoaded', () => {
         testArea.style.display = 'none';
         resultsArea.style.display = 'none';
         performanceArea.style.display = 'block';
+        if (testListArea) testListArea.style.display = 'none';
 
         const history = readMockPerformance();
         performanceHistoryContainer.innerHTML = '';
@@ -854,15 +844,31 @@ document.addEventListener('DOMContentLoaded', () => {
     // Go back to selection from the performance page
     attemptAnotherBtn.addEventListener('click', () => {
         performanceArea.style.display = 'none';
-        selectionContainer.style.display = 'block';
+        selectionContainer.style.display = 'grid';
     });
+
+    // View Full Length Tests Button
+    if (viewFullLengthBtn) {
+        viewFullLengthBtn.addEventListener('click', () => {
+            selectionContainer.style.display = 'none';
+            if (testListArea) testListArea.style.display = 'block';
+        });
+    }
+
+    if (backFromListBtn) {
+        backFromListBtn.addEventListener('click', () => {
+            if (testListArea) testListArea.style.display = 'none';
+            selectionContainer.style.display = 'grid';
+        });
+    }
 
     // --- 6. Reset View ---
     if (backToSelectionBtn) {
         backToSelectionBtn.addEventListener('click', () => {
             resultsArea.style.display = 'none';
             performanceArea.style.display = 'none';
-            selectionContainer.style.display = 'block';
+            if (testListArea) testListArea.style.display = 'none';
+            selectionContainer.style.display = 'grid';
         });
     }
 });
