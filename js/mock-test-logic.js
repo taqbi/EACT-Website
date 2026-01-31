@@ -468,7 +468,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 rankDisplay = "Invalid Attempt";
             } else {
                 // Simulate Global Rank: Higher percentage = Better (lower) rank
-                const totalParticipants = 3500 + Math.floor(Math.random() * 1500); // Random between 3500-5000
+                const totalParticipants = 500 + Math.floor(Math.random() * 2500); // Random between 3500-5000
                 let rank;
                 if (numPercentage >= 90) {
                     rank = 1;
@@ -611,7 +611,7 @@ document.addEventListener('DOMContentLoaded', () => {
                      <div class="stat-card rank">
                         <span class="stat-icon">🏆</span>
                         <div class="stat-info">
-                            <span class="label">Global Rank</span>
+                            <span class="label">Global Rank <small>(Simulated and Not Exact)</small></span>
                             <span class="value">${rankDisplay || 'N/A'}</span>
                         </div>
                     </div>
@@ -801,7 +801,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <span class="h-value">${result.timeTaken || 'N/A'}</span>
                         </div>
                         <div class="history-stat">
-                            <span class="h-label">Rank</span>
+                            <span class="h-label">Rank <small>(Simulated)</small></span>
                             <span class="h-value">${result.rank || '-'}</span>
                         </div>
                     </div>
