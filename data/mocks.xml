@@ -431,7 +431,7 @@ Indirect:</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 1 (Old)" type="full" isLive="Yes" duration="120">
+<test name="JKSSB FAA Full Length Mock Test 1" type="full" isLive="Yes" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
@@ -1808,7 +1808,7 @@ Indirect:</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 2 (Old)" type="full" isLive="Yes" duration="120">
+<test name="JKSSB FAA Full Length Mock Test 2" type="full" isLive="Yes" duration="120">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
