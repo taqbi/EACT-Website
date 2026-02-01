@@ -41,19 +41,18 @@ body::after {
 
 /* Header and Navbar */
 .header {
-     background-color: #1f2a44;
-    background-size: cover; /* Ensures the gradient covers the entire header */
+    background: linear-gradient(90deg, #1f2a44 0%, #0f172a 100%);
     color: white;
     display: flex;
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #ccc;
-    padding: 20px; /* Add padding to create some space inside the header */
+    padding: 15px 40px;
     box-sizing: border-box; /* Ensures padding doesn't affect the width */
-    background-blend-mode: overlay; /* Apply blending for texture */
-    background-position: center;
-    background-repeat: no-repeat;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 /* Optional: Ensure content is above the background */
@@ -65,42 +64,38 @@ body::after {
 
 
 .header .logo-container img {
-    height: 100px;
-    border-radius: 30px;
-    padding: 2px;
-    
-  
+    height: 60px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
 }
 
+.header .logo-container img:hover {
+    transform: scale(1.05);
+}
 
 
 .navbar {
-    position: sticky;
-    top: 0;
     display: flex;
-    justify-content: space-around;
+    gap: 15px;
     align-items: center;
-    width: auto;
-    flex: 1;
-    border-radius: 10px; /* Adjust this value to control how rounded the corners are */
-    
 }
 
 .navbar a {
-    color: #ffffff;
+    color: #e2e8f0;
     text-decoration: none;
-    padding: 5px 5px;
-    transition: background-color 0.3s ease, transform 0.3s ease;
-    font-weight: bold; 
+    padding: 10px 16px;
+    transition: all 0.3s ease;
+    font-weight: 600; 
     font-family: 'Poppins', sans-serif;
-
+    border-radius: 8px;
+    font-size: 0.95rem;
 }
 
 .navbar a:hover {
-    background-color: #1f2a44;
+    background-color: rgba(255, 255, 255, 0.1);
     color: #ffffff;
-    transform: scale(1.05);
-    border-radius: 10px;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .header-qr {
@@ -991,35 +986,56 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 .footer {
     background-color: #1f2a44;
     color: white;
+    background: linear-gradient(135deg, #1f2a44 0%, #0f172a 100%);
+    color: #e2e8f0;
     text-align: center;
     padding: 20px;
+    padding: 40px 20px;
     position: relative; 
     width: 100%;
     box-shadow: 0 -5px 10px rgba(205, 13, 13, 0.1);
     margin-top: 20px; /* This provides space above the footer */
+    box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.05);
+    margin-top: 40px; /* This provides space above the footer */
     flex-shrink: 0; /* Prevents footer from shrinking if content is too large */
+    font-family: 'Poppins', sans-serif;
 }
 
 
 .footer p {
     margin: 0;
     font-size: 16px;
+    margin: 0 0 15px 0;
+    font-size: 0.95rem;
+    opacity: 0.8;
+    line-height: 1.6;
 }
 
 .footer a {
     color: #ffffff;
+    color: #60a5fa;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
     transition: color 0.3s ease;
+    margin: 0 12px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: relative;
 }
 
 .footer a:hover {
     color: #005b99;
+    color: #93c5fd;
+    text-shadow: 0 0 8px rgba(96, 165, 250, 0.4);
 }
 
 .footer .social-icons {
     margin-top: 15px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
 }
 
 .footer .social-icons a {
@@ -1031,17 +1047,40 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: #0074cc; /* Icon color */
     box-shadow: 0 0 8px rgba(0,0,0,0.2); /* Slight shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 0;
+    font-size: 1.2rem;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 0;
 }
 
 
 .footer .social-icons a:hover {
     transform: scale(1.1);
     box-shadow: 0 0 15px rgba(0,0,0,0.3); /* Enhanced shadow on hover */
+    transform: translateY(-5px) scale(1.1);
+    background-color: #ffffff;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
 
 .footer .social-icons a:nth-child(1) {
     color: #4267B2; /* Facebook */
 }
+.footer .social-icons a:nth-child(1):hover { color: #4267B2; } /* Facebook */
+.footer .social-icons a:nth-child(2):hover { color: #1DA1F2; } /* Twitter */
+.footer .social-icons a:nth-child(3):hover { color: #0088cc; } /* Telegram */
+.footer .social-icons a:nth-child(4):hover { color: #E1306C; } /* Instagram */
+.footer .social-icons a:nth-child(5):hover { color: #0e76a8; } /* LinkedIn */
+.footer .social-icons a:nth-child(6):hover { color: #25d366; } /* WhatsApp */
 
 .footer .social-icons a:nth-child(2) {
     color: #1DA1F2; /* Twitter */
@@ -1458,18 +1497,35 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     background-color: #ffffff; /* Solid white background */
     border-radius: 16px;
     border:1px solid rgb(0, 76, 255);
+    border-radius: 24px;
+    border: none;
     padding: 24px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Softer, more subtle shadow */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     display: flex; flex-direction: column; /* Use flexbox to push button to the bottom */
     position: relative; /* Required for positioning the ribbon */
     transition: transform 0.3s ease, box-shadow 0.3s ease, cursor 0.3s ease;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: pointer;
     margin-bottom: 0;
+    overflow: hidden;
 }
 
 .course:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0, 89, 242, 0.1); /* Subtle lift effect */
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 50px rgba(31, 42, 68, 0.15);
+}
+
+.course::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(90deg, #1f2a44, #3b82f6);
 }
 
 /* Ribbon Tag for "FREE" courses */
@@ -1506,6 +1562,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     color: white;
     margin: -24px -24px 15px -24px; /* Use negative margins to span the full width */
     border-radius: 16px 16px 0 0; /* Match the top corners of the card */
+    border-radius: 24px 24px 0 0; /* Match the top corners of the card */
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1523,6 +1580,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     top: 0; left: 0; right: 0; bottom: 0;
     background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 60%);
     border-radius: 16px 16px 0 0;
+    border-radius: 24px 24px 0 0;
 }
 
 .course-card-header h3 {
@@ -1537,11 +1595,15 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 .course h3 {
     margin-top: 0;
     font-size: 1.4rem;
+    font-size: 1.8rem;
+    font-weight: 800;
     color: white;
     position: relative;
     z-index: 1;
     margin: 0;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+    text-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    letter-spacing: -0.5px;
 }
 
 /* Styling for the course description */
@@ -1572,15 +1634,21 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .course .stat-item {
     background-color: #f8f9fa;
+    background-color: #fff;
     padding: 15px 10px;
     border-radius: 12px;
     border: 1px solid #e9ecef;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
     transition: background-color 0.3s, transform 0.3s;
 }
 
 .course .stat-item:hover {
     transform: translateY(-3px);
     background-color: #f1f3f5;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
 }
 
 .course .stat-item i {
@@ -1591,6 +1659,7 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .course .stat-item .stat-value {
     font-size: 1.75rem;
+    font-size: 1.8rem;
     font-weight: 700;
     color: #1f2a44;
     display: block;
@@ -1617,20 +1686,28 @@ fieldset.video-item legend, fieldset.playlist-item legend {
 
 .explore-btn {
     background: linear-gradient(135deg, #1f2a44, #4a5a8a);
+    background: linear-gradient(135deg, #1f2a44 0%, #3b82f6 100%);
     color: white;
     border: none;
     padding: 12px 30px;
     font-size: 1rem;
     font-weight: bold;
     border-radius: 10px;
+    padding: 14px 30px;
+    font-size: 1.1rem;
+    font-weight: 800;
+    border-radius: 12px;
     cursor: pointer;
     transition: all 0.3s ease;
     width: 100%; /* Make button full width */
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
 }
 
 .explore-btn:hover {
     background: linear-gradient(135deg, #4a5a8a, #1f2a44);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(135deg, #3b82f6 0%, #1f2a44 100%);
+    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.6);
     transform: translateY(-2px);
 }
 
