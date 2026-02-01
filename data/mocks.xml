@@ -689,14 +689,15 @@ Indirect:</text>
   </question>
   <question>
     <subject>General Knowledge with special reference to J and K</subject>
-    <text>Which of the following is the folk music of Jammu and Kashmir?</text>
-    <options>
-      <option>Wunwun</option>
-      <option>Chakri</option>
-      <option>Hanzea</option>
-      <option>Ladishah</option>
-    </options>
-    <answer>Ladishah</answer>
+    <text>Which of the following pairs of folk form and region of Jammu and Kashmir is INCORRECT?</text>
+<options>
+  <option>Rouf – Kashmir Valley</option>
+  <option>Surma – Kashmir Valley</option>
+  <option>Kud – Jammu region</option>
+  <option>Karak – Jammu region</option>
+</options>
+<answer>Surma – Kashmir Valley</answer>
+
   </question>
   <question>
     <subject>General Knowledge with special reference to J and K</subject>
@@ -1738,11 +1739,16 @@ Indirect:</text>
   </question>
   <question>
     <subject>Knowledge of Computers</subject>
-    <text>Match the following? (i) Normal View (a) It provides a view of slides in thumbnail form. (ii) Slide Sorter View (b) In this view, the notes pane is located just below the slide pane. (iii) Notes Page View (c) This is the main editing view, where you write and design your presentations, i.e., actual screen which is displayed. (iv) Slide Show (d) This is used to deliver a presentation to the audience and takes up the full computer screen</text>
+    <text>Match the following? 
+    (i) Normal View                 (a) It provides a view of slides in thumbnail form. 
+    (ii) Slide Sorter View          (b) In this view, the notes pane is located just below the slide pane. 
+    (iii) Notes Page View           (c) This is the main editing view, where you write and design your presentations, i.e., actual screen which is displayed. 
+    (iv) Slide Show                 (d) This is used to deliver a presentation to the audience and takes up the full computer screen</text>
     <options>
       <option>i – a, ii - c, iii – b, iv - d</option>
       <option>i – b, ii - d, iii – a, iv - c</option>
       <option>i – c, ii - a, iii – b, iv – d</option>
+      <option>i – c, ii - b, iii – a, iv – d</option>
     </options>
     <answer>i – c, ii - a, iii – b, iv – d</answer>
   </question>
