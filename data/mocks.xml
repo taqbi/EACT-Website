@@ -441,7 +441,7 @@ Indirect:</text>
 <text>Which of the following statement/s is/are correct?
 A. Archaeologists have unearthed a 2,000 year old Buddhist site with stupas, monastic structures, settlement remains and artefacts.
 B. These Buddhist sites belong to Kushan period.
-C. Founded in Zehanpora village, Bandipora.</text>
+C. Founded in Zehanpora village in Bandipora district</text>
 <option>A&amp;C</option>
 <option>B&amp;C</option>
 <option>A,B,C</option>
@@ -451,17 +451,23 @@ C. Founded in Zehanpora village, Bandipora.</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Siliserh lake is found in which of the following state/UT?</text>
-<option>J&amp;K</option>
-<option>Chhattisgarh</option>
-<option>Delhi</option>
-<option>Rajasthan</option>
-<answer>Rajasthan</answer>
+<text>Match the following lakes with their respective States/UTs:
+  1. Vellayani Lake A. Rajasthan
+  2. Tampara Lake   B. Kerala
+  3. Hokersar Lake  C. Odisha
+  4. Sambhar Lake   D. Jammu &amp; Kashmir </text>
+<option>1-C, 2-B, 3-D, 4-A</option>
+<option>1-C, 2-A, 3-B, 4-D</option>   
+<option>1-A, 2-D, 3-C, 4-B</option>
+<option>1-B, 2-C, 3-D, 4-A</option>
+<answer>
+1-B, 2-C, 3-D, 4-A
+</answer>
 </question>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Sadnah Tunnel connects</text>
+<text>The strategically important Sadnah (Sadhna) Tunnel in Jammu &amp; Kashmir has been constructed to provide all-weather connectivity and reduce travel time. It connects which of the following locations?</text>
 <option>Kupwara to PoK</option>
 <option>Kupwara to Karnah</option>
 <option>Gurez to PoK</option>
@@ -471,31 +477,35 @@ C. Founded in Zehanpora village, Bandipora.</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Eurasian Otter was spotted in which region of India after 30 years?</text>
+<text>The Eurasian Otter (Lutra lutra), a semi-aquatic mammal and an indicator of healthy freshwater ecosystems, was reported in India after a gap of nearly 30 years. This rare sighting was recorded in which of the following regions?</text>
+
 <option>Lidder river, J&amp;K</option>
 <option>Bringi nallah, J&amp;K</option>
 <option>Loktak lake, Manipur</option>
 <option>Chilika lake, Odisha</option>
+
 <answer>Lidder river, J&amp;K</answer>
+
 </question>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>The last section of USBRL project was inaugurated in?</text>
-<option>June 2025</option>
-<option>July 2025</option>
-<option>August 2025</option>
-<option>May 2025</option>
-<answer>May 2025</answer>
+<text>The Banihal–Baramulla railway line, which provides rail connectivity within the Kashmir Valley, is approximately how long?</text>
+<option>135 km</option>
+<option>156 km</option>
+<option>272 km</option>
+<option>326 km</option>
+<answer>135 km</answer>
+
 </question>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
 <text>Match the following
-1. Indigo revolt a. 1857
-2. Sepoy mutiny b. 1855
-3. Santhal Rebellion c. 1873
-4. Satyasodhak Samaj d. 1859</text>
+1. Indigo revolt      a. 1857
+2. Sepoy mutiny       b. 1855
+3. Santhal Rebellion  c. 1873
+4. Satyasodhak Samaj  d. 1859</text>
 <option>1-c,2-b,3-d,4-a</option>
 <option>1-d,2-a,3-b,4-c</option>
 <option>1-d,2-a,3-c,4-b</option>
@@ -506,7 +516,7 @@ C. Founded in Zehanpora village, Bandipora.</text>
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
 <text>Consider the following statements about Wular lake
-a. Largest freshwater lake in India located in Baramulla.
+a. Largest freshwater lake in India located in Srinagar.
 b. Deepest part locally known as Mota Khon, which literally means Gulf of Corpses.
 c. Designated as Ramsar site in 1990.
 Which of the following is not correct.</text>
@@ -519,12 +529,22 @@ Which of the following is not correct.</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Which of the following Hydroelectric power projects is not located on the Chenab river?</text>
-<option>Salal</option>
-<option>Dulhasti</option>
-<option>Baglihar</option>
-<option>none of these</option>
-<answer>none of these</answer>
+<text>Consider the following pairs of power projects of Jammu &amp; Kashmir and the rivers on which they are constructed:
+
+(a) Salal Hydroelectric Project – Chenab River  
+(b) Uri Hydroelectric Project – Jhelum River  
+(c) Baglihar Hydroelectric Project – Ravi River  
+(d) Dulhasti Hydroelectric Project – Tawi River  
+
+Which of the above pairs is/are incorrectly matched?</text>
+
+<option>a,b and d only</option>
+<option>a,b and c only</option>
+<option>c and d</option>
+<option>b and c</option>
+
+<answer>c and d</answer>
+
 </question>
 
 <question>
@@ -539,12 +559,15 @@ Which of the following is not correct.</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Which of the following is located on Gopadari Hill in south-east of Srinagar and lies at a height of 1100 feet above the surface level of the city?</text>
+<text>Which of the following landmarks of Srinagar is an ancient Hindu shrine located on the Takht-e-Sulaiman (Gopadari) hill, associated with Adi Shankaracharya and known for its commanding view over the city?</text>
+
 <option>Hari Parbat Fort</option>
-<option>Hazratbal shrine</option>
+<option> Kheer Bhawani </option>
 <option>Shankaracharya Temple</option>
 <option>None of these</option>
+
 <answer>Shankaracharya Temple</answer>
+
 </question>
 
 <question>
@@ -564,10 +587,10 @@ Which of the following is not correct.</text>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
 <text>The conduct of the 2024 J&amp;K Assembly elections became possible primarily after completion of which process mandated by the Reorganisation Act, 2019?</text>
 <option>Census</option>
-<option>Delimitation of constituencies</option>
+<option>Delimitation of Constituencies</option>
 <option>Creation of District Development Councils</option>
 <option>Abolition of Permanent Resident Certificates</option>
-<answer>Delimitation of constituencies</answer>
+<answer>Delimitation of Constituencies</answer>
 </question>
 
 <question>
@@ -575,22 +598,25 @@ Which of the following is not correct.</text>
 <text>Consider the following statements:
 1. Literacy rate in India increased by more than 14 percentage points between 2001 and 2011.
 2. Kerala recorded the highest female literacy rate, while Mizoram recorded the highest male literacy rate.
-Which of the above is/are correct?</text>
+Which of the above is/are incorrect?</text>
 <option>1 only</option>
 <option>2 only</option>
 <option>Both 1 and 2</option>
 <option>Neither 1 nor 2</option>
-<answer>Both 1 and 2</answer>
+<answer>Neither 1 nor 2</answer>
 </question>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Which festival marks the harvest season and transition of the Sun into Capricorn (Makara)?</text>
+<text>Which of the following festivals in India are associated with the harvest season and are celebrated to mark the Sun’s transition into the zodiac sign Capricorn (Makara)?</text>
+
 <option>Pongal</option>
 <option>Baisakhi</option>
 <option>Makar Sankranti</option>
 <option>All of the above</option>
+
 <answer>All of the above</answer>
+
 </question>
 
 <question>
@@ -605,22 +631,28 @@ Which of the above is/are correct?</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Which of the following wetlands of Jammu &amp; Kashmir has been designated under the Ramsar Convention and plays a major role in migratory bird ecology of the Central Asian Flyway?</text>
+<text>Which of the following wetlands of Jammu &amp; Kashmir, recognised under the Ramsar Convention, serves as a critical wintering and staging ground for thousands of migratory birds and is an important component of the Central Asian Flyway ecosystem?</text>
+
 <option>Dal Lake</option>
 <option>Wular Lake</option>
 <option>Hokersar Wetland</option>
 <option>Mansar Lake</option>
+
 <answer>Hokersar Wetland</answer>
 </question>
 
+
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>Which Section empowers the Central Government to adapt and modify laws for the UTs of J&amp;K and Ladakh?</text>
+<text>Under the Jammu and Kashmir Reorganisation Act, 2019, which provision empowers the Central Government to make adaptations and modifications to existing laws for their application in the Union Territories of Jammu &amp; Kashmir and Ladakh?</text>
+
 <option>Section 72</option>
 <option>Section 74</option>
 <option>Section 96</option>
 <option>Section 95</option>
+
 <answer>Section 95</answer>
+
 </question>
 
 <question>
@@ -640,7 +672,7 @@ Which of the statements given above are correct?</text>
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
 <text>Which one of the following pairs is incorrectly matched?
-Crop Major Producing State</text>
+Crop  - Major Producing State</text>
 <option>Jute - West Bengal</option>
 <option>Tea - Assam</option>
 <option>Coffee  - Rajasthan</option>
@@ -650,82 +682,112 @@ Crop Major Producing State</text>
 
 <question>
 <subject>General Knowledge with Special Reference to J&amp;K</subject>
-<text>India’s largest solar-powered railway station inaugurated in 2025 is located in:</text>
+<text>India’s largest railway station powered entirely by solar energy, inaugurated in the year 2025 as part of the country’s push towards renewable energy and sustainable infrastructure, is located in which of the following cities?</text>
+
 <option>Jaipur</option>
 <option>Gandhinagar</option>
 <option>Ahmedabad</option>
 <option>Surat</option>
+
 <answer>Ahmedabad</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which of the following types of computer is used in climate research and weather forecasting?</text>
-<option>Mini-computers</option>
-<option>Mainframe computers</option>
-<option>Micro-computers</option>
-<option>Supercomputers</option>
-<answer>Supercomputers</answer>
+<text>Which of the following statements correctly distinguishes between supercomputers and quantum computers?</text>
+
+<option>Both supercomputers and quantum computers operate on the same computing principles</option>
+<option>Quantum computers are mainly used for routine data processing tasks</option>
+<option>Supercomputers use qubits, while quantum computers use binary digits</option>
+<option>Quantum computers perform calculations using qubits, whereas supercomputers rely on classical bits and massive parallel processing</option>
+
+
+<answer>Quantum computers perform calculations using qubits, whereas supercomputers rely on classical bits and massive parallel processing</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which of the following statement is correct about third generation computers?</text>
-<option>Uses microprocessors</option>
-<option>Computers of this generation are mainly used for database management</option>
-<option>Uses batch operating system</option>
-<option>Internet came into existence</option>
-<answer>Computers of this generation are mainly used for database management</answer>
+<text>Which of the following hardware components is directly responsible for coordinating communication between the CPU, memory, and peripheral devices within a computer system?</text>
+
+<option>Power Supply Unit (PSU)</option>
+<option>Motherboard</option>
+<option>Hard Disk Drive</option>
+<option>Graphics Processing Unit (GPU)</option>
+
+<answer>Motherboard</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which of the following key is a toggle key?</text>
+<text>Which of the following keys on a computer keyboard is NOT a toggle key?</text>
+
+<option>Caps Lock</option>
 <option>Escape key</option>
 <option>Num lock</option>
-<option>Shift key</option>
-<option>Tab</option>
-<answer>Num lock</answer>
+<option>All of the above</option>
+<answer>Escape key</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which input device is mainly used in flight simulators?</text>
-<option>Trackball</option>
-<option>Trackpad</option>
-<option>Joystick</option>
-<option>Digitizer</option>
-<answer>Joystick</answer>
+<text>Match the following uncommon input devices with their correct description:
+  A. OMR            1. Converts hand movements into digital signals using sensors
+  B. Digitizer      2. Reads marked answers on objective-type sheets
+  C. Data Glove     3. Captures handwritten or printed text and converts it into digital form 
+  D. Barcode Reader 4. Scans coded information printed in bars </text>
+
+<option>A-1, B-2, C-3, D-4</option>
+<option>A-2, B-1, C-3, D-4</option>
+<option>A-2, B-3, C-1, D-4</option>
+<option>A-3, B-2, C-1, D-4</option>
+
+<answer>
+<option>A-2, B-3, C-1, D-4</option>
+</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>A fax machine uses which type of printer?</text>
+<text>A fax machine, which transmits scanned documents over telephone lines and reproduces them at the receiving end, commonly prints the received information using which type of printer technology?</text>
+
 <option>Inkjet printer</option>
 <option>Laser printer</option>
 <option>Thermal printer</option>
 <option>Electromagnetic printer</option>
+
 <answer>Thermal printer</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Resolution of screen means</text>
+<text>The resolution of a computer screen refers to which of the following characteristics?</text>
+
 <option>Number of times per second the pixels are recharged so that their glow remains bright.</option>
 <option>Diagonal distance between two colored pixels.</option>
 <option>Number of pixels in horizontal and vertical directions.</option>
 <option>None of these</option>
+
 <answer>Number of pixels in horizontal and vertical directions.</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>One million bytes is approximately equal to</text>
+<text>In computer memory measurement, one million bytes is approximately equal to which of the following units?</text>
+
 <option>1MB</option>
 <option>1KB</option>
 <option>1GB</option>
 <option>1TB</option>
+
 <answer>1MB</answer>
+
 </question>
 
 <question>
@@ -750,27 +812,38 @@ Crop Major Producing State</text>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which one of the following is not a type Action Query in Microsoft Access?</text>
-<option>Append</option>
-<option>Delete</option>
-<option>Make-table</option>
-<option>Graphics</option>
-<answer>Graphics</answer>
+<text>Which of the following Excel formulas correctly counts the number of cells containing numeric values in the range A1 to A10?</text>
+
+<option>=COUNT(A1:A10)</option>
+<option>=COUNTA(A1-A10)</option>
+<option>=COUNTBLANK(A1,A10)</option>
+<option>=SUM(A1:A10)</option>
+
+<answer>=COUNT(A1:A10)</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which of these computer languages do we use in AI?</text>
-<option>PROLOG</option>
-<option>FORTRAN</option>
-<option>COBOL</option>
-<option>JAVA</option>
-<answer>PROLOG</answer>
+<text>Match the following AI chatbots with their respective developing companies:
+  A. ChatGPT        1. Google
+  B. Gemini         2. Microsoft
+  C. Claude         3. OpenAI
+  D. Copilot        4. Anthropic
+</text>
+
+<option>A-3, B-1, C-4, D-2</option>
+<option>A-1, B-3, C-2, D-4</option>
+<option>A-3, B-1, C-2, D-4</option>
+<option>A-3, B-4, C-2, D-1</option>
+
+<answer>A-3, B-1, C-4, D-2</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which one of the following is not a real-time operating system?</text>
+<text>Which one of the following is NOT a real-time operating system?</text>
 <option>QNX</option>
 <option>VxWorks</option>
 <option>RTLinux</option>
@@ -780,22 +853,28 @@ Crop Major Producing State</text>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>The keyboard shortcut to switch between displaying Excel formulas or their values in a cell?</text>
-<option>Ctrl+Shift+@</option>
-<option>Ctrl+Shift+&amp;</option>
-<option>Ctrl+Shift+#</option>
-<option>Ctrl+Shift+~</option>
-<answer>Ctrl+Shift+~</answer>
+<text>In Microsoft Excel, which keyboard shortcut is used to toggle between displaying the formulas entered in worksheet cells and showing their calculated results (values)?</text>
+
+<option>Ctrl + Shift + @</option>
+<option>Ctrl + Shift + &amp;</option>
+<option>Ctrl + Shift + #</option>
+<option>Ctrl + Shift + ~</option>
+
+<answer>Ctrl + Shift + ~</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>You are given an MS Word document in portrait orientation with a default size of A4, which of the following options is not possible in MS Word:</text>
-<option>Print selected part of one page</option>
-<option>Print only selected pages</option>
-<option>Print multiple pages on one A4 sheet</option>
-<option>Print the document in landscape orientation</option>
-<answer>Print multiple pages on one A4 sheet</answer>
+<text>In Microsoft Word, which of the following actions cannot be performed using the Page Setup or Print options of a document?</text>
+
+<option>Changing page margins for the entire document</option>
+<option>Printing only odd or even pages</option>
+<option>Adjusting page orientation from portrait to landscape</option>
+<option>Editing text content directly from the Print Preview screen</option>
+
+<answer>Editing text content directly from the Print Preview screen</answer>
+
 </question>
 
 <question>
@@ -820,12 +899,15 @@ Crop Major Producing State</text>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Which of the following options in MS-Word is used to colour the background behind the selected text or paragraph?</text>
-<option>Shading</option>
-<option>Format Painter</option>
-<option>Font Colour</option>
-<option>Text Highlight Colour</option>
-<answer>Shading</answer>
+<text>Which of the following computer security measures is primarily used to prevent unauthorized access by verifying the identity of a user?</text>
+
+<option>Encryption</option>
+<option>Authentication</option>
+<option>Firewall</option>
+<option>Backup</option>
+
+<answer>Authentication</answer>
+
 </question>
 
 <question>
@@ -844,84 +926,109 @@ Crop Major Producing State</text>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>In a Two-State Process Model of the operating system, what are the two states?</text>
-<option>Waiting and Blocking</option>
-<option>Running and Not Running</option>
-<option>Execute and Free</option>
-<option>Stop and Pause</option>
-<answer>Running and Not Running</answer>
+<text>In the memory hierarchy of a computer system, which type of memory is fastest in access speed but has the smallest storage capacity?</text>
+
+<option>Cache Memory</option>
+<option>Main Memory (RAM)</option>
+<option>Secondary Memory</option>
+<option>Virtual Memory</option>
+
+<answer>Cache Memory</answer>
+
 </question>
 
 <question>
 <subject>Computer Awareness</subject>
-<text>How many bits are used for an IP Address in IPv4?</text>
-<option>128</option>
-<option>64</option>
-<option>32</option>
-<option>48</option>
-<answer>32</answer>
+<text>Assertion (A): IPv6 provides a much larger address space compared to IPv4.</text>
+<text>Reason (R): IPv6 uses 64-bit addresses, whereas IPv4 uses 32-bit addresses.</text>
+
+<option>Both A and R are true and R is the correct explanation of A</option>
+<option>Both A and R are true but R is not the correct explanation of A</option>
+<option>A is true but R is false</option>
+<option>A is false but R is true</option>
+
+<answer>A is true but R is false</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blank with correct word
-………..quite recently, no one knows about anita’s paintings</text>
+<text>Fill in the blank with the most appropriate word to complete the sentence meaningfully and grammatically:
+"________ quite recently, no one knew about Anita’s paintings."</text>
+
 <option>For</option>
 <option>Some</option>
 <option>Until</option>
 <option>When</option>
+
 <answer>Until</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Correct meaning of the idiom graveyard shift?</text>
+<text>Which of the following best expresses the meaning of the idiom “Graveyard Shift” as used in everyday English?</text>
+
 <option>To work at graveyard</option>
 <option>Very long shift</option>
 <option>A work shift beginning late at night</option>
 <option>Very hard</option>
+
 <answer>A work shift beginning late at night</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Correct meaning of the idiom herculean task?</text>
+<text>Which of the following best conveys the meaning of the idiom “Herculean Task”?</text>
+
 <option>Very easy task</option>
 <option>Neat and clean task</option>
 <option>Very difficult task</option>
 <option>Start the day in a bad mood</option>
+
 <answer>Very difficult task</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Correct meaning of the idiom keep the wolf from the door</text>
+<text>Which of the following best explains the meaning of the idiom “Keep the wolf from the door”?</text>
+
 <option>Scold someone at door</option>
 <option>Avoid starvation</option>
 <option>Keep a distance from somebody</option>
 <option>To miss an opportunity</option>
+
 <answer>Avoid starvation</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blank with correct word
-We’re not happy but we do approve……….their decision</text>
+<text>Fill in the blank with the most appropriate word:
+We’re not happy but we do approve ________ their decision.</text>
+
 <option>of</option>
 <option>on</option>
 <option>from</option>
 <option>not</option>
+
 <answer>of</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Choose the option from the following that is a synonym of approbation?</text>
+<text>Which of the following options is closest in meaning to the word “Approbation”?</text>
+
 <option>Sanction</option>
 <option>Refusal</option>
 <option>Pejorative</option>
 <option>Criticism</option>
+
 <answer>Sanction</answer>
+
 </question>
 
 <question>
@@ -950,65 +1057,83 @@ Statement B: The number of deaths due to CVD in the low-income countries is more
 
 <question>
 <subject>General English</subject>
-<text>What is the conceptual meaning of the highlighted word 'Predominant'?</text>
-<option>Casual</option>
-<option>Trivial</option>
-<option>Inferior</option>
-<option>Important</option>
-<answer>Important</answer>
+<text>Which of the following options is closest in meaning to the word “Preponderant”?</text>
+
+<option>Subordinate</option>
+<option>Predominant</option>
+<option>Peripheral</option>
+<option>Negligible</option>
+
+<answer>Predominant</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Choose the option from the following that is an antonym of Substantial?</text>
-<option>Strong</option>
-<option>Broken</option>
-<option>Considerable</option>
-<option>Steady</option>
-<answer>Broken</answer>
+<text>Which of the following is the most appropriate antonym of the word “Esoteric”?</text>
+
+<option>Abstruse</option>
+<option>Obscure</option>
+<option>Arcane</option>
+<option>Commonplace</option>
+
+<answer>Commonplace</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Choose the option from the following that is an antonym of Banished?</text>
-<option>Exile</option>
-<option>Accept</option>
-<option>Evict</option>
-<option>Discard</option>
-<answer>Accept</answer>
+<text>Which of the following is the most appropriate antonym of the word “Ubiquitous”?</text>
+
+<option>Omnipresent</option>
+<option>Scarce</option>
+<option>Widespread</option>
+<option>Universal</option>
+
+<answer>Scarce</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blanks with suitable modal auxiliary verb.
-You really ………go to the new temple on the Mada Street.</text>
-<option>Will</option>
-<option>Should</option>
-<option>May</option>
-<option>Shall</option>
-<answer>Should</answer>
+<text>Fill in the blank with the most appropriate modal auxiliary verb to express a logical conclusion based on evidence:
+The lights are off and the doors are locked; they ________ have left the office already.</text>
+
+<option>should</option>
+<option>may</option>
+<option>must</option>
+<option>shall</option>
+
+<answer>must</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blank with suitable modal auxiliary verb.
-……….you mind if I opened the door?</text>
-<option>Shall</option>
-<option>May</option>
-<option>Might</option>
-<option>Would</option>
-<answer>Would</answer>
+<text>Fill in the blank with the most appropriate modal auxiliary verb to express regret about a past action:
+You ________ informed the authorities earlier; the situation might have been avoided.</text>
+
+<option>must have</option>
+<option>should have</option>
+<option>may have</option>
+<option>could have</option>
+
+<answer>should have</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blank with suitable Tense.
-My team ……….volleyball for six years.</text>
-<option>Have been playing</option>
-<option>Playing</option>
-<option>Has been playing</option>
-<option>Have played</option>
-<answer>Has been playing</answer>
+<text>Fill in the blank with the most appropriate tense form:
+Despite frequent changes in players and management, the team __________ consistently at the national level since it was formed.</text>
+
+<option>have been performing</option>
+<option>has been performing</option>
+<option>had been performing</option>
+<option>is performing</option>
+
+<answer>has been performing</answer>
+
 </question>
 
 <question>
@@ -1027,24 +1152,30 @@ S: father switches places with</text>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blanks with suitable Article from the given alternatives.
-He came direct from……..Brazil.</text>
+<text>Fill in the blank with the most appropriate article:
+She was appointed __________ Principal of the college after years of experience in administration.</text>
+
 <option>a</option>
 <option>an</option>
 <option>the</option>
 <option>no article</option>
+
 <answer>no article</answer>
+
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Fill in the blanks with suitable Article from the given alternatives.
-He is addicted to………Cigarette smoking.</text>
+<text>Fill in the blank with the most appropriate article:
+After the accident, he was taken to __________ hospital for immediate treatment.</text>
+
 <option>a</option>
 <option>an</option>
 <option>the</option>
 <option>no article</option>
+
 <answer>no article</answer>
+
 </question>
 
 <question>
@@ -1060,12 +1191,15 @@ She pressed the shirts neatly.</text>
 
 <question>
 <subject>General English</subject>
-<text>Choose a sentence with appropriate user punctuation</text>
+<text>Choose the sentence that uses punctuation correctly and appropriately in standard written English.</text>
+
 <option>I know, what you want.</option>
 <option>I know what you want?</option>
 <option>I know what you want.</option>
 <option>I know what you want!</option>
+
 <answer>I know what you want.</answer>
+
 </question>
 
 <question>
