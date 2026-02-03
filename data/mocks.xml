@@ -980,27 +980,29 @@ Crop  - Major Producing State</text>
 
 <question>
 <subject>General English</subject>
-<text>Which of the following best conveys the meaning of the idiom “Herculean Task”?</text>
+<text>Identify the type of clause in the sentence:
+&quot;I know where he lives.&quot;?</text>
 
-<option>Very easy task</option>
-<option>Neat and clean task</option>
-<option>Very difficult task</option>
-<option>Start the day in a bad mood</option>
+<option>Adjective clause</option>
+<option>Noun clause</option>
+<option>Adverb clause</option>
+<option>Independent clause</option>
 
-<answer>Very difficult task</answer>
+<answer>Noun clause</answer>
 
 </question>
 
 <question>
 <subject>General English</subject>
-<text>Which of the following best explains the meaning of the idiom “Keep the wolf from the door”?</text>
+<text>Identify the part containing an error:
+&quot;Each of the candidates were asked to submit their documents.&quot;</text>
 
-<option>Scold someone at door</option>
-<option>Avoid starvation</option>
-<option>Keep a distance from somebody</option>
-<option>To miss an opportunity</option>
+<option>Each of the</option>
+<option>candidates were</option>
+<option>asked to submit</option>
+<option>their documents</option>
 
-<answer>Avoid starvation</answer>
+<answer>candidates were</answer>
 
 </question>
 
@@ -1070,14 +1072,14 @@ Statement B: The number of deaths due to CVD in the low-income countries is more
 
 <question>
 <subject>General English</subject>
-<text>Which of the following is the most appropriate antonym of the word “Esoteric”?</text>
+<text>Select the correct usage of the homonym “fair”:?</text>
 
-<option>Abstruse</option>
-<option>Obscure</option>
-<option>Arcane</option>
-<option>Commonplace</option>
+<option>It is only fair that everyone gets a chance.</option>
+<option>She went to the village fair.</option>
+<option>Both A and B</option>
+<option>Only A</option>
 
-<answer>Commonplace</answer>
+<answer>Both A and B</answer>
 
 </question>
 
