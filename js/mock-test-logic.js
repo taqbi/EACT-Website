@@ -361,19 +361,31 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 4. Timer Logic ---
     function startTimer(duration) {
+        if (timerInterval) clearInterval(timerInterval);
+        
         let time = duration;
-        timerInterval = setInterval(() => {
+        
+        function updateDisplay() {
             const hours = Math.floor(time / 3600);
             const minutes = Math.floor((time % 3600) / 60);
             const seconds = time % 60;
 
-            timerDisplay.textContent = 
-                `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+            if (timerDisplay) {
+                timerDisplay.textContent = 
+                    `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+            }
+        }
 
-            if (--time < 0) {
+        updateDisplay();
+
+        timerInterval = setInterval(() => {
+            time--;
+            if (time < 0) {
                 clearInterval(timerInterval);
                 alert('Time is up! The test will be submitted automatically.');
                 submitTest();
+            } else {
+                updateDisplay();
             }
         }, 1000);
     }
