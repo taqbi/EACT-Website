@@ -937,8 +937,8 @@ A-2, B-3, C-1, D-4
 
 <question>
 <subject>Computer Awareness</subject>
-<text>Assertion (A): IPv6 provides a much larger address space compared to IPv4.</text>
-<text>Reason (R): IPv6 uses 64-bit addresses, whereas IPv4 uses 32-bit addresses.</text>
+<text>Assertion (A): IPv6 provides a much larger address space compared to IPv4.
+Reason (R): IPv6 uses 64-bit addresses, whereas IPv4 uses 32-bit addresses.</text>
 
 <option>Both A and R are true and R is the correct explanation of A</option>
 <option>Both A and R are true but R is not the correct explanation of A</option>

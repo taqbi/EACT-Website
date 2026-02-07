@@ -498,20 +498,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (numPercentage > 90) {
                     rank = 1;
                 } else if (numPercentage >= 80) {
-                    // 80-90% -> Ranks 2 to 201
-                    rank = 2 + Math.floor((90 - numPercentage) * 19.9);
+                    // 80-90% -> Ranks 2 to 100
+                    rank = 2 + Math.floor((90 - numPercentage) * 9.9);
                 } else if (numPercentage >= 70) {
-                    // 70-80% -> Ranks 202 to 5000
-                    rank = 202 + Math.floor((80 - numPercentage) * 479.8);
+                    // 70-80% -> Ranks 101 to 500
+                    rank = 101 + Math.floor((80 - numPercentage) * 40);
                 } else if (numPercentage >= 60) {
-                    // 60-70% -> Ranks 5001 to 20000
-                    rank = 5001 + Math.floor((70 - numPercentage) * 1499.9);
+                    // 60-70% -> Ranks 501 to 3000
+                    rank = 501 + Math.floor((70 - numPercentage) * 250);
                 } else if (numPercentage >= 50) {
-                    // 50-60% -> Ranks 20001 to 50000
-                    rank = 20001 + Math.floor((60 - numPercentage) * 2999.9);
+                    // 50-60% -> Ranks 3001 to 20000
+                    rank = 3001 + Math.floor((60 - numPercentage) * 1700);
                 } else {
-                    // < 50% -> Ranks 50001 to 100000
-                    rank = 50001 + Math.floor((50 - numPercentage) * 999.9);
+                    // < 50% -> Ranks 20001 to 100000
+                    rank = 20001 + Math.floor((50 - numPercentage) * 1600);
                 }
 
                 if (rank > totalParticipants) rank = totalParticipants;
