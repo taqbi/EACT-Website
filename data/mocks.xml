@@ -1276,7 +1276,7 @@ Choose the appropriate one from the following options</text>
 <option>North</option>
 <option>West</option>
 <option>South</option>
-<answer>North</answer>
+<answer>West</answer>
 </question>
 
 <question>
@@ -1380,7 +1380,7 @@ In the equation P@Q#R$S, How is P related to S?</text>
 <option>South-West</option>
 <option>North-West</option>
 <option>North-East</option>
-<answer>North-West</answer>
+<answer>South-West</answer>
 </question>
 
 <question>
@@ -1400,7 +1400,7 @@ In the equation P@Q#R$S, How is P related to S?</text>
 <option>6579</option>
 <option>4354</option>
 <option>9276</option>
-<answer>9276</answer>
+<answer>9631</answer>
 </question>
 
 <question>
