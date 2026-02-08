@@ -445,6 +445,83 @@ document.addEventListener('DOMContentLoaded', () => {
         calculateAndDisplayResults(true);
     }
 
+    // --- Helper: Calculate Rank ---
+    function calculateRank(percentage) {
+        const numPercentage = parseFloat(percentage);
+        if (numPercentage < 10) {
+            return "Invalid Attempt";
+        }
+        
+        const totalParticipants = 100000;
+        let rank;
+
+        if (numPercentage > 90) {
+            rank = 1;
+        } else if (numPercentage >= 80) {
+            // 80-90% -> Ranks 2 to 100
+            rank = 2 + Math.floor((90 - numPercentage) * 9.9);
+        } else if (numPercentage >= 70) {
+            // 70-80% -> Ranks 101 to 500
+            rank = 101 + Math.floor((80 - numPercentage) * 40);
+        } else if (numPercentage >= 60) {
+            // 60-70% -> Ranks 501 to 3000
+            rank = 501 + Math.floor((70 - numPercentage) * 250);
+        } else if (numPercentage >= 50) {
+            // 50-60% -> Ranks 3001 to 20000
+            rank = 3001 + Math.floor((60 - numPercentage) * 1700);
+        } else {
+            // < 50% -> Ranks 20001 to 100000
+            rank = 20001 + Math.floor((50 - numPercentage) * 1600);
+        }
+
+        if (rank > totalParticipants) rank = totalParticipants;
+        return `${rank} / ${totalParticipants}`;
+    }
+
+    // --- Helper: Recalculate History Scores ---
+    function recalculateHistoryScores() {
+        const history = readMockPerformance();
+        let updated = false;
+
+        history.forEach(attempt => {
+            const testData = allMockTests[attempt.name];
+            // Only proceed if we have test data and user answers
+            if (testData && attempt.userAnswers) {
+                // Ensure question count matches to avoid index mismatch
+                if (attempt.userAnswers.length === testData.questions.length) {
+                    let newScore = 0;
+                    
+                    attempt.userAnswers.forEach((userAns, index) => {
+                        if (userAns !== null) {
+                            const correctAns = testData.questions[index].answer;
+                            if (userAns === correctAns) {
+                                newScore += testData.correctMarks;
+                            } else {
+                                newScore -= testData.negativeMarks;
+                            }
+                        }
+                    });
+
+                    newScore = Math.round(newScore * 100) / 100;
+                    const totalMarks = testData.questions.length * testData.correctMarks;
+                    const newPercentage = totalMarks > 0 ? ((newScore / totalMarks) * 100).toFixed(1) : 0;
+                    const newRank = calculateRank(newPercentage);
+
+                    if (attempt.score !== newScore || attempt.percentage !== newPercentage) {
+                        attempt.score = newScore;
+                        attempt.percentage = newPercentage;
+                        attempt.rank = newRank;
+                        updated = true;
+                    }
+                }
+            }
+        });
+
+        if (updated) {
+            saveMockPerformance(history);
+        }
+    }
+
     function calculateAndDisplayResults(isSubmission) {
         let score = 0;
         let attempted = 0;
@@ -487,36 +564,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Calculate or Retrieve Rank
         let rankDisplay = currentTestRank;
         if (isSubmission) {
-            const numPercentage = parseFloat(percentage);
-            if (numPercentage < 10) {
-                rankDisplay = "Invalid Attempt";
-            } else {
-                // Sophisticated Rank Calculation mimicking real world
-                const totalParticipants = 100000;
-                let rank;
-
-                if (numPercentage > 90) {
-                    rank = 1;
-                } else if (numPercentage >= 80) {
-                    // 80-90% -> Ranks 2 to 100
-                    rank = 2 + Math.floor((90 - numPercentage) * 9.9);
-                } else if (numPercentage >= 70) {
-                    // 70-80% -> Ranks 101 to 500
-                    rank = 101 + Math.floor((80 - numPercentage) * 40);
-                } else if (numPercentage >= 60) {
-                    // 60-70% -> Ranks 501 to 3000
-                    rank = 501 + Math.floor((70 - numPercentage) * 250);
-                } else if (numPercentage >= 50) {
-                    // 50-60% -> Ranks 3001 to 20000
-                    rank = 3001 + Math.floor((60 - numPercentage) * 1700);
-                } else {
-                    // < 50% -> Ranks 20001 to 100000
-                    rank = 20001 + Math.floor((50 - numPercentage) * 1600);
-                }
-
-                if (rank > totalParticipants) rank = totalParticipants;
-                rankDisplay = `${rank} / ${totalParticipants}`;
-            }
+            rankDisplay = calculateRank(percentage);
         }
 
         let isFirstAttempt = false;
@@ -755,6 +803,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 6. Performance History Logic ---
     function displayMockPerformance() {
+        // Recalculate scores based on latest answer keys
+        recalculateHistoryScores();
+
         selectionContainer.style.display = 'none';
         testArea.style.display = 'none';
         resultsArea.style.display = 'none';
