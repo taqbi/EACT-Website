@@ -33690,39 +33690,9 @@ Which of the following is the correct chronological order of their attainment of
     <explanation>To improve administrative efficiency, the 'Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act, 2019' merged these two UTs into one with its capital at Daman.</explanation>
 </question>
 
-<question category="practice" exam="JKSSB Junior Assistant" subject="Physical and Political Divisions of India">
-    <text>Consider the following statements regarding the Jammu and Kashmir Reorganization Act, 2019:
-1. It came into effect on October 31, 2019.
-2. It created two Union Territories: J&amp;K with a Legislative Assembly and Ladakh without one.
-3. The UT of Ladakh consists of two districts: Leh and Kargil.
-Which of the statements given above are correct?</text>
-    <topic>J&amp;K Political Division</topic>
-    <option>1 and 2 only</option>
-    <option>2 and 3 only</option>
-    <option>1 and 3 only</option>
-    <option>1, 2 and 3</option>
-    <answer>1, 2 and 3</answer>
-    <explanation>All statements are correct. October 31 (National Unity Day) was chosen for the implementation. Ladakh has two districts (Leh and Kargil), while J&amp;K currently has 20 districts.</explanation>
-</explanation>
-</question>
 
-<question category="practice" exam="JKSSB Junior Assistant" subject="Physical and Political Divisions of India">
-    <text>As of 2024, which of the following Indian states have a bicameral legislature (Legislative Council)?
-1. Uttar Pradesh
-2. Maharashtra
-3. Bihar
-4. Karnataka
-5. Andhra Pradesh
-6. Telangana
-Select the correct answer using the codes below:</text>
-    <topic>State Administration</topic>
-    <option>1, 2, 3 and 4 only</option>
-    <option>1, 2, 5 and 6 only</option>
-    <option>1, 2, 3, 4, 5 and 6</option>
-    <option>1, 3 and 5 only</option>
-    <answer>1, 2, 3, 4, 5 and 6</answer>
-    <explanation>Currently, only six states in India have a Legislative Council (Vidhan Parishad): UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, and Telangana. (J&amp;K's council was abolished in 2019).</explanation>
-</question>
+
+
 
 <question category="practice" exam="JKSSB Junior Assistant" subject="Physical and Political Divisions of India">
     <text>Consider the following states:
@@ -33768,7 +33738,7 @@ Which of the following is the correct descending order of their representation i
     <option>1 — 4 — 2 — 3</option>
     <option>3 — 1 — 2 — 4</option>
     <answer>1 — 3 — 2 — 4</answer>
-    <explanation>The order is: UP (80) > Maharashtra (48) > West Bengal (42) > Bihar (40). This is based on the 1971 census-linked delimitation.</explanation>
+    <explanation>The order is: UP (80) &gt; Maharashtra (48) &gt; West Bengal (42) &gt; Bihar (40). This is based on the 1971 census-linked delimitation.</explanation>
 </question>
 
 <question category="practice" exam="JKSSB Junior Assistant" subject="Physical and Political Divisions of India">
@@ -33796,6 +33766,13 @@ Which of the statements given above are correct?</text>
     <answer>1, 2 and 3</answer>
     <explanation>Lakshadweep has an area of only 32 sq km. It is under the Kerala High Court's jurisdiction and sends one representative to the Lok Sabha.</explanation>
 </question>
+
+
+
+
+
+
+
 
 <question category="practice" exam="JKSSB Junior Assistant" subject="Physical and Political Divisions of India">
     <text>The 'Radcliffe Line' serves as the political boundary between India and which of the following countries?</text>
@@ -35848,6 +35825,13 @@ Which of the statements given above are correct?</text>
     <explanation>This is known as Ferrell's Law. Without this deflection, the Southern Hemisphere trade winds would never reach the Indian subcontinent as South-Westerly winds.</explanation>
 </question>
 
+
+
+
+
+
+
+
 <question category="practice" exam="JKSSB FAA" subject="Environment and Ecology">
     <text>Consider the following statements regarding the 'Ramsar Convention' and India's status (as of August 2024):
 1. India currently has 85 designated Ramsar sites, the highest in South Asia.
@@ -35862,6 +35846,8 @@ Which of the statements given above are correct?</text>
     <answer>1, 2 and 3</answer>
     <explanation>As of August 2024, India has 85 Ramsar sites. Tamil Nadu leads with 18 sites. In J&amp;K, Shallbugh and Hygam were added in 2022, bringing the total in the UT to 5 (Wular, Hokersar, Surinsar-Mansar, Hygam, Shallbugh).</explanation>
 </question>
+
+
 
 <question category="practice" exam="JKSSB FAA" subject="Environment and Ecology">
     <text>Match the following 'Project' start years with their respective focus species:
@@ -37225,6 +37211,3659 @@ Which of the statements given above are correct?</text>
     <answer>Bangladesh</answer>
     <explanation>Maitri Setu (1.9 km) is built over the Feni River, connecting Sabroom in Tripura (India) with Ramgarh in Bangladesh, providing India access to Chittagong port.</explanation>
 </question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'ROM' (Read Only Memory):
+1. It is non-volatile memory that retains data even when the power is turned off.
+2. It contains the BIOS (Basic Input Output System) of the computer.
+3. Users can easily rewrite data on a standard ROM chip during normal operations.
+Which of the statements given above are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>ROM is non-volatile and stores the startup instructions (BIOS). Unlike RAM, data in standard ROM cannot be modified easily by the user.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Computer Generations with their key switching technologies:
+List I (Generation) - List II (Technology)
+A. First Generation - 1. Integrated Circuits (ICs)
+B. Second Generation - 2. Vacuum Tubes
+C. Third Generation - 3. Microprocessors (VLSI)
+D. Fourth Generation - 4. Transistors
+Select the correct code:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A-2, B-4, C-1, D-3</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-1, C-4, D-3</option>
+    <option>A-4, B-3, C-2, D-1</option>
+    <answer>A-2, B-4, C-1, D-3</answer>
+    <explanation>1st: Vacuum Tubes; 2nd: Transistors; 3rd: ICs; 4th: Microprocessors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A Junior Assistant needs to perform a quick calculation while working on a Word document. Which built-in Windows application component should they use?</text>
+    <topic>Basic Applications</topic>
+    <option>Notepad</option>
+    <option>Calculator</option>
+    <option>Snipping Tool</option>
+    <option>Control Panel</option>
+    <answer>Calculator</answer>
+    <explanation>The Calculator is a standard utility component in Windows used for mathematical operations.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about the CPU (Central Processing Unit):
+1. The ALU (Arithmetic Logic Unit) performs mathematical calculations.
+2. The Control Unit (CU) coordinates the flow of data between the CPU and other components.
+Which of the statements given above is/are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>The CPU consists of the ALU for logic/math and the CU for managing instructions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following units of computer memory is the largest?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Petabyte (PB)</option>
+    <option>Terabyte (TB)</option>
+    <option>Gigabyte (GB)</option>
+    <option>Exabyte (EB)</option>
+    <answer>Exabyte (EB)</answer>
+    <explanation>Order: KB &lt; MB &lt; GB &lt; TB &lt; PB &lt; EB.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following components with their primary functions:
+A. CMOS Battery - 1. Maintains System Date and Time
+B. SMPS - 2. Converts AC to DC power
+C. Motherboard - 3. Main circuit board connecting all parts
+Select the correct code:</text>
+    <topic>Computer Components</topic>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <option>A-1, B-3, C-2</option>
+    <answer>A-1, B-2, C-3</answer>
+    <explanation>CMOS battery keeps time; SMPS provides power; Motherboard is the backbone.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In a JKSSB office, a server is used to store massive amounts of data for thousands of candidates. Which type of computer is most likely used for this centralized task?</text>
+    <topic>Types of Computers</topic>
+    <option>Microcomputer</option>
+    <option>Mainframe Computer</option>
+    <option>Embedded Computer</option>
+    <option>Workstation</option>
+    <answer>Mainframe Computer</answer>
+    <explanation>Mainframes are designed for high-volume data processing and centralized storage in large organizations.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which component is responsible for cooling the Microprocessor in a Desktop PC?</text>
+    <topic>Computer Components</topic>
+    <option>Expansion Slot</option>
+    <option>Heat Sink and Fan</option>
+    <option>Hard Disk</option>
+    <option>SMPS</option>
+    <answer>Heat Sink and Fan</answer>
+    <explanation>The Heat Sink draws heat away from the CPU, and the fan dissipates it to prevent overheating.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Cache Memory':
+1. It is faster than RAM.
+2. It is placed between the CPU and the Main Memory.
+3. It stores frequently used data and instructions for quick access.
+Which of the statements given above are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <option>1 and 3 only</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>Cache is a small, high-speed memory that improves the efficiency of the CPU by reducing access time to RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Basic Application' of computers in the field of Education?</text>
+    <topic>Basic Applications</topic>
+    <option>CBT (Computer Based Training)</option>
+    <option>Online Examinations</option>
+    <option>Distance Learning through LMS</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>Computers have transformed education through online testing, digital training, and remote learning platforms.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A computer system is unable to boot and displays the message "Non-System disk or disk error". Which component should the user check first?</text>
+    <topic>Computer Components</topic>
+    <option>Monitor</option>
+    <option>Hard Disk Drive (HDD)</option>
+    <option>Keyboard</option>
+    <option>Printer</option>
+    <answer>Hard Disk Drive (HDD)</answer>
+    <explanation>The error suggests the OS cannot be found, which is typically stored on the Hard Disk.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Speed' of a modern Microprocessor is measured in:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Kilobytes (KB)</option>
+    <option>Gigahertz (GHz)</option>
+    <option>Megabits per second (Mbps)</option>
+    <option>DPI</option>
+    <answer>Gigahertz (GHz)</answer>
+    <explanation>Clock speed (cycle rate) of a CPU is measured in Hertz (usually GHz nowadays).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Registers' in a CPU:
+1. They are the smallest and fastest storage units within the CPU.
+2. The Program Counter (PC) is a type of register that tracks the address of the next instruction.
+Which of the statements given above is/are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Registers provide the CPU with the fastest access to data and instruction tracking.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Storage Devices with their types:
+A. SSD - 1. Optical Storage
+B. Hard Disk - 2. Magnetic Storage
+C. Blu-ray Disc - 3. Flash Memory
+Select the correct code:</text>
+    <topic>Computer Components</topic>
+    <option>A-3, B-2, C-1</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <option>A-2, B-3, C-1</option>
+    <answer>A-3, B-2, C-1</answer>
+    <explanation>SSD uses flash; HDD uses magnetism; Blu-ray uses laser (optical).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In a computer system, the 'Buffer' is used to:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Permanently store files</option>
+    <option>Temporarily store data to compensate for speed differences between devices</option>
+    <option>Scan for viruses</option>
+    <option>Increase the monitor's brightness</option>
+    <answer>Temporarily store data to compensate for speed differences between devices</answer>
+    <explanation>Buffers allow a faster device to keep working while a slower device (like a printer) catches up.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes a 'Hybrid Computer'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A computer that uses both RAM and ROM</option>
+    <option>A computer that combines features of both Analog and Digital computers</option>
+    <option>A computer that can run both Windows and Linux</option>
+    <option>A laptop that can be used as a tablet</option>
+    <answer>A computer that combines features of both Analog and Digital computers</answer>
+    <explanation>Hybrid computers process both continuous (analog) and discrete (digital) data, commonly used in scientific applications.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You are buying a computer and the specification says 'i5-12400'. What does 'i5' represent?</text>
+    <topic>Computer Components</topic>
+    <option>Type of Motherboard</option>
+    <option>Brand and Series of the Processor</option>
+    <option>Capacity of RAM</option>
+    <option>Operating System Version</option>
+    <answer>Brand and Series of the Processor</answer>
+    <explanation>Intel Core 'i5' is a popular mid-range processor series.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which part of the computer system is often called the 'Soul' of the computer, without which hardware is useless?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Monitor</option>
+    <option>Software</option>
+    <option>Cabinet</option>
+    <option>UPS</option>
+    <answer>Software</answer>
+    <explanation>Hardware is the physical body, while Software is the set of instructions (soul) that makes it perform tasks.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'UPS' (Uninterruptible Power Supply):
+1. It provides emergency power to a computer when the main power fails.
+2. It protects the computer from voltage spikes and surges.
+Which of the statements given above is/are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>UPS acts as both a battery backup and a surge protector.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which software component is used to manage and manipulate rows and columns of data for financial accounting in a government office?</text>
+    <topic>Basic Applications</topic>
+    <option>Word Processor</option>
+    <option>Spreadsheet (e.g., MS Excel)</option>
+    <option>Presentation Software</option>
+    <option>Web Browser</option>
+    <answer>Spreadsheet (e.g., MS Excel)</answer>
+    <explanation>Spreadsheets are specifically designed for numerical data and calculations.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Full Form' of USB in computer terminology?</text>
+    <topic>Computer Components</topic>
+    <option>Universal Serial Bus</option>
+    <option>Uniform Service Block</option>
+    <option>United Serial Board</option>
+    <option>Universal System Bus</option>
+    <answer>Universal Serial Bus</answer>
+    <explanation>USB is the standard for connecting peripherals to a computer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Internal Component' of a computer system unit?</text>
+    <topic>Computer Components</topic>
+    <option>Speaker</option>
+    <option>Expansion Cards (Network/Graphics)</option>
+    <option>Keyboard</option>
+    <option>Monitor</option>
+    <answer>Expansion Cards (Network/Graphics)</answer>
+    <explanation>Expansion cards are plugged directly into the motherboard inside the cabinet.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Bit' and 'Byte':
+1. A 'Bit' is the smallest unit of data in a computer.
+2. Exactly 8 bits make up 1 'Byte'.
+3. A 'Nibble' consists of 4 bits.
+Which of the statements given above are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <option>1 and 3 only</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>All are standard data measurement definitions in computing.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which port is typically used to connect a monitor to a modern CPU for high-definition video?</text>
+    <topic>Computer Components</topic>
+    <option>Parallel Port</option>
+    <option>Serial Port</option>
+    <option>HDMI Port</option>
+    <option>PS/2 Port</option>
+    <answer>HDMI Port</answer>
+    <explanation>HDMI (High-Definition Multimedia Interface) is the standard for modern video/audio transmission.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A user wants to upgrade their computer's speed so they can open multiple programs at once without lag. Which component should they increase?</text>
+    <topic>Computer Components</topic>
+    <option>Hard Disk capacity</option>
+    <option>RAM (Random Access Memory)</option>
+    <option>Monitor size</option>
+    <option>ROM capacity</option>
+    <answer>RAM (Random Access Memory)</answer>
+    <explanation>Increasing RAM allows more applications to be held in active memory, improving multi-tasking speed.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Computer types with their use cases:
+A. Supercomputer - 1. Weather Forecasting / Nuclear Research
+B. Microcomputer - 2. Personal Use / Home Office
+C. Embedded Computer - 3. Washing Machines / Car Dashboards
+Select the correct code:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-3, C-2</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-1, B-2, C-3</answer>
+    <explanation>Supercomputers are for massive calculations; Micros are PCs; Embedded are single-task computers inside other devices.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which component of the computer is responsible for converting human-readable instructions into 'Machine Code' (0s and 1s)?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Operating System</option>
+    <option>Compiler/Interpreter</option>
+    <option>BIOS</option>
+    <option>Device Driver</option>
+    <answer>Compiler/Interpreter</answer>
+    <explanation>These are language translators that convert high-level languages into machine-readable binary code.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'External Hard Drives':
+1. They are used for backing up data.
+2. They connect to the computer typically via a USB port.
+3. They are volatile storage devices.
+Which of the statements given above are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>Hard drives are non-volatile (permanent) storage; volatile memory loses data without power (like RAM).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: In a hospital, a computer is used to track heartbeats on a continuous wave. This type of signal processing is an application of:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Digital Computer</option>
+    <option>Analog Computer</option>
+    <option>Supercomputer</option>
+    <option>Mainframe</option>
+    <answer>Analog Computer</answer>
+    <explanation>Analog computers process continuous physical magnitudes like voltage or pressure (waves).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Motherboard' is also known as:</text>
+    <topic>Computer Components</topic>
+    <option>Central Board</option>
+    <option>System Board / Mainboard</option>
+    <option>Circuit Board</option>
+    <option>Power Board</option>
+    <answer>System Board / Mainboard</answer>
+    <explanation>These are the technical synonyms for the primary circuit board of a computer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Output component' found inside a Laptop but usually as a separate peripheral for a Desktop?</text>
+    <topic>Computer Components</topic>
+    <option>Keyboard</option>
+    <option>Monitor (Display Screen)</option>
+    <option>Mouse</option>
+    <option>Hard Drive</option>
+    <answer>Monitor (Display Screen)</answer>
+    <explanation>In a laptop, the monitor is built-in (internal component of the shell), whereas for a desktop, it is an external peripheral.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the purpose of the 'System Clock' in a computer?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>To show the time on the taskbar</option>
+    <option>To synchronize the timing of all computer operations</option>
+    <option>To set an alarm for the user</option>
+    <option>To count the number of files on the disk</option>
+    <answer>To synchronize the timing of all computer operations</answer>
+    <explanation>The system clock emits electronic pulses to keep all internal components in sync.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'VGA' (Video Graphics Array):
+1. It is an older standard for transmitting video signals.
+2. It uses a 15-pin connector.
+3. It can transmit both high-quality audio and video.
+Which of the statements given above is/are correct?</text>
+    <topic>Computer Components</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>VGA only transmits video. Unlike HDMI or DisplayPort, it does not carry audio signals.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which component protects a computer from sudden electrical 'Brownouts' by providing temporary power?</text>
+    <topic>Computer Components</topic>
+    <option>Surge Protector</option>
+    <option>UPS</option>
+    <option>SMPS</option>
+    <option>Voltage Stabilizer</option>
+    <answer>UPS</answer>
+    <explanation>While stabilizers and surge protectors manage quality, only the UPS provides the battery power needed during a brownout/blackout.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You want to save a 5 GB high-definition video file. Which of the following would NOT be able to store this file on a single disc?</text>
+    <topic>Computer Components</topic>
+    <option>Standard DVD (Single Layer)</option>
+    <option>Blu-ray Disc</option>
+    <option>USB Flash Drive (8GB)</option>
+    <option>External Hard Drive</option>
+    <answer>Standard DVD (Single Layer)</answer>
+    <explanation>A standard single-layer DVD has a capacity of 4.7 GB, which is less than the 5 GB file size.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding an 'Operating System' (OS):
+1. It acts as an interface between the user and the computer hardware.
+2. It manages memory, processes, and all software and hardware.
+3. MS Office is a popular example of an Operating System.
+Which of the statements given above are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>MS Office is an 'Application Software', not an Operating System. Examples of OS include Windows, Linux, and macOS.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following File Extensions with their file types:
+A. .docx - 1. Image File
+B. .xlsx - 2. MS Word Document
+C. .jpg - 3. MS Excel Spreadsheet
+D. .mp3 - 4. Audio File
+Select the correct code:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A-2, B-3, C-1, D-4</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-1, C-4, D-3</option>
+    <option>A-3, B-2, C-1, D-4</option>
+    <answer>A-2, B-3, C-1, D-4</answer>
+    <explanation>Standard file extensions used in office environments.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the 'Booting' process in a computer?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Cleaning the internal components of a computer</option>
+    <option>The process of starting or restarting a computer</option>
+    <option>Connecting a computer to the internet</option>
+    <option>Installing a new software</option>
+    <answer>The process of starting or restarting a computer</answer>
+    <explanation>Booting involves loading the OS from the disk into the RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Multitasking':
+1. It allows a user to perform more than one computer task at a time.
+2. The OS keeps track of where you are in these tasks and goes from one to the other without losing information.
+Which of the statements given above is/are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Multitasking is a core feature of modern operating systems like Windows.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Windows, what is the keyboard shortcut to permanently delete a file without sending it to the Recycle Bin?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Delete</option>
+    <option>Shift + Delete</option>
+    <option>Ctrl + Delete</option>
+    <option>Alt + Delete</option>
+    <answer>Shift + Delete</answer>
+    <explanation>Standard Windows shortcut for permanent deletion.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'System Software'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Web Browser</option>
+    <option>Operating System</option>
+    <option>Media Player</option>
+    <option>Word Processor</option>
+    <answer>Operating System</answer>
+    <explanation>System software manages the hardware; Application software performs specific user tasks.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A Junior Assistant's computer is running very slowly. They open 'Task Manager' to see which program is using the most resources. Which shortcut did they use to open it?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Ctrl + C</option>
+    <option>Ctrl + Alt + Delete</option>
+    <option>Alt + F4</option>
+    <option>Windows Key + L</option>
+    <answer>Ctrl + Alt + Delete</answer>
+    <explanation>This key combination (or Ctrl+Shift+Esc) allows users to access the Task Manager to manage processes.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Primary Memory':
+1. RAM is a type of primary memory.
+2. It is directly accessible by the CPU.
+3. It is usually larger in capacity than secondary memory like Hard Disks.
+Which of the statements given above are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>Primary memory (RAM) is much smaller in capacity than secondary memory (HDD/SSD).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is NOT an Operating System?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Linux</option>
+    <option>Oracle</option>
+    <option>Windows</option>
+    <option>Android</option>
+    <answer>Oracle</answer>
+    <explanation>Oracle is a company/database software; the others are operating systems.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A user wants to change the background wallpaper and screen resolution of their Windows 10 computer. Where should they go?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Taskbar</option>
+    <option>Settings / Personalization</option>
+    <option>Recycle Bin</option>
+    <option>File Explorer</option>
+    <answer>Settings / Personalization</answer>
+    <explanation>System appearance and display settings are managed in the Settings/Personalization menu.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Spooling' in computer fundamentals?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A technique to speed up the internet</option>
+    <option>The process of sending data to a temporary working area for another program to process (like printing)</option>
+    <option>Scanning for viruses in the background</option>
+    <option>Defragmenting the hard drive</option>
+    <answer>The process of sending data to a temporary working area for another program to process (like printing)</answer>
+    <explanation>SPOOL stands for Simultaneous Peripheral Operations On-Line, mostly used for managing print jobs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'User Interface':
+1. GUI (Graphical User Interface) uses icons, menus, and a pointer.
+2. CUI (Character User Interface) requires users to type commands to interact.
+3. MS-DOS is an example of a GUI.
+Which of the statements given above are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>MS-DOS is a CUI (Command Line Interface); Windows is a GUI.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'Utility Software'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Antivirus</option>
+    <option>Disk Defragmenter</option>
+    <option>File Compression (WinZip)</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>Utility software helps maintain, configure, and optimize the computer system.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Windows terms with their descriptions:
+A. Desktop - 1. Area showing all open programs and the clock
+B. Taskbar - 2. The main screen area seen after logging in
+C. Icons - 3. Small pictures representing files or programs
+D. Start Menu - 4. Central hub for accessing apps and settings
+Select the correct code:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A-2, B-1, C-3, D-4</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-3, C-1, D-4</option>
+    <option>A-4, B-3, C-2, D-1</option>
+    <answer>A-2, B-1, C-3, D-4</answer>
+    <explanation>Basic Windows interface terminology.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Full Form' of BIOS?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Basic Input Output System</option>
+    <option>Binary Input Output Software</option>
+    <option>Basic Internal Operating System</option>
+    <option>Business Input Output Standard</option>
+    <answer>Basic Input Output System</answer>
+    <explanation>BIOS initializes hardware during the booting process.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You are working on a document and the power goes out suddenly. You haven't saved your work. Where was the data stored just before the power cut?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Hard Disk</option>
+    <option>RAM</option>
+    <option>ROM</option>
+    <option>CD-ROM</option>
+    <answer>RAM</answer>
+    <explanation>Unsaved data resides in the RAM, which is volatile and loses information when power is lost.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which command is used in Windows to check the IP address of a computer?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>ipconfig</option>
+    <option>ping</option>
+    <option>tracert</option>
+    <option>cmd</option>
+    <answer>ipconfig</answer>
+    <explanation>Entering 'ipconfig' in the Command Prompt displays network configuration details.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Device Drivers':
+1. They are software that allows the OS to communicate with hardware.
+2. Every hardware device (like a printer or scanner) needs a driver to function correctly with the OS.
+Which of the statements given above is/are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Drivers act as translators between hardware and the Operating System.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A user needs to compress a large folder of 500 MB into a smaller size to send it via email. Which tool should they use?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Disk Cleanup</option>
+    <option>WinRAR / WinZip / 7-Zip</option>
+    <option>Control Panel</option>
+    <option>Disk Management</option>
+    <answer>WinRAR / WinZip / 7-Zip</answer>
+    <explanation>Compression utilities reduce file size by removing redundancy.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following Operating Systems was developed specifically by Apple Inc.?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Windows</option>
+    <option>macOS</option>
+    <option>Ubuntu</option>
+    <option>Solaris</option>
+    <answer>macOS</answer>
+    <explanation>Apple develops macOS for its computers and iOS for its mobile devices.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Virtual Memory'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Memory on a cloud server</option>
+    <option>Space on the hard disk used by the OS to simulate additional RAM</option>
+    <option>RAM used by a graphics card</option>
+    <option>Flash memory used as a cache</option>
+    <answer>Space on the hard disk used by the OS to simulate additional RAM</answer>
+    <explanation>Virtual memory allows a computer to run larger programs than its physical RAM capacity would normally allow.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Binary Number System':
+1. It uses only two digits: 0 and 1.
+2. It is the fundamental language of computers.
+3. The number 2 in decimal is represented as 10 in binary.
+Which of the statements given above are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>Binary is base-2. Decimal 2 is binary 10 (one 2 and zero 1s).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which part of the OS is responsible for loading the 'Kernel' into memory during booting?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>BIOS</option>
+    <option>Boot Loader</option>
+    <option>Device Driver</option>
+    <option>File Manager</option>
+    <answer>Boot Loader</answer>
+    <explanation>The boot loader is a small program that loads the main OS kernel into RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which file system is most commonly used by modern versions of Windows like Windows 10 or 11?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>FAT32</option>
+    <option>NTFS</option>
+    <option>ext4</option>
+    <option>HFS+</option>
+    <answer>NTFS</answer>
+    <explanation>NTFS (New Technology File System) is the standard for Windows; FAT32 is older/used for USBs; ext4 is for Linux.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Computer Languages with their categories:
+A. Machine Language - 1. High-Level Language
+B. Assembly Language - 2. Low-Level Language (Binary)
+C. Python / C++ - 3. Low-Level Language (Mnemonics)
+Select the correct code:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A-2, B-3, C-1</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-2, B-3, C-1</answer>
+    <explanation>Machine is 0/1; Assembly uses code like 'MOV'; Python is human-readable.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A file on your computer is 'Read-only'. What does this mean?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>The file cannot be opened</option>
+    <option>The file can be opened and viewed but not edited or deleted</option>
+    <option>The file is a hidden file</option>
+    <option>The file is encrypted</option>
+    <answer>The file can be opened and viewed but not edited or deleted</answer>
+    <explanation>'Read-only' is a file attribute that prevents modification.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Windows, which folder acts as a temporary holding area for deleted files?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Downloads</option>
+    <option>Documents</option>
+    <option>Recycle Bin</option>
+    <option>Temp Folder</option>
+    <answer>Recycle Bin</answer>
+    <explanation>Deleted files can be restored from the Recycle Bin unless it is emptied.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Defragmentation'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Removing viruses from a disk</option>
+    <option>Reorganizing files on a hard disk so they occupy contiguous space</option>
+    <option>Compressing files to save space</option>
+    <option>Deleting temporary internet files</option>
+    <answer>Reorganizing files on a hard disk so they occupy contiguous space</answer>
+    <explanation>Defragging improves the speed of data access on mechanical hard drives.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Source Code':
+1. It is the version of a program as it is originally written by a human in a programming language.
+2. Computers can execute source code directly without any translation.
+Which of the statements given above is/are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Source code must be compiled or interpreted into machine code (object code) before a computer can run it.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Single-user Operating System'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Unix</option>
+    <option>MS-DOS</option>
+    <option>Linux</option>
+    <option>Windows Server</option>
+    <answer>MS-DOS</answer>
+    <explanation>MS-DOS was designed for one user at a time. Unix and Linux are multi-user systems.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The process of finding and fixing errors in a computer program is called:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Compiling</option>
+    <option>Debugging</option>
+    <option>Executing</option>
+    <option>Decoding</option>
+    <answer>Debugging</answer>
+    <explanation>'Bugs' are errors; 'Debugging' is fixing them.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which utility is used to uninstall a program in Windows 10/11?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>File Explorer</option>
+    <option>Control Panel / Apps &amp; Features</option>
+    <option>Task Manager</option>
+    <option>Command Prompt</option>
+    <answer>Control Panel / Apps &amp; Features</answer>
+    <explanation>Software removal is managed through the Apps &amp; Features section in Settings or Control Panel.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Time' taken by the CPU to access data from the RAM called?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Access Time</option>
+    <option>Execution Time</option>
+    <option>Down Time</option>
+    <option>Response Time</option>
+    <answer>Access Time</answer>
+    <explanation>Access time is the delay between a request for data and the data being returned.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Windows 10, the bar at the bottom which contains the 'Start' button and 'Clock' is called:</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Scroll Bar</option>
+    <option>Title Bar</option>
+    <option>Taskbar</option>
+    <option>Menu Bar</option>
+    <answer>Taskbar</answer>
+    <explanation>Standard Windows UI terminology.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Batch Processing':
+1. It processes a group (batch) of similar jobs together without user intervention.
+2. It is suitable for tasks like billing or payroll.
+Which of the statements given above is/are correct?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Batch processing is ideal for repetitive tasks that don't need real-time input.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Mobile Operating System'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Windows 11</option>
+    <option>iOS</option>
+    <option>macOS</option>
+    <option>Linux Mint</option>
+    <answer>iOS</answer>
+    <explanation>iOS is used for iPhones/iPads.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Sleep' mode in Windows performs which action?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Completely turns off the computer</option>
+    <option>Puts the computer in a low-power state and keeps open programs in RAM</option>
+    <option>Saves all open programs to the Hard Disk and turns off the power</option>
+    <option>Restarts the computer</option>
+    <answer>Puts the computer in a low-power state and keeps open programs in RAM</answer>
+    <explanation>Sleep is fast to resume because data stays in RAM. (Saving to Disk is called Hibernate).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the 'Brain' of the Operating System, managing all core tasks?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>Shell</option>
+    <option>Kernel</option>
+    <option>Application</option>
+    <option>BIOS</option>
+    <answer>Kernel</answer>
+    <explanation>The Kernel is the central part of an OS that manages hardware-software interactions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes 'ASCII'?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>A type of memory</option>
+    <option>A character encoding standard for electronic communication</option>
+    <option>A programming language</option>
+    <option>A graphics standard</option>
+    <answer>A character encoding standard for electronic communication</answer>
+    <explanation>ASCII (American Standard Code for Information Interchange) assigns a number to every letter/symbol.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You want to find a specific file on your computer but you only remember its extension was '.pdf'. What should you type in the search bar?</text>
+    <topic>Fundamentals of CS</topic>
+    <option>#pdf</option>
+    <option>*.pdf</option>
+    <option>find.pdf</option>
+    <option>pdf*</option>
+    <answer>*.pdf</answer>
+    <explanation>The asterisk (*) is a wildcard that represents any filename with the specified extension.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Open Source Software' (OSS):
+1. The source code is available for anyone to inspect, modify, and enhance.
+2. It is always free of cost.
+3. Users can redistribute the software without paying license fees to a central company.
+Which of the statements given above are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 3 only</answer>
+    <explanation>Open Source refers to 'Free' as in 'Freedom' (source code access). While most OSS is free of cost, companies can charge for support or customized versions (e.g., Red Hat Linux).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a famous 'Open Source Operating System' based on the Linux kernel?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Windows 10</option>
+    <option>Ubuntu</option>
+    <option>macOS</option>
+    <option>MS-DOS</option>
+    <answer>Ubuntu</answer>
+    <explanation>Ubuntu is one of the most popular user-friendly Linux distributions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Open Source Softwares with their Proprietary (Paid) equivalents:
+A. LibreOffice - 1. Google Chrome
+B. GIMP - 2. Microsoft Office
+C. Mozilla Firefox - 3. Adobe Photoshop
+Select the correct code:</text>
+    <topic>Open Source Technologies</topic>
+    <option>A-2, B-3, C-1</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <option>A-2, B-1, C-3</option>
+    <answer>A-2, B-3, C-1</answer>
+    <explanation>LibreOffice replaces MS Office; GIMP is for photo editing; Firefox is an open-source browser.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Full Form' of FOSS in computer terminology?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Fast Operating System Software</option>
+    <option>Free and Open Source Software</option>
+    <option>Flexible Office System Suite</option>
+    <option>Formal Open Standard Software</option>
+    <answer>Free and Open Source Software</answer>
+    <explanation>FOSS represents software that is both free (no cost) and open (access to code).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Open Source' Mobile Operating System used globally?</text>
+    <topic>Open Source Technologies</topic>
+    <option>iOS</option>
+    <option>Android</option>
+    <option>Windows Phone</option>
+    <option>Blackberry OS</option>
+    <answer>Android</answer>
+    <explanation>Android is based on the open-source Linux kernel and developed by Google (via the Open Handset Alliance).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Linux':
+1. It was originally created by Linus Torvalds.
+2. It is highly secure and resistant to most Windows-based viruses.
+Which of the statements given above is/are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Linux is the foundation of open-source computing and is known for its stability and security.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which license is most commonly used for Open Source software to ensure that the software remains free and open?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Microsoft EULA</option>
+    <option>GNU General Public License (GPL)</option>
+    <option>Adobe License</option>
+    <option>Copyright 2024</option>
+    <answer>GNU General Public License (GPL)</answer>
+    <explanation>The GPL is the most widely used free software license, requiring derivatives to also be free.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A developer wants to create a customized version of an operating system for their specific office needs. Why would they choose an Open Source OS over a Proprietary one?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Because Proprietary OS code is hidden and cannot be modified</option>
+    <option>Because Open Source OS is always faster</option>
+    <option>Because Open Source OS does not need hardware</option>
+    <option>Because Proprietary OS doesn't support printers</option>
+    <answer>Because Proprietary OS code is hidden and cannot be modified</answer>
+    <explanation>Only Open Source allows access to the 'Source Code', which is required for customization.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following 'Open Source' browsers is developed by the Mozilla Foundation?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Safari</option>
+    <option>Edge</option>
+    <option>Firefox</option>
+    <option>Opera</option>
+    <answer>Firefox</answer>
+    <explanation>Firefox is a major advocate for the open web and open-source principles.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'VLC Media Player' classified as?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Proprietary Software</option>
+    <option>Open Source Software</option>
+    <option>Firmware</option>
+    <option>System Software</option>
+    <answer>Open Source Software</answer>
+    <explanation>VLC is a free and open-source cross-platform multimedia player.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A government department wants to reduce costs on software licensing for its 100 computers. Which 'Open Source' productivity suite should they install instead of Microsoft Office?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Adobe Acrobat</option>
+    <option>LibreOffice / Apache OpenOffice</option>
+    <option>CorelDraw</option>
+    <option>Tally</option>
+    <answer>LibreOffice / Apache OpenOffice</answer>
+    <explanation>These are free alternatives that offer word processing, spreadsheets, and presentations.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Proprietary' (Non-Open Source) software?</text>
+    <topic>Open Source Technologies</topic>
+    <option>MySQL (Database)</option>
+    <option>Microsoft Windows</option>
+    <option>WordPress (CMS)</option>
+    <option>Python (Language)</option>
+    <answer>Microsoft Windows</answer>
+    <explanation>Windows is owned by Microsoft; its source code is private and you must pay for a license.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Copyleft':
+1. It is the practice of offering people the right to freely distribute and modify software, provided the same rights are preserved in derived versions.
+2. It is the opposite of traditional Copyright.
+Which of the statements given above is/are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Copyleft is a play on the word copyright, ensuring the freedom of the software remains intact.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which 'Open Source' database is widely used for web applications like Facebook and YouTube?</text>
+    <topic>Open Source Technologies</topic>
+    <option>MS Access</option>
+    <option>Oracle Database</option>
+    <option>MySQL</option>
+    <option>IBM DB2</option>
+    <answer>MySQL</answer>
+    <explanation>MySQL is the most popular open-source relational database management system.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You see a 'GitHub' link in a software description. What does this indicate?</text>
+    <topic>Open Source Technologies</topic>
+    <option>The software is a virus</option>
+    <option>The software's source code is hosted there for collaboration/download</option>
+    <option>The software requires a high-speed internet</option>
+    <option>The software is only for mobile phones</option>
+    <answer>The software's source code is hosted there for collaboration/download</answer>
+    <explanation>GitHub is a platform where developers host and share open-source code.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Open Source' Content Management System (CMS) used to build websites?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Wix</option>
+    <option>WordPress</option>
+    <option>Squarespace</option>
+    <option>Dreamweaver</option>
+    <answer>WordPress</answer>
+    <explanation>WordPress powers over 40% of all websites and is open-source.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Fedora' in the context of computing?</text>
+    <topic>Open Source Technologies</topic>
+    <option>A type of hardware</option>
+    <option>A Linux distribution</option>
+    <option>A web browser</option>
+    <option>An antivirus</option>
+    <answer>A Linux distribution</answer>
+    <explanation>Fedora is a Linux-based OS sponsored by Red Hat.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Android':
+1. It is based on the Linux kernel.
+2. It is proprietary software owned by Apple.
+Which of the statements given above is/are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Android is open-source (AOSP) and managed by Google, not Apple.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Drawback' sometimes associated with Open Source software for a non-technical user?</text>
+    <topic>Open Source Technologies</topic>
+    <option>High cost</option>
+    <option>Lack of professional technical support compared to proprietary vendors</option>
+    <option>Inability to run on Windows</option>
+    <option>Mandatory internet connection</option>
+    <answer>Lack of professional technical support compared to proprietary vendors</answer>
+    <explanation>While communities help, there isn't always a "help desk" like Microsoft or Adobe provides.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Python' in the world of open source?</text>
+    <topic>Open Source Technologies</topic>
+    <option>A video player</option>
+    <option>An open-source programming language</option>
+    <option>A type of computer screen</option>
+    <option>A database engine</option>
+    <answer>An open-source programming language</answer>
+    <explanation>Python is one of the most widely used open-source languages in the world.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The term 'LAMP' stack refers to a set of open-source tools for web development. What does the 'L' stand for?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Laptop</option>
+    <option>Linux</option>
+    <option>Local</option>
+    <option>Logic</option>
+    <answer>Linux</answer>
+    <explanation>LAMP: Linux (OS), Apache (Server), MySQL (DB), PHP/Python (Language).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Open Source organizations with their products:
+A. Apache Foundation - 1. Open Source Browser
+B. Mozilla Foundation - 2. Web Server Software
+C. Canonical Ltd. - 3. Ubuntu Linux
+Select the correct code:</text>
+    <topic>Open Source Technologies</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <option>A-2, B-3, C-1</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Standard industry associations and their flagship projects.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You download a software for free and the website says 'Donationware'. What does this mean in the open-source community?</text>
+    <topic>Open Source Technologies</topic>
+    <option>You must pay a monthly fee</option>
+    <option>The software is free, but you are encouraged to donate to the developer if you like it</option>
+    <option>The software is only for charities</option>
+    <option>The software will only work for 30 days</option>
+    <answer>The software is free, but you are encouraged to donate to the developer if you like it</answer>
+    <explanation>Donationware is a way for independent open-source developers to fund their projects.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'Open Source' software for 3D modeling and animation?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Maya</option>
+    <option>Blender</option>
+    <option>3ds Max</option>
+    <option>Cinema 4D</option>
+    <answer>Blender</answer>
+    <explanation>Blender is the industry standard for free and open-source 3D creation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Chromium':
+1. It is the open-source project behind the Google Chrome browser.
+2. It is owned and hidden by Microsoft.
+Which of the statements given above is/are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Chromium is an open-source project. Google Chrome (proprietary) is built using Chromium code.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes 'Shareware'?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Software whose code is free</option>
+    <option>Software provided free of charge on a trial basis, but requires payment for full features later</option>
+    <option>Software that can only be shared between friends</option>
+    <option>Software for social media</option>
+    <answer>Software provided free of charge on a trial basis, but requires payment for full features later</answer>
+    <explanation>Shareware is NOT open source; it's a marketing method for proprietary software (e.g., WinZip trial).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Audacity' in the open-source world?</text>
+    <topic>Open Source Technologies</topic>
+    <option>A video editor</option>
+    <option>An open-source audio editor and recorder</option>
+    <option>A type of hard drive</option>
+    <option>A photo viewer</option>
+    <answer>An open-source audio editor and recorder</answer>
+    <explanation>Audacity is a very popular tool for podcasters and music editors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A student wants to learn 'Linux' without deleting their Windows. What 'Open Source' virtualization software can they use to run Linux inside Windows?</text>
+    <topic>Open Source Technologies</topic>
+    <option>VMware Workstation (Paid)</option>
+    <option>Oracle VM VirtualBox</option>
+    <option>Parallels Desktop</option>
+    <option>Norton Utilities</option>
+    <answer>Oracle VM VirtualBox</answer>
+    <explanation>VirtualBox is a free and open-source hypervisor.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Community-driven' benefit of Open Source technologies?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Faster bug fixes as more people are looking at the code</option>
+    <option>Lower electricity consumption</option>
+    <option>Better monitor resolution</option>
+    <option>Automated physical cleaning of computers</option>
+    <answer>Faster bug fixes as more people are looking at the code</answer>
+    <explanation>This is known as "Linus's Law": "Given enough eyeballs, all bugs are shallow."</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Kernel' is the most important part of any OS. Which of the following is NOT an open-source kernel?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Linux</option>
+    <option>Windows NT Kernel</option>
+    <option>BSD Kernel</option>
+    <option>XNU (Darwin) - Base of macOS</option>
+    <answer>Windows NT Kernel</answer>
+    <explanation>The Windows kernel is proprietary and its code is strictly secret.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'SourceForge'?</text>
+    <topic>Open Source Technologies</topic>
+    <option>A computer manufacturer</option>
+    <option>A web-based service for hosting open-source software projects</option>
+    <option>A tool to repair hard drives</option>
+    <option>An internet provider</option>
+    <answer>A web-based service for hosting open-source software projects</answer>
+    <explanation>Like GitHub, SourceForge provides a platform for OSS distribution.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about 'Public Domain' software:
+1. It is software that has no legal, copyright, or editing restrictions associated with it.
+2. It is the same as Open Source software.
+Which of the statements given above is/are correct?</text>
+    <topic>Open Source Technologies</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is incorrect. Open Source software has a license (like GPL) that *must* be followed. Public Domain has no license at all.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Open Source' office suite developed by the Document Foundation?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Microsoft 365</option>
+    <option>LibreOffice</option>
+    <option>WPS Office</option>
+    <option>Google Docs</option>
+    <answer>LibreOffice</answer>
+    <explanation>LibreOffice was branched from OpenOffice.org in 2010.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A company creates a software and releases its code, but forbids using it for commercial purposes. Is this 'Open Source' according to the Open Source Initiative (OSI)?</text>
+    <topic>Open Source Technologies</topic>
+    <option>Yes, because the code is public</option>
+    <option>No, because OSI definition requires that no group or field of endeavor be discriminated against</option>
+    <option>Yes, because it is free of cost</option>
+    <option>No, because software can't be used in offices</option>
+    <answer>No, because OSI definition requires that no group or field of endeavor be discriminated against</answer>
+    <explanation>True Open Source must allow use in any field, including business and research.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Mascot' of the Linux kernel?</text>
+    <topic>Open Source Technologies</topic>
+    <option>An Eagle</option>
+    <option>Tux the Penguin</option>
+    <option>A Blue Butterfly</option>
+    <option>A Silver Apple</option>
+    <answer>Tux the Penguin</answer>
+    <explanation>Tux is the universally recognized logo of Linux.</explanation>
+</question>
+
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Input Devices':
+1. They allow the user to send data or instructions to the computer.
+2. A monitor is a primary input device.
+3. Optical Mark Recognition (OMR) is used to read answer sheets in exams.
+Which of the statements given above are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 3 only</answer>
+    <explanation>A monitor is an 'Output' device. OMR and Keyboards are examples of 'Input' devices.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Input/Output devices with their specific types:
+A. Mouse - 1. Impact Printer
+B. Dot Matrix - 2. Pointing Device
+C. Plotter - 3. Output Device (for high-quality drawings)
+D. MICR - 4. Input Device (for bank cheques)
+Select the correct code:</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>A-2, B-1, C-3, D-4</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-3, C-4, D-1</option>
+    <option>A-4, B-1, C-2, D-3</option>
+    <answer>A-2, B-1, C-3, D-4</answer>
+    <explanation>Mouse points; Dot Matrix hits the paper (impact); Plotter is for blueprints; MICR reads cheque numbers.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Pointing Device' used mostly for playing video games?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Scanner</option>
+    <option>Joystick</option>
+    <option>Light Pen</option>
+    <option>Trackball</option>
+    <answer>Joystick</answer>
+    <explanation>A joystick allows 360-degree control, ideal for gaming and flight simulators.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Printers':
+1. Laser printers use dry ink (toner) and a laser beam to produce high-quality text.
+2. Inkjet printers are generally faster than laser printers for bulk office printing.
+Which of the statements given above is/are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Laser printers are much faster and more cost-effective for large-volume office printing than inkjets.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A Junior Assistant needs to convert a physical paper photograph into a digital file to upload it on the JKSSB portal. Which device should they use?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Printer</option>
+    <option>Scanner</option>
+    <option>Plotter</option>
+    <option>Monitor</option>
+    <answer>Scanner</answer>
+    <explanation>A scanner digitizes physical documents/photos.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Resolution' of a monitor measured in?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Dots Per Inch (DPI)</option>
+    <option>Pixels</option>
+    <option>Gigahertz</option>
+    <option>PPM</option>
+    <answer>Pixels</answer>
+    <explanation>Monitor resolution is expressed as the number of horizontal and vertical pixels (e.g., 1920x1080).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following keys is a 'Modifier' key on a standard keyboard?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Backspace</option>
+    <option>Ctrl / Alt / Shift</option>
+    <option>Enter</option>
+    <option>Esc</option>
+    <answer>Ctrl / Alt / Shift</answer>
+    <explanation>Modifier keys are used in combination with other keys to perform shortcuts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Projectors':
+1. They are output devices used to display computer content on a large screen or wall.
+2. They are commonly used for presentations in meetings.
+Which of the statements given above are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Projectors allow multiple people to view the same screen output at a large scale.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What does 'DPI' stand for in printer terminology?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Data Per Inch</option>
+    <option>Dots Per Inch</option>
+    <option>Digital Picture Interface</option>
+    <option>Density Per Image</option>
+    <answer>Dots Per Inch</answer>
+    <explanation>DPI measures the print quality/resolution of a printer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which device is used to read the 'Barcodes' on products in a supermarket?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>OMR</option>
+    <option>OCR</option>
+    <option>Barcode Reader / Scanner</option>
+    <option>MICR</option>
+    <answer>Barcode Reader / Scanner</answer>
+    <explanation>Barcode readers use a laser to interpret the black and white lines on product labels.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: An architect needs to print large-scale blueprints and maps with high precision. Which output device is best suited for this?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Laser Printer</option>
+    <option>Inkjet Printer</option>
+    <option>Plotter</option>
+    <option>Dot Matrix Printer</option>
+    <answer>Plotter</answer>
+    <explanation>Plotters use pens to draw continuous lines, making them ideal for engineering and architectural designs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'Input' device used to enter voice commands into a computer?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Speaker</option>
+    <option>Microphone</option>
+    <option>Headphones</option>
+    <option>Sound Card</option>
+    <answer>Microphone</answer>
+    <explanation>Microphones convert sound waves into electrical/digital signals.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'OCR'?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Optical Code Reader</option>
+    <option>Optical Character Recognition</option>
+    <option>Office Communication Router</option>
+    <option>Online Candidate Registry</option>
+    <answer>Optical Character Recognition</answer>
+    <explanation>OCR software converts scanned images of printed text into editable digital text.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Monitors':
+1. LCD stands for Liquid Crystal Display.
+2. LED monitors are more energy-efficient than older CRT monitors.
+3. Refresh rate is measured in Hertz (Hz).
+Which of the statements given above are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <option>1 and 3 only</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>All are correct technical facts about modern display technology.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which type of printer is most likely to be used in a noisy environment like a bus stand for ticket printing because of its durability and multi-part paper support?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Laser Printer</option>
+    <option>Thermal Printer</option>
+    <option>Dot Matrix Printer</option>
+    <option>Plotter</option>
+    <answer>Dot Matrix Printer</answer>
+    <explanation>Dot matrix printers are noisy but reliable for carbon copies and continuous forms.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Keyboard shortcuts with their actions:
+A. F5 - 1. Close current window
+B. F2 - 2. Refresh / Reload
+C. Alt + F4 - 3. Rename a selected file
+D. Ctrl + Z - 4. Undo last action
+Select the correct code:</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>A-2, B-3, C-1, D-4</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-1, C-4, D-3</option>
+    <option>A-3, B-2, C-4, D-1</option>
+    <answer>A-2, B-3, C-1, D-4</answer>
+    <explanation>Standard function and combination key actions in Windows.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which part of a computer Mouse is used to scroll through pages quickly?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Left Button</option>
+    <option>Right Button</option>
+    <option>Scroll Wheel</option>
+    <option>Optical Sensor</option>
+    <answer>Scroll Wheel</answer>
+    <explanation>The middle wheel is designed for scrolling up and down.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What type of input device is a 'Touchpad' on a laptop?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Scanning Device</option>
+    <option>Pointing Device</option>
+    <option>Optical Device</option>
+    <option>Voice Device</option>
+    <answer>Pointing Device</answer>
+    <explanation>Touchpads act as the primary pointing device (replacing the mouse) for laptops.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which device is used for capturing live video for a 'Video Call' on a computer?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Microphone</option>
+    <option>Webcam</option>
+    <option>Digital Camera</option>
+    <option>Scanner</option>
+    <answer>Webcam</answer>
+    <explanation>Webcams are the input devices that capture and stream video data.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Thermal Printers':
+1. They use heat to produce an image on special heat-sensitive paper.
+2. They do not require ink or toner.
+3. They are commonly used at POS (Point of Sale) terminals for receipts.
+Which of the statements given above are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <option>1 and 3 only</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>Thermal printers are compact, quiet, and used extensively for bills/receipts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Soft Copy' output?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Output printed on paper</option>
+    <option>Output displayed on a monitor or screen</option>
+    <option>Output saved on a CD</option>
+    <option>Output typed on a keyboard</option>
+    <answer>Output displayed on a monitor or screen</answer>
+    <explanation>Soft copy is intangible (electronic), while hard copy is tangible (printed).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes a 'Touch Screen' correctly?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>It is only an input device</option>
+    <option>It is only an output device</option>
+    <option>It is both an input and an output device</option>
+    <option>It is neither an input nor an output device</option>
+    <answer>It is both an input and an output device</answer>
+    <explanation>It displays information (output) and accepts touch gestures (input).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A bank employee needs to process a pile of cheques. Which technology will they use to read the magnetic numbers printed at the bottom of the cheques?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>OMR</option>
+    <option>OCR</option>
+    <option>MICR</option>
+    <option>Barcode Scanner</option>
+    <answer>MICR</answer>
+    <explanation>MICR (Magnetic Ink Character Recognition) is standard in the banking industry for cheque verification.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which 'Output' device is used to generate sound/audio from a computer?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Microphone</option>
+    <option>Speakers / Headphones</option>
+    <option>Sound Card</option>
+    <option>Monitor</option>
+    <answer>Speakers / Headphones</answer>
+    <explanation>Speakers/Headphones convert digital signals into audible sound waves.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'PPM' in the context of printers?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Pages Per Minute</option>
+    <option>Pixels Per Matrix</option>
+    <option>Points Per Month</option>
+    <option>Pictures Per Mode</option>
+    <answer>Pages Per Minute</answer>
+    <explanation>PPM is the standard unit to measure the speed of a printer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which key is used to cancel a current task or close a dialog box in Windows?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Enter</option>
+    <option>Spacebar</option>
+    <option>Esc (Escape)</option>
+    <option>Tab</option>
+    <answer>Esc (Escape)</answer>
+    <explanation>The Esc key is generally used as a "cancel" or "stop" command.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Optical Mouse':
+1. It uses a light-emitting diode (LED) and a sensor to track movement.
+2. It requires a special rubber ball inside to function.
+Which of the statements given above is/are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Mechanical mice used balls; modern optical mice use sensors and lights.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'NOT' an output device?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Monitor</option>
+    <option>Printer</option>
+    <option>Scanner</option>
+    <option>Speaker</option>
+    <answer>Scanner</answer>
+    <explanation>A scanner is an 'Input' device because it takes data from the physical world and puts it into the computer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Num Lock' key on a keyboard is an example of a:</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Modifier key</option>
+    <option>Toggle key</option>
+    <option>Function key</option>
+    <option>Alpha-numeric key</option>
+    <answer>Toggle key</answer>
+    <explanation>Toggle keys (like Num Lock, Caps Lock) switch a feature on or off.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the purpose of the 'Braille Embosser'?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>To scan Braille documents</option>
+    <option>To provide printed output in Braille for visually impaired users</option>
+    <option>To display Braille text on a screen</option>
+    <option>To type in Braille</option>
+    <answer>To provide printed output in Braille for visually impaired users</answer>
+    <explanation>It is a specialized output device (printer) for tactile text.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Biometric Sensors':
+1. They are input devices that measure unique biological characteristics.
+2. Fingerprint scanners and iris scanners are examples of biometric devices.
+3. They are commonly used for attendance and security authentication.
+Which of the statements given above are correct?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <option>1 and 3 only</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>Biometrics have replaced passwords in many secure government and private offices.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following ports was traditionally used to connect a printer before the popularity of USB?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Serial Port</option>
+    <option>Parallel Port (LPT)</option>
+    <option>VGA Port</option>
+    <option>Ethernet Port</option>
+    <answer>Parallel Port (LPT)</answer>
+    <explanation>Parallel ports were the standard for printers for many decades.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A user is filling out a multi-field form. Which key should they press to move quickly from one input box to the next?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Enter</option>
+    <option>Tab</option>
+    <option>Shift</option>
+    <option>Spacebar</option>
+    <answer>Tab</answer>
+    <explanation>The Tab key is used for navigation between form fields and UI elements.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Full Form' of OLED used in modern display screens?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Optical Light Emitting Diode</option>
+    <option>Organic Light Emitting Diode</option>
+    <option>Optimized Light Electronic Device</option>
+    <option>Original Light Emitting Diode</option>
+    <answer>Organic Light Emitting Diode</answer>
+    <explanation>OLED technology allows for better colors and deeper blacks compared to standard LCD/LED.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Direct Entry' input device?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Keyboard</option>
+    <option>Light Pen</option>
+    <option>Mouse</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>These are all devices that allow the user to interact and enter data directly into the system.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which printer type uses 'Ribbons' as a source of ink?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Inkjet</option>
+    <option>Laser</option>
+    <option>Dot Matrix</option>
+    <option>Thermal</option>
+    <answer>Dot Matrix</answer>
+    <explanation>Dot matrix printers use an ink-soaked ribbon which is struck by pins to print.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Print Screen' key on a keyboard is used to:</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Print the current document immediately</option>
+    <option>Copy the current screen image to the clipboard</option>
+    <option>Turn off the monitor</option>
+    <option>Clean the printer heads</option>
+    <answer>Copy the current screen image to the clipboard</answer>
+    <explanation>In Windows, it captures the whole screen which you can then 'Paste' into Paint or Word.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A graphic designer wants to draw directly on the screen as if they are using a pencil on paper. Which device do they need?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Graphic Tablet with Stylus / Pen Tablet</option>
+    <option>High-quality Mouse</option>
+    <option>Scanner</option>
+    <option>Webcam</option>
+    <answer>Graphic Tablet with Stylus / Pen Tablet</answer>
+    <explanation>A stylus and tablet provide pressure sensitivity and natural drawing ergonomics.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which output device provides 'Audio' feedback to the user when they click a button or receive an error?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Monitor</option>
+    <option>Speakers</option>
+    <option>Microphone</option>
+    <option>Keyboard</option>
+    <answer>Speakers</answer>
+    <explanation>Standard audio output through speakers provides system sounds and notifications.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'QWERTY' layout is commonly associated with which device?</text>
+    <topic>Input &amp; Output Devices</topic>
+    <option>Mouse</option>
+    <option>Keyboard</option>
+    <option>Scanner</option>
+    <option>Printer</option>
+    <answer>Keyboard</answer>
+    <explanation>QWERTY refers to the arrangement of the first six letters on the top row of a standard keyboard.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following internal components of a CPU with their primary responsibilities:
+A. Control Unit (CU) - 1. Performs logical comparisons (e.g., A 7 &gt; B)
+B. Arithmetic Logic Unit (ALU) - 2. Coordinates flow of data and instructions
+C. Registers - 3. High-speed temporary storage for current instruction
+Select the correct code:</text>
+    <topic>CPU Components</topic>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <option>A-2, B-3, C-1</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>CU is the manager; ALU is the calculator; Registers are the immediate temporary scratchpad.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Primary Memory':
+1. RAM is volatile, meaning it loses data when power is cut.
+2. ROM is non-volatile and stores the BIOS.
+3. Cache memory is slower than RAM but larger in capacity.
+Which of the statements given above are correct?</text>
+    <topic>Storage Media</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>Statement 3 is incorrect. Cache is much faster than RAM but has a very small capacity.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A Junior Assistant in a busy office needs to print high-quality official letters quickly with the lowest cost per page. Which printer should they use?</text>
+    <topic>Peripherals</topic>
+    <option>Dot Matrix Printer</option>
+    <option>Inkjet Printer</option>
+    <option>Laser Printer</option>
+    <option>Plotter</option>
+    <answer>Laser Printer</answer>
+    <explanation>Laser printers use dry toner, are fast, and provide the best text quality for office documentation at a low cost per page.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Firmware' and 'Human-ware':
+1. Firmware is a type of software permanently programmed into hardware (like BIOS).
+2. Human-ware refers to the physical plastic casing of the computer.
+Which of the statements given above is/are correct?</text>
+    <topic>Software Categories</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Human-ware refers to the people who use or program the computer, not the physical casing.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Operating System terms with their functions:
+A. Booting - 1. Running multiple programs at once
+B. Multitasking - 2. Loading the OS into RAM
+C. GUI - 3. Interface using icons and mouse
+D. Kernel - 4. Core part of OS managing hardware
+Select the correct code:</text>
+    <topic>Operating System</topic>
+    <option>A-2, B-1, C-3, D-4</option>
+    <option>A-1, B-2, C-4, D-3</option>
+    <option>A-2, B-3, C-4, D-1</option>
+    <option>A-4, B-3, C-2, D-1</option>
+    <answer>A-2, B-1, C-3, D-4</answer>
+    <explanation>Standard definitions of core OS functionalities.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: When you delete a file from a USB Flash Drive in Windows 10, where does it go?</text>
+    <topic>Operating System</topic>
+    <option>Recycle Bin</option>
+    <option>It is permanently deleted immediately</option>
+    <option>Temp Folder</option>
+    <option>System Archive</option>
+    <answer>It is permanently deleted immediately</answer>
+    <explanation>Files deleted from external removable drives (like Pendrives) bypass the Recycle Bin and are deleted permanently.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes 'System Software' correctly?
+1. It includes the Operating System and Utility programs.
+2. It provides the platform for Application software to run.
+Which of the statements given above is/are correct?</text>
+    <topic>Software Categories</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>System software is the background management software; applications (like Word) run on top of it.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Storage Capacities in descending order (Largest to Smallest):
+A. 1 Terabyte (TB)
+B. 1024 Megabytes (MB)
+C. 1 Petabyte (PB)
+D. 1 Gigabyte (GB)
+Select the correct sequence:</text>
+    <topic>Storage Media</topic>
+    <option>C > A > D = B</option>
+    <option>A > C > B > D</option>
+    <option>C > D > A > B</option>
+    <option>B > D > A > C</option>
+    <answer>C > A > D = B</answer>
+    <explanation>1PB = 1024TB; 1TB = 1024GB; 1GB = 1024MB. Thus C is largest, then A, and D is equal to B.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: An office PC is making a loud noise and then suddenly turns off. The user smells burnt plastic from the back of the cabinet. Which component has likely failed?</text>
+    <topic>Hardware Components</topic>
+    <option>Monitor</option>
+    <option>RAM</option>
+    <option>SMPS</option>
+    <option>Keyboard</option>
+    <answer>SMPS</answer>
+    <explanation>The Switched Mode Power Supply (SMPS) is the internal unit that converts AC to DC and is prone to overheating/burning during failures.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Input Devices':
+1. OMR is used for checking objective type answer sheets.
+2. MICR is used for processing bank cheques.
+3. OCR is used to convert scanned images of text into editable text.
+Which of the statements given above are correct?</text>
+    <topic>Peripherals</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1, 2 and 3</answer>
+    <explanation>All three are specialized optical/magnetic reading technologies used in government and banking.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which key combination is used in Windows to 'switch' between multiple open applications?</text>
+    <topic>Operating System</topic>
+    <option>Alt + F4</option>
+    <option>Ctrl + Alt + Del</option>
+    <option>Alt + Tab</option>
+    <option>Win + L</option>
+    <answer>Alt + Tab</answer>
+    <explanation>Alt + Tab allows for quick multitasking by cycling through open windows.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following file extensions with their file types:
+A. .png - 1. System File
+B. .sys - 2. Compressed File
+C. .zip - 3. Image File
+D. .mp4 - 4. Video File
+Select the correct code:</text>
+    <topic>Operating System</topic>
+    <option>A-3, B-1, C-2, D-4</option>
+    <option>A-1, B-3, C-4, D-2</option>
+    <option>A-3, B-2, C-1, D-4</option>
+    <option>A-2, B-1, C-3, D-4</option>
+    <answer>A-3, B-1, C-2, D-4</answer>
+    <explanation>PNG is image; SYS is system; ZIP is compressed; MP4 is video.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In computer processing, 'GIGO' stands for:</text>
+    <topic>Elements of Processing</topic>
+    <option>Garbage In Garbage Out</option>
+    <option>General Input General Output</option>
+    <option>Great Input Great Output</option>
+    <option>Global Interface Global Output</option>
+    <answer>Garbage In Garbage Out</answer>
+    <explanation>If incorrect data is input, the resulting output will also be incorrect regardless of how good the computer is.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements regarding 'Registers':
+1. They are the fastest storage units in a computer system.
+2. They are located outside the CPU on the Motherboard.
+Which are correct?</text>
+    <topic>Hardware - CPU</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Registers are internal to the CPU, not on the motherboard external to it.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: You want to connect a digital projector to a laptop for a presentation. Which port is most commonly used in modern laptops for high-definition video output?</text>
+    <topic>Peripherals</topic>
+    <option>Parallel Port</option>
+    <option>Serial Port</option>
+    <option>HDMI Port</option>
+    <option>PS/2 Port</option>
+    <answer>HDMI Port</answer>
+    <explanation>HDMI is the modern standard for high-def video and audio transmission to monitors/projectors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Warm Booting'?</text>
+    <topic>Operating System</topic>
+    <option>Starting the computer after a fresh power-on</option>
+    <option>Restarting the computer using the 'Restart' command without cutting power</option>
+    <option>A computer that has overheated</option>
+    <option>Formatting the Hard Disk</option>
+    <answer>Restarting the computer using the 'Restart' command without cutting power</answer>
+    <explanation>Cold booting is starting from the power button; warm booting is a soft restart.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Secondary Storage':
+1. DVD-ROM is an optical storage device.
+2. Magnetic tapes provide random access to data.
+Which is/are correct?</text>
+    <topic>Storage Media</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Magnetic tapes provide 'sequential' access (you have to wind the tape), not 'random' access like a Hard Disk or SSD.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following computer generations with their technology:
+A. 1st Generation - 1. Transistors
+B. 2nd Generation - 2. Vacuum Tubes
+C. 3rd Generation - 3. Microprocessors
+D. 4th Generation - 4. Integrated Circuits
+Select the correct code:</text>
+    <topic>Basic Applications</topic>
+    <option>A-2, B-1, C-4, D-3</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-2, B-4, C-1, D-3</option>
+    <option>A-3, B-2, C-1, D-4</option>
+    <answer>A-2, B-1, C-4, D-3</answer>
+    <explanation>1st: Vacuum tubes; 2nd: Transistors; 3rd: ICs; 4th: Microprocessors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Sleep' option in Windows 10 performs which of the following?</text>
+    <topic>Operating System</topic>
+    <option>Shuts down the computer and saves nothing</option>
+    <option>Puts the computer in a low-power state but keeps programs open in RAM</option>
+    <option>Saves all data to the Hard Disk and turns off the power completely</option>
+    <option>Restarts the BIOS</option>
+    <answer>Puts the computer in a low-power state but keeps programs open in RAM</answer>
+    <explanation>Sleep is fast because data stays in RAM. (Hibernate is when data is saved to Disk and power is cut).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You are buying a '4 TB' Hard drive. How many Gigabytes (GB) is this roughly equal to?</text>
+    <topic>Storage Media</topic>
+    <option>40 GB</option>
+    <option>400 GB</option>
+    <option>4000 GB</option>
+    <option>40,000 GB</option>
+    <answer>4000 GB</answer>
+    <explanation>1 TB = 1024 GB. So 4 TB is approx 4096 GB.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Open Source' Operating Systems:
+1. Linux is an open-source OS.
+2. Windows is a proprietary (closed-source) OS.
+Which are correct?</text>
+    <topic>Operating System</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Linux source code is free to all; Windows code is owned and hidden by Microsoft.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Mouse actions with their Windows results:
+A. Single Click - 1. Opens a program or file
+B. Double Click - 2. Selects an item
+C. Right Click - 3. Displays a shortcut menu
+Select the correct code:</text>
+    <topic>Peripherals</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Basic mouse interaction in GUI environments.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'BIOS' (Basic Input Output System) is physically located on which component?</text>
+    <topic>Hardware Components</topic>
+    <option>RAM</option>
+    <option>Hard Disk</option>
+    <option>Motherboard (ROM chip)</option>
+    <option>CPU</option>
+    <answer>Motherboard (ROM chip)</answer>
+    <explanation>BIOS is firmware stored on a ROM chip soldered or socketed into the motherboard.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the purpose of 'Disk Defragmenter' utility?</text>
+    <topic>Operating System</topic>
+    <option>To delete viruses</option>
+    <option>To reorganize files on the disk to improve performance</option>
+    <option>To compress large files</option>
+    <option>To back up data</option>
+    <answer>To reorganize files on the disk to improve performance</answer>
+    <explanation>It moves related data parts closer together so the disk head reads them faster.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which shortcut key is used in Windows to 'Refresh' a window or web page?</text>
+    <topic>Operating System</topic>
+    <option>F2</option>
+    <option>F5</option>
+    <option>F7</option>
+    <option>F12</option>
+    <answer>F5</answer>
+    <explanation>F5 is the universal shortcut for refresh in Windows and Browsers.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is an 'External' peripheral for a Desktop PC but usually 'Internal' for a Laptop?</text>
+    <topic>Hardware Components</topic>
+    <option>CPU</option>
+    <option>Monitor (Display)</option>
+    <option>RAM</option>
+    <option>Hard Disk</option>
+    <answer>Monitor (Display)</answer>
+    <explanation>Laptops have integrated displays; desktops require a separate monitor connected via cable.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Software':
+1. Software is a set of instructions that tells the hardware what to do.
+2. Application software is required to start the computer.
+Which is/are correct?</text>
+    <topic>Software Categories</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is wrong. 'System Software' (OS) is required to start the computer, not application software (like Excel).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The process of finding and fixing errors in a computer program is called:</text>
+    <topic>Elements of Processing</topic>
+    <option>Compiling</option>
+    <option>Debugging</option>
+    <option>Executing</option>
+    <option>Encoding</option>
+    <answer>Debugging</answer>
+    <explanation>'Bugs' are errors; 'Debugging' is the corrective process.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following units with what they measure:
+A. Hertz (Hz) - 1. Resolution of a screen
+B. Pixels - 2. Speed of a Processor
+C. Dots Per Inch (DPI) - 3. Print quality of a printer
+Select the correct code:</text>
+    <topic>Peripherals</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Processor cycles in Hz; Screen dots in Pixels; Printer density in DPI.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Extension' of a Shortcut file in Windows?</text>
+    <topic>Operating System</topic>
+    <option>.exe</option>
+    <option>.lnk</option>
+    <option>.txt</option>
+    <option>.sys</option>
+    <answer>.lnk</answer>
+    <explanation>.lnk stands for 'Link', the extension for shortcuts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You want to prevent unauthorized users from using your PC when you leave your desk for 5 minutes. Which shortcut key is best to lock Windows immediately?</text>
+    <topic>Operating System</topic>
+    <option>Ctrl + Alt + Del</option>
+    <option>Windows Key + L</option>
+    <option>Alt + F4</option>
+    <option>Shift + Esc</option>
+    <answer>Windows Key + L</answer>
+    <explanation>Windows + L (Lock) immediately takes you to the login screen.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Registers' and 'Cache':
+1. Registers are faster than Cache.
+2. Cache is located inside the CPU or very close to it.
+Which are correct?</text>
+    <topic>Hardware - CPU</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Registers are the fastest, then L1, L2, L3 Cache, then RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Direct Entry' input device?</text>
+    <topic>Peripherals</topic>
+    <option>Keyboard</option>
+    <option>Scanner</option>
+    <option>Optical Mark Reader</option>
+    <option>Joystick</option>
+    <answer>Keyboard</answer>
+    <explanation>Direct entry means the user manually enters data (Keyboard/Mouse). Scanning is source data automation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Control Panel' in Windows is primarily used for:</text>
+    <topic>Operating System</topic>
+    <option>Typing letters</option>
+    <option>System settings and configuration</option>
+    <option>Creating charts</option>
+    <option>Playing videos</option>
+    <answer>System settings and configuration</answer>
+    <explanation>It allows users to manage hardware, uninstall software, and change user accounts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which software component is responsible for translating high-level programming language into machine code (0s and 1s)?</text>
+    <topic>Elements of Processing</topic>
+    <option>Device Driver</option>
+    <option>Operating System</option>
+    <option>Compiler / Interpreter</option>
+    <option>Firmware</option>
+    <answer>Compiler / Interpreter</answer>
+    <explanation>These are language processors that turn human-readable code into computer-readable bits.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the full form of 'UPS'?</text>
+    <topic>Hardware Components</topic>
+    <option>Uniform Power Supply</option>
+    <option>Uninterruptible Power Supply</option>
+    <option>Universal Power System</option>
+    <option>Under Power Socket</option>
+    <answer>Uninterruptible Power Supply</answer>
+    <explanation>It provides battery backup to the PC during power cuts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following storage technologies with their media:
+A. Optical - 1. Hard Disk
+B. Magnetic - 2. CD/DVD
+C. Flash - 3. Pendrive / SSD
+Select the correct code:</text>
+    <topic>Storage Media</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Optical uses lasers; Magnetic uses magnetism; Flash uses semiconductors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Plotters':
+1. They are output devices.
+2. They are used for high-quality architectural drawings and maps.
+Which are correct?</text>
+    <topic>Peripherals</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Plotters use pens to draw continuous lines, making them perfect for engineering/architectural blueprints.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Resolution' of a modern monitor typically expressed as?</text>
+    <topic>Peripherals</topic>
+    <option>Total memory used</option>
+    <option>Horizontal Pixels x Vertical Pixels</option>
+    <option>Dots per centimeter</option>
+    <option>Brightness level</option>
+    <answer>Horizontal Pixels x Vertical Pixels</answer>
+    <explanation>Example: 1920 x 1080 means 1920 horizontal and 1080 vertical pixels.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Windows, which folder is the 'default' location for files downloaded from the internet?</text>
+    <topic>Operating System</topic>
+    <option>Documents</option>
+    <option>Downloads</option>
+    <option>Desktop</option>
+    <option>Temp</option>
+    <answer>Downloads</answer>
+    <explanation>Windows creates a specific 'Downloads' library for internet files.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You find a very old floppy disk labeled '1.44 MB'. Roughly how many modern high-resolution photographs can it store?</text>
+    <topic>Storage Media</topic>
+    <option>About 100</option>
+    <option>About 50</option>
+    <option>Zero (A modern photo is usually larger than 1.44MB)</option>
+    <option>Thousands</option>
+    <answer>Zero (A modern photo is usually larger than 1.44MB)</answer>
+    <explanation>A modern 12MP photo is about 3-5MB; the floppy disk only holds 1.44MB.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Android' and 'iOS':
+1. They are Operating Systems for mobile devices.
+2. They are both open-source.
+Which is/are correct?</text>
+    <topic>Operating System</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is wrong. iOS (Apple) is strictly proprietary (closed source).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the purpose of the 'Esc' (Escape) key in most Windows programs?</text>
+    <topic>Peripherals</topic>
+    <option>To save a file</option>
+    <option>To cancel the current task or close a dialog box</option>
+    <option>To shut down the computer</option>
+    <option>To delete text</option>
+    <answer>To cancel the current task or close a dialog box</answer>
+    <explanation>Esc is the standard command for "Cancel" or "Abort".</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'Speed' of a computer is mainly determined by which component?</text>
+    <topic>Hardware Components</topic>
+    <option>Monitor</option>
+    <option>Keyboard</option>
+    <option>CPU (Processor)</option>
+    <option>Printer</option>
+    <answer>CPU (Processor)</answer>
+    <explanation>The processor handles the execution of all instructions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following units of data:
+A. 1 Byte - 1. 4 Bits
+B. 1 Nibble - 2. 8 Bits
+C. 1 Kilobyte - 3. 1024 Bytes
+Select the correct code:</text>
+    <topic>Elements of Processing</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Standard data metrics.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is NOT an Operating System?</text>
+    <topic>Operating System</topic>
+    <option>Unix</option>
+    <option>Solaris</option>
+    <option>Tally</option>
+    <option>MS-DOS</option>
+    <answer>Tally</answer>
+    <explanation>Tally is Application Software (Accounting); the others are OS.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Windows 10, the bar at the bottom containing the 'Start' button and 'Clock' is called:</text>
+    <topic>Operating System</topic>
+    <option>Menu Bar</option>
+    <option>Status Bar</option>
+    <option>Taskbar</option>
+    <option>Title Bar</option>
+    <answer>Taskbar</answer>
+    <explanation>Standard Windows UI component.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which key on the keyboard allows you to 'Toggle' between typing in small letters and Capital letters?</text>
+    <topic>Peripherals</topic>
+    <option>Shift</option>
+    <option>Ctrl</option>
+    <option>Caps Lock</option>
+    <option>Tab</option>
+    <answer>Caps Lock</answer>
+    <explanation>Shift is for one-time use; Caps Lock is a 'Toggle' key that changes the state for all typing.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Mainframe' computers:
+1. They are used by large organizations for bulk data processing.
+2. They are smaller and slower than a Personal Computer (PC).
+Which is correct?</text>
+    <topic>Basic Applications</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Mainframes are much larger and faster than PCs, used for banking, census, etc.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which part of the computer is often called the 'Soul' of the computer, as without it, hardware is useless?</text>
+    <topic>Software Categories</topic>
+    <option>Monitor</option>
+    <option>Software</option>
+    <option>Keyboard</option>
+    <option>UPS</option>
+    <answer>Software</answer>
+    <explanation>Hardware is the 'Body'; Software is the 'Soul' that tells the body how to function.</explanation>
+</question>
+
+
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following MS Office applications with their primary use:
+A. MS Word - 1. Creating Slide Presentations
+B. MS Excel - 2. Managing Databases
+C. MS Powerpoint - 3. Word Processing / Letter typing
+D. MS Access - 4. Data calculation and Spreadsheets
+Select the correct code:</text>
+    <topic>MS Office</topic>
+    <option>A-3, B-4, C-1, D-2</option>
+    <option>A-1, B-2, C-3, D-4</option>
+    <option>A-3, B-1, C-4, D-2</option>
+    <option>A-2, B-3, C-4, D-1</option>
+    <answer>A-3, B-4, C-1, D-2</answer>
+    <explanation>Standard suite usage.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, which shortcut key is used to 'Justify' the alignment of a paragraph?</text>
+    <topic>MS Word</topic>
+    <option>Ctrl + E</option>
+    <option>Ctrl + L</option>
+    <option>Ctrl + J</option>
+    <option>Ctrl + R</option>
+    <answer>Ctrl + J</answer>
+    <explanation>Ctrl+L (Left), Ctrl+R (Right), Ctrl+E (Center), Ctrl+J (Justify).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about MS Excel:
+1. Every formula in Excel must start with an '=' (Equals) sign.
+2. The intersection of a row and a column is called a Cell.
+Which are correct?</text>
+    <topic>MS Excel</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Fundamental rules of Excel spreadsheets.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You want to send an MS Word report to a colleague, but you want to ensure the formatting (font/layout) doesn't change regardless of what device they open it on. Which format should you save it as?</text>
+    <topic>PDF</topic>
+    <option>.txt</option>
+    <option>.pdf</option>
+    <option>.xlsx</option>
+    <option>.zip</option>
+    <answer>.pdf</answer>
+    <explanation>PDF (Portable Document Format) preserves formatting across all devices and platforms.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which tool in MS PowerPoint allows you to see all the slides of your presentation in a grid format, making it easy to reorder them?</text>
+    <topic>MS Powerpoint</topic>
+    <option>Slide Show View</option>
+    <option>Notes Page View</option>
+    <option>Slide Sorter View</option>
+    <option>Outline View</option>
+    <answer>Slide Sorter View</answer>
+    <explanation>Slide Sorter shows thumbnails of all slides for easy management.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Access, which 'object' is used to ask a question from the database to filter specific records?</text>
+    <topic>MS Access</topic>
+    <option>Table</option>
+    <option>Form</option>
+    <option>Query</option>
+    <option>Report</option>
+    <answer>Query</answer>
+    <explanation>Queries are used to find and retrieve data that meets your criteria.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Internet terms with their definitions:
+A. URL - 1. Rules for data transfer over the web
+B. HTTP - 2. The unique address of a web page
+C. Browser - 3. Software used to view web pages
+Select the correct code:</text>
+    <topic>Internet</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Fundamental web browsing concepts.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding Email:
+1. 'Cc' stands for Carbon Copy.
+2. 'Bcc' stands for Blind Carbon Copy.
+3. Recipients in the 'Bcc' field can see each other's email addresses.
+Which of the statements given above is/are correct?</text>
+    <topic>E-mail</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>Statement 3 is wrong. Recipients in 'Bcc' are hidden from all other recipients.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the shortcut key to 'Undo' the last action in most MS Office programs?</text>
+    <topic>MS Office</topic>
+    <option>Ctrl + Y</option>
+    <option>Ctrl + Z</option>
+    <option>Ctrl + X</option>
+    <option>Ctrl + V</option>
+    <answer>Ctrl + Z</answer>
+    <explanation>Ctrl+Z is Undo; Ctrl+Y is Redo.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, what is the correct formula to find the 'Average' of numbers in cells A1, A2, A3, A4 and A5?</text>
+    <topic>MS Excel</topic>
+    <option>=TOTAL(A1:A5)/5</option>
+    <option>=AVG(A1:A5)</option>
+    <option>=AVERAGE(A1:A5)</option>
+    <option>=MEAN(A1:A5)</option>
+    <answer>=AVERAGE(A1:A5)</answer>
+    <explanation>'AVERAGE' is the full word used for the built-in mean function in Excel.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You have typed a 50-page document in MS Word. You want to quickly find the word 'Exam' and replace it with 'Test' everywhere. Which shortcut key will you use to open the 'Find and Replace' dialog box?</text>
+    <topic>MS Word</topic>
+    <option>Ctrl + F</option>
+    <option>Ctrl + R</option>
+    <option>Ctrl + H</option>
+    <option>Ctrl + G</option>
+    <answer>Ctrl + H</answer>
+    <explanation>Ctrl+F is for Find; Ctrl+H is for Replace.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding MS PowerPoint:
+1. 'Transitions' are effects applied to the movement between slides.
+2. 'Animations' are effects applied to individual objects on a single slide.
+Which is/are correct?</text>
+    <topic>MS Powerpoint</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Standard visual effect terminology in PPT.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Access, what is a 'Primary Key'?</text>
+    <topic>MS Access</topic>
+    <option>The most important password of the database</option>
+    <option>A field that uniquely identifies each record in a table</option>
+    <option>The first field in every table</option>
+    <option>A key used to encrypt the data</option>
+    <answer>A field that uniquely identifies each record in a table</answer>
+    <explanation>Example: Roll No or Aadhaar No can be a Primary Key as they cannot be duplicated.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Internet connectivity types with their characteristics:
+A. Dial-up - 1. High speed using fiber optic or copper cables
+B. Broadband - 2. Old technology using telephone lines (very slow)
+C. Wi-Fi - 3. Wireless local area networking
+Select the correct code:</text>
+    <topic>Internet</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-3, C-1</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Basics of internet connection history and types.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A user wants to save an Excel file so it can be opened as a plain text file with data separated by commas. Which file format should they choose?</text>
+    <topic>MS Excel</topic>
+    <option>.txt</option>
+    <option>.csv</option>
+    <option>.pdf</option>
+    <option>.html</option>
+    <answer>.csv</answer>
+    <explanation>CSV stands for Comma Separated Values.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, the 'Format Painter' tool is used to:</text>
+    <topic>MS Word</topic>
+    <option>Paint a picture in the document</option>
+    <option>Copy the formatting (style) from one piece of text and apply it to another</option>
+    <option>Change the background color of the page</option>
+    <option>Check spelling errors</option>
+    <answer>Copy the formatting (style) from one piece of text and apply it to another</answer>
+    <explanation>It is a time-saving tool to ensure consistency in styles.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the shortcut key to start a 'Slide Show' from the current slide in MS PowerPoint?</text>
+    <topic>MS Powerpoint</topic>
+    <option>F5</option>
+    <option>Shift + F5</option>
+    <option>Ctrl + F5</option>
+    <option>Alt + F5</option>
+    <answer>Shift + F5</answer>
+    <explanation>F5 starts from the beginning; Shift+F5 starts from the currently active slide.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding Internet Search Engines:
+1. Google and Bing are search engines.
+2. Google Chrome is a search engine.
+Which is/are correct?</text>
+    <topic>Internet</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is wrong. Google Chrome is a 'Web Browser' used to access search engines.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, what happens when you press 'Ctrl + ;' (Semicolon)?</text>
+    <topic>MS Excel</topic>
+    <option>It inserts the current time</option>
+    <option>It inserts the current date</option>
+    <option>It deletes the cell content</option>
+    <option>It formats the cell as currency</option>
+    <answer>It inserts the current date</answer>
+    <explanation>Ctrl+; inserts Date. Ctrl+Shift+: (Colon) inserts Time.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'NOT' a valid Email address?</text>
+    <topic>E-mail</topic>
+    <option>name.123@jkssb.in</option>
+    <option>name@jkssb@nic.in</option>
+    <option>name_surname@gmail.com</option>
+    <option>name@yahoo.co.in</option>
+    <answer>name@jkssb@nic.in</answer>
+    <explanation>An email address can have only one '@' symbol.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You are creating a database in MS Access for employee records. Which 'Data Type' will you choose for the 'Salary' field?</text>
+    <topic>MS Access</topic>
+    <option>Short Text</option>
+    <option>Number</option>
+    <option>Currency</option>
+    <option>Yes/No</option>
+    <answer>Currency</answer>
+    <explanation>Currency data type automatically formats the number with a currency symbol and decimal places.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Maximum' number of characters allowed in a cell in MS Excel?</text>
+    <topic>MS Excel</topic>
+    <option>256</option>
+    <option>1024</option>
+    <option>32,767</option>
+    <option>Unlimited</option>
+    <answer>32,767</answer>
+    <explanation>Excel limits each cell to 32,767 characters.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, the 'Watermark' option is found under which tab (in Word 2016 and above)?</text>
+    <topic>MS Word</topic>
+    <option>Insert</option>
+    <option>Home</option>
+    <option>Design</option>
+    <option>Layout</option>
+    <answer>Design</answer>
+    <explanation>Page Background options like Watermark, Page Color, and Page Borders are in the Design tab.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which MS PowerPoint feature will you use to make an object (like an image) 'fly in' from the left of the screen?</text>
+    <topic>MS Powerpoint</topic>
+    <option>Transition</option>
+    <option>Animation</option>
+    <option>SmartArt</option>
+    <option>Design Idea</option>
+    <answer>Animation</answer>
+    <explanation>Animations are effects applied to objects *inside* a slide.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Excel errors with their meaning:
+A. #DIV/0! - 1. Formula refers to a deleted cell
+B. ##### - 2. Column is not wide enough to show data
+C. #REF! - 3. Division by zero error
+Select the correct code:</text>
+    <topic>MS Excel</topic>
+    <option>A-3, B-2, C-1</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-3, B-2, C-1</answer>
+    <explanation>Standard Excel error troubleshooting.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Modem':
+1. It stands for Modulator-Demodulator.
+2. It converts digital signals to analog and vice-versa.
+Which is/are correct?</text>
+    <topic>Internet</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Modems are essential for connecting computers to telephone lines for internet access.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Spam' in email terminology?</text>
+    <topic>E-mail</topic>
+    <option>An email with a very large attachment</option>
+    <option>Unsolicited bulk email (junk mail)</option>
+    <option>An email from a known friend</option>
+    <option>The process of deleting emails</option>
+    <answer>Unsolicited bulk email (junk mail)</answer>
+    <explanation>Spam usually contains ads or malicious links.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, 'Thesaurus' tool is used for:</text>
+    <topic>MS Word</topic>
+    <option>Spelling correction</option>
+    <option>Finding Synonyms and Antonyms</option>
+    <option>Translating the document</option>
+    <option>Grammar check</option>
+    <answer>Finding Synonyms and Antonyms</answer>
+    <explanation>F7 is for Spell check; Shift+F7 is for Thesaurus.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which object in MS Access is used to present the final data in a formatted and printable way?</text>
+    <topic>MS Access</topic>
+    <option>Form</option>
+    <option>Table</option>
+    <option>Report</option>
+    <option>Query</option>
+    <answer>Report</answer>
+    <explanation>Reports are the final output intended for printing or distribution.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, the 'Fill Handle' is located at:</text>
+    <topic>MS Excel</topic>
+    <option>The top-left corner of the active cell</option>
+    <option>The bottom-right corner of the active cell</option>
+    <option>The Ribbon</option>
+    <option>The Status Bar</option>
+    <answer>The bottom-right corner of the active cell</answer>
+    <explanation>The small square at the corner used to drag and copy formulas or series.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You are writing a letter in MS Word and want to type 'H2O' with the '2' placed slightly below the line. Which effect will you use?</text>
+    <topic>MS Word</topic>
+    <option>Superscript</option>
+    <option>Subscript</option>
+    <option>Strike-through</option>
+    <option>Small Caps</option>
+    <answer>Subscript</answer>
+    <explanation>Subscript (Ctrl+=) places text below; Superscript (Ctrl+Shift++) places it above (e.g., X²).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is 'NOT' a web browser?</text>
+    <topic>Internet</topic>
+    <option>Mozilla Firefox</option>
+    <option>Safari</option>
+    <option>Google Search</option>
+    <option>Opera</option>
+    <answer>Google Search</answer>
+    <explanation>Google Search is a search engine; Chrome is the browser.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS PowerPoint, 'Notes Pane' is used for:</text>
+    <topic>MS Powerpoint</topic>
+    <option>Writing messages to the audience</option>
+    <option>Adding speaking points for the presenter that are not visible to the audience</option>
+    <option>Deleting slides</option>
+    <option>Changing font size</option>
+    <answer>Adding speaking points for the presenter that are not visible to the audience</answer>
+    <explanation>Useful for reminders during a live presentation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding MS Access:
+1. It is a Relational Database Management System (RDBMS).
+2. It allows multiple tables to be linked using relationships.
+Which are correct?</text>
+    <topic>MS Access</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Access is designed to manage complex data through linked tables.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, what is 'Freeze Panes' used for?</text>
+    <topic>MS Excel</topic>
+    <option>To lock the file with a password</option>
+    <option>To keep specific rows or columns visible while scrolling through the rest of the sheet</option>
+    <option>To stop the computer from hanging</option>
+    <option>To prevent editing of data</option>
+    <answer>To keep specific rows or columns visible while scrolling through the rest of the sheet</answer>
+    <explanation>Extremely useful for keeping headers visible in large datasets.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which shortcut key is used to 'Refresh' an open web page in a browser?</text>
+    <topic>Internet</topic>
+    <option>F2</option>
+    <option>F5</option>
+    <option>F7</option>
+    <option>F11</option>
+    <answer>F5</answer>
+    <explanation>Standard across almost all browsers (Chrome, Edge, Firefox).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What does 'Bcc' stand for in an email?</text>
+    <topic>E-mail</topic>
+    <option>Basic Carbon Copy</option>
+    <option>Blind Carbon Copy</option>
+    <option>Business Communication Copy</option>
+    <option>Backup Carbon Copy</option>
+    <answer>Blind Carbon Copy</answer>
+    <explanation>Recipients in Bcc are hidden from all other people receiving the email.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, 'Gutter Margin' refers to:</text>
+    <topic>MS Word</topic>
+    <option>The margin on the right side</option>
+    <option>The margin added to the binding side of the page to ensure text is not hidden after binding</option>
+    <option>The margin between two lines</option>
+    <option>The margin for header and footer</option>
+    <answer>The margin added to the binding side of the page to ensure text is not hidden after binding</answer>
+    <explanation>Used when preparing documents for printing and spiral/book binding.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following PDF features with their purpose:
+A. Password Protection - 1. Converting images to searchable text
+B. Digital Signature - 2. Restricting unauthorized opening
+C. OCR - 3. Authenticating the document electronically
+Select the correct code:</text>
+    <topic>PDF</topic>
+    <option>A-2, B-3, C-1</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-1, C-2</option>
+    <answer>A-2, B-3, C-1</answer>
+    <explanation>Key features of professional PDF management.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, if you see '#####', it means:</text>
+    <topic>MS Excel</topic>
+    <option>The formula is wrong</option>
+    <option>The column is too narrow to display the result</option>
+    <option>The data is encrypted</option>
+    <option>The cell is empty</option>
+    <answer>The column is too narrow to display the result</answer>
+    <explanation>You simply need to increase the column width.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes a 'Cookie' in web browsing?</text>
+    <topic>Internet</topic>
+    <option>A small virus that steals data</option>
+    <option>A small text file stored by a website on your computer to remember your preferences/login</option>
+    <option>An advertisement pop-up</option>
+    <option>A type of internet cable</option>
+    <answer>A small text file stored by a website on your computer to remember your preferences/login</answer>
+    <explanation>Cookies help websites recognize you on return visits.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, which key is used to move the cursor to the 'Beginning' of the document?</text>
+    <topic>MS Word</topic>
+    <option>Home</option>
+    <option>Ctrl + Home</option>
+    <option>Page Up</option>
+    <option>Ctrl + Page Up</option>
+    <answer>Ctrl + Home</answer>
+    <explanation>Home moves to start of line; Ctrl+Home moves to start of entire document.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding MS PowerPoint:
+1. 'Slide Master' controls the look of every slide in the presentation.
+2. 'Handouts' are printed versions of slides for the audience.
+Which are correct?</text>
+    <topic>MS Powerpoint</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Standard PPT delivery tools.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, what is the shortcut key to 'Insert a new worksheet'?</text>
+    <topic>MS Excel</topic>
+    <option>Ctrl + N</option>
+    <option>Shift + F11</option>
+    <option>Alt + I</option>
+    <option>F12</option>
+    <answer>Shift + F11</answer>
+    <explanation>Ctrl+N is for a new workbook (file); Shift+F11 is for a new sheet in the current file.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Phishing'?</text>
+    <topic>Internet Security</topic>
+    <option>A way of catching fish using electronic sensors</option>
+    <option>A fraudulent attempt to obtain sensitive information like passwords by disguising as a trustworthy entity via email</option>
+    <option>Increasing the speed of the internet</option>
+    <option>Searching for large files on the web</option>
+    <answer>A fraudulent attempt to obtain sensitive information like passwords by disguising as a trustworthy entity via email</answer>
+    <explanation>Common cyber-attack method.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: You want to copy a table from MS Access and paste it into MS Excel. This process of moving data between different applications is called:</text>
+    <topic>MS Office</topic>
+    <option>Hyperlinking</option>
+    <option>Exporting / Importing</option>
+    <option>Mail Merging</option>
+    <option>Multitasking</option>
+    <answer>Exporting / Importing</answer>
+    <explanation>Standard method of data exchange between database and spreadsheet.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Word, the default 'Page Orientation' is:</text>
+    <topic>MS Word</topic>
+    <option>Landscape</option>
+    <option>Portrait</option>
+    <option>Center</option>
+    <option>Vertical</option>
+    <answer>Portrait</answer>
+    <explanation>Portrait is the standard vertical orientation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Access, a 'Form' is primarily used to:</text>
+    <topic>MS Access</topic>
+    <option>Perform calculations</option>
+    <option>Enter, edit, or display data from a table in a user-friendly way</option>
+    <option>Delete the whole database</option>
+    <option>Connect to the internet</option>
+    <answer>Enter, edit, or display data from a table in a user-friendly way</answer>
+    <explanation>Forms act as the user interface of the database.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In MS Excel, the formula '=A1+A2' is in cell A3. If you copy this formula to cell B3, what will the new formula be?</text>
+    <topic>MS Excel</topic>
+    <option>=A1+A2</option>
+    <option>=B1+B2</option>
+    <option>=$A$1+$A$2</option>
+    <option>=A1+B1</option>
+    <answer>=B1+B2</answer>
+    <explanation>Excel uses 'Relative Referencing' by default; it adjusts the formula based on the relative position.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the 'Fastest' internet connection type available today?</text>
+    <topic>Internet</topic>
+    <option>Dial-up</option>
+    <option>DSL</option>
+    <option>Fiber Optic (Broadband)</option>
+    <option>Satellite</option>
+    <answer>Fiber Optic (Broadband)</answer>
+    <explanation>Fiber optics use light signals to transmit data at very high speeds.</explanation>
+</question>
+
+
+
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Computer Viruses':
+1. They are malicious programs that can replicate themselves.
+2. They can spread via email attachments and Pendrives.
+3. They can damage the physical monitor of the computer.
+Which are correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 and 2 only</option>
+    <option>2 and 3 only</option>
+    <option>1 and 3 only</option>
+    <option>1, 2 and 3</option>
+    <answer>1 and 2 only</answer>
+    <explanation>Statement 3 is wrong. Viruses are software; they can't physically crack a monitor or melt plastic, though they can corrupt data displayed on it.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following malware types with their specific behavior:
+A. Trojan Horse - 1. Malware that disguises itself as useful software
+B. Ransomware - 2. Malware that spreads across networks without human help
+C. Worm - 3. Malware that locks your files and demands money to unlock
+Select the correct code:</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>A-1, B-3, C-2</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <answer>A-1, B-3, C-2</answer>
+    <explanation>Standard malware classification.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: A Junior Assistant receives an email from an unknown sender with an attachment titled 'Final_Salary_List.exe'. What should they do?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Open it immediately</option>
+    <option>Forward it to all colleagues</option>
+    <option>Do not open it and report it as suspicious</option>
+    <option>Rename it and then open it</option>
+    <answer>Do not open it and report it as suspicious</answer>
+    <explanation>Files ending in '.exe' from unknown senders are highly likely to be viruses or malware.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In the context of 'IT in Governance' in Jammu and Kashmir, what is 'BEAMS'?</text>
+    <topic>IT in Governance</topic>
+    <option>A social media platform for youth</option>
+    <option>Budget Estimation, Allocation &amp; Monitoring System</option>
+    <option>A system to monitor rainfall</option>
+    <option>A job application portal</option>
+    <answer>Budget Estimation, Allocation &amp; Monitoring System</answer>
+    <explanation>BEAMS is an online G2G (Government to Government) portal for transparent financial management in J&amp;K.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Antivirus' software:
+1. It must be updated regularly to recognize new threats.
+2. Having two different antivirus programs active at the same time is recommended for double security.
+Which is/are correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is wrong. Running two active antivirus programs can cause system conflicts and slow down the PC.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the primary role of 'IT' in Governance (e-Governance)?</text>
+    <topic>IT in Governance</topic>
+    <option>To replace all human employees with robots</option>
+    <option>To make government services more transparent, efficient, and accessible to citizens</option>
+    <option>To increase the cost of government services</option>
+    <option>To make government work more secret</option>
+    <answer>To make government services more transparent, efficient, and accessible to citizens</answer>
+    <explanation>e-Governance aims to improve service delivery and reduce corruption.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: Which Indian government initiative provides a 'cloud-based' platform for citizens to store and verify their documents like driving licenses and marksheets?</text>
+    <topic>IT in Governance</topic>
+    <option>Aadhaar</option>
+    <option>DigiLocker</option>
+    <option>UMANG</option>
+    <option>PAYTM</option>
+    <answer>DigiLocker</answer>
+    <explanation>DigiLocker allows digital storage of official documents which are legally valid.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following e-Governance models with their examples:
+A. G2C (Govt to Citizen) - 1. Online filing of tax by a company
+B. G2B (Govt to Business) - 2. Online birth certificate application
+C. G2G (Govt to Govt) - 3. e-Office system for file movement between departments
+Select the correct code:</text>
+    <topic>IT in Governance</topic>
+    <option>A-2, B-1, C-3</option>
+    <option>A-1, B-2, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-2, B-1, C-3</answer>
+    <explanation>Standard interaction models in e-Governance.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Spyware'?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>A software used by govt to help citizens</option>
+    <option>Malicious software designed to secretly monitor and collect information about a user</option>
+    <option>A tool used to increase monitor brightness</option>
+    <option>An anti-virus brand</option>
+    <answer>Malicious software designed to secretly monitor and collect information about a user</answer>
+    <explanation>Spyware often steals passwords or credit card numbers.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The 'e-Unnat' (Jan Sugam) portal in Jammu and Kashmir is used for:</text>
+    <topic>IT in Governance</topic>
+    <option>Recruiting police officers</option>
+    <option>A unified portal for providing various citizen-centric services online</option>
+    <option>Playing games</option>
+    <option>Booking flight tickets</option>
+    <answer>A unified portal for providing various citizen-centric services online</answer>
+    <explanation>e-Unnat is J&amp;K's flagship portal for G2C services like certificates and licenses.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Firewalls':
+1. They can be either hardware or software based.
+2. They monitor and control incoming and outgoing network traffic.
+Which is/are correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Firewalls act as a barrier between a trusted and an untrusted network.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'DBT' in the context of Indian governance?</text>
+    <topic>IT in Governance</topic>
+    <option>Digital Board Technology</option>
+    <option>Direct Benefit Transfer</option>
+    <option>Data Backup Tool</option>
+    <option>Departmental Business Task</option>
+    <answer>Direct Benefit Transfer</answer>
+    <explanation>Money is transferred directly to a beneficiary's bank account to eliminate middlemen.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A 'Logic Bomb' is a type of malware that:</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Explodes the physical hardware</option>
+    <option>Triggers its malicious action only when a specific condition is met (like a date or time)</option>
+    <option>Only affects mathematical software</option>
+    <option>Can be deleted using water</option>
+    <answer>Triggers its malicious action only when a specific condition is met (like a date or time)</answer>
+    <explanation>It lies dormant until the 'logic' condition is satisfied.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the 'Official' portal for filing RTIs (Right to Information) online in India?</text>
+    <topic>IT in Governance</topic>
+    <option>rti.gov.in</option>
+    <option>rtionline.gov.in</option>
+    <option>myrti.in</option>
+    <option>digitalrti.com</option>
+    <answer>rtionline.gov.in</answer>
+    <explanation>Official central government portal for RTI applications.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: An office wants to ensure that all digital documents sent externally are 'legally' authenticated. Which technology should the officials use to sign the documents?</text>
+    <topic>IT in Governance</topic>
+    <option>Scanning a handwritten signature</option>
+    <option>Digital Signature Certificate (DSC)</option>
+    <option>Typing their name in bold</option>
+    <option>Printing and then signing with a pen</option>
+    <answer>Digital Signature Certificate (DSC)</answer>
+    <explanation>Digital signatures are legally valid for authenticating e-documents under the IT Act.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Adware':
+1. It is software that automatically displays or downloads advertising material.
+2. It is always harmless and never tracks user data.
+Which is/are correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>1 only</answer>
+    <explanation>Statement 2 is wrong. While some adware is just annoying, many types track user behavior to show targeted ads.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the full form of 'UMANG' app?</text>
+    <topic>IT in Governance</topic>
+    <option>United Mobile Application for New-age Governance</option>
+    <option>Unified Mobile Application for New-age Governance</option>
+    <option>Universal Mobile Access for National Growth</option>
+    <option>Unified Management of National Governance</option>
+    <answer>Unified Mobile Application for New-age Governance</answer>
+    <explanation>A single mobile app to access hundreds of government services.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is NOT an 'Antivirus' software?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Quick Heal</option>
+    <option>Norton</option>
+    <option>Kaspersky</option>
+    <option>Oracle</option>
+    <answer>Oracle</answer>
+    <explanation>Oracle is a database software company; others are well-known antivirus brands.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In e-Governance, 'CSC' stands for:</text>
+    <topic>IT in Governance</topic>
+    <option>Central Security Cell</option>
+    <option>Common Service Center</option>
+    <option>Computer System Code</option>
+    <option>Citizen Support Center</option>
+    <answer>Common Service Center</answer>
+    <explanation>Physical facilities for delivering e-services to rural and remote citizens.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following malware behaviors:
+A. Keylogger - 1. Records every keystroke made by the user
+B. Rootkit - 2. Gains deep administrative access while hiding itself
+C. Adware - 3. Displays unwanted pop-up advertisements
+Select the correct code:</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-1, B-2, C-3</answer>
+    <explanation>Specific malware descriptions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A user finds that their computer is running very slowly and random windows are opening. What is the first thing they should do?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Buy a new computer</option>
+    <option>Format the hard drive immediately</option>
+    <option>Disconnect from the internet and run a full antivirus scan</option>
+    <option>Ignore it</option>
+    <answer>Disconnect from the internet and run a full antivirus scan</answer>
+    <explanation>Isolating the PC prevents the virus from spreading or communicating with a hacker.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the purpose of 'CAPTCHA' on government websites?</text>
+    <topic>IT in Governance</topic>
+    <option>To increase the font size</option>
+    <option>To differentiate between a human user and an automated bot</option>
+    <option>To save the user's password</option>
+    <option>To connect to the database</option>
+    <answer>To differentiate between a human user and an automated bot</answer>
+    <explanation>It prevents spam and automated attacks on web forms.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Digital India' program:
+1. It aims to transform India into a digitally empowered society.
+2. Providing high-speed internet to every citizen is one of its pillars.
+Which is/are correct?</text>
+    <topic>IT in Governance</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Flagship program of the Govt of India to bridge the digital divide.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>The first PC virus was developed for MS-DOS and was named:</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Creeper</option>
+    <option>Brain</option>
+    <option>Trojan</option>
+    <option>Worm</option>
+    <answer>Brain</answer>
+    <explanation>'Brain' was the first PC virus (1986); 'Creeper' (1971) was the first overall computer virus.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In IT security, what does 'Encryption' do?</text>
+    <topic>IT in Governance</topic>
+    <option>It deletes the data</option>
+    <option>It converts data into a coded form to prevent unauthorized access</option>
+    <option>It makes the data smaller in size</option>
+    <option>It highlights the errors</option>
+    <answer>It converts data into a coded form to prevent unauthorized access</answer>
+    <explanation>Used to protect sensitive citizen data on government portals.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You receive an email from 'bank_support_123@gmail.com' asking you to update your Aadhaar details by clicking a link. What is this likely to be?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>A secure government update</option>
+    <option>A phishing scam</option>
+    <option>A gift email</option>
+    <option>An antivirus notification</option>
+    <answer>A phishing scam</answer>
+    <explanation>Official banks/govt will never use public domains like '@gmail.com' for sensitive requests.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'E-Office' in government administration?</text>
+    <topic>IT in Governance</topic>
+    <option>An office that sells computers</option>
+    <option>A digital system to replace physical files and traditional paperwork with electronic movement of files</option>
+    <option>An office that has no building</option>
+    <option>A portal to play games</option>
+    <answer>A digital system to replace physical files and traditional paperwork with electronic movement of files</answer>
+    <explanation>e-Office increases transparency and speed in decision making.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Vulnerability' in computers:</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>It refers to the strength of a password</option>
+    <option>It is a weakness in a system that can be exploited by a virus or hacker</option>
+    <option>It is a type of antivirus</option>
+    <option>None of these</option>
+    <answer>It is a weakness in a system that can be exploited by a virus or hacker</answer>
+    <explanation>Software updates are usually released to fix such vulnerabilities.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In e-Governance, 'CPGRAMS' is related to:</text>
+    <topic>IT in Governance</topic>
+    <option>Government employee transfers</option>
+    <option>Grievance redressal for citizens</option>
+    <option>Electricity bill payments</option>
+    <option>Online school admissions</option>
+    <answer>Grievance redressal for citizens</answer>
+    <explanation>Centralized Public Grievance Redress and Monitoring System.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following IT Acts/Policies:
+A. IT Act 2000 - 1. Rules for processing digital personal data (2023)
+B. DPDP Act - 2. Primary law in India dealing with cybercrime and e-commerce
+Select the correct code:</text>
+    <topic>IT in Governance</topic>
+    <option>A-1, B-2</option>
+    <option>A-2, B-1</option>
+    <answer>A-2, B-1</answer>
+    <explanation>IT Act 2000 is the main law; DPDP Act 2023 is the new data protection law.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following describes 'Heuristic' scanning in antivirus software?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Checking a file against a database of known viruses</option>
+    <option>Analyzing the behavior of a program to detect if it acts like a virus</option>
+    <option>Deleting all files on the hard drive</option>
+    <option>Increasing the monitor resolution</option>
+    <answer>Analyzing the behavior of a program to detect if it acts like a virus</answer>
+    <explanation>Heuristics help catch new (Zero-day) viruses that aren't in the database yet.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A Junior Assistant wants to submit their annual property return on a government portal. Which model of e-Governance does this represent?</text>
+    <topic>IT in Governance</topic>
+    <option>G2C</option>
+    <option>G2B</option>
+    <option>G2E (Govt to Employee)</option>
+    <option>G2G</option>
+    <answer>G2E (Govt to Employee)</answer>
+    <explanation>G2E involves digital interactions between the government and its own employees.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is a 'Macro' virus?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>A very large virus</option>
+    <option>A virus that infects MS Office documents (Word/Excel) using embedded macros</option>
+    <option>A virus that infects the BIOS</option>
+    <option>None of these</option>
+    <answer>A virus that infects MS Office documents (Word/Excel) using embedded macros</answer>
+    <explanation>These viruses spread when you open infected Word or Excel files.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In e-Governance, 'SWAN' stands for:</text>
+    <topic>IT in Governance</topic>
+    <option>State Wide Area Network</option>
+    <option>Social Welfare and Nutrition</option>
+    <option>Secure Web Access Network</option>
+    <option>None of these</option>
+    <answer>State Wide Area Network</answer>
+    <explanation>The technical network infrastructure connecting government offices from State HQ to Blocks.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Cloud Computing' in governance:
+1. It reduces the cost of maintaining local servers.
+2. It allows officials to access data from any location with internet.
+Which is/are correct?</text>
+    <topic>IT in Governance</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Cloud (e.g., GI Cloud Meghraj) is a key part of modern IT infrastructure.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following can be used as an 'offline' way to transfer a virus from one PC to another?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Monitor</option>
+    <option>USB Flash Drive (Pendrive)</option>
+    <option>UPS</option>
+    <option>HDMI Cable</option>
+    <answer>USB Flash Drive (Pendrive)</answer>
+    <explanation>Physical media is a major vector for virus transmission in offices.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Scenario: You see a padlock icon and 'https://' in the address bar of a government website. What does this indicate?</text>
+    <topic>Internet Security</topic>
+    <option>The website is very slow</option>
+    <option>The connection to the website is encrypted and secure</option>
+    <option>The website is only for admins</option>
+    <option>The website contains a virus</option>
+    <answer>The connection to the website is encrypted and secure</answer>
+    <explanation>HTTPS (Hypertext Transfer Protocol Secure) ensures data privacy.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Quarantine' function in an antivirus?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>It deletes the virus immediately</option>
+    <option>It moves a suspicious file to a safe, isolated area to prevent it from harming the system</option>
+    <option>It increases the computer's speed</option>
+    <option>It connects to the internet</option>
+    <answer>It moves a suspicious file to a safe, isolated area to prevent it from harming the system</answer>
+    <explanation>Quarantine allows the user to decide whether to delete the file or keep it if it's a 'false positive'.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In IT Governance, 'KAREWA' in J&amp;K is related to:</text>
+    <topic>IT in Governance</topic>
+    <option>Land Records</option>
+    <option>Kashmir Agriculture Revenue &amp; Economic Welfare Application</option>
+    <option>Police Recruitment</option>
+    <option>None of these</option>
+    <answer>Kashmir Agriculture Revenue &amp; Economic Welfare Application</answer>
+    <explanation>Example of a state-specific IT initiative.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is a 'Cybercrime'?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>Hacking</option>
+    <option>Cyber-stalking</option>
+    <option>Spreading Malware</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>These are all illegal activities performed using a computer/network.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A government office is conducting an 'e-Tender' process. This is an example of which model?</text>
+    <topic>IT in Governance</topic>
+    <option>G2C</option>
+    <option>G2B</option>
+    <option>G2G</option>
+    <option>C2C</option>
+    <answer>G2B</answer>
+    <explanation>Government to Business (G2B) involves interactions like bidding for contracts (tendering).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Worms':
+1. They require a human user to run an infected file to spread.
+2. They can spread automatically across computer networks.
+Which is correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>2 only</answer>
+    <explanation>Viruses need human action (opening a file); Worms spread by themselves through network vulnerabilities.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the full form of 'NPCI' in the context of digital payments in India?</text>
+    <topic>IT in Governance</topic>
+    <option>National Payment Corporation of India</option>
+    <option>National Police Council of India</option>
+    <option>National Population Census Institute</option>
+    <option>None of these</option>
+    <answer>National Payment Corporation of India</answer>
+    <explanation>NPCI operates systems like UPI and RuPay.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In IT Governance, 'Parivahan' portal is related to:</text>
+    <topic>IT in Governance</topic>
+    <option>Tourism</option>
+    <option>Transport and Driving Licenses</option>
+    <option>Railways</option>
+    <option>Agriculture</option>
+    <answer>Transport and Driving Licenses</answer>
+    <explanation>Official portal for Sarathi (licenses) and Vahan (registrations).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following regarding 'Cyber Security':
+1. 'Encryption' protects data in transit.
+2. 'Antivirus' protects data at rest.
+Which is correct?</text>
+    <topic>Virus &amp; Antivirus</topic>
+    <option>1 only</option>
+    <option>2 only</option>
+    <option>Both 1 and 2</option>
+    <option>Neither 1 nor 2</option>
+    <answer>Both 1 and 2</answer>
+    <explanation>Encryption hides data while it moves; antivirus scans files saved on the disk.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is the 'Mascot' for the Linux kernel?</text>
+    <topic>Operating System</topic>
+    <option>An Eagle</option>
+    <option>A Blue Butterfly</option>
+    <option>Tux the Penguin</option>
+    <option>A Silver Apple</option>
+    <answer>Tux the Penguin</answer>
+    <explanation>A fun factual question often asked in JKSSB exams.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following Indian portals with their function:
+A. e-Office - 1. Paperless movement of government files
+B. GeM - 2. Government e-Marketplace for buying goods
+C. e-Shram - 3. Database of unorganized workers
+Select the correct code:</text>
+    <topic>IT in Governance</topic>
+    <option>A-1, B-2, C-3</option>
+    <option>A-2, B-1, C-3</option>
+    <option>A-3, B-2, C-1</option>
+    <answer>A-1, B-2, C-3</answer>
+    <explanation>Key central government e-Governance portals.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Application Based: A government official uses an 'Aadhaar-based Biometric Attendance System'. Which e-Governance model does this follow?</text>
+    <topic>IT in Governance</topic>
+    <option>G2C</option>
+    <option>G2G</option>
+    <option>G2E</option>
+    <option>G2B</option>
+    <answer>G2E</answer>
+    <explanation>Govt to Employee (G2E).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>What is 'Open Source' software?</text>
+    <topic>Software Categories</topic>
+    <option>Software that can be opened by anyone</option>
+    <option>Software whose source code is available for anyone to inspect, modify, and enhance</option>
+    <option>Software that has no password</option>
+    <option>Software that is always free of cost</option>
+    <answer>Software whose source code is available for anyone to inspect, modify, and enhance</answer>
+    <explanation>Examples include Linux, VLC, and LibreOffice.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In e-Governance, 'DBT' helps in reducing 'leakage' of funds. What does 'leakage' mean?</text>
+    <topic>IT in Governance</topic>
+    <option>Water leaking from pipes</option>
+    <option>Diversion of funds or money being stolen by middlemen before reaching the beneficiary</option>
+    <option>The computer battery dying</option>
+    <option>None of these</option>
+    <answer>Diversion of funds or money being stolen by middlemen before reaching the beneficiary</answer>
+    <explanation>DBT ensures 100% of the money reaches the correct person's bank account.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
