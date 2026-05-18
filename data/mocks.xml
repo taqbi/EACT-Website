@@ -1,5 +1,404 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
+    
+    <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="No" duration="30">
+    <correctMarks>1</correctMarks>
+    <negativeMarks>0.25</negativeMarks>
+
+    <!-- Question 1 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following transactions increases both assets and liabilities simultaneously?</text>
+        <option>Credit purchase of goods</option>
+        <option>Cash sale of goods</option>
+        <option>Depreciation charged on machinery</option>
+        <option>Withdrawal of cash by proprietor</option>
+        <answer>Credit purchase of goods</answer>
+        <explanation>Credit purchase increases inventory/assets and simultaneously creates liability towards creditors.</explanation>
+    </question>
+
+    <!-- Question 2 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following errors is disclosed by the Trial Balance?</text>
+        <option>Complete omission of a transaction</option>
+        <option>Error of principle</option>
+        <option>Posting ₹5,400 on the debit side as ₹4,500</option>
+        <option>Recording purchase of machinery in Purchases Account</option>
+        <answer>Posting ₹5,400 on the debit side as ₹4,500</answer>
+        <explanation>Difference in amount posted creates inequality in debit and credit totals, thereby affecting the Trial Balance.</explanation>
+    </question>
+
+    <!-- Question 3 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A bank overdraft balance as per Cash Book is shown:</text>
+        <option>On the debit side of Cash Book</option>
+        <option>On the credit side of Cash Book</option>
+        <option>As an asset in Balance Sheet</option>
+        <option>As income in Profit &amp; Loss Account</option>
+        <answer>On the credit side of Cash Book</answer>
+        <explanation>Bank overdraft indicates excess withdrawal over deposits and therefore appears as a credit balance in the Cash Book.</explanation>
+    </question>
+
+    <!-- Question 4 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Consider the following statements regarding accounting concepts:
+1. Business entity concept treats owner and business separately.
+2. Money measurement concept records only those transactions measurable in monetary terms.
+3. Going concern concept assumes liquidation in the near future.
+Which of the statements given above is/are correct?</text>
+        <option>1 and 2 only</option>
+        <option>2 and 3 only</option>
+        <option>1 and 3 only</option>
+        <option>1, 2 and 3</option>
+        <answer>1 and 2 only</answer>
+        <explanation>Going concern assumes continuity of business, not liquidation.</explanation>
+    </question>
+
+    <!-- Question 5 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Goods withdrawn by proprietor for personal use should be debited to:</text>
+        <option>Purchases Account</option>
+        <option>Goods Account</option>
+        <option>Drawings Account</option>
+        <option>Sales Account</option>
+        <answer>Drawings Account</answer>
+        <explanation>Personal withdrawal of goods is treated as drawings.</explanation>
+    </question>
+
+    <!-- Question 6 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Outstanding salary at year end is shown:</text>
+        <option>Only in Profit &amp; Loss Account</option>
+        <option>Only in Balance Sheet</option>
+        <option>As expense and liability both</option>
+        <option>Neither in P&amp;L nor Balance Sheet</option>
+        <answer>As expense and liability both</answer>
+        <explanation>Outstanding expense is charged to current year and also shown as liability.</explanation>
+    </question>
+
+    <!-- Question 7 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A trader purchased goods for ₹40,000 and incurred carriage inward ₹2,000. Goods worth ₹5,000 were returned to supplier. Cost of goods available for sale equals:</text>
+        <option>₹37,000</option>
+        <option>₹42,000</option>
+        <option>₹45,000</option>
+        <option>₹47,000</option>
+        <answer>₹37,000</answer>
+        <explanation>40,000 + 2,000 – 5,000 = ₹37,000.</explanation>
+    </question>
+
+    <!-- Question 8 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which error is disclosed by Trial Balance?</text>
+        <option>Compensating error</option>
+        <option>Error of omission</option>
+        <option>Error of principle</option>
+        <option>One-sided posting error</option>
+        <answer>One-sided posting error</answer>
+        <explanation>One-sided posting disturbs debit-credit equality.</explanation>
+    </question>
+
+    <!-- Question 9 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Cheque issued but not presented causes:</text>
+        <option>Pass Book balance to decrease</option>
+        <option>Cash Book balance to Increase</option>
+        <option>Cash Book balance to decrease</option>
+        <option>No effect on either book</option>
+        <answer>Cash Book balance to decrease</answer>
+        <explanation>Cash Book records immediately, bank records only upon presentation.</explanation>
+    </question>
+
+    <!-- Question 10 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is not a real account?</text>
+        <option>Machinery Account</option>
+        <option>Building Account</option>
+        <option>Cash Account</option>
+        <option>Outstanding Rent Account</option>
+        <answer>Outstanding Rent Account</answer>
+        <explanation>Outstanding rent is a personal account representing liability.</explanation>
+    </question>
+
+    <!-- Question 11 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Assertion (A): Depreciation is charged irrespective of profit or loss.
+Reason (R): Depreciation is a capital expenditure.</text>
+        <option>Both A and R are true and R explains A</option>
+        <option>Both A and R are true but R does not explain A</option>
+        <option>A is true but R is false</option>
+        <option>A is false but R is true</option>
+        <answer>A is true but R is false</answer>
+        <explanation>Depreciation is revenue expenditure allocation, not capital expenditure.</explanation>
+    </question>
+
+    <!-- Question 12 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Under double entry system, every transaction affects:</text>
+        <option>One account only</option>
+        <option>Two or more accounts</option>
+        <option>Cash account compulsorily</option>
+        <option>Personal account only</option>
+        <answer>Two or more accounts</answer>
+        <explanation>Dual aspect is the essence of double entry bookkeeping.</explanation>
+    </question>
+
+    <!-- Question 13 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A contingent liability is:</text>
+        <option>Certain liability</option>
+        <option>Fictitious asset</option>
+        <option>Possible obligation depending on future event</option>
+        <option>Capital reserve</option>
+        <answer>Possible obligation depending on future event</answer>
+        <explanation>Contingent liability arises from uncertain future events.</explanation>
+    </question>
+
+    <!-- Question 14 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which ratio primarily measures short-term solvency?</text>
+        <option>Debt-equity ratio</option>
+        <option>Gross profit ratio</option>
+        <option>Current ratio</option>
+        <option>Return on capital employed</option>
+        <answer>Current ratio</answer>
+        <explanation>Current ratio evaluates liquidity position.</explanation>
+    </question>
+
+    <!-- Question 15 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Cash Book overdraft balance is ₹12,000. Cheques issued but not presented amount to ₹2,500. Bank charges of ₹500 not entered in Cash Book. Pass Book balance will be:</text>
+        <option>₹10,000 overdraft</option>
+        <option>₹15,000 overdraft</option>
+        <option>₹9,000 overdraft</option>
+        <option>₹14,000 overdraft</option>
+        <answer>₹10,000 overdraft</answer>
+        <explanation>12,000 – 2,500 + 500 = 10,000 overdraft.</explanation>
+    </question>
+
+    <!-- Question 16 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is a feature of partnership?</text>
+        <option>Separate legal entity</option>
+        <option>Perpetual succession</option>
+        <option>Mutual agency</option>
+        <option>Limited liability in all cases</option>
+        <answer>Mutual agency</answer>
+        <explanation>Every partner acts as agent of firm and other partners.</explanation>
+    </question>
+
+    <!-- Question 17 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Goodwill brought in by incoming partner in cash is credited to:</text>
+        <option>Revaluation Account</option>
+        <option>Existing Partners’ Capital Accounts</option>
+        <option>Cash Account only</option>
+        <option>Suspense Account</option>
+        <answer>Existing Partners’ Capital Accounts</answer>
+        <explanation>Sacrificing partners are compensated through goodwill.</explanation>
+    </question>
+
+    <!-- Question 18 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which tax is classified as an indirect tax in India?</text>
+        <option>Income Tax</option>
+        <option>Corporate Tax</option>
+        <option>GST</option>
+        <option>Capital Gains Tax</option>
+        <answer>GST</answer>
+        <explanation>GST is levied indirectly on supply of goods and services.</explanation>
+    </question>
+
+    <!-- Question 19 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following statements regarding GST are correct?
+1. GST is destination-based tax.
+2. GST subsumed several indirect taxes.
+3. GST is levied only by Central Government.</text>
+        <option>1 only</option>
+        <option>1 and 2 only</option>
+        <option>2 and 3 only</option>
+        <option>1, 2 and 3</option>
+        <answer>1 and 2 only</answer>
+        <explanation>GST is jointly administered by Centre and States.</explanation>
+    </question>
+
+    <!-- Question 20 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A purchase of machinery wrongly debited to Purchases Account is an example of:</text>
+        <option>Error of omission</option>
+        <option>Error of commission</option>
+        <option>Error of principle</option>
+        <option>Compensating error</option>
+        <answer>Error of principle</answer>
+        <explanation>Capital expenditure treated as revenue expenditure violates accounting principles.</explanation>
+    </question>
+
+    <!-- Question 21 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>In cost accounting, fixed cost per unit:</text>
+        <option>Remains constant with production</option>
+        <option>Increases with increase in production</option>
+        <option>Decreases with increase in production</option>
+        <option>Has no relation with output</option>
+        <answer>Decreases with increase in production</answer>
+        <explanation>Total fixed cost remains constant; per unit fixed cost declines with higher output.</explanation>
+    </question>
+
+    <!-- Question 22 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Budgetary control is mainly used for:</text>
+        <option>Tax computation</option>
+        <option>Cost control and performance evaluation</option>
+        <option>Audit reporting</option>
+        <option>Capitalization of expenses</option>
+        <answer>Cost control and performance evaluation</answer>
+        <explanation>Budgetary control compares actuals with budgets for corrective action.</explanation>
+    </question>
+
+    <!-- Question 23 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which account is prepared first while preparing final accounts of a trading concern?</text>
+        <option>Profit &amp; Loss Account</option>
+        <option>Balance Sheet</option>
+        <option>Trading Account</option>
+        <option>Cash Flow Statement</option>
+        <answer>Trading Account</answer>
+        <explanation>Gross profit is determined through Trading Account before P&amp;L Account.</explanation>
+    </question>
+
+    <!-- Question 24 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which item appears on the credit side of Trading Account?</text>
+        <option>Opening Stock</option>
+        <option>Carriage Inward</option>
+        <option>Wages</option>
+        <option>Sales</option>
+        <answer>Sales</answer>
+        <explanation>Trading Account credits sales and closing stock.</explanation>
+    </question>
+
+    <!-- Question 25 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Consider the following regarding PFMS:
+1. PFMS facilitates tracking of government fund flow.
+2. PFMS supports real-time financial monitoring.
+3. PFMS is primarily a private sector accounting software.
+Which statements are correct?</text>
+        <option>1 and 2 only</option>
+        <option>2 and 3 only</option>
+        <option>1 and 3 only</option>
+        <option>1, 2 and 3</option>
+        <answer>1 and 2 only</answer>
+        <explanation>PFMS is a government financial management platform.</explanation>
+    </question>
+
+    <!-- Question 26 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is treated as capital expenditure?</text>
+        <option>Repairs to machinery</option>
+        <option>Whitewashing of office</option>
+        <option>Purchase of furniture</option>
+        <option>Salary paid to accountant</option>
+        <answer>Purchase of furniture</answer>
+        <explanation>Furniture acquisition creates long-term asset.</explanation>
+    </question>
+
+    <!-- Question 27 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>The primary objective of financial audit is to:</text>
+        <option>Detect all frauds compulsorily</option>
+        <option>Prepare accounts</option>
+        <option>Express opinion on true and fair view of financial statements</option>
+        <option>Calculate taxable income only</option>
+        <answer>Express opinion on true and fair view of financial statements</answer>
+        <explanation>Audit provides independent opinion on financial statements.</explanation>
+    </question>
+
+    <!-- Question 28 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business has assets of ₹8,00,000 and external liabilities of ₹3,20,000. Capital according to accounting equation will be:</text>
+        <option>₹4,80,000</option>
+        <option>₹5,20,000</option>
+        <option>₹11,20,000</option>
+        <option>₹3,20,000</option>
+        <answer>₹4,80,000</answer>
+        <explanation>Capital = Assets – Liabilities = 8,00,000 – 3,20,000.</explanation>
+    </question>
+
+    <!-- Question 29 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is least likely under single entry system?</text>
+        <option>Incomplete records</option>
+        <option>Difficulty in preparing final accounts</option>
+        <option>Scientific accuracy</option>
+        <option>Possibility of fraud</option>
+        <answer>Scientific accuracy</answer>
+        <explanation>Single entry lacks completeness and scientific reliability.</explanation>
+    </question>
+
+    <!-- Question 30 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following statements regarding depreciation are correct?
+1. Depreciation allocates cost of asset over useful life.
+2. Depreciation provides funds for replacement automatically.
+3. Land generally does not suffer depreciation.</text>
+        <option>1 and 3 only</option>
+        <option>1 only</option>
+        <option>2 and 3 only</option>
+        <option>1, 2 and 3</option>
+        <answer>1 and 3 only</answer>
+        <explanation>Depreciation is allocation process; it does not automatically create replacement funds.</explanation>
+    </question>
+</test>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <!-- Full Length Mock Tests -->
     <test name="JKSSB Junior Assistant Full Length Mock Test 2" type="full" isLive="No" duration="80">
         <correctMarks>1</correctMarks>
