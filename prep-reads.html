@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Ace JKSSB & JKPSC exams with free study material. Download PDFs, MCQs, PYQs & Video Courses for JKP Constable, SI, FAA, Patwari, Naib Tehsildar, KAS & Junior Assistant." />
-    <meta name="keywords" content="JKSSB study material, exam tips, JKPSC free notes, JKP Constable, Sub Inspector, SI, Junior Assistant, FAA, Patwari, Naib Tehsildar, VLW, Forester" />
+    <meta name="description" content="Read subject-wise articles for knowledge sharing." />
+    <meta name="keywords" content="articles, knowledge sharing, JKSSB, JKPSC" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
-    <title>Exam Tips - EACT Classes</title>
+    <title>Prep Reads - EACT Classes</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
@@ -35,12 +35,25 @@
     </nav>
 </header>
 
-<main>
+<main class="main-content" style="flex-direction: column;">
     <div class="content-title" style="margin-top: 40px;"> 
-        <h2>Top Exam Tips for JKSSB / JKPSC</h2> 
+        <h2>Prep Reads</h2> 
     </div>
-    <div id="exam-tips-container" class="tips-container">
-        <!-- Tips will be loaded here dynamically from XML -->
+    
+    <div id="articles-main-container">
+        <!-- Subjects View -->
+        <div id="subjects-view" class="subjects-grid"></div>
+        <!-- Articles List View -->
+        <div id="articles-list-view" style="display: none;">
+            <button id="back-to-subjects-btn" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Subjects</button>
+            <h3 id="current-subject-title" class="subject-header"></h3>
+            <div id="articles-list-grid" class="articles-grid"></div>
+        </div>
+        <!-- Article Detailed View -->
+        <div id="article-detail-view" style="display: none;">
+            <button id="back-to-articles-btn" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Prep Reads</button>
+            <div id="article-content-area" class="article-content-area"></div>
+        </div>
     </div>
 </main>
 

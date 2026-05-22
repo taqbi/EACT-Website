@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function loadArticles() {
-        fetch('data/articles.xml')
+        fetch('data/prep-reads.xml')
             .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();
@@ -269,7 +269,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     articlesListView.style.display = 'block';
                     articleDetailView.style.display = 'none';
                     
-                    document.getElementById('current-subject-title').textContent = `${subject} Articles`;
+                    document.getElementById('current-subject-title').textContent = `${subject} Prep Reads`;
                     articlesListGrid.innerHTML = '';
                     
                     const filteredArticles = articlesData.filter(a => a.subject === subject);
@@ -280,18 +280,20 @@ document.addEventListener('DOMContentLoaded', function () {
                         
                         let imageHTML = '';
                         if (article.image) {
-                            imageHTML = `<img src="${article.image}" alt="Article Thumbnail" style="width: 100%; height: 160px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;">`;
+                            imageHTML = `<div class="article-card-img-container"><img src="${article.image}" alt="Article Thumbnail" class="article-card-img"></div>`;
                         }
                         
                         card.innerHTML = `
                             ${imageHTML}
-                            <div class="article-meta">
-                                <span><i class="fas fa-tag"></i> ${article.topic}</span>
-                                <span><i class="fas fa-calendar-alt"></i> ${article.date}</span>
+                            <div class="article-card-content">
+                                <div class="article-meta">
+                                    <span><i class="fas fa-tag"></i> ${article.topic}</span>
+                                    <span><i class="fas fa-calendar-alt"></i> ${article.date}</span>
+                                </div>
+                                <h3>${article.title}</h3>
+                                <p class="article-summary">${article.summary}</p>
+                                <div class="article-author"><i class="fas fa-user-edit"></i> ${article.author}</div>
                             </div>
-                            <h3>${article.title}</h3>
-                            <p class="article-summary">${article.summary}</p>
-                            <div class="article-author"><i class="fas fa-user-edit"></i> ${article.author}</div>
                         `;
                         card.addEventListener('click', () => {
                             showArticleDetail(article, subject);
