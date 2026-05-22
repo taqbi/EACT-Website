@@ -230,9 +230,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     const author = articles[i].getElementsByTagName("author")[0]?.textContent || "Admin";
                     const summary = articles[i].getElementsByTagName("summary")[0]?.textContent || "";
                     const content = articles[i].getElementsByTagName("content")[0]?.textContent || "";
+                    const image = articles[i].getElementsByTagName("image")[0]?.textContent || "";
                     
                     subjectsSet.add(subject);
-                    articlesData.push({ subject, title, topic, date, author, summary, content });
+                    articlesData.push({ subject, title, topic, date, author, summary, content, image });
                 }
                 
                 const subjectsView = document.getElementById('subjects-view');
@@ -276,7 +277,14 @@ document.addEventListener('DOMContentLoaded', function () {
                     filteredArticles.forEach(article => {
                         const card = document.createElement('div');
                         card.className = 'article-card';
+                        
+                        let imageHTML = '';
+                        if (article.image) {
+                            imageHTML = `<img src="${article.image}" alt="Article Thumbnail" style="width: 100%; height: 160px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;">`;
+                        }
+                        
                         card.innerHTML = `
+                            ${imageHTML}
                             <div class="article-meta">
                                 <span><i class="fas fa-tag"></i> ${article.topic}</span>
                                 <span><i class="fas fa-calendar-alt"></i> ${article.date}</span>
@@ -296,6 +304,11 @@ document.addEventListener('DOMContentLoaded', function () {
                     articlesListView.style.display = 'none';
                     articleDetailView.style.display = 'block';
                     
+                    let detailImageHTML = '';
+                    if (article.image) {
+                        detailImageHTML = `<img src="${article.image}" alt="Featured Image" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">`;
+                    }
+                    
                     articleContentArea.innerHTML = `
                         <h2 class="article-title">${article.title}</h2>
                         <div class="article-meta-info">
@@ -303,6 +316,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             <span><i class="fas fa-calendar-alt"></i> ${article.date}</span> &nbsp;|&nbsp; 
                             <span><i class="fas fa-folder-open"></i> ${article.subject} - ${article.topic}</span>
                         </div>
+                        ${detailImageHTML}
                         <div class="article-body">${article.content}</div>
                     `;
                     
