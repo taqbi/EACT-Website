@@ -627,6 +627,56 @@ body::after {
     width: fit-content; /* makes border hug the text again if needed */
 }
 
+/* Exam Tips Accordion Styles */
+.tips-container {
+    max-width: 800px;
+    margin: 30px auto 50px auto;
+    padding: 0 20px;
+}
+.tip-item {
+    background: #ffffff;
+    border: 1px solid #e0e7ef;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 15px rgba(0, 30, 80, 0.05);
+    overflow: hidden;
+}
+.tip-header {
+    padding: 18px 20px;
+    background: linear-gradient(135deg, #ffffff 0%, #f8faff 100%);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: #1f2a44;
+    transition: background 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+}
+.tip-header:hover {
+    background: #eef2ff;
+}
+.tip-content {
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, padding 0.4s ease;
+    color: #495057;
+    line-height: 1.6;
+    background-color: #fafbfd;
+}
+.tip-content.open {
+    padding: 15px 20px;
+    max-height: 800px; /* Arbitrary large value to allow animation */
+}
+.tip-icon {
+    transition: transform 0.3s ease;
+    color: #3b82f6;
+}
+.tip-header.active .tip-icon {
+    transform: rotate(180deg);
+}
+
 /* Specific styling for Popular Videos and Playlists titles */
 .popular-video-section h2 {
     border-bottom: 1px solid #ddd;

@@ -4,7 +4,10 @@ document.addEventListener('DOMContentLoaded', function () {
     // Load updates on page load
     const updateList = document.getElementById("update-list");
     if (updateList) {
-    // Check for data-show-all attribute
+        const showAll = updateList.getAttribute("data-show-all") === "true";
+        loadUpdates(showAll);
+    }
+
     // Load popular videos
     const popularVideosGrid = document.getElementById("popular-videos-grid");
     if (popularVideosGrid) {
@@ -16,12 +19,12 @@ document.addEventListener('DOMContentLoaded', function () {
     if (popularPlaylistsGrid) {
         loadPopularPlaylists();
     }
-    
-     
 
-    const showAll = updateList.getAttribute("data-show-all") === "true";
-    loadUpdates(showAll);
-  }
+    // Load Exam Tips
+    const examTipsContainer = document.getElementById("exam-tips-container");
+    if (examTipsContainer) {
+        loadExamTips();
+    }
 
     function loadUpdates(showAll = false) {
         var xhr = new XMLHttpRequest();
@@ -163,6 +166,44 @@ document.addEventListener('DOMContentLoaded', function () {
             .catch(error => console.error('Error fetching popular playlists:', error));
     }
 
+    function loadExamTips() {
+        fetch('data/exam-tips.xml')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, "application/xml");
+                const tips = xmlDoc.getElementsByTagName("tip");
+                const container = document.getElementById('exam-tips-container');
+                
+                for (let i = 0; i < tips.length; i++) {
+                    const title = tips[i].getElementsByTagName("title")[0].textContent;
+                    const content = tips[i].getElementsByTagName("content")[0].textContent;
+                    
+                    const tipItem = document.createElement('div');
+                    tipItem.className = 'tip-item';
+                    
+                    tipItem.innerHTML = `
+                        <div class="tip-header">
+                            <span><i class="fas fa-check-circle" style="color: #10b981; margin-right: 10px;"></i> ${title}</span>
+                            <i class="fas fa-chevron-down tip-icon"></i>
+                        </div>
+                        <div class="tip-content">
+                            <p>${content}</p>
+                        </div>
+                    `;
+                    
+                    // Click event to toggle Accordion
+                    tipItem.querySelector('.tip-header').addEventListener('click', function() {
+                        this.classList.toggle('active');
+                        const contentDiv = this.nextElementSibling;
+                        contentDiv.classList.toggle('open');
+                    });
+                    
+                    container.appendChild(tipItem);
+                }
+            })
+            .catch(error => console.error('Error fetching exam tips:', error));
+    }
 
 
 

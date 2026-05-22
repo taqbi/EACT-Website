@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam-tips>
+    <tip>
+        <title>How to Solve Assertion-Reasoning (A-R) Questions</title>
+        <content><![CDATA[Assertion-Reasoning (A-R) questions are designed to test not just your factual knowledge, but your logical understanding of cause-and-effect relationships.<br><br>
+Here is the breakdown of what they mean and the foolproof method for solving them.<br><br>
+<b>1. What Do They Mean?</b><br>
+<b>Assertion (A):</b> A direct statement, claim, or declaration of fact. (e.g., "The sky appears blue during the day.")<br>
+<b>Reason (R):</b> A statement provided as the explanation, cause, or justification for the Assertion. (e.g., "Molecules in the air scatter blue light from the sun more than they scatter red light.")<br><br>
+<b>2. The Standard Options</b><br>
+Almost all A-R questions use this exact set of four options:<br>
+(A) Both A and R are true, and R correctly explains A.<br>
+(B) Both A and R are true, but R does NOT explain A.<br>
+(C) A is true, but R is false.<br>
+(D) A is false, but R is true.<br><br>
+<b>3. The 3-Step Method to Solve Them</b><br>
+The biggest mistake people make is reading both statements together immediately. To solve these reliably, you must treat them as a two-part test.<br><br>
+<b>Step 1: The Independent Truth Test</b><br>
+Cover up the Reason (R) and read only the Assertion (A). Ask yourself: Is this statement factually true or false on its own?<br>
+Then, cover up the Assertion and read only the Reason (R). Ask yourself: Is this statement factually true or false on its own?<br><br>
+If A is True and R is False → The answer is (C).<br>
+If A is False and R is True → The answer is (D).<br><br>
+If one of the statements is false, you are done. You don't need to overthink the relationship between them.<br><br>
+<b>Step 2: The "Because" Test (If both are True)</b><br>
+If you determine that BOTH statements are factually true independently, your answer must be either (A) or (B). This is where you test the linkage.<br>
+Read the Assertion, insert the word "BECAUSE", and then read the Reason.<br>
+"[Assertion] ... BECAUSE ... [Reason]"<br><br>
+<b>Step 3: Evaluate the Link</b><br>
+<b>Result A:</b> If the combined sentence makes logical sense and the Reason actually answers why the Assertion happens, the answer is (A).<br>
+<b>Result B:</b> If the statements are just two random true facts that don't explain each other, the answer is (B).]]></content>
+    </tip>
+   
+</exam-tips>
