@@ -894,12 +894,17 @@ body::after {
     border-radius: 10px;
     overflow: hidden;
     border: 1px solid #e0e7ef;
+    /* Make table scrollable on mobile */
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
 }
 .article-body th, .article-body td {
     border-bottom: 1px solid #e0e7ef;
     border-right: 1px solid #e0e7ef;
     padding: 14px 18px;
     text-align: left;
+    font-size: 0.9rem; /* Slightly smaller font for better mobile viewing */
 }
 .article-body th:last-child, .article-body td:last-child {
     border-right: none;
