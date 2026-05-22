@@ -684,6 +684,7 @@ body::after {
     padding: 0 20px;
     min-height: 60vh;
     width: 100%;
+    box-sizing: border-box;
 }
 .subjects-grid {
     display: grid;
@@ -699,6 +700,7 @@ body::after {
     cursor: pointer;
     box-shadow: 0 8px 25px rgba(0, 30, 80, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-sizing: border-box;
 }
 .subject-card:hover {
     transform: translateY(-8px);
@@ -714,7 +716,7 @@ body::after {
 }
 .articles-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 20px;
 }
 .article-card {
@@ -727,6 +729,7 @@ body::after {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 .article-card:hover {
     transform: translateY(-5px);
@@ -783,6 +786,8 @@ body::after {
     border-radius: 16px;
     box-shadow: 0 8px 30px rgba(0, 30, 80, 0.08);
     border: 1px solid #e0e7ef;
+    box-sizing: border-box;
+    width: 100%;
 }
 .article-content-area .article-title {
     font-size: 2.2rem;
@@ -806,8 +811,61 @@ body::after {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    margin: 20px 0;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    display: block;
+    margin: 25px auto;
+}
+
+/* Universal Article Image Wrappers & Captions */
+.article-image-wrapper {
+    text-align: center;
+    margin: 35px 0;
+}
+.article-image-wrapper img {
+    margin: 0 auto 12px auto;
+    border: 1px solid #e0e7ef;
+    max-width: 650px;
+    width: 100%;
+}
+.article-image-caption {
+    font-size: 0.85rem;
+    color: #6c757d;
+    display: block;
+    font-style: italic;
+}
+
+/* Universal Article Tables */
+.article-body table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 30px 0;
+    font-size: 0.95rem;
+    background-color: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 30, 80, 0.05);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #e0e7ef;
+}
+.article-body th, .article-body td {
+    border-bottom: 1px solid #e0e7ef;
+    border-right: 1px solid #e0e7ef;
+    padding: 14px 18px;
+    text-align: left;
+}
+.article-body th:last-child, .article-body td:last-child {
+    border-right: none;
+}
+.article-body tr:last-child td {
+    border-bottom: none;
+}
+.article-body th {
+    background-color: #f8faff;
+    font-weight: 600;
+    color: #1f2a44;
+}
+.article-body tr:nth-child(even) td {
+    background-color: #fafbfd;
 }
 
 /* Specific styling for Popular Videos and Playlists titles */
