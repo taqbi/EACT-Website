@@ -390,11 +390,779 @@ Which statements are correct?</text>
     
     
     
+
+
+
+<test name="JKSSB FAA Accountancy Sectional Mock Test 2" type="subject" isLive="No" duration="30">
+    <correctMarks>1</correctMarks>
+    <negativeMarks>0.25</negativeMarks>
+
+    <!-- Question 1 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following transactions will increase both assets and liabilities simultaneously?</text>
+        <option>Purchase of machinery for cash</option>
+        <option>Goods sold on credit</option>
+        <option>Loan taken from bank and credited to current account</option>
+        <option>Payment made to creditors</option>
+        <answer>Loan taken from bank and credited to current account</answer>
+        <explanation>Bank balance (asset) increases, and bank loan (liability) also increases.</explanation>
+    </question>
+
+    <!-- Question 2 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A Trial Balance tallies even though one transaction has been completely omitted from the books. Which type of error is this?</text>
+        <option>Error of principle</option>
+        <option>Compensating error</option>
+        <option>Error of omission</option>
+        <option>Error of commission</option>
+        <answer>Error of omission</answer>
+        <explanation>Complete omission does not affect agreement of Trial Balance.</explanation>
+    </question>
+
+    <!-- Question 3 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is correctly matched?</text>
+        <option>Outstanding expenses – Nominal account</option>
+        <option>Provision for doubtful debts – Personal account</option>
+        <option>Capital account – Real account</option>
+        <option>Machinery account – Nominal account</option>
+        <answer>Provision for doubtful debts – Personal account</answer>
+        <explanation>Provision for doubtful debts is generally treated as a Personal Account because it relates to debtors.</explanation>
+    </question>
+
+    <!-- Question 4 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A cheque issued to a supplier was entered twice in the Cash Book. The effect on Bank Reconciliation Statement, starting with Cash Book balance, will be:</text>
+        <option>Add the excess amount</option>
+        <option>Deduct the excess amount</option>
+        <option>No adjustment required</option>
+        <option>Add half the amount</option>
+        <answer>Add the excess amount</answer>
+        <explanation>Cash Book shows lower balance due to excess credit entry; hence excess amount is added back.</explanation>
+    </question>
+
+    <!-- Question 5 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following statements regarding depreciation is correct?</text>
+        <option>Depreciation is charged to ascertain cash profit</option>
+        <option>Depreciation is provided even if the business incurs loss</option>
+        <option>Depreciation is recorded only when asset value falls permanently</option>
+        <option>Depreciation is charged only on current assets</option>
+        <answer>Depreciation is provided even if the business incurs loss</answer>
+        <explanation>Depreciation must be provided irrespective of profit or loss to match cost of asset with revenue earned.</explanation>
+    </question>
+
+    <!-- Question 6 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Under double entry system, every transaction affects:</text>
+        <option>Two assets only</option>
+        <option>One account only</option>
+        <option>Minimum two accounts</option>
+        <option>Minimum three accounts</option>
+        <answer>Minimum two accounts</answer>
+        <explanation>Every transaction has dual aspect affecting at least two accounts.</explanation>
+    </question>
+
+    <!-- Question 7 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business purchased goods worth ₹40,000 and returned goods worth ₹5,000 before payment. The amount payable to supplier will be:</text>
+        <option>₹45,000</option>
+        <option>₹40,000</option>
+        <option>₹35,000</option>
+        <option>₹5,000</option>
+        <answer>₹35,000</answer>
+        <explanation>Net payable = 40,000 – 5,000.</explanation>
+    </question>
+
+    <!-- Question 8 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following would generally appear on the debit side of a Trading Account?</text>
+        <option>Carriage outward</option>
+        <option>Salaries to office staff</option>
+        <option>Closing stock</option>
+        <option>Wages relating to production</option>
+        <answer>Wages relating to production</answer>
+        <explanation>Direct manufacturing expenses are debited to Trading Account.</explanation>
+    </question>
+
+    <!-- Question 9 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A cheque deposited into bank was entered in Cash Book but omitted by the bank till date. While preparing Bank Reconciliation Statement starting from Cash Book balance, the amount should be:</text>
+        <option>Added</option>
+        <option>Deduct</option>
+        <option>Ignored</option>
+        <option>Doubled</option>
+        <answer>Deduct</answer>
+        <explanation>Cash Book balance is higher because bank has not yet credited the cheque. Therefore, the amount is deducted while reconciling.</explanation>
+    </question>
+
+    <!-- Question 10 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following errors will NOT affect the agreement of Trial Balance?</text>
+        <option>Wrong casting of Purchases Book</option>
+        <option>Posting to wrong side of an account</option>
+        <option>Omission of posting from subsidiary book</option>
+        <option>Posting equal amount to wrong account</option>
+        <answer>Posting equal amount to wrong account</answer>
+        <explanation>Equal debit and credit effect remains intact.</explanation>
+    </question>
+
+    <!-- Question 11 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A partner is entitled to salary of ₹8,000 per month. If omitted earlier, adjustment at year-end will:</text>
+        <option>Increase profit and increase capital</option>
+        <option>Reduce profit and increase that partner’s capital</option>
+        <option>Reduce profit and reduce that partner’s capital</option>
+        <option>Have no effect on profit</option>
+        <answer>Reduce profit and increase that partner’s capital</answer>
+        <explanation>Partner’s salary is appropriation reducing divisible profit.</explanation>
+    </question>
+
+    <!-- Question 12 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is treated as an appropriation of profit?</text>
+        <option>Interest on loan by partner</option>
+        <option>Rent paid to partner for premises</option>
+        <option>Interest on capital to partner</option>
+        <option>Salary to employee</option>
+        <answer>Interest on capital to partner</answer>
+        <explanation>Interest on capital is distribution of profit among partners.</explanation>
+    </question>
+
+    <!-- Question 13 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>The main objective of preparing a Bank Reconciliation Statement is to:</text>
+        <option>Detect fraud by cashier</option>
+        <option>Ascertain bank balance as per cash book</option>
+        <option>Reconcile differences between bank and cash book balances</option>
+        <option>Correct all accounting errors</option>
+        <answer>Reconcile differences between bank and cash book balances</answer>
+        <explanation>BRS explains timing and recording differences.</explanation>
+    </question>
+
+    <!-- Question 14 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which item is generally classified as a current liability?</text>
+        <option>Debentures redeemable after 7 years</option>
+        <option>Provision for taxation</option>
+        <option>Goodwill</option>
+        <option>Land and building</option>
+        <answer>Provision for taxation</answer>
+        <explanation>Provision for taxation is expected to be settled within operating cycle.</explanation>
+    </question>
+
+    <!-- Question 15 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business receives advance from customer for supply of goods next month. The amount received should be credited to:</text>
+        <option>Sales Account</option>
+        <option>Capital Account</option>
+        <option>Outstanding Income Account</option>
+        <option>Unearned Revenue Account</option>
+        <answer>Unearned Revenue Account</answer>
+        <explanation>Advance from customer represents liability until goods are supplied.</explanation>
+    </question>
+
+    <!-- Question 16 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>In cost accounting, abnormal loss of material is generally transferred to:</text>
+        <option>Stores Ledger Control Account</option>
+        <option>Costing Profit &amp; Loss Account</option>
+        <option>Work-in-Progress Account</option>
+        <option>Finished Goods Account</option>
+        <answer>Costing Profit &amp; Loss Account</answer>
+        <explanation>Abnormal losses are excluded from cost of production.</explanation>
+    </question>
+
+    <!-- Question 17 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following budgets is most closely associated with cash management?</text>
+        <option>Production budget</option>
+        <option>Flexible budget</option>
+        <option>Cash budget</option>
+        <option>Sales budget</option>
+        <answer>Cash budget</answer>
+        <explanation>Cash budget forecasts inflows and outflows.</explanation>
+    </question>
+
+    <!-- Question 18 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A company purchased machinery for ₹2,00,000 and spent ₹15,000 on installation. Annual depreciation @10% on original cost will be:</text>
+        <option>₹20,000</option>
+        <option>₹21,500</option>
+        <option>₹18,500</option>
+        <option>₹2,15,000</option>
+        <answer>₹21,500</answer>
+        <explanation>Depreciable cost = 2,15,000; depreciation = 21,500.</explanation>
+    </question>
+
+    <!-- Question 19 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following statements regarding GST is correct?</text>
+        <option>GST is a direct tax collected on income</option>
+        <option>GST is levied only by Central Government</option>
+        <option>Input tax credit mechanism avoids cascading effect</option>
+        <option>GST applies only to goods and not services</option>
+        <answer>Input tax credit mechanism avoids cascading effect</answer>
+        <explanation>Input tax credit eliminates tax-on-tax effect.</explanation>
+    </question>
+
+    <!-- Question 20 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Income tax paid by a sole proprietor is treated as:</text>
+        <option>Business expense</option>
+        <option>Administrative expense</option>
+        <option>Drawings</option>
+        <option>Outstanding liability</option>
+        <answer>Drawings</answer>
+        <explanation>Proprietor and business are not separate legal entities.</explanation>
+    </question>
+
+    <!-- Question 21 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following would increase gross profit?</text>
+        <option>Increase in carriage outward</option>
+        <option>Increase in purchase returns</option>
+        <option>Increase in office salaries</option>
+        <option>Increase in bad debts</option>
+        <answer>Increase in purchase returns</answer>
+        <explanation>Purchase returns reduce cost of goods sold.</explanation>
+    </question>
+
+    <!-- Question 22 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is NOT a feature of PFMS?</text>
+        <option>Real-time tracking of funds</option>
+        <option>Electronic payment system</option>
+        <option>Blockchain-based audit mechanism mandatory for all departments</option>
+        <option>Integration with government accounting network</option>
+        <answer>Blockchain-based audit mechanism mandatory for all departments</answer>
+        <explanation>PFMS is fund tracking and payment platform; blockchain audit is not mandatory feature.</explanation>
+    </question>
+
+    <!-- Question 23 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A machine costing ₹1,20,000 is sold for ₹1,05,000. Accumulated depreciation on the machine is ₹10,000. The transaction results in:</text>
+        <option>Profit of ₹5,000</option>
+        <option>Loss of ₹5,000</option>
+        <option>Profit of ₹15,000</option>
+        <option>No profit no loss</option>
+        <answer>Loss of ₹5,000</answer>
+        <explanation>Book value = 1,10,000; sold for 1,05,000; loss = 5,000.</explanation>
+    </question>
+
+    <!-- Question 24 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which financial statement primarily explains changes in cash and cash equivalents?</text>
+        <option>Balance Sheet</option>
+        <option>Funds Flow Statement</option>
+        <option>Cash Flow Statement</option>
+        <option>Profit &amp; Loss Account</option>
+        <answer>Cash Flow Statement</answer>
+        <explanation>Cash Flow Statement records movement of cash and cash equivalents.</explanation>
+    </question>
+
+    <!-- Question 25 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Statement I: Capital expenditure increases earning capacity.
+Statement II: Revenue expenditure generally benefits only current accounting period.</text>
+        <option>Both statements are correct</option>
+        <option>Both statements are incorrect</option>
+        <option>Statement I correct, II incorrect</option>
+        <option>Statement I incorrect, II correct</option>
+        <answer>Both statements are correct</answer>
+        <explanation>Capital expenditure provides long-term benefit; revenue expenditure is period-specific.</explanation>
+    </question>
+
+    <!-- Question 26 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>If closing stock is undervalued at year-end, the immediate effect will be:</text>
+        <option>Overstatement of gross profit</option>
+        <option>Understatement of current assets</option>
+        <option>Overstatement of capital</option>
+        <option>Overstatement of purchases</option>
+        <answer>Understatement of current assets</answer>
+        <explanation>Closing stock appears as current asset; undervaluation understates assets and profit.</explanation>
+    </question>
+
+    <!-- Question 27 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is most likely to cause disagreement in Trial Balance?</text>
+        <option>Sale of old furniture recorded in Sales Account</option>
+        <option>Purchase omitted from Purchases Book</option>
+        <option>Wrong total of Returns Inward Book</option>
+        <option>Depreciation not recorded</option>
+        <answer>Wrong total of Returns Inward Book</answer>
+        <explanation>Wrong totaling affects one side differently causing imbalance.</explanation>
+    </question>
+
+    <!-- Question 28 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following incomes is exempt from tax under the Income-tax Act?</text>
+        <option>Agricultural income</option>
+        <option>Salary income</option>
+        <option>Interest on bank deposits</option>
+        <option>Lottery winnings</option>
+        <answer>Agricultural income</answer>
+        <explanation>Agricultural income is exempt from tax under the Income-tax Act, though it may be considered for rate purposes in certain cases.</explanation>
+    </question>
+
+    <!-- Question 29 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which ratio indicates the relationship between current assets and current liabilities?</text>
+        <option>Debt-equity ratio</option>
+        <option>Proprietary ratio</option>
+        <option>Current ratio</option>
+        <option>Gross profit ratio</option>
+        <answer>Current ratio</answer>
+        <explanation>Current ratio measures short-term liquidity by comparing current assets with current liabilities.</explanation>
+    </question>
+
+    <!-- Question 30 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Under single entry system, which accounting record is generally incomplete?</text>
+        <option>Cash transactions only</option>
+        <option>Personal accounts only</option>
+        <option>Both personal and real accounts</option>
+        <option>Double aspect of transactions</option>
+        <answer>Double aspect of transactions</answer>
+        <explanation>Single entry system does not maintain complete double-entry records; hence dual aspect of transactions is incomplete.</explanation>
+    </question>
+</test>
     
     
     
     
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<test name="JKSSB FAA Accountancy Sectional Mock Test 3" type="subject" isLive="No" duration="30">
+    <correctMarks>1</correctMarks>
+    <negativeMarks>0.25</negativeMarks>
+
+    <!-- Question 1 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A transaction was correctly journalised but posted to the debit side of the concerned personal account instead of the credit side. What will be the effect on Trial Balance?</text>
+        <option>Difference equal to transaction amount</option>
+        <option>Difference equal to half of transaction amount</option>
+        <option>Difference equal to double the transaction amount</option>
+        <option>No effect on Trial Balance</option>
+        <answer>Difference equal to double the transaction amount</answer>
+        <explanation>Correct debit exists, but instead of credit entry another debit is posted, creating double effect on debit side.</explanation>
+    </question>
+
+    <!-- Question 2 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following situations indicates overstatement of profit?</text>
+        <option>Closing stock undervalued</option>
+        <option>Outstanding wages omitted</option>
+        <option>Depreciation charged twice</option>
+        <option>Provision for doubtful debts created excessively</option>
+        <answer>Outstanding wages omitted</answer>
+        <explanation>Omission of outstanding wages understates expenses and overstates profit.</explanation>
+    </question>
+
+    <!-- Question 3 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Assertion (A): A Suspense Account may continue to exist even after partial rectification of errors.
+Reason (R): Some errors affecting only one side of Trial Balance may remain unidentified.</text>
+        <option>Both A and R are true and R correctly explains A</option>
+        <option>Both A and R are true but R does not explain A</option>
+        <option>A is true but R is false</option>
+        <option>A is false but R is true</option>
+        <answer>Both A and R are true and R correctly explains A</answer>
+        <explanation>Suspense Account persists until all one-sided errors are rectified.</explanation>
+    </question>
+
+    <!-- Question 4 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business receives ₹48,000 from a debtor in full settlement of ₹50,000. Which combination correctly represents the accounting effect?</text>
+        <option>Debit Cash ₹48,000; Debit Discount Allowed ₹2,000</option>
+        <option>Credit Cash ₹48,000; Debit Debtor ₹50,000</option>
+        <option>Debit Cash ₹50,000; Credit Discount Allowed ₹2,000</option>
+        <option>Debit Debtor ₹48,000; Credit Cash ₹48,000</option>
+        <answer>Debit Cash ₹48,000; Debit Discount Allowed ₹2,000</answer>
+        <explanation>Discount allowed is an expense debited along with cash receipt.</explanation>
+    </question>
+
+    <!-- Question 5 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following errors will affect Gross Profit but not Net Profit?</text>
+        <option>Misclassification of carriage outward as carriage inward</option>
+        <option>Omission of outstanding salary</option>
+        <option>Depreciation omitted</option>
+        <option>Commission income omitted</option>
+        <answer>Misclassification of carriage outward as carriage inward</answer>
+        <explanation>Carriage inward affects Trading Account while carriage outward affects P&amp;L; net profit remains unchanged overall.</explanation>
+    </question>
+
+    <!-- Question 6 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A cheque deposited into bank was dishonoured but no entry was passed in Cash Book. While preparing BRS starting from Cash Book balance, the dishonoured cheque amount should be:</text>
+        <option>Added</option>
+        <option>Deducted</option>
+        <option>Ignored</option>
+        <option>Doubled and deducted</option>
+        <answer>Deducted</answer>
+        <explanation>Bank balance is lower than Cash Book due to dishonour not recorded in books.</explanation>
+    </question>
+
+    <!-- Question 7 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is NOT generally treated as a current asset?</text>
+        <option>Prepaid insurance</option>
+        <option>Bills receivable</option>
+        <option>Investment intended to be held for 5 years</option>
+        <option>Inventory</option>
+        <answer>Investment intended to be held for 5 years</answer>
+        <explanation>Long-term investments are non-current assets.</explanation>
+    </question>
+
+    <!-- Question 8 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A firm maintains perpetual inventory records. Physical verification reveals shortage of stock. Such shortage is generally transferred to:</text>
+        <option>Costing Profit &amp; Loss Account</option>
+        <option>Stores Ledger Control Account</option>
+        <option>Production Overheads Account</option>
+        <option>Abnormal Loss Account</option>
+        <answer>Abnormal Loss Account</answer>
+        <explanation>Abnormal shortages are separately identified and charged.</explanation>
+    </question>
+
+    <!-- Question 9 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Statement I: Capital reserve generally arises from capital profits.
+Statement II: Capital reserve is freely distributable as dividend.</text>
+        <option>Both statements are correct</option>
+        <option>Both statements are incorrect</option>
+        <option>Statement I correct, II incorrect</option>
+        <option>Statement I incorrect, II correct</option>
+        <answer>Statement I correct, II incorrect</answer>
+        <explanation>Capital reserve is generally not available for dividend distribution.</explanation>
+    </question>
+
+    <!-- Question 10 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A partner is guaranteed minimum profit of ₹1,20,000. Actual share of profit comes to ₹95,000. Deficiency is generally borne by:</text>
+        <option>All partners equally</option>
+        <option>Guaranteeing partners</option>
+        <option>Firm as business loss</option>
+        <option>Incoming partner only</option>
+        <answer>Guaranteeing partners</answer>
+        <explanation>Guarantee deficiency is borne by partners giving guarantee.</explanation>
+    </question>
+
+    <!-- Question 11 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following transactions results in increase in working capital?</text>
+        <option>Redemption of debentures in cash</option>
+        <option>Purchase of machinery for cash</option>
+        <option>Issue of shares for cash</option>
+        <option>Payment to creditors</option>
+        <answer>Issue of shares for cash</answer>
+        <explanation>Current asset increases without increase in current liabilities.</explanation>
+    </question>
+
+    <!-- Question 12 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>In a Bank Reconciliation Statement, bank charges entered only in Pass Book will:</text>
+        <option>Increase Cash Book balance</option>
+        <option>Require addition while starting from Pass Book balance</option>
+        <option>Require deduction while starting from Cash Book balance</option>
+        <option>Have no impact</option>
+        <answer>Require deduction while starting from Cash Book balance</answer>
+        <explanation>Cash Book balance is overstated due to omission of charges.</explanation>
+    </question>
+
+    <!-- Question 13 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following best explains the concept of conservatism in accounting?</text>
+        <option>Anticipate profits but not losses</option>
+        <option>Recognise all gains immediately</option>
+        <option>Provide for expected losses but not unrealised gains</option>
+        <option>Record assets at replacement cost</option>
+        <answer>Provide for expected losses but not unrealised gains</answer>
+        <explanation>Conservatism requires cautious recognition of income and losses.</explanation>
+    </question>
+
+    <!-- Question 14 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A company purchased goods for ₹80,000 and paid GST @18%. Input tax credit available will be:</text>
+        <option>Treated as indirect expense</option>
+        <option>Added to cost of purchases</option>
+        <option>Recognised separately as recoverable tax</option>
+        <option>Credited to Sales Account</option>
+        <answer>Recognised separately as recoverable tax</answer>
+        <explanation>Eligible GST input credit is recoverable from tax authorities.</explanation>
+    </question>
+
+    <!-- Question 15 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is most likely to cause understatement of liabilities?</text>
+        <option>Purchase book overcast</option>
+        <option>Omission of accrued expenses</option>
+        <option>Credit sale treated as cash sale</option>
+        <option>Depreciation charged excessively</option>
+        <answer>Omission of accrued expenses</answer>
+        <explanation>Accrued expenses represent liabilities due but unpaid.</explanation>
+    </question>
+
+    <!-- Question 16 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>If fixed cost per unit decreases with increase in output, it indicates:</text>
+        <option>Marginal costing principle</option>
+        <option>Fixed cost absorption effect</option>
+        <option>Over-capitalisation</option>
+        <option>Idle capacity loss</option>
+        <answer>Fixed cost absorption effect</answer>
+        <explanation>Fixed cost gets spread over larger production volume.</explanation>
+    </question>
+
+    <!-- Question 17 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business sold old furniture having book value ₹18,000 for ₹22,000. Which statement is correct?</text>
+        <option>Revenue profit of ₹4,000</option>
+        <option>Capital profit of ₹4,000</option>
+        <option>Operating income of ₹22,000</option>
+        <option>Extraordinary gain of ₹18,000</option>
+        <answer>Capital profit of ₹4,000</answer>
+        <explanation>Profit on sale of fixed asset is capital profit.</explanation>
+    </question>
+
+    <!-- Question 18 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following would improve the current ratio?</text>
+        <option>Purchase of inventory on credit</option>
+        <option>Payment to trade creditors</option>
+        <option>Purchase of machinery for cash</option>
+        <option>Withdrawal of cash by proprietor</option>
+        <answer>Payment to trade creditors</answer>
+        <explanation>Both current assets and liabilities reduce, improving ratio when ratio exceeds 1.</explanation>
+    </question>
+
+    <!-- Question 19 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Under partnership accounts, interest on drawings is:</text>
+        <option>Charge against profit</option>
+        <option>Appropriation of profit</option>
+        <option>Gain to the firm</option>
+        <option>Liability against bank loan</option>
+        <answer>Gain to the firm</answer>
+        <explanation>Interest on drawings increases firm’s income.</explanation>
+    </question>
+
+    <!-- Question 20 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is correctly classified?</text>
+        <option>Discount on issue of shares – Current asset</option>
+        <option>Outstanding rent – Fictitious asset</option>
+        <option>Preliminary expenses – Deferred revenue expenditure/fictitious asset</option>
+        <option>Goodwill – Current asset</option>
+        <answer>Preliminary expenses – Deferred revenue expenditure/fictitious asset</answer>
+        <explanation>Preliminary expenses are not tangible assets and are treated separately.</explanation>
+    </question>
+
+    <!-- Question 21 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A taxpayer supplies exempt goods only. Which statement is correct regarding GST input tax credit?</text>
+        <option>Fully available</option>
+        <option>Partially available compulsorily</option>
+        <option>Not available</option>
+        <option>Available only on capital goods</option>
+        <answer>Not available</answer>
+        <explanation>ITC is unavailable against exempt outward supplies.</explanation>
+    </question>
+
+    <!-- Question 22 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Assertion (A): Trial Balance is not conclusive proof of accuracy of accounts.
+Reason (R): Certain errors do not affect arithmetical agreement of Trial Balance.</text>
+        <option>Both A and R are true and R correctly explains A</option>
+        <option>Both A and R are true but R does not explain A</option>
+        <option>A is true but R is false</option>
+        <option>A is false but R is true</option>
+        <answer>Both A and R are true and R correctly explains A</answer>
+        <explanation>Errors like omission and compensating errors may still exist.</explanation>
+    </question>
+
+    <!-- Question 23 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A firm follows straight line depreciation method. Failure to charge depreciation for one year will:</text>
+        <option>Understate assets and overstate profit</option>
+        <option>Overstate assets and overstate profit</option>
+        <option>Overstate liabilities only</option>
+        <option>Understate capital only</option>
+        <answer>Overstate assets and overstate profit</answer>
+        <explanation>Depreciation omission inflates both asset value and profit.</explanation>
+    </question>
+
+    <!-- Question 24 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which item would appear in Cash Flow from Financing Activities?</text>
+        <option>Cash paid to suppliers</option>
+        <option>Cash received from issue of debentures</option>
+        <option>Interest received on investments by finance company</option>
+        <option>Purchase of inventory</option>
+        <answer>Cash received from issue of debentures</answer>
+        <explanation>Financing activities relate to long-term capital and borrowings.</explanation>
+    </question>
+
+    <!-- Question 25 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A rectification entry involving Suspense Account is passed only when:</text>
+        <option>Error affects nominal accounts</option>
+        <option>Error affects personal accounts</option>
+        <option>Trial Balance does not agree</option>
+        <option>Cash Book is omitted</option>
+        <answer>Trial Balance does not agree</answer>
+        <explanation>Suspense Account is opened to temporarily balance Trial Balance.</explanation>
+    </question>
+
+    <!-- Question 26 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Which of the following is an example of contingent liability?</text>
+        <option>Outstanding wages</option>
+        <option>Bills payable</option>
+        <option>Pending lawsuit against business</option>
+        <option>Accrued commission</option>
+        <answer>Pending lawsuit against business</answer>
+        <explanation>Liability depends on uncertain future event.</explanation>
+    </question>
+
+    <!-- Question 27 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>In marginal costing, contribution is equal to:</text>
+        <option>Sales – Fixed Cost</option>
+        <option>Fixed Cost + Profit</option>
+        <option>Sales – Variable Cost</option>
+        <option>Profit – Variable Cost</option>
+        <answer>Sales – Variable Cost</answer>
+        <explanation>Contribution helps recover fixed costs and profit.</explanation>
+    </question>
+
+    <!-- Question 28 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business records purchase of office furniture in Purchases Account. This error violates:</text>
+        <option>Matching concept</option>
+        <option>Money measurement concept</option>
+        <option>Accounting period concept</option>
+        <option>Principle of correct classification</option>
+        <answer>Principle of correct classification</answer>
+        <explanation>Capital expenditure wrongly treated as revenue expenditure.</explanation>
+    </question>
+
+    <!-- Question 29 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>Consider the following regarding PFMS:
+1. PFMS facilitates direct benefit transfer tracking.
+2. PFMS is used for real-time monitoring of government expenditure.
+3. PFMS replaces statutory audit conducted by CAG.</text>
+        <option>1 and 2 only</option>
+        <option>2 and 3 only</option>
+        <option>1 and 3 only</option>
+        <option>1, 2 and 3</option>
+        <answer>1 and 2 only</answer>
+        <explanation>PFMS supports fund monitoring and DBT, not replacement of statutory audit.</explanation>
+    </question>
+
+    <!-- Question 30 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A business has current assets of ₹6,00,000 and current ratio of 2:1. If it pays ₹50,000 to trade creditors, revised current ratio will be:</text>
+        <option>1.8 : 1</option>
+        <option>2.2 : 1</option>
+        <option>2.09 : 1</option>
+        <option>1.5 : 1</option>
+        <answer>2.2 : 1</answer>
+        <explanation>Original Current liabilities = 3,00,000. After paying 50k: CA = 5,50,000; CL = 2,50,000; Ratio = 5,50,000 / 2,50,000 = 2.2:1.</explanation>
+    </question>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
