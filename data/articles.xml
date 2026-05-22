@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+    <article>
+        <subject>General Knowledge</subject>
+        <title>The Impact of AI on Modern Education</title>
+        <topic>Technology</topic>
+        <date>2026-05-22</date>
+        <author>Tawqeer ul Islam</author>
+        <summary>Explore how Artificial Intelligence is transforming the educational landscape, bringing both opportunities and challenges for students.</summary>
+        <content><![CDATA[
+            <p>Artificial Intelligence (AI) has rapidly transitioned from a futuristic concept to a practical tool that influences many aspects of our daily lives, including education. It provides tailored learning experiences, helping students grasp complex topics at their own pace.</p>
+            <h3>Key Benefits</h3>
+            <ul>
+                <li><strong>Personalized Learning:</strong> AI can analyze a student's performance and adapt the material accordingly.</li>
+                <li><strong>24/7 Assistance:</strong> Chatbots and virtual tutors are available around the clock to answer queries.</li>
+            </ul>
+            <p>While the benefits are significant, it's also crucial to consider the ethical implications, such as data privacy and the potential for reduced human interaction in the classroom.</p>
+        ]]></content>
+    </article>
+    <article>
+        <subject>Accountancy</subject>
+        <title>Understanding the Union Budget</title>
+        <topic>Economics</topic>
+        <date>2026-05-18</date>
+        <author>CA Mohammad Lateef</author>
+        <summary>A comprehensive breakdown of how the Union Budget is formulated and its impact on the economy.</summary>
+        <content><![CDATA[
+            <p>The Union Budget of India, also referred to as the Annual Financial Statement in Article 112 of the Constitution, is the annual budget of the Republic of India. The Government presents it on the first day of February so that it can be materialized before the beginning of the new financial year in April.</p>
+            <h3>Core Components</h3>
+            <p>The budget is divided into two major parts:</p>
+            <ol>
+                <li><strong>Revenue Budget:</strong> It includes the government's revenue receipts and expenditure.</li>
+                <li><strong>Capital Budget:</strong> It includes capital receipts and payments, dealing with assets and liabilities.</li>
+            </ol>
+        ]]></content>
+    </article>
+</articles>

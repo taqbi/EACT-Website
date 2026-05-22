@@ -26,6 +26,12 @@ document.addEventListener('DOMContentLoaded', function () {
         loadExamTips();
     }
 
+    // Load Articles
+    const articlesMainContainer = document.getElementById("articles-main-container");
+    if (articlesMainContainer) {
+        loadArticles();
+    }
+
     function loadUpdates(showAll = false) {
         var xhr = new XMLHttpRequest();
         xhr.open("GET", "data/updates.xml", true);
@@ -205,6 +211,114 @@ document.addEventListener('DOMContentLoaded', function () {
             .catch(error => console.error('Error fetching exam tips:', error));
     }
 
+    function loadArticles() {
+        fetch('data/articles.xml')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, "application/xml");
+                const articles = xmlDoc.getElementsByTagName("article");
+                
+                const articlesData = [];
+                const subjectsSet = new Set();
+                
+                for (let i = 0; i < articles.length; i++) {
+                    const subject = articles[i].getElementsByTagName("subject")[0]?.textContent || "General";
+                    const title = articles[i].getElementsByTagName("title")[0]?.textContent || "Untitled";
+                    const topic = articles[i].getElementsByTagName("topic")[0]?.textContent || "Misc";
+                    const date = articles[i].getElementsByTagName("date")[0]?.textContent || "";
+                    const author = articles[i].getElementsByTagName("author")[0]?.textContent || "Admin";
+                    const summary = articles[i].getElementsByTagName("summary")[0]?.textContent || "";
+                    const content = articles[i].getElementsByTagName("content")[0]?.textContent || "";
+                    
+                    subjectsSet.add(subject);
+                    articlesData.push({ subject, title, topic, date, author, summary, content });
+                }
+                
+                const subjectsView = document.getElementById('subjects-view');
+                const articlesListView = document.getElementById('articles-list-view');
+                const articleDetailView = document.getElementById('article-detail-view');
+                const articlesListGrid = document.getElementById('articles-list-grid');
+                const articleContentArea = document.getElementById('article-content-area');
+                
+                // Render Subject Cards
+                subjectsSet.forEach(subject => {
+                    const subjectCard = document.createElement('div');
+                    subjectCard.className = 'subject-card';
+                    
+                    let iconClass = "fas fa-book";
+                    if(subject.toLowerCase().includes("computer")) iconClass = "fas fa-laptop";
+                    else if(subject.toLowerCase().includes("math") || subject.toLowerCase().includes("quant")) iconClass = "fas fa-calculator";
+                    else if(subject.toLowerCase().includes("english")) iconClass = "fas fa-language";
+                    else if(subject.toLowerCase().includes("reasoning")) iconClass = "fas fa-brain";
+                    else if(subject.toLowerCase().includes("science")) iconClass = "fas fa-flask";
+                    else if(subject.toLowerCase().includes("account")) iconClass = "fas fa-file-invoice-dollar";
+                    
+                    subjectCard.innerHTML = `<i class="${iconClass}"></i><h3>${subject}</h3>`;
+                    
+                    subjectCard.addEventListener('click', () => {
+                        showArticlesForSubject(subject);
+                    });
+                    
+                    subjectsView.appendChild(subjectCard);
+                });
+                
+                function showArticlesForSubject(subject) {
+                    subjectsView.style.display = 'none';
+                    articlesListView.style.display = 'block';
+                    articleDetailView.style.display = 'none';
+                    
+                    document.getElementById('current-subject-title').textContent = `${subject} Articles`;
+                    articlesListGrid.innerHTML = '';
+                    
+                    const filteredArticles = articlesData.filter(a => a.subject === subject);
+                    
+                    filteredArticles.forEach(article => {
+                        const card = document.createElement('div');
+                        card.className = 'article-card';
+                        card.innerHTML = `
+                            <div class="article-meta">
+                                <span><i class="fas fa-tag"></i> ${article.topic}</span>
+                                <span><i class="fas fa-calendar-alt"></i> ${article.date}</span>
+                            </div>
+                            <h3>${article.title}</h3>
+                            <p class="article-summary">${article.summary}</p>
+                            <div class="article-author"><i class="fas fa-user-edit"></i> ${article.author}</div>
+                        `;
+                        card.addEventListener('click', () => {
+                            showArticleDetail(article, subject);
+                        });
+                        articlesListGrid.appendChild(card);
+                    });
+                }
+                
+                function showArticleDetail(article, returnSubject) {
+                    articlesListView.style.display = 'none';
+                    articleDetailView.style.display = 'block';
+                    
+                    articleContentArea.innerHTML = `
+                        <h2 class="article-title">${article.title}</h2>
+                        <div class="article-meta-info">
+                            <span><i class="fas fa-user"></i> ${article.author}</span> &nbsp;|&nbsp; 
+                            <span><i class="fas fa-calendar-alt"></i> ${article.date}</span> &nbsp;|&nbsp; 
+                            <span><i class="fas fa-folder-open"></i> ${article.subject} - ${article.topic}</span>
+                        </div>
+                        <div class="article-body">${article.content}</div>
+                    `;
+                    
+                    document.getElementById('back-to-articles-btn').onclick = () => {
+                        showArticlesForSubject(returnSubject);
+                    };
+                }
+                
+                // Back to Subjects button logic
+                document.getElementById('back-to-subjects-btn').addEventListener('click', () => {
+                    articlesListView.style.display = 'none';
+                    subjectsView.style.display = ''; // Reverts back to CSS grid layout
+                });
+            })
+            .catch(error => console.error('Error fetching articles:', error));
+    }
 
 
     function fetchXMLContent(xmlFile, sectionId, gridId) {

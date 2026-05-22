@@ -677,6 +677,139 @@ body::after {
     transform: rotate(180deg);
 }
 
+/* Articles Section Styles */
+#articles-main-container {
+    max-width: 1100px;
+    margin: 20px auto 50px auto;
+    padding: 0 20px;
+    min-height: 60vh;
+    width: 100%;
+}
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 25px;
+}
+.subject-card {
+    background: linear-gradient(135deg, #1f2a44 0%, #3b82f6 100%);
+    color: white;
+    padding: 35px 20px;
+    border-radius: 16px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 8px 25px rgba(0, 30, 80, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.subject-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 30px rgba(59, 130, 246, 0.3);
+}
+.subject-card i {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+.subject-card h3 {
+    margin: 0;
+    font-size: 1.4rem;
+}
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+}
+.article-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e7ef;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 15px rgba(0, 30, 80, 0.05);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+.article-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 30, 80, 0.12);
+    border-color: #3b82f6;
+}
+.article-meta {
+    font-size: 0.8rem;
+    color: #6c757d;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+.article-card h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.25rem;
+    color: #1f2a44;
+}
+.article-summary {
+    font-size: 0.95rem;
+    color: #495057;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+.article-author {
+    font-size: 0.85rem;
+    color: #3b82f6;
+    font-weight: 600;
+}
+.back-btn {
+    background-color: #1f2a44;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+.back-btn:hover {
+    background-color: #3b82f6;
+}
+.subject-header {
+    color: #1f2a44;
+    border-bottom: 2px solid #3b82f6;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    font-size: 1.8rem;
+}
+.article-content-area {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 30, 80, 0.08);
+    border: 1px solid #e0e7ef;
+}
+.article-content-area .article-title {
+    font-size: 2.2rem;
+    color: #1f2a44;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.article-content-area .article-meta-info {
+    font-size: 0.95rem;
+    color: #6c757d;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e0e7ef;
+    padding-bottom: 15px;
+}
+.article-content-area .article-body {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #333;
+}
+.article-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
 /* Specific styling for Popular Videos and Playlists titles */
 .popular-video-section h2 {
     border-bottom: 1px solid #ddd;
@@ -1459,6 +1592,13 @@ fieldset.video-item legend, fieldset.playlist-item legend {
     .single-course-header {
         padding: 15px; /* Reduced padding for mobile */
         margin: -15px -15px 15px -15px; /* Adjust negative margin to match new padding */
+    }
+    
+    .article-content-area {
+        padding: 20px;
+    }
+    .article-content-area .article-title {
+        font-size: 1.6rem;
     }
 
     .playlist-video-header {
