@@ -667,7 +667,7 @@ body::after {
 }
 .tip-content.open {
     padding: 15px 20px;
-    max-height: 800px; /* Arbitrary large value to allow animation */
+    max-height: 2500px; /* Increased to prevent text cutoff on narrow mobile screens */
 }
 .tip-icon {
     transition: transform 0.3s ease;
