@@ -2700,8 +2700,8 @@ important international sea routes.
         <p>India, a Sovereign Socialist Secular Democratic Republic, is a Union of States as per Article 1 of the Constitution. For administrative convenience, it is currently divided into <strong>28 States and 8 Union Territories</strong>. Understanding the political map is crucial for competitive exams, especially concerning the specific seats in the Parliament and the history of state formation.</p>
 
         <div class="article-image-wrapper">
-            <img src="assets/prep-reads-imges/India_States_and_UT_map.svg.png" alt="Political Map of India" />
-            <span class="article-image-caption">Figure 1: Current Political Map of India (28 States &amp; 8 UTs). Source: Wikimedia Commons.</span>
+            <img src="assets/prep-reads-images/Indian_Political_Map.png" alt="Political Map of India" />
+            <span class="article-image-caption">Figure 1: Current Political Map of India (28 States &amp; 8 UTs)</span>
         </div>
 
         <h3>1. National Administrative Statistics</h3>
@@ -3026,9 +3026,9 @@ important international sea routes.
 
         <p><strong>Quick Fact for JKSSB:</strong> The <strong>McMahon Line</strong> is the boundary between Arunachal Pradesh (India) and China, although China disputes this line.</p>
 
-        <p><em>In the final section, we will cover the Southern States (with their judicial capitals and bicameral legislatures) and the remaining Union Territories.</em></p>
+       
 
-<!-- To be continued with Southern India and UTs -->
+
 <!-- Part 4: Southern India, Union Territories, and Final Synthesis -->
 
         <h3>8. Southern India: The Peninsular States</h3>
@@ -3117,13 +3117,400 @@ important international sea routes.
         </div>
 
         <h3>Conclusion: The Dynamic Map of India</h3>
+        <h3>Comprehensive Table of Indian States and Union Territories</h3>
+
+<table>
+    <tr>
+        <th>State / UT</th>
+        <th>Formation Date</th>
+        <th>Administrative Capital</th>
+        <th>Judicial Capital / High Court</th>
+        <th>Other Capitals</th>
+        <th>Lok Sabha Seats</th>
+        <th>Rajya Sabha Seats</th>
+        <th>Legislative Assembly Seats</th>
+        <th>Legislative Council Seats</th>
+    </tr>
+
+    <!-- STATES -->
+
+    <tr>
+        <td><strong>Andhra Pradesh</strong></td>
+        <td>1 Nov 1956</td>
+        <td>Amaravati</td>
+        <td>Amaravati</td>
+        <td>
+            Visakhapatnam (Proposed Executive Capital),
+            Kurnool (Proposed Judicial Capital)
+        </td>
+        <td>25</td>
+        <td>11</td>
+        <td>175</td>
+        <td>58</td>
+    </tr>
+
+    <tr>
+        <td><strong>Arunachal Pradesh</strong></td>
+        <td>20 Feb 1987</td>
+        <td>Itanagar</td>
+        <td>Itanagar Bench (Guwahati HC)</td>
+        <td>—</td>
+        <td>2</td>
+        <td>1</td>
+        <td>60</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Assam</strong></td>
+        <td>26 Jan 1950</td>
+        <td>Dispur</td>
+        <td>Guwahati</td>
+        <td>—</td>
+        <td>14</td>
+        <td>7</td>
+        <td>126</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Bihar</strong></td>
+        <td>26 Jan 1950</td>
+        <td>Patna</td>
+        <td>Patna</td>
+        <td>—</td>
+        <td>40</td>
+        <td>16</td>
+        <td>243</td>
+        <td>75</td>
+    </tr>
+
+    <tr>
+        <td><strong>Chhattisgarh</strong></td>
+        <td>1 Nov 2000</td>
+        <td>Raipur</td>
+        <td>Bilaspur</td>
+        <td>—</td>
+        <td>11</td>
+        <td>5</td>
+        <td>90</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Goa</strong></td>
+        <td>30 May 1987</td>
+        <td>Panaji</td>
+        <td>Goa Bench of Bombay HC</td>
+        <td>—</td>
+        <td>2</td>
+        <td>1</td>
+        <td>40</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Gujarat</strong></td>
+        <td>1 May 1960</td>
+        <td>Gandhinagar</td>
+        <td>Ahmedabad</td>
+        <td>—</td>
+        <td>26</td>
+        <td>11</td>
+        <td>182</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Haryana</strong></td>
+        <td>1 Nov 1966</td>
+        <td>Chandigarh</td>
+        <td>Chandigarh</td>
+        <td>—</td>
+        <td>10</td>
+        <td>5</td>
+        <td>90</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Himachal Pradesh</strong></td>
+        <td>25 Jan 1971</td>
+        <td>Shimla</td>
+        <td>Shimla</td>
+        <td>Dharamshala (Winter Capital)</td>
+        <td>4</td>
+        <td>3</td>
+        <td>68</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Jharkhand</strong></td>
+        <td>15 Nov 2000</td>
+        <td>Ranchi</td>
+        <td>Ranchi</td>
+        <td>Dumka (Sub-capital)</td>
+        <td>14</td>
+        <td>6</td>
+        <td>81</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Karnataka</strong></td>
+        <td>1 Nov 1956</td>
+        <td>Bengaluru</td>
+        <td>Bengaluru</td>
+        <td>Belagavi (Second Capital)</td>
+        <td>28</td>
+        <td>12</td>
+        <td>224</td>
+        <td>75</td>
+    </tr>
+
+    <tr>
+        <td><strong>Kerala</strong></td>
+        <td>1 Nov 1956</td>
+        <td>Thiruvananthapuram</td>
+        <td>Kochi</td>
+        <td>—</td>
+        <td>20</td>
+        <td>9</td>
+        <td>140</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Madhya Pradesh</strong></td>
+        <td>1 Nov 1956</td>
+        <td>Bhopal</td>
+        <td>Jabalpur</td>
+        <td>—</td>
+        <td>29</td>
+        <td>11</td>
+        <td>230</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Maharashtra</strong></td>
+        <td>1 May 1960</td>
+        <td>Mumbai</td>
+        <td>Mumbai</td>
+        <td>Nagpur (Winter Capital)</td>
+        <td>48</td>
+        <td>19</td>
+        <td>288</td>
+        <td>78</td>
+    </tr>
+
+    <tr>
+        <td><strong>Manipur</strong></td>
+        <td>21 Jan 1972</td>
+        <td>Imphal</td>
+        <td>Imphal</td>
+        <td>—</td>
+        <td>2</td>
+        <td>1</td>
+        <td>60</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Meghalaya</strong></td>
+        <td>21 Jan 1972</td>
+        <td>Shillong</td>
+        <td>Shillong</td>
+        <td>—</td>
+        <td>2</td>
+        <td>1</td>
+        <td>60</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Mizoram</strong></td>
+        <td>20 Feb 1987</td>
+        <td>Aizawl</td>
+        <td>Aizawl Bench (Guwahati HC)</td>
+        <td>—</td>
+        <td>1</td>
+        <td>1</td>
+        <td>40</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Nagaland</strong></td>
+        <td>1 Dec 1963</td>
+        <td>Kohima</td>
+        <td>Kohima Bench (Guwahati HC)</td>
+        <td>—</td>
+        <td>1</td>
+        <td>1</td>
+        <td>60</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Odisha</strong></td>
+        <td>1 Apr 1936</td>
+        <td>Bhubaneswar</td>
+        <td>Cuttack</td>
+        <td>—</td>
+        <td>21</td>
+        <td>10</td>
+        <td>147</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Punjab</strong></td>
+        <td>1 Nov 1966</td>
+        <td>Chandigarh</td>
+        <td>Chandigarh</td>
+        <td>—</td>
+        <td>13</td>
+        <td>7</td>
+        <td>117</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Rajasthan</strong></td>
+        <td>30 Mar 1949</td>
+        <td>Jaipur</td>
+        <td>Jodhpur</td>
+        <td>—</td>
+        <td>25</td>
+        <td>10</td>
+        <td>200</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Sikkim</strong></td>
+        <td>16 May 1975</td>
+        <td>Gangtok</td>
+        <td>Gangtok</td>
+        <td>—</td>
+        <td>1</td>
+        <td>1</td>
+        <td>32</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Tamil Nadu</strong></td>
+        <td>26 Jan 1950</td>
+        <td>Chennai</td>
+        <td>Chennai</td>
+        <td>—</td>
+        <td>39</td>
+        <td>18</td>
+        <td>234</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Telangana</strong></td>
+        <td>2 Jun 2014</td>
+        <td>Hyderabad</td>
+        <td>Hyderabad</td>
+        <td>—</td>
+        <td>17</td>
+        <td>7</td>
+        <td>119</td>
+        <td>40</td>
+    </tr>
+
+    <tr>
+        <td><strong>Tripura</strong></td>
+        <td>21 Jan 1972</td>
+        <td>Agartala</td>
+        <td>Agartala</td>
+        <td>—</td>
+        <td>2</td>
+        <td>1</td>
+        <td>60</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>Uttar Pradesh</strong></td>
+        <td>26 Jan 1950</td>
+        <td>Lucknow</td>
+        <td>Prayagraj</td>
+        <td>—</td>
+        <td>80</td>
+        <td>31</td>
+        <td>403</td>
+        <td>100</td>
+    </tr>
+
+    <tr>
+        <td><strong>Uttarakhand</strong></td>
+        <td>9 Nov 2000</td>
+        <td>Dehradun</td>
+        <td>Nainital</td>
+        <td>Gairsain (Summer Capital)</td>
+        <td>5</td>
+        <td>3</td>
+        <td>70</td>
+        <td>—</td>
+    </tr>
+
+    <tr>
+        <td><strong>West Bengal</strong></td>
+        <td>26 Jan 1950</td>
+        <td>Kolkata</td>
+        <td>Kolkata</td>
+        <td>—</td>
+        <td>42</td>
+        <td>16</td>
+        <td>294</td>
+        <td>—</td>
+    </tr>
+
+</table>
+
+<hr />
+
+<h4>States Having Legislative Councils (Vidhan Parishad)</h4>
+
+<ul>
+    <li>Andhra Pradesh</li>
+    <li>Bihar</li>
+    <li>Karnataka</li>
+    <li>Maharashtra</li>
+    <li>Telangana</li>
+    <li>Uttar Pradesh</li>
+</ul>
+
+<hr />
+
+<h4>Important One-Liners for Exams</h4>
+
+<ul>
+    <li><strong>Uttar Pradesh</strong> has the highest Lok Sabha seats (80).</li>
+
+    <li><strong>Uttar Pradesh</strong> has the highest Rajya Sabha seats (31).</li>
+
+    <li><strong>Maharashtra</strong> has the largest Legislative Council after UP.</li>
+
+    <li><strong>Sikkim</strong>, <strong>Mizoram</strong>, and <strong>Nagaland</strong> have only 1 Lok Sabha seat each.</li>
+
+    <li><strong>Rajasthan</strong> was formed on 30 March 1949.</li>
+
+    <li><strong>Telangana</strong> is the newest state of India (2014).</li>
+
+    <li><strong>Odisha</strong> became a separate province on 1 April 1936.</li>
+</ul>
         <p>The political divisions of India are not static; they have evolved from the 562 princely states at the time of independence to the current 28 states and 8 UTs. Major milestones include the State Reorganisation Act (1956), the creation of smaller states in 2000 (Jharkhand, Uttarakhand, Chhattisgarh), and the landmark J&K Reorganisation Act (2019). For candidates appearing in JKSSB and other regional exams, mastering these administrative details—from the number of seats to the specific high court jurisdictions—is essential for a comprehensive understanding of Indian Polity.</p>
          <p>In competitive examinations like JKSSB, questions often focus on extremes—the largest, the highest, and the most represented. This summary provides a quick-glance reference to the Top Five superlatives mentioned in our comprehensive study of India's Physical and Political divisions.</p>
 
-        <div class="article-image-wrapper">
-            <img src="assets/prep-reads-imges/Administrative_map_of_India_showing_State_and_UT_boundaries.png" alt="India Political" />
-            <span class="article-image-caption">Source: Wikimedia Commons - Indian Administrative Limits.</span>
-        </div>
+       
 
         <h3>1. Top 5 Largest States by Area</h3>
         <ol>
@@ -3177,10 +3564,6 @@ important international sea routes.
             <li><strong>Dadra & Nagar Haveli and Daman & Diu:</strong> 603 sq km</li>
         </ol>
 
-        <div class="article-image-wrapper">
-            <img src="assets/prep-reads-imges/K2_2006b.jpg" alt="K2 Peak" />
-            <span class="article-image-caption">Figure: K2, the highest point in the Indian Subcontinent. Source: Wikimedia Commons.</span>
-        </div>
 
         <h3>6. Top 5 International Borders by Length</h3>
         <ol>
