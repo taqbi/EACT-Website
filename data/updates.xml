@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 
-<update>
+    <update>
+        <text>Check out the new Prep-Reads and Exam Tips Sections on the website </text>
+        <url> https://www.eactclasses.com/prep-reads.html</url>
+        <date>2026-05-23</date> 
+    </update>
+    <update>
         <text>JKSSB New Pattern MCQs (GK and Computer) have been added in Practice MCQ Section </text>
         <url> https://www.eactclasses.com/mcqs.html</url>
         <date>2026-04-01</date> 
