@@ -777,41 +777,501 @@
             <li><strong>eTaal:</strong> A dashboard for real-time aggregation of e-transactions across the country.</li>
         </ul>
 
-        <h3>6. High-Yield ICT Initiatives for JKSSB</h3>
+        <h3>6. High-Yield ICT & Digital India Initiatives for JKSSB</h3>
+
+<p>
+These initiatives are frequently asked in competitive examinations such as JKSSB, SSC, UPSC,
+Banking, and other government recruitment exams.
+</p>
+
+<ul>
+
+    <li>
+        <strong>Digital India Programme</strong><br>
+        <strong>Launched:</strong> 1 July 2015<br>
+        <strong>Objective:</strong> Transform India into a digitally empowered society and knowledge economy.<br>
+        <strong>Vision Areas:</strong>
         <ul>
-            <li><strong>UMANG:</strong> Unified Mobile Application for New-age Governance. Provides 1,570+ services.</li>
-            <li><strong>DigiLocker:</strong> Paperless availability of documents. 532+ crore documents issued.</li>
-            <li><strong>PRAGATI:</strong> Pro-Active Governance and Timely Implementation (Launched March 2015). Multi-modal platform for the PM to review projects.</li>
-            <li><strong>Jeevan Pramaan:</strong> Aadhaar-based digital life certificate for pensioners.</li>
-            <li><strong>CO-WIN:</strong> Open platform for COVID-19 vaccination management.</li>
+            <li>Digital Infrastructure as a Utility to Every Citizen</li>
+            <li>Governance and Services on Demand</li>
+            <li>Digital Empowerment of Citizens</li>
         </ul>
-        <h3>7. Major Agencies under MeitY</h3>
-        <p>Understanding these bodies is essential for administrative awareness:</p>
+    </li>
+
+    <li>
+        <strong>UMANG (Unified Mobile Application for New-age Governance)</strong><br>
+        <strong>Launched:</strong> 2017<br>
+        <strong>Purpose:</strong> Single mobile platform for accessing government services.<br>
+        <strong>Features:</strong>
         <ul>
-            <li><strong>NIC (National Informatics Centre):</strong> Established 1976. First Director: Narasimaiah Seshagiri. Primary constructor of e-Gov applications.</li>
-            <li><strong>CERT-In:</strong> Indian Computer Emergency Response Team (Est. 2004). Nodal agency for cyber security. Launched "Cyber Swachhta Kendra" in 2017.</li>
-            <li><strong>C-DAC:</strong> Centre for Development of Advanced Computing (Est. 1987). Developed the <strong>PARAM 8000</strong> supercomputer (1991).</li>
-            <li><strong>STQC:</strong> Standardisation Testing and Quality Certification (Est. 1980).</li>
-            <li><strong>ERNET:</strong> Education and Research Network (Est. 1986). Brought internet to India.</li>
+            <li>Provides 1,500+ government services.</li>
+            <li>Integrates Central, State, and local government services.</li>
+            <li>Supports multiple Indian languages.</li>
         </ul>
+    </li>
+
+    <li>
+        <strong>DigiLocker</strong><br>
+        <strong>Launched:</strong> 2015<br>
+        <strong>Purpose:</strong> Digital storage and verification of documents.<br>
+        <strong>Features:</strong>
+        <ul>
+            <li>Paperless governance initiative.</li>
+            <li>Stores Aadhaar-linked digital certificates.</li>
+            <li>Used for DL, RC, mark sheets, certificates, etc.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>PRAGATI (Pro-Active Governance and Timely Implementation)</strong><br>
+        <strong>Launched:</strong> March 2015<br>
+        <strong>Purpose:</strong> ICT-based multi-modal platform for project monitoring by the Prime Minister.<br>
+        <strong>Main Function:</strong> Reviews infrastructure projects, public grievances, and government schemes.
+    </li>
+
+    <li>
+        <strong>Jeevan Pramaan</strong><br>
+        <strong>Purpose:</strong> Aadhaar-based Digital Life Certificate for pensioners.<br>
+        <strong>Benefit:</strong> Pensioners need not physically visit offices/banks.
+    </li>
+
+    <li>
+        <strong>CO-WIN (COVID Vaccine Intelligence Network)</strong><br>
+        <strong>Purpose:</strong> Digital platform for COVID-19 vaccination management.<br>
+        <strong>Features:</strong>
+        <ul>
+            <li>Registration and slot booking.</li>
+            <li>Vaccination certificate generation.</li>
+            <li>Real-time vaccine tracking.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>Aadhaar</strong><br>
+        <strong>Managed By:</strong> UIDAI (Unique Identification Authority of India)<br>
+        <strong>Purpose:</strong> Unique biometric identity system for residents of India.
+    </li>
+
+    <li>
+        <strong>BHIM (Bharat Interface for Money)</strong><br>
+        <strong>Launched:</strong> 2016<br>
+        <strong>Based On:</strong> UPI (Unified Payments Interface)<br>
+        <strong>Purpose:</strong> Digital cashless payment application.
+    </li>
+
+    <li>
+        <strong>UPI (Unified Payments Interface)</strong><br>
+        <strong>Developed By:</strong> NPCI<br>
+        <strong>Purpose:</strong> Instant real-time inter-bank digital payment system.
+    </li>
+
+    <li>
+        <strong>eNAM (National Agriculture Market)</strong><br>
+        <strong>Purpose:</strong> Online trading platform for agricultural commodities.<br>
+        <strong>Benefit:</strong> Integrates APMC mandis across India.
+    </li>
+
+    <li>
+        <strong>GeM (Government e-Marketplace)</strong><br>
+        <strong>Launched:</strong> 2016<br>
+        <strong>Purpose:</strong> Online procurement portal for government departments.
+    </li>
+
+    <li>
+        <strong>SWAYAM</strong><br>
+        <strong>Purpose:</strong> Online education platform providing free courses from school to university level.<br>
+        <strong>Managed By:</strong> Ministry of Education.
+    </li>
+
+    <li>
+        <strong>SWAYAM PRABHA</strong><br>
+        <strong>Purpose:</strong> Educational DTH television channels for digital learning.
+    </li>
+
+    <li>
+        <strong>National Knowledge Network (NKN)</strong><br>
+        <strong>Purpose:</strong> High-speed network connecting universities and research institutions.
+    </li>
+
+    <li>
+        <strong>e-Hospital</strong><br>
+        <strong>Developed By:</strong> NIC<br>
+        <strong>Purpose:</strong> Online hospital management system and patient services.
+    </li>
+
+    <li>
+        <strong>e-Courts Mission Mode Project</strong><br>
+        <strong>Purpose:</strong> Digitization of judiciary and court services.
+    </li>
+
+    <li>
+        <strong>MyGov</strong><br>
+        <strong>Launched:</strong> 2014<br>
+        <strong>Purpose:</strong> Citizen engagement platform for participatory governance.
+    </li>
+
+    <li>
+        <strong>Cyber Swachhta Kendra</strong><br>
+        <strong>Launched By:</strong> CERT-In in 2017<br>
+        <strong>Purpose:</strong> Malware detection and cyber hygiene awareness.
+    </li>
+
+    <li>
+        <strong>PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan)</strong><br>
+        <strong>Purpose:</strong> Digital literacy programme for rural citizens.
+    </li>
+
+    <li>
+        <strong>BharatNet</strong><br>
+        <strong>Purpose:</strong> High-speed broadband connectivity to Gram Panchayats.
+    </li>
+
+    <li>
+        <strong>CSC (Common Services Centres)</strong><br>
+        <strong>Purpose:</strong> Delivery of e-Governance and digital services in rural areas.
+    </li>
+
+    <li>
+        <strong>National Cyber Crime Reporting Portal</strong><br>
+        <strong>Purpose:</strong> Online reporting of cyber crimes and cyber frauds.
+    </li>
+
+    <li>
+        <strong>Open Government Data (OGD) Platform India</strong><br>
+        <strong>Purpose:</strong> Public access to government datasets and information.
+    </li>
+
+    <li>
+        <strong>MeghRaj</strong><br>
+        <strong>Purpose:</strong> Government Cloud initiative for e-Governance services.
+    </li>
+
+</ul>
+        <h3>7. Major Organizations / Agencies under MeitY</h3>
+
+<p>
+The Ministry of Electronics and Information Technology (MeitY) supervises several important
+organizations responsible for e-Governance, cybersecurity, electronics development,
+research, digital infrastructure, internet services, and IT promotion in India.
+</p>
+
+<ul>
+
+    <li>
+        <strong>NIC (National Informatics Centre)</strong><br>
+        <strong>Established:</strong> 1976<br>
+        <strong>First Director General:</strong> Dr. N. Seshagiri<br>
+        <strong>Role:</strong> Premier ICT organization of the Government of India responsible for
+        e-Governance infrastructure, government networks, cloud services, and digital platforms.<br>
+        <strong>Major Contributions:</strong>
+        <ul>
+            <li>Developed e-Governance applications for Central and State Governments.</li>
+            <li>Operates <strong>NICNET</strong> – Government communication network.</li>
+            <li>Provides MeghRaj Government Cloud services.</li>
+            <li>Developed portals like eOffice, eHospital, eCourts, DigiLocker integration, etc.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>CERT-In (Indian Computer Emergency Response Team)</strong><br>
+        <strong>Established:</strong> 2004<br>
+        <strong>Role:</strong> National nodal agency for cyber security incidents.<br>
+        <strong>Main Functions:</strong>
+        <ul>
+            <li>Responds to cyber attacks and security incidents.</li>
+            <li>Issues cybersecurity alerts and advisories.</li>
+            <li>Coordinates cyber incident response nationwide.</li>
+            <li>Conducts cyber security awareness and training.</li>
+            <li>Launched <strong>Cyber Swachhta Kendra</strong> in 2017.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>C-DAC (Centre for Development of Advanced Computing)</strong><br>
+        <strong>Established:</strong> 1987<br>
+        <strong>Role:</strong> India's premier R&amp;D organization in advanced computing and IT.<br>
+        <strong>Major Contributions:</strong>
+        <ul>
+            <li>Developed India's first supercomputer <strong>PARAM 8000</strong> in 1991.</li>
+            <li>Research in AI, quantum computing, cybersecurity, HPC, language computing, and embedded systems.</li>
+            <li>Developed indigenous computing technologies.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>STQC (Standardisation Testing and Quality Certification Directorate)</strong><br>
+        <strong>Established:</strong> 1980<br>
+        <strong>Role:</strong> Provides quality assurance, testing, calibration, and certification services for electronics and IT products.<br>
+        <strong>Main Functions:</strong>
+        <ul>
+            <li>Testing and certification of electronic products.</li>
+            <li>Cybersecurity audit and compliance services.</li>
+            <li>e-Governance project quality evaluation.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>ERNET India (Education and Research Network)</strong><br>
+        <strong>Established:</strong> 1986<br>
+        <strong>Role:</strong> Academic and research network in India.<br>
+        <strong>Major Contributions:</strong>
+        <ul>
+            <li>Introduced internet services in India for education and research institutions.</li>
+            <li>Provides connectivity to universities, IITs, NITs, and research labs.</li>
+            <li>Supports networking and digital learning infrastructure.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>NIXI (National Internet Exchange of India)</strong><br>
+        <strong>Established:</strong> 2003<br>
+        <strong>Role:</strong> Facilitates internet exchange between ISPs in India.<br>
+        <strong>Main Functions:</strong>
+        <ul>
+            <li>Manages <strong>.in</strong> domain registry.</li>
+            <li>Promotes internet traffic exchange within India.</li>
+            <li>Supports IPv6 adoption and internet governance.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>NeGD (National e-Governance Division)</strong><br>
+        <strong>Role:</strong> Supports implementation of Digital India and e-Governance initiatives.<br>
+        <strong>Main Functions:</strong>
+        <ul>
+            <li>Manages major Digital India projects.</li>
+            <li>Supports UMANG, DigiLocker, Aadhaar integration, etc.</li>
+            <li>Provides technical and strategic support for government digital services.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>CSC (Common Services Centres)</strong><br>
+        <strong>Role:</strong> Provides digital government and business services to rural citizens through village-level entrepreneurs.<br>
+        <strong>Main Services:</strong>
+        <ul>
+            <li>Online certificates and utility bill services.</li>
+            <li>Banking and telemedicine services.</li>
+            <li>Digital literacy and e-Governance access.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>Digital India Corporation (DIC)</strong><br>
+        <strong>Formerly:</strong> Media Lab Asia<br>
+        <strong>Role:</strong> Supports innovation and implementation of Digital India initiatives.<br>
+        <strong>Main Areas:</strong>
+        <ul>
+            <li>Digital governance projects.</li>
+            <li>Emerging technologies and startup ecosystem support.</li>
+            <li>Public digital platforms.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>SAMEER (Society for Applied Microwave Electronics Engineering and Research)</strong><br>
+        <strong>Established:</strong> 1984<br>
+        <strong>Role:</strong> R&amp;D institution in microwave, RF, and electronics engineering.<br>
+        <strong>Main Areas:</strong>
+        <ul>
+            <li>Medical electronics.</li>
+            <li>Electromagnetic technologies.</li>
+            <li>Radar and communication systems.</li>
+        </ul>
+    </li>
+
+    <li>
+        <strong>CMET (Centre for Materials for Electronics Technology)</strong><br>
+        <strong>Role:</strong> Research organization for electronic materials and technologies.<br>
+        <strong>Main Areas:</strong>
+        <ul>
+            <li>Nanotechnology.</li>
+            <li>Electronic materials and solar cells.</li>
+            <li>Energy storage and e-waste recycling technologies.</li>
+        </ul>
+    </li>
+
+</ul>
 
         <h3>8. The Information Technology Act, 2000</h3>
         <p>Based on the UNCITRAL Model Law, this is the primary law for Cybercrime in India. It consists of 13 chapters and 94 sections.</p>
 
         <h4>Important Sections & Penalties:</h4>
         <table>
-            <tr>
-                <th>Section</th>
-                <th>Offense</th>
-                <th>Punishment</th>
-            </tr>
-            <tr><td><strong>43</strong></td><td>Damage to computer system.</td><td>Compensation to the owner.</td></tr>
-            <tr><td><strong>66</strong></td><td>Hacking / Fraudulent conduct.</td><td>3 years jail / Rs. 5 Lakh fine.</td></tr>
-            <tr><td><strong>66E</strong></td><td>Violation of privacy (private images).</td><td>3 years jail / Rs. 2 Lakh fine.</td></tr>
-            <tr><td><strong>66F</strong></td><td><strong>Cyber Terrorism</strong>.</td><td>Life Imprisonment.</td></tr>
-            <tr><td><strong>67</strong></td><td>Publishing Obscene material.</td><td>Up to 5 years jail / Rs. 10 Lakh fine.</td></tr>
-        </table>
+    <tr>
+        <th>Section</th>
+        <th>Important Provision</th>
+        <th>Description</th>
+    </tr>
 
+    <tr>
+        <td><strong>1</strong></td>
+        <td>Short Title, Extent and Commencement</td>
+        <td>Defines the name and applicability of the Information Technology Act, 2000.</td>
+    </tr>
+
+    <tr>
+        <td><strong>2</strong></td>
+        <td>Definitions</td>
+        <td>Defines important terms like computer, data, intermediary, digital signature, etc.</td>
+    </tr>
+
+    <tr>
+        <td><strong>3</strong></td>
+        <td>Digital Signature</td>
+        <td>Legal recognition and authentication using digital signatures.</td>
+    </tr>
+
+    <tr>
+        <td><strong>4</strong></td>
+        <td>Legal Recognition of Electronic Records</td>
+        <td>Electronic records are legally valid like physical documents.</td>
+    </tr>
+
+    <tr>
+        <td><strong>5</strong></td>
+        <td>Legal Recognition of Digital Signatures</td>
+        <td>Digital signatures are legally valid for authentication.</td>
+    </tr>
+
+    <tr>
+        <td><strong>6</strong></td>
+        <td>Use of Electronic Records by Government</td>
+        <td>Government departments can use electronic filing and communication.</td>
+    </tr>
+
+    <tr>
+        <td><strong>10A</strong></td>
+        <td>Validity of Electronic Contracts</td>
+        <td>E-contracts are legally enforceable.</td>
+    </tr>
+
+    <tr>
+        <td><strong>43</strong></td>
+        <td>Penalty for Damage to Computer Systems</td>
+        <td>Unauthorized access, virus attacks, data theft, etc.</td>
+    </tr>
+
+    <tr>
+        <td><strong>43A</strong></td>
+        <td>Compensation for Failure to Protect Data</td>
+        <td>Companies must protect sensitive personal data.</td>
+    </tr>
+
+    <tr>
+        <td><strong>65</strong></td>
+        <td>Tampering with Computer Source Documents</td>
+        <td>Destroying or altering source code illegally.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66</strong></td>
+        <td>Computer Related Offenses</td>
+        <td>Hacking and dishonest/fraudulent activities.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66B</strong></td>
+        <td>Receiving Stolen Computer Resource</td>
+        <td>Receiving stolen digital devices or data knowingly.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66C</strong></td>
+        <td>Identity Theft</td>
+        <td>Misuse of passwords, digital signatures, identity information.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66D</strong></td>
+        <td>Cheating by Personation</td>
+        <td>Online fraud, phishing, fake profiles, scams.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66E</strong></td>
+        <td>Violation of Privacy</td>
+        <td>Capturing or sharing private images without consent.</td>
+    </tr>
+
+    <tr>
+        <td><strong>66F</strong></td>
+        <td>Cyber Terrorism</td>
+        <td>Cyber attacks threatening national security.</td>
+    </tr>
+
+    <tr>
+        <td><strong>67</strong></td>
+        <td>Obscene Electronic Content</td>
+        <td>Publishing or transmitting obscene material online.</td>
+    </tr>
+
+    <tr>
+        <td><strong>67A</strong></td>
+        <td>Sexually Explicit Content</td>
+        <td>Publishing sexually explicit material electronically.</td>
+    </tr>
+
+    <tr>
+        <td><strong>67B</strong></td>
+        <td>Child Pornography</td>
+        <td>Publishing or browsing child sexual abuse material.</td>
+    </tr>
+
+    <tr>
+        <td><strong>69</strong></td>
+        <td>Interception and Monitoring</td>
+        <td>Government power to monitor or decrypt information.</td>
+    </tr>
+
+    <tr>
+        <td><strong>69A</strong></td>
+        <td>Blocking of Websites/Apps</td>
+        <td>Government can block online content for security reasons.</td>
+    </tr>
+
+    <tr>
+        <td><strong>70</strong></td>
+        <td>Protected Systems</td>
+        <td>Critical systems and infrastructure protection.</td>
+    </tr>
+
+    <tr>
+        <td><strong>70B</strong></td>
+        <td>CERT-In</td>
+        <td>Indian Computer Emergency Response Team for cybersecurity incidents.</td>
+    </tr>
+
+    <tr>
+        <td><strong>72</strong></td>
+        <td>Breach of Confidentiality and Privacy</td>
+        <td>Unauthorized disclosure of information.</td>
+    </tr>
+
+    <tr>
+        <td><strong>72A</strong></td>
+        <td>Disclosure of Information in Breach of Contract</td>
+        <td>Illegal sharing of personal information.</td>
+    </tr>
+
+    <tr>
+        <td><strong>79</strong></td>
+        <td>Intermediary Liability</td>
+        <td>Safe harbor protection for social media and online platforms.</td>
+    </tr>
+
+    <tr>
+        <td><strong>80</strong></td>
+        <td>Search and Arrest Powers</td>
+        <td>Police can investigate cyber crimes without warrant under certain conditions.</td>
+    </tr>
+
+    <tr>
+        <td><strong>85</strong></td>
+        <td>Offenses by Companies</td>
+        <td>Company officials can be held responsible for cyber offenses.</td>
+    </tr>
+</table>
         <h3>Conclusion</h3>
         <p>E-governance has transitioned from mere computerization (1970s) to a comprehensive Digital Transformation (Post-2014). While challenges like the <strong>Digital Divide</strong> and <strong>Cyber Security</strong> persist, initiatives like BharatNet and the J&K e-Services portal are ensuring that governance reaches the last mile. For JKSSB candidates, focusing on the formation dates, agency heads, and IT Act sections is the key to success.</p>
     ]]></content>
