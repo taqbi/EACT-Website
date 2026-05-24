@@ -488,6 +488,45 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function promptForName() {
+        return new Promise((resolve) => {
+            let modal = document.getElementById('name-prompt-modal');
+            if (!modal) {
+                modal = document.createElement('div');
+                modal.id = 'name-prompt-modal';
+                modal.className = 'modal-overlay';
+                document.body.appendChild(modal);
+            }
+            modal.innerHTML = `
+                <div class="confirmation-card" style="text-align: center;">
+                    <h3 style="color: #1f2a44; margin-bottom: 15px;"><i class="fas fa-trophy" style="color: #f59e0b;"></i> Submit to Leaderboard</h3>
+                    <p style="margin-bottom: 20px; color: #5a6577;">Enter your name to see where you stand globally!</p>
+                    <input type="text" id="student-name-input" placeholder="Your Name" style="width: 80%; padding: 10px; margin-bottom: 20px; border: 1px solid #e0e7ef; border-radius: 8px; font-size: 1rem; text-align: center;" value="Anonymous" />
+                    <div class="modal-actions" style="justify-content: center;">
+                        <button id="skip-name-btn" class="modal-btn cancel" style="margin-right: 10px;">Skip</button>
+                        <button id="submit-name-btn" class="modal-btn confirm">Submit</button>
+                    </div>
+                </div>
+            `;
+            modal.style.display = 'flex';
+            
+            const inputField = document.getElementById('student-name-input');
+            inputField.focus();
+            inputField.select();
+
+            document.getElementById('skip-name-btn').onclick = () => {
+                modal.style.display = 'none';
+                resolve("Anonymous");
+            };
+
+            document.getElementById('submit-name-btn').onclick = () => {
+                const val = inputField.value.trim();
+                modal.style.display = 'none';
+                resolve(val || "Anonymous");
+            };
+        });
+    }
+
     async function calculateAndDisplayResults(isSubmission) {
         let score = 0;
         let attempted = 0;
@@ -536,6 +575,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const m = Math.floor((timeTakenSeconds % 3600) / 60);
             const s = timeTakenSeconds % 60;
             timeTakenString = h > 0 ? `${h}h ${m}m ${s}s` : `${m}m ${s}s`;
+        } else {
+            const history = readMockPerformance();
+            const attemptRecord = history.find(h => h.name === currentTestName);
+            if (attemptRecord) {
+                timeTakenSeconds = attemptRecord.timeTakenSeconds || 0;
+                timeTakenString = attemptRecord.timeTaken || '0m 0s';
+            }
         }
 
         let rankDisplay = currentTestRank || "N/A";
@@ -550,7 +596,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (window.EACTFirebase) {
                 if (isFirstAttempt) {
-                    const studentName = prompt("Submit your score to the Leaderboard! Enter your name:", "Anonymous") || "Anonymous";
+                    const studentName = await promptForName();
                     const attemptData = {
                         studentName: studentName,
                         email: "", 
@@ -922,7 +968,7 @@ function generateLeaderboardHtml(leaderboardData) {
     }
 
     // --- 6. Performance History Logic ---
-    function displayMockPerformance() {
+    async function displayMockPerformance() {
         // Recalculate scores based on latest answer keys
         recalculateHistoryScores();
 
@@ -933,8 +979,9 @@ function generateLeaderboardHtml(leaderboardData) {
         if (testListArea) testListArea.style.display = 'none';
         if (subjectWiseTestListArea) subjectWiseTestListArea.style.display = 'none';
 
+        performanceHistoryContainer.innerHTML = '<h3 style="text-align:center; padding: 50px; color: #1f2a44;">Fetching your live global ranks... Please wait ⏳</h3>';
+
         const history = readMockPerformance();
-        performanceHistoryContainer.innerHTML = '';
 
         if (history.length === 0) {
             performanceHistoryContainer.innerHTML = `
@@ -944,6 +991,17 @@ function generateLeaderboardHtml(leaderboardData) {
                     <p>Take a mock test to see your performance analytics here.</p>
                 </div>`;
             return;
+        }
+
+        // Fetch Live Ranks
+        if (window.EACTFirebase) {
+            for (let i = 0; i < history.length; i++) {
+                const attempt = history[i];
+                const rankData = await window.EACTFirebase.fetchExactRank(attempt.name, attempt.score, attempt.timeTakenSeconds || 0);
+                attempt.rank = rankData.rank;
+                attempt.totalParticipants = rankData.total;
+            }
+            saveMockPerformance(history);
         }
 
         // Calculate Stats
@@ -1012,8 +1070,8 @@ function generateLeaderboardHtml(leaderboardData) {
                             <span class="h-value">${result.timeTaken || 'N/A'}</span>
                         </div>
                         <div class="history-stat">
-                            <span class="h-label">Rank</span>
-                            <span class="h-value">${result.rank || '-'}</span>
+                            <span class="h-label">Global Rank</span>
+                            <span class="h-value">${result.rank || '-'} <small style="font-size:0.7em; color:#6c757d;">${result.totalParticipants && result.totalParticipants !== '-' ? '/ ' + result.totalParticipants : ''}</small></span>
                         </div>
                     </div>
                 </div>
