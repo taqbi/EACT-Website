@@ -440,42 +440,9 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     }
 
-    function submitTest() {
+    async function submitTest() {
         clearInterval(timerInterval);
-        calculateAndDisplayResults(true);
-    }
-
-    // --- Helper: Calculate Rank ---
-    function calculateRank(percentage) {
-        const numPercentage = parseFloat(percentage);
-        if (numPercentage < 10) {
-            return "Invalid Attempt";
-        }
-        
-        const totalParticipants = 100000;
-        let rank;
-
-        if (numPercentage > 90) {
-            rank = 1;
-        } else if (numPercentage >= 80) {
-            // 80-90% -> Ranks 2 to 100
-            rank = 2 + Math.floor((90 - numPercentage) * 9.9);
-        } else if (numPercentage >= 70) {
-            // 70-80% -> Ranks 101 to 500
-            rank = 101 + Math.floor((80 - numPercentage) * 40);
-        } else if (numPercentage >= 60) {
-            // 60-70% -> Ranks 501 to 3000
-            rank = 501 + Math.floor((70 - numPercentage) * 250);
-        } else if (numPercentage >= 50) {
-            // 50-60% -> Ranks 3001 to 20000
-            rank = 3001 + Math.floor((60 - numPercentage) * 1700);
-        } else {
-            // < 50% -> Ranks 20001 to 100000
-            rank = 20001 + Math.floor((50 - numPercentage) * 1600);
-        }
-
-        if (rank > totalParticipants) rank = totalParticipants;
-        return `${rank} / ${totalParticipants}`;
+        await calculateAndDisplayResults(true);
     }
 
     // --- Helper: Recalculate History Scores ---
@@ -505,12 +472,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     newScore = Math.round(newScore * 100) / 100;
                     const totalMarks = testData.questions.length * testData.correctMarks;
                     const newPercentage = totalMarks > 0 ? ((newScore / totalMarks) * 100).toFixed(1) : 0;
-                    const newRank = calculateRank(newPercentage);
+                    const newRank = attempt.rank; // Keep existing exact rank
 
                     if (attempt.score !== newScore || attempt.percentage !== newPercentage) {
                         attempt.score = newScore;
                         attempt.percentage = newPercentage;
-                        attempt.rank = newRank;
                         updated = true;
                     }
                 }
@@ -522,7 +488,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function calculateAndDisplayResults(isSubmission) {
+    async function calculateAndDisplayResults(isSubmission) {
         let score = 0;
         let attempted = 0;
         let incorrect = 0;
@@ -561,26 +527,60 @@ document.addEventListener('DOMContentLoaded', () => {
         const unattempted = totalQuestions - attempted;
         const percentage = totalMarks > 0 ? ((score / totalMarks) * 100).toFixed(1) : 0;
 
-        // Calculate or Retrieve Rank
-        let rankDisplay = currentTestRank;
-        if (isSubmission) {
-            rankDisplay = calculateRank(percentage);
+        let timeTakenSeconds = 0;
+        let timeTakenString = '0m 0s';
+        if (startTime) {
+            const endTime = new Date();
+            timeTakenSeconds = Math.floor((endTime - startTime) / 1000);
+            const h = Math.floor(timeTakenSeconds / 3600);
+            const m = Math.floor((timeTakenSeconds % 3600) / 60);
+            const s = timeTakenSeconds % 60;
+            timeTakenString = h > 0 ? `${h}h ${m}m ${s}s` : `${m}m ${s}s`;
         }
 
+        let rankDisplay = currentTestRank || "N/A";
+        let totalParticipants = "-";
+        let leaderboardHtml = "";
         let isFirstAttempt = false;
-        if (isSubmission) {
-            // Calculate Time Taken
-            let timeTaken = '0m 0s';
-            if (startTime) {
-                const endTime = new Date();
-                const diff = Math.floor((endTime - startTime) / 1000);
-                const h = Math.floor(diff / 3600);
-                const m = Math.floor((diff % 3600) / 60);
-                const s = diff % 60;
-                timeTaken = h > 0 ? `${h}h ${m}m ${s}s` : `${m}m ${s}s`;
-            }
 
-            // Save the result to localStorage
+        if (isSubmission) {
+            const history = readMockPerformance();
+            const existingAttempt = history.find(h => h.name === currentTestName);
+            isFirstAttempt = !existingAttempt;
+
+            if (window.EACTFirebase) {
+                if (isFirstAttempt) {
+                    const studentName = prompt("Submit your score to the Leaderboard! Enter your name:", "Anonymous") || "Anonymous";
+                    const attemptData = {
+                        studentName: studentName,
+                        email: "", 
+                        mockName: currentTestName,
+                        score: score,
+                        totalQuestions: totalQuestions,
+                        percentage: parseFloat(percentage),
+                        correctAnswers: correctCount,
+                        wrongAnswers: incorrect,
+                        unansweredQuestions: unattempted,
+                        timeTaken: timeTakenSeconds,
+                        answers: userAnswers
+                    };
+                    testArea.style.display = 'none';
+                    selectionContainer.style.display = 'none';
+                    resultsArea.style.display = 'block';
+                    resultsSummary.innerHTML = '<h3 style="text-align:center; padding: 50px; color: #1f2a44;">Saving attempt and calculating your exact rank... Please wait ⏳</h3>';
+                    await window.EACTFirebase.saveAttempt(attemptData);
+                } else {
+                    testArea.style.display = 'none';
+                    selectionContainer.style.display = 'none';
+                    resultsArea.style.display = 'block';
+                    resultsSummary.innerHTML = '<h3 style="text-align:center; padding: 50px; color: #1f2a44;">Calculating your re-attempt results... Please wait ⏳</h3>';
+                }
+
+                const rankData = await window.EACTFirebase.fetchExactRank(currentTestName, score, timeTakenSeconds);
+                rankDisplay = isFirstAttempt ? rankData.rank : `${rankData.rank} (Retake)`;
+                totalParticipants = rankData.total;
+            }
+            
             const result = {
                 name: currentTestName,
                 score: score,
@@ -588,11 +588,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 total: totalMarks,
                 percentage: percentage,
                 date: new Date().toLocaleDateString(),
-                timeTaken: timeTaken,
+                timeTaken: timeTakenString,
+                timeTakenSeconds: timeTakenSeconds,
                 userAnswers: userAnswers,
-                rank: rankDisplay
+                rank: rankDisplay,
+                totalParticipants: totalParticipants
             };
             isFirstAttempt = saveTestResult(result);
+        } else {
+            // If we are just viewing history, retrieve totalParticipants if available
+            const history = readMockPerformance();
+            const attemptRecord = history.find(h => h.name === currentTestName);
+            if (attemptRecord && attemptRecord.totalParticipants) {
+                totalParticipants = attemptRecord.totalParticipants;
+            }
+        }
+
+        if (window.EACTFirebase) {
+            const leaderboardData = await window.EACTFirebase.fetchLeaderboard(currentTestName);
+            leaderboardHtml = generateLeaderboardHtml(leaderboardData);
         }
 
         // Determine score class for styling
@@ -601,6 +615,16 @@ document.addEventListener('DOMContentLoaded', () => {
         if (numPercentage >= 80) scoreClass = 'score-excellent';
         else if (numPercentage >= 60) scoreClass = 'score-good';
         else if (numPercentage >= 40) scoreClass = 'score-average';
+
+        // Handle Legacy LocalStorage Ranks gracefully
+        let rankHtml = '';
+        if (String(rankDisplay).includes('/')) {
+            // Old simulated rank format (e.g., "154 / 100000")
+            rankHtml = `<span class="value">${rankDisplay}</span>`;
+        } else {
+            // New Firebase exact rank format
+            rankHtml = `<span class="value">${rankDisplay} <small style="font-size:0.6em; color:#6c757d;">/ ${totalParticipants}</small></span>`;
+        }
 
         let subjectRows = '';
         for (const subject in subjectStats) {
@@ -697,12 +721,14 @@ document.addEventListener('DOMContentLoaded', () => {
                      <div class="stat-card rank">
                         <span class="stat-icon">🏆</span>
                         <div class="stat-info">
-                            <span class="label">Global Rank <small>(Simulated and Not Exact)</small></span>
-                            <span class="value">${rankDisplay || 'N/A'}</span>
+                            <span class="label">Global Rank</span>
+                            ${rankHtml}
                         </div>
                     </div>
                 </div>
             </div>
+
+            ${leaderboardHtml}
 
             <div class="subject-analysis-container">
                 <h3>Subject Wise Analysis</h3>
@@ -739,6 +765,53 @@ document.addEventListener('DOMContentLoaded', () => {
         renderResultChart(correctCount, incorrect, unattempted);
         renderQuestionBreakdown();
     }
+
+function generateLeaderboardHtml(leaderboardData) {
+    if (!leaderboardData || leaderboardData.length === 0) return '';
+    let html = `
+    <div class="leaderboard-section" style="margin-top: 30px; margin-bottom: 30px; background: #fff; border-radius: 16px; padding: 25px; box-shadow: 0 4px 20px rgba(0,30,80,0.06); border: 1px solid #e0e7ef;">
+        <h3 style="text-align: center; color: #1f2a44; margin-top: 0; margin-bottom: 20px; font-family: 'Poppins', sans-serif;"><i class="fas fa-trophy" style="color: #f59e0b;"></i> Live Leaderboard (Top 10)</h3>
+        <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+                <thead>
+                    <tr style="background-color: #f8faff; border-bottom: 2px solid #3b82f6;">
+                        <th style="padding: 12px 15px; color: #1f2a44;">Rank</th>
+                        <th style="padding: 12px 15px; color: #1f2a44;">Name</th>
+                        <th style="padding: 12px 15px; color: #1f2a44;">Score</th>
+                        <th style="padding: 12px 15px; color: #1f2a44;">Accuracy</th>
+                        <th style="padding: 12px 15px; color: #1f2a44;">Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+    `;
+    leaderboardData.forEach((entry, index) => {
+        let rankIcon = index + 1;
+        if (index === 0) rankIcon = '🥇 1st';
+        if (index === 1) rankIcon = '🥈 2nd';
+        if (index === 2) rankIcon = '🥉 3rd';
+        
+        const m = Math.floor(entry.timeTaken / 60);
+        const s = entry.timeTaken % 60;
+        const timeStr = m > 0 ? `${m}m ${s}s` : `${s}s`;
+
+        html += `
+                    <tr style="border-bottom: 1px solid #e0e7ef; transition: background 0.3s ease;" onmouseover="this.style.backgroundColor='#f4faff'" onmouseout="this.style.backgroundColor='transparent'">
+                        <td style="padding: 12px 15px; font-weight: bold; color: #1f2a44;">${rankIcon}</td>
+                        <td style="padding: 12px 15px; color: #333;">${entry.studentName}</td>
+                        <td style="padding: 12px 15px; font-weight: bold; color: #3b82f6;">${entry.score}</td>
+                        <td style="padding: 12px 15px; color: #5a6577;">${entry.percentage}%</td>
+                        <td style="padding: 12px 15px; color: #5a6577;">${timeStr}</td>
+                    </tr>
+        `;
+    });
+    html += `
+                </tbody>
+            </table>
+        </div>
+    </div>
+    `;
+    return html;
+}
 
     function renderResultChart(correct, incorrect, unattempted) {
         if (typeof Chart === 'undefined') {
@@ -799,6 +872,53 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
         });
         container.innerHTML = html;
+    }
+
+    function generateLeaderboardHtml(leaderboardData) {
+        if (!leaderboardData || leaderboardData.length === 0) return '';
+        let html = `
+        <div class="leaderboard-section" style="margin-top: 30px; margin-bottom: 30px; background: #fff; border-radius: 16px; padding: 25px; box-shadow: 0 4px 20px rgba(0,30,80,0.06); border: 1px solid #e0e7ef;">
+            <h3 style="text-align: center; color: #1f2a44; margin-top: 0; margin-bottom: 20px; font-family: 'Poppins', sans-serif;"><i class="fas fa-trophy" style="color: #f59e0b;"></i> Live Leaderboard (Top 10)</h3>
+            <div style="overflow-x: auto;">
+                <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+                    <thead>
+                        <tr style="background-color: #f8faff; border-bottom: 2px solid #3b82f6;">
+                            <th style="padding: 12px 15px; color: #1f2a44;">Rank</th>
+                            <th style="padding: 12px 15px; color: #1f2a44;">Name</th>
+                            <th style="padding: 12px 15px; color: #1f2a44;">Score</th>
+                            <th style="padding: 12px 15px; color: #1f2a44;">Accuracy</th>
+                            <th style="padding: 12px 15px; color: #1f2a44;">Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        `;
+        leaderboardData.forEach((entry, index) => {
+            let rankIcon = index + 1;
+            if (index === 0) rankIcon = '🥇 1st';
+            if (index === 1) rankIcon = '🥈 2nd';
+            if (index === 2) rankIcon = '🥉 3rd';
+            
+            const m = Math.floor(entry.timeTaken / 60);
+            const s = entry.timeTaken % 60;
+            const timeStr = m > 0 ? `${m}m ${s}s` : `${s}s`;
+
+            html += `
+                        <tr style="border-bottom: 1px solid #e0e7ef; transition: background 0.3s ease;" onmouseover="this.style.backgroundColor='#f4faff'" onmouseout="this.style.backgroundColor='transparent'">
+                            <td style="padding: 12px 15px; font-weight: bold; color: #1f2a44;">${rankIcon}</td>
+                            <td style="padding: 12px 15px; color: #333;">${entry.studentName}</td>
+                            <td style="padding: 12px 15px; font-weight: bold; color: #3b82f6;">${entry.score}</td>
+                            <td style="padding: 12px 15px; color: #5a6577;">${entry.percentage}%</td>
+                            <td style="padding: 12px 15px; color: #5a6577;">${timeStr}</td>
+                        </tr>
+            `;
+        });
+        html += `
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        `;
+        return html;
     }
 
     // --- 6. Performance History Logic ---
@@ -892,7 +1012,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <span class="h-value">${result.timeTaken || 'N/A'}</span>
                         </div>
                         <div class="history-stat">
-                            <span class="h-label">Rank <small>(Simulated)</small></span>
+                            <span class="h-label">Rank</span>
                             <span class="h-value">${result.rank || '-'}</span>
                         </div>
                     </div>
@@ -906,16 +1026,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add click listeners to history cards
         const cards = performanceHistoryContainer.querySelectorAll('.history-card');
         cards.forEach(card => {
-            card.addEventListener('click', () => {
+            card.addEventListener('click', async () => {
                 const index = parseInt(card.dataset.index);
                 const reversedHistory = [...readMockPerformance()].reverse();
                 const attempt = reversedHistory[index];
-                loadAttemptDetails(attempt);
+                await loadAttemptDetails(attempt);
             });
         });
     }
 
-    function loadAttemptDetails(attempt) {
+    async function loadAttemptDetails(attempt) {
         if (!allMockTests[attempt.name]) {
             alert('Test data not found. The test might have been removed.');
             return;
@@ -930,7 +1050,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userAnswers = attempt.userAnswers || new Array(currentTest.length).fill(null);
         currentTestRank = attempt.rank;
         
-        calculateAndDisplayResults(false);
+        await calculateAndDisplayResults(false);
     }
 
     showPerformanceBtn.addEventListener('click', displayMockPerformance);
