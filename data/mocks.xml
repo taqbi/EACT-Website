@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
     
-    <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="No" duration="30">
+    <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="Yes" duration="30">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
