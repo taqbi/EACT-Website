@@ -1,5 +1,2121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quizzes>
+<!-- 
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is the fundamental operation performed by computers to carry out arithmetic computations in the ALU?</text>
+    <topic>Computer Architecture</topic>
+    <option>Using transistors to store decimal values directly</option>
+    <option>Processing binary data through logic gate operations</option>
+    <option>Executing floating-point operations in software only</option>
+    <option>Running high-level programming instructions in the CPU</option>
+    <answer>Processing binary data through logic gate operations</answer>
+    <explanation>The Arithmetic Logic Unit (ALU) uses logic gates (like AND, OR, XOR, and NOT) as building blocks to perform binary addition, subtraction, and other logical operations.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements is correct regarding the relationship between instruction execution, memory hierarchy, and addressing modes in a typical von Neumann architecture computer system?</text>
+    <topic>Computer Architecture</topic>
+    <option>Immediate addressing always speeds up execution by avoiding memory access.</option>
+    <option>A larger cache always improves performance, regardless of hit ratio.</option>
+    <option>Data hazards can occur in pipelined CPUs even with only register addressing.</option>
+    <option>Virtual memory removes the need for cache memory.</option>
+    <answer>Data hazards can occur in pipelined CPUs even with only register addressing.</answer>
+    <explanation>Data hazards (like Read-After-Write) occur in pipelined processors when instructions that depend on each other are executed in close proximity, regardless of whether they use registers or memory addressing.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which statement is correct concerning computer memory and data storage fundamentals?</text>
+    <topic>Memory Organization</topic>
+    <option>RAM is non-volatile memory and retains data without power</option>
+    <option>ROM allows both read and write operations during normal computer functioning.</option>
+    <option>Cache memory is faster than the Main memory and stores frequently accessed data.</option>
+    <option>CPU directly accesses secondary storage devices without involving the main memory.</option>
+    <answer>Cache memory is faster than the Main memory and stores frequently accessed data.</answer>
+    <explanation>Cache memory is a high-speed storage layer located close to the CPU that holds data frequently requested by the processor to speed up processing.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which statement is correct regarding CPU operation and instruction execution?</text>
+    <topic>CPU Components</topic>
+    <option>The Program counter stores the address of the current instruction, executed by the CPU.</option>
+    <option>An interrupt is processed only after the completion of the entire program.</option>
+    <option>The instruction register stores the current instruction being decoded or executed.</option>
+    <option>All machine instructions require the same number of clock cycles to execute.</option>
+    <answer>The instruction register stores the current instruction being decoded or executed.</answer>
+    <explanation>The Instruction Register (IR) holds the actual instruction that is currently being decoded or executed by the CPU control unit.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements is/are correct?
+I. Overflow in two's complement addition can be detected by examining only the carry out of the most significant bit.
+II. When converting an unsigned integer to a larger type, zero extension is used to preserve its value.
+III. In Binary-Coded Decimal (BCD) representation, each decimal digit is encoded separately using four binary bits.
+IV. In a byte-addressable system, the effective address calculation is dependent on instruction length.</text>
+    <topic>Data Representation</topic>
+    <option>Only IV is True</option>
+    <option>Only II and III are True</option>
+    <option>Only II and IV are True</option>
+    <option>Only III and IV are True</option>
+    <answer>Only II and III are True</answer>
+    <explanation>Zero extension preserves the value of unsigned numbers when widening types. BCD uses 4 bits (0000-1001) per decimal digit. Statement I is false because overflow requires checking the carry into and out of the MSB.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following correctly classifies hardware and system software?</text>
+    <topic>Hardware and Software</topic>
+    <option>Device Driver - Hardware; Keyboard - System Software</option>
+    <option>Compiler - Hardware; RAM - System Software</option>
+    <option>CPU - Hardware; Operating System - System Software</option>
+    <option>Adobe Scan - Hardware; Monitor - System Software</option>
+    <answer>CPU - Hardware; Operating System - System Software</answer>
+    <explanation>The CPU is a physical component (hardware), while the Operating System is a program that manages the hardware (system software).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A computer has a quad-core CPU with a 2.4 GHz frequency, 16 GB RAM, and a 1 TB SSD. A program that uses many threads and performs frequent disk operations is running very slowly and sometimes crashes. What is the most likely cause?</text>
+    <topic>System Performance</topic>
+    <option>Inefficient multithreading and high memory usage</option>
+    <option>Insufficient CPU core performance</option>
+    <option>Large SSD causing slow disk access</option>
+    <option>Slow processor frequency</option>
+    <answer>Inefficient multithreading and high memory usage</answer>
+    <explanation>Excessive threading can cause context-switching overhead, and high memory usage combined with frequent disk I/O often leads to "thrashing" (excessive swapping to virtual memory), causing severe slowdowns and crashes.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Categorize the following devices as Input (I) and Output (O): i) Light Pen, ii) Punch Card Reader, iii) Plotter, iv) Sound Card, v) Digitizer Tablet, vi) Drum Printer, vii) Scanner.</text>
+    <topic>Input and Output Devices</topic>
+    <option>Input: i), ii), v), vii); Output: iii), iv), vi)</option>
+    <option>Input: i), ii), v); Output: i), iii), iv), vi)</option>
+    <option>Input: ii), vi), vii); Output: i), iii), iv), vi)</option>
+    <option>Input: i), ii), v), vii); Output: iii), iv), vi)</option>
+    <answer>Input: i), ii), v), vii); Output: iii), iv), vi)</answer>
+    <explanation>Light pens, punch card readers, digitizers, and scanners take data in. Plotters, sound cards (connected to speakers), and printers send data out.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Match the following devices with their corresponding descriptions:
+1. Haptic Gloves - (i) Generates tactile sensations...
+2. Tactile Display - (ii) Captures fine hand/finger movements...
+3. Voice Response Unit (VRU) - (iii) Detect user gestures and provide force feedback...
+4. Data Glove - (iv) Generates synthesised audio output...</text>
+    <topic>Input and Output Devices</topic>
+    <option>1-ii, 2-i, 3-iv, 4-iii</option>
+    <option>1-ii, 2-iv, 3-i, 4-iii</option>
+    <option>1-iii, 2-iv, 3-i, 4-ii</option>
+    <option>1-iii, 2-i, 3-iv, 4-ii</option>
+    <answer>1-iii, 2-i, 3-iv, 4-ii</answer>
+    <explanation>Haptic gloves provide force feedback (iii), Tactile displays provide touch sensations like Braille (i), VRU provides audio output (iv), and Data gloves capture movement (ii).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In a system with multiple processes and resource types, which of the following is a valid method to recover from a deadlock?</text>
+    <topic>Operating Systems</topic>
+    <option>Decreasing the CPU priority of all processes</option>
+    <option>Preempt resources from one process and allocate to another</option>
+    <option>Increase the priority of all processes in the deadlock</option>
+    <option>Increase the priority of one of the processes in the deadlock</option>
+    <answer>Preempt resources from one process and allocate to another</answer>
+    <explanation>To break a deadlock, the OS can either terminate processes or preempt (take back) resources from a deadlocked process to give them to others.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider a system using preemptive priority scheduling. Which of the following statements are correct?
+I. Priority inversion can occur when a low-priority process holds a resource that a high-priority process needs.
+II. Under priority inheritance, the low-priority process temporarily inherits the higher priority to avoid blocking.
+III. Priority inversion can be completely avoided if all processes are scheduled in a round-robin fashion.
+IV. Starvation may still occur for low-priority processes even with priority inheritance.</text>
+    <topic>Operating Systems</topic>
+    <option>I and II only</option>
+    <option>II and III only</option>
+    <option>I and IV only</option>
+    <option>I, II and IV only</option>
+    <answer>I, II and IV only</answer>
+    <explanation>Priority inheritance addresses priority inversion (I, II) but does not solve starvation for low-priority tasks (IV). Round-robin (III) does not solve the underlying resource-blocking issue that causes inversion.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements is NOT correct about MS Word?</text>
+    <topic>Microsoft Word</topic>
+    <option>A content control can restrict editing in a document; however cannot enforce data validation.</option>
+    <option>You can apply different first-line indents and hanging indents to different paragraphs within the same style.</option>
+    <option>The Navigation Pane allows searching by headings, pages, or results, but cannot directly display comments.</option>
+    <option>In Track Changes, accepting a change permanently removes the author's metadata associated with that change.</option>
+    <answer>A content control can restrict editing in a document; however cannot enforce data validation.</answer>
+    <explanation>This is incorrect because MS Word content controls (like date pickers or drop-down lists) can indeed be used for basic data validation and formatting constraints.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements is true about MS Word?</text>
+    <topic>Microsoft Word</topic>
+    <option>Using Section Breaks allows different headers and footers in the same document.</option>
+    <option>Using Page Break allows you to have different headers and footers in the same document.</option>
+    <option>Headers and footers cannot be changed once set in a document.</option>
+    <option>Headers and footers are automatically deleted when you close the document.</option>
+    <answer>Using Section Breaks allows different headers and footers in the same document.</answer>
+    <explanation>Section breaks allow the user to break the link between sections, enabling different page orientations, headers, and footers within the same document.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A student writes the formula in cell C2 as: =IF(B2&gt;=1000,"High",IF(B2&gt;=500,"Medium","Low")). Which statement is correct?</text>
+    <topic>Microsoft Excel</topic>
+    <option>The formula will always give an error.</option>
+    <option>The formula will give an error if B2 is blank.</option>
+    <option>The formula will give an error for non-numeric values in B2.</option>
+    <option>The formula will work correctly for all numeric values in B2.</option>
+    <answer>The formula will work correctly for all numeric values in B2.</answer>
+    <explanation>The syntax is a standard nested IF function. It correctly evaluates numbers to categorize them as High, Medium, or Low based on the specified thresholds.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Microsoft Excel, which formula correctly counts the number of students who scored &gt;= 80 in Math (Column B) and &gt;= 90 in Science (Column C)?</text>
+    <topic>Microsoft Excel</topic>
+    <option>=COUNTIFS(B2:B10,"&gt;=80",C2:C10,"&gt;=90")</option>
+    <option>=SUMPRODUCT((B2:B10&gt;=80), (C2:C10&gt;=90))</option>
+    <option>=SUM(IF((B2:B10&gt;=80), (C2:C10&gt;=90),1,0))</option>
+    <option>None of these</option>
+    <answer>=COUNTIFS(B2:B10,"&gt;=80",C2:C10,"&gt;=90")</answer>
+    <explanation>COUNTIFS is designed to count cells that meet multiple criteria across different ranges.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements is correct about email functionality?</text>
+    <topic>Internet and Email</topic>
+    <option>Email filters/rules cannot automatically forward emails to another account without user intervention.</option>
+    <option>Digital signatures in email encrypt the message body so that only the recipient can read it.</option>
+    <option>POP3 protocol is used to download emails from the server to a local computer.</option>
+    <option>Using BCC ensures the sender and recipients cannot see each other.</option>
+    <answer>POP3 protocol is used to download emails from the server to a local computer.</answer>
+    <explanation>Post Office Protocol version 3 (POP3) is a standard mail protocol used to receive emails from a remote server to a local email client.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In Microsoft PowerPoint, which of the following existing slide contents CANNOT be directly converted into SmartArt, without re-entering the data?</text>
+    <topic>Microsoft PowerPoint</topic>
+    <option>A bulleted list</option>
+    <option>A table of data</option>
+    <option>A block of descriptive text</option>
+    <option>An Indented text</option>
+    <answer>A table of data</answer>
+    <explanation>While text and bulleted lists can be converted to SmartArt via the "Convert to SmartArt" button, data inside an Excel-style table cannot be converted directly into a SmartArt graphic.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Consider the following statements about TCP/IP and Internet communication:</text>
+    <topic>Networking</topic>
+    <option>TCP guarantees delivery and the correct order of packets, but not the timing.</option>
+    <option>TCP is faster than UDP because it does not perform any error checking.</option>
+    <option>IPv6 uses 256-bit addresses, but the header size is fixed at 40 bytes.</option>
+    <option>ICMP is used primarily for application-layer data transfer between web servers.</option>
+    <answer>TCP guarantees delivery and the correct order of packets, but not the timing.</answer>
+    <explanation>TCP (Transmission Control Protocol) is connection-oriented and ensures reliability and ordering, but because of retransmissions, it cannot guarantee real-time delivery (timing).</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following statements about Internet routing and protocols is correct?</text>
+    <topic>Networking</topic>
+    <option>BGP (Border Gateway Protocol) is used primarily for routing within a single local network.</option>
+    <option>ICMP is used to encrypt data packets over the Internet.</option>
+    <option>IPv6 adoption eliminates the need for NAT because it provides a vastly larger address space.</option>
+    <option>HTTP/3 relies on TCP for faster connections and multiplexing multiple streams.</option>
+    <answer>IPv6 adoption eliminates the need for NAT because it provides a vastly larger address space.</answer>
+    <explanation>NAT (Network Address Translation) was created to conserve IPv4 addresses. Since IPv6 provides a near-infinite number of addresses, NAT is no longer required for address conservation.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In the context of cloud computing in an IaaS (Infrastructure as a Service) model, what is managed by the service provider?</text>
+    <topic>Cloud Computing</topic>
+    <option>Networking hardware</option>
+    <option>Operating system</option>
+    <option>Hardware platform and operating system</option>
+    <option>Operating system and data</option>
+    <answer>Networking hardware</answer>
+    <explanation>In IaaS, the provider manages the physical infrastructure (servers, storage, networking hardware, virtualization), while the user manages the OS, middleware, and applications.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A computer uses 8-bit 2's complement representation. Which of the following operations will cause overflow?</text>
+    <topic>Data Representation</topic>
+    <option>01010101 + 00110011</option>
+    <option>10011001 + 10101010</option>
+    <option>01111111 + 00000001</option>
+    <option>11110000 + 00010000</option>
+    <answer>01111111 + 00000001</answer>
+    <explanation>01111111 is 127 in decimal. Adding 1 results in 10000000, which in 8-bit 2's complement is -128. Since adding two positive numbers resulted in a negative result, overflow occurred.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A student is using a computer with 8 GB RAM. After opening many heavy programs, the system becomes slow and the hard disk activity light blinks continuously. What is the most accurate explanation?</text>
+    <topic>Memory Management</topic>
+    <option>The operating system has stopped multitasking and is running programs one by one.</option>
+    <option>The CPU cache memory is full, so the system is waiting for space to free up.</option>
+    <option>The operating system is using virtual memory and swapping data between RAM and disk.</option>
+    <option>The BIOS is reallocating hardware resources dynamically.</option>
+    <answer>The operating system is using virtual memory and swapping data between RAM and disk.</answer>
+    <explanation>This phenomenon is known as "thrashing," where the OS spends more time moving data between RAM and the Hard Drive (Virtual Memory) than executing instructions.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>In an e-Office system, which of the following ensures confidentiality during the transmission of a file?</text>
+    <topic>Cyber Security</topic>
+    <option>Applying a digital signature to the document using a public key infrastructure</option>
+    <option>Encrypting the file using the recipient's public key</option>
+    <option>Adding a watermark to the document</option>
+    <option>Scanning the file before sending it</option>
+    <answer>Encrypting the file using the recipient's public key</answer>
+    <explanation>Encryption ensures that only the intended recipient (who possesses the corresponding private key) can decrypt and read the file, providing confidentiality.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A school computer powers on (fans spin and lights turn on), but nothing appears on the monitor and no startup sound is heard. Monitors and cables are tested fine. Swapping the OS drive doesn't help. What is the most likely cause?</text>
+    <topic>Hardware Troubleshooting</topic>
+    <option>The operating system is corrupted and needs to be reinstalled</option>
+    <option>The graphics driver is outdated and incompatible with the monitor</option>
+    <option>A hardware failure in a core internal component</option>
+    <option>The monitor resolution settings are unsupported by the operating system</option>
+    <answer>A hardware failure in a core internal component</answer>
+    <explanation>If a PC fails to POST (Power-On Self-Test) and shows no BIOS/UEFI screen despite power, the issue is typically a failure in the Motherboard, CPU, or RAM, rather than software or drivers.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Anaya wants pages 1–3 of her MS Word report to use Roman numerals (i, ii, iii) and the rest to start from 1, 2, 3. How can she achieve this?</text>
+    <topic>Microsoft Word</topic>
+    <option>Use Mixed Numbering from the Insert tab</option>
+    <option>Add a section break and format page numbers separately</option>
+    <option>Use the Pagination Wizard from the Layout tab and assign custom numbering templates</option>
+    <option>Change the numbering style from the Font settings</option>
+    <answer>Add a section break and format page numbers separately</answer>
+    <explanation>Section breaks allow different formatting (like page number styles or orientations) for different parts of the same document.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A digital artist wants to draw naturally and precisely on a computer. Which device is most suitable?</text>
+    <topic>Input and Output Devices</topic>
+    <option>Graphics tablet</option>
+    <option>Digital stroke enhancer</option>
+    <option>Precision art interface pad</option>
+    <option>Visual rendering controller</option>
+    <answer>Graphics tablet</answer>
+    <explanation>A graphics tablet (or digitizer) uses a pressure-sensitive stylus to allow artists to draw naturally, as if using pen and paper.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>A video editor installs a high-end graphics card, but the software cannot use its features until a specific component is installed. What is it?</text>
+    <topic>System Software</topic>
+    <option>Hardware synchronization module</option>
+    <option>Digital performance translator</option>
+    <option>System interface accelerator</option>
+    <option>Device driver</option>
+    <answer>Device driver</answer>
+    <explanation>A device driver is system software that allows the Operating System and applications to communicate with and control specific hardware components.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which of the following is NOT true about virtual memory in an operating system?</text>
+    <topic>Operating Systems</topic>
+    <option>It allows programs to use more memory than the physically available RAM</option>
+    <option>It uses disk space to extend the apparent main memory</option>
+    <option>It permanently stores running processes in secondary storage</option>
+    <option>It loads only required portions of programs into RAM when needed</option>
+    <answer>It permanently stores running processes in secondary storage</answer>
+    <explanation>Virtual memory is temporary. Running processes are swapped back and forth between RAM and disk; once a program is closed, its data in the swap space/page file is no longer maintained as a running process.</explanation>
+</question>
+
+<question category="pyq" exam="JKSSB Junior Assistant" subject="Computer Awareness">
+    <text>Which feature in Microsoft PowerPoint allows a logo to appear automatically in the same position on all slides?</text>
+    <topic>Microsoft PowerPoint</topic>
+    <option>Global Slide Replication</option>
+    <option>Layout Replicator</option>
+    <option>Theme Designer</option>
+    <option>Slide Master</option>
+    <answer>Slide Master</answer>
+    <explanation>Slide Master is a top-level slide that stores information about the theme and layout. Changes made here apply to all slides in the presentation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the following statements regarding the CPU's Control Unit (CU):
+I. It performs actual data processing operations like addition and subtraction.
+II. It uses the Instruction Register (IR) to hold the current instruction being decoded.
+III. It generates timing and control signals to manage the flow of data between the CPU and peripherals.
+IV. It directly increases the value of the Program Counter (PC) after an instruction fetch.
+Which of the statements are correct?</text>
+    <topic>Components of a Computer - CPU</topic>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>II and III only</option>
+    <option>All of the above</option>
+    <answer>II, III and IV only</answer>
+    <explanation>Statement I is false because data processing is the job of the ALU, not the CU. The CU decodes instructions (IR), manages data flow (control signals), and updates the PC.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A system uses a "Write-Back" cache policy instead of a "Write-Through" policy. Which of the following best describes the implication of this component's behavior?</text>
+    <topic>Components of a Computer - Cache Memory</topic>
+    <option>Main memory is updated immediately every time the CPU writes to the cache.</option>
+    <option>Main memory is only updated when a cache line is replaced, reducing bus traffic.</option>
+    <option>The cache is bypassed entirely during write operations to ensure data integrity.</option>
+    <option>It increases the frequency of memory access cycles, slowing down the CPU.</option>
+    <answer>Main memory is only updated when a cache line is replaced, reducing bus traffic.</answer>
+    <explanation>In Write-Back, the CPU updates the cache and marks the line as 'dirty'. The main memory is updated only when that line is evicted, which saves time and bandwidth compared to Write-Through.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the CPU Registers (Column-A) with their specific functions (Column-B):
+Column-A:
+1. MAR (Memory Address Register)
+2. MDR (Memory Data Register)
+3. Accumulator
+4. Current Instruction Register (CIR)
+Column-B:
+i. Holds the actual data fetched from or waiting to be sent to memory.
+ii. Holds the address of the memory location to be accessed.
+iii. Stores the results of arithmetic and logical operations.
+iv. Holds the instruction that is currently being decoded.</text>
+    <topic>Components of a Computer - Registers</topic>
+    <option>1-ii, 2-i, 3-iii, 4-iv</option>
+    <option>1-i, 2-ii, 3-iii, 4-iv</option>
+    <option>1-ii, 2-iv, 3-i, 4-iii</option>
+    <option>1-iv, 2-i, 3-iii, 4-ii</option>
+    <answer>1-ii, 2-i, 3-iii, 4-iv</answer>
+    <explanation>MAR holds addresses (ii), MDR holds data (i), Accumulator holds results (iii), and CIR holds the current instruction (iv).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In a modern motherboard architecture, what is the primary difference between the roles of the Northbridge and Southbridge chipsets (or their modern integrated equivalents)?</text>
+    <topic>Components of a Computer - Motherboard</topic>
+    <option>Northbridge handles slow I/O like USB, while Southbridge handles high-speed RAM communication.</option>
+    <option>Northbridge manages communication between the CPU, RAM, and GPU; Southbridge handles slower peripherals like BIOS and SATA.</option>
+    <option>Southbridge is integrated into the CPU, while Northbridge is located on the hard drive.</option>
+    <option>Northbridge is responsible for power management, while Southbridge handles arithmetic operations.</option>
+    <answer>Northbridge manages communication between the CPU, RAM, and GPU; Southbridge handles slower peripherals like BIOS and SATA.</answer>
+    <explanation>The Northbridge (Memory Controller Hub) connects high-speed components, while the Southbridge (I/O Controller Hub) manages slower connections like USB, Audio, and storage.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A computer technician is troubleshooting a PC that freezes during heavy gaming. He notices the "L3 Cache" latency is extremely high. Which of the following is correct regarding L3 Cache?</text>
+    <topic>Components of a Computer - Memory Hierarchy</topic>
+    <option>L3 cache is private to each core, meaning one core cannot access another's L3 data.</option>
+    <option>L3 cache is slower than L1 and L2 but shared across all CPU cores to improve data sharing.</option>
+    <option>L3 cache is located on the RAM modules to speed up memory access.</option>
+    <option>L3 cache is non-volatile and retains data after the computer is turned off.</option>
+    <answer>L3 cache is slower than L1 and L2 but shared across all CPU cores to improve data sharing.</answer>
+    <explanation>L3 cache is typically shared among all cores of a multi-core processor, acting as a pool that is faster than RAM but slower than the core-specific L1 and L2 caches.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding the "System Bus", which of the following statements is/are NOT correct?
+I. The Data Bus is bidirectional, allowing data to flow to and from the CPU.
+II. The Address Bus is bidirectional, allowing the memory to tell the CPU where it is located.
+III. The width of the Data Bus directly determines the maximum addressable memory capacity.
+IV. The Control Bus carries signals like 'Read/Write' and 'Clock'.</text>
+    <topic>Components of a Computer - Bus System</topic>
+    <option>Only II</option>
+    <option>II and III only</option>
+    <option>I, II and IV only</option>
+    <option>III and IV only</option>
+    <answer>II and III only</answer>
+    <explanation>Statement II is wrong because the Address Bus is unidirectional (CPU to Memory/IO). Statement III is wrong because the Address Bus width (not Data Bus) determines addressable memory capacity.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following scenarios describes the use of Direct Memory Access (DMA)?</text>
+    <topic>Components of a Computer - I/O Interaction</topic>
+    <option>The CPU waits for every byte of data to be read from the Hard Disk before performing another task.</option>
+    <option>The GPU renders frames and sends them to the monitor via the CPU's ALU.</option>
+    <option>A high-speed network card transfers data directly to the RAM without constant CPU intervention.</option>
+    <option>The RAM sends data to the Cache only when the Control Unit issues a 'Step' command.</option>
+    <answer>A high-speed network card transfers data directly to the RAM without constant CPU intervention.</answer>
+    <explanation>DMA allows certain hardware subsystems to access main system memory independently of the CPU, which increases system performance by freeing up the processor.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the "Instruction Cycle". If a CPU is in the 'Execute' phase, which register's value was most likely used in the immediately preceding 'Decode' phase?</text>
+    <topic>Components of a Computer - CPU Cycles</topic>
+    <option>Program Counter (PC)</option>
+    <option>Instruction Register (IR)</option>
+    <option>Memory Address Register (MAR)</option>
+    <option>Stack Pointer (SP)</option>
+    <answer>Instruction Register (IR)</answer>
+    <explanation>During the Decode phase, the Control Unit examines the opcode stored in the Instruction Register (IR) to determine what action needs to be performed in the Execute phase.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A computer is upgraded from a 32-bit CPU to a 64-bit CPU. Which component's "Word Size" has effectively changed, and what is the primary benefit?</text>
+    <topic>Components of a Computer - Architecture</topic>
+    <option>RAM; it can now store twice as much data per cell.</option>
+    <option>Internal Registers; the CPU can process larger integers and address more virtual memory.</option>
+    <option>Hard Drive; the data transfer rate between the disk and CPU doubles.</option>
+    <option>ALU; it can now perform decimal calculations directly without binary conversion.</option>
+    <answer>Internal Registers; the CPU can process larger integers and address more virtual memory.</answer>
+    <explanation>CPU 'bitness' (32-bit vs 64-bit) refers to the width of its general-purpose registers. 64-bit registers allow for larger integer math and significantly larger memory addressing (beyond 4GB).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about CMOS (Complementary Metal-Oxide-Semiconductor) RAM is correct?</text>
+    <topic>Components of a Computer - Motherboard</topic>
+    <option>It stores the entire Operating System to ensure fast booting.</option>
+    <option>It is a type of volatile memory that requires a small battery to retain BIOS settings and the system clock.</option>
+    <option>It is faster than L1 cache and is used for storing frequently used CPU instructions.</option>
+    <option>It is the primary storage used by SSDs to maintain data without power.</option>
+    <answer>It is a type of volatile memory that requires a small battery to retain BIOS settings and the system clock.</answer>
+    <explanation>CMOS RAM stores system configuration (like boot order and date/time). It is volatile, which is why motherboards have a small CR2032 battery to keep it powered when the PC is off.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of computer secondary storage, how does an SSD (Solid State Drive) differ fundamentally from an HDD (Hard Disk Drive)?
+I. SSDs use NAND-based flash memory, while HDDs use magnetic platters.
+II. SSDs have no moving parts, leading to lower latency and higher physical durability.
+III. HDDs are typically faster at random read/write operations than SSDs.
+IV. SSDs have a limited number of write cycles compared to the virtually unlimited writes of magnetic HDDs.</text>
+    <topic>Components of a Computer - Storage</topic>
+    <option>I and II only</option>
+    <option>I, II and IV only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and IV only</answer>
+    <explanation>Statement III is false; SSDs are significantly faster at random read/write operations because they don't have a physical head that needs to move to a specific location on a platter.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the purpose of the "Arithmetic Status Flags" (like Zero flag, Carry flag, Overflow flag) in the ALU?</text>
+    <topic>Components of a Computer - ALU</topic>
+    <option>To store the memory address of the next instruction.</option>
+    <option>To provide information about the result of the last operation for conditional branching.</option>
+    <option>To accelerate the speed of the system clock during complex calculations.</option>
+    <option>To signal the OS that a hardware interrupt has occurred.</option>
+    <answer>To provide information about the result of the last operation for conditional branching.</answer>
+    <explanation>Status flags are bits in a specialized register that tell the CPU if the last ALU operation resulted in a zero, a negative number, a carry, or an overflow. This is essential for "if-then" logic in programs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A user complains that their computer's "Clock Speed" is 3.5 GHz, but it performs slower than a 2.8 GHz computer in a specific task. Which of the following factors explains this?
+I. IPC (Instructions Per Cycle) differences between architectures.
+II. Number of physical cores and logical threads.
+III. Cache size and memory latency.
+IV. The color of the computer case.</text>
+    <topic>Components of a Computer - Performance</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and III only</option>
+    <option>I, III and IV only</option>
+    <answer>I, II and III only</answer>
+    <explanation>Clock speed is just one factor. IPC (efficiency), core count (multitasking), and cache/memory speed (data availability) all contribute to overall performance.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes the function of the "ROM BIOS"?
+I. It performs the POST (Power-On Self-Test) when the computer is turned on.
+II. It loads the operating system kernel from the hard drive into the RAM.
+III. It provides a software interface between the hardware and the OS for basic input/output tasks.
+IV. It stores the user's personal files so they are available immediately at startup.</text>
+    <topic>Components of a Computer - BIOS/ROM</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>BIOS (Basic Input/Output System) initializes hardware (POST), finds the bootloader to load the OS, and provides basic low-level drivers. It does not store personal files (IV).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A "Dual-Channel" RAM configuration is intended to improve which aspect of computer performance?</text>
+    <topic>Components of a Computer - RAM</topic>
+    <option>The total capacity of the memory (e.g., making 8GB act like 16GB).</option>
+    <option>The memory bandwidth, by doubling the data path width between RAM and the memory controller.</option>
+    <option>The non-volatility of the RAM, allowing it to act like an SSD.</option>
+    <option>The physical speed (MHz) of each individual RAM chip.</option>
+    <answer>The memory bandwidth, by doubling the data path width between RAM and the memory controller.</answer>
+    <explanation>Dual-channel memory allows the memory controller to communicate with two RAM modules simultaneously over two separate 64-bit channels, effectively doubling the bandwidth (128-bit path).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following correctly describes the "Pipelining" technique used in modern CPUs?</text>
+    <topic>Components of a Computer - CPU Architecture</topic>
+    <option>Executing multiple entire programs at the exact same time on a single core.</option>
+    <option>Breaking the instruction cycle into stages so that multiple instructions can be processed simultaneously at different stages.</option>
+    <option>Increasing the physical size of the CPU to fit more transistors.</option>
+    <option>Connecting multiple CPUs together using a high-speed fiber optic cable.</option>
+    <answer>Breaking the instruction cycle into stages so that multiple instructions can be processed simultaneously at different stages.</answer>
+    <explanation>Pipelining is like an assembly line; while one instruction is being executed, the next is being decoded, and the one after that is being fetched. This increases throughput.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of computer monitors, what is the role of the "Graphics Processing Unit (GPU)" compared to the CPU?
+I. The GPU is specialized for parallel processing of pixels and mathematical vectors.
+II. The CPU is better at sequential logic and branch prediction.
+III. The GPU has its own dedicated high-speed VRAM.
+IV. The CPU handles the actual display of light on the physical screen.</text>
+    <topic>Components of a Computer - GPU</topic>
+    <option>I, II and III only</option>
+    <option>I and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>GPUs are designed for highly parallel tasks (rendering). CPUs are better for complex logic. The monitor hardware itself, not the CPU, handles the physical display of light (IV).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What happens during a "Hardware Interrupt"?
+I. The CPU immediately finishes the entire current program before checking the interrupt.
+II. The CPU pauses its current execution and saves its state (registers) in the stack.
+III. The CPU executes an Interrupt Service Routine (ISR) associated with the device.
+IV. The computer must be restarted to clear the interrupt signal.</text>
+    <topic>Components of a Computer - I/O</topic>
+    <option>I and III only</option>
+    <option>II and III only</option>
+    <option>III and IV only</option>
+    <option>Only II</option>
+    <answer>II and III only</answer>
+    <explanation>When a hardware interrupt occurs (like a mouse click), the CPU suspends its current task, saves its state, runs the ISR to handle the event, and then resumes the task. It does not finish the whole program first (I).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the following memory types (Column-I) with their volatile/non-volatile nature (Column-II):
+Column-I:
+1. SRAM (Static RAM)
+2. EEPROM
+3. DRAM (Dynamic RAM)
+4. Magnetic Tape
+Column-II:
+a. Volatile (High Speed, used in Cache)
+b. Volatile (Requires constant refreshing, used in Main Memory)
+c. Non-Volatile (Can be erased and reprogrammed electrically)
+d. Non-Volatile (Used for long-term backups)</text>
+    <topic>Components of a Computer - Memory</topic>
+    <option>1-a, 2-c, 3-b, 4-d</option>
+    <option>1-b, 2-a, 3-c, 4-d</option>
+    <option>1-a, 2-b, 3-c, 4-d</option>
+    <option>1-c, 2-a, 3-b, 4-d</option>
+    <answer>1-a, 2-c, 3-b, 4-d</answer>
+    <explanation>SRAM is fast/volatile (Cache). EEPROM is non-volatile/reprogrammable (BIOS chip). DRAM is volatile/needs refresh (System RAM). Magnetic Tape is non-volatile (Backup).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which component is primarily responsible for "Instruction Decoding"?</text>
+    <topic>Components of a Computer - CPU</topic>
+    <option>ALU (Arithmetic Logic Unit)</option>
+    <option>Control Unit (CU)</option>
+    <option>Memory Management Unit (MMU)</option>
+    <option>Input/Output Processor</option>
+    <answer>Control Unit (CU)</answer>
+    <explanation>The Control Unit fetches instructions from memory, decodes them to understand the required operation, and then signals other components to carry it out.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A "Heat Sink" and "Cooling Fan" are essential for which computer component, and why?</text>
+    <topic>Components of a Computer - Hardware</topic>
+    <option>The RAM; because it uses mechanical parts that generate friction.</option>
+    <option>The CPU; to dissipate thermal energy generated by the movement of billions of electrons through transistors.</option>
+    <option>The Hard Drive; to keep the magnetic platters from melting during high-speed rotation.</option>
+    <option>The Monitor; to prevent the pixels from burning out.</option>
+    <answer>The CPU; to dissipate thermal energy generated by the movement of billions of electrons through transistors.</answer>
+    <explanation>Modern CPUs operate at high frequencies and high transistor density, generating significant heat. Without a heat sink and fan, the CPU would overheat and undergo thermal throttling or permanent damage.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is true about "Register Renaming"?</text>
+    <topic>Components of a Computer - CPU Architecture</topic>
+    <option>It allows a user to rename files in the Windows Registry more quickly.</option>
+    <option>It is a technique used by CPUs to avoid 'false' data dependencies in out-of-order execution.</option>
+    <option>It is the process of assigning a new name to a computer on a local network.</option>
+    <option>It allows the ALU to perform floating-point operations using integer registers.</option>
+    <answer>It is a technique used by CPUs to avoid 'false' data dependencies in out-of-order execution.</answer>
+    <explanation>Register renaming is an architectural feature that maps architectural registers to a larger pool of physical registers, allowing instructions to execute in parallel without waiting for a register to be freed by an unrelated instruction.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following best describes the "Harvard Architecture" compared to the "Von Neumann Architecture"?</text>
+    <topic>Components of a Computer - Architecture</topic>
+    <option>Harvard architecture uses a single bus for both data and instructions.</option>
+    <option>Harvard architecture has separate physical storage and separate buses for instructions and data.</option>
+    <option>Von Neumann architecture is faster because it can fetch data and instructions simultaneously.</option>
+    <option>Harvard architecture is only used in supercomputers, while Von Neumann is used in calculators.</option>
+    <answer>Harvard architecture has separate physical storage and separate buses for instructions and data.</answer>
+    <explanation>In Von Neumann architecture, instructions and data share the same bus (causing a bottleneck). Harvard architecture uses separate paths, allowing simultaneous fetching of both.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A "UPS" (Uninterruptible Power Supply) is considered a component for system reliability. What is its main function during a power surge?</text>
+    <topic>Components of a Computer - Peripherals</topic>
+    <option>To increase the CPU clock speed during the surge.</option>
+    <option>To act as a buffer/filter to protect internal components from voltage spikes and provide battery backup.</option>
+    <option>To store the data from RAM onto the internet cloud automatically.</option>
+    <option>To convert the computer's AC power into DC power more efficiently than a PSU.</option>
+    <answer>To act as a buffer/filter to protect internal components from voltage spikes and provide battery backup.</answer>
+    <explanation>UPS units provide surge protection (filtering the "dirty" power) and battery backup so that the system can be safely shut down during a power failure.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following correctly identifies "Firmware"?
+I. It is software that is "hard-coded" into a hardware device.
+II. It is typically stored in ROM or Flash memory.
+III. It can be easily deleted by a user like a standard .exe file.
+IV. The BIOS of a computer is a prime example of firmware.</text>
+    <topic>Components of a Computer - Software/Hardware</topic>
+    <option>I, II and IV only</option>
+    <option>I and II only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and IV only</answer>
+    <explanation>Firmware is low-level software embedded in hardware. It is not easily deleted (III) because it is stored in non-volatile memory like ROM or Flash to ensure the device can function upon startup.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the primary role of the "Expansion Slots" (like PCIe) on a motherboard?</text>
+    <topic>Components of a Computer - Motherboard</topic>
+    <option>To increase the physical size of the motherboard.</option>
+    <option>To provide a standardized interface for adding additional hardware capabilities like graphics, networking, or sound.</option>
+    <option>To act as a cooling vent for the CPU.</option>
+    <option>To connect the power supply to the processor.</option>
+    <answer>To provide a standardized interface for adding additional hardware capabilities like graphics, networking, or sound.</answer>
+    <explanation>Expansion slots allow users to customize their PC by adding cards (Video cards, Sound cards, Network cards) that communicate with the CPU over the system bus.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of computer storage, what does the term "Latency" refer to?</text>
+    <topic>Components of a Computer - Performance</topic>
+    <option>The total amount of data that can be stored on a disk.</option>
+    <option>The time delay between a request for data and the moment the data transfer begins.</option>
+    <option>The physical weight of the storage device.</option>
+    <option>The number of bits processed per second by the ALU.</option>
+    <answer>The time delay between a request for data and the moment the data transfer begins.</answer>
+    <explanation>Latency is the "wait time." In HDDs, it includes the time for the platter to rotate (rotational latency) and the head to move (seek time).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding "Virtual Memory", which component of the computer is it physically located on?</text>
+    <topic>Components of a Computer - Memory</topic>
+    <option>Inside the CPU's Cache.</option>
+    <option>On the Secondary Storage (HDD/SSD).</option>
+    <option>Inside the RAM modules.</option>
+    <option>On the CMOS chip.</option>
+    <answer>On the Secondary Storage (HDD/SSD).</answer>
+    <explanation>Virtual memory is a memory management technique where the OS uses a portion of the hard drive (Page file/Swap space) to act as an extension of the physical RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about "Motherboard Form Factors" (like ATX, Micro-ATX) is correct?</text>
+    <topic>Components of a Computer - Motherboard</topic>
+    <option>They determine the speed of the CPU installed on them.</option>
+    <option>They define the physical dimensions and layout of the mounting holes and ports.</option>
+    <option>They determine whether a computer uses Windows or Linux.</option>
+    <option>They define the maximum storage capacity of the connected Hard Drive.</option>
+    <answer>They define the physical dimensions and layout of the mounting holes and ports.</answer>
+    <explanation>Form factor standards ensure that motherboards fit into specific case sizes and that the power supply connectors and expansion slots align correctly.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of the "Northbridge" in legacy systems?</text>
+    <topic>Components of a Computer - Chipset</topic>
+    <option>To connect the CPU to high-speed components like RAM and the AGP/PCIe bus.</option>
+    <option>To connect the CPU to slow components like the keyboard and mouse.</option>
+    <option>To manage the power distribution from the PSU.</option>
+    <option>To store the permanent BIOS settings.</option>
+    <answer>To connect the CPU to high-speed components like RAM and the AGP/PCIe bus.</answer>
+    <explanation>The Northbridge was the high-speed controller. In modern systems, these functions are largely integrated directly into the CPU (System on a Chip - SoC).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is an example of an "Optical" storage device?</text>
+    <topic>Components of a Computer - Storage</topic>
+    <option>USB Flash Drive</option>
+    <option>Blue-ray Disc</option>
+    <option>Solid State Drive</option>
+    <option>Magnetic Tape</option>
+    <answer>Blue-ray Disc</answer>
+    <explanation>Optical storage uses lasers to read and write data from pits on a reflective surface. Examples include CDs, DVDs, and Blu-ray discs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>The "System Clock" in a computer generates pulses. What is the purpose of these pulses?</text>
+    <topic>Components of a Computer - CPU</topic>
+    <option>To keep track of the time of day for the user.</option>
+    <option>To synchronize the timing of all computer operations.</option>
+    <option>To provide electricity to the USB ports.</option>
+    <option>To count the number of files stored on the Hard Drive.</option>
+    <answer>To synchronize the timing of all computer operations.</answer>
+    <explanation>The system clock acts as a metronome, ensuring that all components (CPU, Bus, etc.) operate in sync. Each pulse represents one "clock cycle."</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the difference between "Buffered" (Registered) RAM and "Unbuffered" RAM?</text>
+    <topic>Components of a Computer - RAM</topic>
+    <option>Buffered RAM is faster for gaming; Unbuffered is for office work.</option>
+    <option>Buffered RAM has an extra register that reduces the electrical load on the memory controller, used in servers.</option>
+    <option>Unbuffered RAM is non-volatile; Buffered is volatile.</option>
+    <option>Buffered RAM is only used in laptops; Unbuffered is for desktops.</option>
+    <answer>Buffered RAM has an extra register that reduces the electrical load on the memory controller, used in servers.</answer>
+    <explanation>Buffered (Registered) RAM is designed for stability in systems with many RAM modules (like servers). The buffer acts as an intermediary, reducing the electrical strain on the CPU's memory controller.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about "Touchscreens" is accurate?
+I. Resistive touchscreens rely on pressure to connect two conductive layers.
+II. Capacitive touchscreens use the electrical properties of the human body.
+III. Capacitive touchscreens generally do not work with standard plastic styluses.
+IV. Both types are strictly input devices and do not provide output functionality.</text>
+    <topic>Components of a Computer - I/O</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Touchscreens are both input (touch) and output (display) devices, making IV false. Capacitive screens require conductive contact, hence plastic pens don't work (III).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider a 2.0 TB HDD. If it is "Fragmented", what exactly has happened to the data?</text>
+    <topic>Components of a Computer - Storage</topic>
+    <option>The data has been physically broken into smaller pieces inside the magnetic material.</option>
+    <option>Files are stored in non-contiguous sectors across the platter, increasing seek time.</option>
+    <option>The disk has developed physical scratches on the surface.</option>
+    <option>The data has been compressed to take up less space.</option>
+    <answer>Files are stored in non-contiguous sectors across the platter, increasing seek time.</answer>
+    <explanation>Fragmentation occurs when the OS cannot find enough contiguous space to store a file, so it scatters pieces of the file across the disk. The read head must jump around, slowing down performance.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following best describes "SRAM" compared to "DRAM"?
+I. SRAM is faster but more expensive than DRAM.
+II. DRAM requires periodic refreshing, while SRAM does not.
+III. SRAM uses transistors to store bits, while DRAM uses capacitors.
+IV. SRAM is used for Main Memory (RAM), while DRAM is used for Cache.</text>
+    <topic>Components of a Computer - Memory</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>I, II, III and IV</option>
+    <answer>I, II and III only</answer>
+    <explanation>Statement IV is reversed: SRAM is for Cache, and DRAM is for Main Memory. SRAM is fast because it doesn't need refreshing (II), using a flip-flop transistor circuit (III).</explanation>
+</question>
+
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding "Cache Mapping", what is the difference between "Direct Mapping" and "Fully Associative Mapping"?</text>
+    <topic>Components of a Computer - Cache</topic>
+    <option>Direct mapping allows a memory block to be placed in any cache line.</option>
+    <option>Fully associative mapping allows a memory block to be placed in any cache line, reducing conflict misses.</option>
+    <option>Direct mapping is slower but more flexible than associative mapping.</option>
+    <option>Fully associative mapping requires less complex hardware than direct mapping.</option>
+    <answer>Fully associative mapping allows a memory block to be placed in any cache line, reducing conflict misses.</answer>
+    <explanation>In Direct Mapping, each memory block has only one possible cache location. In Fully Associative, it can go anywhere, which is more flexible but requires more complex hardware to search for the data.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of the "Instruction Pointer" (also known as Program Counter)?</text>
+    <topic>Components of a Computer - Registers</topic>
+    <option>It stores the result of the current arithmetic operation.</option>
+    <option>It holds the address of the next instruction to be fetched from memory.</option>
+    <option>It points to the location of the mouse cursor on the screen.</option>
+    <option>It stores the user's password for secure login.</option>
+    <answer>It holds the address of the next instruction to be fetched from memory.</answer>
+    <explanation>The Program Counter (PC) or Instruction Pointer (IP) is a register that keeps track of where the CPU is in a program by storing the memory address of the next instruction to be executed.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is NOT a component of the "Von Neumann Bottleneck"?</text>
+    <topic>Components of a Computer - Architecture</topic>
+    <option>The shared bus for both data and instructions.</option>
+    <option>The fact that the CPU is significantly faster than the memory.</option>
+    <option>The limited throughput between the processor and the RAM.</option>
+    <option>The use of a cooling fan on the CPU.</option>
+    <answer>The use of a cooling fan on the CPU.</answer>
+    <explanation>The Von Neumann Bottleneck refers to the performance limitation caused by the single path between the CPU and memory. Cooling fans (hardware cooling) have nothing to do with this architectural limitation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In a multi-core processor, what is the role of "Core Affinity"?</text>
+    <topic>Components of a Computer - CPU</topic>
+    <option>It allows a process to be restricted to running on specific CPU cores.</option>
+    <option>It allows the CPU to share its power with the GPU.</option>
+    <option>It measures how much the CPU "likes" the operating system.</option>
+    <option>It is a type of RAM that works only with specific processors.</option>
+    <answer>It allows a process to be restricted to running on specific CPU cores.</answer>
+    <explanation>Core affinity (or CPU pinning) is a setting that tells the OS scheduler to keep a specific process or thread on a specific core to improve cache hits and performance.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about "RAID 1" (Redundant Array of Independent Disks) is correct?</text>
+    <topic>Components of a Computer - Storage</topic>
+    <option>It stripes data across two disks to double the speed but has no redundancy.</option>
+    <option>It mirrors data across two disks, providing 100% redundancy but no increase in storage capacity.</option>
+    <option>It uses parity bits to reconstruct data if a drive fails.</option>
+    <option>It combines a Hard Drive and an SSD into a single logical volume.</option>
+    <answer>It mirrors data across two disks, providing 100% redundancy but no increase in storage capacity.</answer>
+    <explanation>RAID 1 is "Mirroring." Whatever is written to Disk A is written to Disk B. If one fails, the data is safe on the other. You only get the capacity of one disk.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which component of the computer translates the computer's digital signals into high-frequency analog signals for transmission over telephone lines (historically)?</text>
+    <topic>Components of a Computer - Peripherals</topic>
+    <option>Network Interface Card (NIC)</option>
+    <option>Modem (Modulator-Demodulator)</option>
+    <option>Router</option>
+    <option>Switch</option>
+    <answer>Modem (Modulator-Demodulator)</answer>
+    <explanation>A modem modulates digital signals into analog for transmission and demodulates incoming analog signals back into digital for the computer.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the "POST" (Power-On Self-Test). If the system detects a RAM failure during this stage, how does it typically communicate this to the user before the screen is initialized?</text>
+    <topic>Components of a Computer - BIOS</topic>
+    <option>By sending an email to the user.</option>
+    <option>Through a series of audible "Beep Codes" from the motherboard speaker.</option>
+    <option>By vibrating the computer case.</option>
+    <option>By automatically ordering new RAM from the manufacturer.</option>
+    <answer>Through a series of audible "Beep Codes" from the motherboard speaker.</answer>
+    <explanation>Since the monitor may not be working if the system can't boot, motherboards use "Beep Codes" to signal hardware errors during the POST process.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the difference between "Bit" and "Baud" rate in the context of data transmission components?</text>
+    <topic>Components of a Computer - Communication</topic>
+    <option>Bit rate is the number of bits per second; Baud rate is the number of signal changes per second.</option>
+    <option>Bit rate is only for wireless; Baud rate is only for wired.</option>
+    <option>They are exactly the same thing in all scenarios.</option>
+    <option>Baud rate is measured in Bytes, and Bit rate is measured in bits.</option>
+    <answer>Bit rate is the number of bits per second; Baud rate is the number of signal changes per second.</answer>
+    <explanation>Bit rate measures actual data throughput. Baud rate measures how many times the state of the communication line changes. One "baud" can sometimes carry multiple "bits."</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes the function of a "Digitizer" as an input device?</text>
+    <topic>Components of a Computer - I/O</topic>
+    <option>It converts analog sound waves into digital MP3 files.</option>
+    <option>It converts precise physical movements (usually from a stylus) into digital coordinates on the screen.</option>
+    <option>It converts digital text into printed Braille characters.</option>
+    <option>It converts 2D images into 3D holographic projections.</option>
+    <answer>It converts precise physical movements (usually from a stylus) into digital coordinates on the screen.</answer>
+    <explanation>Digitizers (Graphics tablets) are used by designers and engineers to draw or trace with high precision, converting the stylus position into digital data.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is "ECC" (Error Correction Code) RAM, and where is it typically used?</text>
+    <topic>Components of a Computer - RAM</topic>
+    <option>It is extra fast RAM used in gaming consoles.</option>
+    <option>It is specialized RAM that can detect and fix single-bit data corruption, used in servers and workstations.</option>
+    <option>It is RAM that encrypts all data to prevent hacking.</option>
+    <option>It is a type of RAM that doesn't require electricity to store data.</option>
+    <answer>It is specialized RAM that can detect and fix single-bit data corruption, used in servers and workstations.</answer>
+    <explanation>ECC RAM uses extra bits to store a checksum of the data. It can detect and correct the most common types of internal data corruption, making it vital for critical server tasks.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which statement is correct regarding "Micro-instructions"?</text>
+    <topic>Components of a Computer - CPU</topic>
+    <option>They are the high-level commands written in Java or C++.</option>
+    <option>They are the low-level, primitive signals that implement a single machine-language instruction.</option>
+    <option>They are instructions sent to a microwave oven's computer.</option>
+    <option>They are instructions used to delete small files from the hard drive.</option>
+    <answer>They are the low-level, primitive signals that implement a single machine-language instruction.</answer>
+    <explanation>One machine code instruction (like ADD) is actually carried out by a series of even smaller "micro-instructions" that open/close specific logic gates in the CPU.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the purpose of the "ZIF" (Zero Insertion Force) socket on a motherboard?</text>
+    <topic>Components of a Computer - Hardware</topic>
+    <option>To allow the user to plug in a USB drive without using any force.</option>
+    <option>To allow a CPU to be installed or removed easily without the risk of bending the fragile pins.</option>
+    <option>To increase the electrical current flowing to the cooling fan.</option>
+    <option>To protect the computer from static electricity during cleaning.</option>
+    <answer>To allow a CPU to be installed or removed easily without the risk of bending the fragile pins.</answer>
+    <explanation>A ZIF socket has a lever that, when lifted, releases the tension on the CPU pins, allowing the processor to be dropped into place safely without physical pressure.</explanation>
+</question>
+
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the following statements regarding **Biometric Input Devices**:
+I. Retinal scanners map the unique patterns of blood vessels at the back of the eye.
+II. Iris recognition is considered more intrusive than retinal scanning because it requires physical contact with the lens.
+III. Palm vein recognition uses near-infrared light to capture the vascular pattern of a person's hand.
+IV. Facial recognition systems are strictly 2D and cannot be fooled by high-resolution photographs.
+Which of the statements are correct?</text>
+    <topic>Input Devices - Biometrics</topic>
+    <option>I and III only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>I, III and IV only</option>
+    <answer>I and III only</answer>
+    <explanation>Statement II is false; retinal scanning is more intrusive than iris recognition. Statement IV is false; 2D facial recognition can be fooled by photos, which is why 3D depth-sensing (like LiDAR) is used in modern systems.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A specialized user requires a device that can convert 3D physical objects into digital 3D models for CAD (Computer-Aided Design). Which of the following devices is most suitable?</text>
+    <topic>Input Devices - 3D Scanning</topic>
+    <option>Flatbed Scanner with high DPI</option>
+    <option>LiDAR (Light Detection and Raging) Scanner</option>
+    <option>Graphic Tablet with a pressure-sensitive stylus</option>
+    <option>Optical Mark Reader (OMR)</option>
+    <answer>LiDAR (Light Detection and Raging) Scanner</answer>
+    <explanation>LiDAR scanners use laser pulses to measure distances and create high-resolution 3D "point clouds" of physical objects or environments, which are then converted into digital 3D models.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the specialized Input Devices (Column-A) with their primary application (Column-B):
+Column-A:
+1. MIDI Controller
+2. MICR Reader
+3. OMR Scanner
+4. Barcode Reader
+Column-B:
+i. Processing of bank cheques by reading magnetic ink.
+ii. Scoring multiple-choice examination papers.
+iii. Creating and performing digital music.
+iv. Managing retail inventory and point-of-sale systems.</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>1-iii, 2-i, 3-ii, 4-iv</option>
+    <option>1-ii, 2-i, 3-iii, 4-iv</option>
+    <option>1-iii, 2-iv, 3-ii, 4-i</option>
+    <option>1-iv, 2-iii, 3-ii, 4-i</option>
+    <answer>1-iii, 2-i, 3-ii, 4-iv</answer>
+    <explanation>MIDI is for music (iii), MICR for cheques (i), OMR for exams (ii), and Barcodes for retail/inventory (iv).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **Refreshable Braille Displays**, which of the following statements is/are correct?
+I. They are considered strictly Input devices because they allow visually impaired users to type in Braille.
+II. They use an electro-mechanical system to raise and lower round-tipped pins through holes.
+III. They provide output by converting text on a screen into tactile Braille characters.
+IV. Most modern units also include buttons that allow the device to function as an input controller for the computer.</text>
+    <topic>Output Devices - Accessibility</topic>
+    <option>I and II only</option>
+    <option>II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>II, III and IV only</answer>
+    <explanation>Statement I is false; while they can have input buttons, their primary function is as an "Output" device (tactile display). Statements II, III, and IV are correct descriptions of their mechanism and dual-nature utility.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes a **3D Printer** in terms of data processing?</text>
+    <topic>Output Devices - 3D Printing</topic>
+    <option>It is a subtractive manufacturing device that carves objects out of wood.</option>
+    <option>It is an additive manufacturing device that creates physical objects layer-by-layer from a digital file.</option>
+    <option>It is a type of high-speed plotter used for architectural blueprints.</option>
+    <option>It is an input device that captures the dimensions of a 3D object.</option>
+    <answer>It is an additive manufacturing device that creates physical objects layer-by-layer from a digital file.</answer>
+    <explanation>3D printing (additive manufacturing) is an output process where a physical object is created by laying down successive layers of material (like plastic or metal) based on a digital 3D model.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the technology of **Capacitive** vs **Resistive** Touchscreens:
+I. Resistive screens support "Multi-touch" gestures like pinching to zoom more effectively than Capacitive.
+II. Capacitive screens require a conductive object (like a finger) to change the local electrostatic field.
+III. Resistive screens work by physical pressure connecting two flexible layers.
+IV. Capacitive screens are generally clearer and more durable than Resistive screens.
+Which of the statements are correct?</text>
+    <topic>Input/Output Devices - Touchscreens</topic>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>II, III and IV only</answer>
+    <explanation>Statement I is false; Capacitive screens are the ones that support multi-touch well. Resistive screens are limited in that regard but can be used with any stylus/object.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"Head-Up Display" (HUD)** is an output device commonly used in aviation and modern high-end automobiles. What is its primary function?</text>
+    <topic>Output Devices - HUD</topic>
+    <option>To provide a 360-degree virtual reality environment for the user.</option>
+    <option>To project digital information onto a transparent screen or windshield so the user doesn't have to look away from their viewpoint.</option>
+    <option>To track the movement of the user's head to adjust the computer's volume.</option>
+    <option>To print a physical copy of the flight path on paper.</option>
+    <answer>To project digital information onto a transparent screen or windshield so the user doesn't have to look away from their viewpoint.</answer>
+    <explanation>HUDs project critical data (speed, navigation) onto the user's line of sight, allowing them to view data without looking down at traditional instrument panels.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following devices acts as both an Input and an Output device?
+I. Touchscreen Monitor
+II. VR Headset with Integrated Sensors
+III. Sound Card
+IV. Digital Camera with a Preview Screen
+V. Laser Printer</text>
+    <topic>I/O Devices - Classification</topic>
+    <option>I, II, III and IV only</option>
+    <option>I, III and V only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II, III and IV only</answer>
+    <explanation>Printers (V) are strictly output. Touchscreens (I), VR Headsets (II), Sound Cards (III - Mic in/Speaker out), and Cameras (IV - Captures image/Displays preview) all perform both functions.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the primary difference between an **Impact Printer** and a **Non-Impact Printer**?</text>
+    <topic>Output Devices - Printers</topic>
+    <option>Impact printers use lasers, while non-impact printers use physical hammers.</option>
+    <option>Impact printers create characters by striking an inked ribbon against paper; Non-impact printers use heat, pressure, or ink spray.</option>
+    <option>Non-impact printers can only print in black and white.</option>
+    <option>Impact printers are faster and quieter than non-impact printers.</option>
+    <answer>Impact printers create characters by striking an inked ribbon against paper; Non-impact printers use heat, pressure, or ink spray.</answer>
+    <explanation>Impact printers (like Dot Matrix) use physical force to transfer ink. Non-impact printers (Laser, Inkjet) do not touch the paper with a physical striking mechanism, making them quieter and faster.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which specialized input device is used to track **eye movement** and is often used in psychological research or accessibility for paralyzed individuals?</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>Oculometer / Eye-Tracker</option>
+    <option>Optomotor Sensor</option>
+    <option>Retinal Projector</option>
+    <option>Visual Rendering Tablet</option>
+    <answer>Oculometer / Eye-Tracker</answer>
+    <explanation>Eye-trackers use cameras and infrared light to determine where a person is looking on a screen, allowing hands-free control of a computer or analysis of visual attention.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **Plotters**, which of the following is correct?
+I. They are used primarily for producing high-quality vector graphics and blueprints.
+II. Unlike standard printers, they use pens to draw continuous lines.
+III. They are slower than laser printers but can handle much larger paper sizes (A0, A1).
+IV. Drum plotters move the paper over a stationary pen.</text>
+    <topic>Output Devices - Plotters</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Statement IV is slightly incorrect; in Drum plotters, the pen moves on one axis while the paper (on the drum) moves on the other to create the drawing. Statements I, II, and III are classic characteristics.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"Haptic Interface"** is most commonly associated with which type of interaction?</text>
+    <topic>Input/Output - Haptics</topic>
+    <option>The use of light to transmit data through the air.</option>
+    <option>The sense of touch, providing physical feedback (vibrations, resistance) to the user.</option>
+    <option>High-fidelity audio recording in 7.1 surround sound.</option>
+    <option>The conversion of handwritten notes into digital text.</option>
+    <answer>The sense of touch, providing physical feedback (vibrations, resistance) to the user.</answer>
+    <explanation>Haptic devices (like game controller vibrations or force-feedback surgical simulators) provide tactile output to simulate physical contact or resistance.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about **Magnetic Ink Character Recognition (MICR)** is true?</text>
+    <topic>Input Devices - Banking</topic>
+    <option>It uses standard ink and relies on the shape of the letters to recognize them.</option>
+    <option>It uses special ink containing iron oxide that can be magnetized and read by the computer even if overwritten by stamps or dirt.</option>
+    <option>It is the technology used to read QR codes on mobile payments.</option>
+    <option>It is an output technology used to print magnetic stripes on credit cards.</option>
+    <answer>It uses special ink containing iron oxide that can be magnetized and read by the computer even if overwritten by stamps or dirt.</answer>
+    <explanation>MICR is highly reliable for banking because the magnetic properties allow the reader to "see" through other marks or folds on the cheque.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider **OLED** (Organic Light Emitting Diode) vs **LCD** (Liquid Crystal Display) output technology:
+I. OLED displays require a separate "Backlight" to illuminate the pixels.
+II. OLED pixels emit their own light, allowing for "True Black" by turning pixels off completely.
+III. LCDs are generally more energy-efficient when displaying bright, all-white images.
+IV. OLED screens are thinner and can be made flexible or foldable.
+Which of the statements are correct?</text>
+    <topic>Output Devices - Displays</topic>
+    <option>I and II only</option>
+    <option>II, III and IV only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>II, III and IV only</answer>
+    <explanation>Statement I is false; LCDs require a backlight (LED/CCFL), while OLED is self-emissive. This self-emissive property allows for better contrast and thinner designs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of a **"Digitizer Tablet"** when used with a Stylus?
+I. It maps the tablet area to the screen, where the position of the pen corresponds to the cursor.
+II. It can detect levels of pressure, allowing for varied line thickness in digital art.
+III. It can detect the tilt of the pen to simulate different brush angles.
+IV. It converts the physical strokes into vector or raster data for the computer.</text>
+    <topic>Input Devices - Graphics</topic>
+    <option>I and II only</option>
+    <option>II and III only</option>
+    <option>I, II and IV only</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>Digitizers are professional-grade input devices that offer high precision, pressure sensitivity, and tilt detection for digital artists and CAD designers.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is a "Soft Copy" output device?</text>
+    <topic>Output Devices - Classification</topic>
+    <option>Daisy Wheel Printer</option>
+    <option>Video Projector</option>
+    <option>Braille Embosser</option>
+    <option>3D Printer</option>
+    <answer>Video Projector</answer>
+    <explanation>Soft copy output is non-permanent and intangible (displayed on a screen or heard via speakers). Projectors fall into this category. Hard copy devices (Printers, Embossers) produce physical, permanent output.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"SpaceMouse"** or **"3D Controller"** is an input device used by engineers. How does it differ from a standard mouse?</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>It uses a trackball on top to move the cursor.</option>
+    <option>It allows for "6 Degrees of Freedom" (6DoF), enabling the user to pan, zoom, and rotate 3D models simultaneously.</option>
+    <option>It is a mouse that can be used underwater.</option>
+    <option>It is a wireless mouse that works over satellite signals.</option>
+    <answer>It allows for "6 Degrees of Freedom" (6DoF), enabling the user to pan, zoom, and rotate 3D models simultaneously.</answer>
+    <explanation>3D mice allow users to manipulate objects in a virtual 3D space with fluid movement in all directions (up/down, left/right, forward/backward, and rotation).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which device is used for **Optical Character Recognition (OCR)**?
+I. A Flatbed Scanner
+II. A Specialized software engine
+III. A Barcode reader
+IV. A Digital Camera</text>
+    <topic>Input Devices - OCR</topic>
+    <option>I only</option>
+    <option>I and II only</option>
+    <option>I, II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and IV only</answer>
+    <explanation>OCR is a process that requires an imaging device (Scanner or Camera) to capture the picture and software to interpret the characters. Barcode readers (III) use a different logic for scanning patterns.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the Output technology (Column-A) with its characteristic (Column-B):
+Column-A:
+1. Thermal Printer
+2. Inkjet Printer
+3. Laser Printer
+4. Impact Printer
+Column-B:
+i. Uses a laser beam to create an electrostatic image on a drum.
+ii. Uses heat to darken special chemically treated paper (common in receipts).
+iii. Propels droplets of liquid ink onto paper.
+iv. High noise level, capable of printing multi-part carbon copies.</text>
+    <topic>Output Devices - Printers</topic>
+    <option>1-ii, 2-iii, 3-i, 4-iv</option>
+    <option>1-i, 2-iii, 3-ii, 4-iv</option>
+    <option>1-ii, 2-iv, 3-i, 4-iii</option>
+    <option>1-iv, 2-iii, 3-ii, 4-i</option>
+    <answer>1-ii, 2-iii, 3-i, 4-iv</answer>
+    <explanation>Thermal printers are used for receipts (ii). Inkjet uses droplets (iii). Laser uses an electrostatic drum (i). Impact printers can make carbon copies (iv).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **VRAM (Video RAM)**, which of the following is correct?</text>
+    <topic>Output Devices - GPU/Display</topic>
+    <option>It is located on the system motherboard and shared with the CPU.</option>
+    <option>It is a specialized memory on a graphics card that holds the frame buffer and texture data for the monitor output.</option>
+    <option>It is a type of ROM that stores the monitor's brand name.</option>
+    <option>It is the memory used by a printer to store documents.</option>
+    <answer>It is a specialized memory on a graphics card that holds the frame buffer and texture data for the monitor output.</answer>
+    <explanation>VRAM is high-speed memory dedicated to the GPU, ensuring that the display can be refreshed quickly without using the slower system RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of an **"Inertial Measurement Unit" (IMU)** in an input device like a VR controller?</text>
+    <topic>Input Devices - VR</topic>
+    <option>To measure the weight of the user.</option>
+    <option>To detect rotation and acceleration using accelerometers and gyroscopes to track movement in 3D space.</option>
+    <option>To measure the air pressure inside the computer case.</option>
+    <option>To determine the battery percentage of the controller.</option>
+    <answer>To detect rotation and acceleration using accelerometers and gyroscopes to track movement in 3D space.</answer>
+    <explanation>IMUs are core components in modern motion controllers (like those for the Meta Quest or PlayStation VR), allowing the system to know exactly how the user is moving their hands.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about **Monitor Refresh Rate** is correct?
+I. It is measured in Hertz (Hz).
+II. A higher refresh rate (e.g., 144Hz) results in smoother motion on the screen.
+III. It refers to how many times per second the monitor updates the image.
+IV. It is the same as "Frame Rate" (FPS) produced by the GPU.</text>
+    <topic>Output Devices - Monitors</topic>
+    <option>I, II and III only</option>
+    <option>I and II only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Refresh Rate (Hz) is a monitor hardware specification. Frame Rate (FPS) is the speed at which the GPU produces images. They are related but not the same (IV).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>An **"Active Stylus"** differs from a **"Passive Stylus"** in that:</text>
+    <topic>Input Devices - Stylus</topic>
+    <option>An active stylus contains electronic components and often requires a battery or charging.</option>
+    <option>A passive stylus can detect pressure, while an active one cannot.</option>
+    <option>Only passive styluses work with modern iPads.</option>
+    <option>An active stylus is made of wood, and a passive one is made of metal.</option>
+    <answer>An active stylus contains electronic components and often requires a battery or charging.</answer>
+    <explanation>Active styluses (like the Apple Pencil or Surface Pen) communicate with the screen electronically to provide pressure sensitivity, palm rejection, and tilt detection. Passive styluses are just conductive tips mimicking a finger.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is an example of an **Environmental Input Device** commonly used in "Smart Home" systems?</text>
+    <topic>Input Devices - IoT</topic>
+    <option>LCD Screen</option>
+    <option>Hygrometer (Humidity Sensor)</option>
+    <option>Surround Sound Speaker</option>
+    <option>Thermal Printer</option>
+    <answer>Hygrometer (Humidity Sensor)</answer>
+    <explanation>Hygrometers, Thermometers, and Light Sensors are input devices that allow a computer (like a smart home hub) to gather data about the physical environment.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of computer displays, what does **"Response Time"** measure?</text>
+    <topic>Output Devices - Monitors</topic>
+    <option>The time it takes for a monitor to turn on after pressing the power button.</option>
+    <option>The time it takes for a pixel to change from one color to another (typically Gray-to-Gray).</option>
+    <option>The time it takes for the CPU to process an input from the mouse.</option>
+    <option>The time it takes for the printer to start printing a document.</option>
+    <answer>The time it takes for a pixel to change from one color to another (typically Gray-to-Gray).</answer>
+    <explanation>Response time (measured in milliseconds) determines how quickly a monitor can transition colors. Lower response time reduces "ghosting" in fast-moving images.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"Brain-Computer Interface" (BCI)** acts as which type of device?</text>
+    <topic>Input Devices - Latest Technology</topic>
+    <option>An output device that projects thoughts onto a screen.</option>
+    <option>An input device that captures neural signals (brainwaves) and translates them into computer commands.</option>
+    <option>A storage device that saves human memories to a hard drive.</option>
+    <option>A cooling system for high-end processors.</option>
+    <answer>An input device that captures neural signals (brainwaves) and translates them into computer commands.</answer>
+    <explanation>BCIs (like those developed by Neuralink or used in medical research) allow people to control computers or prosthetic limbs using only their thoughts, captured via EEG or implanted sensors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **QR Codes** (Quick Response Codes), which of the following is correct?
+I. They can store more data than traditional 1D barcodes.
+II. They are read by an imaging device (like a camera) and interpreted by software.
+III. They can only be read from a specific angle, unlike barcodes.
+IV. They are strictly an output technology used on posters.</text>
+    <topic>Input/Output - QR Codes</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I and II only</answer>
+    <explanation>QR codes are 2D and can be read from any orientation (360 degrees), making III false. While they are printed (output), they are fundamentally designed to be "scanned" (input).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the primary function of an **"ASR" (Automatic Speech Recognition)** system?</text>
+    <topic>Input Devices - Audio</topic>
+    <option>To play high-quality music from the computer.</option>
+    <option>To convert spoken language into digital text or commands.</option>
+    <option>To measure the decibel level of a room.</option>
+    <option>To encrypt voice calls for security.</option>
+    <answer>To convert spoken language into digital text or commands.</answer>
+    <explanation>ASR is the technology behind voice assistants (Alexa, Siri) and dictation software, taking microphone input and processing it into usable text.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following monitor panel technologies provides the **best color accuracy and widest viewing angles**?</text>
+    <topic>Output Devices - Monitors</topic>
+    <option>TN (Twisted Nematic)</option>
+    <option>VA (Vertical Alignment)</option>
+    <option>IPS (In-Plane Switching)</option>
+    <option>CGA (Color Graphics Adapter)</option>
+    <answer>IPS (In-Plane Switching)</answer>
+    <explanation>IPS panels are preferred by professional photographers and designers because they maintain color consistency even when viewed from extreme angles, unlike TN panels which shift colors.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"MIDI Keyboard"** differs from a standard computer keyboard because:</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>It uses wireless Bluetooth only.</option>
+    <option>It sends digital signals representing musical notes, velocity, and pitch-bend rather than text characters.</option>
+    <option>It is much smaller and only has 10 keys.</option>
+    <option>It is used as an output device for the computer to play sounds.</option>
+    <answer>It sends digital signals representing musical notes, velocity, and pitch-bend rather than text characters.</answer>
+    <explanation>Musical Instrument Digital Interface (MIDI) is a protocol that allows musical instruments to communicate with computers. The keyboard is an input device used to trigger sounds in software.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is correct about **DPI (Dots Per Inch)** in the context of both Input and Output devices?
+I. For a printer, higher DPI means a sharper, more detailed printed image.
+II. For a mouse, higher DPI (or CPI) means the cursor moves further across the screen with less physical movement.
+III. For a scanner, higher DPI means it captures more detail from the physical document.
+IV. DPI stands for "Data Processing Interface".</text>
+    <topic>I/O - DPI Concept</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>DPI is a measure of spatial density. In printers and scanners, it refers to resolution. In mice, it refers to sensitivity. IV is false; it stands for Dots Per Inch.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is a **"Force Feedback"** steering wheel in a racing simulator considered?</text>
+    <topic>Input/Output - Haptics</topic>
+    <option>Strictly an Input device.</option>
+    <option>Strictly an Output device.</option>
+    <option>An Input device (steering) with Haptic Output (simulating road feel).</option>
+    <option>A storage device for racing games.</option>
+    <answer>An Input device (steering) with Haptic Output (simulating road feel).</answer>
+    <explanation>Sim racing wheels take user input (steering/pedals) but also use motors to push back against the user (output) to simulate the physical forces of driving.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **Projectors**, what is the technology behind **DLP** (Digital Light Processing)?</text>
+    <topic>Output Devices - Projectors</topic>
+    <option>It uses a series of liquid crystals to block light.</option>
+    <option>It uses thousands of tiny microscopic mirrors on a chip (DMD) to reflect light toward the screen.</option>
+    <option>It uses three different lasers (Red, Green, Blue) to draw the image directly.</option>
+    <option>It is a type of mechanical plotter that draws on a wall.</option>
+    <answer>It uses thousands of tiny microscopic mirrors on a chip (DMD) to reflect light toward the screen.</answer>
+    <explanation>DLP technology uses a Digital Micromirror Device (DMD) to tilt mirrors toward or away from the light source thousands of times per second to create the image.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about **"Biometric Vein Recognition"** is true?</text>
+    <topic>Input Devices - Biometrics</topic>
+    <option>It scans the fingerprints of the user.</option>
+    <option>It uses infrared light to map the pattern of veins beneath the skin, which is harder to forge than a fingerprint.</option>
+    <option>It is a type of output device that measures blood pressure.</option>
+    <option>It is the same as a heart rate monitor found on smartwatches.</option>
+    <answer>It uses infrared light to map the pattern of veins beneath the skin, which is harder to forge than a fingerprint.</answer>
+    <explanation>Vein recognition (palm or finger) is a highly secure biometric because the vein pattern is inside the body and requires blood flow to be detected, making it nearly impossible to spoof with a fake.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of **Printers**, what is the function of the "Duplexer"?</text>
+    <topic>Output Devices - Printers</topic>
+    <option>It allows the printer to print in two different colors at once.</option>
+    <option>It is a component that automatically flips the paper to allow printing on both sides.</option>
+    <option>It doubles the printing speed by using two laser beams.</option>
+    <option>It connects the printer to two different computers simultaneously.</option>
+    <answer>It is a component that automatically flips the paper to allow printing on both sides.</answer>
+    <explanation>A duplexer is a specialized mechanical unit in a printer that allows for automatic double-sided printing, saving paper and user effort.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is an **"Electronic Whiteboard"** (or Smart Board) classified as?</text>
+    <topic>I/O Devices - Classification</topic>
+    <option>Strictly an Output device.</option>
+    <option>Strictly an Input device.</option>
+    <option>A large-scale Input/Output device that displays computer images and allows users to interact with them via touch or pens.</option>
+    <option>A type of digital scanner for walls.</option>
+    <answer>A large-scale Input/Output device that displays computer images and allows users to interact with them via touch or pens.</answer>
+    <explanation>Smart Boards act as both a display (projector/LCD) and a giant touch-sensitive input surface, allowing for interactive presentations and teaching.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is correct regarding **Laser Mouse** vs **Optical Mouse** technology?
+I. Optical mice use an LED to illuminate the surface.
+II. Laser mice use a laser diode, allowing them to work on more surfaces, including glossy ones.
+III. Optical mice are generally more precise than laser mice on standard cloth mousepads.
+IV. Both use a small CMOS camera to take thousands of pictures per second to track movement.</text>
+    <topic>Input Devices - Mice</topic>
+    <option>I and II only</option>
+    <option>II and IV only</option>
+    <option>I, II and IV only</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>Both types are "optical" in a broad sense (using light/imaging), but laser mice offer better surface versatility, while LED optical mice are often preferred by gamers for more consistent tracking on pads.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which specialized device is used in retail to detect and deactivate **EAN (Electronic Article Surveillance)** tags?</text>
+    <topic>Input/Output - Specialized</topic>
+    <option>Barcode Scanner</option>
+    <option>RFID Reader / Deactivator</option>
+    <option>Magnetic Stripe Reader</option>
+    <option>Thermal Receipt Printer</option>
+    <answer>RFID Reader / Deactivator</answer>
+    <explanation>RFID (Radio Frequency Identification) tags are used for anti-theft and inventory. Specialized pads at checkouts use electromagnetic fields to deactivate or read these tags.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **Speakers**, what is the role of a **"DAC" (Digital-to-Analog Converter)**?</text>
+    <topic>Output Devices - Audio</topic>
+    <option>It converts the digital binary code from the computer into the analog electrical signals that drive the speaker's diaphragm.</option>
+    <option>It amplifies the sound so it can be heard across a large room.</option>
+    <option>It records sound from the environment and saves it as a .wav file.</option>
+    <option>It filters out background noise from a microphone.</option>
+    <answer>It converts the digital binary code from the computer into the analog electrical signals that drive the speaker's diaphragm.</answer>
+    <explanation>Since sound is an analog wave and computers work in digital (0s and 1s), a DAC is a crucial output component (found in sound cards or external units) required for audio output.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is an **"OMR" (Optical Mark Recognition)** device primarily used for?</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>Reading the handwritten name on an application form.</option>
+    <option>Detecting the presence or absence of a mark in a specific position (like a filled circle on an MCQ sheet).</option>
+    <option>Scanning photos to convert them into 3D models.</option>
+    <option>Reading the magnetic stripe on a credit card.</option>
+    <answer>Detecting the presence or absence of a mark in a specific position (like a filled circle on an MCQ sheet).</answer>
+    <explanation>OMR is a very fast and accurate technology for processing forms where data is provided by filling in bubbles or boxes.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes the function of a **"KVM Switch"**?</text>
+    <topic>I/O - Peripheral Sharing</topic>
+    <option>A device that allows one user to control multiple computers using a single Keyboard, Video (monitor), and Mouse.</option>
+    <option>A type of high-speed gaming keyboard.</option>
+    <option>A protocol for transferring files between a PC and a smartphone.</option>
+    <option>An output device that switches between different speaker sets.</option>
+    <answer>A device that allows one user to control multiple computers using a single Keyboard, Video (monitor), and Mouse.</answer>
+    <explanation>KVM (Keyboard, Video, Mouse) switches are common in data centers or for users with multiple workstations, allowing them to toggle between PCs with one set of peripherals.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"Teleprompter"** used by news anchors is which type of device?</text>
+    <topic>Output Devices - Specialized</topic>
+    <option>An input device for recording scripts.</option>
+    <option>An output device that displays a script on a piece of glass in front of a camera lens.</option>
+    <option>A type of specialized camera for low-light conditions.</option>
+    <option>A software that automatically corrects a speaker's pronunciation.</option>
+    <answer>An output device that displays a script on a piece of glass in front of a camera lens.</answer>
+    <explanation>Teleprompters are specialized displays that allow presenters to read text while looking directly into the camera lens.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the purpose of **"Active Noise Cancellation" (ANC)** in headphones?
+I. To increase the volume of the music being played.
+II. To use microphones (input) to capture external sound waves.
+III. To generate inverse sound waves (output) that "cancel" out the external noise.
+IV. To prevent the user from hearing their own voice during a call.</text>
+    <topic>I/O - Audio Technology</topic>
+    <option>I and II only</option>
+    <option>II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>II and III only</answer>
+    <explanation>ANC uses destructive interference. Microphones listen to the noise (II), and the headphones produce an anti-phase wave (III) to neutralize it.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is correct regarding **Handheld Scanners** used in logistics?</text>
+    <topic>Input Devices - Logistics</topic>
+    <option>They can only read text characters using OCR.</option>
+    <option>They typically use a laser or imaging sensor to read 1D and 2D barcodes and transmit data via Wi-Fi or Bluetooth.</option>
+    <option>They are output devices that print labels for packages.</option>
+    <option>They are used to measure the weight of a package.</option>
+    <answer>They typically use a laser or imaging sensor to read 1D and 2D barcodes and transmit data via Wi-Fi or Bluetooth.</answer>
+    <explanation>Modern handheld scanners are sophisticated mobile computers used for tracking inventory and deliveries in real-time.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the Monitor Port (Column-A) with its characteristic (Column-B):
+Column-A:
+1. VGA
+2. DVI
+3. DisplayPort
+4. USB-C (Thunderbolt)
+Column-B:
+i. Analog signal only, legacy 15-pin connector.
+ii. Digital signal, often supports extremely high refresh rates and daisy-chaining.
+iii. Can transmit power, data, and video/audio through a single small connector.
+iv. Digital and sometimes analog signal, common on mid-2000s PCs.</text>
+    <topic>Output Devices - Connectivity</topic>
+    <option>1-i, 2-iv, 3-ii, 4-iii</option>
+    <option>1-i, 2-ii, 3-iv, 4-iii</option>
+    <option>1-iv, 2-i, 3-ii, 4-iii</option>
+    <option>1-ii, 2-iv, 3-i, 4-iii</option>
+    <answer>1-i, 2-iv, 3-ii, 4-iii</answer>
+    <explanation>VGA is analog (i). DVI was the digital successor (iv). DisplayPort is high-performance/daisy-chainable (ii). USB-C is the multi-purpose modern standard (iii).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is a **"Graphic Data Tablet"** (Digitizer) primarily used for in the field of architecture?</text>
+    <topic>Input Devices - Specialized</topic>
+    <option>To print 3D models of buildings.</option>
+    <option>To precisely trace architectural drawings and blueprints into digital CAD software.</option>
+    <option>To scan physical buildings using lasers.</option>
+    <option>To display 3D models to clients.</option>
+    <answer>To precisely trace architectural drawings and blueprints into digital CAD software.</answer>
+    <explanation>Large digitizing tablets are used to "trace" paper plans by clicking points with a puck or stylus, converting the physical lines into precise digital coordinates.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is an **Impact-free** (Non-impact) printer?
+I. Laser Printer
+II. Daisy Wheel Printer
+III. Inkjet Printer
+IV. Dot-Matrix Printer</text>
+    <topic>Output Devices - Printers</topic>
+    <option>I and III only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I and III only</answer>
+    <explanation>Laser and Inkjet do not involve striking the paper. Daisy Wheel and Dot-Matrix are impact printers that use physical hammers or pins.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **"Virtual Keyboard"** (projected on a desk via laser) uses which technology to detect keypresses?</text>
+    <topic>Input Devices - Latest Technology</topic>
+    <option>The user's body heat.</option>
+    <option>An infrared sensor that detects when a finger breaks a light beam at a specific coordinate.</option>
+    <option>A camera that performs OCR on the user's hand.</option>
+    <option>Electrostatic discharge from the desk.</option>
+    <answer>An infrared sensor that detects when a finger breaks a light beam at a specific coordinate.</answer>
+    <explanation>Laser projection keyboards use an infrared sensor/camera to track where the user's finger "touches" the desk, interpreting it as a keypress on the projected image.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of **Digital Cameras**, what is the function of the "Image Sensor" (CCD/CMOS)?</text>
+    <topic>Input Devices - Cameras</topic>
+    <option>To store the photos onto the SD card.</option>
+    <option>To convert the light entering through the lens into electrical signals (digital data).</option>
+    <option>To display the photo to the user on the screen.</option>
+    <option>To adjust the physical zoom of the lens.</option>
+    <answer>To convert the light entering through the lens into electrical signals (digital data).</answer>
+    <explanation>The image sensor is the digital equivalent of film. It captures the light and turns it into the binary data that forms the digital image.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is correct regarding **Electronic Ink (E-Ink)** displays used in E-readers (like Amazon Kindle)?
+I. They emit their own light, making them easy to read in the dark.
+II. They reflect ambient light, much like real paper, reducing eye strain.
+III. They consume power only when the image is changed (refreshed).
+IV. They are capable of extremely high refresh rates suitable for video.</text>
+    <topic>Output Devices - Displays</topic>
+    <option>I and IV only</option>
+    <option>II and III only</option>
+    <option>I, II and III only</option>
+    <option>All of the above</option>
+    <answer>II and III only</answer>
+    <explanation>E-ink displays are reflective (not emmisive), making them great for daylight but needing a "front-light" for dark (II). They are very power efficient (III) but have very slow refresh rates, making them unsuitable for video (IV).</explanation>
+</question>
+
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the following statements regarding the functions of an Operating System:
+I. The OS manages the allocation and de-allocation of memory to different processes.
+II. The OS is responsible for 'Job Scheduling' to decide which process runs on the CPU.
+III. The OS provides 'Hardware Abstraction', allowing software to interact with hardware without knowing its specific details.
+IV. The OS is responsible for compiling high-level source code into machine code.
+Which of the statements are correct?</text>
+    <topic>Operating System - Functions</topic>
+    <option>I, II and III only</option>
+    <option>I, III and IV only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Statement IV is false; code compilation is the job of a 'Compiler' (language translator), not the OS itself. The OS manages resources and provides an abstraction layer (I, II, III).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Match the Operating System types (Column-A) with their key characteristics (Column-B):
+Column-A:
+1. Batch Processing OS
+2. Time-Sharing OS
+3. Real-Time OS (RTOS)
+4. Distributed OS
+Column-B:
+i. Multiple users share CPU time through rapid switching (multitasking).
+ii. Tasks are executed in groups without manual user intervention.
+iii. Manages a group of independent computers and makes them appear as a single system.
+iv. Guarantees task completion within a very strict, specific time limit.</text>
+    <topic>Operating System - Types</topic>
+    <option>1-ii, 2-i, 3-iv, 4-iii</option>
+    <option>1-i, 2-ii, 3-iv, 4-iii</option>
+    <option>1-ii, 2-iii, 3-iv, 4-i</option>
+    <option>1-iv, 2-i, 3-ii, 4-iii</option>
+    <answer>1-ii, 2-i, 3-iv, 4-iii</answer>
+    <explanation>Batch systems process jobs in groups (ii). Time-sharing is modern multitasking (i). RTOS is for time-critical tasks (iv). Distributed OS connects multiple machines (iii).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of Process Management, what is 'Context Switching'?</text>
+    <topic>Operating System - Process Management</topic>
+    <option>The process of upgrading the OS to a newer version.</option>
+    <option>The procedure of saving the state of a current process and loading the state of a new process so the CPU can switch tasks.</option>
+    <option>Changing the user account from Administrator to Guest.</option>
+    <option>Moving a file from the Hard Drive to an External Flash Drive.</option>
+    <answer>The procedure of saving the state of a current process and loading the state of a new process so the CPU can switch tasks.</answer>
+    <explanation>Context switching allows the OS to multitask by saving the 'context' (registers, PC) of a process before moving to another, then restoring it later.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding 'Virtual Memory', which of the following statements is/are correct?
+I. It allows a computer to run programs that are larger than the physical RAM.
+II. It uses a portion of the Hard Disk (Swap space/Page file) to act as temporary RAM.
+III. It significantly increases the physical speed of the RAM modules.
+IV. It involves the process of 'Paging' to manage data blocks.</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>I and II only</option>
+    <option>I, II and IV only</option>
+    <option>II and III only</option>
+    <option>All of the above</option>
+    <answer>I, II and IV only</answer>
+    <explanation>Statement III is false; Virtual memory is actually much slower than physical RAM. It provides extra space (I, II) and uses paging (IV) but not extra hardware speed.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A 'Deadlock' situation in an Operating System occurs when:</text>
+    <topic>Operating System - Deadlocks</topic>
+    <option>The computer runs out of battery power suddenly.</option>
+    <option>Two or more processes are each waiting for a resource held by the other, and none can proceed.</option>
+    <option>The internet connection is lost during a file download.</option>
+    <option>A user forgets their login password.</option>
+    <answer>Two or more processes are each waiting for a resource held by the other, and none can proceed.</answer>
+    <explanation>Deadlock is a resource-blocking condition where circular waiting occurs, bringing the affected processes to a permanent standstill.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the primary difference between 'Preemptive' and 'Non-Preemptive' scheduling?</text>
+    <topic>Operating System - Scheduling</topic>
+    <option>Preemptive allows the OS to interrupt a running process; Non-Preemptive allows a process to run until it finishes or voluntarily yields.</option>
+    <option>Preemptive is only used in Windows; Non-Preemptive is only used in Linux.</option>
+    <option>Non-Preemptive is much faster than Preemptive in all scenarios.</option>
+    <option>Preemptive scheduling does not require a CPU clock.</option>
+    <answer>Preemptive allows the OS to interrupt a running process; Non-Preemptive allows a process to run until it finishes or voluntarily yields.</answer>
+    <explanation>In preemptive scheduling (like Round Robin), the OS can 'force' a process to stop to give others a turn. In non-preemptive (like FCFS), the process keeps control until done.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes the 'Spooling' (Simultaneous Peripheral Operations On-Line) process?</text>
+    <topic>Operating System - I/O Management</topic>
+    <option>Deleting temporary internet files automatically.</option>
+    <option>Using a high-speed buffer to store data before it is sent to a slower device like a printer.</option>
+    <option>Connecting two monitors to a single CPU.</option>
+    <option>Encrypting the hard drive to prevent data theft.</option>
+    <answer>Using a high-speed buffer to store data before it is sent to a slower device like a printer.</answer>
+    <explanation>Spooling allows the CPU to 'drop off' data for a slow device (like a printer) into a queue (spool) and move on to other tasks without waiting for the device to finish.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the Windows File System. What is the main advantage of **NTFS** over **FAT32**?
+I. NTFS supports much larger file sizes (greater than 4GB).
+II. NTFS provides file-level security and permissions.
+III. NTFS is a 'Journaling' file system, making it more resistant to corruption.
+IV. FAT32 is faster for modern 1TB Solid State Drives.</text>
+    <topic>Operating System - File Systems</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>FAT32 is limited to 4GB files and lacks security features. NTFS is modern, secure, and handles large storage better. Statement IV is false.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In a Linux/Unix system, what does the command `chmod 777 filename` do?</text>
+    <topic>Operating System - Linux</topic>
+    <option>Deletes the file permanently.</option>
+    <option>Gives Read, Write, and Execute permissions to everyone (Owner, Group, and Others).</option>
+    <option>Renames the file to "777".</option>
+    <option>Encrypts the file with a 777-bit key.</option>
+    <answer>Gives Read, Write, and Execute permissions to everyone (Owner, Group, and Others).</answer>
+    <explanation>The 'chmod' command changes file permissions. '7' in binary is 111 (Read, Write, Execute). Using 777 grants full access to all three user categories.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is 'Thrashing' in an Operating System's memory management?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>A physical failure of the RAM chips.</option>
+    <option>A state where the CPU is idle because it has no tasks to perform.</option>
+    <option>A situation where the OS is constantly swapping pages in and out of RAM, leading to extremely low performance.</option>
+    <option>A technique used to speed up the booting process.</option>
+    <answer>A situation where the OS is constantly swapping pages in and out of RAM, leading to extremely low performance.</answer>
+    <explanation>Thrashing happens when the system's memory is overcommitted, causing the OS to spend more time moving data between RAM and disk than actually running programs.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **'System Call'** is the method used by an application program to:</text>
+    <topic>Operating System - Architecture</topic>
+    <option>Update its own source code via the internet.</option>
+    <option>Request a service from the Operating System's Kernel (like reading a file or printing).</option>
+    <option>Communicate directly with other users on the network.</option>
+    <option>Increase the computer's screen brightness.</option>
+    <answer>Request a service from the Operating System's Kernel (like reading a file or printing).</answer>
+    <explanation>Programs run in 'User Mode' and cannot access hardware directly. They must use 'System Calls' to switch to 'Kernel Mode' and ask the OS to perform privileged tasks.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is correct regarding 'Fragmentation'?
+I. Internal fragmentation occurs when a memory block assigned to a process is larger than needed.
+II. External fragmentation occurs when total free memory is enough for a process, but it is not contiguous.
+III. Defragmentation is a process that rearranges files on a disk to store them in contiguous sectors.
+IV. SSDs require regular defragmentation just like HDDs.</text>
+    <topic>Operating System - Storage/Memory</topic>
+    <option>I, II and III only</option>
+    <option>I and II only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>SSDs do not benefit from defragmentation; in fact, it can reduce their lifespan (IV). HDDs need it to reduce head movement. I and II correctly define memory fragmentation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **'Multiprocessing'** vs **'Multithreading'**, which statement is true?</text>
+    <topic>Operating System - Concepts</topic>
+    <option>Multiprocessing involves multiple CPUs; Multithreading involves multiple paths of execution within a single process.</option>
+    <option>Multiprocessing is for mobile phones; Multithreading is for desktop PCs.</option>
+    <option>A thread is heavier and consumes more memory than a process.</option>
+    <option>Windows can only do Multithreading, not Multiprocessing.</option>
+    <answer>Multiprocessing involves multiple CPUs; Multithreading involves multiple paths of execution within a single process.</answer>
+    <explanation>Multiprocessing uses multiple physical processors. Multithreading breaks a single program into smaller tasks (threads) that can run concurrently within the same memory space.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the role of the 'BIOS' in the booting process?</text>
+    <topic>Operating System - Booting</topic>
+    <option>It provides the GUI for the user to type documents.</option>
+    <option>It performs the POST (Power-On Self-Test) and locates the OS bootloader.</option>
+    <option>It manages the connection to the Wi-Fi network.</option>
+    <option>It acts as an antivirus during the system startup.</option>
+    <answer>It performs the POST (Power-On Self-Test) and locates the OS bootloader.</answer>
+    <explanation>The BIOS (Basic Input/Output System) is firmware that initializes hardware and handovers control to the Operating System.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is a 'Single-User, Single-Tasking' Operating System?</text>
+    <topic>Operating System - Types</topic>
+    <option>Windows 10</option>
+    <option>Linux</option>
+    <option>MS-DOS</option>
+    <option>Unix</option>
+    <answer>MS-DOS</answer>
+    <explanation>MS-DOS was designed to allow only one user to run exactly one program at a time. Windows, Linux, and Unix are multi-tasking.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding 'Process States', if a process has all the resources it needs to run but is simply waiting for the CPU to become available, it is in which state?</text>
+    <topic>Operating System - Process Management</topic>
+    <option>Running State</option>
+    <option>Waiting/Blocked State</option>
+    <option>Ready State</option>
+    <option>Terminated State</option>
+    <answer>Ready State</answer>
+    <explanation>A process in the 'Ready' state is prepared to execute immediately once the CPU scheduler picks it. The 'Waiting' state is for processes waiting for an external event like I/O.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which CPU scheduling algorithm assigns a fixed 'Time Quantum' to each process in a circular fashion?</text>
+    <topic>Operating System - Scheduling</topic>
+    <option>First-Come, First-Served (FCFS)</option>
+    <option>Shortest Job First (SJF)</option>
+    <option>Round Robin (RR)</option>
+    <option>Priority Scheduling</option>
+    <answer>Round Robin (RR)</answer>
+    <explanation>Round Robin is a preemptive algorithm where each process gets a small unit of time (quantum). If it doesn't finish, it is moved to the back of the queue.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following statements about **'Microkernel'** vs **'Monolithic Kernel'** is/are correct?
+I. A Monolithic Kernel runs all OS services (file system, drivers) within the kernel space.
+II. A Microkernel moves non-essential services into 'User space' to improve stability.
+III. Monolithic kernels generally have better performance due to less communication overhead.
+IV. Linux is a primary example of a pure Microkernel architecture.</text>
+    <topic>Operating System - Architecture</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Statement IV is false; Linux is a Monolithic kernel (though it uses modules). Microkernels (like Minix) are more stable but often slower due to message passing between user and kernel space.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>The technique of **'Paging'** in memory management is primarily used to solve which of the following problems?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>Data Security and Encryption</option>
+    <option>External Fragmentation</option>
+    <option>Slow Disk Access Speeds</option>
+    <option>Processor Overheating</option>
+    <answer>External Fragmentation</answer>
+    <explanation>Paging divides physical memory into fixed-size blocks (frames) and logical memory into pages. Since any page can be placed in any frame, memory doesn't need to be contiguous, solving external fragmentation.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is an **'Interrupt'** in the context of Operating System functionality?</text>
+    <topic>Operating System - Concepts</topic>
+    <option>A fatal error that requires the user to reinstall the OS.</option>
+    <option>A signal sent to the CPU by hardware or software to indicate an event that requires immediate attention.</option>
+    <option>A method of compressing files to save space on the hard drive.</option>
+    <option>A pause in the internet connection caused by the firewall.</option>
+    <answer>A signal sent to the CPU by hardware or software to indicate an event that requires immediate attention.</answer>
+    <explanation>Interrupts allow the CPU to handle asynchronous events (like a mouse click or a timer) by pausing the current task, handling the event, and then resuming.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Regarding **'Multithreading'**, which of the following statements is true?</text>
+    <topic>Operating System - Process Management</topic>
+    <option>A thread is a 'heavyweight' process that has its own independent memory space.</option>
+    <option>Multithreading allows a single process to execute multiple tasks concurrently within the same memory space.</option>
+    <option>Threads cannot communicate with each other within the same process.</option>
+    <option>Switching between threads takes more time than switching between processes.</option>
+    <answer>Multithreading allows a single process to execute multiple tasks concurrently within the same memory space.</answer>
+    <explanation>Threads are 'lightweight'. They share the memory of their parent process, making communication and switching much faster than full process context switching.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In a Paging system, what is the purpose of the **'Dirty Bit'** (or Modify Bit)?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>To identify if a page contains a virus or malware.</option>
+    <option>To indicate if a page has been modified in RAM, meaning it must be written back to the disk before being replaced.</option>
+    <option>To show that the page is no longer needed and should be deleted.</option>
+    <option>To track how many times a user has accessed a specific file.</option>
+    <answer>To indicate if a page has been modified in RAM, meaning it must be written back to the disk before being replaced.</answer>
+    <explanation>If a page in RAM is identical to the copy on the disk, it can simply be overwritten. If it's been changed (dirty), the OS must save the changes to the disk first.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Consider the characteristics of **Linux**. Which of the following is correct?
+I. It is an open-source, multi-user, and multi-tasking operating system.
+II. It uses a monolithic kernel architecture.
+III. Everything in Linux, including hardware devices, is treated as a 'file'.
+IV. It does not support any Graphical User Interface (GUI).</text>
+    <topic>Operating System - Linux</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II and IV only</option>
+    <option>All of the above</option>
+    <answer>I, II and III only</answer>
+    <explanation>Statement IV is false; while Linux started as CLI-based, modern distributions (like Ubuntu) have sophisticated GUIs. Statement III is a famous principle of Unix/Linux design.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the primary role of the **Memory Management Unit (MMU)** hardware component?</text>
+    <topic>Operating System - Hardware Interaction</topic>
+    <option>To physically store data when the computer is turned off.</option>
+    <option>To translate 'Virtual Addresses' used by programs into 'Physical Addresses' in the RAM.</option>
+    <option>To manage the speed of the system bus.</option>
+    <option>To check the RAM for physical defects during the POST process.</option>
+    <answer>To translate 'Virtual Addresses' used by programs into 'Physical Addresses' in the RAM.</answer>
+    <explanation>The MMU is a hardware device that handles the mapping required for virtual memory, allowing the OS to manage memory more efficiently and securely.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following describes the **'Interrupt-Driven'** I/O technique compared to **'Polling'**?</text>
+    <topic>Operating System - I/O Management</topic>
+    <option>In Polling, the device tells the CPU when it is ready; in Interrupts, the CPU constantly checks the device.</option>
+    <option>In Polling, the CPU wastes cycles constantly checking the device status; in Interrupt-driven, the device signals the CPU only when ready.</option>
+    <option>Interrupt-driven I/O is slower and used only for keyboards.</option>
+    <option>There is no difference in efficiency between the two methods.</option>
+    <answer>In Polling, the CPU wastes cycles constantly checking the device status; in Interrupt-driven, the device signals the CPU only when ready.</answer>
+    <explanation>Interrupt-driven I/O is much more efficient because it frees the CPU to perform other tasks until the I/O device actually needs attention.</explanation>
+  </question>
+  <question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>When is **'Safe Mode'** in Windows typically used?</text>
+    <topic>Operating System - Troubleshooting</topic>
+    <option>To run the computer at maximum speed for high-end gaming.</option>
+    <option>To start the OS with a minimal set of drivers and services to help diagnose and fix system errors.</option>
+    <option>To browse the internet without leaving any history or cookies.</option>
+    <option>To encrypt the entire hard drive for maximum data protection.</option>
+    <answer>To start the OS with a minimal set of drivers and services to help diagnose and fix system errors.</answer>
+    <explanation>Safe Mode is a diagnostic tool that loads only essential drivers, making it easier to isolate whether a problem is caused by a basic system file or a third-party driver/app.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of process synchronization, what is a **'Semaphore'**?</text>
+    <topic>Operating System - Synchronization</topic>
+    <option>A type of high-speed memory located inside the ALU.</option>
+    <option>A synchronization tool (integer variable) used to control access to shared resources in a multi-processing environment.</option>
+    <option>A command used to permanently delete files in Linux.</option>
+    <option>A hardware switch that turns off the monitor when not in use.</option>
+    <answer>A synchronization tool (integer variable) used to control access to shared resources in a multi-processing environment.</answer>
+    <explanation>Semaphores act as signals. They help prevent 'Race Conditions' by ensuring that only a specific number of processes can access a shared resource at one time.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following information is typically stored in a **Process Control Block (PCB)**?
+I. Process ID and Process State.
+II. Program Counter (Address of next instruction).
+III. CPU Registers and Scheduling information.
+IV. Memory management and I/O status information.</text>
+    <topic>Operating System - Process Management</topic>
+    <option>I and II only</option>
+    <option>I, II and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>A PCB is a data structure used by the OS to store everything it needs to know about a process to manage it and switch between it and other processes.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the **'Critical Section'** problem in concurrent programming?</text>
+    <topic>Operating System - Synchronization</topic>
+    <option>When the computer's CPU temperature exceeds the safety limit.</option>
+    <option>A situation where multiple processes access shared data, and the final result depends on the order of execution, potentially leading to errors.</option>
+    <option>When the OS cannot find the 'boot' section of the hard drive.</option>
+    <option>A segment of the hard drive where the OS stores passwords.</option>
+    <answer>A situation where multiple processes access shared data, and the final result depends on the order of execution, potentially leading to errors.</answer>
+    <explanation>The critical section is the part of code where shared resources are accessed. The OS must ensure 'Mutual Exclusion' so only one process is in its critical section at a time.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the fundamental difference between **'Hard'** and **'Soft'** Real-Time Operating Systems (RTOS)?</text>
+    <topic>Operating System - Types</topic>
+    <option>Hard RTOS is used for heavy machinery; Soft RTOS is for light electronics.</option>
+    <option>Hard RTOS strictly guarantees that critical tasks finish on time; Soft RTOS gives priority to critical tasks but allows occasional delays.</option>
+    <option>Hard RTOS is built into hardware; Soft RTOS is installed from a CD.</option>
+    <option>There is no technical difference between them.</option>
+    <answer>Hard RTOS strictly guarantees that critical tasks finish on time; Soft RTOS gives priority to critical tasks but allows occasional delays.</answer>
+    <explanation>Hard RTOS is for life-critical systems (e.g., car airbags). Soft RTOS is for systems where timing is important but not fatal if missed (e.g., video streaming).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which 'Page Replacement Algorithm' replaces the page that has not been used for the longest period of time?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>First-In, First-Out (FIFO)</option>
+    <option>Least Recently Used (LRU)</option>
+    <option>Optimal Page Replacement</option>
+    <option>Most Recently Used (MRU)</option>
+    <answer>Least Recently Used (LRU)</answer>
+    <explanation>LRU is based on the 'temporal locality' principle—if you haven't used a piece of data for a long time, you are unlikely to need it in the near future.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In a Linux/Unix environment, what is the primary use of the `grep` command?</text>
+    <topic>Operating System - Linux</topic>
+    <option>To create a new user account.</option>
+    <option>To search for specific text patterns within files or command output.</option>
+    <option>To format a hard drive partition.</option>
+    <option>To display the current system date and time.</option>
+    <answer>To search for specific text patterns within files or command output.</answer>
+    <explanation>`grep` (Global Regular Expression Print) is a powerful tool used to filter and find lines of text that match a specific criteria.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which Disk Scheduling algorithm is commonly referred to as the **'Elevator'** algorithm?</text>
+    <topic>Operating System - Storage Management</topic>
+    <option>First-Come, First-Served (FCFS)</option>
+    <option>Shortest Seek Time First (SSTF)</option>
+    <option>SCAN</option>
+    <option>LOOK</option>
+    <answer>SCAN</answer>
+    <explanation>The SCAN algorithm moves the disk arm across the entire width of the disk, servicing requests in its path, then reverses direction at the end—exactly like an elevator.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of the **'Idle Process'** in an operating system?</text>
+    <topic>Operating System - Process Management</topic>
+    <option>To detect when the user has walked away and lock the screen.</option>
+    <option>A background process that runs only when the CPU has no other tasks to perform, often putting the CPU in a low-power state.</option>
+    <option>To clean up temporary files while the computer is not being used.</option>
+    <option>To check for Windows updates in the background.</option>
+    <answer>A background process that runs only when the CPU has no other tasks to perform, often putting the CPU in a low-power state.</answer>
+    <explanation>The idle process ensures the CPU is never truly 'doing nothing'. It helps manage power consumption when the system is inactive.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of the OS file system, what is an **'Absolute Path'**?</text>
+    <topic>Operating System - File Management</topic>
+    <option>A shortcut that leads to a file on the desktop.</option>
+    <option>A path that specifies the location of a file starting from the current working directory.</option>
+    <option>A path that specifies the complete location of a file starting from the root directory (e.g., C:\Users\Admin\Docs\file.txt).</option>
+    <option>The physical address of the file on the hard drive platters.</option>
+    <answer>A path that specifies the complete location of a file starting from the root directory (e.g., C:\Users\Admin\Docs\file.txt).</answer>
+    <explanation>An absolute path provides the full address from the root. A 'Relative Path' only describes the path from where the user is currently 'standing' in the file system.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following is a recognized method for handling **Deadlocks** in an OS?
+I. Deadlock Prevention (eliminating one of the 4 necessary conditions).
+II. Deadlock Avoidance (using algorithms like the Banker’s Algorithm).
+III. Deadlock Detection and Recovery (terminating processes or preempting resources).
+IV. Ignoring the problem (The Ostrich Algorithm).</text>
+    <topic>Operating System - Deadlocks</topic>
+    <option>I, II and III only</option>
+    <option>I and III only</option>
+    <option>II, III and IV only</option>
+    <option>All of the above</option>
+    <answer>All of the above</answer>
+    <explanation>All four are valid strategies. The 'Ostrich Algorithm' is used when deadlocks are so rare that the cost of preventing them outweighs the benefit of letting them happen and restarting.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In older computer systems, **'Overlays'** were used to:</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>Allow a program to be larger than the physical memory by manually loading only necessary parts of code at a time.</option>
+    <option>Display one window on top of another in a GUI.</option>
+    <option>Backup the entire operating system onto a second hard drive.</option>
+    <option>Increase the speed of the internet connection by overlapping data packets.</option>
+    <answer>Allow a program to be larger than the physical memory by manually loading only necessary parts of code at a time.</answer>
+    <explanation>Before Virtual Memory was automated by the OS, programmers used overlays to manually swap parts of their program in and out of the limited RAM.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following correctly distinguishes a **'Device Controller'** from a **'Device Driver'**?</text>
+    <topic>Operating System - I/O Management</topic>
+    <option>The controller is software; the driver is hardware.</option>
+    <option>The controller is a hardware component that manages the physical device; the driver is a software program that lets the OS talk to the controller.</option>
+    <option>Both are hardware components located on the motherboard.</option>
+    <option>The driver is used for input devices, and the controller is used for output devices.</option>
+    <answer>The controller is a hardware component that manages the physical device; the driver is a software program that lets the OS talk to the controller.</answer>
+    <explanation>The Controller is the 'brains' on the hardware side (e.g., a Disk Controller). The Driver is the 'translator' on the software/OS side.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>A **'Race Condition'** is a conceptual bug that occurs when:</text>
+    <topic>Operating System - Synchronization</topic>
+    <option>The CPU clock speed is faster than the RAM speed.</option>
+    <option>Two or more processes/threads access shared data concurrently, and the final result depends on the specific timing of their execution.</option>
+    <option>The computer is competing with another computer on the network for bandwidth.</option>
+    <option>A user tries to type faster than the keyboard can process characters.</option>
+    <answer>Two or more processes/threads access shared data concurrently, and the final result depends on the specific timing of their execution.</answer>
+    <explanation>Race conditions are dangerous because they are unpredictable. They are solved using synchronization tools like Semaphores or Mutexes.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In modern Windows OS, which utility provides full-disk encryption to protect data on the drive?</text>
+    <topic>Operating System - Utilities</topic>
+    <option>Windows Defender</option>
+    <option>BitLocker</option>
+    <option>Disk Cleanup</option>
+    <option>DirectX</option>
+    <answer>BitLocker</answer>
+    <explanation>BitLocker encrypts the entire hard drive, ensuring that if the laptop or drive is stolen, the data cannot be accessed without the recovery key.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following memory allocation strategies searches for and allocates the **first** available block of memory that is large enough for a process?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>Best-Fit</option>
+    <option>Worst-Fit</option>
+    <option>First-Fit</option>
+    <option>Next-Fit</option>
+    <answer>First-Fit</answer>
+    <explanation>First-fit is generally the fastest allocation method because it stops searching as soon as it finds a hole that fits the process.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>What is the function of the **'Task Scheduler'** in Windows?</text>
+    <topic>Operating System - Utilities</topic>
+    <option>To help the user create a daily to-do list and calendar.</option>
+    <option>To automatically start programs or scripts at specific times or in response to specific system events.</option>
+    <option>To decide which user can log into the computer.</option>
+    <option>To monitor the internet speed and schedule downloads.</option>
+    <answer>To automatically start programs or scripts at specific times or in response to specific system events.</answer>
+    <explanation>Task Scheduler is used for automation, such as running a backup every Sunday night or cleaning temporary files every morning.</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>Which of the following correctly describes **'Kernel Mode'** vs **'User Mode'** in an OS?</text>
+    <topic>Operating System - Architecture</topic>
+    <option>User mode is for guests; Kernel mode is for the owner of the computer.</option>
+    <option>Kernel mode has unrestricted access to hardware and memory; User mode has restricted access to protect the system from crashes.</option>
+    <option>Kernel mode is used for running video games; User mode is for typing documents.</option>
+    <option>There is no longer any difference between these modes in modern 64-bit systems.</option>
+    <answer>Kernel mode has unrestricted access to hardware and memory; User mode has restricted access to protect the system from crashes.</answer>
+    <explanation>Dual-mode operation is a security feature. If a user program (User Mode) crashes, it doesn't take down the entire operating system (Kernel Mode).</explanation>
+</question>
+
+<question category="practice" exam="JKSSB FAA" subject="Computer Awareness">
+    <text>In the context of Operating Systems, what is **'Swapping'**?</text>
+    <topic>Operating System - Memory Management</topic>
+    <option>Exchanging a slow hard drive for a faster SSD.</option>
+    <option>Moving an entire process from the RAM to the disk (to free up space) and back again later when needed.</option>
+    <option>Sending data between two different users on a network.</option>
+    <option>Replacing one operating system with another during booting.</option>
+    <answer>Moving an entire process from the RAM to the disk (to free up space) and back again later when needed.</answer>
+    <explanation>Swapping is a medium-term scheduling technique used to manage memory when the total number of running processes exceeds the available physical RAM.</explanation>
+</question>
+
+
+
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- PYQs: Exam Wise -->
     <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
         <text>According to the J&amp;K Reorganisation Act 2019, how many Schedules are there in the Act?</text>

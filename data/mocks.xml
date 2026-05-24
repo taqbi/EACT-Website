@@ -1,6 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
-    
+ <test name="JKSSB FAA Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="10">
+    <correctMarks>1</correctMarks>
+    <negativeMarks>0.25</negativeMarks>
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In an e-Governance framework like 'e-Office', which of the following mechanisms is primarily used to ensure 'Non-repudiation' (the sender cannot deny having sent the file)?</text>
+    <option>Password protection of the PDF file</option>
+    <option>Applying a Digital Signature using Public Key Infrastructure (PKI)</option>
+    <option>Sending the file through a Virtual Private Network (VPN)</option>
+    <option>Converting the document into a read-only image format</option>
+    <answer>Applying a Digital Signature using Public Key Infrastructure (PKI)</answer>
+    <explanation>Digital Signatures ensure authenticity, integrity, and non-repudiation because they are unique to the signer and linked to the document data.</explanation>
+</question>
+
+<!-- Question 2: MS Excel -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>A user in MS Excel wants to count the number of employees who belong to the 'Finance' department AND have a salary greater than 50,000. Which formula is most appropriate?</text>
+    <option>=COUNTIF(A2:A10, "Finance", B2:B10, ">50000")</option>
+    <option>=COUNTIFS(A2:A10, "Finance", B2:B10, ">50000")</option>
+    <option>=SUMIF(A2:A10, "Finance", B2:B10, ">50000")</option>
+    <option>=CONDITIONCOUNT(A2:A10, "Finance", B2:B10, ">50000")</option>
+    <answer>=COUNTIFS(A2:A10, "Finance", B2:B10, ">50000")</answer>
+    <explanation>COUNTIF is for a single criterion, whereas COUNTIFS is used when multiple criteria must be met across different ranges.</explanation>
+</question>
+
+<!-- Question 3: Open Source Technologies -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which of the following statements regarding 'Open Source Software' is correct?</text>
+    <option>It is always free of cost and cannot be sold commercially.</option>
+    <option>The source code is available to the public for study, modification, and distribution.</option>
+    <option>It is the same as 'Freeware' because both allow users to see the source code.</option>
+    <option>It does not require any license for use or redistribution.</option>
+    <answer>The source code is available to the public for study, modification, and distribution.</answer>
+    <explanation>Open source refers to software whose source code is open to the public. Freeware is free to use but the source code is usually closed/proprietary.</explanation>
+</question>
+
+<!-- Question 4: Input/Output Devices -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Consider the device 'Refreshable Braille Display'. Which of the following best describes its classification and function?</text>
+    <option>An input device used to scan Braille documents into digital text.</option>
+    <option>An output device that provides tactile feedback by raising pins to represent characters for the visually impaired.</option>
+    <option>A storage device that permanently saves data in a tactile format.</option>
+    <option>An internal hardware component used to process haptic signals.</option>
+    <answer>An output device that provides tactile feedback by raising pins to represent characters for the visually impaired.</answer>
+    <explanation>Refreshable Braille displays are output devices that convert screen text into tactile Braille patterns using electro-mechanical pins.</explanation>
+</question>
+
+<!-- Question 5: MS Word -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>To have different page orientations (e.g., Page 1 in Portrait and Page 2 in Landscape) within the same MS Word document, which feature must be used?</text>
+    <option>Page Break</option>
+    <option>Section Break</option>
+    <option>Column Break</option>
+    <option>Orientation Lock</option>
+    <answer>Section Break</answer>
+    <explanation>Section breaks allow you to apply different formatting (orientations, headers, margins) to different parts of the same document.</explanation>
+</question>
+
+<!-- Question 6: E-Mail & Internet -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which email protocol is specifically designed to allow a user to organize emails into folders on the mail server and keep them synchronized across multiple devices?</text>
+    <option>POP3 (Post Office Protocol)</option>
+    <option>SMTP (Simple Mail Transfer Protocol)</option>
+    <option>IMAP (Internet Message Access Protocol)</option>
+    <option>FTP (File Transfer Protocol)</option>
+    <answer>IMAP (Internet Message Access Protocol)</answer>
+    <explanation>IMAP syncs the client with the server, meaning changes on one device (like moving an email to a folder) reflect everywhere. POP3 usually downloads and removes from the server.</explanation>
+</question>
+
+<!-- Question 7: Computer Virus & Antivirus -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>A 'Heuristic' detection method in modern Antivirus software is used to:</text>
+    <option>Identify viruses by looking for an exact match of a known virus signature in its database.</option>
+    <option>Detect new or unknown malware by analyzing the behavior or code patterns for suspicious characteristics.</option>
+    <option>Delete all files that have not been opened for more than six months.</option>
+    <option>Speed up the internet connection by removing tracking cookies.</option>
+    <answer>Detect new or unknown malware by analyzing the behavior or code patterns for suspicious characteristics.</answer>
+    <explanation>Heuristic analysis allows antivirus programs to identify 'Zero-day' threats that don't yet have a known signature by observing suspicious behavior.</explanation>
+</question>
+
+<!-- Question 8: Hardware and Software -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which of the following acts as the primary 'translator' between the Operating System and a specific hardware peripheral like a Printer?</text>
+    <option>Compiler</option>
+    <option>Device Driver</option>
+    <option>BIOS</option>
+    <option>Linker</option>
+    <answer>Device Driver</answer>
+    <explanation>A device driver is specialized system software that allows the OS to communicate with and control specific hardware components.</explanation>
+</question>
+
+<!-- Question 9: MS PowerPoint -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>In MS PowerPoint, if you want to add a company logo to the bottom-right corner of every slide automatically, which feature is the most efficient to use?</text>
+    <option>Slide Sorter View</option>
+    <option>Slide Master View</option>
+    <option>Handout Master</option>
+    <option>Notes Master</option>
+    <answer>Slide Master View</answer>
+    <explanation>Changes made to the Slide Master apply to every slide in the presentation, ensuring consistency and saving time.</explanation>
+</question>
+
+<!-- Question 10: PDF & Fundamentals -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>When a PDF file is described as 'Rasterized', it means the document:</text>
+    <option>Contains searchable text and selectable fonts.</option>
+    <option>Has been converted into an image format where the text is no longer searchable or selectable.</option>
+    <option>Is encrypted with a 256-bit security key.</option>
+    <option>Can be edited directly in any basic text editor like Notepad.</option>
+    <answer>Has been converted into an image format where the text is no longer searchable or selectable.</answer>
+    <explanation>Rasterization converts vector/text data into a grid of pixels (an image), making the text non-interactive and often increasing file size.</explanation>
+</question>
+</test>
+
+
+
+
+
+
+
     <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="Yes" duration="30">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
