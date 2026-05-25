@@ -317,6 +317,10 @@
     background: #fff;
     box-shadow: 0 5px 20px rgba(0,0,0,0.05);
     border-left: 5px solid #3b82f6;
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
 }
 .question-text {
     margin-top: 0; /* Remove extra space above the question text */
@@ -1467,6 +1471,10 @@ input:checked + .slider:before {
     padding: 20px;
     border-radius: 12px;
     border: 1px solid #e9ecef;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .analysis-item {

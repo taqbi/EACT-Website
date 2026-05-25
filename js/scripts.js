@@ -1012,6 +1012,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     if (quizContainer) {
+        // Prevent copying and right-clicking on questions
+        quizContainer.addEventListener('contextmenu', e => e.preventDefault());
+        quizContainer.addEventListener('copy', e => e.preventDefault());
+
         quizContainer.addEventListener('click', (e) => {
             if (e.target.classList.contains('option-btn')) {
                 const optionsDiv = e.target.parentElement;                const questionId = optionsDiv.dataset.questionId;

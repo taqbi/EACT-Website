@@ -114,6 +114,10 @@ document.addEventListener('DOMContentLoaded', () => {
         scoreContainer.style.display = 'block';
     }
 
+    // Prevent copying and right-clicking on questions
+    quizContainer.addEventListener('contextmenu', e => e.preventDefault());
+    quizContainer.addEventListener('copy', e => e.preventDefault());
+
     // Handle clicking an answer option
     quizContainer.addEventListener('click', (e) => {
         if (e.target.classList.contains('option-btn')) {

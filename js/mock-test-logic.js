@@ -43,6 +43,20 @@ document.addEventListener('DOMContentLoaded', () => {
     let startTime;
     let currentTestRank = null;
 
+    // --- Prevent Copying of MCQs ---
+    if (quizContainer) {
+        quizContainer.addEventListener('contextmenu', e => e.preventDefault());
+        quizContainer.addEventListener('copy', e => e.preventDefault());
+    }
+    if (resultsArea) {
+        resultsArea.addEventListener('contextmenu', e => {
+            if (e.target.closest('.question-analysis')) e.preventDefault();
+        });
+        resultsArea.addEventListener('copy', e => {
+            if (e.target.closest('.question-analysis')) e.preventDefault();
+        });
+    }
+
     // --- Performance Tracking Logic ---
     const MOCK_PERFORMANCE_KEY = 'eactMockTestPerformance';
 
