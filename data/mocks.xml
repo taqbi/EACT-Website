@@ -521,7 +521,7 @@ Which statements are correct?</text>
 
 
 
-<test name="JKSSB FAA Accountancy Sectional Mock Test 2" type="subject" isLive="No" duration="30">
+<test name="JKSSB FAA Accountancy Sectional Mock Test 2" type="subject" isLive="Yes" duration="30">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
