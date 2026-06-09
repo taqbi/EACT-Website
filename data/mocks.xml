@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
 
- <test name="JKSSB FAA Accountancy Sectional Mock Test 3" type="subject" isLive="Yes" duration="30" startDate="2026-06-10" startTime="10:00">
-    <correctMarks>1</correctMarks>
-    <negativeMarks>0.25</negativeMarks>
-
-    <!-- Question 1 -->
-    <question>
-        <subject>Accountancy</subject>
-        <text>A transaction was correctly journalised but posted to the debit side of the concerned personal account instead of the credit side. What will be the effect on Trial Balance?</text>
-        <option>Difference equal to transaction amount</option>
-        <option>Difference equal to half of transaction amount</option>
-        <option>Difference equal to double the transaction amount</option>
-        <option>No effect on Trial Balance</option>
-        <answer>Difference equal to double the transaction amount</answer>
-        <explanation>Correct debit exists, but instead of credit entry another debit is posted, creating double effect on debit side.</explanation>
-    </question>
-</test>
 
 
 

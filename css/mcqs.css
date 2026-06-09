@@ -1547,6 +1547,14 @@ input:checked + .slider:before {
         font-size: 0.8rem;
         border-radius: 6px;
     }
+    .test-card-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+    .test-card-item .start-test-btn {
+        width: 100%;
+    }
 }
 
 /* Subject Wise Analysis Table */

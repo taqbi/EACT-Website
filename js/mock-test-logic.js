@@ -211,8 +211,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     let btnDisabled = '';
 
                     if (!isAvailable) {
-                        btnText = `Live on: ${availableDateString}`;
-                        btnDisabled = 'disabled style="background: #94a3b8; cursor: not-allowed; box-shadow: none; transform: none;"';
+                        btnText = `<i class="far fa-clock"></i> Live on:<br><small style="font-weight:normal; font-size:0.85em; opacity:0.95;">${availableDateString}</small>`;
+                        btnDisabled = 'disabled style="background: #94a3b8; cursor: not-allowed; box-shadow: none; transform: none; line-height: 1.4; padding: 8px 16px; text-align: center;"';
                     } else if (attempt) {
                         let scoreClass = 'score-average';
                         const p = parseFloat(attempt.percentage);
