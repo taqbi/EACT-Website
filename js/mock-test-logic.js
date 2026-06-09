@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Add Icons and Descriptions to Cards
         const sections = document.querySelectorAll('.mock-type-section');
-        const icons = ['📝', '📚', '📊']; // Icons for Full, Subject, Performance
+        const icons = ['<i class="fas fa-laptop-code"></i>', '<i class="fas fa-layer-group"></i>', '<i class="fas fa-chart-line"></i>']; // Modern FontAwesome icons
         const descriptions = [
             'Simulate the real exam experience with full-length tests covering all topics.',
             'Focus on specific subjects to strengthen your weak areas.',
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if(index < 3) {
                 const iconDiv = document.createElement('div');
                 iconDiv.className = 'mock-section-icon';
-                iconDiv.textContent = icons[index];
+                iconDiv.innerHTML = icons[index];
                 section.insertBefore(iconDiv, section.firstChild);
 
                 const descP = document.createElement('p');

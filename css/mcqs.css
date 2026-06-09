@@ -8,168 +8,157 @@
     box-shadow: 0 10px 40px rgba(0, 30, 80, 0.08); /* Softer, more pronounced shadow */
 }
 
-/* --- New Dashboard Card Styles --- */
-#category-container {
+/* --- Unified Modern Landing Page Card Styles (MCQs & Mock Tests) --- */
+#category-container, .mock-selection-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
     margin-bottom: 40px;
 }
 
-.mcq-welcome-header {
+.mcq-welcome-header, .mock-welcome-header {
     text-align: center;
     margin-bottom: 40px;
-    padding: 20px 0;
+    padding: 20px 15px;
     animation: fadeInDown 0.8s ease-out;
 }
 
-.mcq-welcome-header h1 {
-    font-size: 2.5rem;
-    background: linear-gradient(135deg, #1f2a44 0%, #3b82f6 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 10px;
+.mcq-welcome-header h1, .mock-welcome-header h1 {
+    font-size: 3rem;
+    color: #0f172a;
+    margin-bottom: 15px;
     font-weight: 800;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    letter-spacing: -1px;
+    background: none;
+    -webkit-text-fill-color: initial;
+    text-shadow: none;
 }
 
-.mcq-welcome-header p {
-    font-size: 1.1rem;
-    color: #6c757d;
-    max-width: 700px;
+.mcq-welcome-header p, .mock-welcome-header p {
+    font-size: 1.15rem;
+    color: #64748b;
+    max-width: 650px;
     margin: 0 auto;
+    line-height: 1.6;
 }
 
-.mcq-card {
+.mcq-card, .mock-type-section {
     background: #ffffff;
-    padding: 30px;
-    border-radius: 20px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-    border: none;
+    padding: 40px 30px;
+    border-radius: 24px;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(226, 232, 240, 0.8);
     text-align: center;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
     position: relative;
     overflow: hidden;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 15px;
 }
 
-.mcq-card:hover {
-    transform: translateY(-10px) scale(1.02);
-    box-shadow: 0 20px 40px rgba(59, 130, 246, 0.15);
+.mcq-card:hover, .mock-type-section:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.12);
+    border-color: rgba(59, 130, 246, 0.4);
 }
 
-.mcq-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 6px;
-    background: linear-gradient(90deg, #1f2a44, #3b82f6);
-}
-
-/* Specific Card Colors for Vibrancy */
-.mcq-card[data-category="pyq"]::before {
-    background: linear-gradient(90deg, #8b5cf6, #d946ef); /* Purple/Pink */
-}
-.mcq-card[data-category="pyq"] .mcq-card-icon {
-    color: #8b5cf6;
-    background: #f3e8ff;
-}
-.mcq-card[data-category="pyq"]:hover .mcq-card-icon {
-    background: linear-gradient(135deg, #8b5cf6, #d946ef);
-    color: white;
-}
-
-.mcq-card[data-category="practice"]::before {
-    background: linear-gradient(90deg, #10b981, #34d399); /* Green */
-}
-.mcq-card[data-category="practice"] .mcq-card-icon {
-    color: #10b981;
-    background: #d1fae5;
-}
-.mcq-card[data-category="practice"]:hover .mcq-card-icon {
-    background: linear-gradient(135deg, #10b981, #34d399);
-    color: white;
-}
-
-.mcq-card[data-action="navigate"]::before {
-    background: linear-gradient(90deg, #f59e0b, #fbbf24); /* Orange/Yellow */
-}
-.mcq-card[data-action="navigate"] .mcq-card-icon {
-    color: #f59e0b;
-    background: #fef3c7;
-}
-.mcq-card[data-action="navigate"]:hover .mcq-card-icon {
-    background: linear-gradient(135deg, #f59e0b, #fbbf24);
-    color: white;
-}
-
-.mcq-card.progress-card::before {
-    background: linear-gradient(90deg, #ef4444, #f87171); /* Red */
-}
-.mcq-card.progress-card .mcq-card-icon {
-    color: #ef4444;
-    background: #fee2e2;
-}
-.mcq-card.progress-card:hover .mcq-card-icon {
-    background: linear-gradient(135deg, #ef4444, #f87171);
-    color: white;
-}
-
-.mcq-card-icon {
+.mcq-card-icon, .mock-section-icon {
     font-size: 2.5rem;
-    margin-bottom: 20px;
-    display: inline-block;
-    padding: 15px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 100%);
-    color: #3b82f6;
-    box-shadow: 0 4px 10px rgba(59, 130, 246, 0.2);
-    transition: all 0.6s ease;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 24px;
+    margin-bottom: 10px;
+    transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
-.mcq-card:hover .mcq-card-icon {
-    transform: rotateY(360deg);
+/* Modern Icon Color Themes */
+.mcq-card[data-category="pyq"] .mcq-card-icon, .mock-type-section.full-length-section .mock-section-icon { 
+    color: #8b5cf6; background: #f5f3ff; 
+}
+.mcq-card[data-category="practice"] .mcq-card-icon, .mock-type-section.subject-wise-section .mock-section-icon { 
+    color: #10b981; background: #ecfdf5; 
+}
+.mcq-card[data-action="navigate"] .mcq-card-icon, .mock-type-section.performance-section .mock-section-icon, .mcq-card.progress-card .mcq-card-icon { 
+    color: #f43f5e; background: #fff1f2; 
 }
 
-.mcq-card h3 {
-    font-size: 1.8rem;
-    background: linear-gradient(90deg, #1f2a44, #3b82f6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin: 0 0 15px 0;
-    font-weight: 800;
+.mcq-card:hover .mcq-card-icon, .mock-type-section:hover .mock-section-icon {
+    transform: scale(1.15) rotate(-5deg);
+}
+
+.mcq-card h3, .mock-type-section h3 {
+    font-size: 1.5rem;
+    color: #1e293b;
+    margin: 0;
+    font-weight: 700;
+    background: none;
+    -webkit-text-fill-color: initial;
     letter-spacing: -0.5px;
 }
 
-.mcq-card p {
-    color: #6c757d;
-    font-size: 0.9rem;
-    margin-bottom: 25px;
-    line-height: 1.5;
+.mcq-card p, .mock-type-section p {
+    color: #64748b;
+    font-size: 1rem;
+    margin: 0 0 15px 0;
+    line-height: 1.6;
     flex-grow: 1;
 }
 
-.mcq-card-btn {
-    background: linear-gradient(90deg, #3b82f6, #2563eb);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 8px;
-    font-weight: 600;
-    transition: all 0.3s;
-    width: 100%;
-    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3);
+.mock-type-section select { 
+    width: 100%; 
+    padding: 14px 20px; 
+    border-radius: 12px; 
+    border: 2px solid #e2e8f0; 
+    background-color: #f8fafc;
+    font-size: 1rem;
+    color: #334155;
+    margin-bottom: 25px; 
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%2364748b' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    background-size: 12px;
 }
 
-.mcq-card:hover .mcq-card-btn {
-    background: linear-gradient(90deg, #2563eb, #1d4ed8);
-    transform: translateY(-2px);
-    box-shadow: 0 6px 15px rgba(37, 99, 235, 0.4);
+.mock-type-section select:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+    background-color: #ffffff;
+}
+
+.mcq-card-btn, .mock-type-section button {
+    background: #ffffff;
+    color: #0f172a;
+    border: 2px solid #e2e8f0;
+    padding: 14px 24px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    width: 100%;
+    box-shadow: none;
+    cursor: pointer;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.mcq-card:hover .mcq-card-btn, .mock-type-section:hover button {
+    background: #0f172a;
+    color: #ffffff;
+    border-color: #0f172a;
+    box-shadow: 0 10px 20px -5px rgba(15, 23, 42, 0.4);
 }
 
 /* --- New Unified Filter Styles --- */

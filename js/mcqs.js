@@ -1,4 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // --- Modernize Icons (Replace emojis with FontAwesome) ---
+    const mcqIcons = document.querySelectorAll('.mcq-card-icon');
+    mcqIcons.forEach(icon => {
+        if(icon.textContent.includes('📝') || icon.closest('[data-category="pyq"]')) {
+            icon.innerHTML = '<i class="fas fa-file-signature"></i>';
+        } else if(icon.textContent.includes('📚') || icon.closest('[data-category="practice"]')) {
+            icon.innerHTML = '<i class="fas fa-layer-group"></i>';
+        } else if(icon.textContent.includes('📊') || icon.closest('.progress-card')) {
+            icon.innerHTML = '<i class="fas fa-chart-line"></i>';
+        } else if(icon.closest('[data-action="navigate"]')) {
+            icon.innerHTML = '<i class="fas fa-external-link-alt"></i>';
+        }
+    });
+
     const categoryContainer = document.getElementById('category-container');
     const filterContainer = document.getElementById('filter-container');
     const quizContainer = document.getElementById('quiz-container');
