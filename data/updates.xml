@@ -2,7 +2,22 @@
 <updates>
 
     <update>
-        <text>Subject-wise Mock Test 1 (Accounatancy) isLive now, Click here to attempt </text>
+        <text>Subject-wise Mock Test 3 (Accounatancy) is Live now, Click here to attempt </text>
+        <url>https://www.eactclasses.com/mock-tests.html</url>
+        <date>2026-06-009</date> 
+    </update>
+    <update>
+        <text>Subject-wise Mock Test 2 (Computer Awareness) is Live now, Click here to attempt </text>
+        <url>https://www.eactclasses.com/mock-tests.html</url>
+        <date>2026-06-02</date> 
+    </update>
+    <update>
+        <text>Subject-wise Mock Test 2 (Accounatancy) is Live now, Click here to attempt </text>
+        <url>https://www.eactclasses.com/mock-tests.html</url>
+        <date>2026-06-01</date> 
+    </update>
+    <update>
+        <text>Subject-wise Mock Test 1 (Accounatancy) is Live now, Click here to attempt </text>
         <url>https://www.eactclasses.com/mock-tests.html</url>
         <date>2026-05-25</date> 
     </update>
