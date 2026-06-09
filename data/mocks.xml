@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mock-tests>
- 
 
- 
+ <test name="JKSSB FAA Accountancy Sectional Mock Test 3" type="subject" isLive="Yes" duration="30" startDate="2026-06-10" startTime="10:00">
+    <correctMarks>1</correctMarks>
+    <negativeMarks>0.25</negativeMarks>
+
+    <!-- Question 1 -->
+    <question>
+        <subject>Accountancy</subject>
+        <text>A transaction was correctly journalised but posted to the debit side of the concerned personal account instead of the credit side. What will be the effect on Trial Balance?</text>
+        <option>Difference equal to transaction amount</option>
+        <option>Difference equal to half of transaction amount</option>
+        <option>Difference equal to double the transaction amount</option>
+        <option>No effect on Trial Balance</option>
+        <answer>Difference equal to double the transaction amount</answer>
+        <explanation>Correct debit exists, but instead of credit entry another debit is posted, creating double effect on debit side.</explanation>
+    </question>
+</test>
 
 
-<test name="JKSSB FAA Accountancy Sectional Mock Test 3" type="subject" isLive="Yes" duration="30">
+
+
+<test name="JKSSB FAA Accountancy Sectional Mock Test 3" type="subject" isLive="Yes" duration="30" startDate="2026-06-01" startTime="10:00">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
@@ -387,10 +403,84 @@ Reason (R): Certain errors do not affect arithmetical agreement of Trial Balance
  
  
 
-<test name="JKSSB FAA Computer Awaressness Mock Test 2" type="subject" isLive="Yes" duration="10">
+<test name="JKSSB FAA Computer Awaressness Mock Test 2" type="subject" isLive="Yes" duration="10" startDate="2026-06-01" startTime="10:00">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
+    <!-- Question 1: Hardware & Buses (Matching Type) -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Match the System Bus (Column-A) with its characteristic (Column-B):
+Column-A:
+Data Bus
+Address Bus
+Control Bus
+Column-B:
+i. Unidirectional; carries the location of the memory to be accessed.
+ii. Bidirectional; carries actual information between CPU and RAM.
+iii. Carries timing and synchronization signals (like Read/Write).</text>
+<option>1-ii, 2-i, 3-iii</option>
+<option>1-i, 2-ii, 3-iii</option>
+<option>1-iii, 2-ii, 3-i</option>
+<option>1-ii, 2-iii, 3-i</option>
+<answer>1-ii, 2-i, 3-iii</answer>
+<explanation>The Address Bus is unidirectional (CPU to Memory). The Data Bus is bidirectional (sending/receiving data). The Control Bus manages timing.</explanation>
+</question>
+<!-- Question 2: IT in Governance (Statement Based) -->
+<question>
+<subject>Computer Awareness</subject>
+<text>Consider the following statements regarding IT in Governance:
+I. 'SWAN' (State Wide Area Network) provides the connectivity backbone for e-Governance.
+II. 'G2G' refers to transactions between the Government and General Citizens.
+III. 'SASHAKT' is a portal for the empowerment of persons with disabilities.
+IV. Digital India's 'Nine Pillars' include Early Harvest Programmes and IT for Jobs.
+Which of the statements are correct?</text>
+<option>I, II and IV only</option>
+<option>I, III and IV only</option>
+<option>I and IV only</option>
+<option>All of the above</option>
+<answer>I, III and IV only</answer>
+<explanation>Statement II is false because G2G refers to Government-to-Government interaction. Transactions between Government and Citizens are called G2C.</explanation>
+</question>
+<!-- Question 3: MS Excel (Scenario Based) -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>A student has the value 100 in cell A1. He writes the formula =$A1*2 in cell B1. If he copies the formula from B1 and pastes it into cell C2, what will be the formula in C2?</text>
+    <option>=$A1*2</option>
+    <option>=$A2*2</option>
+    <option>=$B1*2</option>
+    <option>=$B2*2</option>
+    <answer>=$A2*2</answer>
+    <explanation>In =$A1, the Column (A) is absolute (fixed with $) but the Row (1) is relative. Moving down one row from B1 to C2 changes the row reference from 1 to 2.</explanation>
+</question>
+
+<!-- Question 4: Computer Virus (Conceptual) -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which of the following describes a 'Worm' as opposed to a 'Trojan Horse'?</text>
+    <option>A Worm requires a host file to attach itself to, while a Trojan is a standalone program.</option>
+    <option>A Worm can self-replicate and spread across a network automatically, whereas a Trojan requires human action (like opening an attachment) to spread.</option>
+    <option>A Trojan deletes files immediately, while a Worm only steals passwords.</option>
+    <option>Worms are hardware-based, and Trojans are software-based.</option>
+    <answer>A Worm can self-replicate and spread across a network automatically, whereas a Trojan requires human action (like opening an attachment) to spread.</answer>
+    <explanation>Worms are self-replicating standalone malware. Trojans appear as legitimate software and do not replicate on their own.</explanation>
+</question>
+
+<!-- Question 5: Open Source Technologies (Statement Based) -->
+<question>
+    <subject>Computer Awareness</subject>
+    <text>Which of the following statements about Open Source Technologies is/are correct?
+    I. MySQL is an open-source relational database management system.
+II. Python is an open-source high-level programming language.
+III. Open-source software is generally more secure because the code is open to community auditing.
+IV. 'Copyleft' is a licensing technique that ensures modified versions of the software remain free.</text>
+<option>I and II only</option>
+<option>I, II and IV only</option>
+<option>III and IV only</option>
+<option>All of the above</option>
+<answer>All of the above</answer>
+<explanation>All statements correctly describe aspects of Open Source: MySQL and Python are major examples, and auditing/Copyleft are core principles.</explanation>
+</question>
     <!-- Question 6: MS Word (Features) -->
 <question>
     <subject>Computer Awareness</subject>
@@ -461,7 +551,7 @@ Reason (R): Certain errors do not affect arithmetical agreement of Trial Balance
 
 
 
-<test name="JKSSB FAA Accountancy Sectional Mock Test 2" type="subject" isLive="Yes" duration="30">
+<test name="JKSSB FAA Accountancy Sectional Mock Test 2" type="subject" isLive="Yes" duration="30" startDate="2026-06-01" startTime="10:00">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
@@ -851,7 +941,8 @@ Statement II: Revenue expenditure generally benefits only current accounting per
  
  
  
- <test name="JKSSB FAA Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="10">
+ <test name="JKSSB FAA Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="10"  startDate="2026-06-01" startTime="10:00"
+ >
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 <question>
@@ -980,7 +1071,7 @@ Statement II: Revenue expenditure generally benefits only current accounting per
 
 
 
-    <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="Yes" duration="30">
+    <test name="JKSSB FAA Accountancy Sectional Mock Test 1" type="subject" isLive="Yes" duration="30"  startDate="2026-06-01" startTime="10:00">
     <correctMarks>1</correctMarks>
     <negativeMarks>0.25</negativeMarks>
 
@@ -1406,7 +1497,7 @@ Which statements are correct?</text>
     
     
     <!-- Full Length Mock Tests -->
-    <test name="JKSSB Junior Assistant Full Length Mock Test 2" type="full" isLive="No" duration="80">
+    <test name="JKSSB Junior Assistant Full Length Mock Test 2" type="full" isLive="No" duration="80"  startDate="2026-06-01" startTime="10:00">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
         <question>
@@ -1838,7 +1929,7 @@ Indirect:</text>
 
 
 
-<test name="JKSSB Junior Assistant Full Length Mock Test 1" type="full" isLive="Yes" duration="80">
+<test name="JKSSB Junior Assistant Full Length Mock Test 1" type="full" isLive="Yes" duration="80" startDate="2026-06-01" startTime="10:00">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
         <question>
@@ -2863,7 +2954,7 @@ In the equation P@Q#R$S, How is P related to S?</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 1" type="full" isLive="Yes" duration="120">
+<test name="JKSSB FAA Full Length Mock Test 1" type="full" isLive="Yes" duration="120"  startDate="2026-06-01" startTime="10:00">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
@@ -4246,7 +4337,7 @@ In the equation P@Q#R$S, How is P related to S?</text>
 
 
 
-<test name="JKSSB FAA Full Length Mock Test 2" type="full" isLive="Yes" duration="120">
+<test name="JKSSB FAA Full Length Mock Test 2" type="full" isLive="Yes" duration="120"  startDate="2026-06-01" startTime="10:00">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
 
@@ -5613,16 +5704,10 @@ In the equation P@Q#R$S, How is P related to S?</text>
 
 
 
-<test name="Dummy" type="full" isLive="No" duration="120">
-        <correctMarks>1</correctMarks>
-        <negativeMarks>0.25</negativeMarks>
 
-
-
-</test>
 
     <!-- Subject Wise Mock Tests -->
-    <test name="Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="20">
+    <test name="Computer Awareness Mock Test 1" type="subject" isLive="Yes" duration="20"  startDate="2026-06-01" startTime="10:00">
         <correctMarks>1</correctMarks>
         <negativeMarks>0.25</negativeMarks>
         <question>

@@ -63,8 +63,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const MOCK_PERFORMANCE_KEY = 'eactMockTestPerformance';
 
     function readMockPerformance() {
-        const data = localStorage.getItem(MOCK_PERFORMANCE_KEY);
-        return data ? JSON.parse(data) : [];
+        try {
+            const data = localStorage.getItem(MOCK_PERFORMANCE_KEY);
+            const parsed = data ? JSON.parse(data) : [];
+            return Array.isArray(parsed) ? parsed : [];
+        } catch (e) {
+            console.error("Local storage corrupted. Resetting history.", e);
+            return [];
+        }
     }
 
     function saveMockPerformance(history) {
@@ -127,69 +133,127 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => {
             const parser = new DOMParser();
             const xml = parser.parseFromString(data, "application/xml");
+            
+            // Safely handle XML Syntax Errors
+            const parserError = xml.querySelector('parsererror');
+            if (parserError) {
+                console.error("XML Parse Error:", parserError.textContent);
+                if (fullLengthList) fullLengthList.innerHTML = '<div class="empty-state"><h3>XML Format Error</h3><p>There is a syntax error in your mocks.xml file. Check the browser console.</p></div>';
+                if (subjectWiseList) subjectWiseList.innerHTML = '<div class="empty-state"><h3>XML Format Error</h3><p>There is a syntax error in your mocks.xml file. Check the browser console.</p></div>';
+                return;
+            }
+
             const testNodes = xml.querySelectorAll('test');
             const history = readMockPerformance();
+
+            if (testNodes.length === 0) {
+                if (fullLengthList) fullLengthList.innerHTML = '<div class="empty-state"><h3>No Tests Found</h3><p>Could not find any valid test tags.</p></div>';
+                if (subjectWiseList) subjectWiseList.innerHTML = '<div class="empty-state"><h3>No Tests Found</h3><p>Could not find any valid test tags.</p></div>';
+                return;
+            }
             
             testNodes.forEach(testNode => {
-                const testName = testNode.getAttribute('name');
-                const testType = testNode.getAttribute('type');
-                const isLive = testNode.getAttribute('isLive');
+                try {
+                    const testName = testNode.getAttribute('name');
+                    const testType = testNode.getAttribute('type');
+                    const isLive = testNode.getAttribute('isLive');
+                    const startDate = testNode.getAttribute('startDate');
+                    const startTime = testNode.getAttribute('startTime');
 
-                if (isLive !== 'Yes') return;
-
-                const correctMarksNode = testNode.querySelector('correctMarks');
-                const negativeMarksNode = testNode.querySelector('negativeMarks');
-                const correctMarks = correctMarksNode ? parseFloat(correctMarksNode.textContent) : 1;
-                const negativeMarks = negativeMarksNode ? parseFloat(negativeMarksNode.textContent) : 0;
-                const duration = testNode.getAttribute('duration') ? parseInt(testNode.getAttribute('duration')) : 120;
-
-                const questions = [];
-                testNode.querySelectorAll('question').forEach(qNode => {
-                    questions.push({
-                        subject: qNode.querySelector('subject') ? qNode.querySelector('subject').textContent : 'General',
-                        text: qNode.querySelector('text').textContent,
-                        options: Array.from(qNode.querySelectorAll('option')).map(opt => opt.textContent),
-                        answer: qNode.querySelector('answer').textContent
-                    });
-                });
-                allMockTests[testName] = { questions, correctMarks, negativeMarks, duration };
-
-                // Check for previous attempts
-                const attempt = history.find(h => h.name === testName);
-                let scoreHtml = '';
-                let btnText = 'Start';
-
-                if (attempt) {
-                    let scoreClass = 'score-average';
-                    const p = parseFloat(attempt.percentage);
-                    if (p >= 80) scoreClass = 'score-excellent';
-                    else if (p >= 60) scoreClass = 'score-good';
-                    else if (p < 40) scoreClass = 'score-poor';
-                    
-                    scoreHtml = `<div class="test-score-badge ${scoreClass}">Score: ${attempt.score}/${attempt.total} (${attempt.percentage}%)</div>`;
-                    btnText = 'Retake';
-                }
-
-                // Create Test Card
-                const card = document.createElement('div');
-                card.className = 'test-card-item';
-                card.innerHTML = `
-                    <div class="test-info">
-                        <h4>${testName}</h4>
-                        <span class="q-count">${questions.length} Questions</span>
-                        ${scoreHtml}
-                    </div>
-                    <button class="start-test-btn">${btnText}</button>
-                `;
+                    // Case-insensitive check and trim
+                    if (!isLive || isLive.trim().toLowerCase() !== 'yes') return;
                 
-                card.querySelector('.start-test-btn').addEventListener('click', () => showStartConfirmation(testName));
+                    // Check Date and Time Schedule safely
+                    let isAvailable = true;
+                    let availableDateString = '';
+                    if (startDate && startTime) {
+                        // Ensure Safari compatibility by adding seconds if missing
+                        const timeStr = startTime.split(':').length === 2 ? `${startTime}:00` : startTime;
+                        const availableDateObj = new Date(`${startDate}T${timeStr}`);
+                        
+                        if (!isNaN(availableDateObj) && new Date() < availableDateObj) {
+                            isAvailable = false;
+                            availableDateString = availableDateObj.toLocaleString(undefined, {
+                                month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+                            });
+                        }
+                    }
 
-                if (testType === 'full' && fullLengthList) {
-                    fullLengthList.appendChild(card);
-                } else if (testType === 'subject' && subjectWiseList) {
-                    subjectWiseList.appendChild(card);
+                    const correctMarksNode = testNode.querySelector('correctMarks');
+                    const negativeMarksNode = testNode.querySelector('negativeMarks');
+                    const correctMarks = correctMarksNode ? parseFloat(correctMarksNode.textContent) : 1;
+                    const negativeMarks = negativeMarksNode ? parseFloat(negativeMarksNode.textContent) : 0;
+                    const duration = testNode.getAttribute('duration') ? parseInt(testNode.getAttribute('duration')) : 120;
+
+                    const questions = [];
+                    testNode.querySelectorAll('question').forEach(qNode => {
+                        const subjectNode = qNode.querySelector('subject');
+                        const textNode = qNode.querySelector('text');
+                        const answerNode = qNode.querySelector('answer');
+                        
+                        // Fallback gracefully if any tags are missing to prevent crashes
+                        questions.push({
+                            subject: subjectNode ? subjectNode.textContent : 'General',
+                            text: textNode ? textNode.textContent : 'Missing Question Text',
+                            options: Array.from(qNode.querySelectorAll('option')).map(opt => opt.textContent),
+                            answer: answerNode ? answerNode.textContent : ''
+                        });
+                    });
+                    
+                    if (!testName) return; // Skip if no name
+                    
+                    allMockTests[testName] = { questions, correctMarks, negativeMarks, duration };
+
+                    // Check for previous attempts safely
+                    const attempt = history.find(h => h.name === testName);
+                    let scoreHtml = '';
+                    let btnText = 'Start';
+                    let btnDisabled = '';
+
+                    if (!isAvailable) {
+                        btnText = `Live on: ${availableDateString}`;
+                        btnDisabled = 'disabled style="background: #94a3b8; cursor: not-allowed; box-shadow: none; transform: none;"';
+                    } else if (attempt) {
+                        let scoreClass = 'score-average';
+                        const p = parseFloat(attempt.percentage);
+                        if (p >= 80) scoreClass = 'score-excellent';
+                        else if (p >= 60) scoreClass = 'score-good';
+                        else if (p < 40) scoreClass = 'score-poor';
+                        
+                        scoreHtml = `<div class="test-score-badge ${scoreClass}">Score: ${attempt.score}/${attempt.total} (${attempt.percentage}%)</div>`;
+                        btnText = 'Retake';
+                    }
+
+                    // Create Test Card
+                    const card = document.createElement('div');
+                    card.className = 'test-card-item';
+                    card.innerHTML = `
+                        <div class="test-info">
+                            <h4>${testName}</h4>
+                            <span class="q-count">${questions.length} Questions</span>
+                            ${scoreHtml}
+                        </div>
+                        <button class="start-test-btn" ${btnDisabled}>${btnText}</button>
+                    `;
+                    
+                    if (isAvailable) {
+                        card.querySelector('.start-test-btn').addEventListener('click', () => showStartConfirmation(testName));
+                    }
+
+                    if (testType === 'full' && fullLengthList) {
+                        fullLengthList.appendChild(card);
+                    } else if (testType === 'subject' && subjectWiseList) {
+                        subjectWiseList.appendChild(card);
+                    }
+                } catch (err) {
+                    console.error("Error processing test node:", err);
                 }
             });
+        })
+        .catch(error => {
+            console.error("Error fetching mocks.xml:", error);
+            if (fullLengthList) fullLengthList.innerHTML = '<div class="empty-state"><h3>Network Error</h3><p>Could not load the mock tests. Please check your internet connection or file path.</p></div>';
+            if (subjectWiseList) subjectWiseList.innerHTML = '<div class="empty-state"><h3>Network Error</h3><p>Could not load the mock tests. Please check your internet connection or file path.</p></div>';
         });
 
     function showStartConfirmation(testName) {
