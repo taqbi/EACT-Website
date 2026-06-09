@@ -2232,6 +2232,40 @@ input:checked + .slider:before {
     gap: 5px;
 }
 
+/* --- Search Bar Styles --- */
+.mock-search-container {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto 25px auto;
+}
+.mock-search-input {
+    width: 100%;
+    padding: 14px 20px 14px 45px;
+    font-size: 1rem;
+    color: #495057;
+    background-color: #f8faff;
+    border: 2px solid #e0e7ef;
+    border-radius: 30px;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+    box-sizing: border-box;
+}
+.mock-search-input:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.1);
+    background-color: #fff;
+}
+.mock-search-container .search-icon {
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #94a3b8;
+    font-size: 1.1rem;
+    pointer-events: none;
+}
+
 .test-score-badge {
     display: inline-block;
     margin-top: 8px;

@@ -30,6 +30,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const backFromListBtn = document.getElementById('back-from-list-btn');
     const viewSubjectWiseBtn = document.getElementById('view-subject-wise-btn');
     const backFromSubjectListBtn = document.getElementById('back-from-subject-list-btn');
+    const fullLengthSearch = document.getElementById('full-length-search');
+    const subjectWiseSearch = document.getElementById('subject-wise-search');
 
     let allMockTests = {};
     let currentTest = [];
@@ -1180,4 +1182,25 @@ function generateLeaderboardHtml(leaderboardData) {
             selectionContainer.style.display = 'grid';
         });
     }
+
+    // --- 7. Search/Filter Logic ---
+    function setupSearchFilter(searchInput, listContainer) {
+        if (!searchInput || !listContainer) return;
+        
+        searchInput.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase().trim();
+            const testCards = listContainer.querySelectorAll('.test-card-item');
+            
+            testCards.forEach(card => {
+                const testName = card.querySelector('h4').textContent.toLowerCase();
+                if (testName.includes(searchTerm)) {
+                    card.style.display = 'flex'; // Restore original flex layout
+                } else {
+                    card.style.display = 'none'; // Hide if no match
+                }
+            });
+        });
+    }
+    setupSearchFilter(fullLengthSearch, fullLengthList);
+    setupSearchFilter(subjectWiseSearch, subjectWiseList);
 });
