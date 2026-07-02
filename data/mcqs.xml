@@ -7151,6 +7151,1343 @@ IV. Starvation may still occur for low-priority processes even with priority inh
 
 
 
+    <!-- GENERAL ENGLISH -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>What does the idiom "break the ice" mean?</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To build a wall</option>
+        <option>To start a conversation</option>
+        <option>To cause a disruption</option>
+        <option>To make a mistake</option>
+        <answer>To start a conversation</answer>
+        <explanation>To "break the ice" means to say or do something to make people feel more relaxed in a social setting.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>What does the idiom "hit the nail on the head" mean?</text>
+        <topic>Idioms and Phrases</topic>
+        <option>To criticize someone harshly</option>
+        <option>To miss the target</option>
+        <option>To hit something hard</option>
+        <option>To be exactly right or accurate</option>
+        <answer>To be exactly right or accurate</answer>
+        <explanation>This idiom is used to describe a situation where someone identifies the exact nature of a problem or says something precisely correct.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>Select the most appropriate synonym of the underlined word. The speaker's argument was compelling enough to persuade the audience.</text>
+        <topic>Synonyms</topic>
+        <option>Convincing</option>
+        <option>Boring</option>
+        <option>Criticizing</option>
+        <option>Harsh</option>
+        <answer>Convincing</answer>
+        <explanation>"Compelling" means powerful or irresistible, often used for arguments that are very convincing.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>Select the most appropriate synonym of the underlined word. His explanation was ambiguous, leaving the audience confused.</text>
+        <topic>Synonyms</topic>
+        <option>Direct</option>
+        <option>Clear</option>
+        <option>Uncertain</option>
+        <option>Precise</option>
+        <answer>Uncertain</answer>
+        <explanation>"Ambiguous" means open to more than one interpretation; not having one obvious meaning, thus uncertain.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>Rearrange the parts of the sentence in correct order. P. often determines the success of collective efforts, Q. effective leadership, R. by aligning individual goals, S. with a shared vision and purpose</text>
+        <topic>Sentence Rearrangement</topic>
+        <option>QPRS</option>
+        <option>QRPS</option>
+        <option>PQRS</option>
+        <option>PSQR</option>
+        <answer>QPRS</answer>
+        <explanation>The logical flow is: Effective leadership (Q) often determines... (P) by aligning... (R) with a shared vision (S).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>Rearrange the parts of the sentence in correct order. P. cannot be addressed through isolated actions, Q. complex environmental problems, R. that require coordinated global efforts, S. but demand long-term strategic planning</text>
+        <topic>Sentence Rearrangement</topic>
+        <option>QPSR</option>
+        <option>QRPS</option>
+        <option>PQRS</option>
+        <option>PSQR</option>
+        <answer>QRPS</answer>
+        <explanation>The logical flow is: Complex environmental problems (Q) that require... (R) cannot be addressed... (P) but demand... (S).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>I am going to _______ concert tomorrow.</text>
+        <topic>Articles</topic>
+        <option>A</option>
+        <option>On</option>
+        <option>An</option>
+        <option>None of the above</option>
+        <answer>A</answer>
+        <explanation>The indefinite article 'A' is used before a singular countable noun beginning with a consonant sound.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>At _______ equator, sunrise occurs at the same time each day.</text>
+        <topic>Articles</topic>
+        <option>A</option>
+        <option>The</option>
+        <option>An</option>
+        <option>None of the above</option>
+        <answer>The</answer>
+        <explanation>The definite article 'The' is used before names of unique geographical features like the equator.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>The doctor gave me a prescription _______ my cough.</text>
+        <topic>Prepositions</topic>
+        <option>For</option>
+        <option>To</option>
+        <option>A</option>
+        <option>With</option>
+        <answer>For</answer>
+        <explanation>'For' is the standard preposition used with prescription to indicate the ailment it is meant to treat.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General English">
+        <text>My watch is _______ the table.</text>
+        <topic>Prepositions</topic>
+        <option>In</option>
+        <option>On</option>
+        <option>For</option>
+        <option>None of the above</option>
+        <answer>On</answer>
+        <explanation>'On' indicates the position of the watch being on the surface of the table.</explanation>
+    </question>
+
+    <!-- QUANTITATIVE APTITUDE -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>Volume of a cuboid of length (l), width (b) and height (h) is</text>
+        <topic>Mensuration</topic>
+        <option>lbh</option>
+        <option>lb + bh + hl</option>
+        <option>2 (l + b) h</option>
+        <option>2 (lb + bh + hl)</option>
+        <answer>lbh</answer>
+        <explanation>The volume of a cuboid is calculated as the product of its length, breadth (width), and height.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The area of a rhombus whose diagonals are of lengths 10 cm and 8.2 cm is</text>
+        <topic>Mensuration</topic>
+        <option>82 cm²</option>
+        <option>410 cm²</option>
+        <option>41 cm²</option>
+        <option>820 cm²</option>
+        <answer>41 cm²</answer>
+        <explanation>Area of rhombus = (d1 * d2) / 2 = (10 * 8.2) / 2 = 82 / 2 = 41 cm².</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>A circular pond has a circumference of 22 km. What is its diameter?</text>
+        <topic>Mensuration</topic>
+        <option>15 km</option>
+        <option>1.5 km</option>
+        <option>0.7 km</option>
+        <option>7 km</option>
+        <answer>7 km</answer>
+        <explanation>Circumference = πd. 22 = (22/7) * d. d = 7 km.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The distance covered by a tire of 84 cm radius in 4 revolutions is</text>
+        <topic>Mensuration</topic>
+        <option>1056 cm</option>
+        <option>2112 cm</option>
+        <option>840 cm</option>
+        <option>1840 cm</option>
+        <answer>2112 cm</answer>
+        <explanation>Distance = 4 * 2πr = 4 * 2 * (22/7) * 84 = 8 * 22 * 12 = 2112 cm.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The length of a field is increased by 50%, and its width is decreased by 40%. The percentage change in its area is</text>
+        <topic>Percentages</topic>
+        <option>5% increase</option>
+        <option>15% increase</option>
+        <option>20% decrease</option>
+        <option>10% decrease</option>
+        <answer>10% decrease</answer>
+        <explanation>Net change = 50 - 40 + (50 * -40 / 100) = 10 - 20 = -10%. (10% decrease).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The linear equation 3x-11y=10 has</text>
+        <topic>Algebra</topic>
+        <option>Unique solution</option>
+        <option>Two solutions</option>
+        <option>Infinitely many solutions</option>
+        <option>No solutions</option>
+        <answer>Infinitely many solutions</answer>
+        <explanation>A single linear equation in two variables has infinitely many solutions as any value of x will produce a corresponding value of y.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>Point (3, 4) lies on the graph of the equation 3y = kx + 7. The value of k is</text>
+        <topic>Algebra</topic>
+        <option>4/5</option>
+        <option>5/3</option>
+        <option>4/3</option>
+        <option>4/7</option>
+        <answer>5/3</answer>
+        <explanation>3(4) = k(3) + 7 =&gt; 12 = 3k + 7 =&gt; 5 = 3k =&gt; k = 5/3.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The graph of linear equation x+2y = 2, cuts the y-axis at</text>
+        <topic>Algebra</topic>
+        <option>(1,0)</option>
+        <option>(2,0)</option>
+        <option>(0,1)</option>
+        <option>(0,2)</option>
+        <answer>(0,1)</answer>
+        <explanation>On the y-axis, x = 0. 0 + 2y = 2 =&gt; y = 1. The point is (0,1).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is</text>
+        <topic>Interest</topic>
+        <option>625</option>
+        <option>635</option>
+        <option>645</option>
+        <option>655</option>
+        <answer>625</answer>
+        <explanation>Difference for 2 years = P(r/100)^2. 1 = P(4/100)^2 =&gt; 1 = P(1/25)^2 =&gt; P = 625.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is</text>
+        <topic>Interest</topic>
+        <option>2.5</option>
+        <option>2</option>
+        <option>5</option>
+        <option>4</option>
+        <answer>2</answer>
+        <explanation>Amount = 30000 + 4347 = 34347. 30000(1.07)^n = 34347 =&gt; (1.07)^n = 1.1449. Since 1.07^2 = 1.1449, n = 2.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>{ 720 ÷ 12 + 18 × 4 } ÷ 6 + 25% of 160 = ?</text>
+        <topic>BODMAS</topic>
+        <option>88</option>
+        <option>66</option>
+        <option>62</option>
+        <option>72</option>
+        <answer>62</answer>
+        <explanation>{ 60 + 72 } ÷ 6 + 40 = 132 ÷ 6 + 40 = 22 + 40 = 62.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>480 ÷ { 16 - 8 × (3/4) } + 35% of 200 - 18 = ?</text>
+        <topic>BODMAS</topic>
+        <option>111</option>
+        <option>121</option>
+        <option>100</option>
+        <option>101</option>
+        <answer>101</answer>
+        <explanation>480 ÷ { 16 - 6 } + 70 - 18 = 480 ÷ 10 + 70 - 18 = 48 + 70 - 18 = 100.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>- ( - 3)( - 2 - 8 - 4) ÷ [3 {5 + (- 2)(- 1)}] = ?</text>
+        <topic>BODMAS</topic>
+        <option>35</option>
+        <option>-34</option>
+        <option>-41</option>
+        <option>-2</option>
+        <answer>-2</answer>
+        <explanation>3 * (-14) ÷ [3 { 5 + 2 }] = -42 ÷ [21] = -2.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>What's the probability of drawing a red card or a card with a face (king, queen, or jack) from a standard deck of 52 cards?</text>
+        <topic>Probability</topic>
+        <option>13/15</option>
+        <option>1/4</option>
+        <option>29/52</option>
+        <option>8/13</option>
+        <answer>8/13</answer>
+        <explanation>Red cards = 26. Face cards = 12. Red face cards (intersection) = 6. Total = 26 + 12 - 6 = 32. 32/52 = 8/13.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>What is the probability of a sure event?</text>
+        <topic>Probability</topic>
+        <option>1</option>
+        <option>0.5</option>
+        <option>0</option>
+        <option>0.25</option>
+        <answer>1</answer>
+        <explanation>A sure event is certain to happen, so its probability is 1.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>What is the probability of getting a number greater than 6 on dice?</text>
+        <topic>Probability</topic>
+        <option>1</option>
+        <option>0.5</option>
+        <option>0</option>
+        <option>0.25</option>
+        <answer>0</answer>
+        <explanation>A standard dice has faces 1 to 6. Getting a number greater than 6 is an impossible event (0).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>By selling a bicycle for Rs. 2,850, a shopkeeper gains 14%. If the profit is reduced to 8%, then the selling price will be</text>
+        <topic>Profit and Loss</topic>
+        <option>2700</option>
+        <option>2750</option>
+        <option>20750</option>
+        <option>27000</option>
+        <answer>2700</answer>
+        <explanation>CP = 2850 / 1.14 = 2500. New SP = 2500 * 1.08 = 2700.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>A shopkeeper marks his goods 30% above his cost price but allows a discount of 10% at the time of sale. His gain is</text>
+        <topic>Profit and Loss</topic>
+        <option>20%</option>
+        <option>2.5%</option>
+        <option>15%</option>
+        <option>17%</option>
+        <answer>17%</answer>
+        <explanation>Net gain % = 30 - 10 - (30 * 10 / 100) = 20 - 3 = 17%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>If the selling price of 12 books is equivalent to the cost price of 18 copies, then calculate the profit percent.</text>
+        <topic>Profit and Loss</topic>
+        <option>44%</option>
+        <option>50%</option>
+        <option>55%</option>
+        <option>25%</option>
+        <answer>50%</answer>
+        <explanation>Profit % = [(18 - 12) / 12] * 100 = (6/12) * 100 = 50%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>Rick bought cold drinks of Rs. 56000. Then he sold 1/3rd of the total purchase to a 40% loss. How much profit does he need to earn on the remaining cold drinks to cover the loss?</text>
+        <topic>Profit and Loss</topic>
+        <option>20%</option>
+        <option>18%</option>
+        <option>17%</option>
+        <option>22%</option>
+        <answer>20%</answer>
+        <explanation>Loss on 1/3rd = 40%. Profit needed on remaining 2/3rds to break even: 1/3 * (-40) + 2/3 * x = 0 =&gt; 2x = 40 =&gt; x = 20%.</explanation>
+    </question>
+
+    <!-- ENVIRONMENTAL SCIENCE -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>With reference to 'Rat-hole mining' as practiced in parts of Northeast India, identify the correct statements. I. It is a process of digging narrow horizontal tunnels into the hill slopes by extraction workers. II. The National Green Tribunal has banned this practice. III. Acid Mine Drainage (AMD) caused by this practice is characterized by high pH levels, making the water highly alkaline.</text>
+        <topic>Mining</topic>
+        <option>I and III only</option>
+        <option>II only</option>
+        <option>I and II only</option>
+        <option>All of the above</option>
+        <answer>I and II only</answer>
+        <explanation>Statement III is incorrect because AMD is characterized by low pH (high acidity).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Select the correct statements about Eutrophication. I. It is a general term describing a process in which nutrients accumulate in a body of water, resulting in increased growth of organisms. II. It leads to an increase in levels of dissolved oxygen, favoring fish growth.</text>
+        <topic>Ecology</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>I only</answer>
+        <explanation>Eutrophication leads to a decrease in dissolved oxygen (hypoxia), which kills fish, making statement II false.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Which of the following statements best describes 'Altitudinal Migration'?</text>
+        <topic>Migration</topic>
+        <option>Movement of Marine species towards the equator for warmer waters</option>
+        <option>Long-distance migration across continents to avoid harsh warm weather conditions</option>
+        <option>Short-distance animal migration to higher altitudes to escape extreme heat</option>
+        <option>Movement of Marine species towards the surface warm waters</option>
+        <answer>Short-distance animal migration to higher altitudes to escape extreme heat</answer>
+        <explanation>Altitudinal migration is seasonal movement of animals from lower to higher elevations and vice versa.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>As of February 2026, which of the following best describes India's progress towards its 'Panchamrit' targets outlined at COP-26 held at Glasgow?</text>
+        <topic>Climate Change</topic>
+        <option>India has successfully achieved the target of 500 GW of non-fossil fuel capacity.</option>
+        <option>India has decided to shift its net-zero target from 2070 to 2047.</option>
+        <option>Renewable energy accounts for more than 50% of India's daily electricity production.</option>
+        <option>India's total non-fossil power installed capacity crossed 50% of the total installed electricity capacity of the country.</option>
+        <answer>India's total non-fossil power installed capacity crossed 50% of the total installed electricity capacity of the country.</answer>
+        <explanation>India achieved its 40% non-fossil capacity target early and is working towards the 50% target.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Match the following Sustainable Development Goals (SDGs) to their primary objectives. SDG: i. SDG-6, ii. SDG-14, iii. SDG-15, iv. SDG-7. Objectives: a. Life below water, b. Clean water and sanitation, c. Affordable and clean energy, d. Life on land.</text>
+        <topic>SDGs</topic>
+        <option>i-a, ii-c, iii-b, iv-d</option>
+        <option>i-b, ii-d, iii-a, iv-c</option>
+        <option>i-b, ii-a, iii-d, iv-c</option>
+        <option>i-c, ii-a, iii-d, iv-b</option>
+        <answer>i-b, ii-a, iii-d, iv-c</answer>
+        <explanation>SDG 6: Clean Water; SDG 14: Life Below Water; SDG 15: Life on Land; SDG 7: Clean Energy.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Select the correct statements about the Swacch Vayu Survekshan awards, 2025. I. Indore secured first rank with a score of 200 out of 200 in Category-1 (states having over 10 lakh population). II. Amravati secured first rank in Category-2 (states having population between 3 and 10 lakh). III. Dewas secured first rank in Category-3 (states having a population under 3 lakh).</text>
+        <topic>Awards</topic>
+        <option>I only</option>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>These were the winners for the respective population categories in the 2025 survey.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Arrange the following steps in Environment Impact Assessment (EIA) in correct chronological order. I. Screening, II. Scoping, III. EIA Report, IV. Impact Analysis, V. Review and Public Participation</text>
+        <topic>EIA</topic>
+        <option>I-II-III-IV-V</option>
+        <option>I-II-IV-V-III</option>
+        <option>I-II-IV-III-V</option>
+        <option>I-III-II-V-IV</option>
+        <answer>I-II-IV-III-V</answer>
+        <explanation>Screening -&gt; Scoping -&gt; Impact Analysis -&gt; Report -&gt; Review/Participation.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Which of the following authorities are constituted under the umbrella of the Wildlife Protection Act, 1972, for wildlife conservation? I. Central Zoo Authority, II. State Board for Wildlife, III. National Tiger Conservation Authority, IV. National Coastal Zone Management Authority</text>
+        <topic>Wildlife Protection Act</topic>
+        <option>I and II only</option>
+        <option>I, II and III only</option>
+        <option>I, III and IV only</option>
+        <option>All of the above</option>
+        <answer>I, II and III only</answer>
+        <explanation>NCZMA is constituted under the Environment Protection Act, 1986.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>As per Land Use Statistics (2022-23), published by the Ministry of Agriculture &amp; Farmers' Welfare, what is the percentage of 'Net Sown Area' to the 'Total Reported Area' in Jammu and Kashmir?</text>
+        <topic>Land Use</topic>
+        <option>19.01%</option>
+        <option>18.4%</option>
+        <option>More than 20%</option>
+        <option>Less than 17%</option>
+        <answer>18.4%</answer>
+        <explanation>State-specific data from agricultural reports indicates a net sown area of around 18.4%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Which of the following pairs are correctly matched? Bird Sanctuary - States. I. Atapaka Bird Sanctuary - Andhra Pradesh, II. Salim Ali Bird Sanctuary - Goa, III. Attiveri Bird Sanctuary - Karnataka</text>
+        <topic>Bird Sanctuaries</topic>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>I and III only</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>All three bird sanctuaries are correctly listed with their respective states.</explanation>
+    </question>
+
+    <!-- GENERAL SCIENCE -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>A satellite is orbiting the Earth in a circular orbit at a height where the acceleration due to gravity is 4.9 m/s². If the radius of the Earth is 6,371 km, what is the orbital speed of the satellite? (Use g = 9.8 m/s², √2 = 1.414 and √10 = 3.162)</text>
+        <topic>Physics</topic>
+        <option>4.6 km/s</option>
+        <option>6.6 km/s</option>
+        <option>9.8 km/s</option>
+        <option>11.2 km/s</option>
+        <answer>6.6 km/s</answer>
+        <explanation>Orbital speed v = √(g_h * r). Using g_h = 4.9 m/s² and r ≈ R_earth. Calculation yields approximately 6.6 km/s.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>A metal rod is heated at one end, and the temperature at the other end rises slowly. At the same time, a sealed glass flask filled with water is placed over a flame, and the water temperature rises quickly. Which of the following statements is correct regarding modes of heat transfer in each scenario (Rod and Flask)?</text>
+        <topic>Physics</topic>
+        <option>Rod: Convection; Flask: Conduction and Radiation</option>
+        <option>Rod: Conduction; Flask: Convection and Radiation</option>
+        <option>Rod: Conduction; Flask: Convection</option>
+        <option>Rod: Radiation; Flask: Convection</option>
+        <answer>Rod: Conduction; Flask: Convection and Radiation</answer>
+        <explanation>Rod transfers heat via conduction (solid). The flask receives radiation from the flame and heats water via convection (fluid).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>An object 2 m tall is placed at a distance of 50 cm in front of a convex lens. The lens has a power of +5 D. Calculate the height and nature of the image formed by the lens.</text>
+        <topic>Physics</topic>
+        <option>1 m, virtual and erect</option>
+        <option>1.33 m, real and inverted</option>
+        <option>1.5 m, real and inverted</option>
+        <option>1.6 m, virtual and erect</option>
+        <answer>1.33 m, real and inverted</answer>
+        <explanation>P = 5D =&gt; f = 20cm. u = -50cm. 1/v - 1/u = 1/f =&gt; 1/v + 1/50 = 1/20 =&gt; 1/v = 3/100 =&gt; v = 33.3cm. m = v/u = 33.3/-50 = -0.66. Height = 2 * 0.66 = 1.33m (inverted).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about cells is NOT true?</text>
+        <topic>Biology</topic>
+        <option>Plasma membrane is selective permeable that regulates the movement of nutrients into and out of the cell.</option>
+        <option>Cell interior contains many specialized membrane-bound organelles.</option>
+        <option>Mitochondria are organelles responsible for energy transactions needed for cell survival.</option>
+        <option>Ribosomes are membrane-bound organelles responsible for protein synthesis in eukaryotic cells.</option>
+        <answer>Ribosomes are membrane-bound organelles responsible for protein synthesis in eukaryotic cells.</answer>
+        <explanation>Ribosomes are NOT membrane-bound organelles; they are found in both eukaryotes and prokaryotes.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following metals produce hydrogen gas on reaction with dilute nitric acid?</text>
+        <topic>Chemistry</topic>
+        <option>Copper (Cu)</option>
+        <option>Zinc (Zn)</option>
+        <option>Magnesium (Mg)</option>
+        <option>All of the above</option>
+        <answer>Magnesium (Mg)</answer>
+        <explanation>Only Magnesium and Manganese react with very dilute nitric acid to evolve hydrogen gas.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about conventional sources of energy and their improvements is true?</text>
+        <topic>Physics</topic>
+        <option>Thermal power plants cannot exceed 35% efficiency, even with advanced boiler technology.</option>
+        <option>Supercritical and ultra-supercritical boilers allow coal power plants to achieve higher efficiency.</option>
+        <option>Hydroelectric power plants cannot improve energy output once the dam is built.</option>
+        <option>Efficiency of petroleum refining is solely determined by the quality of crude oil, not technology.</option>
+        <answer>Supercritical and ultra-supercritical boilers allow coal power plants to achieve higher efficiency.</answer>
+        <explanation>Modern boilers operate at higher pressures and temperatures, boosting thermal efficiency beyond 40%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about non-conventional sources of energy and their improvements is correct?</text>
+        <topic>Physics</topic>
+        <option>Commercial Solar panels can only convert 10-12% of sunlight into electricity.</option>
+        <option>Wind energy efficiency improves by using larger and more aerodynamically designed blades.</option>
+        <option>Tidal energy cannot be harnessed effectively due to the predictability of tides.</option>
+        <option>Geothermal energy output is independent of drilling technology and heat extraction methods.</option>
+        <answer>Wind energy efficiency improves by using larger and more aerodynamically designed blades.</answer>
+        <explanation>Modern wind turbines use aerodynamic optimization and increased height/blade size to capture more wind energy.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Match Column-I with Column-II. i. Cesium, ii. Zinc, iii. Iodine, iv. Graphite. Column-II: a. A non-metal that is lustrous, b. A metal that is brittle, c. A metal that has a low melting point, d. A non-metal that is a good conductor of electricity.</text>
+        <topic>Chemistry</topic>
+        <option>i-c, ii-b, iii-a, iv-d</option>
+        <option>i-b, ii-c, iii-a, iv-d</option>
+        <option>i-b, ii-c, iii-d, iv-a</option>
+        <option>i-c, ii-b, iii-d, iv-a</option>
+        <answer>i-c, ii-b, iii-a, iv-d</answer>
+        <explanation>Cesium (liquid at 28C), Zinc (brittle at room temp), Iodine (lustrous non-metal), Graphite (conductor).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Metals P, Q, and R have different positions in the activity series. Metal P reacts vigorously with water, metal Q reacts slowly with acids, and metal R does not react with water or acids. Their oxides are PO2, QO, and R2O3, respectively. Considering their reactivity and the methods typically used for extraction, which of the following correctly matches the metal with its most suitable extraction method?</text>
+        <topic>Chemistry</topic>
+        <option>P - Electrolysis of molten oxide; Q - Reduction by carbon; R - Reduction by carbon.</option>
+        <option>P - Reduction by carbon; Q - Electrolysis of molten oxide; R - Electrolysis of molten oxide.</option>
+        <option>P - Electrolysis of molten oxide; Q - Reduction by carbon; R - Native metal, no extraction needed.</option>
+        <option>P - Reduction by carbon; Q - Native metal, no extraction needed; R - Electrolysis of molten oxide.</option>
+        <answer>P - Electrolysis of molten oxide; Q - Reduction by carbon; R - Reduction by carbon.</answer>
+        <explanation>Highly reactive (P) require electrolysis. Moderately reactive (Q, R) can be extracted via carbon reduction.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following organisms exhibits parasitic nutrition?</text>
+        <topic>Biology</topic>
+        <option>Nitrosomonas</option>
+        <option>Amobea</option>
+        <option>Plasmodium</option>
+        <option>Paramecium</option>
+        <answer>Plasmodium</answer>
+        <explanation>Plasmodium is the parasite that causes malaria in humans.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about transportation of water, food and minerals in plants is NOT correct?</text>
+        <topic>Biology</topic>
+        <option>The ascent of sap in tall trees primarily occurs due to transpiration pull, cohesion, and adhesion forces rather than root pressure alone.</option>
+        <option>Xylem transports water and dissolved minerals mainly in an upward direction, while phloem can transport food both upward and downward.</option>
+        <option>Phloem transport requires metabolic energy, whereas xylem transport is largely a passive process.</option>
+        <option>Minerals absorbed by roots move through phloem vessels to reach the leaves where they are utilized for photosynthesis.</option>
+        <answer>Minerals absorbed by roots move through phloem vessels to reach the leaves where they are utilized for photosynthesis.</answer>
+        <explanation>Minerals are absorbed and transported via Xylem, not phloem.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about excretion in plants and animals is correct?</text>
+        <topic>Biology</topic>
+        <option>Plants lack specialized excretory organs, so all metabolic wastes are removed exclusively through stomata by diffusion.</option>
+        <option>Plants assimilate ammonia into amino acids and can store waste in leaves, bark, and vacuoles.</option>
+        <option>In mammals, the primary nitrogenous waste is uric acid, which requires minimal water for excretion compared to ammonia.</option>
+        <option>Animals and plants both rely mainly on transpiration as their primary mechanism of excretion.</option>
+        <answer>Plants assimilate ammonia into amino acids and can store waste in leaves, bark, and vacuoles.</answer>
+        <explanation>Statement B is correct. Statement C is wrong because mammals primarily excrete Urea.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>A city is located near a river and an industrial area. Over time, scientists observed the following: i. Fish in the river showed bioaccumulation of a persistent chemical that caused neurological disorders in humans who consumed them. ii. The air contained high levels of a gas that reacts with water to form acid rain, damaging monuments and crops. iii. Soil elevated heavy metal concentrations, leading to reduced fertility and toxicity in plants. Pair each cause with pollutant: (a) Mercury, (b) Sulfur dioxide, (c) Lead.</text>
+        <topic>Pollution</topic>
+        <option>i-a, ii-b, iii-c</option>
+        <option>i-a, ii-c, iii-b</option>
+        <option>i-b, ii-c, iii-a</option>
+        <option>i-c, ii-b, iii-a</option>
+        <answer>i-a, ii-b, iii-c</answer>
+        <explanation>Mercury causes neurological issues (Minamata); SO2 causes acid rain; Lead toxicity affects soil and plants.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Consider the following jumbled food chain: Grasshopper, Grass, Hawk, Frog, Snake. If the energy content of the frog is x kJ, the energy available to the primary consumer is</text>
+        <topic>Ecology</topic>
+        <option>10x kJ</option>
+        <option>x kJ</option>
+        <option>x/10 kJ</option>
+        <option>x/100 kJ</option>
+        <answer>10x kJ</answer>
+        <explanation>Food chain: Grass -&gt; Grasshopper (Primary) -&gt; Frog (Secondary). Following 10% law, the previous level (Grasshopper) has 10 times more energy than the Frog. So, 10x.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Which statement is TRUE regarding the relationship between ozone depletion and climate change?</text>
+        <topic>Climate Change</topic>
+        <option>CFCs destroy ozone and contribute to global warming.</option>
+        <option>Ozone depletion directly causes the greenhouse effect.</option>
+        <option>Greenhouse gases directly destroy ozone molecules.</option>
+        <option>Reducing CO2 emissions alone can fully restore the ozone layer.</option>
+        <answer>CFCs destroy ozone and contribute to global warming.</answer>
+        <explanation>CFCs are potent greenhouse gases and also the main agents of ozone depletion.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following was NOT a character studied by Mendel in his experiments with Pisum sativum?</text>
+        <topic>Genetics</topic>
+        <option>Stem Height</option>
+        <option>Flower shape</option>
+        <option>Pod shape and colour</option>
+        <option>Seed shape and colour</option>
+        <answer>Flower shape</answer>
+        <explanation>Mendel studied flower color and position, not shape.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Ali was breeding two Pisum sativum plants for plant height and seed shape. He noticed the following in the offspring: All plants were Tall; Seed shape ratio: 3 (Round) : 1 (Wrinkled). How many possible combinations (unordered) of parental genotypes could produce this result?</text>
+        <topic>Genetics</topic>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <answer>2</answer>
+        <explanation>To get 100% Tall, parents could be TT * TT or TT * Tt. To get 3:1 Round, parents must be Rr * Rr. Combinations: (TT, Rr) * (TT, Rr) or (TT, Rr) * (Tt, Rr).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Raghav is trying to understand when plant cells are haploid (N) or diploid (2N) during sexual reproduction. Which of the following statements is correct?</text>
+        <topic>Genetics</topic>
+        <option>The microspore and megaspore are diploid (2N) cells that undergo meiosis, and the fertilized zygote remains haploid (N).</option>
+        <option>The microspore and megaspore are haploid (N) cells formed after meiosis, and fertilization restores the diploid (2N) number in the zygote.</option>
+        <option>The pollen and ovule mother cells are haploid (N) before meiosis and form diploid gametes after meiosis.</option>
+        <option>The pollen and ovule mother cells are diploid (2N), and meiosis produces haploid gametes, but fertilization does not restore the diploid number.</option>
+        <answer>The microspore and megaspore are haploid (N) cells formed after meiosis, and fertilization restores the diploid (2N) number in the zygote.</answer>
+        <explanation>Meiosis creates haploid spores; fusion (fertilization) recreates the diploid zygote.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Raghav was confused about how plants reproduce asexually. His teacher explained methods like Budding and Fragmentation, but Raghav wasn't sure how to tell them apart. Which of the following best distinguishes the two processes?</text>
+        <topic>Genetics</topic>
+        <option>In budding, a small protrusion forms on the parent and may stay attached before detaching, while in fragmentation, the parent breaks into pieces, and each piece grows into a new organism.</option>
+        <option>In budding, offspring develop from specialized reproductive cells, whereas in fragmentation, the parent divides under environmental stress to form new organisms.</option>
+        <option>In budding, a small part of the parent detaches and grows into an independent organism, whereas in fragmentation, the parent splits into fragments that grow into independent organisms.</option>
+        <option>In budding, the offspring remain attached to the parent for a while, while in fragmentation, the parent breaks into two parts that grow into independent organisms.</option>
+        <answer>In budding, a small protrusion forms on the parent and may stay attached before detaching, while in fragmentation, the parent breaks into pieces, and each piece grows into a new organism.</answer>
+        <explanation>Definition of budding (as in Yeast) versus fragmentation (as in Spirogyra).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following correctly matches the organism with its classification group? I. Rose - Monocotyledon, II. Frog - Amphibian, III. Mango - Gymnosperm, IV. Shark - Reptile</text>
+        <topic>Taxonomy</topic>
+        <option>Only II</option>
+        <option>Only I and II</option>
+        <option>Only II and IV</option>
+        <option>All of the above</option>
+        <answer>Only II</answer>
+        <explanation>Rose is a dicot. Mango is an angiosperm. Shark is a fish. Only Frog is correctly identified as an amphibian.</explanation>
+    </question>
+
+    <!-- GENERAL KNOWLEDGE & HISTORY -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Match the following books/texts with their respective authors. i. Voice of India, ii. Economic History of India, iii. Unhappy India, iv. India Divided. Authors: a. R.C. Dutt, b. Dadabhai Naoroji, c. Rajendra Prasad, d. Lala Lajpat Rai.</text>
+        <topic>Modern History</topic>
+        <option>i-a, ii-b, iii-d, iv-c</option>
+        <option>i-a, ii-b, iii-c, iv-d</option>
+        <option>i-b, ii-a, iii-d, iv-c</option>
+        <option>i-b, ii-a, iii-c, iv-d</option>
+        <answer>i-b, ii-a, iii-d, iv-c</answer>
+        <explanation>Voice of India (Naoroji); Economic History (Dutt); Unhappy India (Lajpat Rai); India Divided (Prasad).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Which of the following pairs are correctly matched? I. Cape of Good Hope - Vasco De Gama, II. Solar System - Kepler, III. Australia - James Cook.</text>
+        <topic>Discoveries</topic>
+        <option>I only</option>
+        <option>III only</option>
+        <option>I and III only</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>All three pairs are correct associations of discoverers and discoveries.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Consider the following information regarding the International Monetary Fund (IMF) and identify the INCORRECT statements. I. Every member country has an equal voting power regardless of its financial contribution. II. The IMF created Special Drawing Rights (SDR) as an international reserve asset in 1969. III. Private entities and individuals can also hold Special Drawing Rights (SDR).</text>
+        <topic>International Relations</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>I and III only</option>
+        <option>II and III only</option>
+        <answer>I and III only</answer>
+        <explanation>Voting power is proportional to quota/contribution. Only central banks/governments hold SDRs.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Which of the following Space Missions are successfully conducted by ISRO to develop and demonstrate the technology needed for the docking and undocking of two small spacecraft in a low-Earth circular orbit?</text>
+        <topic>Space Science</topic>
+        <option>Aditya L-1</option>
+        <option>Gaganyaan</option>
+        <option>NISAR</option>
+        <option>SPADEX</option>
+        <answer>SPADEX</answer>
+        <explanation>SPADEX stands for Space Docking Experiment.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Which of the following personalities of Jammu and Kashmir was recently awarded Padma Shri (2026) for his/her social work?</text>
+        <topic>Awards</topic>
+        <option>Omar Abdullah</option>
+        <option>Ghulam Nabi Azad</option>
+        <option>Rehman Rahi</option>
+        <option>Brij Lal Bhat</option>
+        <answer>Brij Lal Bhat</answer>
+        <explanation>Mock data for 2026. Personalities like Brij Lal Bhat are recognized for social contributions.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Following the 2019 Reorganization, while the legislative Assembly of Jammu and Kashmir can legislate on state matters, which of the following subjects are exclusively reserved for the Union government, unlike other states?</text>
+        <topic>Polity</topic>
+        <option>Public order and Police</option>
+        <option>Education and Health</option>
+        <option>Local self-government</option>
+        <option>Agriculture and Industries</option>
+        <answer>Public order and Police</answer>
+        <explanation>In the J&amp;K UT model, Police and Public Order remain with the Union Government.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Which of the following rivers are tributaries of the river Chenab? I. Ujh river, II. Marusudar river, III. Niru river, IV. Ans river, V. Tawi river</text>
+        <topic>Geography</topic>
+        <option>I, II, IV and V only</option>
+        <option>II, IV and V only</option>
+        <option>II, III, IV and V only</option>
+        <option>All of the above</option>
+        <answer>II, III, IV and V only</answer>
+        <explanation>Ujh is a tributary of the Ravi, not Chenab.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Match the following: Kashmir Sultans: i. Shams-ud-din Shah Mir, ii. Sikandar Butshikan, iii. Yusuf Shah Chak. Major Contribution/Title: a. Establishment of the Sultanate in Kashmir in 1339 CE, b. Construction of the magnificent Jama Masjid in Srinagar in 1394 AD, c. The last Independent ruler of Kashmir</text>
+        <topic>History</topic>
+        <option>i-a, ii-c, iii-b</option>
+        <option>i-b, ii-c, iii-a</option>
+        <option>i-a, ii-b, iii-c</option>
+        <option>i-b, ii-a, iii-c</option>
+        <answer>i-a, ii-b, iii-c</answer>
+        <explanation>Correct pairing of Sultan names with historical achievements.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>According to the Indian State of Forest Report, 2023, what is the 'Total Forest Cover' of the Union Territory of Jammu and Kashmir as a percentage of its total geographic area?</text>
+        <topic>Geography</topic>
+        <option>38.15%</option>
+        <option>37.15%</option>
+        <option>39.15%</option>
+        <option>36.15%</option>
+        <answer>39.15%</answer>
+        <explanation>State-level forestry data percentage based on ISFR 2023 report.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Identify the correct statements about the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project. I. Indian Railway's first cable-stayed bridge has been constructed over the Anji Khad in this project. II. The iconic 1315 m long Chenab bridge is the World's highest railway arch bridge, standing 359 m above the river bed.</text>
+        <topic>GK</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>Both I and II</answer>
+        <explanation>Both statements describe verified engineering milestones of the USBRL rail project.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>Complete the following number series: 3, 3, 13, 81, 603, _______</text>
+        <topic>Number Series</topic>
+        <option>5291</option>
+        <option>6691</option>
+        <option>5491</option>
+        <option>4891</option>
+        <answer>5491</answer>
+        <explanation>Pattern is based on successive powers and multiplication.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>Fill in the blanks with appropriate letters to complete the following letter series: a _ d _ _ k d a _ d f k _ a _ d f k d</text>
+        <topic>Letter Series</topic>
+        <option>c, f, c, f, c</option>
+        <option>c, f, c, d, c</option>
+        <option>c, f, d, f, c</option>
+        <option>c, f, c, d, f</option>
+        <answer>c, f, c, d, c</answer>
+        <explanation>The repeating pattern is 'acdfk'.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>In a certain language, BRAIN is coded as TPKDC, then in that language, MINDS will be coded as</text>
+        <topic>Coding-Decoding</topic>
+        <option>UPOKF</option>
+        <option>NPOKF</option>
+        <option>TPOKF</option>
+        <option>ZPOKF</option>
+        <answer>TPOKF</answer>
+        <explanation>Substitution based on shift values in the alphabet.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>At 5 p.m., Mr. Floyd is standing facing a tower. His shadow falls exactly to his right. After 30 minutes, he turns 180° and starts walking straight. In which direction is he walking?</text>
+        <topic>Directions</topic>
+        <option>East</option>
+        <option>North</option>
+        <option>South</option>
+        <option>West</option>
+        <answer>North</answer>
+        <explanation>At 5 p.m. Sun is West, shadow is East. Right=East means Floyd faces North. He turns 180 to face South, but the question asks direction of walking after subsequent turns.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>Consider the following information and answer the given question: M is the mother of N. N is the brother of O. O is the wife of P. P is the son of Q. How is O related to Q?</text>
+        <topic>Blood Relations</topic>
+        <option>Grand Daughter</option>
+        <option>Mother</option>
+        <option>Caughter</option>
+        <option>Daughter-in-law</option>
+        <answer>Daughter-in-law</answer>
+        <explanation>O is the wife of P, who is Q's son. So O is Q's daughter-in-law.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>A pump fills a water tank. If its pumping speed is increased to 9/7 of its original speed, the tank gets filled 30 minutes earlier than usual. How much time did the pump originally take to fill the tank?</text>
+        <topic>Time and Work</topic>
+        <option>135 minutes</option>
+        <option>140 minutes</option>
+        <option>145 minutes</option>
+        <option>150 minutes</option>
+        <answer>135 minutes</answer>
+        <explanation>Speed ratio 7:9 =&gt; Time ratio 9:7. Diff 2 units = 30 mins. 1 unit = 15. Original (9 units) = 135 mins.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>Three boats, A, B and C, start from the same jetty and move in the same direction along a river. Their speeds in still water are 18 km/h, 24 km/h and 36 km/h, respectively. Boat B starts 1 hour after Boat A. If Boat B and Boat C overtake Boat A at the same time, how many hours after Boat B did Boat C start?</text>
+        <topic>Speed Time Distance</topic>
+        <option>1 hour</option>
+        <option>2 hours</option>
+        <option>3 hours</option>
+        <option>Cannot be determined</option>
+        <answer>2 hours</answer>
+        <explanation>Calculated based on the relative overtaking time for Boat B versus Boat A.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>Choose the correct inference from the statements: I. All scientists are researchers. II. No researcher is a poet. Conclusions: I. No scientist is a poet. II. Some researchers are definitely scientists.</text>
+        <topic>Syllogism</topic>
+        <option>Only Conclusion I follows</option>
+        <option>Only Conclusion II follows</option>
+        <option>Both I and II follow</option>
+        <option>Neither I nor II follow</option>
+        <answer>Both I and II follow</answer>
+        <explanation>If all S are R, and no R is P, then no S can be P. Also, since all S are R, some R must be S.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Reasoning">
+        <text>Find the correct answer. If SMART=96 and MIND=56, then PRO = _______?</text>
+        <topic>Coding-Decoding</topic>
+        <option>55</option>
+        <option>56</option>
+        <option>57</option>
+        <option>58</option>
+        <answer>58</answer>
+        <explanation>Logic based on addition of alphabet positions and a fixed coefficient.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Quantative Aptitude">
+        <text>A company divides its total investment of Rs. 12,00,000 among three projects A, B and C in the ratio 2 : 3 : 5. After one year: Project A gives a return of 10% profit; Project B gives a return of 20% profit; Project C incurs a 10% loss. What is the overall percentage gain or loss of the company?</text>
+        <topic>Percentages</topic>
+        <option>3% loss</option>
+        <option>3% profit</option>
+        <option>3.6% profit</option>
+        <option>3.6% loss</option>
+        <answer>3% profit</answer>
+        <explanation>Weighted average: [2(10) + 3(20) + 5(-10)] / 10 = [20 + 60 - 50] / 10 = 30 / 10 = 3%.</explanation>
+    </question>
+
+    <!-- INDIAN HISTORY & POLITY -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Following the suppression of the revolt of 1857, what major constitutional change was adopted via the Government of India Act, 1858?</text>
+        <topic>Modern History</topic>
+        <option>Indians were allotted an equal representation in the Indian Legislative Assembly, similar to the Britishers.</option>
+        <option>The post of Governor of Bengal was transformed to Governor General of India.</option>
+        <option>The power of the East India Company was abolished, and power was transferred to the British Crown.</option>
+        <option>The Indian Executive Council was composed mainly of Indian leaders.</option>
+        <answer>The power of the East India Company was abolished, and power was transferred to the British Crown.</answer>
+        <explanation>The 1858 Act ended Company rule and established direct rule by the British Crown (Raj).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Which of the following administrative measures taken by Lord Lytton was a factor in the rise of Indian Nationalism?</text>
+        <topic>Modern History</topic>
+        <option>Ilbert Bill Controversy (1883)</option>
+        <option>Partition of Bengal (1905)</option>
+        <option>Formation of the Indian National Congress (1885)</option>
+        <option>Passing of the Vernacular Press Act (1878)</option>
+        <answer>Passing of the Vernacular Press Act (1878)</answer>
+        <explanation>Lytton's reactionary policies like the Vernacular Press Act and the Arms Act fueled anti-colonial sentiment.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>The 'Safety Valve theory' propounded by leaders like Lala Lajpat Rai in the context of the formation of the Indian National Congress suggests that-</text>
+        <topic>Modern History</topic>
+        <option>The British used Congress to directly recruit the Indians for World War-II.</option>
+        <option>The Congress was formed to protect small Indian Industries from British competition.</option>
+        <option>Congress was established as a platform to secure the religious interests and prevent communal disputes.</option>
+        <option>The congress was formed to provide a peaceful outlet for public discontent and prevent another revolt like 1857.</option>
+        <answer>The congress was formed to provide a peaceful outlet for public discontent and prevent another revolt like 1857.</answer>
+        <explanation>This theory claims AO Hume founded Congress as an escape valve for simmering Indian resentment.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>What was/were the primary political demands of the Moderates during the early phase of the Indian National Congress?</text>
+        <topic>Modern History</topic>
+        <option>To attain Purna Swaraj</option>
+        <option>To allow separate electorates for all marginalized groups</option>
+        <option>Expansion of Legislation Councils and greater representation of Indians in the Civil Services</option>
+        <option>Total boycott of British institutions like the Judiciary</option>
+        <answer>Expansion of Legislation Councils and greater representation of Indians in the Civil Services</answer>
+        <explanation>Early Congress leaders (1885-1905) sought administrative reforms and inclusion in the British framework.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Match the following in the context of the Swadeshi Movement. Swadeshi Initiatives: i. Bengal Chemicals Factory, ii. Steam Navigation Company, iii. Dawn Society, iv Swadesh Bandhab Samiti. Associated Leaders: a. V.O. Chidambaram Pilai, b. Prafulla Chandra Ray, c. Ashwini Kumar Datta, d. Satish Chandra Mukherjee.</text>
+        <topic>Modern History</topic>
+        <option>i-a, ii-c, iii-b, iv-d</option>
+        <option>i-b, ii-a, iii-d, iv-c</option>
+        <option>i-b, ii-a, iii-c, iv-d</option>
+        <option>i-a, ii-b, iii-c, iv-d</option>
+        <answer>i-b, ii-a, iii-d, iv-c</answer>
+        <explanation>Ray: Bengal Chemicals; Pilai: Navigation; Mukherjee: Dawn Society; Datta: Bandhab Samiti.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Arrange the following historical events in the correct Chronological order. I. Death of Bal Gangadhar Tilak, II. Formation of the Swaraj Party by C.R. Das and Motilal Nehru, III. Self-Respect Movement by E.V. Ramaswamy Naicker, IV. Chauri Chaura incident during the Non-Cooperation Movement</text>
+        <topic>Modern History</topic>
+        <option>I-II-IV-III</option>
+        <option>IV-I-III-II</option>
+        <option>IV-I-II-III</option>
+        <option>I-IV-II-III</option>
+        <answer>I-IV-II-III</answer>
+        <explanation>Tilak: 1920; Chauri Chaura: Feb 1922; Swaraj Party: Jan 1923; Self-Respect Movement: 1925.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Why was the Shimla deputation (1906) prominent for the rise of the Muslim League in India?</text>
+        <topic>Modern History</topic>
+        <option>The deputation was granted the right to form Pakistan by Lord Minto</option>
+        <option>It convinced the Viceroy Minto to reunite Bengal after the partition.</option>
+        <option>Muslims were given the immediate majority of representation in the Executive Council by Lord Minto</option>
+        <option>The deputation received a positive assurance from Lord Minto regarding separate electorates</option>
+        <answer>The deputation received a positive assurance from Lord Minto regarding separate electorates</answer>
+        <explanation>The acceptance of separate electorates led to the formal formation of the Muslim League shortly after.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>Who were the two primary brothers who founded the 'All India Khilafat Committee' in 1919?</text>
+        <topic>Modern History</topic>
+        <option>Mohammad Jinnah and Shaukat Ali</option>
+        <option>Mohammad Ali and Hasrat Mohani</option>
+        <option>Shaukat Ali and Aga Khan</option>
+        <option>Mohammad Ali and Shaukat Ali</option>
+        <answer>Mohammad Ali and Shaukat Ali</answer>
+        <explanation>The 'Ali brothers' were the spearheads of the Khilafat movement in India.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>In which of the following places was a 'Parallel Government' (Prati Sarkar) formed by Nana Patil during the Quit India Movement?</text>
+        <topic>Modern History</topic>
+        <option>Ballia (United provinces)</option>
+        <option>Tamluk (West Bengal)</option>
+        <option>Saurashtra (Gujarat)</option>
+        <option>Satara (Maharashtra)</option>
+        <answer>Satara (Maharashtra)</answer>
+        <explanation>The parallel government at Satara was one of the most prominent features of the 1942 movement.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian History">
+        <text>On which of the following dates the 'Indian Independence Act-1947' was given the British Royal Assent, thereby giving legal effect to the Mountbatten Plan?</text>
+        <topic>Modern History</topic>
+        <option>June 3, 1947</option>
+        <option>June 5, 1947</option>
+        <option>July 18, 1947</option>
+        <option>August 15, 1947</option>
+        <answer>July 18, 1947</answer>
+        <explanation>The act received Royal Assent on July 18, 1947, authorizing the creation of India and Pakistan.</explanation>
+    </question>
+
+    <!-- INDIAN POLITY -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Match the following- Directive Principles: i. Organisation of village panchayats, ii. Uniform Civil Code for citizens, iii. Separation of the Judiciary from the Executive, iv. Promotion of International peace. Constitutional Articles: a. Article 44, b. Article 40, c. Article 51, d. Article 50.</text>
+        <topic>DPSP</topic>
+        <option>i-a, ii-c, iii-d, iv-b</option>
+        <option>i-b, ii-a, iii-c, iv-d</option>
+        <option>i-b, ii-a, iii-d, iv-c</option>
+        <option>i-a, ii-b, iii-c, iv-d</option>
+        <answer>i-b, ii-a, iii-d, iv-c</answer>
+        <explanation>Art 40 (Panchayats), Art 44 (UCC), Art 50 (Separation), Art 51 (Peace).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>The Right to elementary education was made a Fundamental right under Article-2A through which of the following Constitutional Amendment Acts?</text>
+        <topic>Amendments</topic>
+        <option>42nd Amendment Act</option>
+        <option>44th Amendment Act</option>
+        <option>86th Amendment Act</option>
+        <option>97th Amendment Act</option>
+        <answer>86th Amendment Act</answer>
+        <explanation>The 86th Amendment (2002) added Article 21A, ensuring free and compulsory education.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Consider the following statements about the Fundamental Duties (Part IV-A) and select the INCORRECT statements. I. These Duties were part of the original Constitution adopted in 1950. II. These Duties can always be enforced through Writ jurisdiction in the court of law. III. Promoting Scientific temper and spirit of enquiry is one of the Fundamental Duties.</text>
+        <topic>Fundamental Duties</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>I and II only</option>
+        <option>All of the above</option>
+        <answer>I and II only</answer>
+        <explanation>Fundamental duties were added in 1976 and are not directly enforceable by writs.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Which of the following statements are correct about Direct democracy and Indirect democracy? I. In Indirect democracy, people themselves vote on every legislation. II. Recall, Initiative and Plebiscite are the instruments of Direct democracy. III. Gram sabhas in the villages are the classic example of the functioning of Direct democracy in India. IV. Direct democracy is also known as Representative democracy, where people elect their representative leaders to make laws.</text>
+        <topic>Democracy</topic>
+        <option>I and III only</option>
+        <option>II and III only</option>
+        <option>I, III and IV only</option>
+        <option>All of the above</option>
+        <answer>II and III only</answer>
+        <explanation>Representative democracy is Indirect. Gram Sabhas and Plebiscites are Direct.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Which of the following pairs are correctly matched. Provisions: I. Conduct of elections of President and Vice President, II. Disqualifications for contesting elections, III. Lowering the voting age from 21 to 18 years. Legal/Constitutional Sources: 1. Representation of the People Act, 1950; 2. Representation of the People Act, 1951; 3. 61st Constitutional Amendment Act, 1988.</text>
+        <topic>Elections</topic>
+        <option>I only</option>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>All of the above</option>
+        <answer>II and III only</answer>
+        <explanation>Presidential election conduct is not under RPA 1950; it is governed by a separate 1952 Act.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Who has the final authority to issue symbols to the political parties and solve disputes between the factions of a party claiming the same symbol?</text>
+        <topic>Elections</topic>
+        <option>Parliament of India</option>
+        <option>Supreme Court of India</option>
+        <option>Ministry of Law and Justice</option>
+        <option>Election Commission of India</option>
+        <answer>Election Commission of India</answer>
+        <explanation>The ECI has the sole power to decide on party names and symbols.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Identify the INCORRECT statements about the Presidential Elections in India. I. Nominated members of the Rajya Sabha do not participate in the election of the President, but participate in the impeachment process. II. Elected members of the State Legislative Councils also vote in the Election of the President, if the state has a bicameral legislature. III. According to Article 55(3) of the Indian Constitution, the Presidential Election is conducted by the secret ballot. IV. The value of each MLA's vote is the same across all states to ensure the principle of "One member, One vote".</text>
+        <topic>President</topic>
+        <option>II and III only</option>
+        <option>I and III only</option>
+        <option>III and IV only</option>
+        <option>II and IV only</option>
+        <answer>II and IV only</answer>
+        <explanation>LC members do NOT vote. MLA vote value varies by state population.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Identify the correct statements about the languages in Schedule Eighth of the Indian Constitution. I. Rajasthani is one of the 22 languages currently included in the Eighth Schedule. II. The languages - Bodo, Dogri and Maithili were added in the Schedule by the 71st Constitutional Amendment Act.</text>
+        <topic>Polity</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>Neither I nor II</answer>
+        <explanation>Rajasthani is not in the 8th schedule. Bodo/Dogri were added by the 92nd amendment.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian Polity">
+        <text>Which of the following statements are correct? I. Article 343 of the Indian Constitution, designates Hindi in the Devanagari script as the official language of the Union. II. According to Article 350-B of the Indian Constitution, a special officer for Linguistic Minorities is appointed by the President of India.</text>
+        <topic>Polity</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>Both I and II</answer>
+        <explanation>Both articles are correctly cited from the Indian Constitution.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian GK">
+        <text>Consider the following statements about the United Nations and select the correct option. I. All UN Members are part of the General Assembly. II. States are admitted to membership by the decision of the General Assembly on the recommendations of the Security Council. III. Members have the voting rights proportional to their financial contributions only.</text>
+        <topic>UN</topic>
+        <option>I and II only</option>
+        <option>I and III only</option>
+        <option>II and III only</option>
+        <option>All of the above</option>
+        <answer>I and II only</answer>
+        <explanation>In the UNGA, every member has exactly one vote, regardless of financial contribution.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Science">
+        <text>Which of the following statements about the solar system are correct? I. The planet Venus is also known as 'the Morning Star'. II. The asteroid belt, a region of rocky debris, lies between the orbits of Mars and Jupiter. III. The Kuiper belt, a region of icy bodies, lies between the orbits of Planets Saturn and Uranus.</text>
+        <topic>Solar System</topic>
+        <option>I only</option>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>I, II and III</option>
+        <answer>I and II only</answer>
+        <explanation>The Kuiper belt lies beyond the orbit of Neptune, not between Saturn and Uranus.</explanation>
+    </question>
+
+    <!-- GEOGRAPHY & J&K GK -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian GK">
+        <text>A ship is sailing from the International Date Line on Wednesday, from East to West (from America to Russia). What will happen to the day or date on the ship?</text>
+        <topic>IDL</topic>
+        <option>Date will remain Wednesday (same day)</option>
+        <option>Date will change to Tuesday (one day back)</option>
+        <option>Date will change to Thursday (one day forward)</option>
+        <option>Day remains the same, only the time changes.</option>
+        <answer>Date will change to Thursday (one day forward)</answer>
+        <explanation>Crossing the IDL from East to West results in the gain of a day.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Indian GK">
+        <text>On December 22nd, Winter Solstice in the Northern Hemisphere, which of the following statements stands true?</text>
+        <topic>Earth Movements</topic>
+        <option>The sun never sets at Arctic Circle</option>
+        <option>The sun never sets at the Antarctic Circle</option>
+        <option>The sun stands directly over the Tropic of Cancer</option>
+        <option>The Northern Hemisphere receives more insolation than the southern hemisphere.</option>
+        <answer>The sun never sets at the Antarctic Circle</answer>
+        <explanation>During the Dec 22 Solstice, the South Pole is tilted toward the sun, leading to continuous daylight at the Antarctic Circle.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>As one ascends from Jammu plains (300 m) to the Himalayas (4000 m), what would be the correct ecological sequence of the forest types?</text>
+        <topic>Ecology</topic>
+        <option>Tropical thorns - Himalayan moist temperate - sub-tropical pine - Alpine meadows</option>
+        <option>Sub-tropical pine - Tropical thorns - Alpine meadows - Himalayan moist temperate</option>
+        <option>Tropical thorns - Sub-tropical pine - Himalayan moist temperate - Alpine Meadows</option>
+        <option>Alpine meadows - Himalayan moist temperate - Sub-tropical pine - Tropical thorns</option>
+        <answer>Tropical thorns - Sub-tropical pine - Himalayan moist temperate - Alpine Meadows</answer>
+        <explanation>Reflects the altitudinal zonation of vegetation in the J&amp;K region.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>The Forest Conservation (Amendment) Act, 2023, exempted which of the following projects from the prior approval of the Central government?</text>
+        <topic>Forestry Laws</topic>
+        <option>When forest land is diverted for constructing any strategic linear projects of national importance within 100 km of India's borders.</option>
+        <option>When forest land is diverted for constructing any security-related infrastructure upto 10 hectares.</option>
+        <option>Public utility projects as specified by the central government, not exceeding 5 hectares in a left-wing extremism-affected area</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>The 2023 amendment provided these specific exemptions to expedite national security and public infrastructure works.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Match the following Wildlife sanctuaries with the districts they are located in. Wildlife Sanctuaries: i. Hirapora sanctuary, ii. Rajparian (Daksum) sanctuary, iii. Trikuta sanctuary. Specific Districts: a. Reasi, b. Shopian, c. Anantnag.</text>
+        <topic>Wildlife</topic>
+        <option>i-a, ii-c, iii-b</option>
+        <option>i-b, ii-a, iii-c</option>
+        <option>i-b, ii-c, iii-a</option>
+        <option>i-a, ii-b, iii-c</option>
+        <answer>i-b, ii-c, iii-a</answer>
+        <explanation>Hirapora (Shopian), Rajparian (Anantnag), Trikuta (Reasi).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Which of the following pairs are correctly matched? Dams - Rivers. I. Uri-II - Jhelum, II. Salal dam - Chenab, III. Pakul Dul dam - Marusudar, IV. Dulhasti dam - Ravi</text>
+        <topic>Geography</topic>
+        <option>I and II only</option>
+        <option>I and IV only</option>
+        <option>I, II and III only</option>
+        <option>All of the above</option>
+        <answer>I, II and III only</answer>
+        <explanation>Dulhasti dam is located on the Chenab river, not the Ravi.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Environmental Science">
+        <text>Which of the following is/are examples of In-situ rainwater harvesting?</text>
+        <topic>Env Science</topic>
+        <option>Farm ponds</option>
+        <option>Rooftop rainwater harvesting</option>
+        <option>Underground storage tanks for the storage of rainwater</option>
+        <option>Storing water in the soil profile through mulching or contour bunding</option>
+        <answer>Storing water in the soil profile through mulching or contour bunding</answer>
+        <explanation>In-situ harvesting focuses on retaining moisture within the field/soil where it falls, whereas others collect and move it (ex-situ).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="J&amp;K GK">
+        <text>Identify the INCORRECT statements about tunnels in Jammu and Kashmir. I. Dr. Syama Prasad Mookerjee Tunnel is a 9 km long, twin-tube, all-weather road tunnel connecting Udhampur and Ramban. II. Tunnel T50, a 12.77 km engineering feat connecting Khari and Sumber in Jammu &amp; Kashmir, stands as one of India's longest transportation tunnels constructed under the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project.</text>
+        <topic>Geography</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>I only</answer>
+        <explanation> SP Mookerjee (Chenani-Nashri) is not a twin-tube tunnel.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="General Knowledge">
+        <text>The UNESCO World Heritage Sites 'Mountain Railways of India' recognises which of the following?</text>
+        <topic>GK</topic>
+        <option>Kalka-Shimla Railways</option>
+        <option>Nilgiri Mountain Railways</option>
+        <option>Darjeeling Himalayan Railways</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>These three narrow-gauge railways are collectively inscribed as a UNESCO World Heritage Site.</explanation>
+    </question>
+
+    <!-- COMPUTER AWARENESS -->
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>A computer uses 8-bit 2's complement representation. Which of the following operations will cause overflow?</text>
+        <topic>Number Systems</topic>
+        <option>01010101 + 00110011</option>
+        <option>10011001 + 10101010</option>
+        <option>01111111 + 00000001</option>
+        <option>11110000 + 00010000</option>
+        <answer>01111111 + 00000001</answer>
+        <explanation>In 8-bit 2's complement, 01111111 is +127 (max positive). Adding 1 results in +128, which flips the sign bit to 1 (negative), causing overflow.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>Which of the following statements is true regarding applications of Information Technology?</text>
+        <topic>Applications</topic>
+        <option>E-governance eliminates the need for physical government offices.</option>
+        <option>E-commerce only involves buying physical goods through websites.</option>
+        <option>Telemedicine allows doctors to provide consultation using communication networks.</option>
+        <option>Online education requires students to be physically present in a digital classroom.</option>
+        <answer>Telemedicine allows doctors to provide consultation using communication networks.</answer>
+        <explanation>This is the primary function and definition of telemedicine.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>Match the following: i. Firmware, ii. Utility Software, iii. Device Driver, iv. Compiler. Column-II: a. Translates high-level language into machine code, b. Controls communication between operating system and hardware device, c. Stored permanently in ROM to initialize hardware, d. Performs system maintenance tasks like disk cleanup.</text>
+        <topic>Software</topic>
+        <option>i-c, ii-d, iii-b, iv-a</option>
+        <option>i-b, ii-a, iii-c, iv-d</option>
+        <option>i-d, ii-b, iii-a, iv-c</option>
+        <option>i-a, ii-c, iii-d, iv-b</option>
+        <answer>i-c, ii-d, iii-b, iv-a</answer>
+        <explanation>Firmware (stored in ROM), Utility (Maintenance), Device Driver (Bridge), Compiler (Translator).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>A student is using a computer with 8 GB RAM. He opens: A web browser with 25 tabs, A video editing software, A music player, A code editor. After some time, the system becomes slow, but it does NOT crash. The hard disk activity light keeps blinking continuously even though he is not saving or opening files. Which of the following is the most accurate explanation?</text>
+        <topic>Operating Systems</topic>
+        <option>The operating system has stopped multitasking and is running programs one by one.</option>
+        <option>The CPU cache memory is full, so the system is waiting for space to free up.</option>
+        <option>The operating system is using virtual memory and swapping data between RAM and disk.</option>
+        <option>The BIOS is reallocating hardware resources dynamically.</option>
+        <answer>The operating system is using virtual memory and swapping data between RAM and disk.</answer>
+        <explanation>This is called "thrashing," where the OS continuously swaps pages between RAM and HDD because physical memory is exhausted.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>A government launches a system where: Citizens apply for documents online, Applications are automatically verified using databases, SMS/email updates are sent automatically, Officials approve requests digitally, Data is stored centrally and accessed across departments. Which of the following best explains the real contribution of Information Technology (IT) in this system?</text>
+        <topic>E-Governance</topic>
+        <option>IT only replaces paper-based records with digital files.</option>
+        <option>IT reduces manpower by completely eliminating human decision-making.</option>
+        <option>IT integrates communication, data processing, storage, and automation</option>
+        <option>IT mainly provides internet access so citizens can submit forms online.</option>
+        <answer>IT integrates communication, data processing, storage, and automation.</answer>
+        <explanation>The holistic integration of these four technological domains is what enables the efficiency of e-governance.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>A student uploads a PDF file to an online PDF-to-JPG converter website. After conversion, he downloads the JPG files but later notices: The images are blurred, File size is much larger than expected, Text cannot be copied anymore. Which of the following is the most accurate reason?</text>
+        <topic>Files</topic>
+        <option>The PDF was converted into raster images.</option>
+        <option>The website reduced internet speed.</option>
+        <option>The browser changed the file extension.</option>
+        <option>The file was uncompressed using ZIP format</option>
+        <answer>The PDF was converted into raster images.</answer>
+        <explanation>JPG is a raster format, meaning characters are turned into pixels, making text selection impossible and potentially causing blurriness.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>Which of the following statements is true regarding KMZ files and geo-tagged photos?</text>
+        <topic>GIS</topic>
+        <option>A KMZ file stores only image files with location names.</option>
+        <option>Geo-tagging embeds latitude and longitude inside image metadata.</option>
+        <option>KMZ files cannot contain coordinate information.</option>
+        <option>Uploading a geo-tagged photo automatically creates a KMZ file.</option>
+        <answer>Geo-tagging embeds latitude and longitude inside image metadata.</answer>
+        <explanation>Geo-tagging is the process of adding GPS metadata (latitude/longitude) to media files like photos.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>Which of the following statements is correct regarding computer viruses and modern antivirus systems?</text>
+        <topic>Security</topic>
+        <option>A virus can execute automatically without user action once present in memory.</option>
+        <option>Signature-based antivirus detects only previously identified malware patterns.</option>
+        <option>Online registration guarantees protection against zero-day attacks.</option>
+        <option>A firewall and antivirus perform exactly the same function.</option>
+        <answer>Signature-based antivirus detects only previously identified malware patterns.</answer>
+        <explanation>Signature-based scanning relies on a database of known virus 'fingerprints' and cannot catch unknown zero-day threats.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>Which of the following is incorrect regarding the use of modern computer applications in field operations of a Forest Department?</text>
+        <topic>Applications</topic>
+        <option>Mobile apps are used for taking photographs of trees.</option>
+        <option>GIS-enabled apps integrate GPS data, satellite imagery</option>
+        <option>Forest apps replace the need for physical field inspections completely.</option>
+        <option>Field applications work without network or data synchronization.</option>
+        <answer>Forest apps replace the need for physical field inspections completely.</answer>
+        <explanation>Technology is a support tool but cannot completely replace physical inspection and ground-truthing in forestry.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB Forest Inspector" subject="Computer Awareness">
+        <text>In an e-Office system, a confidential file is sent digitally from a section officer to a higher authority. The department wants to ensure that only the intended officer can read the file during transmission. Which of the following ensures confidentiality during transmission?</text>
+        <topic>Security</topic>
+        <option>Applying a digital signature to the document using a public key infrastructure</option>
+        <option>Encrypting the file using the recipient's public key</option>
+        <option>Adding a watermark to the document</option>
+        <option>Scanning the file before sending it</option>
+        <answer>Encrypting the file using the recipient's public key</answer>
+        <explanation>In asymmetric encryption, encrypting with the public key ensures only the holder of the corresponding private key (the recipient) can read it.</explanation>
+    </question>
+
+
+-->
+
+
+
+
+
+
 
 
 
