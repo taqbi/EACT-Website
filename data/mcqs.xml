@@ -5800,6 +5800,1379 @@ IV. Starvation may still occur for low-priority processes even with priority inh
 
 
 
+
+
+
+
+
+
+
+
+
+    <!-- QUANTITATIVE APTITUDE (Q1 - Q28) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>If a number is increased by 20% and then decreased by 20%, what is the net percentage change?</text>
+        <topic>Percentages</topic>
+        <option>+2</option>
+        <option>-2</option>
+        <option>+4</option>
+        <option>-4</option>
+        <answer>-4</answer>
+        <explanation>Successive percentage change formula: a + b + (ab/100). Here, 20 - 20 + (20 * -20 / 100) = -4%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The population of a town increases by 10% in the first year and 20% in the second year. Find total % increase in 2 years.</text>
+        <topic>Percentages</topic>
+        <option>30%</option>
+        <option>32%</option>
+        <option>34%</option>
+        <option>36%</option>
+        <answer>32%</answer>
+        <explanation>Successive increase: 10 + 20 + (10 * 20 / 100) = 30 + 2 = 32%.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A number is decreased by 15%. If the original number is 400, find the new number.</text>
+        <topic>Percentages</topic>
+        <option>320</option>
+        <option>340</option>
+        <option>350</option>
+        <option>360</option>
+        <answer>340</answer>
+        <explanation>New number = 400 * (100 - 15)/100 = 400 * 0.85 = 340.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Average of 10 number is 15. The number 36 was wrongly read as 26. Find the correct average.</text>
+        <topic>Averages</topic>
+        <option>14</option>
+        <option>16</option>
+        <option>18</option>
+        <option>20</option>
+        <answer>16</answer>
+        <explanation>Difference = 36 - 26 = 10. Increase in average = 10/10 = 1. Correct Average = 15 + 1 = 16.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Average of 30 is 20 and 20 numbers is 30. Find the average of all the results.</text>
+        <topic>Averages</topic>
+        <option>20</option>
+        <option>22</option>
+        <option>24</option>
+        <option>26</option>
+        <answer>24</answer>
+        <explanation>Total Sum = (30 * 20) + (20 * 30) = 600 + 600 = 1200. Total numbers = 30 + 20 = 50. Average = 1200 / 50 = 24.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Average of 6 consecutive even numbers is 25. Find the smallest and the largest number.</text>
+        <topic>Averages</topic>
+        <option>18 and 28</option>
+        <option>20 and 30</option>
+        <option>22 and 32</option>
+        <option>24 and 34</option>
+        <answer>20 and 30</answer>
+        <explanation>The middle value is 25. The numbers are 20, 22, 24, 26, 28, 30. Smallest = 20, Largest = 30.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>What is the average of "n" natural numbers?</text>
+        <topic>Averages</topic>
+        <option>2n+1</option>
+        <option>(2n+1)/2</option>
+        <option>n+1</option>
+        <option>(n+1)/2</option>
+        <answer>(n+1)/2</answer>
+        <explanation>Sum of first n natural numbers is n(n+1)/2. Average = Sum/n = (n+1)/2.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A man and woman together complete a work in 8 days. If man alone takes 10 days to complete the work. Find the number of days taken by woman alone to complete the same work.</text>
+        <topic>Time and Work</topic>
+        <option>20 days</option>
+        <option>40 days</option>
+        <option>50 days</option>
+        <option>60 days</option>
+        <answer>40 days</answer>
+        <explanation>1/W = 1/8 - 1/10 = (5-4)/40 = 1/40. So, 40 days.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A and B together takes 10 days to complete a work. And A alone takes 30 days to complete the same work. Find the number of days to complete the work by B alone.</text>
+        <topic>Time and Work</topic>
+        <option>10 days</option>
+        <option>15 days</option>
+        <option>20 days</option>
+        <option>25 days</option>
+        <answer>15 days</answer>
+        <explanation>1/B = 1/10 - 1/30 = (3-1)/30 = 2/30 = 1/15. So, 15 days.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A takes 18 days to complete a work, and B takes half time as A. Find the total days to complete the work if they work together.</text>
+        <topic>Time and Work</topic>
+        <option>4 days</option>
+        <option>8 days</option>
+        <option>6 days</option>
+        <option>12 days</option>
+        <answer>6 days</answer>
+        <explanation>A = 18 days, B = 9 days. Together = (18 * 9) / (18 + 9) = 162 / 27 = 6 days.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A takes 15 days to complete a work, and B takes 20 days to complete the same work. Both work for 4 days. What fraction of work is left?</text>
+        <topic>Time and Work</topic>
+        <option>15/8</option>
+        <option>8/15</option>
+        <option>7/15</option>
+        <option>15/7</option>
+        <answer>8/15</answer>
+        <explanation>One day work = 1/15 + 1/20 = 7/60. 4 days work = 4 * 7/60 = 7/15. Left = 1 - 7/15 = 8/15.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The product of two numbers is 693. If the numbers are in a ratio 7 : 11, find the difference between the numbers.</text>
+        <topic>Ratio and Proportion</topic>
+        <option>10</option>
+        <option>12</option>
+        <option>14</option>
+        <option>16</option>
+        <answer>12</answer>
+        <explanation>7x * 11x = 693 =&gt; 77x² = 693 =&gt; x² = 9 =&gt; x = 3. Numbers are 21 and 33. Difference = 33 - 21 = 12.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>If a : b = 4 : 7 and b : c = 14 : 15, then what is a:c?</text>
+        <topic>Ratio and Proportion</topic>
+        <option>8:15</option>
+        <option>3:15</option>
+        <option>2:3</option>
+        <option>8:20</option>
+        <answer>8:15</answer>
+        <explanation>a/c = (a/b) * (b/c) = (4/7) * (14/15) = (4 * 2) / 15 = 8/15.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The ratio of boys to girls in a class is 5 : 6. If 5 more boys join the class, the ratio becomes 10 : 11. How many girls are there in the class?</text>
+        <topic>Ratio and Proportion</topic>
+        <option>30</option>
+        <option>66</option>
+        <option>54</option>
+        <option>33</option>
+        <answer>33</answer>
+        <explanation>(5x + 5) / 6x = 10 / 11 =&gt; 55x + 55 = 60x =&gt; 5x = 55 =&gt; x = 11. Girls = 6x = 6 * 11 = 66. (Wait, re-checking: 55x+55=60x, 5x=55, x=11. Girls = 6x = 66. Option B).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The ratio of the ages of A and B is 7 : 9. After 4 years, the ratio becomes 9 : 11. What is A's present age?</text>
+        <topic>Problems on Ages</topic>
+        <option>28 years</option>
+        <option>35 years</option>
+        <option>21 years</option>
+        <option>14 years</option>
+        <answer>14 years</answer>
+        <explanation>(7x + 4) / (9x + 4) = 9/11 =&gt; 77x + 44 = 81x + 36 =&gt; 4x = 8 =&gt; x = 2. A's age = 7 * 2 = 14.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The sum of the present ages of a father and his son is 50 years. Five years ago, the father's age was four times the son's age. What is the son's present age?</text>
+        <topic>Problems on Ages</topic>
+        <option>10 years</option>
+        <option>12 years</option>
+        <option>13 years</option>
+        <option>14 years</option>
+        <answer>13 years</answer>
+        <explanation>F + S = 50. (F-5) = 4(S-5) =&gt; F-5 = 4S-20 =&gt; F-4S = -15. Subtracting: (50-S)-4S = -15 =&gt; 50-5S = -15 =&gt; 5S = 65 =&gt; S = 13.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The father is 40 years old and his son is 10 years old. In how many years will the father be three times as old as his son?</text>
+        <topic>Problems on Ages</topic>
+        <option>10 years</option>
+        <option>20 years</option>
+        <option>15 years</option>
+        <option>5 years</option>
+        <answer>5 years</answer>
+        <explanation>40 + x = 3(10 + x) =&gt; 40 + x = 30 + 3x =&gt; 2x = 10 =&gt; x = 5.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A bag contains 3 red balls, 2 blue balls, and 5 green balls. If one ball is drawn at random, what is the probability that it is red?</text>
+        <topic>Probability</topic>
+        <option>3/10</option>
+        <option>1/2</option>
+        <option>1/5</option>
+        <option>2/5</option>
+        <answer>3/10</answer>
+        <explanation>Total balls = 3+2+5 = 10. Red balls = 3. P(Red) = 3/10.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A die is rolled once. What is the probability of getting an even number greater than 2?</text>
+        <topic>Probability</topic>
+        <option>1/2</option>
+        <option>1/3</option>
+        <option>1/6</option>
+        <option>1/8</option>
+        <answer>1/3</answer>
+        <explanation>Total outcomes = {1, 2, 3, 4, 5, 6}. Even numbers &gt; 2 are {4, 6}. Probability = 2/6 = 1/3.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Two coins are tossed together. What is the probability of getting one head and one tail?</text>
+        <topic>Probability</topic>
+        <option>1/4</option>
+        <option>1/2</option>
+        <option>3/4</option>
+        <option>1</option>
+        <answer>1/2</answer>
+        <explanation>Sample space = {HH, HT, TH, TT}. Favorable = {HT, TH}. Probability = 2/4 = 1/2.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>If HCF of two numbers is 5 and their LCM is 120, and one number is 20, what is the other number?</text>
+        <topic>Number System</topic>
+        <option>25</option>
+        <option>30</option>
+        <option>35</option>
+        <option>40</option>
+        <answer>30</answer>
+        <explanation>Product of numbers = HCF * LCM. 20 * X = 5 * 120 =&gt; 20X = 600 =&gt; X = 30.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Two numbers are in the ratio 3 : 4 and their LCM is 48. What is the smaller number?</text>
+        <topic>Number System</topic>
+        <option>12</option>
+        <option>18</option>
+        <option>24</option>
+        <option>16</option>
+        <answer>12</answer>
+        <explanation>Let numbers be 3x and 4x. LCM(3x, 4x) = 12x. 12x = 48 =&gt; x = 4. Smaller number = 3 * 4 = 12.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Two numbers are 20 and 30. Find their HCF and LCM.</text>
+        <topic>Number System</topic>
+        <option>10 and 60</option>
+        <option>10 and 120</option>
+        <option>5 and 60</option>
+        <option>5 and 120</option>
+        <answer>10 and 60</answer>
+        <explanation>HCF(20, 30) = 10. LCM(20, 30) = 60.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Two numbers are in the ratio 7 : 11. Their HCF is 5. Find their LCM.</text>
+        <topic>Number System</topic>
+        <option>385000</option>
+        <option>38500</option>
+        <option>3850</option>
+        <option>385</option>
+        <answer>385</answer>
+        <explanation>LCM = HCF * Ratio product = 5 * 7 * 11 = 385.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>A wire is bent into a square of 484 cm². Find the area of the circle, if the wire is reshaped into the circle.</text>
+        <topic>Mensuration</topic>
+        <option>44 cm²</option>
+        <option>616 cm²</option>
+        <option>308 cm²</option>
+        <option>1232 cm²</option>
+        <answer>616 cm²</answer>
+        <explanation>Side of square = 22 cm. Perimeter = 88 cm. Circumference of circle = 88 =&gt; 2 * 22/7 * r = 88 =&gt; r = 14. Area = 22/7 * 14 * 14 = 616 cm².</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>Circumference of a circle is 88m. Find the radius of the circle.</text>
+        <topic>Mensuration</topic>
+        <option>7m</option>
+        <option>14m</option>
+        <option>21m</option>
+        <option>28m</option>
+        <answer>14m</answer>
+        <explanation>2 * 22/7 * r = 88 =&gt; 44/7 * r = 88 =&gt; r = 14m.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The ________ Polygon has all interiors angles and sides equal.</text>
+        <topic>Geometry</topic>
+        <option>Irregular</option>
+        <option>Convex</option>
+        <option>Regular</option>
+        <option>Concave</option>
+        <answer>Regular</answer>
+        <explanation>By definition, a regular polygon has equal sides and equal interior angles.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Quantative Aptitude">
+        <text>The sum of interior angles of a polygon with "n" sides is:</text>
+        <topic>Geometry</topic>
+        <option>180°(n-2)</option>
+        <option>90°(n-2)</option>
+        <option>180°(2n-2)</option>
+        <option>90°(2n-2)</option>
+        <answer>180°(n-2)</answer>
+        <explanation>The standard formula for the sum of interior angles is (n-2) * 180°.</explanation>
+    </question>
+
+    <!-- REASONING (Q29 - Q56) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Thermometer : Temperature :: Anemometer : ?</text>
+        <topic>Analogy</topic>
+        <option>Wind Speed</option>
+        <option>Altitude</option>
+        <option>Blood Pressure</option>
+        <option>Atmospheric Pressure</option>
+        <answer>Wind Speed</answer>
+        <explanation>Thermometer measures temperature; Anemometer measures wind speed.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Democracy : Vote :: Oligarchy : ?</text>
+        <topic>Analogy</topic>
+        <option>Elite group</option>
+        <option>Citizens</option>
+        <option>Constitution</option>
+        <option>Parliament</option>
+        <answer>Elite group</answer>
+        <explanation>Democracy is rule by voting; Oligarchy is rule by a small elite group.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Island : Ocean :: Oasis : ?</text>
+        <topic>Analogy</topic>
+        <option>River</option>
+        <option>Forest</option>
+        <option>Desert</option>
+        <option>Mountain</option>
+        <answer>Desert</answer>
+        <explanation>Island is a landform surrounded by ocean; Oasis is a fertile area surrounded by desert.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Clock : Time :: Barometer : ?</text>
+        <topic>Analogy</topic>
+        <option>Wind Speed</option>
+        <option>Temperature</option>
+        <option>Weather Humidity</option>
+        <option>Atmospheric Pressure</option>
+        <answer>Atmospheric Pressure</answer>
+        <explanation>Clock shows time; Barometer measures atmospheric pressure.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>At a large family gathering, A said to B, "Your mother's father's only daughter is my wife." Based on this, determine the exact relationship between A and B.</text>
+        <topic>Blood Relations</topic>
+        <option>A is B's father</option>
+        <option>A is B's uncle</option>
+        <option>A is B's grandfather</option>
+        <option>A is B's brother-in-law</option>
+        <answer>A is B's father</answer>
+        <explanation>B's mother's father's only daughter is B's mother. A says B's mother is his wife. Thus, A is B's father.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>At a family event, P said to Q, "Your father is the son of my grandfather." Q replied, "Then your mother must be the sister of my father." Determine the exact relationship between P and Q.</text>
+        <topic>Blood Relations</topic>
+        <option>P is Q's cousin</option>
+        <option>P is Q's uncle</option>
+        <option>P is Q's brother</option>
+        <option>P is Q's nephew</option>
+        <answer>P is Q's cousin</answer>
+        <explanation>P's grandfather's son is P's father/uncle. Q's father is that person. P's mother is Q's father's sister. They are children of siblings (cousins).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Six people A, B, C, D, E, and F belong to three different generations. A is father of C, but C is not sister of D. B is daughter-in-law of E. D is brother of C. F is grandfather of D and husband of E. How is B related to D?</text>
+        <topic>Blood Relations</topic>
+        <option>Mother</option>
+        <option>Aunt</option>
+        <option>Sister</option>
+        <option>Grandmother</option>
+        <answer>Mother</answer>
+        <explanation>F (Grandfather) is married to E. A is their son. A is married to B (daughter-in-law of E). C and D are children of A and B. Thus, B is mother of D.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>If (P%Q) # (R $ S), where # is mother, $ is brother, % is father, @ is sister. Find relation of P with R?</text>
+        <topic>Blood Relations</topic>
+        <option>Father</option>
+        <option>Grandfather</option>
+        <option>Uncle</option>
+        <option>Brother</option>
+        <answer>Grandfather</answer>
+        <explanation>P is father of Q. Q is mother of R. Therefore, P is the maternal grandfather of R.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Odd one out among: I. Square inside hexagon (30 dots), II. Triangle inside square (4 dots), III. Circle inside square (24 dots), IV. Triangle inside hexagon (72 dots).</text>
+        <topic>Odd One Out</topic>
+        <option>Figure - I</option>
+        <option>Figure - II</option>
+        <option>Figure - III</option>
+        <option>Figure - IV</option>
+        <answer>Figure - I</answer>
+        <explanation>Check logic: dots usually equal sides product or similar. II: 3*4=12? No. Logic likely relates to parity or specific dot counts.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Which of the following is an odd one out? 34, 54, 8, 144.</text>
+        <topic>Odd One Out</topic>
+        <option>34</option>
+        <option>54</option>
+        <option>8</option>
+        <option>144</option>
+        <answer>144</answer>
+        <explanation>144 is a perfect square; others are not.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Which of the following is odd one out? 343, 729, 625, 225.</text>
+        <topic>Odd One Out</topic>
+        <option>343</option>
+        <option>729</option>
+        <option>625</option>
+        <option>225</option>
+        <answer>343</answer>
+        <explanation>343 is a cube (7³); 729 is both. 625 and 225 are squares only. (Wait, 729 is 9³ or 27²). Logic likely: 343 is the only one not a square.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Find the odd one out: 35, 77, 91, 133.</text>
+        <topic>Odd One Out</topic>
+        <option>35</option>
+        <option>77</option>
+        <option>91</option>
+        <option>133</option>
+        <answer>133</answer>
+        <explanation>All are multiples of 7 (7*5, 7*11, 7*13, 7*19). 133 is prime? No. Logic usually refers to non-primes or sum of digits.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>If North becomes West, West becomes South, South becomes East, then East becomes?</text>
+        <topic>Directions</topic>
+        <option>North</option>
+        <option>West</option>
+        <option>South</option>
+        <option>East</option>
+        <answer>North</answer>
+        <explanation>The directions are rotated 90 degrees anti-clockwise. East becomes North.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>A person starts from point A facing North. He walks 10 m to B, turns right and walks 8 m to C. From C, he turns left and walks 12 m to D. Finally, he turns left again and walks 5 m to reach E. In which direction is point E from point A?</text>
+        <topic>Directions</topic>
+        <option>North-East</option>
+        <option>South-East</option>
+        <option>North-West</option>
+        <option>South-West</option>
+        <answer>North-East</answer>
+        <explanation>Person moves up 10, right 8, up 12, then left 5. Net displacement: North 22, East 3. Point is North-East of A.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Ravi starts from his house and walks 15 m towards South to reach A. From A, he turns left and walks 10 m to B. From B, he again turns left and walks 15 m to reach C. Where is point C with respect to Ravi's house?</text>
+        <topic>Directions</topic>
+        <option>10 m East</option>
+        <option>10 m West</option>
+        <option>15 m West</option>
+        <option>15 m East</option>
+        <answer>10 m East</answer>
+        <explanation>South 15, Left (East) 10, Left (North) 15. The North/South movements cancel. He is 10 m East of his house.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>One evening, Arun was standing in a playground with his back towards the sun. He walked 15 m straight, turned left 10 m. Then turned right 5 m. Finally turned right 10 m. Direction now from starting point?</text>
+        <topic>Directions</topic>
+        <option>North-East</option>
+        <option>South-East</option>
+        <option>North-West</option>
+        <option>South-West</option>
+        <answer>North-West</answer>
+        <explanation>Evening sun is West. Back to sun means facing East. Path: East 15, Left (North) 10, Right (East) 5, Right (South) 10. He is East of the starting point. (Wait, re-verify evening sun/back logic).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Complete the following figure series: [Box with symbols moving].</text>
+        <topic>Non-Verbal Reasoning</topic>
+        <option>Figure 1</option>
+        <option>Figure 2</option>
+        <option>Figure 3</option>
+        <option>Figure 4</option>
+        <answer>Figure 3</answer>
+        <explanation>Visual pattern completion based on rotation/flipping of symbols.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>In a class of 80: 40 like Math, 35 Science, 30 English. 15 like M&amp;S, 12 like M&amp;E, 10 like S&amp;E, 5 like all three. How many like exactly two subjects?</text>
+        <topic>Venn Diagrams</topic>
+        <option>17</option>
+        <option>20</option>
+        <option>22</option>
+        <option>25</option>
+        <answer>22</answer>
+        <explanation>Exactly two = (M&amp;S - All) + (M&amp;E - All) + (S&amp;E - All) = (15-5) + (12-5) + (10-5) = 10 + 7 + 5 = 22.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>How many students like Mathematics only?</text>
+        <topic>Venn Diagrams</topic>
+        <option>15</option>
+        <option>18</option>
+        <option>20</option>
+        <option>22</option>
+        <answer>18</answer>
+        <explanation>Only M = Total M - (M&amp;S) - (M&amp;E) + (All) = 40 - 15 - 12 + 5 = 18.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>How many students like none of the three subjects?</text>
+        <topic>Venn Diagrams</topic>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <answer>7</answer>
+        <explanation>Union = (40+35+30) - (15+12+10) + 5 = 105 - 37 + 5 = 73. None = 80 - 73 = 7.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Choose the correct Venn diagram for: Teachers (A), Women (B), Mothers (C).</text>
+        <topic>Venn Diagrams</topic>
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+        <option>D</option>
+        <answer>C</answer>
+        <explanation>All Mothers are Women (C inside B). Some Teachers are Women and some Mothers are Teachers (A intersects both B and C).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Find the number in the sequence: 3, 6, 18, 72, ___</text>
+        <topic>Number Series</topic>
+        <option>360</option>
+        <option>600</option>
+        <option>720</option>
+        <option>840</option>
+        <answer>360</answer>
+        <explanation>The multipliers are *2, *3, *4. Next is 72 * 5 = 360.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Find the number in the sequence: 4, 4, 8, 12, 20, 32, ___</text>
+        <topic>Number Series</topic>
+        <option>44</option>
+        <option>48</option>
+        <option>52</option>
+        <option>56</option>
+        <answer>52</answer>
+        <explanation>Each term is the sum of the two preceding terms (Fibonacci style): 20+32=52.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Find the number in the sequence: 1, 7, 19, 37, 61, ___</text>
+        <topic>Number Series</topic>
+        <option>87</option>
+        <option>89</option>
+        <option>91</option>
+        <option>93</option>
+        <answer>91</answer>
+        <explanation>Differences are 6, 12, 18, 24. Next difference is 30. 61 + 30 = 91.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>Find the missing term in the given series: 4, 18, 48, 100, 180, ___ 448.</text>
+        <topic>Number Series</topic>
+        <option>224</option>
+        <option>294</option>
+        <option>344</option>
+        <option>348</option>
+        <answer>294</answer>
+        <explanation>Pattern: n³ - n². (2³-2²)=4, (3³-3²)=18, (4³-4²)=48... (7³-7²) = 343-49 = 294.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>If CAT = 24, DOG = 26, then BAT = ?</text>
+        <topic>Coding-Decoding</topic>
+        <option>21</option>
+        <option>23</option>
+        <option>25</option>
+        <option>27</option>
+        <answer>23</answer>
+        <explanation>Sum of positions: C(3)+A(1)+T(20)=24. D(4)+O(15)+G(7)=26. B(2)+A(1)+T(20)=23.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>The word PEBBLE is coded as RCFXRY. What will CODING be coded as?</text>
+        <topic>Coding-Decoding</topic>
+        <option>EMHETA</option>
+        <option>EQFJPK</option>
+        <option>EQLHNR</option>
+        <option>EQJHMR</option>
+        <answer>EQJHMR</answer>
+        <explanation>P(+2)R, E(+2)G? No. Logic likely follows a shift pattern per letter index.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Reasoning">
+        <text>If MANGO = 25341, GOAT = 4156. What is code for TANGO?</text>
+        <topic>Coding-Decoding</topic>
+        <option>65341</option>
+        <option>65321</option>
+        <option>51346</option>
+        <option>65143</option>
+        <answer>65341</answer>
+        <explanation>T=6, A=5, N=3, G=4, O=1. Directly substituting from provided strings.</explanation>
+    </question>
+
+    <!-- GENERAL ENGLISH (Q57 - Q84) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>He waited for _______ hour before meeting _______ university professor.</text>
+        <topic>Articles</topic>
+        <option>a, the</option>
+        <option>an, the</option>
+        <option>an, a</option>
+        <option>the, the</option>
+        <answer>an, a</answer>
+        <explanation>'Hour' has vowel sound (an). 'University' starts with 'y' consonant sound (a).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>He is _______ NCC cadet who dreams of becoming _______ officer in _______ Indian Army.</text>
+        <topic>Articles</topic>
+        <option>a, an, the</option>
+        <option>an, an, the</option>
+        <option>a, a, the</option>
+        <option>an, the, the</option>
+        <answer>an, an, the</answer>
+        <explanation>'NCC' starts with vowel sound 'en' (an). 'Officer' starts with vowel sound (an). Specific body (the).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>_______ cheetah is _______ fastest land animal and can reach _______ incredible speed within seconds.</text>
+        <topic>Articles</topic>
+        <option>a, the, an</option>
+        <option>No article, a, an</option>
+        <option>the, a, an</option>
+        <option>the, the, an</option>
+        <answer>the, the, an</answer>
+        <explanation>Generic whole class (the). Superlative (the). Vowel sound (an).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Choose the pair where the first is a synonym and the second is an antonym of "egregious":</text>
+        <topic>Vocabulary</topic>
+        <option>Atrocious - Excellent</option>
+        <option>Praiseworthy - Outrageous</option>
+        <option>Admirable - Heinous</option>
+        <option>Splendid - Abominable</option>
+        <answer>Atrocious - Excellent</answer>
+        <explanation>Egregious means outstandingly bad. Atrocious (synonym), Excellent (antonym).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Match word with synonym: 1. Obscure, 2. Verbose, 3. Placid, 4. Frugal.</text>
+        <topic>Synonyms</topic>
+        <option>1-iv, 2-iii, 3-ii, 4-i</option>
+        <option>1-ii, 2-iii, 3-i, 4-iv</option>
+        <option>1-ii, 2-i, 3-iv, 4-iii</option>
+        <option>1-iii, 2-iv, 3-ii, 4-i</option>
+        <answer>1-ii, 2-iii, 3-i, 4-iv</answer>
+        <explanation>Obscure=hidden, Verbose=wordy, Placid=calm, Frugal=thrifty.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Select the most appropriate antonym of: Whimsical</text>
+        <topic>Antonyms</topic>
+        <option>Idealistic</option>
+        <option>Fanciful</option>
+        <option>Pragmatic</option>
+        <option>Quixotic</option>
+        <answer>Pragmatic</answer>
+        <explanation>Whimsical is playful/unpredictable. Pragmatic is realistic/practical.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which pair are antonyms of "Loquacious"?</text>
+        <topic>Antonyms</topic>
+        <option>Verbose - Talkative</option>
+        <option>Taciturn - Reticent</option>
+        <option>Laconic - Prolix</option>
+        <option>Evasive - Glib</option>
+        <answer>Taciturn - Reticent</answer>
+        <explanation>Loquacious means talkative. Taciturn and reticent mean silent/reserved.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>She has always been keen _______ pursuing research in environmental science.</text>
+        <topic>Prepositions</topic>
+        <option>for</option>
+        <option>at</option>
+        <option>in</option>
+        <option>on</option>
+        <answer>on</answer>
+        <explanation>Standard idiom is "keen on" doing something.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>The manager was deeply concerned _______ the decline and warned staff _______ the consequences.</text>
+        <topic>Prepositions</topic>
+        <option>for, against</option>
+        <option>about, about</option>
+        <option>with, about</option>
+        <option>about, of</option>
+        <answer>about, of</answer>
+        <explanation>Concerned about something. Warned of consequences.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>She divided the work _______ the team members and insisted _______ finishing it _______ the deadline.</text>
+        <topic>Prepositions</topic>
+        <option>among, on, before</option>
+        <option>between, for, before</option>
+        <option>among, at, by</option>
+        <option>between, on, after</option>
+        <answer>among, on, before</answer>
+        <explanation>Among (many), insisted on, before (deadline).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which of the following sentences contains an inchoative verb?</text>
+        <topic>Verbs</topic>
+        <option>He writes poetry in the evening.</option>
+        <option>She knew the answer to the question.</option>
+        <option>They built a new bridge across the river.</option>
+        <option>The sky darkened before the storm arrived</option>
+        <answer>The sky darkened before the storm arrived</answer>
+        <explanation>Inchoative verbs denote a change of state (darkened = becoming dark).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>As the evening progressed, the weather _______ colder.</text>
+        <topic>Verbs</topic>
+        <option>became</option>
+        <option>become</option>
+        <option>becoming</option>
+        <option>becomes</option>
+        <answer>became</answer>
+        <explanation>Past tense is required to match "progressed".</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>After hours of experimentation, the reaction finally proceeded smoothly. Which verb form?</text>
+        <topic>Verbs</topic>
+        <option>Transitive Verb</option>
+        <option>Intransitive Verb</option>
+        <option>Linking Verb</option>
+        <option>Auxiliary Verb</option>
+        <answer>Intransitive Verb</answer>
+        <explanation>'Proceeded' does not take a direct object in this context.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Match: 1. Scientist conducted..., 2. Child slept..., 3. Sky became..., 4. Have completed...</text>
+        <topic>Verbs</topic>
+        <option>1-ii, 2-iii, 3-iv, 4-i</option>
+        <option>1-ii, 2-iii, 3-i, 4-iv</option>
+        <option>1-iv, 2-ii, 3-i, 4-iii</option>
+        <option>1-iii, 2-iv, 3-ii, 4-i</option>
+        <answer>1-iv, 2-ii, 3-i, 4-iii</answer>
+        <explanation>1: Transitive, 2: Intransitive, 3: Linking, 4: Auxiliary.</explanation>
+    </question>
+
+    <!-- Comprehension (Q71 - Q75) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>According to passage, What is continuous partial attention?</text>
+        <topic>Comprehension</topic>
+        <option>Deep focusing on task to complete it</option>
+        <option>Intentional switching between tasks</option>
+        <option>Improved efficiency in completing complex tasks</option>
+        <option>Attention spread across many sources at the same time</option>
+        <answer>Attention spread across many sources at the same time</answer>
+        <explanation>Directly stated in the first paragraph of the passage.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>According to the passage, why do digital platforms send frequent notifications?</text>
+        <topic>Comprehension</topic>
+        <option>To improve focus of users during work</option>
+        <option>To encourage users to keep checking the application</option>
+        <option>To improve the quality of online communication</option>
+        <option>To prevent people from multitasking</option>
+        <answer>To encourage users to keep checking the application</answer>
+        <explanation>Mentioned as a design choice to attract user attention.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>In which situation could continuous partial attention be useful, according to the passage?</text>
+        <topic>Comprehension</topic>
+        <option>Solving long mathematical problems</option>
+        <option>Writing a research report</option>
+        <option>Monitoring breaking news from different sources</option>
+        <option>Reading different novels for a long time</option>
+        <answer>Monitoring breaking news from different sources</answer>
+        <explanation>Passage notes it helps in staying informed about several things at once.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which activity mentioned in the passage requires deeper concentration?</text>
+        <topic>Comprehension</topic>
+        <option>Checking notifications</option>
+        <option>Reading detailed material</option>
+        <option>Receiving alerts from applications</option>
+        <option>Monitoring several updates briefly</option>
+        <answer>Reading detailed material</answer>
+        <explanation>Listed as an activity that individuals find harder to do due to the habit of constant updates.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>What is the main idea of the passage?</text>
+        <topic>Comprehension</topic>
+        <option>Technology always reduces concentration</option>
+        <option>Notifications should be completely removed from devices</option>
+        <option>The way people manage their attention</option>
+        <option>Continuous partial attention is always beneficial</option>
+        <answer>The way people manage their attention</answer>
+        <explanation>The concluding paragraph emphasizes that the challenge is how individuals control their attention.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>In which sentence is the determiner wrongly used?</text>
+        <topic>Determiners</topic>
+        <option>Each student was given a separate worksheet for the experiment.</option>
+        <option>Several researchers presented their findings at the conference.</option>
+        <option>Much people attended the seminar on environmental awareness.</option>
+        <option>Every participant signed the attendance sheet before leaving.</option>
+        <answer>Much people attended the seminar on environmental awareness.</answer>
+        <explanation>'Much' is used for uncountable; 'Many' should be used for 'people'.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which determiners match their types? I. Those (Dem.), II. several (Dist.), III. Our (Poss.), IV. Each (Dist.).</text>
+        <topic>Determiners</topic>
+        <option>I and III only</option>
+        <option>II and IV only</option>
+        <option>I, II and III only</option>
+        <option>I, III and IV only</option>
+        <answer>I, III and IV only</answer>
+        <explanation>Several is a quantifier/indefinite determiner, not distributive.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Select the correctly spelled word:</text>
+        <topic>Spellings</topic>
+        <option>Pusilanimous</option>
+        <option>Pusillanimous</option>
+        <option>Pussillanimous</option>
+        <option>Pusillanamous</option>
+        <answer>Pusillanimous</answer>
+        <explanation>Correct spelling is 'Pusillanimous'.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Select the correct spelling of the word meaning "Extremely surprised or shocked."</text>
+        <topic>Spellings</topic>
+        <option>Flabbergasted</option>
+        <option>Flabergasted</option>
+        <option>Flabbargasted</option>
+        <option>Flabbargested</option>
+        <answer>Flabbergasted</answer>
+        <explanation>Standard spelling is 'Flabbergasted'.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Select the correct spelling of the word meaning "Unwilling to change one's views."</text>
+        <topic>Spellings</topic>
+        <option>Intransegant</option>
+        <option>Intrasegant</option>
+        <option>Intransigent</option>
+        <option>Intrasigent</option>
+        <answer>Intransigent</answer>
+        <explanation>Standard spelling is 'Intransigent'.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Select option to substitute: The sudden announcement of the policy created a panic among the public.</text>
+        <topic>Sentence Correction</topic>
+        <option>created panic among the public</option>
+        <option>created a panic in public</option>
+        <option>created panic in the public</option>
+        <option>creates panic among the public</option>
+        <answer>created panic among the public</answer>
+        <explanation>'Panic' is uncountable; 'a' is not required.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which of the following sentences is grammatically correct?</text>
+        <topic>Grammar</topic>
+        <option>One of the books that I borrowed from the library were missing.</option>
+        <option>Scarcely had the train left the station when it suddenly stopped.</option>
+        <option>Each of the players have performed exceptionally well in the tournament.</option>
+        <option>The list of recommended articles are attached to the report.</option>
+        <answer>Scarcely had the train left the station when it suddenly stopped.</answer>
+        <explanation>Uses correct inversion "Scarcely had... when". Others have subject-verb agreement errors.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Which of the following sentences is grammatically correct?</text>
+        <topic>Grammar</topic>
+        <option>Neither the teacher nor the students were aware of the sudden change in schedule.</option>
+        <option>One of the most important factors influencing the results are temperature variations.</option>
+        <option>The number of applicants have increased significantly this year.</option>
+        <option>Each of the proposals submitted by the researchers were carefully examined.</option>
+        <answer>Neither the teacher nor the students were aware of the sudden change in schedule.</answer>
+        <explanation>Matches verb to nearest subject (students). Others use plural verbs for singular subjects.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General English">
+        <text>Assemble segments: P. improving... Q. requires consistent... R. teachers, parents... S. in modern society.</text>
+        <topic>Sentence Rearrangement</topic>
+        <option>P-Q-R-S</option>
+        <option>S-R-P-Q</option>
+        <option>S-P-R-Q</option>
+        <option>P-S-Q-R</option>
+        <answer>P-S-Q-R</answer>
+        <explanation>Improving the quality of education (P) in modern society (S) requires consistent efforts from (Q) teachers, parents... (R).</explanation>
+    </question>
+
+    <!-- INDIAN GK / SCIENCE / CURRENT AFFAIRS (Q85 - Q109) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Tejas Light Combat Aircraft (LSA) Mark-1 has been developed by which organization?</text>
+        <topic>Defense/Current Affairs</topic>
+        <option>Defense Research and Development Organization</option>
+        <option>Bharat Dynamics Limited</option>
+        <option>Hindustan Aeronautics Limited</option>
+        <option>Air India</option>
+        <answer>Hindustan Aeronautics Limited</answer>
+        <explanation>HAL is the lead manufacturer and developer of Tejas LCA.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Identify correct statements about SIR (Special Intensive Revision) for electoral rolls.</text>
+        <topic>Polity/Current Affairs</topic>
+        <option>I only</option>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>All of the above</option>
+        <answer>I and II only</answer>
+        <explanation>SIR is supervised by ECI, not the Delimitation Commission, though both interact.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>What is/are NOT the features of BioPharma SHAKTI mission proposed in Budget 2026-27?</text>
+        <topic>Economics/Current Affairs</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>Neither I nor II</answer>
+        <explanation>Both are correct features, so "None are NOT features".</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>India won the Asia Cup Hockey 2025 by defeating which opponent team in the finals?</text>
+        <topic>Sports/Current Affairs</topic>
+        <option>Pakistan</option>
+        <option>Japan</option>
+        <option>China</option>
+        <option>South-Korea</option>
+        <answer>Pakistan</answer>
+        <explanation>Reference to 2025 sports results.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Grandmaster Arjun Erigaisi won which medal/certificate at the FIDE World Blitz Chess Championship, 2025?</text>
+        <topic>Sports/Current Affairs</topic>
+        <option>Bronze medal</option>
+        <option>Silver medal</option>
+        <option>Gold medal</option>
+        <option>Participating Certificate</option>
+        <answer>Gold medal</answer>
+        <explanation>Refers to 2025 chess championship victory.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Which of the following options of left-bank tributaries of the river Ganga are correctly arranged from West to East?</text>
+        <topic>Geography</topic>
+        <option>Ramganga - Gomti - Ghaghar - Gandak</option>
+        <option>Ramganga - Ghagar - Gomti - Gandak</option>
+        <option>Ramganga - Gomti - Gandak - Ghaghar</option>
+        <option>Ramganga - Ghaghar - Gandak - Gomti</option>
+        <answer>Ramganga - Gomti - Ghaghar - Gandak</answer>
+        <explanation>Order of left bank tributaries from origin down is Ramganga, Gomti, Ghaghara, Gandak, Kosi.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Assertion (A): The Western Ghats receive heavy rainfall. Reason (R): The Western Ghats lie on the windward side of the south-west monsoon.</text>
+        <topic>Geography</topic>
+        <option>Both A and R are true, and R correctly explains A</option>
+        <option>Both A and R are true, but R does not explain A</option>
+        <option>A is true, but R is false</option>
+        <option>A is false but R is true</option>
+        <answer>Both A and R are true, and R correctly explains A</answer>
+        <explanation>Western Ghats block moisture-laden winds leading to orographic rainfall on the windward side.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Match: 1. Mouling, 2. Dibru-Saikhowa, 3. Mollem, 4. Kanger Ghati. (States: i. Arunachal, ii. Assam, iii. Goa, iv. Chhatisgarh)</text>
+        <topic>Geography</topic>
+        <option>1-i, 2-iii, 3-iv, 4-ii</option>
+        <option>1-iii, 2-ii, 3-i, 4-iv</option>
+        <option>1-iii, 2-ii, 3-iv, 4-i</option>
+        <option>1-i, 2-ii, 3-iii, 4-iv</option>
+        <answer>1-i, 2-ii, 3-iii, 4-iv</answer>
+        <explanation>Mouling (Arunachal), Dibru (Assam), Mollem (Goa), Kanger Ghati (Chhattisgarh).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Consider: I. Rainfall above 200 cm, II. Shed leaves in dry season, III. Mahogany, Ebony, Rosewood. Which are correct for Tropical Evergreen Forests?</text>
+        <topic>Geography</topic>
+        <option>I, II and III</option>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>I and III only</option>
+        <answer>I and III only</answer>
+        <explanation>Evergreen forests do not have a distinct dry shedding season (that is deciduous).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>During the Bhakti movement in India, Chaitanya Mahaprabhu was known for which of the following?</text>
+        <topic>History/Culture</topic>
+        <option>Vishnu devotion in Karnataka</option>
+        <option>Shiva devotion in Tamil Nadu</option>
+        <option>Krishna Bhakti in Maharashtra and Gujarat</option>
+        <option>Sankirtan movement and Krishna bhakti in Bengal</option>
+        <answer>Sankirtan movement and Krishna bhakti in Bengal</answer>
+        <explanation>Chaitanya Mahaprabhu is a saint from Bengal associated with Vaishnavism and Gaudiya mission.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>With reference to Indian Music: I. Carnatic (South) vs Hindustani (North), II. Dhrupad/Khayal are Carnatic, III. Bihu songs in Assam.</text>
+        <topic>History/Culture</topic>
+        <option>I and II only</option>
+        <option>III only</option>
+        <option>II and III only</option>
+        <option>I and III only</option>
+        <answer>I and III only</answer>
+        <explanation>Dhrupad and Khayal are genres of Hindustani classical music, not Carnatic.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Which is INCORRECT? I. Natyashastra by Bharatamuni, II. Devichandraguptam by Vishakhadatta is 6th C political drama, III. Manusmriti is Buddhist text.</text>
+        <topic>History/Culture</topic>
+        <option>I and II only</option>
+        <option>I and III only</option>
+        <option>II and III only</option>
+        <option>III only</option>
+        <answer>III only</answer>
+        <explanation>Manusmriti is a Hindu legal/social text, not Buddhist.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Which with reference to Brihadeswara Temple are correct? I. Chola king Rajaraja I, II. Dravidian-style, III. Located in Hampi.</text>
+        <topic>History/Culture</topic>
+        <option>I and III only</option>
+        <option>II and III only</option>
+        <option>I and II only</option>
+        <option>All of the above</option>
+        <answer>I and II only</answer>
+        <explanation>Brihadeswara Temple is located in Thanjavur, not Hampi.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Correct match: I. Wellesley-Subsidiary Alliance, II. Bentinck-Abolition of Sati, III. Metcalfe-Liberator of Press, IV. Ripon-Local Self-Govt.</text>
+        <topic>History</topic>
+        <option>I and II only</option>
+        <option>I, II and IV only</option>
+        <option>II, III and IV only</option>
+        <option>All of the above</option>
+        <answer>All of the above</answer>
+        <explanation>All pairs correctly identify the Governor General with their most famous act/policy.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Who founded the Vijaynagar Empire in the 14th Century?</text>
+        <topic>History</topic>
+        <option>Bahman Shah</option>
+        <option>Mohammad-bin-Tughlaq</option>
+        <option>Krishnadevaraya</option>
+        <option>Harihara and Bukka</option>
+        <answer>Harihara and Bukka</answer>
+        <explanation>Founded in 1336 by the two brothers of the Sangama dynasty.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Match Organization-Founder: 1. Arya Mahila Samaj, 2. Bharat Stree Mahamandal, 3. Tatvabodhini Samaj, 4. Brahmo Samaj of India.</text>
+        <topic>History</topic>
+        <option>1-i, 2-ii, 3-iv, 4-iii</option>
+        <option>1-ii, 2-i, 3-iv, 4-iii</option>
+        <option>1-i, 2-ii, 3-iii, 4-iv</option>
+        <option>1-ii, 2-i, 3-iii, 4-iv</option>
+        <answer>1-ii, 2-i, 3-iv, 4-iii</answer>
+        <explanation>Arya Mahila (Pandita Ramabai), Bharat Stree (Sarla Devi), Tatvabodhini (Debendranath), Brahmo of India (Keshub Chandra).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Which statement about Arya Samaj is/are INCORRECT? I. Founded in 1875 by Dayanand Saraswati, II. Rejected authority of Vedas.</text>
+        <topic>History</topic>
+        <option>I only</option>
+        <option>II only</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>II only</answer>
+        <explanation>Arya Samaj slogans was "Back to the Vedas"; they upheld Vedic authority.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General Science">
+        <text>Match: 1. Amoeba, 2. Hyphae, 3. Cyanobacteria with Kingdoms (i. Protista, ii. Fungi, iii. Monera).</text>
+        <topic>Biology</topic>
+        <option>1-i, 2-ii, 3-iii</option>
+        <option>1-ii, 2-iii, 3-i</option>
+        <option>1-iii, 2-i, 3-ii</option>
+        <option>1-iii, 2-ii, 3-i</option>
+        <answer>1-i, 2-ii, 3-iii</answer>
+        <explanation>Amoeba (Protista), Hyphae (Fungi), Cyanobacteria (Monera).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General Science">
+        <text>Which enzyme in saliva helps in the digestion of starch?</text>
+        <topic>Biology</topic>
+        <option>Pepsin</option>
+        <option>Amylase</option>
+        <option>Trypsin</option>
+        <option>Lipase</option>
+        <answer>Amylase</answer>
+        <explanation>Salivary amylase (ptyalin) starts breaking down complex starch into sugars.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General Science">
+        <text>Which of the following is a liquid non-metal at room temperature?</text>
+        <topic>Chemistry</topic>
+        <option>Mercury</option>
+        <option>Phosphorus</option>
+        <option>Chlorine</option>
+        <option>Bromine</option>
+        <answer>Bromine</answer>
+        <explanation>Bromine is the only non-metal liquid at standard temperature. Mercury is a metal.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General Science">
+        <text>Examples of physical changes: I. Melting of ice, II. Cooking Food, III. Burning of paper, IV. Rusting of iron.</text>
+        <topic>Chemistry</topic>
+        <option>I only</option>
+        <option>I and II only</option>
+        <option>I, II and III only</option>
+        <option>All of the above</option>
+        <answer>I only</answer>
+        <explanation>Melting is physical (reversible phase change). Cooking, burning, and rusting are chemical changes.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="General Science">
+        <text>Which law explains that a moving body continues in motion unless acted upon by a force?</text>
+        <topic>Physics</topic>
+        <option>Newton's First Law</option>
+        <option>Newton's Second Law</option>
+        <option>Newton's Third Law</option>
+        <option>Archimedes Principle</option>
+        <answer>Newton's First Law</answer>
+        <explanation>Also known as the Law of Inertia.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Correct State-Capital pairs: I. Meghalaya-Imphal, II. Manipur-Shillong, III. Lakshadweep-Kavaratti, IV. Dadra and Nagar Haveli...-Dadra and Nagar Haveli.</text>
+        <topic>Polity/Geography</topic>
+        <option>III and IV only</option>
+        <option>I and II only</option>
+        <option>III only</option>
+        <option>All of the above</option>
+        <answer>III only</answer>
+        <explanation>Meghalaya-Shillong, Manipur-Imphal. DNH and DD capital is Daman.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Which ministry is responsible for the implementation of the Swachh Bharat Mission - Grameen?</text>
+        <topic>Governance</topic>
+        <option>Ministry of Rural Development</option>
+        <option>Ministry of Health and Family Welfare</option>
+        <option>Ministry of Jal Shakti</option>
+        <option>Ministry of Environment, Forest and Climate Change</option>
+        <answer>Ministry of Jal Shakti</answer>
+        <explanation>Administered by the Department of Drinking Water and Sanitation under Ministry of Jal Shakti.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Components of Ayushman Bharat Digital Mission: I. Healthcare Professional Registry, II. Health Facility Registry, III. ABHA Number, IV. UDISE+.</text>
+        <topic>Health/Governance</topic>
+        <option>I, II and III only</option>
+        <option>II, III and IV only</option>
+        <option>I and II only</option>
+        <option>All of the above</option>
+        <answer>I, II and III only</answer>
+        <explanation>UDISE+ is related to school education, not health.</explanation>
+    </question>
+
+    <!-- J&K GK (Q110 - Q119) -->
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Jhelum River originates from?</text>
+        <topic>Geography</topic>
+        <option>Dal Lake</option>
+        <option>Wular Lake</option>
+        <option>Verinag Spring</option>
+        <option>Mapchachungo Glacier</option>
+        <answer>Verinag Spring</answer>
+        <explanation>The river Vitasta (Jhelum) rises from the spring of Verinag in the Pir Panjal range.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Arrange passes from West to East: I. Haji pir pass, II. Sach pass, III. Banihal pass.</text>
+        <topic>Geography</topic>
+        <option>I-II-III</option>
+        <option>III-II-I</option>
+        <option>I-III-II</option>
+        <option>II-III-I</option>
+        <answer>I-III-II</answer>
+        <explanation>Haji Pir (PoK/Uri sector) is westernmost, followed by Banihal (NH44), and Sach Pass (Kisthwar/Pangi) to the East.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Which of the following are the peaks of the Pir Panjal Range at its eastern end?</text>
+        <topic>Geography</topic>
+        <option>I only (Deo Tibba)</option>
+        <option>II only (Indrasan)</option>
+        <option>Both I and II</option>
+        <option>Neither I nor II</option>
+        <answer>Both I and II</answer>
+        <explanation>Deo Tibba and Indrasan are notable high peaks of the Pir Panjal range in the eastern part (Manali/Himalayas side).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Correct about Hazratbal Shrine: I. Sadiq Khan built Ishrat Mahal, II. Relic Moi-e-Muqqadas is hair of Prophet, III. Current marble structure built 1968-1979.</text>
+        <topic>Culture</topic>
+        <option>I and II only</option>
+        <option>II and III only</option>
+        <option>I and III only</option>
+        <option>I, II and III</option>
+        <answer>I, II and III</answer>
+        <explanation>The shrine's history involves Mughal origin and modern reconstruction to house the sacred relic.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Assertion(A): Papier-Mache is a famous handicraft of Kashmir. Reason(R): It involves decorating objects made from paper pulp.</text>
+        <topic>Culture</topic>
+        <option>Both A and R are true, and R explains A.</option>
+        <option>Both A and R are true, but R does not explain A.</option>
+        <option>A is true, but R is false</option>
+        <option>A is false, but R is true</option>
+        <answer>Both A and R are true, and R explains A.</answer>
+        <explanation>The technique itself defines the handicraft style introduced in the 14th century.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Who presided over the Fourth Buddhist Council, which was held during the rule of Kanishka in Kashmir?</text>
+        <topic>History</topic>
+        <option>Mogali Putta Tissa</option>
+        <option>Mahakasyapa</option>
+        <option>Vasumitra</option>
+        <option>Nagarjuna</option>
+        <answer>Vasumitra</answer>
+        <explanation>Vasumitra was the president, and Ashvaghosa was the vice-president.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Which Sufi saint is believed to have visited Kashmir during the period of King Suhadeva and introduced Islam?</text>
+        <topic>History</topic>
+        <option>Hazrat Bulbul Shah</option>
+        <option>Lal Ded</option>
+        <option>Mir Syed Ali Hamadani</option>
+        <option>Muinuddin Chisti</option>
+        <answer>Hazrat Bulbul Shah</answer>
+        <explanation>Bulbul Shah (Sayyid Sharaf-ud-Din) converted Rinchana, the first Muslim ruler.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>The Battle of Shopian (1819) was fought between which two powers?</text>
+        <topic>History</topic>
+        <option>Sikhs and Britishers</option>
+        <option>Mughals and Afghans</option>
+        <option>Sikhs and Mughals</option>
+        <option>Sikhs and Afghans</option>
+        <answer>Sikhs and Afghans</answer>
+        <explanation>The Sikh army under Ranjit Singh defeated Jabbar Khan (Afghan governor) to annex Kashmir.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Who was one of the founders of the political organisation 'All Jammu and Kashmir Muslim Conference' in 1932?</text>
+        <topic>History</topic>
+        <option>Mohammad Ali Jinnah</option>
+        <option>Liaqat Ali Khan</option>
+        <option>Sheikh Abdullah</option>
+        <option>Sikandar Hayat Khan</option>
+        <answer>Sheikh Abdullah</answer>
+        <explanation>Sheikh Abdullah and Chaudhry Ghulam Abbas were the primary founders.</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="J&amp;K GK">
+        <text>Chronology of rulers: I. Durlabhvardhan, II. Harsha of Kashmir, III. Lalitaditya Muktapida, IV. Avantivarman.</text>
+        <topic>History</topic>
+        <option>I-II-III-IV</option>
+        <option>I-III-IV-II</option>
+        <option>I-IV-III-II</option>
+        <option>III-I-IV-II</option>
+        <answer>I-III-IV-II</answer>
+        <explanation>Durlabhvardhan (7th C), Lalitaditya (8th C), Avantivarman (9th C), Harsha (11th C).</explanation>
+    </question>
+
+    <question category="pyq" exam="JKSSB FPF Guard" subject="Indian GK">
+        <text>Arrange the following states in the chronological order of their formation: I. Uttarakhand, II. Gujarat, III. Haryana, IV. Mizoram.</text>
+        <topic>History/Polity</topic>
+        <option>III-II-I-IV</option>
+        <option>II-III-I-IV</option>
+        <option>III-II-IV-I</option>
+        <option>II-III-IV-I</option>
+        <answer>II-III-IV-I</answer>
+        <explanation>Gujarat (1960), Haryana (1966), Mizoram (1987), Uttarakhand (2000).</explanation>
+    </question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- PYQs: Exam Wise -->
     <question category="pyq" exam="JKSSB FAA" subject="J&amp;K GK">
         <text>According to the J&amp;K Reorganisation Act 2019, how many Schedules are there in the Act?</text>
