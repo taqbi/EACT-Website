@@ -3065,7 +3065,14 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="General English">
-        <text>Passage Question: What is central distinction between commercial and social forestry?</text>
+        <text> Read the following passage and based on your understanding, answer the following 5 questions 
+
+The traditional concept of forestry, focused on distant, government-protected reserves, is no longer sufficient to meet the dual challenges of environmental degradation and rural poverty. This has led to the emergence of "Social Forestry," a practice that involves the management and protection of forests and the reforestation of barren lands with the specific purpose of helping environmental and social development. Unlike commercial forestry, which prioritises timber for industry, social forestry focuses on providing "the five F's": Fuel, Food, Fodder, Fibre, and Fertiliser.
+
+The primary objective of social forestry is to reduce the mounting pressure on traditional forest areas. As the rural population grows, the demand for fuelwood and cattle fodder often forces villagers to exploit natural forests, leading to massive deforestation. By planting fast-growing trees on communal lands, along railway tracks, and on road embankments, social forestry creates a localised resource base. This not only preserves the ecological balance but also empowers local communities by directly involving them in decision-making and harvesting processes.
+
+Furthermore, social forestry serves as a critical tool for soil conservation and carbon sequestration. In areas where agricultural land is prone to erosion, strategic tree planting acts as a windbreak and stabilises the topsoil. While the environmental benefits are clear, the success of these programs hinges on "people's participation." Without the active involvement of the local population in protecting saplings and managing resources, the long-term sustainability of these green patches remains in jeopardy.
+        Passage Question: What is central distinction between commercial and social forestry?</text>
         <topic>Comprehension</topic>
         <option>Type of soil</option>
         <option>Local community needs versus industrial timber</option>
@@ -3210,13 +3217,21 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="Indian GK">
-        <text>Match Sports Awards: i. Major Dhyan Chand Khel Ratna, ii. Arjuna Award Lifetime, iii. Maulana Abul Kalam Azad Trophy, iv. Arjuna Award.</text>
+        <text>Match Sports Awards: i. Major Dhyan Chand Khel Ratna, 
+        ii. Arjuna Award Lifetime, 
+        iii. Maulana Abul Kalam Azad Trophy, 
+        iv. Arjuna Award. 
+        a. Presented for good performance and Contriburing towards the Promotionn of Sports.
+        b. Given out for a consistent performance over a period of four years.
+        c. Awarded for Outstanding Performances in sprts spanning a period of fourr years.
+        d. Given to the UNiversity for Top Performance in InterUNiversity tournamnents over the last one year.
+        </text>
         <topic>Sports</topic>
         <option>i-c, ii-a, iii-d, iv-b</option>
         <option>i-b, ii-d, iii-c, iv-a</option>
         <option>i-c, ii-d, iii-a, iv-b</option>
         <option>i-b, ii-a, iii-c, iv-d</option>
-        <answer>i-c, ii-d, iii-a, iv-b</answer>
+        <answer>i-c, ii-a, iii-d, iv-b</answer>
         <explanation>Matches awards to criteria (e.g., MAKA Trophy to university tournaments).</explanation>
     </question>
 
@@ -3228,12 +3243,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
         <option>Saurashtra</option>
         <option>Haryana</option>
         <option>Karnataka</option>
-        <answer>Maharashtra</answer>
+        <answer>Karnataka</answer>
         <explanation>Historical sports fact for J&amp;K.</explanation>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="Indian History">
-        <text>I. Bhakti saint Shankaradeva addressed "Vaishnav Dharma" as "Sanatan Dharma". II. His main composition is Kirtanghosh.</text>
+        <text>I. Bhakti saint Shankaradeva addressed "Vaishnav Dharma" as "Sanatan Dharma". 
+        II. His main composition is Kirtanghosh.</text>
         <topic>Medieval History/Culture</topic>
         <option>I only</option>
         <option>II only</option>
@@ -3244,7 +3260,7 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="Indian History">
-        <text>Match pairs: I. Silappadikaram - Ilango Adigal, II. Manimegalai - Sittalai Sattanar, III. Buddhacharita - Ashvaghosha.</text>
+        <text>Which of the following are correctly matched: I. Silappadikaram - Ilango Adigal, II. Manimegalai - Sittalai Sattanar, III. Buddhacharita - Ashvaghosha.</text>
         <topic>Ancient Literature</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -3255,7 +3271,7 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="Indian History">
-        <text>Arrange chronology: I. Poorna Swaraj Resolution, II. Launch of Civil Disobedience, III. Poona Pact, IV. Second Round Table Conference.</text>
+        <text>Arrange the following in correct Chronological order: I. Poorna Swaraj Resolution, II. Launch of Civil Disobedience, III. Poona Pact, IV. Second Round Table Conference.</text>
         <topic>Modern History</topic>
         <option>I-II-III-IV</option>
         <option>I-II-IV-III</option>
@@ -3277,7 +3293,7 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Social Forestery Worker" subject="J&amp;K GK">
-        <text>Correct match pairs? I. Achabal Garden - Anantnag, II. Avantipur Ruins - Poonch, III. Parihaspore - Pulwama.</text>
+        <text>Which of the following are correct match pairs? I. Achabal Garden - Anantnag, II. Avantipur Ruins - Poonch, III. Parihaspore - Pulwama.</text>
         <topic>Geography/Heritage</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -3577,7 +3593,12 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General English">
-        <text>According to the passage, why do scientific revolutions represent a rupture rather than a continuation of prior science?</text>
+        <text>Read the passage and answer the next 3 questions:
+
+Normal science, the activity in which most scientists inevitably spend almost all their time, is based on the assumption that the scientific community knows what the world is like. Scientists take great pains to defend that assumption, often restricting their vision to the phenomena that the existing paradigm has defined as relevant. When research proceeds in this fashion, findings tend to be incremental, reinforcing the established framework rather than challenging it. Yet, over time, anomalies—empirical observations that cannot be explained within the current paradigm—accumulate. Initially, these anomalies are dismissed as errors or as problems to be solved within the existing theoretical structure. However, as these anomalies grow in number and significance, they begin to erode confidence in the prevailing paradigm.
+
+The resolution of such crises is not a straightforward process of falsification, as Popper might suggest, but rather a transformation in the very way scientists see the world. Scientific revolutions occur when a new paradigm emerges—one that is not merely an extension of the old but a fundamental reconceptualization of reality. This shift is not purely logical or empirical; it involves a radical change in perspective, akin to a gestalt switch. The Copernican Revolution, for example, did not merely adjust astronomical calculations; it redefined the very framework through which celestial motion was understood. Similarly, Einstein’s theory of relativity did not just modify Newtonian mechanics but replaced its foundational assumptions about space and time.
+        According to the passage, why do scientific revolutions represent a rupture rather than a continuation of prior science?</text>
         <topic>Reading Comprehension</topic>
         <option>Because scientists abandon objectivity and turn to speculation.</option>
         <option>Because competing paradigms redefine questions and methods, making continuity impossible</option>
@@ -4127,7 +4148,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Regarding India's nuclear energy policy/SHANTI Act 2025: (I) Allows private sector (II) 100 GW target by 2030 (III) Unlimited supplier liability.</text>
+        <text>Consider the following statements regarding India’s nuclear energy policy and the SHANTI Act, 2025.
+
+(I) The SHANTI Act, 2025, allows private sector participation in nuclear power generation.
+
+(II) India has set a target of achieving 100 GW of installed nuclear power capacity by the year 2030.
+
+(III) The SHANTI Act, 2025 retains unlimited supplier liability for nuclear damage to ensure enhanced accountability.</text>
         <topic>Current Affairs</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -4138,7 +4165,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Match Military Exercises: i. Yudh Abhyaas, ii. Zapad, iii. Mitra-Shakti, iv. Bright Star.</text>
+        <text>Match Military Exercises: 
+| List-I (Military Exercises)     | List-II (Partner Country) |
+| i. Yudh Abhyas                  | a. USA                        |
+| ii. Zapad                       | b. Egypt                      |
+| iii. Mitra-Shakti               | c. Sri Lanka                  |
+| iv. Bright Star                 | d. Russia                     |
+</text>
         <topic>Military Exercises</topic>
         <option>i-a, ii-b, iii-c, iv-d</option>
         <option>i-a, ii-d, iii-c, iv-b</option>
@@ -4149,7 +4182,15 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>United Nations Security Council: I. 15 Members II. Non-permanent term 5 years III. No immediate re-election.</text>
+        <text>Consider the following statements about the United Nations Security Council.
+
+I. As per Article 23, the Security Council shall consist of fifteen Members of the United Nations.
+
+II. The non-permanent members of the Security Council shall be elected for a term of five years.
+
+III. A retiring non-permanent member shall not be eligible for immediate re-election.
+
+Which of the above statements is/are correct?</text>
         <topic>International Organizations</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -4160,7 +4201,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Axiom Mission 4 / SpaDeX: I. Axiom enables human spaceflight II. SpaDeX first satellite docking LEO.</text>
+        <text>Consider the following statements about India’s Space mission’s achievements.
+
+I. The Axiom Mission 4 has enabled human spaceflight for India, Poland, and Hungary, with each nation’s first government-sponsored flight in more than 40 years.
+
+II. SpaDeX Mission made India the first country in the world to successfully carry out a satellite docking process in Low Earth Orbit (LEO).
+
+Which of the above statements is/are correct?</text>
         <topic>Space Science</topic>
         <option>I only</option>
         <option>II only</option>
@@ -4171,8 +4218,16 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General Science">
-        <text>PFBR importance: I. U-238 to breed plutonium II. Thorium-232 blanket III. Transmutation to U-233.</text>
-        <topic>Nuclear Science</topic>
+        <text>In India’s three-stage nuclear program, the Prototype Fast Breeder Reactor (PFBR) is considered important because:
+
+I. It is designed to use uranium-238 to breed plutonium in a sodium-cooled fast reactor design.
+
+II. Thorium-232, though not fissile, is proposed to be used as a blanket material.
+
+III. By transmutation, thorium will create fissile uranium-233, which will be used as fuel in the third stage.
+
+Which of the statements given above is/are correct?</text>
+        <topic>India's Nuclear Progam</topic>
         <option>I and II only</option>
         <option>I and III only</option>
         <option>II and III only</option>
@@ -4182,7 +4237,15 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General Science">
-        <text>ITER is important: I. Sustainable clean fusion II. Cutting-edge research III. Immediate commercial electricity.</text>
+        <text>ITER is considered important for India and the world because:
+
+I. It demonstrates sustainable, clean fusion energy for the future.
+
+II. It allows India to participate in cutting-edge nuclear fusion research.
+
+III. It provides immediate commercial electricity to reduce fossil fuel dependency.
+
+Which of the statements given above is/are correct?</text>
         <topic>Nuclear Science</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -4193,7 +4256,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Nobel Peace Prize 2025: I. Maria Corina Machado II. Transferable by recipient.</text>
+        <text>Identify the correct statements about the Nobel Peace Prize, 2025.
+
+I. It was awarded to Maria Corina Machado of Venezuela.
+
+II. According to the Norwegian Nobel Committee, it can be transferred by the recipient to any other person.
+
+Which of the following statements is/are correct?</text>
         <topic>Awards</topic>
         <option>I only</option>
         <option>II only</option>
@@ -4204,7 +4273,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Economic Survey 2025-26: I. India accounts for >5% global merchandise II. Service imports > exports.</text>
+        <text>Consider the following statements:
+
+I. As per the Economic Survey 2025–26, India accounts for more than 5% of global merchandise exports.
+
+II. As per the Economic Survey 2025–26, India’s service imports were greater than its exports.
+
+Which of the above statements is/are correct?</text>
         <topic>Economy</topic>
         <option>I only</option>
         <option>II only</option>
@@ -4215,7 +4290,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Assertion: Rise in GNP always reflects standard of living. Reason: Income levels fundamental metrics.</text>
+        <text>Consider the following statements:
+
+Assertion (A): A rise in per capita GNP always reflects an improvement in living standards.
+
+Reason (R): Income levels are fundamental metrics of economic development.
+
+Which of the statements is/are correct?</text>
         <topic>Economy</topic>
         <option>Both A and R true, R correct explanation</option>
         <option>Both A and R true, R not correct explanation</option>
@@ -4226,7 +4307,7 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General Science">
-        <text>Summer Place X (land) 42°C, Y (marine) 32°C. Winter X 0°C, Y 10°C. Explanation?</text>
+        <text>Two places, X (terrestrial) and Y (marine), are at the same latitude. During summer, Place X records 42°C and Place Y records 32°C. During winter, Place X records 0°C and Place Y records 10°C. What is the most plausible explanation?</text>
         <topic>Physics - Thermal Properties</topic>
         <option>Variation in altitudes</option>
         <option>Land has a higher specific heat capacity</option>
@@ -4237,7 +4318,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Mission for Aatmanirbharta in Pulses: India self-sufficient by 2030-31.</text>
+        <text>Consider the following statements:
+
+Statement I: The Mission for Atmanirbharta in Pulses aims to make India self-sufficient in pulses by 2030–31.
+
+Statement II: The mission seeks to reduce import dependence, boost domestic production of pulses, and sustainably improve farmers’ incomes.
+
+Which of the statements is/are correct?</text>
         <topic>Indian GK</topic>
         <option>Statement I and II are correct</option>
         <option>Statement I and II are incorrect</option>
@@ -4248,7 +4335,13 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian GK">
-        <text>Match Ports: i. Kamrajar, ii. JNPT, iii. Paradip, iv. Vizhinjam.</text>
+        <text>
+| Ports          | Special Features                 |
+| i. Kamrajar Port   | a. First corporatised major port      |
+| ii. JNPT Port      | b. First deep-water transshipment hub |
+| iii. Paradip Port  | c. India’s first landlord-model port  |
+| iv. Vizhinjam Port | d. Top cargo-handling major port      |
+</text>
         <topic>Geography</topic>
         <option>i-a, ii-b, iii-c, iv-d</option>
         <option>i-c, ii-d, iii-a, iv-b</option>
@@ -4259,7 +4352,14 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="Indian History">
-        <text>Chronology of First Anglo-Sikh War battles: Mudki, Ferozeshah, Aliwal, Sobraon.</text>
+        <text>Arrange the following battles of the First Anglo-Sikh War in chronological order:
+
+I. Battle of Mudki
+II. Battle of Ferozeshah
+III. Battle of Aliwal
+IV. Battle of Sobraon
+
+Choose the correct option:</text>
         <topic>Modern History</topic>
         <option>I-II-III-IV</option>
         <option>I-III-II-IV</option>
@@ -4270,7 +4370,15 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="J&amp;K GK">
-        <text>Rauf statements: folk dance Kashmir dialect, solo performance woman, pherans/jewelry.</text>
+        <text>Which of the following statements about Rauf is/are correct?
+
+I. Rauf is a traditional folk dance performed on typical folk songs in the Kashmir dialect.
+
+II. It is typically a solo performance by a woman only.
+
+III. Dancers wear traditional Kashmiri attire, including pherans (long, flowing gowns) and ornate jewelry.
+
+Choose the correct option:</text>
         <topic>J&amp;K Culture</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -4292,7 +4400,14 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="J&amp;K GK">
-        <text>Match ODOP: i. Baramulla, ii. Udhampur, iii. Samba, iv. Ramban. (Pickles, Apples, Honey, Mushroom)</text>
+        <text>Match ODOP: 
+| Districts     | Products under One District One Product (ODOP)     |
+| i. Baramulla  | a. Pickles                                         |
+| ii. Udhampur  | b. Apples                                          |
+| iii. Samba    | c. Honey                                           |
+| iv. Ramban    | d. Mushroom products                               |
+
+        </text>
         <topic>Current Affairs J&amp;K</topic>
         <option>i-a, ii-b, iii-c, iv-d</option>
         <option>i-b, ii-c, iii-d, iv-a</option>
@@ -4303,7 +4418,15 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="J&amp;K GK">
-        <text>MUMKIN scheme: empowerment youth, 80000 subsidy, age 18-35.</text>
+        <text>Identify the correct statements about the MUMKIN scheme operational in J&K UT.
+
+I. “Mumkin - Livelihood Generation Scheme” is an initiative specifically aimed at empowering its young population.
+
+II. It provides up to Rs. 80,000 subsidy or 10% of the on-road price, whichever is lower, for unemployed youth to purchase small commercial vehicles.
+
+III. The age of the applicant should be between 18 to 35 years.
+
+Choose the correct option:</text>
         <topic>Schemes J&amp;K</topic>
         <option>I only</option>
         <option>I and II only</option>
@@ -4314,23 +4437,33 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="J&amp;K GK">
-        <text>IUCN Endangered species in J&amp;K region?</text>
+        <text>Which of the following species in the J&K region has Endangered status as per the IUCN Red Book?
+
+I. Hangul
+II. Snow Leopard
+III. Ibex
+IV. Himalayan Tahr
+V. Markhor
+VI. Cheer Pheasant
+
+Choose the correct option:</text>
         <topic>Wildlife</topic>
-        <option>Hangul, III, IV and V only</option>
+        <option>I, II, IV and V only</option>
         <option>II, IV, V and VI only</option>
         <option>II, III, IV and VI only</option>
         <option>All of the above</option>
         <answer>All of the above</answer>
-        <explanation>These species in the Himalayas face habitat loss and are listed in various threat categories.</explanation>
+        <explanation>None of the Oprions is COrrect. 
+        Correct Status:  Hangul -  Critically ENdangered, Snow Leopard - Vulenarable, Ibex- Near Threatened, Himalayan Tahr - Near Threatened, Markhor  - Near Threatened, Cheer Pheasant - Vulnerable </explanation>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="J&amp;K GK">
         <text>Which was NOT a provision under J&amp;K Reorganization Act 2019?</text>
         <topic>Polity</topic>
-        <option>Common High Court</option>
-        <option>Judges selected by Union only</option>
-        <option>Legislative assembly 107-114</option>
-        <option>Administration as per Article 239A</option>
+        <option>The J&K High Court became the common High Court for both UTs.</option>
+        <option>udges appointed to the High Court are selected by the Union Government only.</option>
+        <option>The UT of J&K will have its own legislative assembly of 107–114 members.</option>
+        <option>The Act provides that the administration of Jammu and Kashmir will be as per Article 239A of the Indian Constitution.</option>
         <answer>Judges appointed to the High Court are selected by the Union Government only.</answer>
         <explanation>High Court judges are appointed by the President after consultation (Collegium system).</explanation>
     </question>
@@ -4515,12 +4648,12 @@ IV. Ignoring the problem (The Ostrich Algorithm).</text>
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General Science">
         <text>Correct sequence aquatic food chain?</text>
         <topic>Biology</topic>
-        <option>Algae -> Crab -> Sea urchins -> Squid -> Dolphin -> Shark</option>
-        <option>Sea urchins -> Algae...</option>
-        <option>Algae -> Sea urchins -> Crab -> Squid -> Dolphin -> Tiger shark</option>
-        <option>Shark -> Dolphin...</option>
-        <answer>Algae -> Sea urchins -> Crab -> Squid -> Dolphin -> Tiger shark</answer>
-        <explanation>Producer -> Primary consumer -> Secondary -> Tertiary.</explanation>
+        <option>Algae - Crab - Sea urchins - Squid - Dolphin - Shark</option>
+        <option>Sea urchins - Algae -Crab - Squid - Dolphin - Shark</option>
+        <option>Algae - Sea urchins - Crab - Squid - Dolphin -  Shark</option>
+        <option>Shark - Dolphin - Squid - Sea urchins - Crab - Algae</option>
+        <answer>Algae - Sea urchins - Crab - Squid - Dolphin -  Shark</answer>
+        <explanation>Producer - Primary consumer -Secondary - Tertiary.</explanation>
     </question>
 
     <question category="pyq" exam="JKSSB Lab Attendent Home Department" subject="General Science">
