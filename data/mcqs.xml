@@ -2473,6 +2473,346 @@ Choose the most appropriate answer:</text>
 
 
 
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best describes an "Entity" in the context of accounting?</text>
+<topic>Basic Accounting terms</topic>
+<option>The physical location where business is conducted.</option>
+<option>A specifically identifiable business enterprise for which an accounting system is devised.</option>
+<option>The legal owner of the business enterprise.</option>
+<option>Any event involving the transfer of value between two parties.</option>
+<answer>A specifically identifiable business enterprise for which an accounting system is devised.</answer>
+<explanation>Why (B) is correct: The entity of whom we are doing the accounting is called the Entity, meaning a specifically identifiable business enterprise like a supermarket or a limited company. Why (A) is incorrect: An entity refers to the business itself, not its physical location. Why (C) is incorrect: The concept of business entity assumes that the business has a distinct and separate entity from its owners. Why (D) is incorrect: An event involving value transfer between entities is defined as a transaction, not an entity.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding "Expenditure":
+Statement I: If the benefit of an expenditure is exhausted within a year, it is treated as an asset.
+Statement II: If the benefit of an expenditure lasts for more than a year, it is treated as a capital expenditure.
+Which of the above statements are correct?</text>
+<topic>Basic Accounting terms</topic>
+<option>Statement I only</option>
+<option>Statement II only</option>
+<option>Both Statement I and Statement II</option>
+<option>Neither Statement I nor Statement II</option>
+<answer>Statement II only</answer>
+<explanation>Why (B) is correct: Statement II is correct because if the benefit of an expenditure lasts for more than a year, it is treated as an asset, also called capital expenditure. Why (A) is incorrect: Statement I is reversed; an expenditure exhausted within a year is treated as an expense or revenue expenditure, not an asset. Why (C) is incorrect: Only Statement II is correct. Why (D) is incorrect: Statement II is correct, so this option is invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is an essential test to classify an asset or liability as "current"?</text>
+<topic>Basic Accounting terms</topic>
+<option>It is held primarily for long-term investment.</option>
+<option>It is realized or settled within a period of 12 months.</option>
+<option>It is not involved in the operating cycle.</option>
+<option>It provides economic benefits lasting more than 5 years.</option>
+<answer>It is realized or settled within a period of 12 months.</answer>
+<explanation>Why (B) is correct: A key distinction is that current assets or liabilities are realized or settled within 12 months. Why (A) is incorrect: Current items are primarily for trading, not long-term investment. Why (C) is incorrect: Current assets or liabilities are actively involved in the operating cycle. Why (D) is incorrect: Assets providing benefits for long periods are non-current assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding "Discount".
+Statement I: Trade discount is offered as an agreed percentage of the list price at the time of selling goods.
+Statement II: Cash discount acts as an incentive that encourages prompt payment by debtors.
+Statement III: Trade discount is given at the time of payment on the amount payable.
+Statement IV: Cash discount is given after selling the goods on a credit basis.
+Which of the following statements is/are incorrect?</text>
+<topic>Basic Accounting terms</topic>
+<option>Statement I and II only</option>
+<option>Statement III only</option>
+<option>Statement I and IV only</option>
+<option>Statement II and III only</option>
+<answer>Statement III only</answer>
+<explanation>Why (B) is correct: Statement III is incorrect because trade discount is offered at the time of selling goods, not at the time of payment; cash discount is the one given at the time of payment. Why (A) is incorrect: Statements I and II correctly define trade and cash discounts respectively. Why (C) is incorrect: Statements I and IV are factually correct statements based on basic accounting definitions. Why (D) is incorrect: Statement II is correct, making this combination invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A trader purchases 50 office chairs. He intends to use 10 chairs in his own administrative office and sell the remaining 40 to customers. How should these chairs be classified in basic accounting terms?</text>
+<topic>Basic Accounting terms</topic>
+<option>All 50 chairs are "Goods".</option>
+<option>All 50 chairs are "Assets".</option>
+<option>10 chairs are "Assets" and 40 chairs are "Goods".</option>
+<option>10 chairs are "Goods" and 40 chairs are "Assets".</option>
+<answer>10 chairs are "Assets" and 40 chairs are "Goods".</answer>
+<explanation>Why (C) is correct: Goods refer to products the business deals in (for resale); items purchased for use in the business are treated as assets, not goods. Why (A) is incorrect: The 10 chairs are for use, so they are not goods. Why (B) is incorrect: The 40 chairs are for resale, meaning they are goods, not fixed assets. Why (D) is incorrect: This reverses the correct classification of goods and assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best represents the relationship between Revenue, Expense, and Income?</text>
+<topic>Basic Accounting terms</topic>
+<option>Expense = Revenue + Income</option>
+<option>Income = Revenue - Expense</option>
+<option>Revenue = Income - Expense</option>
+<option>Expense - Revenue = Income</option>
+<answer>Income = Revenue - Expense</answer>
+<explanation>Why (B) is correct: Income is defined as Revenue minus Expense. Why (A) is incorrect: Expenses are costs incurred to earn revenue; they do not equal revenue plus income. Why (C) is incorrect: Revenue is Sales plus other income, not income minus expense. Why (D) is incorrect: This formula would yield a net loss, not income (profit).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What is the primary difference between a "Profit" and a "Gain"?</text>
+<topic>Basic Accounting terms</topic>
+<option>Profit arises from incidental events, while gain arises from core revenues.</option>
+<option>Profit is the excess of revenues over expenses, while gain arises from events incidental to business.</option>
+<option>There is no difference; they are synonymous terms in accounting.</option>
+<option>Profit is calculated daily, whereas gain is calculated annually.</option>
+<answer>Profit is the excess of revenues over expenses, while gain arises from events incidental to business.</answer>
+<explanation>Why (B) is correct: Profit is the excess of revenues over related expenses during an accounting year, whereas gain is profit arising from incidental events like the sale of a fixed asset. Why (A) is incorrect: This reverses the definitions of profit and gain. Why (C) is incorrect: Accounting explicitly differentiates between standard operating profits and incidental gains. Why (D) is incorrect: Both are usually measured over an accounting period; time frequency is not the differentiator.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Drawings represent the withdrawal of money or goods by the owner for personal use.
+Statement II: Drawings increase the capital of the owner.
+Choose the most appropriate answer:</text>
+<topic>Basic Accounting terms</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (B) is correct: Statement I correctly defines drawings, but Statement II is incorrect because drawings reduce the capital of the owner. Why (A) is incorrect: Statement II is factually wrong. Why (C) is incorrect: Statement I is an accurate definition of drawings. Why (D) is incorrect: Statement I is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following items is treated as a "Voucher"?</text>
+<topic>Basic Accounting terms</topic>
+<option>A verbal promise to pay a debt.</option>
+<option>A physical asset used in production.</option>
+<option>A cash memo or invoice supporting a transaction.</option>
+<option>An internal management report on employee performance.</option>
+<answer>A cash memo or invoice supporting a transaction.</answer>
+<explanation>Why (C) is correct: A voucher is the documentary evidence in support of a transaction, such as a cash memo, invoice, or receipt. Why (A) is incorrect: Vouchers require documentary/written evidence. Why (B) is incorrect: A physical asset is property, not documentary evidence. Why (D) is incorrect: A management report is not a source document supporting a specific financial transaction.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a business takes a loan for a period of three years from a Cooperative Bank, how will it be classified?</text>
+<topic>Basic Accounting terms</topic>
+<option>Current Asset</option>
+<option>Non-current Asset</option>
+<option>Current Liability</option>
+<option>Non-current Liability</option>
+<answer>Non-current Liability</answer>
+<explanation>Why (D) is correct: A three-year loan is an obligation to pay in the future and is not settled within 12 months, making it a non-current liability. Why (A) is incorrect: A loan is an obligation (liability), not an economic resource (asset). Why (B) is incorrect: It is a debt, not an asset owned by the business. Why (C) is incorrect: Current items must be settled within 12 months.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following statements regarding "Purchases" is entirely correct in accounting terminology?</text>
+<topic>Basic Accounting terms</topic>
+<option>Purchases include only goods procured on cash for business use.</option>
+<option>Purchases refer to the total amount of goods procured on credit and cash, for sale.</option>
+<option>Purchases include the acquisition of fixed assets like machinery for long-term use.</option>
+<option>Purchases represent the excess of revenues over expenses.</option>
+<answer>Purchases refer to the total amount of goods procured on credit and cash, for sale.</answer>
+<explanation>Why (B) is correct: Purchases are the total amount of goods procured by a business on credit and on cash, for sale. Why (A) is incorrect: Purchases include both cash and credit procurements. Why (C) is incorrect: Acquiring fixed assets is treated as capital expenditure/assets, not as "purchases" of goods. Why (D) is incorrect: The excess of revenues over expenses is profit, not purchases.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following situations:
+1. Ramesh owes money to an enterprise for buying goods on credit.
+2. The enterprise owes money to Suresh for providing goods on credit.
+Who are Ramesh and Suresh from the perspective of the enterprise?</text>
+<topic>Basic Accounting terms</topic>
+<option>Ramesh is a Creditor; Suresh is a Debtor.</option>
+<option>Ramesh is a Debtor; Suresh is a Creditor.</option>
+<option>Both are Debtors.</option>
+<option>Both are Creditors.</option>
+<answer>Ramesh is a Debtor; Suresh is a Creditor.</answer>
+<explanation>Why (B) is correct: Debtors are persons who owe the enterprise an amount for buying goods on credit, while creditors are persons to whom the enterprise owes money for providing goods on credit. Why (A) is incorrect: This reverses the definitions of debtors and creditors. Why (C) is incorrect: Suresh is owed money by the business, so he is a creditor. Why (D) is incorrect: Ramesh owes money to the business, making him a debtor.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which accounting term describes the gradual reduction in the value of fixed assets due to usage and passage of time?</text>
+<topic>Basic Accounting terms</topic>
+<option>Bad Debts</option>
+<option>Loss</option>
+<option>Depreciation</option>
+<option>Discount</option>
+<answer>Depreciation</answer>
+<explanation>Why (C) is correct: Depreciation refers to the gradual reduction in the value of fixed assets due to usage and passage of time. Why (A) is incorrect: Bad debts are losses from a debtor's failure to pay dues. Why (B) is incorrect: Loss is a broader term for excess expenses over revenues. Why (D) is incorrect: Discount is a deduction in the price of goods sold.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What is the correct definition of "Bad Debts" in basic accounting?</text>
+<topic>Basic Accounting terms</topic>
+<option>It is the amount invested by the owner that cannot be recovered.</option>
+<option>It is a loss to the business arising out of the failure of a debtor to pay the dues.</option>
+<option>It is the deduction in the list price of goods given to wholesalers.</option>
+<option>It is an obligation that a business has to pay in the future.</option>
+<answer>It is a loss to the business arising out of the failure of a debtor to pay the dues.</answer>
+<explanation>Why (B) is correct: Bad debts are an irrecoverable debt, representing a loss to the business due to a debtor's failure to pay. Why (A) is incorrect: Unrecovered owner's investment is a business failure or capital loss, not a bad debt. Why (C) is incorrect: This defines a trade discount. Why (D) is incorrect: This is the definition of a liability.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>"Unsold goods lying in a business on a particular date" are known as:</text>
+<topic>Basic Accounting terms</topic>
+<option>Drawings</option>
+<option>Current Liabilities</option>
+<option>Stock/Inventory</option>
+<option>Bad Debts</option>
+<answer>Stock/Inventory</answer>
+<explanation>Why (C) is correct: Stock/Inventory is defined as the unsold goods lying in a business on a particular date. Why (A) is incorrect: Drawings refer to withdrawals by the owner for personal use. Why (B) is incorrect: Unsold goods are an asset, not an obligation/liability. Why (D) is incorrect: Bad debts refer to irrecoverable money from debtors.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Assertion (A): Capital is treated as an internal liability of the business towards the owner.
+Reason (R): Amount invested by the owner in the business is known as capital.
+Choose the most appropriate answer:</text>
+<topic>Basic Accounting terms</topic>
+<option>Both (A) and (R) are correct, and (R) is the correct explanation of (A).</option>
+<option>Both (A) and (R) are correct, but (R) is not the correct explanation of (A).</option>
+<option>(A) is correct, but (R) is incorrect.</option>
+<option>(A) is incorrect, but (R) is correct.</option>
+<answer>Both (A) and (R) are correct, but (R) is not the correct explanation of (A).</answer>
+<explanation>Why (B) is correct: Both statements are correct but Reason ( R ) doesn’t explain why capital is called Internal Liability. Why (A) is incorrect: Both statements are correct but Reason ( R ) doesn’t explain why capital is called Internal Liability. Why (C) is incorrect: Reason (R) is a correct definition of capital. Why (D) is incorrect: Assertion (A) is a core accounting principle based on the separate entity concept.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding "Investment":
+Statement I: It refers to expenditure on assets held to earn interest, income, profit, or other benefits.
+Statement II: It represents the money owed by the business to external creditors.
+Which of the above statements are correct?</text>
+<topic>Basic Accounting terms</topic>
+<option>Statement I only</option>
+<option>Statement II only</option>
+<option>Both Statement I and Statement II</option>
+<option>Neither Statement I nor Statement II</option>
+<answer>Statement I only</answer>
+<explanation>Why (A) is correct: Investment is expenditure on assets held to earn interest, income, profit, or other benefits. Why (B) is incorrect: Statement II describes liabilities, not investments. Why (C) is incorrect: Statement II is incorrect. Why (D) is incorrect: Statement I accurately defines investment.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a business has total revenues of $6,00,000 and total expenses of $5,40,000 during an accounting year, what does the $60,000 difference represent?</text>
+<topic>Basic Accounting terms</topic>
+<option>Loss</option>
+<option>Gain</option>
+<option>Capital</option>
+<option>Profit</option>
+<answer>Profit</answer>
+<explanation>Why (D) is correct: Profit is the excess of revenues over related expenses during an accounting year. $6,00,000 - $5,40,000 = $60,000 profit. Why (A) is incorrect: A loss occurs when expenses exceed revenues. Why (B) is incorrect: Gain arises from incidental events, not standard operating revenues over expenses. Why (C) is incorrect: Capital is the initial or ongoing investment by the owner.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is NOT an example of an "Asset"?</text>
+<topic>Basic Accounting terms</topic>
+<option>Fleet of delivery trucks owned by a supermarket.</option>
+<option>Stock of unsold goods.</option>
+<option>Amount owed to a supplier for credit purchases.</option>
+<option>Furniture used in the business office.</option>
+<answer>Amount owed to a supplier for credit purchases.</answer>
+<explanation>Why (C) is correct: Money owed to a supplier is an obligation, which makes it a liability (Creditor), not an asset. Why (A) is incorrect: Delivery trucks provide economic benefit and are items of value, making them assets. Why (B) is incorrect: Stock/Inventory represents an economic resource owned by the business, hence an asset. Why (D) is incorrect: Furniture used in operations is a fixed asset.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding the classification of accounts.</text>
+<topic>Basic Accounting terms</topic>
+<option>Sales are total revenues from goods or services sold.</option>
+<option>Debtors are persons who owe money to the enterprise.</option>
+<option>Discount given by a wholesaler to a retailer at a fixed percentage on list price is a Cash Discount.</option>
+<option>Cost of goods sold, rent, and wages are typical examples of expenses.</option>
+<answer>Discount given by a wholesaler to a retailer at a fixed percentage on list price is a Cash Discount.</answer>
+<explanation>Why (C) is correct: A deduction of an agreed percentage of the list price offered by a wholesaler to a retailer is called a Trade Discount, not a Cash Discount. Why (A) is incorrect: This is the correct definition of Sales. Why (B) is incorrect: This is the correct definition of Debtors. Why (D) is incorrect: Cost of goods sold, rent, and wages are standard examples of business expenses.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following events would result in a "Loss" as defined in basic accounting terms?</text>
+<topic>Basic Accounting terms</topic>
+<option>The business earns $1,50,000 in revenues and incurs $1,00,000 in expenses.</option>
+<option>The business sells a machine costing $40,000 for $45,000.</option>
+<option>The business experiences a fire that destroys $30,000 worth of stationery stock.</option>
+<option>The business owner withdraws $5,000 for personal use.</option>
+<answer>The business experiences a fire that destroys $30,000 worth of stationery stock.</answer>
+<explanation>Why (C) is correct: The destruction of stock by fire without generating revenue is a loss, as expenses/losses exceed related revenues for that event. Why (A) is incorrect: This scenario yields a profit of $50,000. Why (B) is incorrect: Selling an asset above its cost yields a Gain of $5,000. Why (D) is incorrect: Withdrawals by the owner are Drawings, not a business loss.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding "Transaction":
+Statement I: It is an event involving some value between two or more entities.
+Statement II: It must strictly be a cash exchange; credit exchanges are not classified as transactions until paid.
+Which of the above statements is/are correct?</text>
+<topic>Basic Accounting terms</topic>
+<option>Statement I only</option>
+<option>Statement II only</option>
+<option>Both Statement I and Statement II</option>
+<option>Neither Statement I nor Statement II</option>
+<answer>Statement I only</answer>
+<explanation>Why (A) is correct: A transaction is an event involving value between entities, and it can be either a cash transaction or a credit transaction. Why (B) is incorrect: Statement II is false; credit transactions are fully recognized as transactions. Why (C) is incorrect: Statement II invalidates this option. Why (D) is incorrect: Statement I is factually correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business pays rent, wages, and telephone charges for the month. How are these items classified in accounting terminology?</text>
+<topic>Basic Accounting terms</topic>
+<option>Capital Expenditure</option>
+<option>Expenses</option>
+<option>Drawings</option>
+<option>Liabilities</option>
+<answer>Expenses</answer>
+<explanation>Why (B) is correct: Rent, wages, and telephone charges are costs incurred in the process of earning revenue and are classified as expenses. Why (A) is incorrect: Capital expenditures are for long-term benefits (assets), not routine monthly costs. Why (C) is incorrect: Drawings are personal withdrawals by the owner, not business costs. Why (D) is incorrect: Once paid, they are not obligations owed in the future.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A stationery merchant purchases pens, notebooks, and staplers to sell in his shop. He also buys a delivery van to transport the items. How should these purchases be classified?</text>
+<topic>Basic Accounting terms</topic>
+<option>Pens and notebooks are "Assets"; the van is "Goods".</option>
+<option>Both the stationery and the van are "Goods".</option>
+<option>Both the stationery and the van are "Assets".</option>
+<option>Pens and notebooks are "Goods"; the van is an "Asset".</option>
+<answer>Pens and notebooks are "Goods"; the van is an "Asset".</answer>
+<explanation>Why (D) is correct: Goods refer to products the business is dealing in (for resale). For a stationery merchant, stationery is goods, whereas the van is for business use and is an asset. Why (A) is incorrect: This reverses the definitions. Why (B) is incorrect: The van is not intended for resale, so it is not a good. Why (C) is incorrect: The stationery is for resale, so it is classified as goods, not long-term assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following scenarios best illustrates the concept of "Revenues"?</text>
+<topic>Basic Accounting terms</topic>
+<option>The initial $5,00,000 cash invested by the owner to start the business.</option>
+<option>The $1,50,000 received from customers for goods sold, plus $5,000 interest from a bank balance.</option>
+<option>The $1,00,000 paid to suppliers for raw materials.</option>
+<option>The $30,000 worth of stock destroyed in a fire accident.</option>
+<answer>The $1,50,000 received from customers for goods sold, plus $5,000 interest from a bank balance.</answer>
+<explanation>Why (B) is correct: Revenues include total sales plus other income like bank interest. Why (A) is incorrect: Initial investment is classified as Capital. Why (C) is incorrect: Money paid for materials is an expenditure/purchase. Why (D) is incorrect: Destroyed stock is considered a loss.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise purchases a machine for $50,000, expecting it to be useful for 10 years. According to basic terms, the $50,000 layout is best described as:</text>
+<topic>Basic Accounting terms</topic>
+<option>Revenue Expenditure</option>
+<option>Capital Expenditure</option>
+<option>Gain</option>
+<option>Drawings</option>
+<answer>Capital Expenditure</answer>
+<explanation>Why (B) is correct: Spending money for a benefit that lasts for more than a year (like a machine) is treated as a capital expenditure (asset). Why (A) is incorrect: Revenue expenditure implies the benefit is exhausted within a year. Why (C) is incorrect: A gain is profit from an incidental event, not the purchase of an asset. Why (D) is incorrect: Drawings refer to personal withdrawals by the owner.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following creates a "Creditor" relationship for a business?</text>
+<topic>Basic Accounting terms</topic>
+<option>The business sells goods to a customer on a 30-day payment term.</option>
+<option>The business owner withdraws cash to pay for a personal vacation.</option>
+<option>The business buys goods from a supplier and promises to pay next month.</option>
+<option>The business pays cash immediately for a new office computer.</option>
+<answer>The business buys goods from a supplier and promises to pay next month.</answer>
+<explanation>Why (C) is correct: A creditor is an entity to whom the business owes an amount for providing goods or services on credit. Why (A) is incorrect: Selling goods on credit creates a Debtor relationship. Why (B) is incorrect: This is a Drawing, affecting capital and cash, not creditors. Why (D) is incorrect: Immediate cash payment settles the transaction instantly; no creditor relationship is formed.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: "Trade discount" encourages prompt payment by debtors.
+Statement II: "Cash discount" is generally offered by manufacturers to wholesalers for bulk purchases.
+Which of the following is correct?</text>
+<topic>Basic Accounting terms</topic>
+<option>Statement I is correct, Statement II is incorrect.</option>
+<option>Statement II is correct, Statement I is incorrect.</option>
+<option>Both statements are correct.</option>
+<option>Both statements are incorrect.</option>
+<answer>Both statements are incorrect.</answer>
+<explanation>Why (D) is correct: Both statements have swapped definitions. Cash discount encourages prompt payment, while trade discount is offered by manufacturers to wholesalers for bulk purchases. Why (A) is incorrect: Statement I describes cash discount, not trade discount. Why (B) is incorrect: Statement II describes trade discount, not cash discount. Why (C) is incorrect: Both statements are factually incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business records a transaction where it issues a "receipt" for a cash payment received. In accounting terms, this receipt is an example of a:</text>
+<topic>Basic Accounting terms</topic>
+<option>Liability</option>
+<option>Capital introduction</option>
+<option>Voucher</option>
+<option>Bad debt</option>
+<answer>Voucher</answer>
+<explanation>Why (C) is correct: A receipt is a documentary evidence in support of a transaction, which is the exact definition of a voucher. Why (A) is incorrect: A liability is an obligation to pay, not a document. Why (B) is incorrect: Capital introduction refers to funds invested by the owner, whereas the receipt itself is just the documentary proof. Why (D) is incorrect: A bad debt is an uncollectible receivable.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Mr. A starts a business by investing $1,00,000 cash. He buys inventory for $40,000 cash. He then sells half of this inventory for $30,000 cash. Assuming no other transactions or expenses, what is his Profit and current Cash balance?</text>
+<topic>Basic Accounting terms</topic>
+<option>Profit: $10,000; Cash: $90,000</option>
+<option>Profit: $10,000; Cash: $1,00,000</option>
+<option>Profit: $30,000; Cash: $90,000</option>
+<option>Profit: -$10,000; Cash: $1,30,000</option>
+<answer>Profit: $10,000; Cash: $90,000</answer>
+<explanation>Why (A) is correct: The cost of the goods sold is half of $40,000 = $20,000. Sale revenue = $30,000. Profit = Revenue - Expense (Cost of goods sold) = $30,000 - $20,000 = $10,000. Cash = $1,00,000 (Initial) - $40,000 (Inventory) + $30,000 (Sales) = $90,000. Why (B) is incorrect: The cash balance is calculated incorrectly. Why (C) is incorrect: Profit must deduct the cost of goods sold from the sales revenue. Why (D) is incorrect: The business made a profit, not a loss</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
