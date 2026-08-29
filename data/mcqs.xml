@@ -2811,6 +2811,706 @@ Which of the following is correct?</text>
 
 
 
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following represents the fundamental accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Assets + Liabilities = Capital</option>
+<option>Assets = Liabilities - Capital</option>
+<option>Assets = Liabilities + Capital</option>
+<option>Capital = Assets + Liabilities</option>
+<answer>Assets = Liabilities + Capital</answer>
+<explanation>Why (C) is correct: The accounting equation states that the total assets of a business are always equal to the total of its liabilities and owner's equity (capital). Why (A) is incorrect: Adding liabilities to assets does not yield capital; capital is the residual interest after deducting liabilities from assets. Why (B) is incorrect: Subtracting capital from liabilities does not mathematically equate to total assets. Why (D) is incorrect: Capital equals assets minus liabilities, not their sum.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The accounting equation is a mathematical expression of which fundamental accounting concept?</text>
+<topic>Accounting Equation</topic>
+<option>Going Concern Concept</option>
+<option>Dual Aspect Concept</option>
+<option>Matching Concept</option>
+<option>Consistency Concept</option>
+<answer>Dual Aspect Concept</answer>
+<explanation>Why (B) is correct: The accounting equation is derived from the dual aspect concept, which states that every business transaction involves a two-fold effect on two different accounts. Why (A) is incorrect: The going concern concept assumes the business will continue operations indefinitely, which is unrelated to the structural equality of assets and liabilities. Why (C) is incorrect: The matching concept relates to matching expenses of a period with the revenues of that period, not the balance sheet structure. Why (D) is incorrect: Consistency dictates that accounting policies remain unchanged from year to year.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the total assets of a business are Rs. 1,00,000 and the external liabilities are Rs. 40,000, what is the value of the owner's capital?</text>
+<topic>Accounting Equation</topic>
+<option>Rs. 1,40,000</option>
+<option>Rs. 60,000</option>
+<option>Rs. 40,000</option>
+<option>Rs. 1,00,000</option>
+<answer>Rs. 60,000</answer>
+<explanation>Why (B) is correct: By rearranging the accounting equation, Capital = Assets - Liabilities. Therefore, Rs. 1,00,000 - Rs. 40,000 = Rs. 60,000. Why (A) is incorrect: This improperly adds assets and liabilities together. Why (C) is incorrect: This simply repeats the liability figure instead of calculating the residual capital. Why (D) is incorrect: This is the figure for total assets, which ignores the external liabilities.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the accounting equation:
+Statement I: Every transaction affects both sides of the accounting equation equally.
+Statement II: The accounting equation highlights the structure of the balance sheet.
+Statement III: A change in one asset account must always be accompanied by a change in a liability account.
+Statement IV: The equation serves as the foundation for double-entry accounting.
+Which of the above statements are correct?</text>
+<topic>Accounting Equation</topic>
+<option>I and II only</option>
+<option>I, II, and IV only</option>
+<option>II, III, and IV only</option>
+<option>I, II, III, and IV</option>
+<answer>I, II, and IV only</answer>
+<explanation>Why (B) is correct: Statements I, II, and IV are correct principles of the accounting equation. Every transaction affects the equation, it structures the balance sheet, and forms the basis of double-entry accounting. Why (A) is incorrect: It incorrectly excludes Statement IV, which is a true statement about double-entry accounting. Why (C) is incorrect: Statement III is false; an asset can increase while another asset decreases (e.g., buying machinery for cash), requiring no change in liabilities. Why (D) is incorrect: Statement III is incorrect, rendering the selection of all four statements invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>How does the transaction "Purchased goods on credit for Rs. 10,000" impact the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Increases assets by Rs. 10,000 and decreases capital by Rs. 10,000</option>
+<option>Increases assets by Rs. 10,000 and increases liabilities by Rs. 10,000</option>
+<option>Decreases assets by Rs. 10,000 and decreases liabilities by Rs. 10,000</option>
+<option>Increases liabilities by Rs. 10,000 and decreases capital by Rs. 10,000</option>
+<answer>Increases assets by Rs. 10,000 and increases liabilities by Rs. 10,000</answer>
+<explanation>Why (B) is correct: Purchasing goods (stock) increases assets by Rs. 10,000, and doing so on credit increases creditors (a liability) by Rs. 10,000, keeping the equation balanced. Why (A) is incorrect: Capital is not impacted because this is an asset acquisition, not an expense. Why (C) is incorrect: Both assets and liabilities increase, they do not decrease. Why (D) is incorrect: Capital does not decrease, and assets must increase to reflect the new stock.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the expanded accounting equation. Which of the following equations is correct?</text>
+<topic>Accounting Equation</topic>
+<option>Assets + Income = Liabilities + Capital + Expenses</option>
+<option>Assets + Capital = Liabilities + Income + Expenses</option>
+<option>Assets + Expenses = Liabilities + Capital + Income</option>
+<option>Assets - Expenses = Liabilities + Capital - Income</option>
+<answer>Assets + Expenses = Liabilities + Capital + Income</answer>
+<explanation>Why (C) is correct: The basic equation is Assets = Liabilities + Capital + Profit (where Profit = Income - Expenses). Rearranging this gives: Assets + Expenses = Liabilities + Capital + Income. Why (A) is incorrect: It places Income on the debit side and Expenses on the credit side, which reverses normal accounting balances. Why (B) is incorrect: Capital belongs on the credit side along with liabilities, not with assets. Why (D) is incorrect: The mathematical signs are incorrect when translating the profit formula into the expanded equation framework.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Modern Approach (Accounting Equation Approach) of classifying accounts:
+Statement I: An increase in an asset is debited.
+Statement II: A decrease in a liability is debited.
+Statement III: An increase in capital is debited.
+Statement IV: An increase in revenue is credited.
+Which of the following statements is/are incorrect?</text>
+<topic>Accounting Equation</topic>
+<option>III only</option>
+<option>I and II only</option>
+<option>II and IV only</option>
+<option>III and IV only</option>
+<answer>III only</answer>
+<explanation>Why (A) is correct: Statement III is incorrect because an increase in capital is credited, not debited. Statements I, II, and IV are correct rules under the modern approach. Why (B) is incorrect: Statements I and II are factually correct rules. Why (C) is incorrect: Statements II and IV accurately describe the debit/credit rules for liabilities and revenues. Why (D) is incorrect: Statement IV is correct; only Statement III is false.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The withdrawal of cash by the owner for personal use reduces both the total assets and the capital of the business.
+Statement II: Drawings are treated as a business expense and charged to the Profit &amp; Loss Account.
+Choose the most appropriate answer:</text>
+<topic>Accounting Equation</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is true because cash (asset) decreases and owner's equity (capital) decreases. Statement II is false because drawings are not a business expense; they are a reduction of capital and are not charged to the Profit &amp; Loss account. Why (A) is incorrect: Statement II is completely false. Why (B) is incorrect: Statement II is factually incorrect regarding the accounting treatment of drawings. Why (D) is incorrect: Statement I is correct, and Statement II is incorrect, making this choice invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A firm pays Rs. 5,000 to its creditors in full settlement of a debt of Rs. 5,200. What is the net impact on the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Assets decrease by Rs. 5,000, Liabilities decrease by Rs. 5,200, Capital increases by Rs. 200.</option>
+<option>Assets decrease by Rs. 5,200, Liabilities decrease by Rs. 5,200.</option>
+<option>Assets decrease by Rs. 5,000, Liabilities decrease by Rs. 5,000, Capital increases by Rs. 200.</option>
+<option>Assets decrease by Rs. 5,000, Liabilities decrease by Rs. 5,200, Capital decreases by Rs. 200.</option>
+<answer>Assets decrease by Rs. 5,000, Liabilities decrease by Rs. 5,200, Capital increases by Rs. 200.</answer>
+<explanation>Why (A) is correct: Cash (asset) decreases by the Rs. 5,000 paid. Creditors (liability) decrease by the full Rs. 5,200 owed. The Rs. 200 discount received is a gain, which increases Capital by Rs. 200. Why (B) is incorrect: It fails to recognize the actual cash paid and ignores the discount received. Why (C) is incorrect: It incorrectly records the liability reduction as Rs. 5,000 instead of the settled amount of Rs. 5,200. Why (D) is incorrect: A discount received is a gain (increasing capital), not a loss (which would decrease capital).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following transactions will lead to an increase in one asset and a decrease in another asset, keeping the total assets unchanged?</text>
+<topic>Accounting Equation</topic>
+<option>Purchase of machinery on credit</option>
+<option>Cash received from a debtor</option>
+<option>Payment made to a creditor</option>
+<option>Goods destroyed by fire</option>
+<answer>Cash received from a debtor</answer>
+<explanation>Why (B) is correct: Receiving cash from a debtor increases the 'Cash' asset and decreases the 'Debtors' asset by the same amount, leaving total assets unchanged. Why (A) is incorrect: Purchasing machinery on credit increases assets and increases liabilities. Why (C) is incorrect: Paying a creditor decreases assets (cash) and decreases liabilities (creditors). Why (D) is incorrect: Goods destroyed by fire decreases assets (stock) and decreases capital (as a loss).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise has total assets of Rs. 5,00,000. During the year, it purchased a machine for Rs. 1,00,000 by taking a bank loan. What will be the new total of assets?</text>
+<topic>Accounting Equation</topic>
+<option>Rs. 4,00,000</option>
+<option>Rs. 5,00,000</option>
+<option>Rs. 6,00,000</option>
+<option>Rs. 5,50,000</option>
+<answer>Rs. 6,00,000</answer>
+<explanation>Why (C) is correct: The new machine increases total assets by Rs. 1,00,000. Since it was financed by a bank loan (liability), no other asset was reduced. New total assets = Rs. 5,00,000 + Rs. 1,00,000 = Rs. 6,00,000. Why (A) is incorrect: Assets increase, they do not decrease when acquiring machinery on loan. Why (B) is incorrect: This assumes the machinery was purchased with existing cash, which contradicts the stated bank loan financing. Why (D) is incorrect: This is an arbitrary calculation not supported by the transaction values.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding expenses and their effect on the accounting equation:
+Statement I: Payment of an outstanding expense reduces liabilities and reduces assets.
+Statement II: Incurring an expense on credit increases liabilities and decreases capital.
+Statement III: Payment of a current expense in cash decreases assets and decreases capital.
+Statement IV: All expenses always reduce liabilities.
+Which of the following statements is/are incorrect?</text>
+<topic>Accounting Equation</topic>
+<option>I and II only</option>
+<option>IV only</option>
+<option>II and III only</option>
+<option>I, III, and IV only</option>
+<answer>IV only</answer>
+<explanation>Why (B) is correct: Statement IV is incorrect because expenses generally reduce capital, not liabilities; incurring an expense often increases a liability or decreases an asset. Why (A) is incorrect: Statements I and II are correct practical applications of the accounting equation for expenses. Why (C) is incorrect: Statements II and III accurately reflect how credit and cash expenses impact the equation. Why (D) is incorrect: Statements I and III are true, so they should not be selected as incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>How is the transaction "Interest on Capital allowed to the owner" recorded in the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Increases asset (cash) and increases capital.</option>
+<option>Decreases capital as an expense and increases capital as an income, resulting in no net effect on total capital.</option>
+<option>Increases liabilities and decreases capital.</option>
+<option>Decreases assets and decreases capital.</option>
+<answer>Decreases capital as an expense and increases capital as an income, resulting in no net effect on total capital.</answer>
+<explanation>Why (B) is correct: Interest on capital is an expense for the business (reduces capital) and an income for the owner (increases capital). Thus, it is simultaneously added and deducted from capital, leaving the accounting equation unchanged. Why (A) is incorrect: No cash is introduced into the business during this internal adjustment. Why (C) is incorrect: It does not create an external liability; it is an internal transfer within owner's equity. Why (D) is incorrect: Assets are not reduced since no cash is paid out.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business sold goods costing Rs. 20,000 for Rs. 25,000 on credit. What is the overall impact on the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Assets increase by Rs. 25,000, Capital increases by Rs. 25,000.</option>
+<option>Assets increase by Rs. 5,000, Capital increases by Rs. 5,000.</option>
+<option>Assets increase by Rs. 20,000, Liabilities decrease by Rs. 5,000.</option>
+<option>Assets decrease by Rs. 20,000, Capital increases by Rs. 5,000.</option>
+<answer>Assets increase by Rs. 5,000, Capital increases by Rs. 5,000.</answer>
+<explanation>Why (B) is correct: The asset 'Stock' decreases by the cost of Rs. 20,000, while the asset 'Debtors' increases by the selling price of Rs. 25,000. The net increase in assets is Rs. 5,000, which corresponds to the profit that increases Capital by Rs. 5,000. Why (A) is incorrect: It ignores the reduction in stock (assets) resulting from the sale. Why (C) is incorrect: Liabilities are not affected by a credit sale to a customer. Why (D) is incorrect: Assets experience a net increase, not a decrease, due to the profit margin.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The dual aspect concept ensures that every transaction is recorded at two places.
+Statement II: The accounting equation can never show a situation where total assets are less than external liabilities.
+Choose the most appropriate answer:</text>
+<topic>Accounting Equation</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is correct. Statement II is incorrect because total assets can be less than external liabilities if the business suffers heavy losses, resulting in a negative capital (debit balance in capital account). Why (A) is incorrect: Statement II is factually false. Why (B) is incorrect: Statement II is false, so both cannot be correct. Why (D) is incorrect: Statement I is true; it accurately defines the dual aspect concept.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following events is NOT recorded in the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Depreciation charged on machinery</option>
+<option>Appointment of a new General Manager</option>
+<option>Goods withdrawn for personal use</option>
+<option>Accrued interest on investment</option>
+<answer>Appointment of a new General Manager</answer>
+<explanation>Why (B) is correct: Appointing a manager is not a financial transaction measurable in money, so it is not recorded in accounting or the accounting equation. Why (A) is incorrect: Depreciation decreases asset value and reduces capital as an expense, so it is recorded. Why (C) is incorrect: Drawings reduce stock (asset) and capital, so it is recorded. Why (D) is incorrect: Accrued interest increases assets and increases capital (income), so it is recorded.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a business receives rent in advance from a tenant, what is the effect on the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Increases assets and increases capital</option>
+<option>Increases assets and decreases liabilities</option>
+<option>Increases assets and increases liabilities</option>
+<option>Decreases assets and increases liabilities</option>
+<answer>Increases assets and increases liabilities</answer>
+<explanation>Why (C) is correct: Receiving cash increases assets. Because the rent is unearned (received in advance), it creates an obligation/liability to provide the service, thereby increasing liabilities. Why (A) is incorrect: Capital does not increase because the income has not yet been earned (Matching/Accrual concept). Why (B) is incorrect: Liabilities increase, they do not decrease. Why (D) is incorrect: Assets (cash) increase, they do not decrease.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following classifications of accounts under the Accounting Equation Approach:
+I. Building - Asset
+II. Outstanding Rent - Liability
+III. Discount Allowed - Expense
+IV. Bad Debts Recovered - Liability
+Which of the above classifications is/are incorrect?</text>
+<topic>Accounting Equation</topic>
+<option>I and II only</option>
+<option>IV only</option>
+<option>III and IV only</option>
+<option>II only</option>
+<answer>IV only</answer>
+<explanation>Why (B) is correct: Classification IV is incorrect because Bad Debts Recovered is a gain/revenue (which increases capital), not a liability. Why (A) is incorrect: Building is correctly an asset, and Outstanding Rent is correctly a liability. Why (C) is incorrect: Discount Allowed is an expense (reduces capital); it is correctly classified. Why (D) is incorrect: Outstanding Rent represents an obligation to pay in the future, making it a liability.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>At the end of an accounting period, an enterprise finds that its total assets are Rs. 8,00,000 and total capital is Rs. 3,50,000. The enterprise also has a long-term bank loan of Rs. 2,50,000. What is the value of current liabilities?</text>
+<topic>Accounting Equation</topic>
+<option>Rs. 4,50,000</option>
+<option>Rs. 2,00,000</option>
+<option>Rs. 7,00,000</option>
+<option>Rs. 1,00,000</option>
+<answer>Rs. 2,00,000</answer>
+<explanation>Why (B) is correct: Total Liabilities = Total Assets - Capital = Rs. 8,00,000 - Rs. 3,50,000 = Rs. 4,50,000. Since Total Liabilities includes the long-term bank loan (Rs. 2,50,000) and current liabilities, Current Liabilities = Rs. 4,50,000 - Rs. 2,50,000 = Rs. 2,00,000. Why (A) is incorrect: This is the figure for Total Liabilities, not just current liabilities. Why (C) is incorrect: This results from subtracting only Rs. 1,00,000, which is bad math. Why (D) is incorrect: This is a random figure not derived from the equation components.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: When an asset account is debited, it indicates a decrease in that asset.
+Statement II: When a liability account is credited, it indicates an increase in that liability.
+Choose the most appropriate answer:</text>
+<topic>Accounting Equation</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (D) is correct: Statement I is false; under the modern approach, an increase in an asset is debited. Statement II is true; an increase in liabilities is credited. Why (A) is incorrect: Statement I is a false premise. Why (B) is incorrect: Statement II is factually correct. Why (C) is incorrect: This reverses the truth values of the statements.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business pays Rs. 3,000 for insurance premium, out of which Rs. 1,000 pertains to the next accounting year. How will this transaction initially reflect on the accounting equation on the date of payment?</text>
+<topic>Accounting Equation</topic>
+<option>Assets decrease by Rs. 3,000, Capital decreases by Rs. 3,000.</option>
+<option>Assets decrease by Rs. 2,000, Capital decreases by Rs. 2,000, Liabilities increase by Rs. 1,000.</option>
+<option>Assets decrease by Rs. 2,000 (net), Capital decreases by Rs. 2,000.</option>
+<option>Assets increase by Rs. 1,000, Liabilities decrease by Rs. 2,000.</option>
+<answer>Assets decrease by Rs. 2,000 (net), Capital decreases by Rs. 2,000.</answer>
+<explanation>Why (C) is correct: Cash (asset) decreases by Rs. 3,000. Prepaid Insurance (asset) increases by Rs. 1,00, making the net asset decrease Rs. 2,000. The current year's insurance expense is Rs. 2,000, which decreases Capital by Rs. 2,000. Thus, both sides decrease by Rs. 2,000. Why (A) is incorrect: It treats the entire payment as an expense of the current year, ignoring the prepaid portion (asset). Why (B) is incorrect: Prepaid insurance is an asset, not a liability. Why (D) is incorrect: The cash outflow dictates a net decrease in assets, not an increase.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following scenarios represents a transaction where one liability decreases and another liability increases?</text>
+<topic>Accounting Equation</topic>
+<option>Payment made to a creditor by cash</option>
+<option>Acceptance of a bill payable to settle a creditor's account</option>
+<option>Issue of shares to a creditor</option>
+<option>Borrowing cash from a bank to purchase a vehicle</option>
+<answer>Acceptance of a bill payable to settle a creditor's account</answer>
+<explanation>Why (B) is correct: When a bill payable is accepted, the creditor's account (liability) decreases, and the bills payable account (liability) increases by the same amount, keeping total liabilities unchanged. Why (A) is incorrect: This decreases a liability and decreases an asset (cash). Why (C) is incorrect: This decreases a liability (creditor) and increases owner's equity (capital). Why (D) is incorrect: This increases an asset (cash) and increases a liability (bank loan).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the owner's capital is Rs. 50,000 and the total liabilities are Rs. 30,000, the total assets are Rs. 80,000. If the business incurs a loss of Rs. 10,000, what will be the new value of total assets, assuming liabilities remain unchanged and no cash is withdrawn?</text>
+<topic>Accounting Equation</topic>
+<option>Rs. 70,000</option>
+<option>Rs. 80,000</option>
+<option>Rs. 60,000</option>
+<option>Rs. 90,000</option>
+<answer>Rs. 70,000</answer>
+<explanation>Why (A) is correct: A loss of Rs. 10,000 reduces the capital to Rs. 40,000 (Rs. 50,000 - 10,000). With liabilities constant at Rs. 30,000, the new total assets must equal Rs. 40,000 + Rs. 30,000 = Rs. 70,000. The loss implies a corresponding decrease in net assets. Why (B) is incorrect: The loss must be reflected by a reduction in assets if liabilities are unchanged. Why (C) is incorrect: This deducts the loss twice from the total assets. Why (D) is incorrect: A loss reduces assets and capital; it does not increase them.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the double entry system and accounting equation:
+Statement I: For every debit, there must be an equal and corresponding credit.
+Statement II: Double-entry accounting means a transaction is recorded in the books of two different enterprises.
+Statement III: A transaction can affect only one side of the accounting equation.
+Statement IV: Expenses are treated as temporary capital reductions.
+Which of the above statements are correct?</text>
+<topic>Accounting Equation</topic>
+<option>I and III only</option>
+<option>I, III, and IV only</option>
+<option>II and IV only</option>
+<option>I and II only</option>
+<answer>I, III, and IV only</answer>
+<explanation>Why (B) is correct: Statement I is the definition of double-entry. Statement III is correct; a transaction can affect only the asset side (e.g., buying machinery for cash) keeping the equation balanced. Statement IV is correct; expenses reduce capital. Why (A) is incorrect: It omits Statement IV, which is a fundamentally true concept regarding expenses. Why (C) is incorrect: Statement II is completely false; double-entry refers to recording two aspects (debit and credit) in the books of the same enterprise. Why (D) is incorrect: Statement II is incorrect, making this option invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding the classification of accounts under the modern approach.</text>
+<topic>Accounting Equation</topic>
+<option>Bank Fixed Deposit is an Asset account.</option>
+<option>Rent Outstanding is a Liability account.</option>
+<option>Bad Debts is an Expense account reducing capital.</option>
+<option>Sales Tax Payable is a Revenue account.</option>
+<answer>Sales Tax Payable is a Revenue account.</answer>
+<explanation>Why (D) is correct: Sales Tax Payable is a Liability account (money owed to the government), not a Revenue account. Hence, this statement is incorrect. Why (A) is incorrect: Bank Fixed Deposit provides future economic benefits and is rightly classified as an asset. Why (B) is incorrect: Rent Outstanding represents an obligation to pay, correctly classified as a liability. Why (C) is incorrect: Bad Debts are losses/expenses that reduce temporary capital.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>How should the creation of a 'Provision for Doubtful Debts' impact the accounting equation?</text>
+<topic>Accounting Equation</topic>
+<option>Increases liabilities and decreases capital.</option>
+<option>Decreases assets and decreases capital.</option>
+<option>Increases assets and increases capital.</option>
+<option>Decreases liabilities and increases capital.</option>
+<answer>Decreases assets and decreases capital.</answer>
+<explanation>Why (B) is correct: Creating a provision for doubtful debts reduces the net realizable value of Debtors (an asset). It is recognized as an anticipated loss/expense, which reduces Capital. Why (A) is incorrect: Provisions against assets (like debtors) are typically treated as contra-assets rather than external liabilities. Why (C) is incorrect: It acts as a reduction, not an addition. Why (D) is incorrect: Anticipated losses reduce capital, they do not increase it.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The equation Assets = Liabilities + Capital implies that all resources owned by the business are financed either by external parties or by the owner.
+Statement II: If a business buys a vehicle on hire purchase, the full value of the vehicle is immediately added to assets and the amount owed is added to liabilities.
+Choose the most appropriate answer:</text>
+<topic>Accounting Equation</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct.</answer>
+<explanation>Why (A) is correct: Statement I correctly explains the logic of the accounting equation (resources = sources of finance). Statement II is also correct; under accrual and dual aspect concepts, acquiring control of an asset on credit (hire purchase) brings the asset onto the books and creates a corresponding liability. Why (B) is incorrect: Both statements are factually sound principles of accounting. Why (C) is incorrect: Statement II accurately reflects the recording of a credit asset purchase. Why (D) is incorrect: Statement I is conceptually the cornerstone of the accounting equation.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business started with Cash Rs. 50,000 and Goods Rs. 30,000. During the year, goods costing Rs. 20,000 were sold for Rs. 15,000 cash. What is the closing balance of Capital?</text>
+<topic>Accounting Equation</topic>
+<option>Rs. 80,000</option>
+<option>Rs. 75,000</option>
+<option>Rs. 85,000</option>
+<option>Rs. 60,000</option>
+<answer>Rs. 75,000</answer>
+<explanation>Why (B) is correct: Initial Capital = Cash (50,000) + Goods (30,000) = Rs. 80,000. The sale of goods costing Rs. 20,000 for Rs. 15,000 results in a loss of Rs. 5,000. Loss reduces capital. Closing Capital = Rs. 80,000 - 5,000 = Rs. 75,000. Why (A) is incorrect: This is the initial capital, failing to account for the loss on sale. Why (C) is incorrect: This assumes a profit of Rs. 5,000 rather than a loss. Why (D) is incorrect: This incorrectly deducts the cost of goods sold from capital without accounting for the cash received.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements:
+I. Increase in revenue/gain is debited.
+II. Increase in liabilities is credited.
+III. Decrease in expenses/losses is credited.
+IV. Decrease in assets is debited.
+Which of the statements represent correct rules under the Accounting Equation Approach?</text>
+<topic>Accounting Equation</topic>
+<option>I and IV only</option>
+<option>II and III only</option>
+<option>I, II, and III only</option>
+<option>II, III, and IV only</option>
+<answer>II and III only</answer>
+<explanation>Why (B) is correct: Statement II is correct (increase in liability = credit). Statement III is correct (decrease in expense = credit). Statement I is false (increase in revenue = credit). Statement IV is false (decrease in asset = credit). Why (A) is incorrect: Both Statement I and IV provide the reverse of the correct rules. Why (C) is incorrect: Statement I is incorrect. Why (D) is incorrect: Statement IV is incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business pays salaries of Rs. 10,000 in cash. What is the impact on the accounting equation, and which accounts are affected?</text>
+<topic>Accounting Equation</topic>
+<option>Assets decrease (Cash credited), Capital decreases (Salaries debited).</option>
+<option>Assets decrease (Salaries credited), Liabilities decrease (Cash debited).</option>
+<option>Assets increase (Cash debited), Capital decreases (Salaries credited).</option>
+<option>Assets decrease (Cash credited), Liabilities increase (Salaries debited).</option>
+<answer>Assets decrease (Cash credited), Capital decreases (Salaries debited).</answer>
+<explanation>Why (A) is correct: Payment of salaries reduces cash, so the asset account (Cash) is credited. Salary is an expense that reduces capital, so the expense account (Salaries) is debited. Why (B) is incorrect: Salaries is an expense, not an asset, and cash is an asset, not a liability. Why (C) is incorrect: Cash is decreasing, not increasing. Why (D) is incorrect: Salaries paid in cash represent an expense, not an increase in liabilities.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Business Entity Concept:
+1. The business is treated as a separate entity from its owner for accounting purposes.
+2. Capital introduced by the owner represents the owner's claim/equity in the business.
+3. Drawings made by the owner reduce the owner's capital/equity in the business.
+Which of the above statements is/are correct?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1, 2, and 3</answer>
+<explanation>The Business Entity Concept treats the business and its owner as separate entities for accounting purposes. Capital introduced by the owner represents the owner's equity/claim in the business, while drawings reduce that equity. Therefore, all three statements are correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is generally not recorded as a transaction in the books of accounts merely on its occurrence?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Payment of salary to employees</option>
+<option>Withdrawal of cash by the owner for personal use</option>
+<option>A strike by factory workers that temporarily stops production</option>
+<option>Purchase of machinery on credit</option>
+<answer>A strike by factory workers that temporarily stops production</answer>
+<explanation>A strike, by itself, does not constitute a monetary transaction that can ordinarily be recorded directly in the books. However, financial consequences arising from the strike, such as wages paid or additional costs incurred, may be recorded when they constitute accounting transactions. The other three options involve identifiable monetary transactions.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Going Concern Concept:
+Statement I: The use of historical cost for many assets is supported by the assumption that the business will continue its operations rather than being forced into immediate liquidation.
+Statement II: The Going Concern Concept assumes that the business will be liquidated in the foreseeable future.
+Choose the most appropriate answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Going concern assumes that the business will continue operating for the foreseeable future. This assumption supports the use of historical cost for many assets because assets are not generally valued as though the business were about to be liquidated. Statement II is therefore incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business incurs staff salary expense for March but pays the salary in April. Under which concept is the salary recognized as an expense of March, even though payment is made in April?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Matching Concept</option>
+<option>Cash Basis Concept</option>
+<option>Accrual Concept</option>
+<option>Periodicity Concept</option>
+<answer>Accrual Concept</answer>
+<explanation>Under the Accrual Concept, expenses are recognized in the period in which they are incurred, irrespective of when cash is paid. Therefore, salary relating to March is recognized as a March expense even if it is paid in April. The Matching Concept is also relevant because the expense is associated with the appropriate accounting period, but the specific principle concerning recognition before payment is accrual.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Historical Cost/Cost Concept:
+1. An asset acquired through purchase is initially recorded at its acquisition cost, subject to applicable accounting standards.
+2. Acquisition cost may include directly attributable costs such as transportation and installation necessary to bring the asset to the location and condition required for use.
+3. Historical cost requires an asset to be continuously revalued to its current market value.
+Which of the above statements is/are correct?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1 and 2 only</answer>
+<explanation>Purchased assets are generally initially measured at acquisition cost, subject to applicable accounting requirements. Directly attributable costs necessary to bring an asset into working condition may form part of its cost. Historical cost does not require continuous adjustment to current market value.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>According to the Dual Aspect Concept, a business purchases machinery worth ₹30,00,000 on credit from Reliable Industries. What is the immediate two-fold effect?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Increase in machinery and decrease in cash</option>
+<option>Increase in machinery and increase in owner's capital</option>
+<option>Increase in machinery and increase in creditor/liability</option>
+<option>Decrease in creditor/liability and increase in owner's capital</option>
+<answer>Increase in machinery and increase in creditor/liability</answer>
+<explanation>The purchase increases machinery, an asset, by ₹30,00,000. Since the purchase is on credit, the business also incurs an obligation to the supplier, increasing liabilities by ₹30,00,000.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding Revenue Recognition/Realisation:
+Statement I: Revenue from a credit sale is recognized only when cash is subsequently received from the customer.
+Statement II: Income such as interest or rent is recognized in accordance with the applicable recognition criteria, which may involve the passage of time or the right to receive the income.
+Which of the above statements is/are correct?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Statement I only</option>
+<option>Statement II only</option>
+<option>Both Statement I and Statement II</option>
+<option>Neither Statement I nor Statement II</option>
+<answer>Statement II only</answer>
+<explanation>Statement I is incorrect because revenue from a credit sale is not generally postponed until cash is collected. It is recognized when the applicable revenue-recognition criteria are satisfied. Statement II is correct because income such as interest and rent may be recognized over the relevant period as the right to receive it arises.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The adjustment of prepaid expenses and outstanding expenses while preparing financial statements is primarily associated with which concept?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Materiality Concept</option>
+<option>Conservatism Concept</option>
+<option>Matching Concept</option>
+<option>Consistency Concept</option>
+<answer>Matching Concept</answer>
+<explanation>The Matching Concept requires expenses relating to an accounting period to be matched with the revenue of that period. Accrual adjustments such as prepaid and outstanding expenses help determine the correct expenses attributable to the period.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which accounting principle is traditionally expressed by the idea that profits should not be anticipated, whereas probable losses should be recognized when appropriate?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Matching Concept</option>
+<option>Prudence/Conservatism Concept</option>
+<option>Realisation Concept</option>
+<option>Going Concern Concept</option>
+<answer>Prudence/Conservatism Concept</answer>
+<explanation>The Prudence or Conservatism Concept traditionally emphasizes caution in recognizing gains and losses. It does not permit deliberate understatement of assets or profits; rather, it requires appropriate recognition of probable losses and prevents premature recognition of uncertain gains.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Small-value items such as inexpensive stationery or a low-cost calculator may sometimes be charged directly to the Profit and Loss Account even though they may be usable for more than one accounting period. Which concept provides the primary justification?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Consistency Concept</option>
+<option>Materiality Concept</option>
+<option>Cost Concept</option>
+<option>Dual Aspect Concept</option>
+<answer>Materiality Concept</answer>
+<explanation>The Materiality Concept permits insignificant items to be treated in a simpler manner when their separate capitalization would not affect the decisions of users of financial statements. Thus, small-value items may be expensed rather than separately capitalized and depreciated, subject to the entity's accounting policy.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under the traditional framework of Fundamental Accounting Assumptions, identify the incorrect statement.</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Going Concern, Consistency, and Accrual are traditionally regarded as the three fundamental accounting assumptions.</option>
+<option>These assumptions are generally presumed to have been followed while preparing financial statements.</option>
+<option>When these assumptions have been followed, a specific disclosure stating their adoption is normally required.</option>
+<option>If any of these assumptions has not been followed, the fact should be appropriately disclosed.</option>
+<answer>When these assumptions have been followed, a specific disclosure stating their adoption is normally required.</answer>
+<explanation>Under the traditional framework, Going Concern, Consistency, and Accrual are presumed to have been followed unless otherwise indicated. Specific disclosure is generally required when a fundamental assumption has not been followed. Therefore, Statement C is incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Single Entry System:
+Statement I: The Single Entry System records the complete two-fold effect of every transaction.
+Statement II: In the traditional form of Single Entry System, personal accounts and a cash book are generally maintained, while complete real and nominal accounts are not maintained.
+Choose the correct answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Single Entry is an incomplete system of bookkeeping and does not record the complete dual aspect of every transaction. In its traditional form, personal accounts and cash records are generally maintained, while a complete set of real and nominal accounts is not maintained.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under which basis of accounting is a distinction made between the receipt of cash and the right to receive cash, as well as between the payment of cash and the obligation to pay cash?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Cash Basis</option>
+<option>Accrual Basis</option>
+<option>Single Entry System</option>
+<option>Double Entry System</option>
+<answer>Accrual Basis</answer>
+<explanation>The Accrual Basis recognizes transactions and events when the underlying economic activity occurs rather than merely when cash is received or paid. Thus, rights to receive and obligations to pay are recognized separately from actual cash flows.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business uses the Straight-Line Method of depreciation for its machinery. It continues to use the same method in subsequent years to ensure comparability, unless there is a justified reason for change. Which concept is being applied?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Conservatism Concept</option>
+<option>Matching Concept</option>
+<option>Consistency Concept</option>
+<option>Periodicity Concept</option>
+<answer>Consistency Concept</answer>
+<explanation>The Consistency Concept requires accounting policies and methods to be applied consistently from period to period so that financial statements remain comparable. A change may be made when justified and accounted for appropriately.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business follows the Cash Basis of accounting. It pays office rent relating to December 2019 in January 2020. In which month will the payment be recorded under the cash basis?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>December 2019</option>
+<option>January 2020</option>
+<option>March 2020</option>
+<option>Proportionately between December and January</option>
+<answer>January 2020</answer>
+<explanation>Under Cash Basis accounting, transactions are recognized when cash is actually received or paid. Since the rent is paid in January 2020, the payment is recorded in January 2020.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the fundamental accounting equation:
+Assets = Liabilities + Capital
+If a proprietor introduces ₹50,00,000 as capital into the business in cash, what is the immediate effect?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Increase in cash by ₹50,00,000 and decrease in liabilities by ₹50,00,000</option>
+<option>Increase in cash by ₹50,00,000 and increase in capital by ₹50,00,000</option>
+<option>Decrease in assets by ₹50,00,000 and increase in liabilities by ₹50,00,000</option>
+<option>Increase in liabilities by ₹50,00,000 and increase in capital by ₹50,00,000</option>
+<answer>Increase in cash by ₹50,00,000 and increase in capital by ₹50,00,000</answer>
+<explanation>The business receives ₹50,00,000 in cash, increasing assets. At the same time, the owner's capital/equity increases by ₹50,00,000. Both sides of the accounting equation therefore increase equally.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which basis of accounting is fundamental to modern financial reporting because it recognizes transactions and events when they occur rather than solely when cash is received or paid?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Accrual Basis</option>
+<option>Single Entry System</option>
+<option>Pure Cash Basis</option>
+<option>Conservatism Concept</option>
+<answer>Accrual Basis</answer>
+<explanation>The Accrual Basis recognizes the economic effects of transactions in the period to which they relate, rather than waiting for cash movement. It therefore provides a more complete picture of financial performance and position.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements:
+Statement I: Materiality is an entirely objective concept with a universally fixed numerical threshold.
+Statement II: The Matching Concept focuses exclusively on actual cash inflows and cash outflows.
+Choose the correct answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are incorrect.</answer>
+<explanation>Materiality involves judgment and depends on the nature and magnitude of an item in the circumstances; there is no single universal numerical threshold. The Matching Concept is concerned with associating relevant expenses with the revenues of the appropriate period and is based on accrual accounting, not merely cash flows.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business purchases goods worth ₹10,00,000 for cash. What is the dual effect of the transaction?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Increase in inventory and increase in liabilities</option>
+<option>Decrease in cash and decrease in capital</option>
+<option>Increase in inventory and decrease in cash</option>
+<option>Increase in expense and increase in capital</option>
+<answer>Increase in inventory and decrease in cash</answer>
+<explanation>The purchase increases inventory by ₹10,00,000 while decreasing cash by the same amount. Both are assets, so the transaction changes the composition of assets without changing total assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under the standard Indian financial year, the financial year normally extends from:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>1 January to 31 December</option>
+<option>1 July to 30 June</option>
+<option>1 April to 31 March of the following year</option>
+<option>1 October to 30 September</option>
+<answer>1 April to 31 March of the following year</answer>
+<explanation>The standard financial year in India begins on 1 April and ends on 31 March of the following year.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items:
+1. Periodic Revenue
+2. Actual Cash Inflow
+3. Matched Expenses
+4. Probable Losses
+Under the traditional Matching Concept, which expression best represents Periodic Profit?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Periodic Revenue − Actual Cash Inflow</option>
+<option>Periodic Revenue − Matched Expenses</option>
+<option>Actual Cash Inflow − Probable Losses</option>
+<option>Matched Expenses + Probable Losses</option>
+<answer>Periodic Revenue − Matched Expenses</answer>
+<explanation>Under accrual-based accounting, periodic profit is determined by matching revenues of the period with the expenses attributable to that period:
+Periodic Profit = Periodic Revenue − Matched Expenses
+Actual cash inflow is not the basis for determining periodic profit.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise earns interest, royalty, or dividend income from the use of its resources by other parties. Under the traditional Revenue Recognition/Realisation Concept, such income is generally recognized when:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>The relevant right to receive the income arises, subject to the applicable recognition criteria</option>
+<option>The owner introduces additional capital</option>
+<option>The enterprise purchases a new asset</option>
+<option>The accounting year necessarily ends</option>
+<answer>The relevant right to receive the income arises, subject to the applicable recognition criteria</answer>
+<explanation>Interest, royalty, and dividend income are forms of income arising from the use of an enterprise's resources by others. Under traditional revenue-recognition principles, they are recognized when the relevant right to receive the income arises, subject to the applicable recognition criteria.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business expenses a small amount of stationery immediately when purchased, even though some stationery remains unused at year-end. Which accounting concept can justify this treatment when the amount is insignificant?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Conservatism Concept</option>
+<option>Materiality Concept</option>
+<option>Consistency Concept</option>
+<option>Accrual Concept</option>
+<answer>Materiality Concept</answer>
+<explanation>The Materiality Concept allows insignificant items to be treated in a simplified manner. If the value of unused stationery is immaterial, maintaining a separate year-end adjustment may not provide useful information relative to the effort involved.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is a fundamental characteristic of the Double Entry System?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>It maintains only personal accounts and a cash book.</option>
+<option>Every transaction has two or more aspects, and corresponding debit and credit effects are recorded.</option>
+<option>It does not record the two-fold effect of transactions.</option>
+<option>It is used only by small businesses.</option>
+<answer>Every transaction has two or more aspects, and corresponding debit and credit effects are recorded.</answer>
+<explanation>The Double Entry System is based on the Dual Aspect Concept. Every transaction has at least two accounting effects, and corresponding debit and credit entries are recorded so that the accounting equation remains balanced.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements:
+Statement I: Accounting concepts are natural laws of the same kind as the immutable laws of physical science.
+Statement II: Accounting concepts and conventions have developed through professional practice, experience, standards, and broad consensus.
+Choose the correct answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Accounting concepts are not natural laws in the same sense as laws of physical science. They have developed through accounting practice, professional judgment, standards, and broad agreement concerning how financial information should be prepared and presented.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business recognizes a decline in the value of inventory when such a decline is required to be recognized under the applicable accounting requirements. Which traditional accounting concept is most closely associated with the cautious recognition of such losses?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Matching Concept</option>
+<option>Prudence/Conservatism Concept</option>
+<option>Historical Cost Concept</option>
+<option>Materiality Concept</option>
+<answer>Prudence/Conservatism Concept</answer>
+<explanation>The Prudence or Conservatism Concept traditionally emphasizes appropriate recognition of probable losses and avoidance of premature recognition of uncertain gains. Therefore, it is associated with recognizing declines in asset values when required.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following correctly expresses the fundamental Accounting Equation?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Liabilities = Assets + Capital</option>
+<option>Capital = Assets + Liabilities</option>
+<option>Assets = Liabilities + Capital</option>
+<option>Assets + Capital = Liabilities</option>
+<answer>Assets = Liabilities + Capital</answer>
+<explanation>The fundamental accounting equation is:
+Assets = Liabilities + Capital
+It expresses the relationship between what the business owns and the claims against those assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>According to the traditional Revenue Recognition Concept, which of the following can constitute revenue/income of an enterprise?
+1. Sale of goods and services
+2. Use by others of the enterprise's resources yielding interest, royalties, or dividends
+3. Capital introduced by the owner
+Select the correct answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>1 only</option>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1 and 2 only</answer>
+<explanation>Revenue/income may arise from the sale of goods and services and from the use of an enterprise's resources by others, such as interest, royalties, and dividends, subject to the applicable recognition requirements. Capital introduced by the owner is an equity contribution, not revenue.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise changes its depreciation method arbitrarily from Straight-Line Method to Written Down Value Method and then back again in alternate years without any valid accounting justification. Which concept is primarily being violated?</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Going Concern Concept</option>
+<option>Materiality Concept</option>
+<option>Consistency Concept</option>
+<option>Dual Aspect Concept</option>
+<answer>Consistency Concept</answer>
+<explanation>The Consistency Concept requires accounting policies and methods to be applied consistently from period to period so that financial statements remain comparable. Arbitrary changes without valid justification undermine comparability and violate the principle of consistency.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements:
+Statement I: Under the Cash Basis of accounting, revenues and expenses are generally recognized when cash is received or paid.
+Statement II: Under the Accrual Basis of accounting, transactions and events are generally recognized when they occur, rather than only when cash is received or paid.
+Choose the correct answer:</text>
+<topic>Basic Accounting Concepts</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct.</answer>
+<explanation>Both statements correctly describe the basic distinction between Cash Basis and Accrual Basis accounting. Cash Basis focuses on actual cash receipts and payments, whereas Accrual Basis recognizes transactions and events in the periods to which they relate.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
