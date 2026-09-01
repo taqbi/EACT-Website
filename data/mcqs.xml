@@ -3493,6 +3493,386 @@ Choose the correct answer:</text>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Double Entry System of Accounting:
+Statement I: It is based on the dual aspect concept, which implies every transaction has equal and opposite debit and credit entries.
+Statement II: Luca Pacioli wrote the first book on the double entry accounting system.
+Statement III: In every transaction, at least three accounts must necessarily be affected to maintain the accounting equation.
+Statement IV: The fundamental accounting equation derived from this system is Assets + Expenses = Liabilities + Capital + Income.
+Which of the above statements are correct?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1, 2, and 4 only</option>
+<option>1, 2, and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 3, and 4 only</option>
+<answer>1, 2, and 4 only</answer>
+<explanation>Why (A) is correct: Statements I, II, and IV are correct. The system ensures every debit has a corresponding credit. Luca Pacioli is credited with writing the first book on this system. The expanded accounting equation is Assets + Expenses = Liabilities + Capital + Income. Why (B) is incorrect: Statement III is incorrect because a transaction must affect at least two accounts, not necessarily three. Why (C) is incorrect: It omits Statement I, which is a fundamental truth of the double entry system. Why (D) is incorrect: It includes Statement III, which is factually incorrect regarding the minimum number of accounts affected.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following accounts is correctly classified under the Traditional Approach of accounting?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Prepaid Insurance Account – Nominal Account</option>
+<option>Outstanding Salary Account – Representative Personal Account</option>
+<option>Copyrights Account – Intangible Nominal Account</option>
+<option>Debtor Account – Real Account</option>
+<answer>Outstanding Salary Account – Representative Personal Account</answer>
+<explanation>Why (B) is correct: Under the traditional approach, accounts representing a person or a group of persons (like outstanding salary payable to employees) are classified as Representative Personal Accounts. Why (A) is incorrect: Prepaid Insurance represents a future benefit owed by a specific entity, making it a representative personal account, not a nominal account. Why (C) is incorrect: Copyrights are intangible assets, making them Intangible Real Accounts, not nominal accounts. Why (D) is incorrect: A Debtor account is a Personal Account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Modern Approach (Accounting Equation Approach) to debit and credit:
+Statement I: An increase in an asset is debited, and a decrease in a liability is credited.
+Statement II: An increase in capital is credited, and an increase in revenue/gain is credited.
+Statement III: An increase in expenses/losses is debited, and a decrease in assets is credited.
+Statement IV: A decrease in revenue/gain is debited, and a decrease in capital is debited.
+Which of the following statements is/are incorrect?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1 only</option>
+<option>2 and 3 only</option>
+<option>1 and 4 only</option>
+<option>3 and 4 only</option>
+<answer>1 only</answer>
+<explanation>Why (A) is correct: Statement I is incorrect. While an increase in an asset is indeed debited, a decrease in a liability is debited, not credited. Why (B) is incorrect: Statements II and III are entirely correct based on the modern rules of accounting. Why (C) is incorrect: Statement IV is correct (decreases in revenue and capital are debited), so it should not be identified as incorrect. Why (D) is incorrect: Both Statements III and IV are correct principles under the modern approach.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business purchased goods with a list price of Rs. 50,000 from Rohan at a 10% trade discount and a 5% cash discount. Half of the payment was made immediately by cheque to avail the cash discount. What will be the amount credited to the Discount Received Account?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Rs. 2,500</option>
+<option>Rs. 1,125</option>
+<option>Rs. 2,250</option>
+<option>Rs. 5,000</option>
+<answer>Rs. 1,125</answer>
+<explanation>Why (B) is correct: Trade discount (10% of 50,000 = 5,000) is deducted first, making the purchase value Rs. 45,000. Cash discount is only allowed on the payment made immediately. Half of Rs. 45,000 is Rs. 22,500. A 5% cash discount on Rs. 22,500 equals Rs. 1,125. Why (A) is incorrect: Rs. 2,500 is 5% of the total list price, ignoring the trade discount and the fact that only half was paid. Why (C) is incorrect: Rs. 2,250 assumes the cash discount was calculated on the entire Rs. 45,000, but only half was paid immediately. Why (D) is incorrect: Rs. 5,000 is the trade discount, which is not recorded in the books of accounts.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Journal is known as the book of original entry because transactions are recorded here first in a chronological order.
+Statement II: The Ledger is known as the book of secondary entry because transactions are posted here after completion of journal entries.
+Choose the most appropriate answer:</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</answer>
+<explanation>Why (B) is correct: Both statements are factually correct. The Journal is the primary book (original entry), and the Ledger is the secondary book (principal book). However, Statement II does not logically explain why the Journal is the book of original entry. Why (A) is incorrect: The ledger being the secondary book is a subsequent step, not the causal explanation for why the journal is the primary book. Why (C) is incorrect: Statement II is factually correct as the ledger is indeed the book of secondary entry. Why (D) is incorrect: Statement I is factually correct as the journal records daily transactions chronologically.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>How would you classify the "Adjusted Purchases Account" and what does its balance typically represent under the accounting equation approach?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Real Account; It represents an Asset.</option>
+<option>Nominal Account; It represents an Expense.</option>
+<option>Personal Account; It represents a Liability.</option>
+<option>Nominal Account; It represents Revenue.</option>
+<answer>Nominal Account; It represents an Expense.</answer>
+<explanation>Why (B) is correct: Adjusted Purchases represent the Cost of Goods Sold (Opening Stock + Net Purchases + Direct Expenses - Closing Stock). Under the traditional approach, it is a Nominal Account (Expense), and under the accounting equation approach, it is classified as an Expense. Why (A) is incorrect: Purchases and Adjusted Purchases are expenses incurred to generate revenue, not tangible real assets kept for long-term use. Why (C) is incorrect: It does not represent a person or an obligation to pay, so it is not a personal account or liability. Why (D) is incorrect: Adjusted Purchases represent the cost (expense) of the goods sold, not the revenue generated from selling them.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business proprietor withdrew cash of Rs. 10,000 from the business bank account for his son's tuition fees. What is the correct journal entry for this transaction?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Tuition Fees A/c Dr. 10,000 ; To Bank A/c 10,000</option>
+<option>Drawings A/c Dr. 10,000 ; To Cash A/c 10,000</option>
+<option>Drawings A/c Dr. 10,000 ; To Bank A/c 10,000</option>
+<option>Capital A/c Dr. 10,000 ; To Bank A/c 10,000</option>
+<answer>Drawings A/c Dr. 10,000 ; To Bank A/c 10,000</answer>
+<explanation>Why (C) is correct: Payment of personal expenses from business funds is treated as Drawings. The receiver (Proprietor/Drawings) is debited, and the giver (Bank) is credited, reducing the bank balance. Why (A) is incorrect: Tuition fees for the proprietor's son are a personal expense, not a business expense, so Tuition Fees A/c should not be debited. Why (B) is incorrect: The cash was withdrawn from the bank account, not the business cash box, so Bank A/c must be credited. Why (D) is incorrect: While drawings ultimately reduce capital, the specific account debited during the year to track these withdrawals is the Drawings A/c, which is closed to the Capital A/c at year-end.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items:
+1. Income Tax paid by a sole proprietor
+2. Life Insurance Premium paid for the proprietor
+3. Goods distributed as free samples
+Which of the above are treated as "Drawings" in the books of the business?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1 and 2 only</answer>
+<explanation>Why (A) is correct: Income tax of a sole proprietor and life insurance premium of the proprietor are personal expenses. When paid by the business, they are treated as Drawings. Why (B) is incorrect: Goods distributed as free samples are an advertisement expense for the business, not a personal withdrawal by the owner. Why (C) is incorrect: Free samples are a business expense (Advertisement A/c), not drawings. Why (D) is incorrect: Item 3 (free samples) is not a drawing, making the "All of the above" option incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A firm purchased an old machinery for Rs. 50,000 and spent Rs. 5,000 on its immediate repairs and Rs. 2,000 on its installation. In the journal entry to record this acquisition, the Machinery Account will be debited by:</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Rs. 50,000</option>
+<option>Rs. 55,000</option>
+<option>Rs. 57,000</option>
+<option>Rs. 52,000</option>
+<answer>Rs. 57,000</answer>
+<explanation>Why (C) is correct: According to the historical cost concept, all expenses incurred to bring an asset to its present location and usable condition (including immediate repairs on second-hand machinery and installation) are capitalized and added to the asset's cost. Total cost = 50,000 + 5,000 + 2,000 = 57,000. Why (A) is incorrect: It ignores the necessary capitalization of immediate repairs and installation costs. Why (B) is incorrect: It includes repairs but ignores the installation charges, which must also be capitalized. Why (D) is incorrect: It includes installation but ignores the initial repairs required to make the old machine usable.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding the rules of journalising for abnormal losses:
+Statement I: When goods are lost by fire, the "Loss by Fire A/c" is debited as it is a nominal account representing a loss.
+Statement II: The "Purchases A/c" is credited because the goods lost were originally purchased for resale, reducing the stock at cost price.
+Statement III: If the insurance company admits a full claim, the "Insurance Company A/c" is debited and "Loss by Fire A/c" is credited to cancel out the loss.
+Statement IV: The "Sales A/c" should be credited instead of the "Purchases A/c" because the goods have permanently left the business premises.
+Which of the following statements is/are incorrect?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1 and 2 only</option>
+<option>4 only</option>
+<option>3 and 4 only</option>
+<option>2 and 4 only</option>
+<answer>4 only</answer>
+<explanation>Why (B) is correct: Statement IV is incorrect. Sales A/c is only credited when goods are sold at a selling price. For abnormal losses (fire, theft), goods go out at cost price, so Purchases A/c is credited. Why (A) is incorrect: Statements I and II are technically correct procedures for recording abnormal losses. Why (C) is incorrect: Statement III is a correct accounting treatment when a claim is admitted, leaving only Statement IV as incorrect. Why (D) is incorrect: Statement II is completely correct. Purchases A/c must be credited to reduce the stock at cost.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A debtor, Mr. X, whose account was previously written off as a bad debt of Rs. 8,000, unexpectedly pays Rs. 5,000 in cash. What is the correct journal entry for this transaction?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Cash A/c Dr. 5,000 ; To Mr. X A/c 5,000</option>
+<option>Mr. X A/c Dr. 5,000 ; To Bad Debts Recovered A/c 5,000</option>
+<option>Cash A/c Dr. 5,000 ; To Bad Debts Recovered A/c 5,000</option>
+<option>Cash A/c Dr. 8,000 ; To Bad Debts Recovered A/c 8,000</option>
+<answer>Cash A/c Dr. 5,000 ; To Bad Debts Recovered A/c 5,000</answer>
+<explanation>Why (C) is correct: When a previously written-off bad debt is recovered, the personal account of the debtor no longer exists in the books. Thus, Cash A/c is debited (Real account: debit what comes in) and Bad Debts Recovered A/c is credited (Nominal account: credit all incomes and gains). Why (A) is incorrect: Mr. X's account was already closed when the bad debt was written off. Crediting him would falsely create a liability. Why (B) is incorrect: Cash is actually received, so Cash A/c must be debited, not Mr. X A/c. Why (D) is incorrect: The entry must be passed only for the actual amount recovered (Rs. 5,000), not the total original debt (Rs. 8,000).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: A Compound Journal Entry is one in which only two accounts are involved, but the amounts are unusually large.
+Statement II: In a Compound Journal Entry, either more than one account is debited, or more than one account is credited, or both.
+Choose the most appropriate answer:</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (C) is correct: Statement I is incorrect because an entry involving only two accounts (one debit, one credit) is a "Single entry" regardless of the amount. Statement II correctly defines a compound entry. Why (A) is incorrect: Statement I is factually incorrect as it defines a simple/single journal entry. Why (B) is incorrect: Statement I is false, and Statement II is the true definition of a compound entry. Why (D) is incorrect: Statement II is factually correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following accounts:
+1. Depreciation Account
+2. Bank Fixed Deposit Account
+3. Discount Allowed Account
+4. Rent Received in Advance Account
+Which of the above are classified as Nominal Accounts under the traditional approach?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1 and 3 only</option>
+<option>1, 3, and 4 only</option>
+<option>2 and 4 only</option>
+<option>1, 2, and 3 only</option>
+<answer>1 and 3 only</answer>
+<explanation>Why (A) is correct: Depreciation and Discount Allowed are expenses/losses, making them Nominal Accounts. Why (B) is incorrect: Rent Received in Advance represents an obligation to a person/entity, making it a Representative Personal Account, not a Nominal Account. Why (C) is incorrect: Bank Fixed Deposit is a Personal Account (Artificial) and Rent Received in Advance is a Representative Personal Account. Why (D) is incorrect: Bank Fixed Deposit is an Artificial Personal Account representing the bank holding the deposit.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise paid Rs. 20,000 as wages to its workers for the construction of a new office building. The accountant erroneously debited the Wages Account. What is the impact of this error on the financial classifications under the Modern Approach?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Expenses are overstated, and Assets are understated.</option>
+<option>Liabilities are overstated, and Expenses are understated.</option>
+<option>Assets are overstated, and Capital is understated.</option>
+<option>Capital is overstated, and Expenses are understated.</option>
+<answer>Expenses are overstated, and Assets are understated.</answer>
+<explanation>Why (A) is correct: Wages paid for the construction of a fixed asset (building) should be capitalized (debited to Building A/c, an Asset). Debiting Wages A/c (an Expense) overstates expenses and understates assets. Why (B) is incorrect: Liabilities are not affected; the error lies between an asset account and an expense account. Why (C) is incorrect: Assets are understated because the building's value was not increased by the wages paid. Why (D) is incorrect: Because expenses are overstated, the net profit will decrease, which actually understates Capital, not overstates it.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following scenarios violates the 'Dual Aspect Concept' of accounting?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Purchasing machinery for cash: Increases one asset and decreases another asset.</option>
+<option>Taking a bank loan: Increases an asset and increases a liability.</option>
+<option>Recognizing an outstanding expense: Increases an expense and decreases capital.</option>
+<option>Proprietor introducing capital in cash: Increases an asset and increases an expense.</option>
+<answer>Proprietor introducing capital in cash: Increases an asset and increases an expense.</answer>
+<explanation>Why (D) is correct: Introducing capital increases an asset (cash) and increases Capital/Equity, not an expense. Claiming it increases an expense violates the fundamental accounting equation (Assets = Liabilities + Capital). Why (A) is incorrect: This perfectly aligns with the dual aspect (Cash decreases, Machinery increases; total assets remain unchanged). Why (B) is incorrect: This aligns with the dual aspect (Bank balance increases, Bank Loan liability increases). Why (C) is incorrect: An outstanding expense increases a liability and decreases capital (via reduced profit), keeping the equation balanced.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is the correct journal entry to record Goods costing Rs. 15,000 given away as charity?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Charity A/c Dr. 15,000 ; To Sales A/c 15,000</option>
+<option>Purchases A/c Dr. 15,000 ; To Charity A/c 15,000</option>
+<option>Charity A/c Dr. 15,000 ; To Purchases A/c 15,000</option>
+<option>Drawings A/c Dr. 15,000 ; To Purchases A/c 15,000</option>
+<answer>Drawings A/c Dr. 15,000 ; To Purchases A/c 15,000</answer>
+<explanation>Why (D) is correct: Charity is given by owner and not the business entity so it is to be treated as drawing only. In exam, if this option is not mentioned, then only select Chairty account with this assumption that it will be adjusted with Capital at year end. Why (A) is incorrect: Sales A/c is only credited when goods are sold at a selling price to customers. Charity is not a sale. Why (B) is incorrect: The entry is reversed. Charity is an expense (should be debited), and goods are decreasing (Purchases should be credited). Why (C) is incorrect: Explanation provided in correct answer.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the "L.F." (Ledger Folio) column in a Journal:
+Statement I: It is filled at the time of entering the transaction in the journal to ensure immediate cross-referencing.
+Statement II: It records the page number of the ledger book where the respective account is posted.
+Which of the following is true?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both statements are correct.</option>
+<option>Both statements are incorrect.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (B) is correct: The L.F. column denotes the Ledger Folio (page number of the ledger). It is filled at the time of posting the transaction into the ledger, not at the exact time of initially writing the journal entry. Why (A) is incorrect: Statement I is false because the column is left blank during initial journalising and filled during the posting process. Why (C) is incorrect: Statement I is factually incorrect regarding the timing of filling the L.F. column. Why (D) is incorrect: Statement II is factually accurate; L.F. does record the ledger page number.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under the traditional approach, "Credit the giver" is a Golden Rule applicable to which of the following accounts?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Machinery Account</option>
+<option>Salary Outstanding Account</option>
+<option>Sales Account</option>
+<option>Cash Account</option>
+<answer>Salary Outstanding Account</answer>
+<explanation>Why (B) is correct: "Credit the giver" is the rule for Personal Accounts. Salary Outstanding Account is a Representative Personal Account (representing employees to whom money is owed). Why (A) is incorrect: Machinery is a Real Account; the rule is "Credit what goes out". Why (C) is incorrect: Sales is a Nominal Account; the rule is "Credit all incomes and gains". Why (D) is incorrect: Cash is a Real Account governed by the rule "Credit what goes out".</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business sells an old delivery van having a book value of Rs. 80,000 for Rs. 65,000 in cash. Identify the correct journal entry to record this transaction.</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Cash A/c Dr. 65,000 ; Loss on Sale of Asset A/c Dr. 15,000 ; To Delivery Van A/c 80,000</option>
+<option>Cash A/c Dr. 65,000 ; To Delivery Van A/c 65,000</option>
+<option>Cash A/c Dr. 65,000 ; Loss on Sale of Asset A/c Dr. 15,000 ; To Sales A/c 80,000</option>
+<option>Cash A/c Dr. 80,000 ; To Delivery Van A/c 65,000 ; To Profit on Sale A/c 15,000</option>
+<answer>Cash A/c Dr. 65,000 ; Loss on Sale of Asset A/c Dr. 15,000 ; To Delivery Van A/c 80,000</answer>
+<explanation>Why (A) is correct: Cash comes in (Debit Cash 65,000). There is a loss of 15,000 (Debit Loss on Sale - nominal account). The asset goes out (Credit Delivery Van for its full book value of 80,000). Why (B) is incorrect: It fails to remove the full book value (80,000) of the van from the books and ignores the loss. Why (C) is incorrect: Sales A/c is strictly used for the sale of goods meant for regular trade, not for fixed assets. Why (D) is incorrect: The asset was sold at a loss, not a profit, and the cash received was 65,000, not 80,000.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: All Natural Personal Accounts represent living human beings.
+Statement II: Artificial Personal Accounts represent legal entities like companies and clubs.
+Statement III: Representative Personal Accounts relate exclusively to tangible properties.
+Which of the following statements is/are incorrect?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>3 only</option>
+<option>1 and 3 only</option>
+<answer>3 only</answer>
+<explanation>Why (C) is correct: Statement III is incorrect. Representative Personal Accounts represent a person or a group of persons (e.g., prepaid insurance, outstanding salary), not tangible properties. Tangible properties fall under Tangible Real Accounts. Why (A) is incorrect: Statement I is a correct definition of Natural Personal Accounts. Why (B) is incorrect: Statement II is a correct definition of Artificial Personal Accounts. Why (D) is incorrect: Statement I is true, so "1 and 3" is an incorrect choice.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business owner provides goods worth Rs. 5,000 from the business stock for his daughter's wedding. Which account should be debited and which should be credited?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Debit: Drawings Account; Credit: Sales Account</option>
+<option>Debit: Daughter's Account; Credit: Purchases Account</option>
+<option>Debit: Drawings Account; Credit: Purchases Account</option>
+<option>Debit: Capital Account; Credit: Stock Account</option>
+<answer>Debit: Drawings Account; Credit: Purchases Account</answer>
+<explanation>Why (C) is correct: Goods taken for personal use by the proprietor are treated as Drawings (debited). Because the goods are leaving the business at cost and not as a sale, the Purchases Account is credited. Why (A) is incorrect: Sales A/c is credited only when goods are sold to customers at a selling price. Why (B) is incorrect: The daughter is not a debtor to the business. The proprietor's personal withdrawal is tracked via the Drawings Account. Why (D) is incorrect: While drawings reduce capital, standard journalising practice requires debiting the Drawings Account to track withdrawals during the year, which is later closed into the Capital Account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise receives an order for goods worth Rs. 1,00,000 along with an advance payment of Rs. 20,000 by cheque. What is the correct journal entry for receiving the advance?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Bank A/c Dr. 20,000 ; To Sales A/c 20,000</option>
+<option>Bank A/c Dr. 20,000 ; To Advance from Customer A/c 20,000</option>
+<option>Bank A/c Dr. 1,00,000 ; To Sales A/c 1,00,000</option>
+<option>No journal entry is required until the goods are delivered.</option>
+<answer>Bank A/c Dr. 20,000 ; To Advance from Customer A/c 20,000</answer>
+<explanation>Why (B) is correct: Receiving an advance creates a liability (Advance from Customer) and increases an asset (Bank). It is not treated as a sale until the ownership of the goods is transferred (revenue recognition concept). Why (A) is incorrect: Sales cannot be credited because the goods have not been delivered yet; the revenue is not realized. Why (C) is incorrect: The full order amount has not been received, nor have the goods been delivered to recognize the full sale. Why (D) is incorrect: The receipt of cash is an economic event that changes the assets and liabilities of the business and must be recorded immediately.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>According to the Modern Approach (Accounting Equation Approach), which of the following transactions results in a Debit to an Expense Account and a Credit to a Liability Account?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Rent paid in cash.</option>
+<option>Goods purchased for cash.</option>
+<option>Salary due but not yet paid.</option>
+<option>Cash withdrawn by the owner.</option>
+<answer>Salary due but not yet paid.</answer>
+<explanation>Why (C) is correct: "Salary due but not paid" is an outstanding expense. It increases the expense (Salary A/c is debited) and increases a liability (Salary Outstanding A/c is credited). Why (A) is incorrect: Rent paid in cash debits an Expense (Rent) but credits an Asset (Cash). Why (B) is incorrect: Goods purchased for cash debits an Expense (Purchases) but credits an Asset (Cash). Why (D) is incorrect: Cash withdrawn by the owner debits a Temporary Capital/Drawings account and credits an Asset (Cash).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What is the nature of the "Bad Debts Recovered Account" and what rule is applied to it when cash is received?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Personal Account; Debit the receiver.</option>
+<option>Real Account; Debit what comes in.</option>
+<option>Nominal Account; Credit all incomes and gains.</option>
+<option>Nominal Account; Debit all expenses and losses.</option>
+<answer>Nominal Account; Credit all incomes and gains.</answer>
+<explanation>Why (C) is correct: Bad Debts Recovered is an income/gain for the business. Under the traditional approach, it is a Nominal Account, and the rule "Credit all incomes and gains" dictates that it must be credited. Why (A) is incorrect: It is not a Personal Account because the debtor's account was already closed when the debt was written off. Why (B) is incorrect: While the cash received is a Real Account (debit what comes in), the Bad Debts Recovered A/c itself is a Nominal Account representing the gain. Why (D) is incorrect: Recovering a bad debt is a gain, not an expense or loss, so it is credited, not debited.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the classification of accounts:
+Statement I: Sales Tax Payable is a Personal Account under the traditional approach.
+Statement II: Sales Tax Payable is a Liability under the modern approach.
+Which of the above statements is/are correct?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Only I</option>
+<option>Only II</option>
+<option>Both I and II</option>
+<option>Neither I nor II</option>
+<answer>Both I and II</answer>
+<explanation>Why (C) is correct: Under the traditional approach, an outstanding obligation to pay taxes represents the government (a legal entity), classifying it as a Representative Personal Account. Under the modern approach, it is a Liability. Why (A) is incorrect: Statement II is also correct. Why (B) is incorrect: Statement I is also correct. Why (D) is incorrect: Both statements are factually accurate classifications.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a business deposits cash into its bank account, what is the accounting effect on the fundamental accounting equation (Assets = Liabilities + Capital)?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Assets increase and Liabilities increase.</option>
+<option>Assets decrease and Capital decreases.</option>
+<option>One Asset increases while another Asset decreases, with no change in total Assets.</option>
+<option>Liabilities decrease and Assets decrease.</option>
+<answer>One Asset increases while another Asset decreases, with no change in total Assets.</answer>
+<explanation>Why (C) is correct: Depositing cash into the bank increases the Bank balance (an asset) and decreases Cash in hand (another asset) by the exact same amount. Total assets remain unchanged, and the equation stays balanced. Why (A) is incorrect: Liabilities are not affected by moving funds between cash and bank. Why (B) is incorrect: Capital is not affected; this is not an expense, loss, or withdrawal. Why (D) is incorrect: Liabilities are not reduced unless a payment is specifically made to a creditor or lender.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Assertion (A): The amount of a trade discount is never recorded separately in the books of accounts.
+Reason (R): Trade discount is allowed by a seller to encourage early or prompt cash payment by the buyer.
+Choose the correct option:</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Both (A) and (R) are true, and (R) is the correct explanation of (A).</option>
+<option>Both (A) and (R) are true, but (R) is not the correct explanation of (A).</option>
+<option>(A) is true, but (R) is false.</option>
+<option>(A) is false, but (R) is true.</option>
+<answer>(A) is true, but (R) is false.</answer>
+<explanation>Why (C) is correct: Assertion (A) is true because trade discount is deducted from the invoice price and transactions are recorded at the net value. Reason (R) is false because a discount allowed for prompt cash payment is a "Cash Discount", not a "Trade Discount". Why (A) is incorrect: Reason (R) contains a factually incorrect definition of trade discount. Why (B) is incorrect: Reason (R) is false. Why (D) is incorrect: Assertion (A) is true; trade discount is indeed not recorded separately in the books.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business pays rent of Rs. 10,000 for the current month and Rs. 5,000 as an advance for the next month in a single transaction by cheque. Identify the correct compound journal entry.</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Rent A/c Dr. 15,000 ; To Bank A/c 15,000</option>
+<option>Rent A/c Dr. 10,000 ; Prepaid Rent A/c Dr. 5,000 ; To Bank A/c 15,000</option>
+<option>Rent A/c Dr. 10,000 ; Rent Outstanding A/c Dr. 5,000 ; To Bank A/c 15,000</option>
+<option>Prepaid Rent A/c Dr. 15,000 ; To Bank A/c 15,000</option>
+<answer>Rent A/c Dr. 10,000 ; Prepaid Rent A/c Dr. 5,000 ; To Bank A/c 15,000</answer>
+<explanation>Why (B) is correct: The rent for the current month (10,000) is a nominal expense (Debit Rent A/c). The advance payment (5,000) is an asset (Debit Prepaid Rent A/c). The total outflow is from the bank (Credit Bank A/c 15,000). Why (A) is incorrect: It incorrectly treats the entire 15,000 as a current period expense, violating the matching concept. Why (C) is incorrect: "Rent Outstanding" is a liability (rent due but not paid). Here, rent is paid in advance, which is an asset. Why (D) is incorrect: It treats the current month's rent as a prepaid asset, which is incorrect since the benefit of the 10,000 is being consumed in the current period.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If an accountant erroneously records the purchase of a printer for office use in the Purchases Account instead of the Office Equipment Account, which of the following accounting concepts/rules is primarily violated?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Debit what comes in (Real Account Rule).</option>
+<option>Debit all expenses and losses (Nominal Account Rule).</option>
+<option>Distinction between Capital and Revenue expenditure.</option>
+<option>Distinction between Asset and Liability accounts.</option>
+<answer>Distinction between Capital and Revenue expenditure.</answer>
+<explanation>Why (C) is correct: A printer for office use is a fixed asset (capital expenditure). Recording it in the Purchases Account (which is strictly for goods meant for resale) treats it as a revenue expense. This violates the capital vs. revenue distinction. Why (A) is incorrect: Both Purchases and Office Equipment can be argued to have physical presence, but the primary conceptual error is treating an asset acquisition as an expense. Why (B) is incorrect: The error is exactly that it was recorded as an expense (Purchases) instead of an asset. Why (D) is incorrect: The confusion is between an Asset and an Expense, not between an Asset and a Liability.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: A Journal is also known as a 'Day Book' because transactions are entered in the order of their occurrence (date-wise).
+Statement II: A brief explanation of the transaction written below the journal entry within brackets is called "Narration".
+Which of the statements is/are correct?</text>
+<topic>DOUBLE ENTRY SYSTEM OF ACCOUNTING, JOURNAL &amp; RULES OF JOURNALISING</topic>
+<option>Only I is correct.</option>
+<option>Only II is correct.</option>
+<option>Both I and II are correct.</option>
+<option>Neither I nor II is correct.</option>
+<answer>Both I and II are correct.</answer>
+<explanation>Why (C) is correct: Statement I is true; Journal comes from the French word "Jour" meaning "day", and it records day-to-day transactions chronologically. Statement II is also true; the narration explains the transaction. Why (A) is incorrect: Statement II is equally valid and correct. Why (B) is incorrect: Statement I is equally valid and correct. Why (D) is incorrect: Both statements correctly describe fundamental attributes of the Journal.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <question category="practice" exam="JKSSB FAA" subject="Accountancy">
 <text>A document that provides evidence of a business transaction is primarily known as a:</text>
 <topic>VOUCHER APPROACH IN ACCOUNTING</topic>
