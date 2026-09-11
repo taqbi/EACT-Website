@@ -4227,6 +4227,482 @@ Which of the above statements is/are incorrect?</text>
 
 
 
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following statements best describes the Ledger in the accounting process?</text>
+<topic>Ledger</topic>
+<option>It is the book of original entry where transactions are recorded chronologically.</option>
+<option>It is the principal book of accounts where transactions are classified and account-wise balances are determined.</option>
+<option>It is a subsidiary book used exclusively for recording credit purchases and sales.</option>
+<option>It is a financial statement prepared at the end of the year to show the profitability of the business.</option>
+<answer>It is the principal book of accounts where transactions are classified and account-wise balances are determined.</answer>
+<explanation>Why (B) is correct: The ledger is known as the principal book of accounts in which the account-wise balance of each account is determined. It groups transactions analytically by account. Why (A) is incorrect: The book of original entry where transactions are recorded chronologically is the Journal, not the Ledger. Why (C) is incorrect: Subsidiary books (like Purchases Book or Sales Book) are subdivisions of the Journal, whereas the Ledger is a book of secondary entries. Why (D) is incorrect: The Ledger is a book of accounts, not a financial statement. Financial statements (like the Profit &amp; Loss Account) are prepared using ledger balances.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Ledger:
+Statement I: The Ledger is also called the book of secondary entry because transactions are recorded here after the completion of journal entries.
+Statement II: The Ledger contains a separate record assigned to specific assets, liabilities, equity, revenues, and expenses.
+Statement III: Every transaction recorded in the Ledger must have a corresponding voucher attached directly to the Ledger page.
+Statement IV: A Ledger account is typically structured in a 'T' format with debit on the left and credit on the right.
+Which of the above statements are correct?</text>
+<topic>Ledger</topic>
+<option>1, 2, and 3 only</option>
+<option>1, 2, and 4 only</option>
+<option>2, 3, and 4 only</option>
+<option>1, 3, and 4 only</option>
+<answer>1, 2, and 4 only</answer>
+<explanation>Why (B) is correct: Statements I, II, and IV are accurate descriptions of a Ledger. It is a book of secondary entry, contains specific assigned accounts, and utilizes a 'T' format with debit on the left and credit on the right. Why (A) is incorrect: Statement III is false. Vouchers are source documents used to support initial journal entries, not physically attached directly to ledger pages. Why (C) is incorrect: It excludes Statement I, which is a fundamental characteristic of the Ledger, and includes the incorrect Statement III. Why (D) is incorrect: It incorrectly validates Statement III while omitting Statement II, which accurately defines the contents of a ledger.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What does the "J.F." column in a Ledger account stand for, and what is its purpose?</text>
+<topic>Ledger</topic>
+<option>Journal Format; it dictates the layout of the account.</option>
+<option>Journal Folio; it indicates the page number of the Journal from where the entry was transferred.</option>
+<option>Joint Folio; it links subsidiary books with the principal cash book.</option>
+<option>Journal Fact; it provides a brief narration of the transaction.</option>
+<answer>Journal Folio; it indicates the page number of the Journal from where the entry was transferred.</answer>
+<explanation>Why (B) is correct: "J.F." stands for Journal Folio. It records the page number of the Journal (or subsidiary book) from which the specific entry has been posted to the Ledger. Why (A) is incorrect: J.F. does not stand for Journal Format; the layout is standardized independently of this column. Why (C) is incorrect: It does not stand for Joint Folio, nor is it restricted to linking subsidiary books to the cash book. Why (D) is incorrect: Narration is provided in the Particulars column of the Journal, not in the J.F. column of the Ledger.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The process of transferring debit and credit items from the Journal to their respective accounts in the Ledger is known as:</text>
+<topic>Ledger</topic>
+<option>Journalising</option>
+<option>Balancing</option>
+<option>Posting</option>
+<option>Casting</option>
+<answer>Posting</answer>
+<explanation>Why (C) is correct: The process of transferring debit and credit items from the Journal to their respective accounts in the Ledger is officially termed "Posting". Why (A) is incorrect: Journalising is the act of recording transactions into the Journal for the first time. Why (B) is incorrect: Balancing is the process of equalizing the two sides of an account at the end of a period. Why (D) is incorrect: Casting refers to the mathematical process of totaling the columns of an account or book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Cash Book serves the dual role of a journal as well as a ledger.
+Statement II: If a Cash Book is maintained, there is no need to open a separate Cash Account in the general ledger.
+Choose the most appropriate answer:</text>
+<topic>Ledger</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: The Cash Book acts as a book of original entry (journal) and its balances serve directly as the Cash Account (ledger). Because it fulfills the ledger's function, a separate Cash Account in the ledger is unnecessary. Thus, Statement II naturally follows and explains the practical implication of Statement I. Why (B) is incorrect: Statement II is the direct practical outcome and explanation of the dual nature established in Statement I. Why (C) is incorrect: Statement II is factually correct. Organizations maintaining a Cash Book do not keep a duplicate Cash Account in the ledger. Why (D) is incorrect: Statement I is completely correct; the Cash Book is both a subsidiary book and a principal book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When balancing a ledger account, if the total of the debit side exceeds the total of the credit side, the difference is written on the:</text>
+<topic>Ledger</topic>
+<option>Debit side as "To Balance c/d"</option>
+<option>Credit side as "By Balance b/d"</option>
+<option>Debit side as "To Balance b/d"</option>
+<option>Credit side as "By Balance c/d"</option>
+<answer>Credit side as "By Balance c/d"</answer>
+<explanation>Why (D) is correct: When the debit side is larger, the difference is placed on the shorter (credit) side as "By Balance c/d" (carried down) to make both totals equal for the period. Why (A) is incorrect: "To Balance c/d" is used on the debit side only when the credit side is heavier (a credit balance). Why (B) is incorrect: "By Balance b/d" (brought down) is the opening entry for the next period, written below the total line on the credit side for a credit balance. Why (C) is incorrect: "To Balance b/d" is the opening entry for a debit balance in the new period, written on the debit side after the account has been balanced.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following statements regarding the balancing of ledger accounts is incorrect?</text>
+<topic>Ledger</topic>
+<option>All personal and real accounts are normally balanced at the end of the accounting period.</option>
+<option>Nominal accounts are usually balanced and their balances are carried forward to the next accounting year as "Balance b/d".</option>
+<option>A debit balance implies that the debit total was greater than the credit total before balancing.</option>
+<option>The term "c/d" means "carried down", and "b/d" means "brought down".</option>
+<answer>Nominal accounts are usually balanced and their balances are carried forward to the next accounting year as "Balance b/d".</answer>
+<explanation>Why (B) is correct: This statement is incorrect. Nominal accounts (expenses, losses, incomes, gains) are closed by transferring their totals to the Trading and Profit &amp; Loss Account; they are not balanced to carry forward to the next year. Why (A) is incorrect: Personal and real accounts (assets, liabilities, capital) are indeed balanced and carried forward to form the Balance Sheet. This statement is true. Why (C) is incorrect: This is a true statement. A debit balance means the debit side is heavier. Why (D) is incorrect: This is a true statement outlining standard accounting abbreviations.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business purchases furniture for Rs 20,000 in cash. While posting this transaction to the Furniture Account in the Ledger, what will be written in the particulars column?</text>
+<topic>Ledger</topic>
+<option>By Cash A/c</option>
+<option>To Cash A/c</option>
+<option>To Furniture A/c</option>
+<option>By Purchases A/c</option>
+<answer>To Cash A/c</answer>
+<explanation>Why (B) is correct:
+The journal entry is Furniture A/c Dr. to Cash A/c. In the Furniture Account (which is debited), the posting goes on the debit side. The prefix "To" is used on the debit side, referencing the corresponding credit account, so it is written as "To Cash A/c".
+Why (A) is incorrect:
+"By Cash A/c" would be written on the credit side of an account, which would imply the Furniture Account was credited (e.g., if furniture was sold).
+Why (C) is incorrect:
+An account never posts its own name in its particulars column.
+Why (D) is incorrect:
+Purchases A/c is used for goods meant for resale, not for fixed assets like furniture, and "By" implies a credit posting.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following accounts:
+1. Outstanding Salaries Account
+2. Bank Overdraft Account
+3. Sales Return Account
+4. Prepaid Rent Account
+Which of the above accounts will normally show a debit balance in the ledger?</text>
+<topic>Ledger</topic>
+<option>1 and 2 only</option>
+<option>3 and 4 only</option>
+<option>1, 3, and 4 only</option>
+<option>2 and 4 only</option>
+<answer>3 and 4 only</answer>
+<explanation>Why (B) is correct:
+Sales Return reduces revenue (which has a credit balance), so it holds a debit balance. Prepaid Rent is an asset, which normally holds a debit balance.
+Why (A) is incorrect:
+Outstanding Salaries (liability) and Bank Overdraft (liability) both have credit balances.
+Why (C) is incorrect:
+It incorrectly includes Outstanding Salaries, which is a representative personal account acting as a liability with a credit balance.
+Why (D) is incorrect:
+It pairs a liability (Bank Overdraft) with an asset (Prepaid Rent). Only the asset has a debit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a supplier's (creditor's) personal account in the ledger shows a debit balance at the end of the month, what does this indicate practically?</text>
+<topic>Ledger</topic>
+<option>The business owes money to the supplier.</option>
+<option>The supplier has supplied more goods on credit than the business has paid for.</option>
+<option>The business has made an advance payment or overpaid the supplier.</option>
+<option>The supplier's account has been written off as a bad debt.</option>
+<answer>The business has made an advance payment or overpaid the supplier.</answer>
+<explanation>Why (C) is correct:
+A creditor's account normally has a credit balance. If it shows a debit balance, it means the payments made to the supplier (debits) exceeded the invoices received from them (credits), indicating an overpayment or an advance payment.
+Why (A) is incorrect:
+If the business owes money, the supplier's account would show a standard credit balance.
+Why (B) is incorrect:
+If the supplier supplied more goods than paid for, their account would carry a credit balance.
+Why (D) is incorrect:
+Bad debts apply to customers (debtors) failing to pay, not to suppliers (creditors).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following formats correctly represents the columns present on one side (e.g., debit side) of a standard 'T' ledger account?</text>
+<topic>Ledger</topic>
+<option>Date, Particulars, L.F., Amount</option>
+<option>Date, Particulars, J.F., Amount</option>
+<option>Date, Voucher No., J.F., Amount</option>
+<option>Particulars, J.F., Debit Amount, Credit Amount</option>
+<answer>Date, Particulars, J.F., Amount</answer>
+<explanation>Why (B) is correct: A standard ledger account side contains four columns: Date, Particulars, Journal Folio (J.F.), and Amount. Why (A) is incorrect: L.F. (Ledger Folio) is a column found in the Journal, not the Ledger. Why (C) is incorrect: Voucher No. is typically found in subsidiary books or the Cash Book, not in a general ledger 'T' account format. Why (D) is incorrect: This blends both sides. A single side of a 'T' account only has one amount column.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the classification and balancing of ledger accounts:
+Statement I: An account with an equal total of debits and credits is considered a closed account with a nil balance.
+Statement II: A debit balance in a nominal account signifies an income or gain.
+Statement III: The capital account usually shows a credit balance and is carried down to the next period.
+Statement IV: The Trial Balance is prepared directly from the source documents before posting to the ledger.
+Which of the following statements is/are incorrect?</text>
+<topic>Ledger</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>2, 3, and 4 only</option>
+<option>4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are incorrect. A debit balance in a nominal account represents an expense or loss, not an income/gain. The Trial Balance is prepared from ledger balances, not source documents. Why (A) is incorrect: Statements I and III are correct accounting principles. An account with equal sides has a nil balance, and capital has a credit balance. Why (C) is incorrect: Statement III is a true statement, so it should not be selected as an incorrect option. Why (D) is incorrect: While IV is incorrect, Statement II is also incorrect and must be included.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business records a compound journal entry where Salary A/c is debited with Rs 10,000, Rent A/c is debited with Rs 5,000, and Cash A/c is credited with Rs 15,000. How will this be posted in the Cash Account?</text>
+<topic>Ledger</topic>
+<option>On the debit side: "To Salary A/c 10,000" and "To Rent A/c 5,000".</option>
+<option>On the credit side: "By Sundries 15,000" or separately "By Salary A/c 10,000" and "By Rent A/c 5,000".</option>
+<option>On the credit side: "By Cash A/c 15,000".</option>
+<option>On the debit side: "To Cash A/c 15,000".</option>
+<answer>On the credit side: "By Sundries 15,000" or separately "By Salary A/c 10,000" and "By Rent A/c 5,000".</answer>
+<explanation>Why (B) is correct:
+The Cash A/c is credited. Therefore, postings will appear on the credit side. The particulars column will show the corresponding debit accounts ("By Salary A/c 10,000" and "By Rent A/c 5,000"), accurately distributing the Rs 15,000 total.
+Why (A) is incorrect:
+This posts the amounts to the debit side, which would imply cash was received, not paid.
+Why (C) is incorrect:
+An account never posts its own name in its particulars column.
+Why (D) is incorrect:
+This incorrectly posts to the debit side and uses its own account name.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Real accounts are the accounts related to assets and properties.
+Statement II: Nominal accounts are related to individuals, firms, and companies.
+Choose the most appropriate answer:</text>
+<topic>Ledger</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (B) is correct:
+Statement I is correct as Real accounts relate to assets (tangible and intangible). Statement II is incorrect because accounts related to individuals and firms are Personal accounts, whereas Nominal accounts relate to expenses, losses, incomes, and gains.
+Why (A) is incorrect:
+Statement II incorrectly defines Nominal accounts.
+Why (C) is incorrect:
+Statement I is completely accurate.
+Why (D) is incorrect:
+Statement I is true, so they cannot both be incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>While balancing a ledger account at the end of the year, an accountant finds that the total of the credit side is Rs 50,000 and the total of the debit side is Rs 35,000. What is the balancing figure, and what kind of balance does this account have?</text>
+<topic>Ledger</topic>
+<option>Rs 15,000 written on the debit side as "To Balance c/d"; it is a credit balance.</option>
+<option>Rs 15,000 written on the credit side as "By Balance c/d"; it is a debit balance.</option>
+<option>Rs 15,000 written on the debit side as "To Balance b/d"; it is a debit balance.</option>
+<option>Rs 15,000 written on the credit side as "By Balance b/d"; it is a credit balance.</option>
+<answer>Rs 15,000 written on the debit side as "To Balance c/d"; it is a credit balance.</answer>
+<explanation>Why (A) is correct: Since the credit side is heavier (50,000 &gt; 35,000), the account has a credit balance. To equalize the two sides, the difference of 15,000 is placed on the shorter debit side as "To Balance c/d". Why (B) is incorrect: Writing it on the credit side would mean the debit side was heavier, which contradicts the numbers given. Why (C) is incorrect: "To Balance b/d" is an opening entry written after balancing, not the balancing entry itself, and this scenario is a credit balance, not a debit balance. Why (D) is incorrect: "By Balance b/d" is the correct opening entry for the next period, but it is not the balancing figure used to close the current period.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following errors is most likely to be revealed when extracting ledger balances into a Trial Balance?</text>
+<topic>Ledger</topic>
+<option>An entire transaction was omitted from the Journal.</option>
+<option>A rent payment of Rs 5,000 was debited to the Salary Account instead of the Rent Account.</option>
+<option>A cash sale of Rs 2,000 was recorded as Rs 2,000 in the Cash book but posted as Rs 200 in the Sales Account in the ledger.</option>
+<option>A credit purchase of Rs 10,000 was recorded in the Sales Day Book by mistake.</option>
+<answer>A cash sale of Rs 2,000 was recorded as Rs 2,000 in the Cash book but posted as Rs 200 in the Sales Account in the ledger.</answer>
+<explanation>Why (C) is correct:
+Posting different amounts to the debit and credit sides (Rs 2,000 debit in Cash, Rs 200 credit in Sales) destroys the dual aspect equality, causing the Trial Balance to disagree.
+Why (A) is incorrect:
+Complete omission affects both debit and credit equally, so the Trial Balance will still tally.
+Why (B) is incorrect:
+This is an error of principle/commission affecting the correct account, but since a debit of 5,000 was still made, the Trial Balance will tally.
+Why (D) is incorrect:
+Recording a purchase in the sales book will create equal (though incorrect) debits and credits, meaning the Trial Balance will still tally.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding ledger subdivisions:
+Statement I: A general ledger contains all accounts, but in large businesses, personal accounts of trade debtors are kept in a separate Debtors Ledger.
+Statement II: Keeping a separate Creditors Ledger eliminates the need to record credit purchases in the subsidiary books.
+Statement III: The general ledger typically maintains a "Debtors Control Account" to summarize the balances of the individual debtor accounts kept in the subsidiary ledger.
+Which of the above statements are correct?</text>
+<topic>Ledger</topic>
+<option>1 and 2 only</option>
+<option>1 and 3 only</option>
+<option>2 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1 and 3 only</answer>
+<explanation>Why (B) is correct:
+Statements I and III are correct. Large businesses subdivide ledgers to handle volume, maintaining specific Debtors/Creditors ledgers and using control accounts in the General Ledger to summarize them.
+Why (A) is incorrect:
+Statement II is false. Maintaining a Creditors Ledger relies heavily on the Purchases Day Book (a subsidiary book) for its source postings.
+Why (C) is incorrect:
+It includes the false Statement II and omits the correct Statement I.
+Why (D) is incorrect:
+Statement II is fundamentally incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a ledger account is defined as having a "Nil Balance", what does this mean in practical terms?</text>
+<topic>Ledger</topic>
+<option>The account represents a fixed asset whose value has been fully depreciated.</option>
+<option>The sum of the debit entries exactly equals the sum of the credit entries.</option>
+<option>The account has not had any transactions recorded in the current financial year.</option>
+<option>The account is a nominal account that has been carried forward incorrectly.</option>
+<answer>The sum of the debit entries exactly equals the sum of the credit entries.</answer>
+<explanation>Why (B) is correct:
+A "Nil Balance" means the account is closed or settled, which occurs strictly when the total of the debit side equals the total of the credit side.
+Why (A) is incorrect:
+A fully depreciated fixed asset might have a nil book value, but "Nil Balance" is a general ledger term applicable to any settled account, not exclusively fixed assets.
+Why (C) is incorrect:
+An account with no transactions could still have a non-zero opening balance (e.g., a bank account carrying forward a balance from last year).
+Why (D) is incorrect:
+Nominal accounts are closed at year-end, but a "Nil Balance" is not restricted to errors in nominal accounts; it represents a mathematical equality.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An entry is made in the Journal:
+Machinery A/c Dr. 50,000
+To Bank A/c 50,000
+When posting to the Bank Account in the ledger, how will the entry be recorded?</text>
+<topic>Ledger</topic>
+<option>On the debit side, Particulars: "To Machinery A/c", Amount: 50,000</option>
+<option>On the credit side, Particulars: "To Bank A/c", Amount: 50,000</option>
+<option>On the credit side, Particulars: "By Machinery A/c", Amount: 50,000</option>
+<option>On the debit side, Particulars: "By Bank A/c", Amount: 50,000</option>
+<answer>On the credit side, Particulars: "By Machinery A/c", Amount: 50,000</answer>
+<explanation>Why (C) is correct:
+The Bank Account is credited in the journal entry. Therefore, the posting is done on the credit side of the Bank Account. The particulars column reflects the corresponding debit account, prefixed with "By". Hence, "By Machinery A/c".
+Why (A) is incorrect:
+This would post the entry to the debit side, implying money was received instead of paid.
+Why (B) is incorrect:
+An account does not use its own name in the particulars column, and "To" is used on the debit side.
+Why (D) is incorrect:
+This uses the account's own name and incorrectly posts it on the debit side.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following sets of accounts usually requires balancing at the end of an accounting period to be carried forward as opening balances to the next period?</text>
+<topic>Ledger</topic>
+<option>Salary A/c, Rent A/c, Discount Allowed A/c</option>
+<option>Cash A/c, Capital A/c, Machinery A/c</option>
+<option>Sales A/c, Purchases A/c, Carriage Inward A/c</option>
+<option>Bad Debts A/c, Commission Received A/c, Interest Paid A/c</option>
+<answer>Cash A/c, Capital A/c, Machinery A/c</answer>
+<explanation>Why (B) is correct:
+Cash (Real), Capital (Personal), and Machinery (Real) are Balance Sheet items. Their balances are carried forward to the next year.
+Why (A) is incorrect:
+These are all Nominal accounts (expenses) that are closed to the Profit &amp; Loss Account at year-end.
+Why (C) is incorrect:
+These are Nominal accounts closed to the Trading Account.
+Why (D) is incorrect:
+These are Nominal accounts (losses, incomes, expenses) closed to the Profit &amp; Loss Account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When preparing the ledger, a business owner observes an account labeled "Prepaid Insurance Account". Under the modern approach of accounting, what is the nature of this account, and what is its normal balance?</text>
+<topic>Ledger</topic>
+<option>Liability account; Credit balance</option>
+<option>Asset account; Debit balance</option>
+<option>Expense account; Debit balance</option>
+<option>Revenue account; Credit balance</option>
+<answer>Asset account; Debit balance</answer>
+<explanation>Why (B) is correct:
+Prepaid Insurance represents a benefit paid for in advance but not yet consumed. It is classified as an Asset and carries a normal Debit balance.
+Why (A) is incorrect:
+It is not a liability. Outstanding expenses are liabilities, not prepaid ones.
+Why (C) is incorrect:
+Insurance expense is a nominal account, but "Prepaid Insurance" is an unexpired cost, hence an asset, not an expense.
+Why (D) is incorrect:
+It is not a revenue account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The primary purpose of a ledger is to classify transactions into individual accounts to determine their net effect.
+Statement II: The Trial Balance is an account within the ledger that summarizes all the other accounts.
+Choose the most appropriate answer:</text>
+<topic>Ledger</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I correctly identifies the purpose of the ledger (classification and net balancing). Statement II is incorrect because a Trial Balance is a separate statement, not an account within the ledger. Why (A) &amp; (B) are incorrect: Statement II is factually wrong. The Trial Balance is an independent statement prepared to verify arithmetical accuracy, not a ledger account. Why (D) is incorrect: Statement I is entirely accurate.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Mr. X started a business and introduced Rs 5,00,000 as Capital. In the ledger, the Capital Account will show:</text>
+<topic>Ledger</topic>
+<option>A debit balance because capital is an asset for the business.</option>
+<option>A credit balance because capital represents the liability of the business towards the owner.</option>
+<option>A debit balance because cash comes into the business.</option>
+<option>A nil balance until the end of the year when profit is added.</option>
+<answer>A credit balance because capital represents the liability of the business towards the owner.</answer>
+<explanation>Why (B) is correct:
+According to the business entity concept, the business and the owner are separate. Capital is a liability of the business to the owner, and under the rules of debit and credit, liabilities and equity (capital) have a credit balance.
+Why (A) is incorrect:
+Capital is not an asset. The cash introduced is the asset (which will have a debit balance).
+Why (C) is incorrect:
+While cash comes in and is debited, the Capital account itself is credited.
+Why (D) is incorrect:
+The capital account immediately holds a credit balance of Rs 5,00,000 upon introduction.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the posting of an opening entry in the Ledger:
+Statement I: Assets are posted on the debit side as "To Balance b/d".
+Statement II: Liabilities are posted on the credit side as "By Balance b/d".
+Statement III: Nominal accounts from the previous year are brought forward using the opening entry.
+Statement IV: The opening entry is required to bring forward balances from the previous year's balance sheet into the new year's ledger.
+Which of the following statements is/are incorrect?</text>
+<topic>Ledger</topic>
+<option>1 and 2 only</option>
+<option>3 only</option>
+<option>4 only</option>
+<option>2 and 4 only</option>
+<answer>3 only</answer>
+<explanation>Why (B) is correct:
+Statement III is incorrect. Nominal accounts are closed at the end of the previous year by transferring to Trading and P&amp;L accounts. They do not carry balances forward and are not part of the opening entry.
+Why (A) is incorrect:
+Statements I and II are correct. Assets carry debit balances and liabilities carry credit balances, posted as opening balances (b/d).
+Why (C) is incorrect:
+Statement IV is a factually correct definition of the purpose of an opening entry.
+Why (D) is incorrect:
+Statements II and IV are both correct accounting principles.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a "Wages Account" shows a total debit of Rs 40,000 and a total credit of Rs 0, how will this account be treated at the end of the financial year?</text>
+<topic>Ledger</topic>
+<option>It will be balanced by writing "By Balance c/d Rs 40,000" and carried to the next year.</option>
+<option>It will be closed by writing "By Trading A/c Rs 40,000" to transfer the balance.</option>
+<option>It will be closed by writing "By Profit &amp; Loss A/c Rs 40,000" to transfer the balance.</option>
+<option>It will be balanced by writing "To Balance c/d Rs 40,000".</option>
+<answer>It will be closed by writing "By Trading A/c Rs 40,000" to transfer the balance.</answer>
+<explanation>Why (B) is correct:
+Wages is a direct expense (Nominal Account). At the end of the year, direct expenses are closed by transferring their balance to the debit side of the Trading Account. Hence, the Wages account is credited with "By Trading A/c" to close it.
+Why (A) is incorrect:
+Nominal accounts are not balanced and carried down (c/d) to the next year.
+Why (C) is incorrect:
+Wages are direct expenses transferred to the Trading Account, whereas indirect expenses go to the Profit &amp; Loss Account.
+Why (D) is incorrect:
+This would increase the debit balance rather than balancing/closing it.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Assertion (A): Ledger is known as the book of secondary entry.
+Reason (R): Transactions are first recorded in the journal and subsequently posted to the respective accounts in the ledger.
+Choose the correct option:</text>
+<topic>Ledger</topic>
+<option>Both A and R are true, and R is the correct explanation of A.</option>
+<option>Both A and R are true, but R is not the correct explanation of A.</option>
+<option>A is true, but R is false.</option>
+<option>A is false, but R is true.</option>
+<answer>Both A and R are true, and R is the correct explanation of A.</answer>
+<explanation>Why (A) is correct: The Ledger is indeed the book of secondary entry (Assertion is true) because the original recording happens in the Journal, after which the data is sorted and transferred (posted) to the Ledger. The Reason provides the exact logical explanation for the Assertion. Why (B) is incorrect: The Reason directly explains why the Ledger is called "secondary". Why (C) is incorrect: The Reason is a factual statement. Why (D) is incorrect: The Assertion is also true.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In a manual accounting system, what is the sequence of recording a transaction involving credit sales to a customer?</text>
+<topic>Ledger</topic>
+<option>Customer's Ledger Account -&gt; Sales Day Book -&gt; General Ledger (Sales A/c)</option>
+<option>Sales Day Book -&gt; Customer's Ledger Account -&gt; General Ledger (Sales A/c)</option>
+<option>General Ledger -&gt; Sales Day Book -&gt; Customer's Ledger Account</option>
+<option>Journal Proper -&gt; Sales Day Book -&gt; Customer's Ledger Account</option>
+<answer>Sales Day Book -&gt; Customer's Ledger Account -&gt; General Ledger (Sales A/c)</answer>
+<explanation>Why (B) is correct:
+Credit sales are first recorded in the book of original entry, which is the Sales Day Book. From there, individual customer accounts (Personal A/c) are debited in the subsidiary ledger, and the periodic total of the Sales Day Book is credited to the Sales Account in the General Ledger.
+Why (A) is incorrect:
+Original entry (Sales Day Book) must happen before posting to the ledger.
+Why (C) is incorrect:
+Ledger posting cannot precede original entry in the day book.
+Why (D) is incorrect:
+Credit sales of goods are not recorded in the Journal Proper; they are specifically recorded in the Sales Day Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A trial balance is extracted and the "Provision for Depreciation Account" shows a balance of Rs 50,000. In the ledger, this account must have had a:</text>
+<topic>Ledger</topic>
+<option>Debit balance, because depreciation is a loss to the business.</option>
+<option>Credit balance, because provisions are created out of profits and act as a contra-asset or liability.</option>
+<option>Debit balance, because it represents an accumulated asset value.</option>
+<option>Nil balance, because non-cash provisions do not appear in the trial balance.</option>
+<answer>Credit balance, because provisions are created out of profits and act as a contra-asset or liability.</answer>
+<explanation>Why (B) is correct:
+Provision for Depreciation is a contra-asset account (it offsets the asset's value) and carries a normal credit balance, similar to a liability. It represents accumulated depreciation charged over the years.
+Why (A) is incorrect:
+"Depreciation Account" (the expense) has a debit balance, but the "Provision for Depreciation" (accumulated depreciation) has a credit balance.
+Why (C) is incorrect:
+It reduces asset value; it is not an asset itself and does not have a debit balance.
+Why (D) is incorrect:
+Provisions are recorded in the ledger and absolutely appear in the trial balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements about the 'Ledger':
+Statement I: A ledger account must have a corresponding credit for every debit recorded within the same account.
+Statement II: The General Ledger contains control accounts for Debtors and Creditors if subsidiary ledgers are maintained.
+Statement III: The Ledger is an analytical record of transactions.
+Statement IV: The balancing of nominal accounts is optional.
+Which of the following statements is/are correct?</text>
+<topic>Ledger</topic>
+<option>2 and 3 only</option>
+<option>1, 2, and 3 only</option>
+<option>3 and 4 only</option>
+<option>1 and 4 only</option>
+<answer>2 and 3 only</answer>
+<explanation>Why (A) is correct:
+Statement II is correct; control accounts summarize subsidiary ledgers. Statement III is correct; the ledger classifies data analytically by account.
+Why (B) is incorrect:
+Statement I is false. Dual aspect means every debit in one account has a corresponding credit in another account, not within the same account.
+Why (C) &amp; (D) are incorrect:
+Statement IV is false. Nominal accounts are closed (not balanced for carry-forward), and this rule is mandatory, not optional. Statement I is also false.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>You are reviewing the "Discount Received Account" in the general ledger. At the end of the month, the total of the credit side is Rs 3,000 and there are no entries on the debit side. How should this account be dealt with?</text>
+<topic>Ledger</topic>
+<option>Carry down the balance by writing "By Balance c/d 3,000".</option>
+<option>Carry down the balance by writing "To Balance c/d 3,000".</option>
+<option>Close the account by writing Rs 3,000 in the debit side as "To Profit &amp; Loss A/c".</option>
+<option>Close the account by writing Rs 3,000 in the credit side as "By Profit &amp; Loss A/c".</option>
+<answer>Close the account by writing Rs 3,000 in the debit side as "To Profit &amp; Loss A/c".</answer>
+<explanation>Why (C) is correct:
+Discount Received is an indirect income (Nominal Account). To close it, its credit balance must be offset by a debit entry. Thus, "To Profit &amp; Loss A/c" is written on the debit side for Rs 3,000 to close the account, effectively transferring the income to the credit side of the P&amp;L Account.
+Why (A) &amp; (B) are incorrect:
+Nominal accounts are not balanced (c/d) to be carried forward to the next year.
+Why (D) is incorrect:
+The account already has a credit total. Adding another credit ("By P&amp;L") would not close the account; it requires a balancing debit.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
