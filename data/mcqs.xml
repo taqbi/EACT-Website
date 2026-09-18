@@ -4703,6 +4703,736 @@ The account already has a credit total. Adding another credit ("By P&amp;L") wou
 
 
 
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is classified as a principal book of accounts rather than a subsidiary book?</text>
+<topic>Subsidiary Books</topic>
+<option>Purchases Day Book</option>
+<option>Journal Proper</option>
+<option>Ledger</option>
+<option>Bills Receivable Book</option>
+<answer>Ledger</answer>
+<explanation>Why (C) is correct: The ledger is known as a principal book because it contains the final account-wise balances transferred from subsidiary books. Why (A) is incorrect: The Purchases Day Book is a subsidiary book of original entry. Why (B) is incorrect: The Journal Proper is a subsidiary book used for residual transactions. Why (D) is incorrect: The Bills Receivable Book is a subdivision of the journal, making it a subsidiary book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business dealing in electronics purchases a delivery van on credit. In which book of original entry will this transaction be recorded?</text>
+<topic>Subsidiary Books</topic>
+<option>Purchases Day Book</option>
+<option>Cash Book</option>
+<option>Sales Day Book</option>
+<option>Journal Proper</option>
+<answer>Journal Proper</answer>
+<explanation>Why (D) is correct: The Journal Proper records transactions that cannot be entered in other subsidiary books, such as the purchase of assets on credit. Why (A) is incorrect: The Purchases Day Book is restricted to the credit purchase of goods (inventory) only, not fixed assets. Why (B) is incorrect: The Cash Book only records cash receipts and payments; this is a credit transaction. Why (C) is incorrect: The Sales Day Book is for credit sales of goods, not purchases.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding subsidiary books:
+Statement I: They are collectively known as books of secondary entry.
+Statement II: They help avoid the clerical work of recording all transactions in a single journal.
+Statement III: The total of the purchases journal is posted to the credit side of the purchase account.
+Statement IV: Cash purchases of goods are not entered in the Purchases Day Book.
+Which of the above statements are correct?</text>
+<topic>Subsidiary Books</topic>
+<option>1 and 2 only</option>
+<option>2 and 4 only</option>
+<option>1, 2 and 4 only</option>
+<option>2, 3 and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are correct. Subsidiary books reduce clerical work, and cash purchases are recorded in the Cash Book, not the Purchases Day Book. Why (A) is incorrect: Statement I is wrong; subsidiary books are books of prime/original entry, while the ledger is the book of secondary entry. Why (C) is incorrect: Statement I is incorrect, making this combination invalid. Why (D) is incorrect: Statement III is wrong; the total of the purchase journal is posted to the debit side of the purchase account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A furniture dealer sold chairs on credit to a local school. Where should this transaction be initially recorded?</text>
+<topic>Subsidiary Books</topic>
+<option>Journal Proper</option>
+<option>Sales Day Book</option>
+<option>Cash Book</option>
+<option>Purchases Day Book</option>
+<answer>Sales Day Book</answer>
+<explanation>Why (B) is correct: For a furniture dealer, chairs are "goods." Credit sales of goods are recorded in the Sales Day Book. Why (A) is incorrect: The Journal Proper is used for credit sales of assets, but here the chairs are inventory (goods) for the dealer. Why (C) is incorrect: The transaction was on credit, so it cannot be recorded in the Cash Book. Why (D) is incorrect: This is a sale, not a purchase of goods.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Cash Book:
+Statement I: It serves dual roles as both a journal and a ledger.
+Statement II: It records both cash and credit transactions.
+Statement III: A Single Column Cash Book can never show a credit balance.
+Statement IV: It is considered a book of original entry.
+Which of the following statements is/are incorrect?</text>
+<topic>Subsidiary Books</topic>
+<option>2 only</option>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>4 only</option>
+<answer>2 only</answer>
+<explanation>Why (A) is correct: Statement II is incorrect because the Cash Book strictly records only cash receipts and payments, never credit transactions. Why (B) is incorrect: Statements I and III are factually correct. Why (C) is incorrect: Statement IV is correct; it is a book of original entry, so identifying it as incorrect is wrong. Why (D) is incorrect: Statement IV is correct, making this option invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which documentary evidence is typically sent by a buyer to a seller when returning goods purchased on credit?</text>
+<topic>Subsidiary Books</topic>
+<option>Credit Note</option>
+<option>Debit Note</option>
+<option>Invoice</option>
+<option>Pay-in-slip</option>
+<answer>Debit Note</answer>
+<explanation>Why (B) is correct: When a buyer returns goods, they prepare a debit note stating the amount owed by the seller to adjust the account. Why (A) is incorrect: A credit note is prepared by the seller who receives back the goods from the customer. Why (C) is incorrect: An invoice is issued at the time of the original credit sale, not for returns. Why (D) is incorrect: A pay-in-slip is used when depositing cash or cheques into a bank.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Opening entries to bring down balances from the previous accounting year are recorded in the Journal Proper.
+Statement II: The Journal Proper is exclusively used for recording cash adjustments.
+Choose the most appropriate answer:</text>
+<topic>Subsidiary Books</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is correct as opening entries are recorded in the Journal Proper. Statement II is incorrect because cash adjustments go to the Cash Book; the Journal Proper handles non-cash residual entries. Why (A) is incorrect: Statement II is fundamentally incorrect. Why (B) is incorrect: Statement II is incorrect. Why (D) is incorrect: Statement I is correct, not incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In the Purchases Returns Book, a business records:</text>
+<topic>Subsidiary Books</topic>
+<option>Goods returned by customers who bought on credit.</option>
+<option>Goods returned to suppliers which were purchased for cash.</option>
+<option>Goods returned to suppliers which were purchased on credit.</option>
+<option>Assets returned to suppliers due to defects.</option>
+<answer>Goods returned to suppliers which were purchased on credit.</answer>
+<explanation>Why (C) is correct: The Purchases Returns Book specifically records goods returned to suppliers when they were originally purchased on credit. Why (A) is incorrect: Goods returned by customers are recorded in the Sales Returns Book. Why (B) is incorrect: Returns of goods bought for cash are usually settled immediately via cash and recorded in the Cash Book. Why (D) is incorrect: Returns of assets are recorded in the Journal Proper, not the Purchases Returns Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is NOT a benefit of subdividing the journal into subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>It eliminates the need to maintain a ledger entirely.</option>
+<option>It divides clerical work among multiple employees.</option>
+<option>It groups transactions of a similar nature together.</option>
+<option>It makes the recording process more convenient for large concerns.</option>
+<answer>It eliminates the need to maintain a ledger entirely.</answer>
+<explanation>Why (A) is correct: Subdividing the journal does not eliminate the ledger. The ledger must still be prepared using the totals from the subsidiary books. Why (B) is incorrect: Division of labor is a primary benefit of using multiple subsidiary books. Why (C) is incorrect: Grouping similar transactions (like all credit sales) is a core feature of subsidiary books. Why (D) is incorrect: It is highly convenient for large concerns to prevent a single journal from becoming unmanageable.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Sales Returns Book:
+Statement I: It records the return of goods by customers sold on credit.
+Statement II: A debit note is issued by the seller to acknowledge the return.
+Statement III: Its periodic total is posted to the credit side of the Sales Return Account.
+Statement IV: It does not record the return of fixed assets sold on credit.
+Which of the above statements are correct?</text>
+<topic>Subsidiary Books</topic>
+<option>1 and 4 only</option>
+<option>1, 2 and 4 only</option>
+<option>2 and 3 only</option>
+<option>1, 3 and 4 only</option>
+<answer>1 and 4 only</answer>
+<explanation>Why (A) is correct: Statement I is correct. Statement IV is correct as asset returns go to the Journal Proper. Why (B) is incorrect: Statement II is wrong; the seller prepares a credit note when receiving returned goods. Why (C) is incorrect: Statements II and III are wrong. The total of Sales Returns is debited to the Sales Return Account. Why (D) is incorrect: Statement III is incorrect because Sales Returns carry a debit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business proprietor withdraws goods from the inventory for personal use. In which subsidiary book will this transaction be recorded?</text>
+<topic>Subsidiary Books</topic>
+<option>Purchases Day Book</option>
+<option>Sales Day Book</option>
+<option>Cash Book</option>
+<option>Journal Proper</option>
+<answer>Journal Proper</answer>
+<explanation>Why (D) is correct: Withdrawal of goods by the proprietor for personal use is not a credit purchase or credit sale of goods and does not involve cash. Therefore, it is generally recorded through the Journal Proper as a drawings entry. Why (A) is incorrect: The Purchases Day Book is strictly for purchasing goods on credit from suppliers. Why (B) is incorrect: The Sales Day Book is for selling goods on credit to customers. Why (C) is incorrect: No cash is involved in the withdrawal of goods, so it bypasses the Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a firm accepts a Bill of Exchange drawn by its creditor for goods purchased on credit, the firm will record this acceptance in the:</text>
+<topic>Subsidiary Books</topic>
+<option>Bills Receivable Book</option>
+<option>Purchases Day Book</option>
+<option>Bills Payable Book</option>
+<option>Cash Book</option>
+<answer>Bills Payable Book</answer>
+<explanation>Why (C) is correct: The Bills Payable Book is used for recording the acceptances given to suppliers for credit purchases. Why (A) is incorrect: Bills Receivable Book records bills received from customers. Why (B) is incorrect: The initial credit purchase was in the Purchases Day Book; the subsequent acceptance of the bill goes to the Bills Payable Book. Why (D) is incorrect: Accepting a bill does not involve immediate cash outflow, so it is not recorded in the Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Trade discount allowed to a customer is strictly recorded in a separate column in the Sales Day Book.
+Statement II: Trade discount is deducted from the list price and only the net amount is recorded in the subsidiary books.
+Choose the most appropriate answer:</text>
+<topic>Subsidiary Books</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (D) is correct: Statement I is incorrect because trade discount is not recorded in the books of accounts at all; only the net amount after deduction is recorded (Statement II is correct). Why (A) is incorrect: Statement I is factually false. Why (B) is incorrect: Statement I is incorrect. Why (C) is incorrect: Statement I is incorrect, and Statement II is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the correct posting procedure for the periodic total of the Purchases Returns Book.</text>
+<topic>Subsidiary Books</topic>
+<option>Debited to the Purchases Returns Account in the Ledger.</option>
+<option>Credited to the Purchases Returns Account in the Ledger.</option>
+<option>Debited to the individual suppliers' accounts.</option>
+<option>Credited to the Purchases Account in the Ledger.</option>
+<answer>Credited to the Purchases Returns Account in the Ledger.</answer>
+<explanation>Why (B) is correct:
+The periodic total of the Purchases Returns Book is posted to the credit of the Purchases Returns (Returns Outwards) Account. Individual suppliers' accounts are debited separately with the respective amounts.
+Why (A) is incorrect:
+Debiting it would incorrectly increase the expense/asset balance.
+Why (C) is incorrect:
+Individual suppliers are debited daily/individually, not as a periodic total. The question asks about the periodic total.
+Why (D) is incorrect:
+It is posted to a separate Purchases Returns Account, not directly credited to the Purchases Account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Journal Proper:
+Statement I: It records outstanding expenses at the end of the year.
+Statement II: It records cash sales of fixed assets.
+Statement III: It is used for rectification of errors.
+Statement IV: It records depreciation charged on machinery.
+Which of the following statements is/are incorrect?</text>
+<topic>Subsidiary Books</topic>
+<option>2 only</option>
+<option>1 and 3 only</option>
+<option>4 only</option>
+<option>2 and 4 only</option>
+<answer>2 only</answer>
+<explanation>Why (A) is correct: Where a Cash Book is maintained, cash transactions, including the cash sale of a fixed asset, are recorded in the Cash Book rather than the Journal Proper. Why (B) is incorrect: Statements I and III represent correct uses of the Journal Proper. Why (C) is incorrect: Statement IV is correct as depreciation is a non-cash adjustment recorded in the Journal Proper. Why (D) is incorrect: Statement IV is correct, so it should not be listed as incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business receives a promissory note from a customer to settle an outstanding credit balance. Which subsidiary book will capture this?</text>
+<topic>Subsidiary Books</topic>
+<option>Sales Day Book</option>
+<option>Journal Proper</option>
+<option>Bills Payable Book</option>
+<option>Bills Receivable Book</option>
+<answer>Bills Receivable Book</answer>
+<explanation>Why (D) is correct: The Bills Receivable Book is meant specifically for recording bills or promissory notes received from customers. Why (A) is incorrect: The Sales Day Book records only the initial credit sale of goods, not the subsequent settlement via a bill. Why (B) is incorrect: While it could technically go to Journal Proper if no Bills book is maintained, standard practice with subsidiary books dictates using the Bills Receivable Book. Why (C) is incorrect: Bills Payable is for acceptances given to suppliers, not received from customers.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The primary purpose of the Sales Day Book is to verify the arithmetical accuracy of ledger accounts.
+Statement II: The Trial Balance serves the purpose of verifying arithmetical accuracy, while the Sales Day Book records credit sales of goods.
+Choose the most appropriate answer:</text>
+<topic>Subsidiary Books</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (D) is correct: Statement I is incorrect because verifying arithmetical accuracy is the objective of the Trial Balance, not the Sales Day Book. Statement II correctly defines the roles of both. Why (A) is incorrect: Statement I is incorrect. Why (B) is incorrect: Statement I is incorrect. Why (C) is incorrect: Statement I is incorrect, and Statement II is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If goods are purchased on credit from Mr. X, the transaction is entered in the Purchases Book. How is the posting made to the ledger?</text>
+<topic>Subsidiary Books</topic>
+<option>The total is debited to Mr. X's account.</option>
+<option>The individual amount is credited to Mr. X's account.</option>
+<option>The individual amount is debited to Mr. X's account.</option>
+<option>The total is credited to the Purchases account.</option>
+<answer>The individual amount is credited to Mr. X's account.</answer>
+<explanation>Why (B) is correct: In the ledger, the individual creditor's account (Mr. X) must be credited to show the liability incurred. Why (A) is incorrect: Mr. X is a creditor, so his account must be credited, not debited. Also, individual amounts are posted to personal accounts, not the total. Why (C) is incorrect: Debiting Mr. X's account would imply he is a debtor or receiving a payment, which is false. Why (D) is incorrect: The total of the Purchases Book is debited to the Purchases Account, not credited.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following scenarios will NOT be recorded in any of the primary subsidiary books (Purchases, Sales, Returns, or Bills books), assuming the firm maintains all standard subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>Return of goods by a credit customer.</option>
+<option>Credit purchase of office stationery for internal use by a garment retailer.</option>
+<option>Issuing a promissory note to a supplier.</option>
+<option>Selling garments on credit to a wholesaler.</option>
+<answer>Credit purchase of office stationery for internal use by a garment retailer.</answer>
+<explanation>Why (B) is correct: Office stationery for a garment retailer is not "goods" meant for resale. Thus, a credit purchase of stationery goes to the Journal Proper, not the Purchases Book. Why (A) is incorrect: Recorded in the Sales Returns Book. Why (C) is incorrect: Recorded in the Bills Payable Book. Why (D) is incorrect: Recorded in the Sales Day Book as garments are "goods" for this retailer.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Ledger:
+Statement I: It is classified as a book of secondary entry.
+Statement II: It contains only real and nominal accounts, while personal accounts are kept in subsidiary books.
+Statement III: Balances from the ledger are used to prepare the trial balance.
+Statement IV: The ledger is prepared based on the entries in the subsidiary books.
+Which of the following statements is/are incorrect?</text>
+<topic>Subsidiary Books</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>3 and 4 only</option>
+<option>2 and 3 only</option>
+<answer>2 only</answer>
+<explanation>Why (B) is correct: Statement II is incorrect. The ledger is the principal book and contains all sets of accounts, including personal, real, and nominal accounts. Why (A) is incorrect: Statement I is true; the ledger is a book of secondary entry. Why (C) is incorrect: Statements III and IV are entirely correct. Why (D) is incorrect: Statement III is correct, making this option invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a firm receives a credit note from a supplier, it indicates that:</text>
+<topic>Subsidiary Books</topic>
+<option>The firm's account has been debited by the supplier.</option>
+<option>The firm has successfully returned goods to the supplier, and the supplier has reduced the firm's liability.</option>
+<option>The firm must record a credit sale in the Sales Day Book.</option>
+<option>The firm has issued a bill payable to the supplier.</option>
+<answer>The firm has successfully returned goods to the supplier, and the supplier has reduced the firm's liability.</answer>
+<explanation>Why (B) is correct: A credit note from a supplier means the supplier has credited the firm's account in their books, acknowledging the return of goods and reducing the firm's debt. Why (A) is incorrect: If the supplier sent a debit note, it would mean the supplier is debiting the firm's account (increasing debt). A credit note means they are crediting the account. Why (C) is incorrect: This relates to purchase returns, not credit sales. Why (D) is incorrect: Issuing a bill payable generates an entry in the Bills Payable Book, not a credit note for returns.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Cash sales are not entered in the Sales Day Book.
+Statement II: The Sales Day Book records credit sales of goods and facilitates posting to the accounts of individual debtors and the Sales Account.
+Choose the most appropriate answer:</text>
+<topic>Subsidiary Books</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: Cash sales go to the Cash Book. The logical reason they are omitted from the Sales Day Book is that the Sales Day Book exclusively tracks credit sales of goods (Statement II explains Statement I). Why (B) is incorrect: Statement II logically explains the exclusion mentioned in Statement I. Why (C) is incorrect: Statement II is a correct definition of the book's purpose. Why (D) is incorrect: Statement I is factually correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a business fails to maintain a Journal Proper, which of the following transactions would become impossible to record using only the other specific subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>Payment of wages by cheque.</option>
+<option>Adjusting entry for prepaid insurance at year-end.</option>
+<option>Receiving a cheque from a debtor.</option>
+<option>Selling goods on credit.</option>
+<answer>Adjusting entry for prepaid insurance at year-end.</answer>
+<explanation>Why (B) is correct: Adjusting entries for prepaid expenses do not involve immediate cash flow, nor do they involve credit purchases/sales of goods, making the Journal Proper the only place for them. Why (A) is incorrect: Payment of wages by cheque is recorded in the Cash Book (bank column). Why (C) is incorrect: Receiving a cheque is recorded in the Cash Book. Why (D) is incorrect: Selling goods on credit is recorded in the Sales Day Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following practical difficulties is reduced by maintaining subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>Compensating errors of the same amount in unrelated accounts.</option>
+<option>Errors of principle in classifying expenditure.</option>
+<option>Overcrowding of the main journal and difficulty in tracing similar transactions.</option>
+<option>Complete omission of a transaction from the books.</option>
+<answer>Overcrowding of the main journal and difficulty in tracing similar transactions.</answer>
+<explanation>Why (C) is correct: Subsidiary books classify transactions by nature (e.g., all credit purchases together), which directly prevents the main journal from becoming cluttered and simplifies tracing specific types of transactions. Why (A) is incorrect: Subsidiary books do not automatically prevent compensating errors. Why (B) is incorrect: Errors of principle can still easily occur in subsidiary books (e.g., entering asset purchases in the Purchases Book). Why (D) is incorrect: Complete omission is not prevented merely by the existence of subsidiary books.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the classification of documents:
+Statement I: An invoice received from a supplier acts as the source document for the Purchases Day Book.
+Statement II: A copy of the invoice sent to a customer acts as the source document for the Sales Day Book.
+Statement III: A debit note sent to a supplier is the source document for the Sales Returns Book.
+Statement IV: The pay-in-slip is the source document for bank deposits in the Cash Book.
+Which of the following statements is/are incorrect?</text>
+<topic>Subsidiary Books</topic>
+<option>1 and 2 only</option>
+<option>3 only</option>
+<option>3 and 4 only</option>
+<option>4 only</option>
+<answer>3 only</answer>
+<explanation>Why (B) is correct: Statement III is incorrect. A debit note sent to a supplier is the source document for the Purchases Returns Book, not the Sales Returns Book. Why (A) is incorrect: Statements I and II are correct standard procedures. Why (C) is incorrect: Statement IV is correct as pay-in-slips document bank deposits. Why (D) is incorrect: Statement IV is correct, so it shouldn't be selected as incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A trader buys raw materials for Rs. 10,000 on credit and machinery for Rs. 50,000 on credit from the same supplier. How will this be recorded in the subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>Rs. 60,000 in the Purchases Day Book.</option>
+<option>Rs. 10,000 in the Purchases Day Book and Rs. 50,000 in the Journal Proper.</option>
+<option>Rs. 60,000 in the Journal Proper.</option>
+<option>Rs. 10,000 in the Cash Book and Rs. 50,000 in the Journal Proper.</option>
+<answer>Rs. 10,000 in the Purchases Day Book and Rs. 50,000 in the Journal Proper.</answer>
+<explanation>Why (B) is correct: The raw material (goods) purchased on credit goes to the Purchases Day Book. The machinery (asset) purchased on credit goes to the Journal Proper. Why (A) is incorrect: Assets purchased on credit cannot be recorded in the Purchases Day Book. Why (C) is incorrect: The raw materials must be recorded in the Purchases Day Book, not the Journal Proper. Why (D) is incorrect: These are credit transactions, so the Cash Book is not involved.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Purchases Returns Book is also known as the Return Outwards Book.
+Statement II: The periodic total of the Return Outwards Book is debited to the Return Outwards account.
+Choose the most appropriate answer:</text>
+<topic>Subsidiary Books</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct:
+Statement I is correct; purchases returns are goods going out, hence "Return Outwards". Statement II is incorrect because the total of Return Outwards is credited to the account (it represents a reduction in expense/purchase).
+Why (A) is incorrect:
+Statement II is factually incorrect.
+Why (B) is incorrect:
+Statement II is incorrect.
+Why (D) is incorrect:
+Statement I is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What is the primary function of the "L.F." (Ledger Folio) column in subsidiary books?</text>
+<topic>Subsidiary Books</topic>
+<option>To record the date the transaction occurred.</option>
+<option>To record the specific discount allowed or received.</option>
+<option>To provide a cross-reference to the page number of the ledger where the entry is posted.</option>
+<option>To track the voucher number associated with the transaction.</option>
+<answer>To provide a cross-reference to the page number of the ledger where the entry is posted.</answer>
+<explanation>Why (C) is correct: The L.F. (Ledger Folio) column in subsidiary books and journals holds the page number of the ledger to which the entry has been posted, allowing for easy cross-referencing and verification. Why (A) is incorrect: Dates are recorded in the 'Date' column. Why (B) is incorrect: Discounts are recorded in the 'Amount' or specific 'Discount' columns. Why (D) is incorrect: Voucher numbers are recorded in the 'V.N.' (Voucher Number) column.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following balances is extracted directly from a subsidiary book to be placed in the Trial Balance?</text>
+<topic>Subsidiary Books</topic>
+<option>Total of the Purchases Day Book</option>
+<option>Total of the Sales Returns Book</option>
+<option>Balance of the Cash Book</option>
+<option>Total of the Journal Proper</option>
+<answer>Balance of the Cash Book</answer>
+<explanation>Why (C) is correct: The Cash Book functions as both a journal and a ledger account. Its balance (Cash and Bank) is taken directly to the Trial Balance without opening separate Cash/Bank accounts in the ledger. Why (A) is incorrect: The total of the Purchases Day Book must first be posted to the Purchases Account in the ledger, and the ledger account balance goes to the Trial Balance. Why (B) is incorrect: Must be posted to the Sales Returns Account in the ledger first. Why (D) is incorrect: The Journal Proper does not have a single "total balance" that acts as an account; its individual entries are posted to respective ledger accounts.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the integration of subsidiary books and the ledger:
+Statement I: Individual credit sales are posted to the debit of respective customer accounts in the ledger.
+Statement II: The periodic total of the Sales Day Book is posted to the credit of the Sales Account in the ledger.
+Statement III: Subsidiary books eliminate the need for double-entry bookkeeping.
+Statement IV: The Journal Proper is a book of secondary entry.
+Which of the above statements are correct?</text>
+<topic>Subsidiary Books</topic>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1, 2 and 4 only</option>
+<option>3 and 4 only</option>
+<answer>1 and 2 only</answer>
+<explanation>Why (A) is correct: Statements I and II correctly describe the dual posting process from the Sales Day Book to complete the double-entry requirement. Why (B) is incorrect: Statement III is false; subsidiary books are merely a practical application of double-entry, not a replacement for it. Why (C) is incorrect: Statement IV is false; the Journal Proper is a subsidiary book (prime entry), not secondary. Why (D) is incorrect: Both Statements III and IV are incorrect.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Cash Book:
+Statement I: It serves as a subsidiary book because cash transactions are straightaway recorded in it from source documents.
+Statement II: It serves as a principal book because it acts as the cash account and bank account, and its balances are directly entered in the trial balance.
+Statement III: A firm maintaining a Cash Book does not need to open a separate Cash Account in the ledger.
+Statement IV: The Cash Book records both cash and credit transactions to provide a complete picture of liquidity.
+Which of the above statements are correct?</text>
+<topic>CASH BOOK</topic>
+<option>1 and 2 only</option>
+<option>1, 2 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2, 3 and 4</option>
+<answer>1, 2 and 3 only</answer>
+<explanation>Why (B) is correct: Statements I, II, and III are correct. The Cash Book serves a dual role as a journal (subsidiary book) because transactions are recorded for the first time from source documents. It also acts as a ledger (principal book) because it serves as the cash and bank accounts, eliminating the need for a separate Cash Account in the ledger. Why (A) is incorrect: It excludes Statement III, which is a correct and fundamental feature of the Cash Book. Why (C) is incorrect: It includes Statement IV, which is entirely false, and misses Statements I and III. Why (D) is incorrect: It includes Statement IV. The Cash Book records only cash transactions, not credit transactions.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following transactions will result in a "Contra Entry" in a Triple Column Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>Cash withdrawn from the bank for the personal use of the proprietor.</option>
+<option>Cash received from a debtor and deposited into the bank on the same day.</option>
+<option>Cash withdrawn from the bank for office use.</option>
+<option>Payment made to a creditor by cheque.</option>
+<answer>Cash withdrawn from the bank for office use.</answer>
+<explanation>Why (C) is correct: A contra entry occurs when a transaction affects both the cash and bank columns of the Cash Book simultaneously. Withdrawing cash from the bank for office use increases cash in hand (Debit side, Cash column) and decreases bank balance (Credit side, Bank column). Why (A) is incorrect: Cash withdrawn for personal use is recorded as Drawings. It is credited to the bank column but debited to the Drawings account in the ledger, not the cash column. Why (B) is incorrect: This is directly recorded on the receipts (debit) side in the Bank column. It does not affect the Cash column. Why (D) is incorrect: Payment by cheque is recorded on the payment (credit) side in the Bank column and posted to the creditor's account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Assertion (Statement I): A Single Column Cash Book recording only cash transactions can never show a credit balance.
+Reason (Statement II): A business cannot pay out more cash than it actually has available in hand.
+Choose the most appropriate answer:</text>
+<topic>CASH BOOK</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: A Single Column Cash Book records only cash receipts and payments. It can never have a credit balance because physical cash payments cannot exceed physical cash receipts. The reason logically explains the assertion. Why (B) is incorrect: Statement II directly explains the physical limitation that prevents a credit balance in the cash column. Why (C) is incorrect: Statement II is factually correct in the context of physical cash handling. Why (D) is incorrect: Statement I is a fundamental characteristic of the Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A cheque of Rs. 5,000 is received from a customer, Mr. A, on 10th May but is not deposited into the bank until 15th May. How should this receipt ideally be recorded in a Triple Column Cash Book on 10th May, assuming the standard accounting practice mentioned in your reference?</text>
+<topic>CASH BOOK</topic>
+<option>It should not be recorded in the Cash Book until 15th May.</option>
+<option>It should be recorded on the debit side in the Bank column on 10th May.</option>
+<option>It should be recorded in the Journal Proper on 10th May.</option>
+<option>It should be recorded on the debit side in the Cash column on 10th May.</option>
+<answer>It should be recorded on the debit side in the Cash column on 10th May.</answer>
+<explanation>Why (D) is correct: According to the specific note on Cash Books, if initially cheques received are not sent to the bank on the same day, they are entered in the cash column. When subsequently sent to the bank, a contra entry is passed. Why (A) is incorrect: The transaction has occurred and must be recorded on the date of receipt to maintain chronological accuracy. Why (B) is incorrect: Entering it in the Bank column on 10th May would incorrectly inflate the bank balance before the cheque is actually deposited. Why (C) is incorrect: While some modern systems use Journal Proper for cheques in hand, standard traditional practice as specified treats it as a cash receipt initially.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the discount columns in a Double or Triple Column Cash Book:
+Statement I: The discount column on the debit side records discount allowed, which is an expense.
+Statement II: The discount column on the credit side records discount received, which is an income.
+Statement III: At the end of the accounting period, the discount columns are balanced just like the cash and bank columns, and the net balance is carried forward.
+Statement IV: The total of the debit discount column is posted to the debit side of the Discount Allowed account in the ledger.
+Which of the following statements is/are incorrect?</text>
+<topic>CASH BOOK</topic>
+<option>3 only</option>
+<option>1 and 2 only</option>
+<option>3 and 4 only</option>
+<option>4 only</option>
+<answer>3 only</answer>
+<explanation>Why (A) is correct: Statement III is incorrect. Discount columns are purely memorandum columns designed to capture data. They are totalled, not balanced against each other, because Discount Allowed (expense) and Discount Received (income) are separate ledger accounts. Why (B) is incorrect: Statements I and II are technically accurate. Discount allowed (for prompt payment) is recorded on the debit side with cash receipts, and discount received on the credit side with payments. Why (C) is incorrect: Statement IV is correct. The total of the discount allowed column is posted directly to the debit side of the ledger account. Why (D) is incorrect: Statement IV is a correct statement regarding the ledger posting procedure for discount columns.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Mr. X maintains a Petty Cash Book under the imprest system. The imprest amount is set at Rs. 5,000. During the month of July, the petty cashier spent Rs. 1,200 on postage, Rs. 800 on stationery, and Rs. 1,500 on travelling. What amount will the main cashier reimburse to the petty cashier at the beginning of August to restore the imprest?</text>
+<topic>CASH BOOK</topic>
+<option>Rs. 5,000</option>
+<option>Rs. 3,500</option>
+<option>Rs. 1,500</option>
+<option>Rs. 8,500</option>
+<answer>Rs. 3,500</answer>
+<explanation>Why (B) is correct: Under the imprest system, the petty cashier is reimbursed the exact amount spent during the period to restore the balance back to the fixed imprest amount. Total spent = 1,200 + 800 + 1,500 = Rs. 3,500. Why (A) is incorrect: Reimbursing Rs. 5,000 would increase the petty cash balance to Rs. 6,500 (1,500 remaining + 5,000), violating the fixed imprest limit. Why (C) is incorrect: Rs. 1,500 is the unspent balance remaining with the petty cashier, not the reimbursement amount. Why (D) is incorrect: This is the sum of the imprest and the expenses, which has no logical basis in this accounting system.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following errors will cause a disagreement between the Cash Book bank balance and the Pass Book balance, but will NOT require an adjusting entry in the Cash Book before preparing the Bank Reconciliation Statement?</text>
+<topic>CASH BOOK</topic>
+<option>Bank charges debited by the bank without intimation.</option>
+<option>A cheque issued to a creditor but not yet presented for payment.</option>
+<option>Interest credited by the bank but not recorded in the Cash Book.</option>
+<option>A customer directly deposited cash into the firm's bank account.</option>
+<answer>A cheque issued to a creditor but not yet presented for payment.</answer>
+<explanation>Why (B) is correct: A cheque issued but not presented is a timing difference. The Cash Book was correctly credited when the cheque was issued. No error or omission exists in the Cash Book, so no adjustment is needed; it is simply listed in the Bank Reconciliation Statement. Why (A) is incorrect: Bank charges are an omission in the Cash Book and must be adjusted (credited) before final reconciliation. Why (C) is incorrect: Interest allowed by the bank is an unrecorded receipt in the Cash Book and must be adjusted (debited). Why (D) is incorrect: A direct deposit is an unrecorded receipt in the Cash Book and must be adjusted (debited).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: A Double Column Cash Book can be prepared with either Cash and Discount columns or Cash and Bank columns.
+Statement II: If a Double Column Cash Book has Cash and Bank columns, it cannot record contra entries.
+Choose the most appropriate answer:</text>
+<topic>CASH BOOK</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (B) is correct: Statement I is correct; a double column cash book can feature Cash &amp; Discount or Cash &amp; Bank columns. Statement II is incorrect because if the book contains both Cash and Bank columns, contra entries (like depositing cash into the bank) must be recorded in it. Why (A) is incorrect: Statement II is false, as explained above. Why (C) is incorrect: Statement I is explicitly true based on standard accounting practices. Why (D) is incorrect: Statement I is true, so both cannot be incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a trader deposits a cheque received from a customer into the bank on the same day it is received, how is it recorded in a Triple Column Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>Debit side, Cash column.</option>
+<option>Credit side, Bank column.</option>
+<option>Debit side, Bank column.</option>
+<option>As a Contra Entry.</option>
+<answer>Debit side, Bank column.</answer>
+<explanation>Why (C) is correct: When a cheque is received and deposited on the same day, it is treated directly as a bank receipt. Therefore, it is recorded on the receipts (debit) side in the Bank column. Why (A) is incorrect: It is only entered in the cash column if it is kept in hand and not deposited on the same day. Why (B) is incorrect: The credit side is for payments. Receiving a cheque increases the bank balance. Why (D) is incorrect: A contra entry is required only if the cheque was previously recorded in the cash column and is later deposited into the bank.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is an accurate classification of the Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>It is solely a subsidiary book because ledger accounts are still required for Cash and Bank.</option>
+<option>It is solely a principal book because it forms part of the double-entry system.</option>
+<option>It is neither a subsidiary nor a principal book, but rather a memorandum record.</option>
+<option>It is both a subsidiary book and a principal book.</option>
+<answer>It is both a subsidiary book and a principal book.</answer>
+<explanation>Why (D) is correct: The Cash Book is a book of original entry (subsidiary book) because transactions are first recorded here from source documents. It is also a principal book (ledger) because it serves as the Cash and Bank accounts, and its balances are taken directly to the Trial Balance. Why (A) is incorrect: The Cash Book eliminates the need for separate Cash and Bank accounts in the ledger. Why (B) is incorrect: It is not solely a principal book; it also serves the function of a journal (subsidiary book). Why (C) is incorrect: The Cash Book is a formal part of the double-entry accounting system, not merely a memorandum.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the letter 'C' in the Ledger Folio (L.F.) column of a Cash Book:
+Statement I: It indicates a Contra Entry.
+Statement II: It signifies that the transaction has been posted to the respective ledger accounts.
+Statement III: It indicates that no further posting is required for this specific line item in the ledger.
+Statement IV: It is used when cash is withdrawn from the bank for personal use.
+Which of the following statements is/are incorrect?</text>
+<topic>CASH BOOK</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>4 only</option>
+<option>2 and 3 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are incorrect. Statement II is wrong because 'C' means the double-entry is complete within the Cash Book itself, so NO posting to the ledger is needed. Statement IV is wrong because cash withdrawn for personal use is Drawings, not a contra entry. Why (A) is incorrect: Statements I and III are correct descriptions of a contra entry. Why (C) is incorrect: It misses Statement II, which is also a fundamentally incorrect statement regarding the mechanics of contra entries. Why (D) is incorrect: Statement III is correct, so it should not be identified as an incorrect statement.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under the imprest system of petty cash, which of the following statements is correct?</text>
+<topic>CASH BOOK</topic>
+<option>The petty cashier is given a fresh fixed amount every day, irrespective of expenses incurred.</option>
+<option>The petty cashier is reimbursed with the amount spent during the period so that the imprest amount is restored.</option>
+<option>The petty cashier transfers the entire petty cash balance to the Chief Cashier at the end of each month.</option>
+<option>The imprest amount is increased automatically whenever petty expenses increase.</option>
+<answer>The petty cashier is reimbursed with the amount spent during the period so that the imprest amount is restored.</answer>
+<explanation>Under the imprest system, a fixed amount is provided to the petty cashier. At the end of the period, the amount spent is reimbursed so that the petty cash balance is restored to the original imprest amount.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the debit side of the Bank column in a Triple Column Cash Book totals Rs. 50,000 and the credit side totals Rs. 65,000, what does the resulting balance indicate and how is it carried forward?</text>
+<topic>CASH BOOK</topic>
+<option>Rs. 15,000 Debit balance, representing Cash at Bank; carried forward as "To Balance b/d".</option>
+<option>Rs. 15,000 Credit balance, representing Bank Overdraft; carried forward as "By Balance b/d".</option>
+<option>Rs. 15,000 Credit balance, representing Bank Overdraft; carried forward as "To Balance b/d" on the debit side.</option>
+<option>Rs. 15,000 Debit balance, representing an error since bank columns cannot have a credit balance.</option>
+<answer>Rs. 15,000 Credit balance, representing Bank Overdraft; carried forward as "By Balance b/d".</answer>
+<explanation>Why (B) is correct: Payments (Credit, 65,000) exceeding Receipts (Debit, 50,000) result in a credit balance of Rs. 15,000. This represents a Bank Overdraft. It is balanced by writing "To Balance c/d" on the debit side and is brought down to the next period on the credit side as "By Balance b/d". Why (A) is incorrect: It describes a debit balance, but here payments exceed receipts. Why (C) is incorrect: A credit balance is brought down (b/d) on the credit side, not the debit side. Why (D) is incorrect: Unlike the cash column, the bank column CAN have a credit balance because a business can utilize an overdraft facility.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following transactions will be recorded on the credit side of a Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>Rent due, but not yet paid.</option>
+<option>Goods purchased for cash.</option>
+<option>Interest credited by the bank in the passbook, assuming unadjusted cash book.</option>
+<option>Capital introduced by the owner in cash.</option>
+<answer>Goods purchased for cash.</answer>
+<explanation>Why (B) is correct: The credit side of the Cash Book records all cash payments. Purchasing goods for cash is an immediate outflow of cash and is recorded on the credit side. Why (A) is incorrect: Rent due but not paid is a non-cash transaction (outstanding expense) and is recorded in the Journal Proper, not the Cash Book. Why (C) is incorrect: Interest credited by the bank is an income/receipt. Once identified, it is recorded on the debit (receipts) side of the Cash Book. Why (D) is incorrect: Capital introduced brings cash into the business, so it is recorded on the debit (receipts) side.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: In a Triple Column Cash Book, a cash discount allowed to a customer for early payment is recorded on the debit side.
+Statement II: The logic for Statement I is that discount allowed is a gain to the business and follows the nominal account rule of crediting gains.
+Choose the most appropriate answer:</text>
+<topic>CASH BOOK</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is correct; discount allowed is recorded on the debit side alongside the cash/cheque receipt. Statement II is incorrect because discount allowed is an expense/loss to the business, not a gain. It is recorded on the debit side precisely because the rule for nominal accounts is "Debit all expenses and losses". Why (A) and (B) are incorrect: Statement II is fundamentally flawed regarding accounting principles. Why (D) is incorrect: Statement I is a factual representation of how a Triple Column Cash Book operates.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A cheque received from a debtor, Mohan, for Rs. 10,000 was deposited into the bank and recorded in the Cash Book. Later, the bank returned the cheque dishonoured. What is the correct accounting treatment in the Triple Column Cash Book upon receiving the dishonour notice?</text>
+<topic>CASH BOOK</topic>
+<option>Debit the Bank column with Rs. 10,000.</option>
+<option>Debit the Cash column and Credit the Bank column as a Contra entry.</option>
+<option>Credit the Bank column with Rs. 10,000 and write "By Mohan".</option>
+<option>Delete the original entry from the debit side of the Cash Book.</option>
+<answer>Credit the Bank column with Rs. 10,000 and write "By Mohan".</answer>
+<explanation>Why (C) is correct: When a cheque is dishonoured, the original receipt entry (which debited the bank column) must be reversed. This is done by recording a payment/reversal on the credit side of the Bank column, restoring the debtor's (Mohan's) balance. Why (A) is incorrect: Debiting the Bank column would imply receiving the money again, doubling the error. Why (B) is incorrect: A dishonoured cheque is not a cash withdrawal, so no contra entry involving the physical cash column is made. Why (D) is incorrect: In accounting, historical entries are never simply deleted or erased. Errors or reversals require an offsetting entry.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is NOT a purpose of maintaining a Petty Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>To prevent the main Cash Book from being overburdened with numerous small transactions.</option>
+<option>To save the time and effort of the Chief Cashier.</option>
+<option>To record minor incomes like sale of old newspapers or scrap.</option>
+<option>To exercise better control over small, repetitive expenses like postage and stationery.</option>
+<answer>To record minor incomes like sale of old newspapers or scrap.</answer>
+<explanation>Why (C) is correct: The Petty Cash Book is maintained specifically to record petty expenses. Incomes, even small ones, are typically deposited directly to the main cashier and recorded in the main Cash Book to ensure control over receipts. Why (A) is incorrect: This is a primary benefit; it keeps the main cash book uncluttered. Why (B) is incorrect: Delegating minor payments to a petty cashier saves the Chief Cashier's time. Why (D) is incorrect: Categorization in analytical petty cash books allows for excellent control over these expenses.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding the preparation and balancing of a Cash Book:</text>
+<topic>CASH BOOK</topic>
+<option>The Cash column of a Cash Book will normally show a debit balance or a nil balance.</option>
+<option>The Bank column of a Cash Book can show either a debit balance or a credit balance.</option>
+<option>The total of the Discount Allowed column is posted to the credit side of the Discount Allowed Account in the Ledger.</option>
+<option>If the initial balance is an overdraft, it is brought down on the credit side as "By Balance b/d".</option>
+<answer>The total of the Discount Allowed column is posted to the credit side of the Discount Allowed Account in the Ledger.</answer>
+<explanation>Why (C) is correct (because it is the incorrect statement): Discount Allowed is an expense (Nominal Account). Therefore, the total of the Discount Allowed column (from the debit side of the Cash Book) is posted to the debit side of the Discount Allowed Account in the general ledger. Why (A) is incorrect (as a choice): The cash column strictly records physical cash, which cannot be negative. Why (B) is incorrect (as a choice): Banks allow overdrafts, so the bank balance can be negative (credit). Why (D) is incorrect (as a choice): An overdraft is a liability, which inherently has a credit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business purchased goods worth Rs. 20,000 from Shyam and paid immediately by cheque, availing a cash discount of 5%. How will this be recorded in the Triple Column Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>Credit Bank column Rs. 20,000; Debit Discount column Rs. 1,000.</option>
+<option>Credit Bank column Rs. 19,000; Credit Discount column Rs. 1,000.</option>
+<option>Debit Bank column Rs. 19,000; Debit Discount column Rs. 1,000.</option>
+<option>Credit Cash column Rs. 19,000; Credit Discount column Rs. 1,000.</option>
+<answer>Credit Bank column Rs. 19,000; Credit Discount column Rs. 1,000.</answer>
+<explanation>Why (B) is correct: Payment implies an outflow, recorded on the credit side. The net payment is Rs. 19,000 (20,000 - 5%). This goes to the Bank column (since paid by cheque). The Rs. 1,000 saved is Discount Received, recorded in the Discount column on the credit side. Why (A) is incorrect: It overstates the bank payment and puts the discount on the wrong side (treating it as an expense). Why (C) is incorrect: This treats the transaction as a receipt rather than a payment. Why (D) is incorrect: The payment was made by cheque, so the Bank column must be used, not the Cash column.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Assertion (Statement I): If a cheque is received from a customer and endorsed to a creditor on the very same day, it may not be recorded in the bank column of the Cash Book.
+Reason (Statement II): Endorsing a cheque means transferring the instrument directly to a third party, thereby bypassing the business's bank account entirely.
+Choose the most appropriate answer:</text>
+<topic>CASH BOOK</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: If a cheque is received and immediately endorsed (transferred) to a creditor, it never enters the firm's bank account. Therefore, it is not recorded in the bank column. Instead, it is typically treated via the Journal Proper, or entered as a cash receipt and immediate cash payment. The reason accurately explains the mechanical reality of the transaction. Why (B) is incorrect: Statement II is the exact mechanical reason why Statement I is true. Why (C) is incorrect: Statement II is factually correct. Why (D) is incorrect: Statement I is a standard exception in Cash Book accounting.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items:
+1. Credit sale of old furniture.
+2. Depreciation charged on machinery.
+3. Cash received from a debtor for a previously written-off bad debt.
+4. Goods withdrawn by the proprietor for personal use.
+Which of the above transactions will be recorded in the Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>1 and 3 only</option>
+<option>3 only</option>
+<option>1, 3, and 4 only</option>
+<option>None of the above</option>
+<answer>3 only</answer>
+<explanation>Why (B) is correct: The Cash Book exclusively records transactions involving an actual inflow or outflow of cash/bank. Cash recovered from a bad debt is an actual inflow of cash and is recorded on the debit side. Why (A) is incorrect: Credit sale of old furniture does not involve cash; it is recorded in the Journal Proper. Why (C) is incorrect: Goods withdrawn for personal use do not involve cash; they reduce purchases via the Journal Proper. Why (D) is incorrect: Item 3 definitely belongs in the Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In standard accounting practice, if a business receives a cheque on 25th March but sends it to the bank for collection on 28th March, how is the transaction recorded on 25th March?</text>
+<topic>CASH BOOK</topic>
+<option>It is recorded on the debit side of the Bank column.</option>
+<option>It is recorded on the debit side of the Cash column.</option>
+<option>It is ignored on 25th March and recorded directly as a bank receipt on 28th March.</option>
+<option>It is recorded on the credit side of the Cash column.</option>
+<answer>It is recorded on the debit side of the Cash column.</answer>
+<explanation>Why (B) is correct: According to the provided notes, if initially cheques received are not sent to the bank, they are entered in the cash column. Why (A) is incorrect: Debiting the bank column on the 25th would misrepresent the actual bank balance, as the bank hasn't received the instrument yet. Why (C) is incorrect: Ignoring the receipt violates the chronological recording principle of daily transactions. Why (D) is incorrect: It is a receipt, not a payment, so it cannot be on the credit side.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When cash is deposited into the bank, the transaction requires a contra entry. What is the correct posting procedure for this entry in the ledger?</text>
+<topic>CASH BOOK</topic>
+<option>Debit the Bank Account and Credit the Cash Account in the ledger.</option>
+<option>Debit the Cash Account and Credit the Bank Account in the ledger.</option>
+<option>Post the amount to the debit of the Bank Account only.</option>
+<option>No posting is required in the ledger for this transaction.</option>
+<answer>No posting is required in the ledger for this transaction.</answer>
+<explanation>Why (D) is correct: Because the Cash Book serves as both the Cash Account and the Bank Account (a principal book), a contra entry completes the double-entry entirely within the Cash Book itself. Therefore, no further posting is required in the general ledger, indicated by the letter "C" in the L.F. column. Why (A) and (B) are incorrect: Creating separate Cash and Bank accounts in the ledger defeats the purpose of the Cash Book. Why (C) is incorrect: Double-entry must be complete. Posting to only one account would create an imbalance, but as explained, neither requires posting.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business has an opening cash balance of Rs. 10,000 and a bank overdraft of Rs. 5,000. During the month, it paid Rs. 3,000 into the bank. What will be the closing balances if no other transactions occurred?</text>
+<topic>CASH BOOK</topic>
+<option>Cash: Rs. 13,000 (Dr); Bank: Rs. 2,000 (Cr)</option>
+<option>Cash: Rs. 7,000 (Dr); Bank: Rs. 2,000 (Cr)</option>
+<option>Cash: Rs. 7,000 (Dr); Bank: Rs. 2,000 (Dr)</option>
+<option>Cash: Rs. 10,000 (Dr); Bank: Rs. 8,000 (Cr)</option>
+<answer>Cash: Rs. 7,000 (Dr); Bank: Rs. 2,000 (Cr)</answer>
+<explanation>Why (B) is correct: Paying Rs. 3,000 into the bank reduces cash by Rs. 3,000 (10,000 - 3,000 = 7,000 Dr balance). The deposit reduces the liability of the bank overdraft by Rs. 3,000 (5,000 Cr - 3,000 deposit = 2,000 Cr balance). Why (A) is incorrect: It incorrectly adds the deposited amount to the cash balance instead of subtracting it. Why (C) is incorrect: The bank balance is still negative (overdraft); Rs. 3,000 is not enough to turn a Rs. 5,000 overdraft into a positive debit balance. Why (D) is incorrect: It assumes the deposit increases the overdraft and fails to reduce the cash balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following subsidiary books records transactions that the Cash Book strictly excludes?</text>
+<topic>CASH BOOK</topic>
+<option>Purchases Day Book</option>
+<option>Sales Day Book</option>
+<option>Journal Proper</option>
+<option>All of the above</option>
+<answer>All of the above</answer>
+<explanation>Why (D) is correct: The Cash Book only records cash and bank transactions. The Purchases Day Book records only credit purchases of goods, the Sales Day Book records only credit sales of goods, and the Journal Proper records non-cash transactions like credit purchase of assets. None of these are recorded in the Cash Book. Why (A), (B), and (C) are incorrect as standalone options: All three books exist specifically to record non-cash transactions, which are excluded from the Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding a Petty Cash Book:
+Statement I: The petty cashier maintains it to record small, repetitive expenses.
+Statement II: The balancing figure of the Petty Cash Book at the end of the month represents a liability for the business.
+Statement III: In the analytical petty cash book, separate columns are provided for common expense heads.
+Statement IV: The petty cash balance is transferred to the main cash book at the end of every month.
+Which of the above statements are correct?</text>
+<topic>CASH BOOK</topic>
+<option>1 and 3 only</option>
+<option>1, 2, and 3 only</option>
+<option>1 and 4 only</option>
+<option>2 and 4 only</option>
+<answer>1 and 3 only</answer>
+<explanation>Why (A) is correct: Statement I is true; it records small expenses. Statement III is true; analytical petty cash books categorize expenses (like postage, stationery) for easy ledger posting. Why (B) is incorrect: Statement II is false. The unspent balance of petty cash is a current asset (Cash in hand), not a liability. Why (C) and (D) are incorrect: Statement IV is false. The balance remains with the petty cashier and is carried forward to the next month, then replenished to the imprest amount.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a proprietor withdraws Rs. 5,000 cash for business use from the firm's bank account, how will it be recorded in the Cash Book?</text>
+<topic>CASH BOOK</topic>
+<option>Debit side: Bank column; Credit side: Cash column.</option>
+<option>Debit side: Cash column; Credit side: Bank column.</option>
+<option>Credit side: Bank column only.</option>
+<option>Credit side: Cash column only.</option>
+<answer>Debit side: Cash column; Credit side: Bank column.</answer>
+<explanation>Why (B) is correct: This is a contra entry. Cash is coming into the business (Debit side, Cash column) and money is going out of the bank (Credit side, Bank column). Why (A) is incorrect: This reverses the reality, implying cash was deposited into the bank. Why (C) is incorrect: This would be the entry for drawings (personal use), where cash does not enter the business till. Why (D) is incorrect: This represents a simple cash payment out of the business, ignoring the bank withdrawal.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The balance of the Discount column in a Cash Book is extracted and transferred directly to the Trial Balance.
+Statement II: The discount columns do not represent an account themselves; they are merely totaled and posted to the respective ledger accounts.
+Choose the most appropriate answer:</text>
+<topic>CASH BOOK</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (D) is correct: Statement I is incorrect because discount columns are not balanced. Only accounts that are balanced have their balances transferred to the Trial Balance. Statement II is correct; discount columns are totaled and posted to the Discount Allowed and Discount Received ledger accounts, whose balances eventually go to the Trial Balance. Why (A), (B), and (C) are incorrect: Statement I represents a fundamental misunderstanding of how memorandum discount columns function in a Cash Book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business issues a cheque of Rs. 4,800 to a creditor, Suresh, in full settlement of his account of Rs. 5,000. While recording this in the Triple Column Cash Book, what is the accounting impact?</text>
+<topic>CASH BOOK</topic>
+<option>Bank balance decreases by Rs. 5,000.</option>
+<option>Bank balance decreases by Rs. 4,800, and a gain of Rs. 200 is recorded.</option>
+<option>Cash balance decreases by Rs. 4,800, and an expense of Rs. 200 is recorded.</option>
+<option>Bank balance decreases by Rs. 4,800, and a loss of Rs. 200 is recorded.</option>
+<answer>Bank balance decreases by Rs. 4,800, and a gain of Rs. 200 is recorded.</answer>
+<explanation>Why (B) is correct: The cheque issued reduces the Bank balance by exactly Rs. 4,800 (recorded on the credit side). The difference of Rs. 200 is Discount Received (a gain/income), recorded in the discount column on the credit side. Why (A) is incorrect: The bank balance only decreases by the actual amount written on the cheque (Rs. 4,800). Why (C) is incorrect: The payment was by cheque, so the Bank balance is affected, not the Cash balance. Also, it is a gain, not an expense. Why (D) is incorrect: Discount received for early payment is a gain/income, not a loss.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following characteristics justifies calling the Cash Book a "book of original entry"?</text>
+<topic>CASH BOOK</topic>
+<option>Transactions are transferred to the Cash Book from the General Ledger.</option>
+<option>Transactions are recorded in it directly from source documents like cash memos and counterfoils.</option>
+<option>It eliminates the need for maintaining subsidiary books like Purchases and Sales Day Books.</option>
+<option>Its balances are directly transferred to the Profit and Loss Account.</option>
+<answer>Transactions are recorded in it directly from source documents like cash memos and counterfoils.</answer>
+<explanation>Why (B) is correct: A book of original entry (journal) is where transactions are recorded for the very first time chronologically, directly from primary source documents (vouchers, receipts, pay-in slips). Why (A) is incorrect: Posting happens from the Cash Book to the Ledger, not the other way around. Why (C) is incorrect: Maintaining a Cash Book does not eliminate the need for other subsidiary books, as they record credit transactions. Why (D) is incorrect: Its balances are transferred to the Trial Balance (and ultimately the Balance Sheet as Current Assets/Liabilities), not directly to the Profit and Loss Account</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
