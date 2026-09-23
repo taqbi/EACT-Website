@@ -5435,6 +5435,220 @@ Choose the most appropriate answer:</text>
 
 
 
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>You are working on a shared office computer and suddenly the mouse cursor freezes completely. The keyboard is still responding. What shortcut key combination will allow you to directly open the Task Manager to close an unresponsive program in Windows?</text>
+<topic>Operating System & Windows Shortcuts</topic>
+<option>Alt + F4</option>
+<option>Ctrl + Shift + Esc</option>
+<option>Windows Key + L</option>
+<option>Ctrl + Alt + Delete</option>
+<answer>Ctrl + Shift + Esc</answer>
+<explanation>Why (B) is correct: Pressing "Ctrl + Shift + Esc" directly launches the Windows Task Manager without redirecting to an intermediate security screen. Why (A) is incorrect: "Alt + F4" attempts to close the currently active application window directly. Why (C) is incorrect: "Windows Key + L" instantly locks the workstation. Why (D) is incorrect: "Ctrl + Alt + Delete" opens the Windows security screen/menu (providing options like Lock, Switch user, Sign out, and Task Manager), requiring an additional click or keystroke rather than opening Task Manager directly.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>When executing a complex Mail Merge in MS Word using an MS Excel inventory database containing regional distribution lists, what technical behavior occurs if a merge field in the Excel data source contains empty or null cells?</text>
+<topic>Microsoft Word</topic>
+<option>Word preserves the exact spacing of the original template line, sometimes creating awkward double paragraph breaks or blank lines in the final merged document.</option>
+<option>Word terminates the entire mail merge batch generation sequence and prompts for manual data validation.</option>
+<option>Word automatically substitutes the null value with a default placeholder string such as [DATA_MISSING].</option>
+<option>Word drops the entire corresponding recipient record from the output queue without generating a page break.</option>
+<answer>Word preserves the exact spacing of the original template line, sometimes creating awkward double paragraph breaks or blank lines in the final merged document.</answer>
+<explanation>Why (A) is correct: When a merge field is blank or null, Microsoft Word replaces the field with nothing (an empty string). However, surrounding spaces, punctuation, or paragraph breaks associated with that field in the template remain, frequently resulting in awkward extra blank lines or spacing unless dynamic conditional rules or specific suppression switches are used. Why (B), (C), and (D) are incorrect: Word does not abort the merge batch, does not insert automatic placeholder text like "[DATA_MISSING]", and does not skip or drop the entire record automatically.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A store database contains a table named Purchase_Records. The storekeeper wants to generate a report showing only the Supplier_Name and Total_Cost fields for entries where the Payment_Status is marked strictly as "PENDING". Which SQL statement fulfils this precise query command?</text>
+<topic>Database Management Systems (SQL)</topic>
+<option>SELECT Supplier_Name, Total_Cost WHERE Payment_Status = 'PENDING' FROM Purchase_Records</option>
+<option>SELECT Supplier_Name, Total_Cost FROM Purchase_Records WHERE Payment_Status = 'PENDING'</option>
+<option>SELECT Supplier_Name AND Total_Cost FROM Purchase_Records WHERE Payment_Status = 'PENDING'</option>
+<option>SELECT Supplier_Name, Total_Cost FROM Purchase_Records WHERE Payment_Status = PENDING</option>
+<answer>SELECT Supplier_Name, Total_Cost FROM Purchase_Records WHERE Payment_Status = 'PENDING'</answer>
+<explanation>Why (B) is correct: Standard SQL query syntax strictly follows the structure: SELECT [columns separated by commas] FROM [table_name] WHERE [condition]. String literals in the condition must be enclosed in quotation marks. Why (A) is incorrect: The WHERE clause cannot appear before the FROM clause. Why (C) is incorrect: Selected column names are separated by commas, not the logical operator "AND". Why (D) is incorrect: String literals like 'PENDING' must be enclosed in single quotes, otherwise the database treats PENDING as an invalid column identifier.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A storekeeper works in a collaborative cloud drive environment (e.g., Google Drive/Dropbox) with multiple team members modifying a master procurement spreadsheet. A critical row containing financial calculations disappears mysteriously. Which built-in cloud management option provides the fastest path to isolate exactly who made the deletion and restore that specific past version of the spreadsheet?</text>
+<topic>Cloud Computing & Collaboration Tools</topic>
+<option>Reviewing the cloud workspace Admin Console file-level activity dashboard and data loss prevention (DLP) logs.</option>
+<option>Retrieving the file's historical transactional delta state through the embedded client-side revision ledger.</option>
+<option>Initiating a full cloud drive account recovery to an earlier automated daily snapshot.</option>
+<option>Accessing the shared workspace's granular trash repository to extract the isolated row object.</option>
+<answer>Retrieving the file's historical transactional delta state through the embedded client-side revision ledger.</answer>
+<explanation>Why (B) is correct: Modern collaborative cloud spreadsheets (such as Google Sheets or Excel Online) maintain an internal, embedded revision/version history ledger. Users can view timestamped edit histories, see exactly which user modified or deleted specific cells/rows, and revert or restore that specific prior version with a single click. Why (A) is incorrect: Admin console and DLP logs are administrative oversight tools and do not provide an immediate, integrated interface for end-users to compare and revert cell-level edits. Why (C) is incorrect: Account-wide recovery would overwrite all other recent work unnecessarily. Why (D) is incorrect: Cloud trash repositories store deleted whole files/folders, not individual rows from within a document.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A storekeeper is developing an executive PowerPoint presentation to report structural stock discrepancies. They want a specific graphic object to smoothly morph its shape and shift its physical position across consecutive slides to visually depict data migration. Which feature achieves this cinematic effect seamlessly?</text>
+<topic>Microsoft PowerPoint</topic>
+<option>Applying a Wipe transition coupled with an entrance animation.</option>
+<option>Using the Morph transition effect while maintaining identical object identifiers on adjacent slides.</option>
+<option>Activating the Rehearse Timings command with a custom loop interval.</option>
+<option>Embedding a dynamic macro inside the master slide layout template.</option>
+<answer>Using the Morph transition effect while maintaining identical object identifiers on adjacent slides.</answer>
+<explanation>Why (B) is correct: PowerPoint's "Morph" transition enables smooth animations, movements, and transformations between consecutive slides. For complex shapes or changing forms, naming objects identically in the Selection Pane with double exclamation marks (e.g., !!ObjectName) ensures seamless matching and morphing across slides. Why (A) is incorrect: Wipe simply reveals an object linearly; it does not smoothly translate and reshape objects between slides. Why (C) is incorrect: Rehearse Timings only records slide presentation durations. Why (D) is incorrect: Slide Master macros are not a native or recommended mechanism for slide-to-slide object transition animations.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>During a high-level briefing, a storekeeper wants to navigate dynamically between different non-sequential slides in a PowerPoint deck based on live feedback from the committee, without exiting the presentation mode or scrolling through all slides manually. Which feature should be built into the deck?</text>
+<topic>Microsoft PowerPoint</topic>
+<option>A sequence of standard cross-references linked to text bookmarks.</option>
+<option>A repetitive Fade transition applied universally across all content blocks.</option>
+<option>A custom XML schema bound to the slide layout properties.</option>
+<option>The Zoom tool (Summary or Slide Zoom) to create interactive landing zones.</option>
+<answer>The Zoom tool (Summary or Slide Zoom) to create interactive landing zones.</answer>
+<explanation>Why (D) is correct: PowerPoint's "Zoom" feature (Summary Zoom, Section Zoom, or Slide Zoom) allows presenters to jump directly to specific slides or sections interactively in any order during a slide show and return smoothly to the landing slide. Why (A) is incorrect: Cross-references and bookmarks are features primarily used in MS Word documents. Why (B) is incorrect: Fade transitions merely provide visual transitions between sequentially ordered slides. Why (C) is incorrect: XML schemas govern data structures, not interactive live presentation navigation.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A government office wants to implement the "3-2-1 Backup Strategy" to secure its digital asset ledger against ransomware attacks. Which of the following setups accurately defines this industry-standard data protection practice?</text>
+<topic>Data Security & Backup Strategies</topic>
+<option>Keep 3 distinct copies of the ledger, stored across 2 different types of local media, with 1 copy kept completely offsite or in a secure cloud environment.</option>
+<option>Keep 3 backup files on 2 separate computers, updated exactly 1 time per year during the physical audit.</option>
+<option>Encrypt the file 3 times using 2 different software passwords, keeping 1 backup copy on the system's primary RAM drive.</option>
+<option>Maintain 3 network paths to 2 cloud drives, managed entirely by 1 central input/output peripheral switch.</option>
+<answer>Keep 3 distinct copies of the ledger, stored across 2 different types of local media, with 1 copy kept completely offsite or in a secure cloud environment.</answer>
+<explanation>Why (A) is correct: The industry-standard 3-2-1 backup rule dictates that you must have: 3 copies of your data (1 primary copy and 2 backups), stored on at least 2 different types of storage media (e.g., internal hard drive and external storage/tape), with 1 copy maintained offsite (such as in the cloud or a remote facility) to protect against disaster or localized ransomware propagation. Why (B), (C), and (D) are incorrect: They distort the numbers 3, 2, and 1 into arbitrary technical concepts that do not reflect the defined backup rule.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>In a Linux terminal, which command lists all files in a directory, including hidden files (those starting with a dot .), in a detailed long format?</text>
+<topic>Linux Operating System</topic>
+<option>ls -R</option>
+<option>dir -all</option>
+<option>ls -h</option>
+<option>ls -la</option>
+<answer>ls -la</answer>
+<explanation>Why (D) is correct: In Linux, the "ls" command lists directory contents. Combining the flags "-l" (long listing format, showing permissions, owner, size, modification date) and "-a" (all, including entries starting with "." which are hidden) produces the detailed long format including hidden files. Why (A) is incorrect: "ls -R" lists subdirectories recursively. Why (B) is incorrect: "dir -all" is not the standard POSIX command flag for detailed hidden file listing. Why (C) is incorrect: "ls -h" displays file sizes in human-readable formats (e.g., 1K, 234M, 2G) when combined with "-l", but does not show hidden files by itself.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>When a user sees the padlock icon and https:// prefix, it strictly confirms that:</text>
+<topic>Internet Security & Cryptography</topic>
+<option>The website's identity has been vetted and certified as safe by a trusted global authority.</option>
+<option>The data in transit between the browser and the server cannot be intercepted or read in transit.</option>
+<option>The site is free from malicious scripts, phishing links, and software vulnerabilities.</option>
+<option>The website owner has passed a rigorous legal and background check.</option>
+<answer>The data in transit between the browser and the server cannot be intercepted or read in transit.</answer>
+<explanation>Why (B) is correct: The padlock icon and HTTPS (HTTP over TLS/SSL) signify that the communication channel between the client's browser and the web server is encrypted, protecting data in transit from eavesdropping and tampering. Why (A), (C), and (D) are incorrect: HTTPS does not guarantee that the site content is benign, safe, or free of malware and phishing; anyone, including malicious actors, can obtain a free SSL/TLS certificate (e.g., via Let's Encrypt) without extensive background vetting.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A storekeeper has a folder containing thousands of PDF invoices named with irregular structures. They need to find a specific set of purchase orders that contain the word "IFPD" followed by exactly two characters in the file name. Which native Windows File Explorer search wildcard convention allows this precise filtering?</text>
+<topic>Windows Operating System</topic>
+<option>IFPD##</option>
+<option>IFPD??</option>
+<option>IFPD**</option>
+<option>IFPD--</option>
+<answer>IFPD??</answer>
+<explanation>Why (B) is correct: In Windows File Explorer wildcard search, the question mark (?) represents exactly one single character. Therefore, "IFPD??" searches for the string "IFPD" followed by exactly two arbitrary characters. Why (C) is incorrect: The asterisk (*) matches zero or more characters of any length. Why (A) and (D) are incorrect: The hash (#) and hyphen (-) characters are not standard native search wildcard characters for single-character substitution in Windows Explorer.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>Which Windows keyboard shortcut instantly minimizes all open windows and displays the desktop?</text>
+<topic>Operating System & Windows Shortcuts</topic>
+<option>Ctrl + Shift + M</option>
+<option>Ctrl + Shift + D</option>
+<option>Windows Key + D</option>
+<option>Windows Key + M</option>
+<answer>Windows Key + D</answer>
+<explanation>Why (C) is correct: "Windows Key + D" toggles between displaying the desktop by instantly minimizing all open windows and restoring them back upon pressing it again. Why (D) is incorrect: While "Windows Key + M" minimizes all open windows, it does not support toggling back to restore them, and it specifically minimizes rather than directly triggering the "Show Desktop" action. Why (A) and (B) are incorrect: Neither "Ctrl + Shift + M" nor "Ctrl + Shift + D" is a native Windows shortcut for showing the desktop.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>What does ../ represent when navigating file directories via relative paths?</text>
+<topic>Operating System Concepts & File Systems</topic>
+<option>The current working directory</option>
+<option>The system root directory</option>
+<option>The user home directory</option>
+<option>The parent directory one level above the current one</option>
+<answer>The parent directory one level above the current one</answer>
+<explanation>Why (D) is correct: In both Unix-like systems (Linux/macOS) and Windows, ".." (or "../") refers to the parent directory located one level up in the file directory hierarchy. Why (A) is incorrect: A single dot "." (or "./") denotes the current working directory. Why (B) is incorrect: The root directory is represented by a single forward slash "/" in Linux or "C:\" in Windows. Why (C) is incorrect: The user home directory is commonly represented by the tilde "~".</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>In Microsoft Excel, pressing which function key automatically cycles through absolute and relative cell reference states (e.g., changing A1 to $A$1)?</text>
+<topic>Microsoft Excel</topic>
+<option>F2</option>
+<option>F3</option>
+<option>F4</option>
+<option>F11</option>
+<answer>F4</answer>
+<explanation>Why (C) is correct: In MS Excel, when editing a formula with a cell reference selected, pressing F4 cycles through absolute and mixed reference formats ($A$1 -> A$1 -> $A1 -> A1). Why (A) is incorrect: F2 activates cell editing mode. Why (B) is incorrect: F3 opens the "Paste Name" dialog box when defined range names exist. Why (D) is incorrect: F11 instantly creates a chart of the selected data on a separate Chart sheet.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>An item master contains item codes in A2:A1000 and descriptions in B2:B1000. A storekeeper enters an item code in D2. The code must be matched exactly, because an approximate match could return information for another item. Which formula is appropriate?</text>
+<topic>Microsoft Excel</topic>
+<option>=VLOOKUP(D2,A2:B1000,2,TRUE)</option>
+<option>=VLOOKUP(D2,A2:B1000,2,FALSE)</option>
+<option>=VLOOKUP(D2,B2:A1000,2,FALSE)</option>
+<option>=VLOOKUP(A2:D2,A2:B1000,2,FALSE)</option>
+<answer>=VLOOKUP(D2,A2:B1000,2,FALSE)</answer>
+<explanation>Why (B) is correct: The VLOOKUP syntax is VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]). Setting range_lookup to FALSE (or 0) forces an exact match. Here, D2 is searched in the first column of range A2:B1000, and the matching value from column 2 (column B) is returned. Why (A) is incorrect: Setting the range_lookup to TRUE performs an approximate match, which could yield incorrect data if an exact match isn't found or if the data isn't sorted. Why (C) is incorrect: Table ranges must be valid rectangular references where the lookup column is on the far left. Why (D) is incorrect: The lookup_value must be the single cell D2, not a range A2:D2.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A storekeeper needs to transfer a large 6 GB inventory backup file from a local workstation to an external USB drive. However, the system displays an error stating the file is too large for the destination file system. What is the most likely cause?</text>
+<topic>File Systems & Storage</topic>
+<option>The USB drive is formatted in FAT32, which possesses a hard architectural limit of 4 GB for any single file.</option>
+<option>The USB drive is utilizing the NTFS file system, which restricts maximum individual file sizes to 2 GB.</option>
+<option>The workstation's USB port is operating on an older USB 1.1 standard that blocks high-capacity data streams.</option>
+<option>The external storage drive has run out of dynamic virtual memory paging space required for transfers.</option>
+<answer>The USB drive is formatted in FAT32, which possesses a hard architectural limit of 4 GB for any single file.</answer>
+<explanation>Why (A) is correct: The FAT32 file system has an absolute maximum individual file size limit of 4 GB minus 1 byte (4,294,967,295 bytes). Attempting to copy a 6 GB file onto a FAT32-formatted partition results in a "file is too large for the destination file system" error, even if there is plenty of free drive space. Why (B) is incorrect: NTFS supports file sizes up to 16 TB or more, far exceeding 2 GB. Why (C) is incorrect: USB standards affect transfer speed, not maximum file size constraints. Why (D) is incorrect: File copying does not fail due to external storage virtual memory paging limits.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>A storekeeper is formatting an inventory catalog in MS Word and wants the first page to be a vertical Portrait layout, but the second page containing a wide table to be a horizontal Landscape layout. How can this be achieved in the same document?</text>
+<topic>Microsoft Word</topic>
+<option>By applying a "Page Break" at the end of the first page and changing the orientation.</option>
+<option>By changing the text font size of the second page until the page automatically rotates.</option>
+<option>By inserting a "Section Break (Next Page)" before the second page and changing its orientation.</option>
+<option>By modifying the default Normal style template properties for the entire workbook layout.</option>
+<answer>By inserting a "Section Break (Next Page)" before the second page and changing its orientation.</answer>
+<explanation>Why (C) is correct: In Microsoft Word, page orientation and margins are section-level formatting properties. To change orientation for a specific page without altering others, the document must be divided into distinct sections using a "Section Break (Next Page)". Why (A) is incorrect: A regular "Page Break" only starts text on a new page within the same section; altering orientation will still affect the entire section. Why (B) is incorrect: Changing font size never rotates page orientation. Why (D) is incorrect: The Normal style template controls text styles, not page-specific layout orientations, and "workbook" refers to Excel.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>An employee receives an urgent, fraudulent email designed to mimic their organization's primary financial institution. The message warns that corporate assets will be frozen immediately unless the user clicks an embedded link to verify their administrative credentials. Which specific vector of cyberattack does this scenario illustrate?</text>
+<topic>Cybersecurity & Threats</topic>
+<option>Spyware</option>
+<option>Spear Phishing</option>
+<option>Whaling</option>
+<option>Social Engineering</option>
+<answer>Spear Phishing</answer>
+<explanation>Why (B) is correct: Spear phishing is a targeted social engineering attack where fraudulent emails are customized to impersonate trusted entities (such as the company's bank) to deceive specific individuals into divulging sensitive administrative credentials. Why (A) is incorrect: Spyware is covert surveillance software installed without consent. Why (C) is incorrect: Whaling specifically targets high-profile C-suite executives (e.g., CEO, CFO), whereas here it is sent to an employee to verify credentials. Why (D) is incorrect: While spear phishing is indeed a subcategory of social engineering, Spear Phishing is the specific cyberattack vector described by the contextual attack mechanism (fraudulent targeted email mimicking an institution).</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>Which switch in a Word field code dynamically formats the result of a numeric field (such as a calculation or page number) into a specific currency or custom numeric pattern, like $#,##0.00?</text>
+<topic>Microsoft Word</topic>
+<option>@ "$#,##0.00"</option>
+<option>* Numeric</option>
+<option>\# "$#,##0.00"</option>
+<option># "$#,##0.00"</option>
+<answer>\# "$#,##0.00"</answer>
+<explanation>Why (C) is correct: In Microsoft Word field codes, the number picture switch is represented by "\#" followed by the desired formatting string (e.g., { =SUM(ABOVE) \# "$#,##0.00" }). Why (A) is incorrect: The "\@" switch is used for date/time picture formatting (e.g., \@ "MMMM d, yyyy"). Why (B) and (D) are incorrect: These do not represent valid syntax for the numeric picture switch in MS Word.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>In a Mail Merge document, you need to display "Bonus Eligible" if a merge field named Sales is greater than 50000, and "Standard" otherwise. What is the correct nested field code syntax?</text>
+<topic>Microsoft Word</topic>
+<option>{ IF MERGEFIELD Sales &gt; 50000 THEN "Bonus Eligible" ELSE "Standard" }</option>
+<option>{ CONDITIONAL { MERGEFIELD Sales } [50000] ? "Bonus Eligible" : "Standard" }</option>
+<option>{ IF { MERGEFIELD Sales } &gt; 50000 "Bonus Eligible" "Standard" }</option>
+<option>{ IF [Sales] &gt; 50000 ? "Bonus Eligible" : "Standard" }</option>
+<answer>{ IF { MERGEFIELD Sales } &gt; 50000 "Bonus Eligible" "Standard" }</answer>
+<explanation>Why (C) is correct: In Microsoft Word field syntax, the IF field takes the form: { IF Expression1 Operator Expression2 TrueText FalseText }. Nested field codes like MERGEFIELD must be enclosed in their own field brackets { }. Word does not use "THEN" or "ELSE" keywords, nor does it use ternary operators like "?" or ":". Why (A), (B), and (D) are incorrect: Word field syntax does not support SQL/VBA keywords (THEN/ELSE) or ternary C-style operators.</explanation>
+</question>
+<question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
+<text>If you modify the font size of the "Heading 2" style, and it unexpectedly alters the font size of "Heading 3" in your document, what structural relationship most likely exists between these two styles?</text>
+<topic>Microsoft Word</topic>
+<option>"Heading 2" and "Heading 3" share a linked style definition.</option>
+<option>Both styles are bound to the same List Level in the Multi-level list dialog.</option>
+<option>"Heading 3" is designated as the "Style for following paragraph" of "Heading 2".</option>
+<option>"Heading 3" has its "Style based on" property set to "Heading 2".</option>
+<answer>"Heading 3" has its "Style based on" property set to "Heading 2".</answer>
+<explanation>Why (D) is correct: In Microsoft Word styles, inheritance is controlled by the "Style based on" property. If "Heading 3" is based on "Heading 2", it automatically inherits modifications made to the parent style (like font size, family, or color) unless that attribute was explicitly overridden in the child style. Why (A) is incorrect: A "linked style" links paragraph and character formatting within a single style definition, not across two different heading styles. Why (B) is incorrect: Multi-level list binding dictates numbering structure, not cascading font size inheritance. Why (C) is incorrect: "Style for following paragraph" determines which style is automatically applied when pressing Enter at the end of a paragraph, having no effect on formatting inheritance.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     <!-- JKSSB Social Forestery Paper 2026 -->
