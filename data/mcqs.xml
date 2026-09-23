@@ -5437,7 +5437,7 @@ Choose the most appropriate answer:</text>
 
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>You are working on a shared office computer and suddenly the mouse cursor freezes completely. The keyboard is still responding. What shortcut key combination will allow you to directly open the Task Manager to close an unresponsive program in Windows?</text>
-<topic>Operating System & Windows Shortcuts</topic>
+<topic>Operating System &amp; Windows Shortcuts</topic>
 <option>Alt + F4</option>
 <option>Ctrl + Shift + Esc</option>
 <option>Windows Key + L</option>
@@ -5467,7 +5467,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>A storekeeper works in a collaborative cloud drive environment (e.g., Google Drive/Dropbox) with multiple team members modifying a master procurement spreadsheet. A critical row containing financial calculations disappears mysteriously. Which built-in cloud management option provides the fastest path to isolate exactly who made the deletion and restore that specific past version of the spreadsheet?</text>
-<topic>Cloud Computing & Collaboration Tools</topic>
+<topic>Cloud Computing &amp; Collaboration Tools</topic>
 <option>Reviewing the cloud workspace Admin Console file-level activity dashboard and data loss prevention (DLP) logs.</option>
 <option>Retrieving the file's historical transactional delta state through the embedded client-side revision ledger.</option>
 <option>Initiating a full cloud drive account recovery to an earlier automated daily snapshot.</option>
@@ -5497,7 +5497,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>A government office wants to implement the "3-2-1 Backup Strategy" to secure its digital asset ledger against ransomware attacks. Which of the following setups accurately defines this industry-standard data protection practice?</text>
-<topic>Data Security & Backup Strategies</topic>
+<topic>Data Security &amp; Backup Strategies</topic>
 <option>Keep 3 distinct copies of the ledger, stored across 2 different types of local media, with 1 copy kept completely offsite or in a secure cloud environment.</option>
 <option>Keep 3 backup files on 2 separate computers, updated exactly 1 time per year during the physical audit.</option>
 <option>Encrypt the file 3 times using 2 different software passwords, keeping 1 backup copy on the system's primary RAM drive.</option>
@@ -5517,7 +5517,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>When a user sees the padlock icon and https:// prefix, it strictly confirms that:</text>
-<topic>Internet Security & Cryptography</topic>
+<topic>Internet Security &amp; Cryptography</topic>
 <option>The website's identity has been vetted and certified as safe by a trusted global authority.</option>
 <option>The data in transit between the browser and the server cannot be intercepted or read in transit.</option>
 <option>The site is free from malicious scripts, phishing links, and software vulnerabilities.</option>
@@ -5537,7 +5537,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>Which Windows keyboard shortcut instantly minimizes all open windows and displays the desktop?</text>
-<topic>Operating System & Windows Shortcuts</topic>
+<topic>Operating System &amp; Windows Shortcuts</topic>
 <option>Ctrl + Shift + M</option>
 <option>Ctrl + Shift + D</option>
 <option>Windows Key + D</option>
@@ -5547,7 +5547,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>What does ../ represent when navigating file directories via relative paths?</text>
-<topic>Operating System Concepts & File Systems</topic>
+<topic>Operating System Concepts &amp; File Systems</topic>
 <option>The current working directory</option>
 <option>The system root directory</option>
 <option>The user home directory</option>
@@ -5577,7 +5577,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>A storekeeper needs to transfer a large 6 GB inventory backup file from a local workstation to an external USB drive. However, the system displays an error stating the file is too large for the destination file system. What is the most likely cause?</text>
-<topic>File Systems & Storage</topic>
+<topic>File Systems &amp; Storage</topic>
 <option>The USB drive is formatted in FAT32, which possesses a hard architectural limit of 4 GB for any single file.</option>
 <option>The USB drive is utilizing the NTFS file system, which restricts maximum individual file sizes to 2 GB.</option>
 <option>The workstation's USB port is operating on an older USB 1.1 standard that blocks high-capacity data streams.</option>
@@ -5597,7 +5597,7 @@ Choose the most appropriate answer:</text>
 </question>
 <question category="pyq" exam="KU Store Keeper" subject="Computer Awareness">
 <text>An employee receives an urgent, fraudulent email designed to mimic their organization's primary financial institution. The message warns that corporate assets will be frozen immediately unless the user clicks an embedded link to verify their administrative credentials. Which specific vector of cyberattack does this scenario illustrate?</text>
-<topic>Cybersecurity & Threats</topic>
+<topic>Cybersecurity &amp; Threats</topic>
 <option>Spyware</option>
 <option>Spear Phishing</option>
 <option>Whaling</option>
