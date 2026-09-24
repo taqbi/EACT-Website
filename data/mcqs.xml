@@ -5429,6 +5429,1071 @@ Choose the most appropriate answer:</text>
 
 
 
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best describes the fundamental nature of a Trial Balance in the accounting process?</text>
+<topic>TRIAL BALANCE</topic>
+<option>It is a primary ledger account used to record day-to-day transactions.</option>
+<option>It is a statement showing the balances of all ledger accounts to verify arithmetical accuracy.</option>
+<option>It is a financial statement that determines the final profit or loss of the business.</option>
+<option>It is a subsidiary book used to record credit transactions.</option>
+<answer>It is a statement showing the balances of all ledger accounts to verify arithmetical accuracy.</answer>
+<explanation>Why (B) is correct: A trial balance is a statement showing the balances of all the accounts in the ledger with a view to verify the arithmetical accuracy of posting into the ledger accounts. Why (A) is incorrect: It is a statement prepared after ledger posting, not a primary ledger account. Why (C) is incorrect: Profit or loss is determined by the Trading and Profit &amp; Loss Account, not the Trial Balance. Why (D) is incorrect: Subsidiary books are books of original entry, whereas the Trial Balance is a summary statement.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In the chronological sequence of the accounting process, the preparation of the Trial Balance represents which phase?</text>
+<topic>TRIAL BALANCE</topic>
+<option>First phase</option>
+<option>Second phase</option>
+<option>Third phase</option>
+<option>Fourth phase</option>
+<answer>Third phase</answer>
+<explanation>Why (C) is correct: Preparation of Trial balance is the third phase in the Accounting Process, occurring after journalizing and posting to the ledger. Why (A) is incorrect: The first phase is identifying and recording transactions (journalizing). Why (B) is incorrect: The second phase is classifying transactions by posting them to ledger accounts. Why (D) is incorrect: The fourth phase involves preparing the final financial statements.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the normal balances of different types of accounts in a Trial Balance:
+Statement I: All asset and expense accounts shall have debit balances.
+Statement II: All liability and revenue accounts shall have credit balances.
+Statement III: Receivables generally have credit balances.
+Statement IV: Payables generally have credit balances.
+Which of the above statements are correct?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 and 2 only</option>
+<option>1, 2 and 4 only</option>
+<option>2, 3 and 4 only</option>
+<option>1, 2, 3 and 4</option>
+<answer>1, 2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements I, II, and IV are correct. Assets, expenses, and receivables have debit balances, whereas liabilities, revenues, and payables have credit balances. Why (A) is incorrect: It omits Statement IV, which is a correct statement regarding payables. Why (C) is incorrect: It incorrectly includes Statement III; receivables have debit balances, not credit balances. Why (D) is incorrect: Statement III is factually incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a Trial Balance does not tally after transferring all ledger account balances, what is the immediate accounting treatment to proceed with the preparation of financial statements?</text>
+<topic>TRIAL BALANCE</topic>
+<option>The difference is written off to the Profit &amp; Loss Account.</option>
+<option>The difference is transferred to the Capital Account.</option>
+<option>The difference is transferred to a temporary account called the Suspense Account.</option>
+<option>The financial statements cannot be prepared until the error is found.</option>
+<answer>The difference is transferred to a temporary account called the Suspense Account.</answer>
+<explanation>Why (C) is correct: If the trial balance does not tally, the difference is transferred to a temporary account called the suspense account for the timely preparation of financial statements. Why (A) is incorrect: Writing it off to P&amp;L would incorrectly alter the net profit or loss. Why (B) is incorrect: Capital accounts reflect owner's equity, not untraced accounting errors. Why (D) is incorrect: While locating errors is ideal, financial statements can still be prepared temporarily using a Suspense Account.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Trial Balance:
+Statement I: The Trial Balance forms the basis for preparing the Income Statement and the Balance Sheet.
+Statement II: An agreed Trial Balance is absolute proof that there are no errors in the books of accounts.
+Statement III: The entire ledger is summarized in the form of a Trial Balance.
+Statement IV: A complete omission of a transaction will not cause the Trial Balance to disagree.
+Which of the following statements is/are incorrect?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>2 and 4 only</option>
+<option>3 and 4 only</option>
+<answer>2 only</answer>
+<explanation>Why (B) is correct: Statement II is incorrect. An agreed Trial Balance only indicates arithmetical accuracy; errors like complete omission can still exist even if the two sides tally. Why (A) is incorrect: Statement I is factually correct. Why (C) is incorrect: Statement IV is correct; complete omission keeps the Trial Balance tallied. Why (D) is incorrect: Statements III and IV are completely correct statements.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Under which method of preparing a Trial Balance is the total of each side of the ledger (debit and credit) ascertained separately and shown in respective columns without balancing the accounts?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Balances Method</option>
+<option>Totals Method</option>
+<option>Totals-cum-balances Method</option>
+<option>Direct Method</option>
+<answer>Totals Method</answer>
+<explanation>Why (B) is correct: Under the Totals method, the total of each side in the ledger is ascertained separately and shown in the trial balance columns. Why (A) is incorrect: The Balances method uses only the net balance of the accounts. Why (C) is incorrect: The Totals-cum-balances method uses four columns to show both totals and balances. Why (D) is incorrect: Direct Method is not a recognized method for preparing a Trial Balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Balances Method is the most widely used method in practice for preparing a Trial Balance.
+Statement II: The account balances summarize the net effect of all transactions relating to an account and directly help in preparing financial statements.
+Choose the most appropriate answer:</text>
+<topic>TRIAL BALANCE</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: The Balances Method is widely used precisely because the net balances summarize transactions and are directly used to draft financial statements. Why (B) is incorrect: Statement II directly explains the reasoning behind the popularity of the Balances Method mentioned in Statement I. Why (C) is incorrect: Statement II is completely correct. Why (D) is incorrect: Statement I is completely correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the debit total of a Trial Balance is ₹ 1,50,000 and the credit total is ₹ 1,45,000, how will the Suspense Account be treated to tally the statement?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Suspense Account will be debited with ₹ 5,000.</option>
+<option>Suspense Account will be credited with ₹ 5,000.</option>
+<option>Suspense Account will be debited with ₹ 1,45,000.</option>
+<option>Suspense Account will be credited with ₹ 1,50,000.</option>
+<answer>Suspense Account will be credited with ₹ 5,000.</answer>
+<explanation>Why (B) is correct: If the trial balance shows a lesser credit total, the Suspense Account is credited with the difference (₹ 5,000) to tally the statement. Why (A) is incorrect: Debiting the Suspense Account would increase the debit total to ₹ 1,55,000, worsening the imbalance. Why (C) is incorrect: The adjustment is only for the difference, not the total credit side. Why (D) is incorrect: The adjustment is only for the difference, not the total debit side.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which accounting concept provides the foundational principle that makes the Trial Balance tally under normal circumstances?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Going Concern Concept</option>
+<option>Materiality Concept</option>
+<option>Dual Aspect Concept</option>
+<option>Conservatism Concept</option>
+<answer>Dual Aspect Concept</answer>
+<explanation>Why (C) is correct: The dual aspect concept states that for every debit, there must be an equivalent credit, which ensures the total of debits equals the total of credits in the Trial Balance. Why (A) is incorrect: Going Concern assumes the business will continue indefinitely; it doesn't dictate debits equaling credits. Why (B) is incorrect: Materiality deals with the significance of financial information, not ledger balance mechanics. Why (D) is incorrect: Conservatism deals with anticipating losses but not profits.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a ledger account has a zero balance at the end of the accounting period, how should it be treated while preparing the Trial Balance?</text>
+<topic>TRIAL BALANCE</topic>
+<option>It must be strictly omitted from the Trial Balance.</option>
+<option>It may be included in the Trial Balance with a zero in the column for its normal balance.</option>
+<option>It must be transferred to the Suspense Account.</option>
+<option>It is included with a nominal value of ₹ 1 to show the account exists.</option>
+<answer>It may be included in the Trial Balance with a zero in the column for its normal balance.</answer>
+<explanation>Why (B) is correct: If an account has a zero balance, it may be included in the trial balance with a zero in the column for its normal balance. Why (A) is incorrect: It is not strictly omitted; it can be included with a zero balance. Why (C) is incorrect: Suspense accounts are for untraced differences, not zero-balance accounts. Why (D) is incorrect: Inserting arbitrary nominal values like ₹ 1 would destroy the arithmetical accuracy of the statement.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following errors in accounting:
+Statement I: Complete omission of a journal entry.
+Statement II: Posting an amount to the correct side but in the wrong account.
+Statement III: Posting an amount to the wrong side of an account.
+Statement IV: Errors of principle where revenue expenditure is treated as capital expenditure.
+Which of these errors will cause a disagreement in the Trial Balance?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 and 4 only</option>
+<option>3 only</option>
+<option>2 and 3 only</option>
+<option>1, 2 and 4 only</option>
+<answer>3 only</answer>
+<explanation>Why (B) is correct: Posting an amount to the wrong side of an account causes an unequal debit and credit total, thus the Trial Balance will not tally. Why (A) is incorrect: Complete omission and errors of principle do not affect the agreement of a Trial Balance. Why (C) is incorrect: Posting to the correct side of a wrong account (error of commission) keeps debits and credits equal. Why (D) is incorrect: Errors I, II, and IV do not cause disagreement in the Trial Balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following lists of accounts will exclusively show a credit balance in a Trial Balance?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Capital, Sales, Outstanding Rent, Creditors</option>
+<option>Cash, Purchases, Debtors, Rent Paid</option>
+<option>Machinery, Sales Return, Discount Allowed, Bank</option>
+<option>Capital, Purchase Return, Drawings, Loan taken</option>
+<answer>Capital, Sales, Outstanding Rent, Creditors</answer>
+<explanation>Why (A) is correct: Capital, Sales (revenue), Outstanding Rent (liability), and Creditors (liability) all naturally possess credit balances. Why (B) is incorrect: These are all asset and expense accounts, which have debit balances. Why (C) is incorrect: Machinery, Sales Return, and Discount Allowed have debit balances. Why (D) is incorrect: Drawings has a debit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Totals-cum-balances method of preparing a Trial Balance is highly recommended and widely used in modern practice.
+Statement II: The Totals-cum-balances method is time-consuming and hardly serves any additional or special purpose.
+Choose the most appropriate answer:</text>
+<topic>TRIAL BALANCE</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is incorrect, but Statement II is correct.</answer>
+<explanation>Why (D) is correct: Statement I is incorrect because the method is not used in practice. Statement II is correct as it explains why it is avoided (time-consuming, no special purpose). Why (A) is incorrect: Statement I is factually incorrect. Why (B) is incorrect: Statement I is factually incorrect. Why (C) is incorrect: Statement I is incorrect, and Statement II is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>While checking the Trial Balance, an accountant notes that the figure for "Sundry Debtors" is used instead of individual customer names. Which method of Trial Balance preparation naturally utilizes this summarized figure?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Totals Method</option>
+<option>Balances Method</option>
+<option>Direct Method</option>
+<option>Elimination Method</option>
+<answer>Balances Method</answer>
+<explanation>Why (B) is correct: Under the Balances method, normally in place of individual accounts of debtors, a summarized figure of sundry debtors is shown. Why (A) is incorrect: The Totals Method usually deals with the gross debit and credit columns of each individual ledger account. Why (C) is incorrect: Direct Method is not a recognized Trial Balance method. Why (D) is incorrect: Elimination Method is not a recognized Trial Balance method.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is NOT a stated objective of preparing a Trial Balance?</text>
+<topic>TRIAL BALANCE</topic>
+<option>To ascertain the arithmetical accuracy of ledger accounts.</option>
+<option>To help in locating errors.</option>
+<option>To guarantee the absence of all accounting frauds and errors.</option>
+<option>To form a basis for preparing financial statements.</option>
+<answer>To guarantee the absence of all accounting frauds and errors.</answer>
+<explanation>Why (C) is correct: A Trial Balance cannot guarantee the absence of all frauds and errors (e.g., complete omissions or errors of principle), it only checks arithmetical accuracy. Why (A) is incorrect: This is a primary objective. Why (B) is incorrect: This is a primary objective. Why (D) is incorrect: This is a primary objective.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the frequency of preparing a Trial Balance:
+Statement I: A Trial Balance can only be legally prepared at the end of the financial year.
+Statement II: An organization may prepare a Trial Balance monthly, quarterly, or half-yearly depending on its requirements.
+Statement III: Preparing a Trial Balance more than once a year violates the accounting period concept.
+Statement IV: The timing of Trial Balance preparation does not restrict the ultimate preparation of annual final accounts.
+Which of the above statements are correct?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2 and 4 only</option>
+<option>2, 3 and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: An organization can prepare a Trial Balance at the end of any chosen period based on its needs (Statement II), and this does not impede final accounts preparation (Statement IV). Why (A) is incorrect: Statement I is incorrect as there is no legal restriction limiting it to the year-end. Why (C) is incorrect: It incorrectly includes Statement I. Why (D) is incorrect: Statement III is incorrect because frequent checks do not violate the accounting period concept.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business extracts the following balances: Purchases ₹ 40,000, Sales ₹ 65,000, Wages ₹ 5,000, Capital ₹ 20,000, Cash ₹ 10,000, Creditors ₹ 12,000, Debtors ₹ 15,000. If a Trial Balance is prepared, what will be the total of the debit column?</text>
+<topic>TRIAL BALANCE</topic>
+<option>₹ 70,000</option>
+<option>₹ 97,000</option>
+<option>₹ 65,000</option>
+<option>₹ 82,000</option>
+<answer>₹ 70,000</answer>
+<explanation>Why (A) is correct: Debit balances include Purchases (40,000) + Wages (5,000) + Cash (10,000) + Debtors (15,000) = ₹ 70,000.
+Why (B) is incorrect: This is the credit total (Sales 65,000 + Capital 20,000 + Creditors 12,000 = 97,000). The Trial Balance here does not tally, indicating an error in the books or missing balances.
+Why (C) is incorrect: Incorrect calculation.
+Why (D) is incorrect: Incorrect combination of accounts.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In the context of the Trial Balance, which of the following accounts is an exception to the general rule that "revenue and payables have credit balances"?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Rent Received</option>
+<option>Sales Return</option>
+<option>Discount Received</option>
+<option>Bills Payable</option>
+<answer>Sales Return</answer>
+<explanation>Why (B) is correct: Sales Return (Return Inward) reduces revenue and inherently carries a debit balance, making it an exception to the rule that revenue accounts have credit balances.
+Why (A) is incorrect: Rent Received is an income and has a credit balance.
+Why (C) is incorrect: Discount Received is a gain and has a credit balance.
+Why (D) is incorrect: Bills Payable is a liability/payable and has a credit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: If a suspense account appears in the Trial Balance with a debit balance, it will be shown on the liabilities side of the Balance Sheet if not rectified before final accounts.
+Statement II: A suspense account is a permanent account that carries over its balance year after year.
+Choose the most appropriate answer:</text>
+<topic>TRIAL BALANCE</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<answer>Both Statement I and Statement II are incorrect.</answer>
+<explanation>Why (D) is correct: Statement I is incorrect; a debit balance in suspense is shown on the asset side, not liabilities. Statement II is incorrect; suspense is a temporary account. Why (A) is incorrect: Both statements are factually incorrect. Why (B) is incorrect: Statement I is factually incorrect. Why (C) is incorrect: Statement II is factually incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following errors will be directly highlighted by the failure of a Trial Balance to tally?</text>
+<topic>TRIAL BALANCE</topic>
+<option>A cash purchase of ₹ 5,000 recorded in the Purchases book as a credit purchase.</option>
+<option>An entry for ₹ 1,000 debit in Machinery Account was mistakenly debited as ₹ 100.</option>
+<option>Repairs to a building ₹ 2,000 debited to the Building Account.</option>
+<option>Omitting to record a sales invoice of ₹ 3,000 entirely.</option>
+<answer>An entry for ₹ 1,000 debit in Machinery Account was mistakenly debited as ₹ 100.</answer>
+<explanation>Why (B) is correct: Mistakenly debiting ₹ 100 instead of ₹ 1,000 creates a ₹ 900 difference between debits and credits, which directly prevents the Trial Balance from tallying. Why (A) is incorrect: This is an error of recording in the wrong subsidiary book, but debits will still equal credits. Why (C) is incorrect: This is an error of principle; the total debits still equal total credits. Why (D) is incorrect: Complete omission leaves debits and credits equally understated.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Totals Method of preparing a Trial Balance:
+Statement I: It involves ascertaining the total of each side in the ledger separately.
+Statement II: It relies on the double-entry system principle.
+Statement III: It is widely used in modern automated accounting systems.
+Statement IV: It easily helps in preparing financial statements without further calculation.
+Which of the following statements is/are incorrect?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 and 2 only</option>
+<option>3 and 4 only</option>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<answer>3 and 4 only</answer>
+<explanation>Why (B) is correct: Statements III and IV are incorrect. The Totals Method is not widely used in practice because it does not help easily in assuming the accuracy of balances and preparing financial statements. Why (A) is incorrect: Statements I and II are correct characteristics of the Totals method. Why (C) is incorrect: Statement I is correct. Why (D) is incorrect: Statement II is correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An accountant extracted a Trial Balance and found a shortage of ₹ 10,000 on the credit side. He placed this in a Suspense Account. Later, he discovered that a sale of ₹ 10,000 to Mr. X was correctly debited to Mr. X's account but was not credited to the Sales Account. What will be the impact of rectifying this error on the Suspense Account?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Suspense Account will be debited by ₹ 10,000, closing it.</option>
+<option>Suspense Account will be credited by ₹ 10,000, doubling the balance.</option>
+<option>Suspense Account will be debited by ₹ 10,000, leaving a debit balance.</option>
+<option>Suspense Account is unaffected by this rectification.</option>
+<answer>Suspense Account will be debited by ₹ 10,000, closing it.</answer>
+<explanation>Why (A) is correct: The Suspense Account currently has a ₹ 10,000 credit balance (to cover the shortage). To rectify, Sales is credited ₹ 10,000, and the Suspense Account is debited ₹ 10,000, closing its balance.
+Why (B) is incorrect: Crediting Suspense would incorrectly increase its balance to ₹ 20,000.
+Why (C) is incorrect: Debiting it by 10,000 exactly cancels the 10,000 credit balance, closing it, not leaving a debit balance.
+Why (D) is incorrect: One-sided errors must involve the Suspense Account for rectification if it was already opened.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following sequences accurately reflects the correct order of the accounting process leading up to the final accounts?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Source Documents -&gt; Ledger -&gt; Journal -&gt; Trial Balance -&gt; Financial Statements</option>
+<option>Journal -&gt; Source Documents -&gt; Trial Balance -&gt; Ledger -&gt; Financial Statements</option>
+<option>Source Documents -&gt; Journal -&gt; Ledger -&gt; Trial Balance -&gt; Financial Statements</option>
+<option>Ledger -&gt; Source Documents -&gt; Journal -&gt; Financial Statements -&gt; Trial Balance</option>
+<answer>Source Documents -&gt; Journal -&gt; Ledger -&gt; Trial Balance -&gt; Financial Statements</answer>
+<explanation>Why (C) is correct: The process begins with source documents, followed by journalizing, posting to the ledger, summarizing in the Trial Balance (third phase), and finally preparing Financial Statements. Why (A) is incorrect: Journalizing happens before posting to the ledger. Why (B) is incorrect: Source documents precede the Journal. Why (D) is incorrect: The order is entirely mixed up.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Trial Balance is a summarized ledger.
+Statement II: The position of a particular account can be judged simply by looking at the Trial Balance without looking at detailed ledger pages.
+Choose the most appropriate answer:</text>
+<topic>TRIAL BALANCE</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: The Trial Balance contains ledger balances on a particular date, serving as a summary. Because it is a summary, one can judge the account's position simply by looking at the statement without needing the ledger details. Why (B) is incorrect: Statement II acts as a logical extension and explanation of why it is called a "summarized ledger" in Statement I. Why (C) is incorrect: Both statements are factually correct. Why (D) is incorrect: Both statements are factually correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>In a Trial Balance prepared by the Balances Method, what is the normal balance of "Purchases Returns" and "Sales Returns" respectively?</text>
+<topic>TRIAL BALANCE</topic>
+<option>Debit and Debit</option>
+<option>Credit and Credit</option>
+<option>Debit and Credit</option>
+<option>Credit and Debit</option>
+<answer>Credit and Debit</answer>
+<explanation>Why (D) is correct: Purchases carry a debit balance, so Purchases Returns carry a credit balance. Sales carry a credit balance, so Sales Returns carry a debit balance.
+Why (A) is incorrect: Purchases returns do not have a debit balance.
+Why (B) is incorrect: Sales returns do not have a credit balance.
+Why (C) is incorrect: This reverses the correct treatment.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When errors cannot be rectified immediately and financial statements must be prepared, a Suspense Account is opened. If the Trial Balance shows a greater debit total, which of the following is true?</text>
+<topic>TRIAL BALANCE</topic>
+<option>The Suspense Account will be debited to balance the Trial Balance.</option>
+<option>The Suspense Account will be credited to balance the Trial Balance.</option>
+<option>The Suspense Account will not be used; the difference is written off to Capital.</option>
+<option>The Trial Balance must be redrawn from scratch using the Totals Method.</option>
+<answer>The Suspense Account will be credited to balance the Trial Balance.</answer>
+<explanation>Why (B) is correct: If the Trial Balance shows a greater debit total (i.e., lesser credit total), the Suspense Account will be credited to artificially balance the sides. Why (A) is incorrect: Debiting Suspense would widen the gap if debits are already greater. Why (C) is incorrect: Differences are kept in a Suspense Account, not Capital. Why (D) is incorrect: The Totals Method does not resolve ledger posting errors.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the correct classification of accounts that would appear on the debit column of a Trial Balance:</text>
+<topic>TRIAL BALANCE</topic>
+<option>Plant &amp; Machinery, Bank Overdraft, Wages, Rent Paid</option>
+<option>Cash in hand, Carriage Inward, Discount Allowed, Drawings</option>
+<option>Opening Stock, Commission Received, Purchases, Bad Debts</option>
+<option>Sundry Debtors, Interest Received, Salaries, Furniture</option>
+<answer>Cash in hand, Carriage Inward, Discount Allowed, Drawings</answer>
+<explanation>Why (B) is correct: All items listed (Cash, Carriage Inward, Discount Allowed, Drawings) are assets or expenses/losses, which naturally have debit balances.
+Why (A) is incorrect: Bank Overdraft is a liability (credit balance).
+Why (C) is incorrect: Commission Received is an income (credit balance).
+Why (D) is incorrect: Interest Received is an income (credit balance).</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the Totals-cum-balances method of preparing a Trial Balance:
+Statement I: It utilizes exactly two columns for recording amounts.
+Statement II: It shows both the debit/credit totals and debit/credit balances of various accounts.
+Statement III: It is considered highly efficient and is strictly mandated by accounting standards.
+Statement IV: It is a combination of the Totals method and the Balances method.
+Which of the above statements are correct?</text>
+<topic>TRIAL BALANCE</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2 and 4 only</option>
+<option>2, 3 and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are correct. It combines both methods and requires four columns for amounts. Why (A) is incorrect: It requires four columns, not two, and it is not mandated (it's rarely used). Why (C) is incorrect: Statement I is incorrect. Why (D) is incorrect: Statement III is incorrect because it is not widely used or mandated due to being time-consuming.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business receives ₹ 8,000 from a customer, Rohan. The transaction is correctly entered in the receipt side of the Cash Book, but while posting to the ledger, the accountant mistakenly posts the ₹ 8,000 to the credit of another customer, Mohan's account. Identify the type of error and its impact on the agreement of the Trial Balance.</text>
+<topic>TRIAL BALANCE</topic>
+<option>Error of Omission; the Trial Balance will not tally.</option>
+<option>Error of Principle; the Trial Balance will tally.</option>
+<option>Error of Commission; the Trial Balance will tally.</option>
+<option>Compensating Error; the Trial Balance will not tally.</option>
+<answer>Error of Commission; the Trial Balance will tally.</answer>
+<explanation>Why (C) is correct: Posting an amount to the wrong account but on the correct side (credit side) and with the correct monetary value is classified as an Error of Commission. Because the total debits and total credits mathematically remain equal, this error will not prevent the Trial Balance from tallying. Why (A) is incorrect: An error of omission implies a transaction was completely or partially left out of the books. Here, the entry was posted, just to the wrong personal account. Why (B) is incorrect: An error of principle occurs when fundamental accounting rules are violated (e.g., treating a capital expenditure as a revenue expense), not when a simple posting mix-up happens between two personal accounts. Why (D) is incorrect: A compensating error requires two or more independent errors that happen to cancel out each other's effect on the debit and credit totals. This scenario describes a single posting error.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best represents the relationship between the Dual Aspect Concept and the Trial Balance?</text>
+<topic>TRIAL BALANCE</topic>
+<option>The Trial Balance classifies all assets and liabilities to prove the business owns what it owes.</option>
+<option>For every debit, there must be an equivalent credit, ensuring the sum of debit balances equals the sum of credit balances in the Trial Balance.</option>
+<option>The Trial Balance records both cash and accrual transactions simultaneously.</option>
+<option>The Trial Balance requires keeping two separate ledgers for every account.</option>
+<answer>For every debit, there must be an equivalent credit, ensuring the sum of debit balances equals the sum of credit balances in the Trial Balance.</answer>
+<explanation>Why (B) is correct: The dual aspect concept guarantees that every transaction generates equal and opposite debits and credits, which naturally results in the agreement of the Trial Balance. Why (A) is incorrect: This describes the fundamental accounting equation and Balance Sheet, not the mechanical checking of the Trial Balance. Why (C) is incorrect: This relates to the Accrual concept. Why (D) is incorrect: The double-entry system does not mean keeping two separate ledgers per account; it means a transaction has a two-fold effect across different accounts</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the preparation of Financial Statements:
+Statement I: Financial statements are intended to show the profitability of the business and not that of its owner.
+Statement II: A proper distinction must be made between capital and revenue receipts and payments.
+Statement III: Only the effect of transactions concluded before the close of the period of account should be adjusted in the accounts of the year.
+Which of the above statements are correct?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1, 2, and 3</answer>
+<explanation>Why (D) is correct: All three statements outline the basic principles of accumulating data for final accounts. Personal income must be separated from business income, capital and revenue must be distinguished, and only concluded transactions are recorded. Why (A) is incorrect: It excludes Statement III, which correctly describes the cut-off principle for transactions. Why (B) is incorrect: It excludes Statement I, which correctly describes the business entity principle applied to financial statements. Why (C) is incorrect: It excludes Statement II, which is a fundamental requirement for accurate profit measurement.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the Closing Stock appears within the Trial Balance, what is its correct accounting treatment in the final accounts?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>It is credited to the Trading Account and shown on the Assets side of the Balance Sheet.</option>
+<option>It is debited to the Trading Account and shown on the Liabilities side of the Balance Sheet.</option>
+<option>It is not entered in the Trading Account but shown only on the Assets side of the Balance Sheet.</option>
+<option>It is deducted from Purchases in the Trading Account and ignored in the Balance Sheet.</option>
+<answer>It is not entered in the Trading Account but shown only on the Assets side of the Balance Sheet.</answer>
+<explanation>Why (C) is correct: If Closing Stock appears in the Trial Balance, it means it has already been adjusted to arrive at the Cost of Goods Sold (Adjusted Purchases). Therefore, it is shown only in the Balance Sheet as an asset. Why (A) is incorrect: This is the treatment for closing stock given as an adjustment outside the Trial Balance. Why (B) is incorrect: Closing stock is an asset, never a liability, and is never debited to the Trading Account. Why (D) is incorrect: It must be shown in the Balance Sheet as it represents an existing asset.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best illustrates the application of the Matching Principle in the preparation of financial statements?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Expenditure incurred on machinery is fully charged to the Profit and Loss Account in the year of purchase.</option>
+<option>The cost of goods remaining unsold at the end of the accounting period is carried forward as closing inventory.</option>
+<option>An advance received from a customer for services to be provided next year is recognized as income in the current year.</option>
+<option>The entire cost of a building is charged as an expense in the year in which it is purchased.</option>
+<answer>The cost of goods remaining unsold at the end of the accounting period is carried forward as closing inventory.</answer>
+<explanation>Why (B) is correct:
+Unsold goods are carried forward as closing inventory so that their cost is matched with the revenue of the period in which they are sold.
+Why (A) is incorrect:
+Machinery benefits more than one accounting period; its cost is allocated over its useful life through depreciation.
+Why (C) is incorrect:
+Income relating to a future period is not recognized as current-year income.
+Why (D) is incorrect:
+A building provides benefits over several periods, so its cost is allocated through depreciation rather than fully expensed immediately.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Adjusted Purchases are calculated as Opening Stock + Net Purchases + Direct Expenses – Closing Stock.
+Statement II: When Adjusted Purchases are given in the Trial Balance, the Opening Stock will not appear in the Trial Balance.
+Choose the most appropriate answer:</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</answer>
+<explanation>Why (B) is correct: Both statements are factual. Adjusted purchases equal Cost of Goods Sold. Because opening and closing stocks are already adjusted within this figure, opening stock does not appear in the Trial Balance. However, Statement II is a consequence of the accounting mechanism, not an explanation of the formula in Statement I. Why (A) is incorrect: Statement II is the result of the calculation in Statement I, not the theoretical explanation for it. Why (C) is incorrect: Statement II is factually correct. Why (D) is incorrect: Statement I provides the accurate formula for Adjusted Purchases.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business entity distributes goods costing Rs. 8,000 as free samples for advertising. What is the correct adjusting entry for this transaction?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Debit Purchases Account Rs. 8,000; Credit Advertisement Account Rs. 8,000</option>
+<option>Debit Advertisement Account Rs. 8,000; Credit Sales Account Rs. 8,000</option>
+<option>Debit Advertisement Account Rs. 8,000; Credit Purchases Account Rs. 8,000</option>
+<option>Debit Sales Account Rs. 8,000; Credit Advertisement Account Rs. 8,000</option>
+<answer>Debit Advertisement Account Rs. 8,000; Credit Purchases Account Rs. 8,000</answer>
+<explanation>Why (C) is correct: When goods are distributed as free samples, it increases advertising expense (debit) and reduces the goods purchased for resale at cost price, so Purchases Account is credited. Why (A) is incorrect: It reverses the correct debit and credit rules for expenses and asset reduction. Why (B) is incorrect: Sales account is not credited because the goods were not sold at a selling price; they were distributed free. Why (D) is incorrect: Sales account is not involved, and Advertisement is an expense, so it must be debited.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items:
+1. Patents and Trademarks
+2. Discount on issue of Debentures
+3. Accounts Receivables
+4. Deferred Revenue Expenditure
+Which of the above are classified as 'Fictitious Assets' in the Balance Sheet?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2, and 4 only</option>
+<option>2, 3, and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Fictitious assets are not tangible possessions but debit balances not yet written off, such as deferred revenue expenditure and discount on issue of debentures. Why (A) is incorrect: Patents are intangible assets, and accounts receivables are current assets. Why (C) is incorrect: Patents and trademarks are intangible assets with real value, not fictitious. Why (D) is incorrect: Accounts receivable are actual claims representing current assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>While preparing the Trading Account, which of the following items is NOT shown by way of deduction from the amount of Purchases?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Goods withdrawn by the proprietor for personal use</option>
+<option>Goods given as charity</option>
+<option>Goods sold on approval basis and not yet confirmed</option>
+<option>Purchase Returns (Return Outwards)</option>
+<answer>Goods sold on approval basis and not yet confirmed</answer>
+<explanation>Why (C) is correct: Goods sold on approval but not yet confirmed are excluded from Sales and included in Closing Stock, they are not deducted from Purchases. Why (A) is incorrect: Goods withdrawn for personal use reduce the goods available for resale and are deducted from purchases. Why (B) is incorrect: Goods given as charity reduce purchases. Why (D) is incorrect: Purchase returns are explicitly deducted from total purchases to arrive at net purchases.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the marshalling of a Balance Sheet:
+Statement I: Marshalling refers to the arrangement of assets and liabilities in a particular order.
+Statement II: In the order of permanence, Current Assets are presented at the top and Fixed Assets at the bottom.
+Which of the following statements is/are incorrect?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>Both 1 and 2</option>
+<option>Neither 1 nor 2</option>
+<answer>2 only</answer>
+<explanation>Why (B) is correct: Statement II is incorrect. In the order of permanence, Fixed Assets are shown at the top and Current Assets at the bottom. Why (A) is incorrect: Statement I is completely correct; marshalling means ordering assets and liabilities. Why (C) is incorrect: Statement I is correct, so "Both" cannot be the answer. Why (D) is incorrect: Statement II is factually incorrect, so "Neither" is wrong.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>How is a Contingent Liability generally presented in the financial statements?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>As a Current Liability in the Balance Sheet</option>
+<option>As a Long-term Liability in the Balance Sheet</option>
+<option>As an expense in the Profit and Loss Account</option>
+<option>Disclosed in the notes to the financial statements.</option>
+<answer>Disclosed in the notes to the financial statements.</answer>
+<explanation>Why (D) is correct: A contingent liability becomes an actual liability only upon the happening of an uncertain future event. It is not shown within the Balance Sheet but is disclosed in the notes to the financial statements. Why (A) is incorrect: It is not a guaranteed short-term obligation, so it cannot be a current liability. Why (B) is incorrect: It is not a confirmed long-term debt. Why (C) is incorrect: It is not a realized or accrued expense of the current period.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following combinations correctly represents "Non-trading Income" credited to the Profit and Loss Account?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Dividend on shares, Interest on bank deposits, Rent of property let-out</option>
+<option>Profit on sale of machinery, Discount received, Commission received</option>
+<option>Sales revenue, Closing stock, Commission received</option>
+<option>Interest on loans to employees, Profit on sale of investment, Carriage outward</option>
+<answer>Dividend on shares, Interest on bank deposits, Rent of property let-out</answer>
+<explanation>Why (A) is correct: Non-trading incomes include interest on bank deposits, loans to employees, dividend on shares, and rent of property let-out. Why (B) is incorrect: Profit on sale of machinery is not a normal non-trading income item of the type listed in option A; it arises from disposal of a fixed asset and is dealt with separately from ordinary operating/trading income. Why (C) is incorrect: Sales revenue and closing stock belong to the Trading Account, not the P&amp;L. Why (D) is incorrect: Carriage outward is a selling and distribution expense, not an income.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business paid Rs. 50,000 as rent for the year, but Rs. 14,000 is still outstanding. What will be the accounting impact of this adjustment in the final accounts?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Rs. 50,000 is debited to P&amp;L A/c; Rs. 14,000 is shown as an Asset.</option>
+<option>Rs. 64,000 is debited to P&amp;L A/c; Rs. 14,000 is shown as a Current Liability.</option>
+<option>Rs. 36,000 is debited to P&amp;L A/c; Rs. 14,000 is shown as a Current Liability.</option>
+<option>Rs. 64,000 is debited to P&amp;L A/c; Rs. 14,000 is deducted from Capital.</option>
+<answer>Rs. 64,000 is debited to P&amp;L A/c; Rs. 14,000 is shown as a Current Liability.</answer>
+<explanation>Why (B) is correct: According to the matching principle, the total rent expense for the year (50,000 paid + 14,000 accrued) = 64,000 is debited to P&amp;L A/c. The outstanding 14,000 is a legal obligation and shown as a liability in the Balance Sheet. Why (A) is incorrect: Outstanding rent is an unpaid expense, making it a liability, not an asset. Why (C) is incorrect: Outstanding expenses must be added to the paid amount, not deducted. Why (D) is incorrect: It is shown as a separate current liability, not directly deducted from Capital in the presentation.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding Provision for Discount on Debtors:
+Statement I: It is created to account for cash discounts that will likely be allowed to debtors in the next accounting period.
+Statement II: It is calculated on the total gross amount of Sundry Debtors before deducting the Provision for Doubtful Debts.
+Which of the above statements is/are correct?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>Both 1 and 2</option>
+<option>Neither 1 nor 2</option>
+<answer>1 only</answer>
+<explanation>Why (A) is correct: Statement I is correct as the provision charges the anticipated discount expense to the period in which sales occurred. Why (B) is incorrect: Statement II is incorrect. The provision for discount is calculated after deducting further bad debts and the provision for doubtful debts, because discounts are only offered to good debtors expected to pay. Why (C) is incorrect: Statement II is completely flawed conceptually. Why (D) is incorrect: Statement I is factually correct.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a machine is purchased, the portion of its cost used to earn revenue in the current year is treated as ____ and charged to the ____.</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Capital Expenditure; Balance Sheet</option>
+<option>Revenue Expenditure; Trading Account</option>
+<option>Depreciation; Profit and Loss Account</option>
+<option>Abnormal Loss; Profit and Loss Account</option>
+<answer>Depreciation; Profit and Loss Account</answer>
+<explanation>Why (C) is correct: The part of a fixed asset's cost attributable to the current year is considered depreciation and debited to the P&amp;L Account as per the Matching Principle. Why (A) is incorrect: The consumed portion is an expense, while the unconsumed remainder stays in the Balance Sheet as a capital asset. Why (B) is incorrect: Asset depreciation is an indirect expense, so it goes to P&amp;L, not the Trading Account. Why (D) is incorrect: Depreciation is a normal operating expense representing wear and tear, not an abnormal loss.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If a debtor, whose account was previously written off as bad, unexpectedly pays Rs. 5,000, what is the correct journal entry to record this recovery?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Debit Cash A/c; Credit Debtor's Personal A/c</option>
+<option>Debit Debtor's Personal A/c; Credit Bad Debts Recovered A/c</option>
+<option>Debit Cash A/c; Credit Bad Debts Recovered A/c</option>
+<option>Debit Bad Debts A/c; Credit Cash A/c</option>
+<answer>Debit Cash A/c; Credit Bad Debts Recovered A/c</answer>
+<explanation>Why (C) is correct: When an irrecoverable amount is recovered, the debtor's personal account no longer exists in the books. The receipt is a gain, so Cash A/c is debited and Bad Debts Recovered A/c is credited. Why (A) is incorrect: The debtor's account was already closed when the bad debt was written off. Why (B) is incorrect: Cash is received, so Cash A/c must be debited, not the debtor's account. Why (D) is incorrect: This reverses the fundamental rules of debiting assets (cash coming in) and crediting gains.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following errors/adjustments requires the creation of a "Suspense Account" in the Trial Balance?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>When an entire transaction is completely omitted from the journal.</option>
+<option>When closing stock is given outside the Trial Balance.</option>
+<option>When the total of the debit balances does not equal the total of the credit balances.</option>
+<option>When depreciation is to be charged on an asset.</option>
+<answer>When the total of the debit balances does not equal the total of the credit balances.</answer>
+<explanation>Why (C) is correct: A Suspense Account is a temporary account used to force the Trial Balance to tally when the debit and credit totals differ and the errors cannot be immediately located. Why (A) is incorrect: Complete omission affects both sides equally, so the Trial Balance will still tally. Why (B) is incorrect: Closing stock outside the Trial Balance is a standard adjustment, not an error causing a mismatch. Why (D) is incorrect: Charging depreciation is a normal adjustment processed via journal entries, not a Trial Balance error.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the correct classification of "Carriage Inward" and "Carriage Outward" in the Final Accounts.</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Both are debited to the Trading Account.</option>
+<option>Carriage Inward is debited to Trading Account; Carriage Outward is debited to Profit &amp; Loss Account.</option>
+<option>Carriage Inward is debited to P&amp;L Account; Carriage Outward is debited to Trading Account.</option>
+<option>Both are debited to the Profit &amp; Loss Account.</option>
+<answer>Carriage Inward is debited to Trading Account; Carriage Outward is debited to Profit &amp; Loss Account.</answer>
+<explanation>Why (B) is correct: Carriage inward is a direct expense incurred to bring goods into a saleable condition and is debited to the Trading A/c. Carriage outward is a selling/distribution expense debited to the P&amp;L A/c. Why (A) is incorrect: Carriage outward relates to sales, not purchases, so it is indirect. Why (C) is incorrect: It reverses the correct theoretical treatment of these two expenses. Why (D) is incorrect: Carriage inward is a direct purchasing expense, not an indirect administrative/selling cost.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>An enterprise has the following items in its Trial Balance:
+1. Audit Fees
+2. Telephone Charges
+3. Provision for Bad Debts
+4. Interest on Loans
+Which of these are classified as "Management Expenses" in the Profit &amp; Loss Account?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 and 2 only</option>
+<option>2 and 4 only</option>
+<option>1, 2, and 3</option>
+<option>3 and 4 only</option>
+<answer>1 and 2 only</answer>
+<explanation>Why (A) is correct: Management expenses are incurred for day-to-day administration and include audit fees, telephone charges, printing, and salaries. Why (B) is incorrect: Interest on loans is classified as a "Financial Expense," not a management expense. Why (C) is incorrect: Provision for bad debts is classified under "Selling and Distribution expenses". Why (D) is incorrect: These represent selling and financial expenses respectively.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: A Balance Sheet is only a statement and not an account, meaning it has no debit or credit side.
+Statement II: A Balance Sheet is prepared for a particular accounting period to measure the performance over that period.
+Choose the most appropriate answer:</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is accurate; a Balance Sheet is a statement with "Assets" and "Liabilities" headings, not Dr/Cr. Statement II is incorrect because a Balance Sheet is prepared at a particular point of time (as on a given date), not for a period. Why (A) is incorrect: Statement II represents the definition of an Income Statement, not a Position Statement. Why (B) is incorrect: Statement I is a fundamental characteristic of a Balance Sheet. Why (D) is incorrect: Statement I is fully correct, and II is false.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If an entrepreneur sells an old office furniture piece at a loss, where should this loss be recorded in the final accounts?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Debited to the Trading Account as a direct loss</option>
+<option>Deducted from Sales in the Trading Account</option>
+<option>Debited to the Profit &amp; Loss Account as an Abnormal Loss</option>
+<option>Ignored in P&amp;L and only deducted from the asset value in the Balance Sheet</option>
+<answer>Debited to the Profit &amp; Loss Account as an Abnormal Loss</answer>
+<explanation>Why (C) is correct: A loss arising on disposal of a fixed asset is recognized in the Profit and Loss Account. It is not included in the Trading Account because the fixed asset is not goods held for resale. Why (A) is incorrect: The Trading Account is strictly for buying and selling of goods, not fixed assets. Why (B) is incorrect: Sale of fixed assets is excluded from trading sales entirely. Why (D) is incorrect: While the asset is removed from the Balance Sheet, the loss incurred must be accounted for in the P&amp;L.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Income received in advance (e.g., magazine subscriptions received for the next year) should be treated as:</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Current year's revenue and credited to the Trading Account.</option>
+<option>An asset in the Balance Sheet since cash is received.</option>
+<option>A liability in the Balance Sheet and credited to the Profit and Loss Account of the next year.</option>
+<option>A deduction from Capital in the Balance Sheet.</option>
+<answer>A liability in the Balance Sheet and credited to the Profit and Loss Account of the next year.</answer>
+<explanation>Why (C) is correct: According to the matching principle, income received for work to be done next year belongs to the next year. It is a liability in the current Balance Sheet and will be credited to next year's P&amp;L. Why (A) is incorrect: It violates the accrual/matching principle by recognizing unearned income. Why (B) is incorrect: While the cash received increases assets, the obligation to provide the service makes the advance itself a liability. Why (D) is incorrect: It does not reduce the owner's capital; it establishes an external obligation.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items regarding a business's final accounts:
+1. Income Tax paid by the proprietor
+2. Life Insurance Premium of the proprietor
+3. Wages paid to factory workers
+Which of the above must be separated from business expenses to ascertain true business profitability?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 only</option>
+<option>1 and 2 only</option>
+<option>2 and 3 only</option>
+<option>1, 2, and 3</option>
+<answer>1 and 2 only</answer>
+<explanation>Why (B) is correct: To show the profitability of the business and not the owner, personal expenses like the proprietor's Income Tax and Life Insurance must be treated as Drawings and separated from business expenses. Why (A) is incorrect: It misses item 2, which is also a personal expense. Why (C) is incorrect: Wages to factory workers are a legitimate direct business expense (Trading A/c). Why (D) is incorrect: Factory wages must be included to ascertain Gross Profit.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When preparing the Trading Account, how are "Returns Inward" treated?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Added to Purchases on the debit side</option>
+<option>Deducted from Purchases on the debit side</option>
+<option>Deducted from Sales on the credit side</option>
+<option>Added to Sales on the credit side</option>
+<answer>Deducted from Sales on the credit side</answer>
+<explanation>Why (C) is correct: "Returns Inward" refers to Sales Returns (goods returned by customers). They are deducted from total Sales in the inner column to show Net Sales in the outer credit column. Why (A) is incorrect: Returns inward have no relationship with purchases. Why (B) is incorrect: Deduction from purchases applies to "Returns Outward" (Purchase Returns). Why (D) is incorrect: It reduces gross sales, so it must be deducted, not added.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business discovers that some inventory is obsolete and its net realizable value has fallen below its cost price. According to accounting principles, this inventory should be:</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Valued at cost price to maintain consistency.</option>
+<option>Valued at net realizable value, and the loss should be provided for.</option>
+<option>Excluded from the Balance Sheet entirely.</option>
+<option>Valued at the original selling price to anticipate future recovery.</option>
+<answer>Valued at net realizable value, and the loss should be provided for.</answer>
+<explanation>Why (B) is correct: Based on the principle of conservatism, closing stock is valued at cost or market price (net realizable value), whichever is less. If value falls below cost, the loss must be provided for. Why (A) is incorrect: Consistency does not override conservatism when an asset's value is permanently impaired. Why (C) is incorrect: It still holds some realizable value, so it must be reported in the Balance Sheet. Why (D) is incorrect: Conservatism explicitly forbids anticipating profits or overvaluing assets.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>The entries made in the journal at the end of the year to transfer the balances of various nominal accounts to the Trading and Profit &amp; Loss Accounts are called:</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Adjusting Entries</option>
+<option>Opening Entries</option>
+<option>Closing Entries</option>
+<option>Rectifying Entries</option>
+<answer>Closing Entries</answer>
+<explanation>Why (C) is correct: Closing entries are passed at the end of the year to close expense and revenue accounts by transferring them to the Trading and Profit &amp; Loss Accounts. Why (A) is incorrect: Adjusting entries are for unrecorded items like outstanding expenses or depreciation, not for emptying nominal accounts. Why (B) is incorrect: Opening entries bring forward the balances of real and personal accounts from the previous year. Why (D) is incorrect: Rectifying entries correct accounting errors.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is an example of a "Current Liability"?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>10-year Bank Loan</option>
+<option>Debentures issued by the company</option>
+<option>Trade Creditors</option>
+<option>Deferred Revenue Expenditure</option>
+<answer>Trade Creditors</answer>
+<explanation>Why (C) is correct: Current liabilities are short-term obligations generally due and payable within one year, such as trade creditors and bills payable. Why (A) is incorrect: A 10-year bank loan is a long-term liability. Why (B) is incorrect: Debentures are classic examples of long-term liabilities. Why (D) is incorrect: Deferred revenue expenditure is a fictitious asset, not a liability.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The Gross Loss from the Trading Account is transferred to the credit side of the Profit and Loss Account.
+Statement II: The Net Profit from the Profit and Loss Account is transferred to the debit side of the Capital Account.
+Which of the following statements is/are incorrect?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>1 only</option>
+<option>2 only</option>
+<option>Both 1 and 2</option>
+<option>Neither 1 nor 2</option>
+<answer>Both 1 and 2</answer>
+<explanation>Why (C) is correct: Both statements are incorrect. Gross Loss is transferred to the debit side of the P&amp;L Account. Net Profit is transferred to the credit side of the Capital Account (added to capital). Why (A) is incorrect: Statement II is also factually incorrect. Why (B) is incorrect: Statement I is also factually incorrect. Why (D) is incorrect: Since both are wrong, saying neither is incorrect is false.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A practical scenario: At the end of the year, a firm determines that wages of Rs. 5,000 for December have accrued but remain unpaid. What is the impact of this on the Accounting Equation?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Assets decrease by Rs. 5,000; Capital decreases by Rs. 5,000.</option>
+<option>Liabilities increase by Rs. 5,000; Capital decreases by Rs. 5,000.</option>
+<option>Assets increase by Rs. 5,000; Liabilities increase by Rs. 5,000.</option>
+<option>Capital increases by Rs. 5,000; Liabilities decrease by Rs. 5,000.</option>
+<answer>Liabilities increase by Rs. 5,000; Capital decreases by Rs. 5,000.</answer>
+<explanation>Why (B) is correct: Outstanding wages represent an expense incurred, which reduces Capital by Rs. 5,000. Simultaneously, it is an unpaid obligation, which increases Liabilities by Rs. 5,000. Assets remain unchanged. The equation holds (0 = +5000 - 5000). Why (A) is incorrect: Cash hasn't been paid yet, so assets do not decrease. Why (C) is incorrect: No asset is acquired through unpaid wages. Why (D) is incorrect: Expenses reduce capital; they do not increase it.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following would NOT appear in the Profit and Loss Account of a business?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Bad debts recovered</option>
+<option>Depreciation on office building</option>
+<option>Purchase of a new delivery van</option>
+<option>Audit fees</option>
+<answer>Purchase of a new delivery van</answer>
+<explanation>Why (C) is correct: A delivery van is a fixed asset (capital expenditure) and will appear in the Balance Sheet, not in the P&amp;L Account. Only its annual depreciation would go to P&amp;L. Why (A) is incorrect: Bad debts recovered is a gain and is credited to the P&amp;L A/c. Why (B) is incorrect: Depreciation is an indirect maintenance expense debited to P&amp;L. Why (D) is incorrect: Audit fees are administrative expenses debited to P&amp;L.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Identify the incorrect statement regarding the classification of assets.</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Goodwill and Patents are examples of Intangible Assets.</option>
+<option>Cash and Bank balances are examples of Current Assets.</option>
+<option>Fixed assets are readily convertible into cash in the normal course of business operations.</option>
+<option>Contingent assets are not recognized as actual assets until a specific event happens.</option>
+<answer>Fixed assets are readily convertible into cash in the normal course of business operations.</answer>
+<explanation>Why (C) is correct: The statement is incorrect. Fixed assets are acquired for use in business operations and are explicitly not readily convertible into cash in the normal course of business. Why (A) is incorrect: This is a true statement; goodwill and patents lack physical volume. Why (B) is incorrect: This is a true statement; cash is a highly liquid current asset. Why (D) is incorrect: This is a true statement; contingent assets depend on uncertain future events.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business receives Rs. 45,000 as Interest on Government Loans. The accountant determines that another Rs. 15,000 interest has accrued but has not yet been received. How is this recorded in the financial statements?</text>
+<topic>Financial Statements - Trading Account, Profit &amp; Loss Account &amp; Balance Sheet</topic>
+<option>Credit P&amp;L A/c with Rs. 45,000; show Rs. 15,000 as a Liability.</option>
+<option>Credit P&amp;L A/c with Rs. 60,000; show Rs. 15,000 as an Asset.</option>
+<option>Credit P&amp;L A/c with Rs. 30,000; show Rs. 15,000 as an Asset.</option>
+<option>Debit P&amp;L A/c with Rs. 15,000; show Rs. 45,000 as a Liability.</option>
+<answer>Credit P&amp;L A/c with Rs. 60,000; show Rs. 15,000 as an Asset.</answer>
+<explanation>Why (B) is correct: The total earned income for the period is Rs. 60,000 (45,000 received + 15,000 accrued). This total must be credited to the P&amp;L A/c. The accrued portion (Rs. 15,000) is a receivable, thus shown as an Asset in the Balance Sheet. Why (A) is incorrect: It understates income and misclassifies a receivable as an obligation (liability). Why (C) is incorrect: Accrued income must be added to the received amount, not deducted from it. Why (D) is incorrect: Income is credited to P&amp;L, not debited, and accrued income is an asset, not a liability.</explanation>
+</question>
+
+
+
+
+
+
+
+
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>What does a "Debit balance as per cash book" signify in the context of bank reconciliation?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Overdraft balance as per passbook</option>
+<option>Favourable balance indicating deposits in the bank</option>
+<option>Unfavourable balance as per cash book</option>
+<option>Excess amount withdrawn over deposits</option>
+<answer>Favourable balance indicating deposits in the bank</answer>
+<explanation>Why (B) is correct: A debit balance as per the cash book means the balance of deposits held at the bank, which is a favourable balance. Why (A) is incorrect: An overdraft as per passbook corresponds to a debit balance in the passbook, which equals a credit balance in the cash book. Why (C) is incorrect: An unfavourable balance as per the cash book is represented by a credit balance, not a debit balance. Why (D) is incorrect: Excess amount withdrawn over the amount deposited represents a bank overdraft, which is a credit balance in the cash book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following best describes a bank passbook?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>A record of petty cash transactions maintained by the firm</option>
+<option>A copy of a bank account as shown by the bank records</option>
+<option>A subsidiary book for recording credit purchases</option>
+<option>An internal ledger account maintained by the firm for debtors</option>
+<answer>A copy of a bank account as shown by the bank records</answer>
+<explanation>Why (B) is correct: A bank statement or a bank passbook is a copy of a bank account as shown by the bank records. Why (A) is incorrect: Petty cash transactions are recorded in a petty cash book, not a bank passbook. Why (C) is incorrect: Credit purchases are recorded in the purchases day book. Why (D) is incorrect: The passbook is maintained by the bank, not as an internal ledger for debtors by the firm.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the timing differences in Bank Reconciliation:
+Statement I: Cheques issued but not yet presented for payment decrease the cash book balance immediately.
+Statement II: Cheques issued but not yet presented for payment decrease the passbook balance immediately.
+Statement III: Cheques paid into the bank but not yet cleared increase the cash book balance immediately.
+Statement IV: Direct debits made by the bank increase the passbook balance.
+Which of the above statements are correct?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 2 only</option>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 3 and 4 only</option>
+<answer>1 and 3 only</answer>
+<explanation>Why (B) is correct: Statements I and III are correct. When cheques are issued, they are immediately entered on the credit side of the cash book (decreasing balance), and cheques received are immediately recorded on the debit side (increasing balance). Why (A) is incorrect: Statement II is incorrect because the bank debits the account only when cheques are actually paid by the bank, causing a time lag. Why (C) is incorrect: Statement IV is incorrect because direct debits (like bank charges) deduct amounts, thereby decreasing the passbook balance. Why (D) is incorrect: Statement IV is incorrect, making this combination invalid.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the starting point of the Bank Reconciliation Statement is the "Credit balance as per pass book", what adjustment is required for "Cheques issued but not presented for payment"?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>It should be added to the passbook balance</option>
+<option>It should be deducted from the passbook balance</option>
+<option>It should be ignored</option>
+<option>It requires adjustment in the cash book only</option>
+<answer>It should be deducted from the passbook balance</answer>
+<explanation>Why (B) is correct: A credit balance as per passbook is a favourable balance. Cheques issued decrease the cash book balance but have not yet decreased the passbook. To reconcile the passbook balance with the cash book, the amount must be deducted from the passbook balance. Why (A) is incorrect: Adding the amount would increase the difference instead of reconciling it with the cash book balance. Why (C) is incorrect: It is a primary timing difference causing a mismatch and cannot be ignored. Why (D) is incorrect: Timing differences like unpresented cheques are taken to the bank reconciliation statement, not adjusted in the cash book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the preparation of an Adjusted Cash Book:
+Statement I: All errors committed by the bank are rectified in the adjusted cash book.
+Statement II: Omissions such as bank charges recorded only in the passbook are taken into the adjusted cash book.
+Statement III: Delay in recording in the passbook due to timing differences is adjusted in the cash book.
+Statement IV: Dishonour of cheques is considered for adjusting the cash book.
+Which of the following statements is/are incorrect?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>3 only</option>
+<option>1, 3 and 4 only</option>
+<answer>1 and 3 only</answer>
+<explanation>Why (A) is correct: Statements I and III are incorrect. Errors occurring in the passbook are not to be adjusted in the cash book, and timing differences (like unpresented cheques) are taken only to the BRS, not the adjusted cash book. Why (B) is incorrect: Statements II and IV are correct. Omissions like bank charges and dishonoured cheques are recorded in the adjusted cash book. Why (C) is incorrect: While statement III is incorrect, statement I is also incorrect. Thus, option C is incomplete. Why (D) is incorrect: Statement IV is correct, making this option incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: Errors occurring in the passbook are not to be adjusted in the cash book while preparing an adjusted cash book.
+Statement II: The cash book is the firm's record, and the firm cannot rectify errors made by the bank in its own books.
+Choose the most appropriate answer:</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: Both statements are accurate, and Statement II explains Statement I. The firm only adjusts its cash book for its own errors or omissions (like unrecorded bank charges). Bank errors are timing differences meant for the BRS. Why (B) is incorrect: Statement II logically explains the reasoning behind the rule stated in Statement I. Why (C) is incorrect: Statement II is factually correct as the firm has no authority to alter bank records in its own cash book adjustments. Why (D) is incorrect: Statement I is explicitly stated as a rule: "Errors occurring in the passbook are not to be adjusted in the cash book".</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business discovers that a customer has directly deposited Rs. 5,000 into the firm's bank account, but no intimation was received by the firm prior to receiving the bank statement. If the starting point is "Debit balance as per cash book," what is the accounting impact on the BRS?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>The amount is deducted from the cash book balance.</option>
+<option>The amount is added to the cash book balance.</option>
+<option>The amount is added to the passbook balance.</option>
+<option>The amount is ignored as it is an error by the bank.</option>
+<answer>The amount is added to the cash book balance.</answer>
+<explanation>Why (B) is correct: Direct deposits by customers increase the passbook balance. Starting with a debit (favourable) balance as per cash book, this amount must be added to match the higher passbook balance. Why (A) is incorrect: Deducting the amount would widen the gap, as the passbook balance is currently higher than the cash book balance. Why (C) is incorrect: The starting point is the cash book balance, so adjustments must be made to the cash book figure, not the passbook figure. Why (D) is incorrect: This is a timing difference/omission, not a bank error.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a firm receives a cheque from its customer and immediately records it on the debit side of the cash book, what happens to the balances before the cheque clears?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Cash book balance increases, passbook balance remains unaffected.</option>
+<option>Passbook balance increases, cash book balance remains unaffected.</option>
+<option>Both cash book and passbook balances increase simultaneously.</option>
+<option>Both cash book and passbook balances decrease.</option>
+<answer>Cash book balance increases, passbook balance remains unaffected.</answer>
+<explanation>Why (A) is correct: When a firm receives cheques, they are immediately recorded on the debit side of the cash book, increasing the cash book balance. However, the bank credits the account only when the cheques are actually realized, leaving the passbook temporarily unaffected. Why (B) is incorrect: The passbook balance does not increase until the cheque is cleared. Why (C) is incorrect: The clearing process takes a few days, leading to a time gap, so they do not increase simultaneously. Why (D) is incorrect: Receiving a cheque represents an inflow, which increases the cash book balance, not decreases it.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the business starts the Bank Reconciliation Statement with a "Credit balance as per cash book" (Overdraft), what is the treatment for "Interest allowed by Bank" not yet entered in the cash book?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Add it to the cash book balance.</option>
+<option>Deduct it from the cash book overdraft balance.</option>
+<option>Add it to the passbook balance.</option>
+<option>It is an error that should not appear in the BRS.</option>
+<answer>Deduct it from the cash book overdraft balance.</answer>
+<explanation>Why (B) is correct: Interest allowed by the bank increases the bank balance, effectively reducing the firm's overdraft. When starting with an overdraft (credit balance) as per cash book, deducting this interest reconciles it with the lower overdraft in the passbook. Why (A) is incorrect: Adding it would incorrectly increase the overdraft figure in the reconciliation statement. Why (C) is incorrect: The starting point is the cash book, so adjustments apply to the cash book figure. Why (D) is incorrect: It is a valid omission/timing difference that must be reconciled.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding errors committed in recording transactions:
+Statement I: Omission of cheques deposited by the bank causes a difference between passbook and cash book balances.
+Statement II: Wrong totalling committed by the firm in the cash book requires an adjustment in the passbook.
+Statement III: Errors occurring in the passbook must be carried to the bank reconciliation statement.
+Statement IV: Wrong recording of cheques issued by the firm is a timing difference.
+Which of the following statements is/are incorrect?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2 and 4 only</option>
+<option>3 and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are incorrect. A firm cannot adjust the passbook for its own wrong totalling. Wrong recording of cheques by the firm is classified as an error, not a timing difference. Why (A) is incorrect: Statement I is correct (bank omissions cause differences), and Statement III is correct (bank errors go to BRS). Why (C) is incorrect: Statement I is correct, so it shouldn't be included in the list of incorrect statements. Why (D) is incorrect: Statement III is correct. Only II and IV are incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A cheque of Rs. 4,500 deposited into the bank was dishonoured, but no intimation was received by the firm. If a Bank Reconciliation Statement is prepared starting with a Debit balance as per passbook (Overdraft), what is the correct treatment?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Add Rs. 4,500</option>
+<option>Deduct Rs. 4,500</option>
+<option>No adjustment is required</option>
+<option>Adjust the amount in the cash book only</option>
+<answer>Deduct Rs. 4,500</answer>
+<explanation>Why (B) is correct: Dishonour of a cheque means the passbook overdraft increased (or balance decreased) because the bank debited the account. The cash book still shows a lower overdraft. To reach the cash book overdraft from the passbook overdraft, the amount of Rs. 4,500 must be deducted from the passbook overdraft. Why (A) is incorrect: Adding the amount would further increase the passbook overdraft figure, pushing it further away from the cash book figure. Why (C) is incorrect: The difference exists and must be reconciled since the firm has no entry for the dishonour. Why (D) is incorrect: While it will eventually be adjusted in the cash book, in a standard BRS starting with passbook balance, it requires a mathematical deduction.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following describes an unfavourable balance as per the cash book?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Debit balance as per passbook</option>
+<option>Debit balance as per cash book</option>
+<option>Excess amount deposited over amount withdrawn</option>
+<option>Balance of deposits held at the bank</option>
+<answer>Debit balance as per passbook</answer>
+<explanation>Why (A) is correct: An unfavourable balance as per cash book is a credit balance (overdraft), which corresponds to a debit balance as per the passbook. Why (B) is incorrect: A debit balance as per cash book represents a favourable balance. Why (C) is incorrect: Excess deposits represent a favourable balance, not an unfavourable one. Why (D) is incorrect: Balance of deposits held at the bank indicates a favourable balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The cashier prepares the Bank Reconciliation Statement to update the bank passbook.
+Statement II: The differences between the cash book and the bank passbook are caused exclusively by timing differences.
+Choose the most appropriate answer:</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are incorrect.</answer>
+<explanation>Why (B) is correct: Both statements are incorrect. The cashier prepares the BRS to reconcile the firm's cash book, not to update the bank's passbook. Furthermore, differences are caused by both timing differences AND errors, not exclusively timing differences. Why (A) is incorrect: Neither statement is factually correct according to accounting principles. Why (C) is incorrect: Statement I is incorrect because the firm cannot update the bank's passbook. Why (D) is incorrect: Statement II is incorrect because errors also cause differences.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>While preparing an Adjusted Cash Book, which of the following items is NOT considered for adjusting the cash book balance?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Direct payments made by the bank on behalf of the customer</option>
+<option>Cheques issued but not presented for payment</option>
+<option>Dishonour of discounted bills</option>
+<option>Overcasting of the receipt side of the cash book</option>
+<answer>Cheques issued but not presented for payment</answer>
+<explanation>Why (B) is correct: "Cheques issued but not presented for payment" is a timing difference. Delay in recording in the passbook due to difference in timing is taken to the BRS and not adjusted in the cash book. Why (A) is incorrect: Direct payments are omissions from the cash book and must be adjusted. Why (C) is incorrect: Dishonour of bills is an omission from the cash book and must be adjusted. Why (D) is incorrect: Overcasting is an error made by the firm, which must be rectified in the adjusted cash book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business finds that bank charges of Rs. 200 were not recorded in the cash book. If the Bank Reconciliation Statement is prepared starting with a Favourable balance as per cash book, how is this item treated?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Deducted from the cash book balance</option>
+<option>Added to the cash book balance</option>
+<option>Added to the passbook balance</option>
+<option>Ignored in the BRS</option>
+<answer>Deducted from the cash book balance</answer>
+<explanation>Why (A) is correct: Bank charges deduct money from the passbook, lowering its balance. To reconcile a favourable cash book balance with the lower passbook balance, the charges must be deducted from the cash book balance. Why (B) is incorrect: Adding the amount would falsely inflate the cash book balance further away from the passbook balance. Why (C) is incorrect: The starting point is the cash book balance, so the adjustment applies to the cash book, not the passbook. Why (D) is incorrect: It is an omission that causes a difference and must be accounted for.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following items regarding a firm's bank transactions:
+I. Cheque collection charges deducted by the bank.
+II. Interest on overdraft charged by the bank.
+III. Unpaid cheques deducted by the bank (bounced).
+What impact do these three items collectively have on the balances before they are recorded by the firm?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>They increase the cash book balance but not the passbook balance.</option>
+<option>They cause the balance as per passbook to be less than the balance as per cash book.</option>
+<option>They cause the balance as per passbook to be more than the balance as per cash book.</option>
+<option>They represent errors committed by the bank.</option>
+<answer>They cause the balance as per passbook to be less than the balance as per cash book.</answer>
+<explanation>Why (B) is correct: All three items represent direct debits made by the bank. The bank deducts these amounts from the account without the firm's immediate knowledge, making the passbook balance less than the cash book balance. Why (A) is incorrect: They do not increase the cash book balance; they decrease the passbook balance. Why (C) is incorrect: Direct debits reduce the bank balance, they do not increase it. Why (D) is incorrect: These are valid deductions (omissions/timing differences), not errors committed by the bank.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>If the firm has a "Credit balance as per passbook," what kind of balance does this represent?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Overdraft balance as per cash book</option>
+<option>Favourable balance as per passbook</option>
+<option>Unfavourable balance as per passbook</option>
+<option>Debit balance as per passbook</option>
+<answer>Favourable balance as per passbook</answer>
+<explanation>Why (B) is correct: A credit balance as per passbook represents deposits in the bank or cash at bank, which is a favourable balance. This is because the money deposited is a liability for the bank. Why (A) is incorrect: An overdraft as per cash book is a credit balance in the cash book, matching a debit balance in the passbook. Why (C) is incorrect: An unfavourable balance as per passbook is a debit balance (overdraft). Why (D) is incorrect: A credit balance cannot simultaneously be a debit balance.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A business firm has an overdraft of Rs. 10,000 as per the Cash Book. It issued cheques worth Rs. 4,000 which are not yet presented for payment. It deposited cheques worth Rs. 3,000 which are not yet cleared. What will be the overdraft balance as per the passbook?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Rs. 9,000</option>
+<option>Rs. 11,000</option>
+<option>Rs. 13,000</option>
+<option>Rs. 7,000</option>
+<answer>Rs. 9,000</answer>
+<explanation>Why (A) is correct: Starting with Overdraft as per CB = Rs. 10,000. Cheques issued but not presented (decreased CB overdraft) -&gt; Deduct Rs. 4,000. Cheques deposited but not cleared (increased CB favourable balance artificially, meaning it understated the real overdraft) -&gt; Add Rs. 3,000. Calculation: 10,000 - 4,000 + 3,000 = Rs. 9,000 Overdraft as per Passbook. Why (B) is incorrect: If the signs were reversed, the answer would be 11,000, which is incorrect application of rules. Why (C) is incorrect: Adding both items gives 17,000 (if added to 10k), which makes no logical sense here. Why (D) is incorrect: Deducting both items gives 3,000, which is mathematically incorrect based on BRS logic.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The clearing of outstation cheques generally takes more time, leading to differences between the cash book and passbook balances.
+Statement II: The bank credits the customer's account immediately upon receiving the outstation cheque, regardless of realization.
+Choose the most appropriate answer:</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is correct as outstation cheques take a few days to clear, causing timing differences. Statement II is incorrect because the bank credits the account only when the amount is actually realized, not immediately. Why (A) is incorrect: Statement II is factually incorrect. Why (B) is incorrect: Statement II is incorrect. Why (D) is incorrect: Statement I is explicitly stated in accounting texts as a valid reason for differences.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>When a firm discounts a bill of exchange with the bank, and it is subsequently dishonoured on maturity, what initial action does the bank take before the firm is aware?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>The bank credits the customer's account.</option>
+<option>The bank debits the customer's account.</option>
+<option>The bank sends the bill back without any entry.</option>
+<option>The bank adjusts the cash book of the customer.</option>
+<answer>The bank debits the customer's account.</answer>
+<explanation>Why (B) is correct: If a discounted bill is dishonoured on maturity, the bank debits the customer's account for the amount. Since this information is not immediately available, no entry is made in the cash book until the statement arrives. Why (A) is incorrect: Crediting the account would mean the bank is giving money to the customer, which is the opposite of what happens on dishonour. Why (C) is incorrect: The bank secures its funds by debiting the customer's account. Why (D) is incorrect: The bank cannot adjust the firm's cash book; only the firm can.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements regarding the starting balance of a Bank Reconciliation Statement:
+Statement I: Students can only start bank reconciliation from a debit balance as per the cash book.
+Statement II: A debit balance as per passbook means an overdraft balance.
+Statement III: A credit balance as per cash book means favourable deposits at the bank.
+Statement IV: Reconciliation can start from any of the four balances (Dr/Cr CB or Dr/Cr PB).
+Which of the following statements are correct?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 3 only</option>
+<option>2 and 4 only</option>
+<option>1, 2 and 3 only</option>
+<option>2, 3 and 4 only</option>
+<answer>2 and 4 only</answer>
+<explanation>Why (B) is correct: Statements II and IV are correct. A debit balance as per passbook is an overdraft. Reconciliation can start from any of the four balances given in a question. Why (A) is incorrect: Statement I is incorrect because reconciliation can start from any of the four balances. Statement III is incorrect because a credit balance in the cash book is an overdraft, not a favourable deposit. Why (C) is incorrect: Statements I and III are incorrect. Why (D) is incorrect: Statement III is incorrect, rendering this option false.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A firm prepares a BRS without adjusting the cash book. It starts with a "Debit balance as per Passbook" (Overdraft). The firm discovers a customer gave standing instructions, and the bank paid telephone bills of Rs. 1,500. What is the treatment?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Add Rs. 1,500</option>
+<option>Deduct Rs. 1,500</option>
+<option>Ignore it</option>
+<option>Record it only in the cash book</option>
+<answer>Deduct Rs. 1,500</answer>
+<explanation>Why (B) is correct: Direct payments by the bank decrease the passbook balance, increasing the passbook overdraft. The cash book has no record, so its overdraft is lower. To reconcile the higher passbook overdraft to the lower cash book overdraft, Rs. 1,500 must be deducted from the passbook overdraft. Why (A) is incorrect: Adding the amount would mathematically increase the passbook overdraft figure, leading away from the cash book balance. Why (C) is incorrect: It is a valid timing difference/omission that must be reconciled. Why (D) is incorrect: The premise states the BRS is prepared without adjusting the cash book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: The balance of deposits held at the bank represents a favourable balance as per the cash book.
+Statement II: Such a balance exists when the deposits made by the firm are more than its withdrawals.
+Choose the most appropriate answer:</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</option>
+<option>Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Both Statement I and Statement II are correct, and Statement II is the correct explanation of Statement I.</answer>
+<explanation>Why (A) is correct: Both statements are accurate. A favourable balance (debit balance as per cash book) occurs specifically because the deposits made by the firm exceed its withdrawals. Thus, Statement II perfectly explains Statement I. Why (B) is incorrect: Statement II is indeed the direct logical explanation for Statement I. Why (C) is incorrect: Statement II is a factual definition found in accounting literature. Why (D) is incorrect: Statement I is completely factual.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Which of the following is classified as a timing difference rather than an error?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Cheques issued but omitted to be recorded in the cash book</option>
+<option>Wrong totalling of the passbook by the bank</option>
+<option>Cheques deposited but not yet cleared by the bank</option>
+<option>Posting an entry twice in the cash book</option>
+<answer>Cheques deposited but not yet cleared by the bank</answer>
+<explanation>Why (C) is correct: Cheques deposited but not cleared represent a natural time lag between the firm recording the receipt and the bank realizing the funds, classifying it strictly as a timing difference. Why (A) is incorrect: Omission of recording an issued cheque in the cash book is an error/omission by the firm. Why (B) is incorrect: Wrong totalling by the bank is an error committed by the bank. Why (D) is incorrect: Posting an entry twice is an error committed by the firm in recording transactions.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A firm is preparing an Adjusted Cash Book. Which of the following transactions will NOT be recorded in it?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Bank interest charged on overdraft</option>
+<option>Cheque issued but not presented for payment</option>
+<option>Direct receipt by the bank from a debtor</option>
+<option>Bank charges recorded in the passbook only</option>
+<answer>Cheque issued but not presented for payment</answer>
+<explanation>Why (B) is correct: "Cheque issued but not presented for payment" is a timing difference. Such timing delays are strictly taken to the bank reconciliation statement and are never recorded in the adjusted cash book. Why (A) is incorrect: Bank interest is an omission in the cash book and must be adjusted. Why (C) is incorrect: Direct receipts are omissions in the cash book and must be brought into the adjusted cash book. Why (D) is incorrect: Bank charges are standard omissions rectified in the adjusted cash book.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements:
+Statement I: A credit balance as per the cash book indicates bank overdraft.
+Statement II: A bank overdraft means the excess amount withdrawn over the amount deposited in the bank.
+Statement III: An overdraft balance is also known as an unfavourable balance as per the passbook.
+Statement IV: A debit balance as per passbook indicates deposits held at the bank.
+Which of the following statements are correct?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 2 only</option>
+<option>1, 2 and 3 only</option>
+<option>2, 3 and 4 only</option>
+<option>1, 3 and 4 only</option>
+<answer>1, 2 and 3 only</answer>
+<explanation>Why (B) is correct: Statements I, II, and III are correct. A credit balance in the cash book is an overdraft, which is excess withdrawal, and is an unfavourable balance (which translates to a debit balance in the passbook). Why (A) is incorrect: Statement III is also correct, so limiting to 1 and 2 is incomplete. Why (C) is incorrect: Statement IV is incorrect because a debit balance as per passbook indicates an overdraft, not deposits held. Why (D) is incorrect: Statement IV is incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>While preparing a BRS starting with a "Debit balance as per Cash Book", it is found that the bank has allowed interest to the customer but it is not entered in the cash book. What is the correct adjustment?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Deduct from the cash book balance</option>
+<option>Add to the cash book balance</option>
+<option>Ignore it as it is a bank error</option>
+<option>Deduct from the passbook balance</option>
+<answer>Add to the cash book balance</answer>
+<explanation>Why (B) is correct: Interest allowed by the bank increases the passbook balance. Since the starting point is the cash book balance (which does not yet include this interest), the amount must be added to the cash book balance to match the passbook. Why (A) is incorrect: Deducting the amount would move the cash book balance in the opposite direction of the passbook balance. Why (C) is incorrect: Interest allowed is a legitimate transaction, not an error. Why (D) is incorrect: The starting point is the cash book, so the calculation adjustments apply to the cash book figure.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Statement I: When standing instructions are given to the bank to pay telephone bills, the balance as per the bank passbook would be less than the one shown in the cash book before the firm records it.
+Statement II: The firm receives intimation of such direct payments immediately and updates the cash book on the same day.
+Choose the most appropriate answer:</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Both Statement I and Statement II are correct.</option>
+<option>Both Statement I and Statement II are incorrect.</option>
+<option>Statement I is correct, but Statement II is incorrect.</option>
+<option>Statement I is incorrect, but Statement II is correct.</option>
+<answer>Statement I is correct, but Statement II is incorrect.</answer>
+<explanation>Why (C) is correct: Statement I is correct because the bank deducts the payment, lowering the passbook balance relative to the cash book. Statement II is incorrect because the firm usually comes to know about it only when the bank statement arrives, creating a time lag. Why (A) is incorrect: Statement II is factually incorrect. Why (B) is incorrect: Statement I is a correct application of BRS principles. Why (D) is incorrect: Statement I is correct and Statement II is incorrect.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>A cash book shows a favourable balance of Rs. 20,000. Cheques issued but not presented total Rs. 5,000. Bank charges not recorded in the cash book amount to Rs. 500. What is the balance as per the passbook?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>Rs. 14,500</option>
+<option>Rs. 24,500</option>
+<option>Rs. 25,500</option>
+<option>Rs. 15,500</option>
+<answer>Rs. 24,500</answer>
+<explanation>Why (B) is correct: Starting balance (Dr. CB) = 20,000. Add: Cheques issued but not presented (increases PB relative to CB) = 5,000. Less: Bank charges (decreases PB relative to CB) = 500. Calculation: 20,000 + 5,000 - 500 = Rs. 24,500 (Credit balance as per passbook). Why (A) is incorrect: This would result if you deducted the 5,000 and deducted the 500 (20,000 - 5,000 - 500 = 14,500), which is incorrect. Why (C) is incorrect: This would result if you added both (20,000 + 5,000 + 500 = 25,500), which ignores that bank charges reduce the balance. Why (D) is incorrect: This would result if you deducted the 5,000 and added the 500, reversing both rules.</explanation>
+</question>
+<question category="practice" exam="JKSSB FAA" subject="Accountancy">
+<text>Consider the following statements about adjusting the cash book before preparing a BRS:
+Statement I: All errors considered in the adjusted cash book are carried again to the bank reconciliation statement.
+Statement II: Delay in recording in the passbook due to difference in timing is taken to the bank reconciliation statement.
+Statement III: The adjusted cash book balance is taken as the starting point for the final bank reconciliation statement.
+Statement IV: Errors committed by the bank while posting entries in the passbook are adjusted in the firm's cash book.
+Which of the following statements is/are incorrect?</text>
+<topic>BANK RECONCILIATION STATEMENT</topic>
+<option>1 and 4 only</option>
+<option>2 and 3 only</option>
+<option>1 only</option>
+<option>4 only</option>
+<answer>1 and 4 only</answer>
+<explanation>Why (A) is correct: Statements I and IV are incorrect. Adjustments made in the cash book are NOT carried again to the BRS. Errors occurring in the passbook are NOT adjusted in the cash book. Why (B) is incorrect: Statements II and III are entirely correct based on the adjusted cash book method. Why (C) is incorrect: Statement IV is also incorrect, making option C incomplete. Why (D) is incorrect: Statement I is also incorrect, making option D incomplete.</explanation>
+</question>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
